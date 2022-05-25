@@ -907,6 +907,13 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.DUMP",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_WIFI_HOTSPOT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
