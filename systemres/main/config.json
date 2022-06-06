@@ -1012,6 +1012,27 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.GET_DEFAULT_APPLICATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_DEFAULT_APPLICATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_IDS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_DISPOSED_APP_STATUS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",

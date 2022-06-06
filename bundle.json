@@ -32,7 +32,7 @@
         }
     ],
     "segment": {
-        "destPath": "utils/resources/systemres"
+        "destPath": "utils/system_resources/systemres"
     },
     "component": {
         "name": "systemres",
@@ -50,7 +50,7 @@
         },
         "build": {
             "sub_component": [
-              "//utils/resources/systemres:systemres_hap"
+              "//utils/system_resources/systemres:systemres_hap"
             ],
             "inner_kits": [],
             "test": []
