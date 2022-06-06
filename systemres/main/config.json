@@ -1031,6 +1031,13 @@
                 "availableLevel": "system_core",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_DISPOSED_APP_STATUS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
