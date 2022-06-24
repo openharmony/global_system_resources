@@ -223,6 +223,13 @@
                 "description": "$string:ohos_desc_distributed_datasync"
             },
             {
+                "name": "ohos.permission.DISTRIBUTED_SOFTBUS_CENTER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": true
+            },
+            {
                 "name": "ohos.permission.MANAGE_VOICEMAIL",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",
