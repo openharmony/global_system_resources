@@ -348,42 +348,6 @@
                 "description": "$string:ohos_desc_write_media"
             },
             {
-                "name": "ohos.permission.ENROLL_BIOMETRIC",
-                "grantMode": "system_grant",
-                "availableLevel": "system_core",
-                "provisionEnable": false,
-                "distributedSceneEnable": false,
-                "label": "$string:ohos_lab_enroll_biometric",
-                "description": "$string:ohos_desc_enroll_biometric"
-            },
-            {
-                "name": "ohos.permission.ACCESS_BIOMETRIC",
-                "grantMode": "system_grant",
-                "availableLevel": "normal",
-                "provisionEnable": false,
-                "distributedSceneEnable": false,
-                "label": "$string:ohos_lab_access_biometric",
-                "description": "$string:ohos_desc_access_biometric"
-            },
-            {
-                "name": "ohos.permission.ACCESS_BIOMETRIC_INTERNAL",
-                "grantMode": "system_grant",
-                "availableLevel": "system_core",
-                "provisionEnable": false,
-                "distributedSceneEnable": false,
-                "label": "$string:ohos_lab_access_biometric_internal",
-                "description": "$string:ohos_desc_access_biometric_internal"
-            },
-            {
-                "name": "ohos.permission.RESET_BIOMETRIC_LOCKOUT",
-                "grantMode": "system_grant",
-                "availableLevel": "system_core",
-                "provisionEnable": false,
-                "distributedSceneEnable": false,
-                "label": "$string:ohos_lab_reset_biometric_lockout",
-                "description": "$string:ohos_desc_reset_biometric_lockout"
-            },
-            {
                 "name": "ohos.permission.SET_TIME",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
