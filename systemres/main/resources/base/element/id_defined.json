@@ -2883,7 +2883,7 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_corner_radius_tips_toast",
+            "name": "ohos_id_corner_radius_tips_instant_tip",
             "order": 576
         },
         {
@@ -3760,6 +3760,270 @@
             "type": "float",
             "name":"ohos_fa_text_size_huge",
             "order":751
-        }
+        },
+        {
+            "type": "theme",
+            "name":"ohos_theme",
+            "order": 752,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_button_pattern",
+            "order": 753,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_checkbox_pattern",
+            "order": 754,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_radio_pattern",
+            "order": 755,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_switch_pattern",
+            "order": 756,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_swiper_pattern",
+            "order": 757,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_toolbar_pattern",
+            "order": 758,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_data_panel_pattern",
+            "order": 759,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_toggle_pattern",
+            "order": 760,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_clock_pattern",
+            "order": 761,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_navigation_bar_pattern",
+            "order": 762,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_rating_pattern",
+            "order": 763,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_picker_pattern",
+            "order": 764,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_progress_pattern",
+            "order": 765,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_dialog_pattern",
+            "order": 766,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_stepper_pattern",
+            "order": 767,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_text_pattern",
+            "order": 768,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_toast_pattern",
+            "order": 769,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_drag_bar_pattern",
+            "order": 770,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_semi_modal_pattern",
+            "order": 771,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_camera_pattern",
+            "order": 772,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_video_pattern",
+            "order": 773,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_list_pattern",
+            "order": 774,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_list_item_pattern",
+            "order": 775,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_qrcode_pattern",
+            "order": 776,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_counter_pattern",
+            "order": 777,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_badge_pattern",
+            "order": 778,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_calendar_pattern",
+            "order": 779,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_divider_pattern",
+            "order": 780,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_focus_animation_pattern",
+            "order": 781,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_image_pattern",
+            "order": 782,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_marquee_pattern",
+            "order": 783,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_piece_pattern",
+            "order": 784,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_popup_pattern",
+            "order": 785,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_refresh_pattern",
+            "order": 786,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_scroll_bar_pattern",
+            "order": 787,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_search_pattern",
+            "order": 788,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_tab_pattern",
+            "order": 789,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_textfield_pattern",
+            "order": 790,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_text_overlay_pattern",
+            "order": 791,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_select_pattern",
+            "order": 792,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_slider_pattern",
+            "order": 793,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_grid_pattern",
+            "order": 794,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_grid_item_pattern",
+            "order": 795,
+            "flags": "private"
+         }
     ]
 }
