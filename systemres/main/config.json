@@ -1052,6 +1052,13 @@
                 "availableLevel": "system_core",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_DLP_FILE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
