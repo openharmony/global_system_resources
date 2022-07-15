@@ -4,28 +4,68 @@
             "name":"ohos_button_pattern",
             "value":[
                 {
-                    "name":"background_color",
-                    "value":"?theme:attribute_color_emphasize"
+                    "name":"bg_color",
+                    "value":"$color:ohos_id_color_emphasize"
                 },
                 {
-                    "name":"click_mask_color",
-                    "value":"?theme:attribute_color_click_effect"
+                    "name":"bg_color_clicked_blend",
+                    "value":"$color:ohos_id_color_click_effect"
                 },
                 {
-                    "name":"emphasize_button_text_color",
-                    "value":"?theme:attribute_color_text_primary_contrary"
+                    "name":"bg_color_hovered_blend",
+                    "value":"$color:ohos_id_color_hover",
                 },
                 {
-                    "name":"text_button_text_color",
-                    "value":"?theme:attribute_color_text_primary_activated"
+                    "name":"bg_color_disabled_alpha",
+                    "value":"$float:ohos_id_alpha_disabled",
+                },
+                {
+                    "name":"text_color",
+                    "value":"$color:ohos_id_color_text_primary_contrary"
+                },
+                {
+                    "name":"text_color_disabled_alpha",
+                    "value":"$float:ohos_id_alpha_disabled",
+                },
+                {
+                    "name":"normal_text_color",
+                    "value":"$color:ohos_id_color_text_primary_activated",
                 },
                 {
                     "name":"download_button_text_color",
-                    "value":"?theme:attribute_color_text_primary"
+                    "value":"$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name":"download_button_process_color",
+                    "value":"$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name":"download_button_process_color_alpha",
+                    "value":"$float:ohos_id_alpha_highlight_bg"
+                },
+                {
+                    "name":"download_button_bg_color",
+                    "value":"$color:ohos_id_color_background",
+                },
+                {
+                    "name":"download_button_bg_color_alpha",
+                    "value":"$float:ohos_id_alpha_content_fourth",
                 },
                 {
                     "name":"download_button_border_color",
-                    "value":"?theme:attribute_color_emphasize"
+                    "value":"$color:ohos_id_color_emphasize",
+                },
+                {
+                    "name":"download_button_border_color_alpha",
+                    "value":"$float:ohos_id_alpha_content_fourth",
+                },
+                {
+                    "name":"waiting_button_text_color",
+                    "value":"$color:ohos_id_color_text_primary_contrary",
+                },
+                {
+                    "name":"process_button_text_color",
+                    "value":"$color:ohos_id_color_text_primary_contrary",
                 },
                 {
                     "name":"border_color",
@@ -34,10 +74,6 @@
                 {
                     "name":"border_width",
                     "value":"0.0vp"
-                },
-                {
-                    "name":"bg_color_disabled_alpha",
-                    "value":"0.4",
                 }
             ]
         },
@@ -45,28 +81,52 @@
             "name":"ohos_switch_pattern",
             "value":[
                 {
-                    "name":"hover_effect_color",
-                    "value":"?theme:attribute_color_hover"
+                    "name": "focus_border_color",
+                    "value": "$color:ohos_id_color_component_normal"
                 },
                 {
-                    "name":"hover_effect_radius",
-                    "value":"?theme:attribute_corner_radius_clicked"
+                    "name": "hover_border_color",
+                    "value": "$color:ohos_id_color_hover"
                 },
                 {
-                    "name":"fg_color_checked",
-                    "value":"?theme:attribute_color_foreground_contrary"
+                    "name": "hover_border_radius",
+                    "value": "$float:ohos_id_corner_radius_clicked"
                 },
                 {
-                    "name":"bg_color_checked",
-                    "value":"?theme:attribute_color_emphasize"
+                    "name": "fg_color_checked",
+                    "value": "$color:ohos_id_color_foreground_contrary"
                 },
                 {
-                    "name":"fg_color_unchecked",
-                    "value":"?theme:attribute_color_component_normal"
+                    "name": "fg_color_unchecked",
+                    "value": "$color:ohos_id_color_component_normal"
                 },
                 {
-                    "name":"bg_color_unchecked",
-                    "value":"?theme:attribute_color_component_normal"
+                    "name": "bg_color_checked",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "bg_color_unchecked",
+                    "value": "$color:ohos_id_color_component_normal"
+                },
+                {
+                    "name": "fg_shadow_width",
+                    "value": "1.0vp"
+                },
+                {
+                    "name": "width",
+                    "value": "48.0vp"
+                },
+                {
+                    "name": "height",
+                    "value": "48.0vp"
+                },
+                {
+                    "name": "hotzone_padding_horizontal",
+                    "value": "6.0vp"
+                },
+                {
+                    "name": "hotzone_padding_verical",
+                    "value": "14.0vp"
                 }
             ]
         },
@@ -83,8 +143,16 @@
             "name":"ohos_badge_pattern",
             "value":[
                 {
-                    "name":"",
-                    "value":""
+                    "name":"bg_color",
+                    "value":"$color:ohos_id_color_badge_red"
+                },
+                {
+                    "name":"text_color",
+                    "value":"$color:ohos_id_color_text_primary_contrary"
+                },
+                {
+                    "name":"text_font_size",
+                    "value":"$float:ohos_id_text_size_caption"
                 }
             ]
         },
@@ -92,8 +160,56 @@
             "name":"ohos_calendar_pattern",
             "value":[
                 {
-                    "name":"",
-                    "value":""
+                    "name": "card_title_text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "card_week_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "card_day_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "card_weekend_color",
+                    "value": "$color:ohos_id_color_text_secondary"
+                },
+                {
+                    "name": "card_uncurrent_month_day_color",
+                    "value": "$color:ohos_id_color_tertiary"
+                },
+                {
+                    "name": "card_area_bg_color_focused",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "card_lunar_color",
+                    "value": "$color:ohos_id_color_text_secondary"
+                },
+                {
+                    "name": "card_weekend_lunar_color",
+                    "value": "$color:ohos_id_color_text_secondary"
+                },
+                {
+                    "name": "card_uncurrent_month_lunar_color",
+                    "value": "$color:ohos_id_color_fourth"
+                },
+                {
+                    "name": "card_today_color",
+                    "value": "$color:ohos_id_color_text_primary_contrary"
+                },
+                {
+                    "name": "card_today_lunar_color",
+                    "value": "$color:ohos_id_color_text_primary_contrary"
+                },
+                {
+                    "name": "card_mark_lunar_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "card_switch_button_bg_color_clicked",
+                    "value": "$color:ohos_id_color_click_effect"
                 }
             ]
         },
@@ -156,32 +272,36 @@
             "name":"ohos_checkbox_pattern",
             "value":[
                 {
-                    "name":"hover_effect_color",
-                    "value":"?theme:attribute_color_hover"
+                    "name": "fg_color_checked",
+                    "value": "$color:ohos_id_color_foreground_contrary"
                 },
                 {
-                    "name":"hover_effect_radius",
-                    "value":"?theme:attribute_corner_radius_clicked"
+                    "name": "bg_color_checked",
+                    "value": "$color:ohos_id_color_emphasize"
                 },
                 {
-                    "name":"border_radius",
-                    "value":"?theme:attribute_corner_radius_check_box"
+                    "name": "bg_color_unchecked",
+                    "value": "$color:ohos_id_color_switch_bg_off"
                 },
                 {
-                    "name":"fg_color_checked",
-                    "value":"?theme:attribute_color_foreground_contrary"
+                    "name": "bg_border_color_unchecked",
+                    "value": "$color:ohos_id_color_switch_outline_off"
                 },
                 {
-                    "name":"bg_color_checked",
-                    "value":"?theme:attribute_color_emphasize"
+                    "name": "focus_border_color",
+                    "value": "$color:ohos_id_color_switch_outline_off"
                 },
                 {
-                    "name":"fg_color_unchecked",
-                    "value":"?theme:attribute_color_switch_bg_off"
+                    "name": "bg_border_radius",
+                    "value":"$float:ohos_id_corner_radius_check_box"
                 },
                 {
-                    "name":"bg_color_unchecked",
-                    "value":"?theme:attribute_color_switch_outline_off"
+                    "name":"hover_border_color",
+                    "value":"$color:ohos_id_color_hover"
+                },
+                {
+                    "name":"hover_border_radius",
+                    "value":"$float:ohos_id_corner_radius_clicked"
                 }
             ]
         },
@@ -189,24 +309,28 @@
             "name":"ohos_radio_pattern",
             "value":[
                 {
-                    "name":"hover_effect_color",
-                    "value":"?theme:attribute_color_hover"
+                    "name": "hover_border_color",
+                    "value": "$color:ohos_id_color_hover"
                 },
                 {
-                    "name":"fg_color_checked",
-                    "value":"?theme:attribute_color_foreground_contrary"
+                    "name": "focus_border_color",
+                    "value": "$color:ohos_id_color_switch_outline_off"
                 },
                 {
-                    "name":"bg_color_checked",
-                    "value":"?theme:attribute_color_emphasize"
+                    "name": "fg_color_checked",
+                    "value": "$color:ohos_id_color_foreground_contrary"
                 },
                 {
-                    "name":"fg_color_unchecked",
-                    "value":"?theme:attribute_color_switch_bg_off"
+                    "name": "fg_color_unchecked",
+                    "value": "$color:ohos_id_color_switch_bg_off"
                 },
                 {
-                    "name":"bg_color_unchecked",
-                    "value":"?theme:attribute_color_switch_outline_off"
+                    "name": "bg_color_checked",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "bg_color_unchecked",
+                    "value": "$color:ohos_id_color_switch_outline_off"
                 }
             ]
         },
@@ -302,8 +426,8 @@
                     "value":"#86C1FF"
                 },
                 {
-                    "name":"track_bg_color",
-                    "value":"?theme:attribute_color_subheading_separator"
+                    "name":"bg_color",
+                    "value":"$color:ohos_id_color_subheading_separator"
                 }
             ]
         },
@@ -311,8 +435,60 @@
             "name":"ohos_dialog_pattern",
             "value": [
                 {
-                    "name": "dialog_background_color",
-                    "value": "?theme:attribute_color_dialog_bg"
+                    "name": "radius",
+                    "value": "$float:ohos_id_corner_radius_dialog"
+                },
+                {
+                    "name": "bg_color",
+                    "value": "$color:ohos_id_color_dialog_bg"
+                },
+                {
+                    "name": "title_text_color",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "title_text_font_size",
+                    "value": "$float:ohos_id_text_size_headline8"
+                },
+                {
+                    "name": "title_text_font_size_min",
+                    "value": "$float:ohos_id_text_size_headline8"
+                },
+                {
+                    "name": "content_text_font_size_min",
+                    "value": "$float:ohos_id_text_size_body1"
+                },
+                {
+                    "name": "content_text_color",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "content_text_font_size",
+                    "value": "$float:ohos_id_text_size_body1"
+                },
+                {
+                    "name": "button_bg_color",
+                    "value": "$color:ohos_id_color_dialog_bg"
+                },
+                {
+                    "name": "button_bg_color_clicked",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "common_button_bg_color",
+                    "value": "$color:ohos_id_color_button_normal"
+                },
+                {
+                    "name": "first_button_bg_color",
+                    "value": "$color:ohos_id_color_warning"
+                },
+                {
+                    "name": "first_button_text_color",
+                    "value": "$color:ohos_id_color_foreground_contrary"
+                },
+                {
+                    "name": "button_text_font_size",
+                    "value": "$float:ohos_id_text_size_button1"
                 }
             ]
         },
@@ -321,7 +497,7 @@
             "value": [
                 {
                     "name": "divider_color",
-                    "value": "?theme:attribute_color_subheading_separator"
+                    "value": "$color:ohos_id_color_subheading_separator"
                 }
             ]
         },
@@ -339,7 +515,7 @@
             "value": [
                 {
                     "name": "focus_animation_color",
-                    "value": "?theme:attribute_color_focused_outline"
+                    "value": "$color:ohos_id_color_focused_outline"
                 }
             ]
         },
@@ -348,7 +524,7 @@
             "value": [
                 {
                     "name": "fill_color",
-                    "value": "?theme:attribute_color_foreground"
+                    "value": "$color:ohos_id_color_foreground"
                 }
             ]
         },
@@ -365,8 +541,44 @@
             "name": "ohos_navigation_bar_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "title_color",
+                    "value": "$color:ohos_id_color_titlebar_text"
+                },
+                {
+                    "name": "title_text_font_size",
+                    "value": "$float:ohos_id_text_size_headline7"
+                },
+                {
+                    "name": "title_text_font_size_big",
+                    "value": "$float:ohos_id_text_size_headline6"
+                },
+                {
+                    "name": "sub_title_text_color",
+                    "value": "$color:ohos_id_color_titlebar_subtitle_text"
+                },
+                {
+                    "name": "sub_title_text_font_size",
+                    "value": "$float:ohos_id_text_size_over_line"
+                },
+                {
+                    "name": "menu_icon_color",
+                    "value": "$color:ohos_id_color_titlebar_icon"
+                },
+                {
+                    "name": "button_bg_color_pressed",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "button_bg_color_focused",
+                    "value": "$color:ohos_id_color_focused_outline"
+                },
+                {
+                    "name": "button_bg_color_hovered",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "button_corner_radius",
+                    "value": "$float:ohos_id_corner_radius_clicked"
                 }
             ]
         },
@@ -374,8 +586,44 @@
             "name": "ohos_picker_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "selected_text_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "focus_text_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "disappear_text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "title_text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "popup_bg_color",
+                    "value": "$color:ohos_id_color_dialog_bg"
+                },
+                {
+                    "name": "bg_color_focused",
+                    "value": "$color:ohos_id_color_focused_outline"
+                },
+                {
+                    "name": "divider_color",
+                    "value": "$color:ohos_id_color_list_separator"
+                },
+                {
+                    "name": "bg_color_pressed",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "bg_color_hovered",
+                    "value": "$color:ohos_id_color_hover"
                 }
             ]
         },
@@ -383,8 +631,24 @@
             "name": "ohos_piece_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "text_font_size",
+                    "value": "$float:ohos_id_text_size_button2"
+                },
+                {
+                    "name": "bg_color_hovered",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "bg_color",
+                    "value": "$color:ohos_id_color_foreground"
+                },
+                {
+                    "name": "bg_color_alpha",
+                    "value": "$float:ohos_id_alpha_inapptip_bg"
                 }
             ]
         },
@@ -392,8 +656,8 @@
             "name": "ohos_popup_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "bg_color",
+                    "value": "$color:ohos_id_color_help_tip_bg"
                 }
             ]
         },
@@ -401,8 +665,48 @@
             "name": "ohos_progress_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "bg_color",
+                    "value": "$color:ohos_id_color_component_normal"
+                },
+                {
+                    "name": "fg_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "fg_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "fg_color_cached_alpha",
+                    "value": "0.4"
+                },
+                {
+                    "name": "fg_progress_color",
+                    "value": "$color:ohos_id_color_progress"
+                },
+                {
+                    "name": "loading_progress_bg_color_alpha",
+                    "value": "0.6"
+                },
+                {
+                    "name": "moon_progress_bg_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "moon_progress_bg_color_alpha",
+                    "value": "$float:ohos_id_alpha_highlight_bg"
+                },
+                {
+                    "name": "moon_progress_bg_color_alpha_ex",
+                    "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "moon_progress_fg_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "moon_progress_fg_color_alpha",
+                    "value": "$float:ohos_id_alpha_highlight_bg"
                 }
             ]
         },
@@ -410,8 +714,16 @@
             "name": "ohos_rating_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "bg_color_hovered",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "icon_color_active",
+                    "value": "$color:ohos_id_color_palette11"
+                },
+                {
+                    "name": "icon_color_inactive",
+                    "value": "$color:ohos_id_color_component_normal"
                 }
             ]
         },
@@ -419,8 +731,20 @@
             "name": "ohos_refresh_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "text_font_size",
+                    "value": "$float:ohos_id_text_size_body2"
+                },
+                {
+                    "name": "text_color",
+                    "value": "$color:ohos_id_color_text_secondary"
+                },
+                {
+                    "name": "progress_color",
+                    "value": "$color:ohos_id_color_progress"
+                },
+                {
+                    "name": "progress_bg_color",
+                    "value": "$color:ohos_id_color_background"
                 }
             ]
         },
@@ -428,8 +752,8 @@
             "name": "ohos_scroll_bar_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "fg_color",
+                    "value": "$color:ohos_id_color_foreground"
                 }
             ]
         },
@@ -437,8 +761,24 @@
             "name": "ohos_search_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "tips_text_color",
+                    "value": "$color:ohos_id_color_text_hint"
+                },
+                {
+                    "name": "tips_text_color_focused",
+                    "value": "$color:ohos_id_color_text_hint"
+                },
+                {
+                    "name": "text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "text_color_focused",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "text_font_size",
+                    "value": "$float:ohos_id_text_size_body1"
                 }
             ]
         },
@@ -446,8 +786,44 @@
             "name": "ohos_stepper_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "border_radius",
+                    "value": "$float:ohos_id_corner_radius_clicked"
+                },
+                {
+                    "name": "padding_left",
+                    "value": "$float:ohos_id_default_padding_top"
+                },
+                {
+                    "name": "padding_right",
+                    "value": "$float:ohos_id_default_padding_end"
+                },
+                {
+                    "name": "progress_color",
+                    "value": "$color:ohos_id_color_progress"
+                },
+                {
+                    "name": "arrorw_color",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "button_bg_color_pressed",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "button_bg_color_hovered",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "button_bg_color_disabled",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "button_bg_color_disabled_alpha",
+                    "value": "$float:ohos_id_alpha_disabled"
                 }
             ]
         },
@@ -455,24 +831,28 @@
             "name":"ohos_swiper_pattern",
             "value":[
                 {
-                    "name":"indicator_color_selected",
-                    "value":"?theme:attribute_color_emphasize"
+                    "name": "indicator_color_selected",
+                    "value": "$color:ohos_id_color_emphasize"
                 },
                 {
-                    "name":"indicator_color_unselected",
-                    "value":"?theme:attribute_color_component_normal"
+                    "name": "indicator_color",
+                    "value": "$color:ohos_id_color_component_normal"
                 },
                 {
-                    "name":"indicator_mask_color",
-                    "value":"?theme:attribute_color_click_effect"
+                    "name": "indicator_hotzone_color",
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
-                    "name":"indicator_text_color",
-                    "value":"?theme:attribute_color_text_secondary"
+                    "name": "indicator_text_color",
+                    "value": "$color:ohos_id_color_text_secondary"
                 },
                 {
-                    "name":"indicator_text_color_focus",
-                    "value":"?theme:attribute_color_focused_bg"
+                    "name": "indicator_text_color_focused",
+                    "value": "$color:ohos_id_color_focused_bg"
+                },
+                {
+                    "name": "indicator_text_font_size",
+                    "value": "$float:ohos_id_text_size_body2"
                 }
             ]
         },
@@ -480,8 +860,20 @@
             "name": "ohos_tab_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "bg_color",
+                    "value": "$color:ohos_id_color_subtab_bg"
+                },
+                {
+                    "name": "active_indicator_color",
+                    "value": "$color:ohos_id_color_subtab_line_on"
+                },
+                {
+                    "name": "focus_indicator_color",
+                    "value": "$color:ohos_id_color_subtab_line_on"
+                },
+                {
+                    "name": "focus_indicator_radius",
+                    "value": "$float:ohos_id_corner_radius_clicked"
                 }
             ]
         },
@@ -491,18 +883,6 @@
                 {
                     "name": "text_color",
                     "value": "$color:ohos_id_color_text_primary"
-                },
-                {
-                    "name": "hint_text_color",
-                    "value": "$color:ohos_id_color_text_hint"
-                },
-                {
-                    "name": "disable_text_color",
-                    "value": "$color:ohos_id_color_text_tertiary"
-                },
-                {
-                    "name": "text_size",
-                    "value": "$float:ohos_id_text_size_body1"
                 }
             ]
         },
@@ -510,8 +890,100 @@
             "name": "ohos_textfield_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "text_font_size",
+                    "value": "$float:ohos_id_text_size_body1"
+                },
+                {
+                    "name": "bg_color",
+                    "value": "$color:ohos_id_color_text_field_sub_bg"
+                },
+                {
+                    "name": "tips_text_color",
+                    "value": "$color:ohos_id_color_text_hint"
+                },
+                {
+                    "name": "text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "bg_color_selected",
+                    "value": "$color:ohos_id_color_text_highlight_bg"
+                },
+                {
+                    "name": "bg_color_hovered",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "bg_color_pressed",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "bg_color_focused",
+                    "value": "$color:ohos_id_color_text_field_sub_bg"
+                },
+                {
+                    "name": "tips_text_color_focused",
+                    "value": "$color:ohos_id_color_text_hint"
+                },
+                {
+                    "name": "text_color_focused",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "text_color_disabled",
+                    "value": "$color:ohos_id_color_text_tertiary"
+                },
+                {
+                    "name": "cursor_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "error_text_border_color",
+                    "value": "$color:ohos_id_color_alert"
+                },
+                {
+                    "name": "error_text_border_color_alpha",
+                    "value": "0.6"
+                },
+                {
+                    "name": "error_text_color",
+                    "value": "$color:ohos_id_color_alert"
+                },
+                {
+                    "name": "error_text_font_size",
+                    "value": "$float:ohos_id_text_size_body3"
+                },
+                {
+                    "name": "count_text_color",
+                    "value": "$color:ohos_id_color_text_tertiary"
+                },
+                {
+                    "name": "count_text_font_size",
+                    "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "over_text_color",
+                    "value": "$color:ohos_id_color_alert"
+                },
+                {
+                    "name": "over_text_font_size",
+                    "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "count_outer_text_color",
+                    "value": "$color:ohos_id_color_text_tertiary"
+                },
+                {
+                    "name": "count_outer_text_font_size",
+                    "value": "$float:ohos_id_text_size_body3"
+                },
+                {
+                    "name": "over_outer_text_color",
+                    "value": "$color:ohos_id_color_alert"
+                },
+                {
+                    "name": "over_outer_text_font_size",
+                    "value": "$float:ohos_id_text_size_body3"
                 }
             ]
         },
@@ -519,8 +991,40 @@
             "name": "ohos_text_overlay_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "icon_color",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "memu_icon_color",
+                    "value": "$color:ohos_id_color_secondary"
+                },
+                {
+                    "name": "menu_bg_color",
+                    "value": "$color:ohos_id_color_dialog_bg"
+                },
+                {
+                    "name": "handle_outer_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "handle_inner_color",
+                    "value": "$color:ohos_id_color_dialog_bg"
+                },
+                {
+                    "name": "button_bg_color_clicked",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "button_bg_color_hovered",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "text_font_size",
+                    "value": "$float:ohos_id_text_size_button2"
+                },
+                {
+                    "name": "text_color",
+                    "value": "$color:ohos_id_color_text_primary"
                 }
             ]
         },
@@ -528,16 +1032,16 @@
             "name": "ohos_toast_pattern",
             "value": [
                 {
-                    "name": "font_size",
-                    "value": "?theme:attribute_text_size_body2"
+                    "name": "text_font_size",
+                    "value": "$float:ohos_id_text_size_body2"
                 },
                 {
                     "name": "text_color",
-                    "value": "?theme:attribute_color_text_primary_contrary"
+                    "value": "$color:ohos_id_color_text_primary_contrary"
                 },
                 {
-                    "name": "background_color",
-                    "value": "?theme:attribute_color_instant_tip_bg"
+                    "name": "bg_color",
+                    "value": "$color:ohos_id_color_instant_tip_bg"
                 }
             ]
         },
@@ -545,24 +1049,24 @@
             "name":"ohos_toggle_pattern",
             "value":[
                 {
-                    "name":"toggle_bg_color",
-                    "value":"?theme:attribute_color_button_normal"
+                    "name": "bg_color",
+                    "value": "$color:ohos_id_color_button_normal"
                 },
                 {
-                    "name":"toggle_checked_color",
-                    "value":"?theme:attribute_color_emphasize"
+                    "name": "bg_color_checked",
+                    "value": "$color:ohos_id_color_emphasize"
                 },
                 {
-                    "name":"toggle_checked_color_alpha",
-                    "value":"?theme:attribute_alpha_highlight_bg"
+                    "name": "bg_color_checked_alpha",
+                    "value": "$float:ohos_id_alpha_highlight_bg"
                 },
                 {
-                    "name":"toggle_text_color",
-                    "value":"?theme:attribute_text_color_primary"
+                    "name": "text_color",
+                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
-                    "name":"toggle_pressed_blend_color",
-                    "value":"?theme:attribute_color_click_effect"
+                    "name": "bg_color_pressed_blend",
+                    "value": "$color:ohos_id_color_click_effect"
                 }
             ]
         },
@@ -571,19 +1075,23 @@
             "value": [
                 {
                     "name": "bg_color",
-                    "value": "?theme:attribute_color_toolbar_bg"
+                    "value": "$color:ohos_id_color_toolbar_bg"
                 },
                 {
                     "name": "item_bg_color",
-                    "value": "?theme:attribute_color_toolbar_sub_bg"
+                    "value": "$color:ohos_id_color_toolbar_sub_bg"
                 },
                 {
-                    "name": "icon_color",
-                    "value": "?theme:attribute_color_toolbar_text"
+                    "name": "more_icon_color",
+                    "value": "0xff000000"
                 },
                 {
                     "name": "text_color",
-                    "value": "?theme:attribute_color_toolbar_icon"
+                    "value": "$color:ohos_id_color_toolbar_text"
+                },
+                {
+                    "name": "icon_color",
+                    "value": "$color:ohos_id_color_toolbar_icon"
                 }
             ]
         },
@@ -591,32 +1099,32 @@
             "name": "ohos_select_pattern",
             "value": [
                 {
-                    "name": "clicked_color",
-                    "value": "?theme:attribute_color_click_effect"
-                },
-                {
-                    "name": "selected_color",
-                    "value": "?theme:attr_color_control_actived"
-                },
-                {
-                    "name": "hover_color",
-                    "value": "?theme:attribute_color_hover"
-                },
-                {
                     "name": "bg_color",
-                    "value": "?theme:attribute_color_dialog_bg"
+                    "value": "$color:ohos_id_color_dialog_bg"
+                },
+                {
+                    "name": "bg_color_hovered",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "bg_color_clicked",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "bg_color_selected",
+                    "value": "0x19254FF7"
+                },
+                {
+                    "name": "text_color",
+                    "value": "$color:ohos_id_color_spinner_icon"
+                },
+                {
+                    "name": "text_color_selected",
+                    "value": "$color:ohos_id_color_text_primary_activated"
                 },
                 {
                     "name": "line_color",
-                    "value": "?theme:attribute_color_list_separator"
-                },
-                {
-                    "name": "selected_font_color",
-                    "value": "?theme:attribute_color_text_primary_activated"
-                },
-                {
-                    "name": "font_color",
-                    "value": "?theme:attribute_color_spinner_icon"
+                    "value": "$color:ohos_id_color_list_separator"
                 }
             ]
         },
@@ -624,8 +1132,32 @@
             "name": "ohos_slider_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "track_color_selected",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "track_bg_color",
+                    "value": "$color:ohos_id_color_component_normal"
+                },
+                {
+                    "name": "marker_color",
+                    "value": "$color:ohos_id_color_foreground"
+                },
+                {
+                    "name": "marker_color_alpha",
+                    "value": "0.1"
+                },
+                {
+                    "name": "tip_color",
+                    "value": "$color:ohos_id_color_help_tip_bg"
+                },
+                {
+                    "name": "tip_text_color",
+                    "value": "$color:ohos_id_color_text_primary_contrary"
+                },
+                {
+                    "name": "block_color_hovered",
+                    "value": "$color:ohos_id_color_hover"
                 }
             ]
         },
@@ -633,7 +1165,7 @@
             "name": "ohos_semi_modal_pattern",
             "value": [
                 {
-                    "name": "background_color",
+                    "name": "bg_color",
                     "value": "#fff7f7f7"
                 }
             ]
