@@ -1,5 +1,5 @@
 {
-    "startId":"0x07800000",
+    "startId": "0x07800000",
     "record": [
         {
             "type": "color",
@@ -3698,72 +3698,72 @@
         },
         {
             "type": "float",
-            "name":"ohos_fa_margin_normal_left",
-            "order":739
+            "name": "ohos_fa_margin_normal_left",
+            "order": 739
         },
         {
             "type": "float",
-            "name":"ohos_fa_margin_normal_top",
-            "order":740
+            "name": "ohos_fa_margin_normal_top",
+            "order": 740
         },
         {
             "type": "float",
-            "name":"ohos_fa_margin_normal_right",
-            "order":741
-        },        
-        {
-            "type": "float",
-            "name":"ohos_fa_margin_normal_bottom",
-            "order":742
+            "name": "ohos_fa_margin_normal_right",
+            "order": 741
         },
         {
             "type": "float",
-            "name":"ohos_fa_margin_small_left",
-            "order":743
+            "name": "ohos_fa_margin_normal_bottom",
+            "order": 742
         },
         {
             "type": "float",
-            "name":"ohos_fa_margin_small_top",
-            "order":744
+            "name": "ohos_fa_margin_small_left",
+            "order": 743
         },
         {
             "type": "float",
-            "name":"ohos_fa_margin_small_right",
-            "order":745
+            "name": "ohos_fa_margin_small_top",
+            "order": 744
         },
         {
             "type": "float",
-            "name":"ohos_fa_margin_small_bottom",
-            "order":746
+            "name": "ohos_fa_margin_small_right",
+            "order": 745
         },
         {
             "type": "float",
-            "name":"ohos_fa_text_size_caption",
-            "order":747
+            "name": "ohos_fa_margin_small_bottom",
+            "order": 746
         },
         {
             "type": "float",
-            "name":"ohos_fa_text_size_body",
-            "order":748
+            "name": "ohos_fa_text_size_caption",
+            "order": 747
         },
         {
             "type": "float",
-            "name":"ohos_fa_text_size_headline",
-            "order":749
+            "name": "ohos_fa_text_size_body",
+            "order": 748
         },
         {
             "type": "float",
-            "name":"ohos_fa_text_size_headline_large",
-            "order":750
+            "name": "ohos_fa_text_size_headline",
+            "order": 749
         },
         {
             "type": "float",
-            "name":"ohos_fa_text_size_huge",
-            "order":751
+            "name": "ohos_fa_text_size_headline_large",
+            "order": 750
+        },
+        {
+            "type": "float",
+            "name": "ohos_fa_text_size_huge",
+            "order": 751
         },
         {
             "type": "theme",
-            "name":"ohos_theme",
+            "name": "ohos_theme",
             "order": 752,
             "flags": "private"
         },
@@ -4024,6 +4024,306 @@
             "name": "ohos_grid_item_pattern",
             "order": 795,
             "flags": "private"
-         }
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_icon_pattern",
+            "order": 796,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_container_modal_window_close",
+            "order": 797,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_container_modal_window_defocus_close",
+            "order": 798,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_container_modal_window_defocus_maximize",
+            "order": 799,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_container_modal_window_defocus_minimize",
+            "order": 800,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_container_modal_window_defocus_recover",
+            "order": 801,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_container_modal_window_defocus_split_left",
+            "order": 802,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_container_modal_window_maximize",
+            "order": 803,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_container_modal_window_minimize",
+            "order": 804,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_container_modal_window_recover",
+            "order": 805,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_container_modal_window_split_left",
+            "order": 806,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_correct",
+            "order": 807,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_down_arrow",
+            "order": 808,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_exit_full_screen",
+            "order": 809,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_fa_black_clock_widget_hour",
+            "order": 810,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_fa_black_clock_widget_minute",
+            "order": 811,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_fa_black_clock_widget_second",
+            "order": 812,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_fa_clock_widget_hour",
+            "order": 813,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_fa_clock_widget_minute",
+            "order": 814,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_fa_clock_widget_second",
+            "order": 815,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_full_screen",
+            "order": 816,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_hide_password",
+            "order": 817,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_back",
+            "order": 818,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_more",
+            "order": 819,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_drawer",
+            "order": 820,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_indexer_arrow",
+            "order": 821,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_left_arrow",
+            "order": 822,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_pause",
+            "order": 823,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_piece_delete",
+            "order": 824,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_play",
+            "order": 825,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_rate_star_big_off",
+            "order": 826,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_rate_star_big_on",
+            "order": 827,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_rate_star_small_off",
+            "order": 828,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_rate_star_small_on",
+            "order": 829,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_right_arrow",
+            "order": 830,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_search",
+            "order": 831,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_select_arrow_disabled",
+            "order": 832,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_select_arrow_normal",
+            "order": 833,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_semi_modal_bar_down",
+            "order": 834,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_semi_modal_bar_middle",
+            "order": 835,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_share",
+            "order": 836,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_show_password",
+            "order": 837,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_stepper_back_arrow",
+            "order": 838,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_stepper_next_arrow",
+            "order": 839,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_translate_c2e",
+            "order": 840,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_up_arrow",
+            "order": 841,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_watch_down_arrow",
+            "order": 842,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_watch_up_arrow",
+            "order": 843,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_wrong",
+            "order": 844,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_close",
+            "order": 845,
+            "flags": "private"
+        }
     ]
 }
