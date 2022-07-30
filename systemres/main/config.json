@@ -913,7 +913,7 @@
                 "distributedSceneEnable": false
             },
             {
-              "name": "ohos.permission.MANAGE_ADMIN",
+              "name": "ohos.permission.MANAGE_ENTERPRISE_DEVICE_ADMIN",
               "grantMode": "system_grant",
               "availableLevel": "system_core",
               "provisionEnable": true,
