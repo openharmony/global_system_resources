@@ -794,6 +794,20 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_AUTH_RESPOOL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ENFORCE_USER_IDM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.GET_RUNNING_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
