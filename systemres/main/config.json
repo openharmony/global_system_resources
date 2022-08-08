@@ -1044,6 +1044,15 @@
                 "availableLevel": "system_core",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_SYSTEM_SETTINGS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_access_settings",
+                "description": "$string:ohos_desc_access_settings"
             }
         ]
     }

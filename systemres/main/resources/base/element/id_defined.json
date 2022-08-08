@@ -4324,6 +4324,16 @@
             "name": "ohos_close",
             "order": 845,
             "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_access_settings",
+            "order": 846
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_access_settings",
+            "order": 847
         }
     ]
 }

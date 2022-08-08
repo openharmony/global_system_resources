@@ -419,6 +419,14 @@
         {
             "name": "ohos_app_name",
             "value": "系统"
+        },
+        {
+            "name": "ohos_lab_access_settings",
+            "value": "允许应用接入或拉起系统设置页面"
+        },
+        {
+            "name": "ohos_desc_access_settings",
+            "value": "只有应用拥有该权限，才能允许在系统设置接入菜单，或拉起系统设置部分页面"
         }
     ]
 }
