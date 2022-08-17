@@ -264,6 +264,15 @@
                 "description": "$string:ohos_desc_location"
             },
             {
+                "name": "ohos.permission.APPROXIMATELY_LOCATION",
+                "grantMode": "user_grant",
+                "availableLevel": "normal",
+                "provisionEnable": false,
+                "distributedSceneEnable": true,
+                "label": "$string:ohos_lab_approximately_location",
+                "description": "$string:ohos_desc_approximately_location"
+            },
+            {
                 "name": "ohos.permission.MEDIA_LOCATION",
                 "grantMode": "user_grant",
                 "availableLevel": "normal",
