@@ -1060,6 +1060,60 @@
                 "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.READ_IMAGEVIDEO",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_read_imagevideo",
+                "description": "$string:ohos_desc_read_imagevideo"
+            },
+            {
+                "name": "ohos.permission.READ_AUDIO",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_read_audio",
+                "description": "$string:ohos_desc_read_audio"
+            },
+            {
+                "name": "ohos.permission.READ_DOCUMENT",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_read_document",
+                "description": "$string:ohos_desc_read_document"
+            },
+            {
+                "name": "ohos.permission.WRITE_IMAGEVIDEO",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_write_imagevideo",
+                "description": "$string:ohos_desc_write_imagevideo"
+            },
+            {
+                "name": "ohos.permission.WRITE_AUDIO",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_write_audio",
+                "description": "$string:ohos_desc_write_audio"
+            },
+            {
+                "name": "ohos.permission.WRITE_DOCUMENT",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_write_document",
+                "description": "$string:ohos_desc_write_document"
             }
         ]
     }
