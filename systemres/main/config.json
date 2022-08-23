@@ -676,6 +676,13 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.START_ABILITIES_FROM_BACKGROUND",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.BUNDLE_ACTIVE_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
