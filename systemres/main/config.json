@@ -1128,6 +1128,27 @@
                 "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.securityguard.REPORT_SECURITY_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.securityguard.REQUEST_SECURITY_MODEL_RESULT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": true
+            },
+            {
+                "name": "ohos.permission.securityguard.REQUEST_SECURITY_EVENT_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": false,
+                "distributedSceneEnable": true
             }
         ]
     }
