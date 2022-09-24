@@ -21,7 +21,7 @@ HarmonyOS Sans目前开放6个字重，Thin、Light、Regular、Medium、Bold、
 ## 目录
 
 ```
-/utils/system_resources
+/base/global/system_resources
 ├── fonts                   # 系统字体目录
 ├── systemres               # 系统资源包目录
 ```
