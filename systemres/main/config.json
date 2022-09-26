@@ -1156,6 +1156,20 @@
                 "availableLevel": "system_core",
                 "provisionEnable": false,
                 "distributedSceneEnable": true
+            },
+            {
+                "name": "ohos.permission.ACCESS_CERT_MANAGER_INTERNAL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_CERT_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
