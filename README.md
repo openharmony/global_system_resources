@@ -21,7 +21,7 @@ The system resource package accommodates resources that are widely used by appli
 ## Directory Structure
 
 ```
-/utils/system_resources
+/base/global/system_resources
 ├── fonts                   # System fonts
 ├── systemres               # System resource package
 ```

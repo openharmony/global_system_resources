@@ -32,11 +32,11 @@
         }
     ],
     "segment": {
-        "destPath": "utils/system_resources/systemres"
+        "destPath": "base/global/system_resources/systemres"
     },
     "component": {
         "name": "systemres",
-        "subsystem": "utils",
+        "subsystem": "global",
         "syscap": [],
         "features": [],
         "adapted_system_type": [
@@ -50,7 +50,7 @@
         },
         "build": {
             "sub_component": [
-              "//utils/system_resources/systemres:systemres_hap"
+              "//base/global/system_resources/systemres:systemres_hap"
             ],
             "inner_kits": [],
             "test": []
