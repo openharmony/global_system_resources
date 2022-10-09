@@ -1191,6 +1191,20 @@
                 "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.READ_ACCESSIBILITY_CONFIG",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.WRITE_ACCESSIBILITY_CONFIG",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
