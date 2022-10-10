@@ -1205,6 +1205,13 @@
                 "availableLevel": "system_basic",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.RECEIVER_STARTUP_COMPLETED",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
