@@ -1211,9 +1211,7 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "provisionEnable": true,
-                "distributedSceneEnable": false,
-                "label": "$string:ohos_lab_manage_audio_config",
-                "description": "$string:ohos_desc_manage_audio_config"
+                "distributedSceneEnable": false
             }
         ]
     }
