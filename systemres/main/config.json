@@ -1221,6 +1221,13 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_CAMERA_CONFIG",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.RECEIVER_STARTUP_COMPLETED",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
