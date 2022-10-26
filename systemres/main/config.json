@@ -1564,6 +1564,24 @@
                 "deprecated": "",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.READ_WHOLE_CALENDAR",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": 9,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.WRITE_WHOLE_CALENDAR",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": 9,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
