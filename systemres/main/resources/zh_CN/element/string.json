@@ -475,6 +475,22 @@
         {
             "name": "ohos_app_name",
             "value": "系统"
+        },
+        {
+            "name": "ohos_lab_read_whole_calendar",
+            "value": "读取全部日历"
+        },
+        {
+            "name": "ohos_desc_read_whole_calendar",
+            "value": "允许应用读取全部日历。"
+        },
+        {
+            "name": "ohos_lab_write_whole_calendar",
+            "value": "新建/修改/删除全部日历"
+        },
+        {
+            "name": "ohos_desc_write_whole_calendar",
+            "value": "允许应用新建/修改/删除全部日历。"
         }
     ]
 }
