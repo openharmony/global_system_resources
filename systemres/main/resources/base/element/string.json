@@ -483,6 +483,22 @@
         {
             "name": "ohos_desc_write_document",
             "value": "Create, modify or delete documents"
+        },
+        {
+            "name": "ohos_lab_read_whole_calendar",
+            "value": "Read the whole calendar information"
+        },
+        {
+            "name": "ohos_desc_read_whole_calendar",
+            "value": "Allows an application to read the whole calendar information."
+        },
+        {
+            "name": "ohos_lab_write_whole_calendar",
+            "value": "Add/Modify/Delete the whole calendar events"
+        },
+        {
+            "name": "ohos_desc_write_whole_calendar",
+            "value": "Allows an application to add, modify, and delete the whole calendar events."
         }
     ]
 }
