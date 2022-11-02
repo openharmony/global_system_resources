@@ -4394,6 +4394,26 @@
             "type": "string",
             "name": "ohos_desc_write_document",
             "order": 859
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_read_whole_calendar",
+            "order": 860
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_read_whole_calendar",
+            "order": 861
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_write_whole_calendar",
+            "order": 862
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_write_whole_calendar",
+            "order": 863
         }
     ]
 }

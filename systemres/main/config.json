@@ -1419,6 +1419,28 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.READ_WHOLE_CALENDAR",
+                "grantMode": "user_grant",
+                "availableLevel": "normal",
+                "since": 8,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_read_whole_calendar",
+                "description": "$string:ohos_desc_read_whole_calendar"
+            },
+            {
+                "name": "ohos.permission.WRITE_WHOLE_CALENDAR",
+                "grantMode": "user_grant",
+                "availableLevel": "normal",
+                "since": 8,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_write_whole_calendar",
+                "description": "$string:ohos_desc_write_whole_calendar"
             }
         ]
     }
