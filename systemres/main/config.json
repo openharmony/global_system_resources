@@ -1221,6 +1221,15 @@
               "distributedSceneEnable": false
             },
             {
+              "name": "ohos.permission.ENTERPRISE_GET_DEVICE_INFO",
+              "grantMode": "system_grant",
+              "availableLevel": "system_basic",
+              "since": 9,
+              "deprecated": "",
+              "provisionEnable": true,
+              "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.NFC_TAG",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
