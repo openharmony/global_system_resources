@@ -4414,6 +4414,12 @@
             "type": "string",
             "name": "ohos_desc_write_whole_calendar",
             "order": 863
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_spinner",
+            "order": 864,
+            "flags": "private"
         }
     ]
 }
