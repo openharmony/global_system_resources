@@ -1595,6 +1595,15 @@
                 "distributedSceneEnable": false,                
                 "label": "$string:ohos_lab_write_whole_calendar",
                 "description": "$string:ohos_desc_write_whole_calendar"
+            },
+            {
+                "name": "ohos.permission.ACCESS_SERVICE_DM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 9,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
