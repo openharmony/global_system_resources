@@ -4426,6 +4426,16 @@
             "name": "ohos_indexer_pattern",
             "order": 865,
             "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_checkbox_focus_paint_padding",
+            "order": 866
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_radio_focus_paint_padding",
+            "order": 867
         }
     ]
 }
