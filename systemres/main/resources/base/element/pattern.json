@@ -799,6 +799,42 @@
                 {
                     "name": "text_font_size",
                     "value": "$float:ohos_id_text_size_body1"
+                },
+                {
+                    "name": "search_touch_color",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "search_hover_color",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "search_divider_side_space",
+                    "value": "$float:ohos_id_search_divider_side_space"
+                },
+                {
+                    "name": "search_icon_height",
+                    "value": "$float:ohos_id_search_icon_height"
+                },
+                {
+                    "name": "search_icon_width_offset",
+                    "value": "$float:ohos_id_search_icon_width_offset"
+                },
+                {
+                    "name": "search_icon_text_field_offset",
+                    "value": "$float:ohos_id_search_icon_text_field_offset"
+                },
+                {
+                    "name": "search_divider_color",
+                    "value": "$color:ohos_id_color_list_separator"
+                },
+                {
+                    "name": "search_button_text_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "search_button_space",
+                    "value": "$float:ohos_id_search_button_space"
                 }
             ]
         },
@@ -1405,6 +1441,10 @@
                 {
                     "name": "wrong",
                     "value": "$media:ohos_wrong"
+                },
+                {
+                    "name": "ic_public_input_search",
+                    "value": "$media:ohos_ic_public_input_search"
                 }
             ]
         },
