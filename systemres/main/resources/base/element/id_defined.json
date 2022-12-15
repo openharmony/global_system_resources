@@ -4436,6 +4436,37 @@
             "type": "float",
             "name": "ohos_id_radio_focus_paint_padding",
             "order": 867
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_divider_side_space",
+            "order": 868
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_icon_height",
+            "order": 869
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_icon_width_offset",
+            "order": 870
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_icon_text_field_offset",
+            "order": 871
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_button_space",
+            "order": 872
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_input_search",
+            "order": 873,
+            "flags": "private"
         }
     ]
 }
