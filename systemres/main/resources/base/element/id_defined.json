@@ -4467,6 +4467,31 @@
             "name": "ohos_ic_public_input_search",
             "order": 873,
             "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_subtab_line_height",
+            "order": 874
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_subtab_line_gap",
+            "order": 875
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_subtab_horizontal_padding",
+            "order": 876
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_subtab_top_padding",
+            "order": 877
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_subtab_bottom_padding",
+            "order": 878
         }
     ]
 }
