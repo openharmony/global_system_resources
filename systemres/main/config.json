@@ -1604,6 +1604,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.RUN_ANY_CODE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 9,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
