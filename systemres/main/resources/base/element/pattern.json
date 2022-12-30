@@ -531,6 +531,10 @@
                 {
                     "name": "drag_bar_color",
                     "value": "#ffb3b3b3"
+                },
+                {
+                    "name": "drag_bar_bg_color",
+                    "value": "$color:ohos_id_color_fourth"
                 }
             ]
         },
@@ -941,7 +945,23 @@
                 },
                 {
                     "name": "subtab_indicator_height",
-                    "value": "$float:ohos_id_corner_radius_subtab"
+                    "value": "$float:ohos_id_subtab_line_height"
+                },
+                {
+                    "name": "subtab_indicator_gap",
+                    "value": "$float:ohos_id_subtab_line_gap"
+                },
+                {
+                    "name": "subtab_horizontal_padding",
+                    "value": "$float:ohos_id_subtab_horizontal_padding"
+                },
+                {
+                    "name": "subtab_top_padding",
+                    "value": "$float:ohos_id_subtab_top_padding"
+                },
+                {
+                    "name": "subtab_bottom_padding",
+                    "value": "$float:ohos_id_subtab_bottom_padding"
                 }
             ]
         },
