@@ -545,6 +545,10 @@
             "value": "1.4vp"
         },
         {
+            "name": "ohos_id_checkbox_focus_radius",
+            "value": "6.0vp"
+        },
+        {
             "name": "ohos_id_checkbox_focus_paint_padding",
             "value": "2.0vp"
         },
@@ -561,11 +565,11 @@
             "value": "16.0vp"
         },
         {
-            "name": "ohos_id_search_icon_width_offset",
+            "name": "ohos_id_search_icon_left_space",
             "value": "12.0vp"
         },
         {
-            "name": "ohos_id_search_icon_text_field_offset",
+            "name": "ohos_id_search_icon_right_space",
             "value": "8.0vp"
         },
         {
@@ -591,6 +595,10 @@
         {
             "name": "ohos_id_subtab_bottom_padding",
             "value": "18.0vp"
+        },
+        {
+            "name": "ohos_id_search_button_text_padding",
+            "value": "14.0vp"
         }
     ]
 }
