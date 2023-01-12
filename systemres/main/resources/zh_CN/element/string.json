@@ -491,6 +491,10 @@
         {
             "name": "ohos_desc_write_whole_calendar",
             "value": "允许应用新建/修改/删除全部日历。"
+        },
+        {
+            "name": "ohos_access_screen_lock_inner",
+            "value": "允许应用调用锁屏服务的系统API"
         }
     ]
 }
