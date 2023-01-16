@@ -4449,12 +4449,12 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_search_icon_width_offset",
+            "name": "ohos_id_search_icon_left_space",
             "order": 870
         },
         {
             "type": "float",
-            "name": "ohos_id_search_icon_text_field_offset",
+            "name": "ohos_id_search_icon_right_space",
             "order": 871
         },
         {
@@ -4492,6 +4492,16 @@
             "type": "float",
             "name": "ohos_id_subtab_bottom_padding",
             "order": 878
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_checkbox_focus_radius",
+            "order": 879
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_button_text_padding",
+            "order": 880
         }
     ]
 }
