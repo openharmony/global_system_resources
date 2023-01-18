@@ -4502,6 +4502,18 @@
             "type": "float",
             "name": "ohos_id_search_button_text_padding",
             "order": 880
+	},
+        {
+            "type": "media",
+            "name": "ohos_app_bar_back",
+            "order": 881,
+            "flags": "private"
+	},
+        {
+            "type": "media",
+            "name": "ohos_app_bar_fa",
+            "order": 882,
+            "flags": "private"
         }
     ]
 }
