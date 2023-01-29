@@ -550,11 +550,11 @@
         },
         {
             "name": "ohos_id_checkbox_focus_paint_padding",
-            "value": "2.0vp"
+            "value": "3.0vp"
         },
         {
             "name": "ohos_id_radio_focus_paint_padding",
-            "value": "2.0vp"
+            "value": "3.0vp"
         },
         {
             "name": "ohos_id_search_divider_side_space",
@@ -599,6 +599,10 @@
         {
             "name": "ohos_id_search_button_text_padding",
             "value": "14.0vp"
+        },
+        {
+            "name": "ohos_id_search_height",
+            "value": "56.0vp"
         }
     ]
 }
