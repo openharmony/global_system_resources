@@ -781,11 +781,23 @@
                 },
                 {
                     "name": "edge_horizontal",
-                    "value":"ohos_id_elements_margin_horizontal_l"
+                    "value": "ohos_id_elements_margin_horizontal_l"
                 },
                 {
                     "name": "edge_vertical",
-                    "value":"ohos_id_popup_margin_vertical_l"
+                    "value": "ohos_id_popup_margin_vertical_l"
+                },
+                {
+                    "name": "bg_color_hovered",
+                    "value": "$color:ohos_id_color_popup_button_hover"
+                },
+                {
+                    "name": "bg_color_pressed",
+                    "value": "$color:ohos_id_color_popup_button_press"
+                },
+                {
+                    "name": "bg_color_focused",
+                    "value": "$color:ohos_id_color_primary_contrary"
                 }
             ]
         },
