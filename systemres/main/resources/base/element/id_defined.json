@@ -4504,9 +4504,134 @@
             "order": 880
         },
         {
+            "type": "media",
+            "name": "ohos_app_bar_back",
+            "order": 881,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_app_bar_fa",
+            "order": 882,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_popup_margin_vertical_l",
+            "order": 883,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color1_start",
+            "order": 884
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color2_start",
+            "order": 885
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color3_start",
+            "order": 886
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color4_start",
+            "order": 887
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color5_start",
+            "order": 888
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color6_start",
+            "order": 889
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color7_start",
+            "order": 890
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color8_start",
+            "order": 891
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color9_start",
+            "order": 892
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color1_end",
+            "order": 893
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color2_end",
+            "order": 894
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color3_end",
+            "order": 895
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color4_end",
+            "order": 896
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color5_end",
+            "order": 897
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color6_end",
+            "order": 898
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color7_end",
+            "order": 899
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color8_end",
+            "order": 900
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_color9_end",
+            "order": 901
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_datapanel_bg",
+            "order": 902
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_popup_button_hover",
+            "order": 903,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_popup_button_press",
+            "order": 904,
+            "flags": "private"
+        },
+        {
             "type": "float",
             "name": "ohos_id_search_height",
-            "order": 881
+            "order": 905
         }
     ]
 }
