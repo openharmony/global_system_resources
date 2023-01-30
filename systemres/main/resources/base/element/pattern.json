@@ -855,6 +855,10 @@
                 {
                     "name": "search_height",
                     "value": "$float:ohos_id_search_height"
+                },
+                {
+                    "name": "search_icon_color",
+                    "value": "$color:ohos_id_color_secondary"
                 }
             ]
         },
