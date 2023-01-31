@@ -776,16 +776,28 @@
                     "value": "$color:ohos_id_color_text_primary_contrary"
                 },
                 {
-                    "name": "border_radius",
+                    "name": "popup_border_radius",
                     "value": "$float:ohos_id_corner_radius_default_l"
                 },
                 {
-                    "name": "edge_horizontal",
-                    "value":"ohos_id_elements_margin_horizontal_l"
+                    "name": "popup_horizontal_padding",
+                    "value": "$float:ohos_id_elements_margin_horizontal_l"
                 },
                 {
-                    "name": "edge_vertical",
-                    "value":"ohos_id_popup_margin_vertical_l"
+                    "name": "popup_vertical_padding",
+                    "value": "$float:ohos_id_popup_margin_vertical_l"
+                },
+                {
+                    "name": "bg_color_hovered",
+                    "value": "$color:ohos_id_color_hover_transparent"
+                },
+                {
+                    "name": "bg_color_pressed",
+                    "value": "$color:ohos_id_color_click_effect_transparent"
+                },
+                {
+                    "name": "bg_color_focused",
+                    "value": "$color:ohos_id_color_focused_outline_transparent"
                 }
             ]
         },
