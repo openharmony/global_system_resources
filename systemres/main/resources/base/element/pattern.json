@@ -1421,6 +1421,54 @@
                 {
                     "name": "color_disabled_alpha",
                     "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "select_menu_padding",
+                    "value": "4.0vp"
+                },
+                {
+                    "name": "option_min_height",
+                    "value": "48.0vp"
+                },
+                {
+                    "name": "out_padding",
+                    "value": "4.0vp"
+                },
+                {
+                    "name": "content_spinner_padding",
+                    "value": "8.0vp"
+                },
+                {
+                    "name": "menu_animation_offset",
+                    "value": "30.0px"
+                },
+                {
+                    "name": "spinner_width",
+                    "value": "12.0vp"
+                },
+                {
+                    "name": "spinner_height",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "default_divider_width",
+                    "value": "1.0vp"
+                },
+                {
+                    "name": "select_min_width",
+                    "value": "66.0vp"
+                },
+                {
+                    "name": "select_min_height",
+                    "value": "40.0vp"
+                },
+                {
+                    "name": "icon_side_length",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "content_margin",
+                    "value": "8.0vp"
                 }
             ]
         },
