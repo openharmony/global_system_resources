@@ -1590,7 +1590,7 @@
                 "since": 9,
                 "deprecated": "",
                 "provisionEnable": true,
-                "distributedSceneEnable": false,                
+                "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_read_whole_calendar",
                 "description": "$string:ohos_desc_read_whole_calendar"
             },
@@ -1601,7 +1601,7 @@
                 "since": 9,
                 "deprecated": "",
                 "provisionEnable": true,
-                "distributedSceneEnable": false,                
+                "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_write_whole_calendar",
                 "description": "$string:ohos_desc_write_whole_calendar"
             },
@@ -1622,6 +1622,17 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.APP_TRACKING_CONSENT",
+                "grantMode": "user_grant",
+                "availableLevel": "normal",
+                "since": 9,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": true,
+                "label": "$string:ohos_lab_app_tracking_consent",
+                "description": "$string:ohos_desc_app_tracking_consent"
             },
             {
                 "name": "ohos.permission.PUBLISH_SYSTEM_COMMON_EVENT",
