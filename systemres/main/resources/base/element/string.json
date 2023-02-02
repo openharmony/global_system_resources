@@ -499,6 +499,14 @@
         {
             "name": "ohos_desc_write_whole_calendar",
             "value": "Allows an application to add, modify, and delete the whole calendar events."
+        },
+        {
+            "name": "ohos_lab_app_tracking_consent",
+            "value": "App tracking consent."
+        },
+        {
+            "name": "ohos_desc_app_tracking_consent",
+            "value": "Allows an application to access the open advertising identifier."
         }
     ]
 }
