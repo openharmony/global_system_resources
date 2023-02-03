@@ -1651,6 +1651,24 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.PRINT",
+                "grantMode": "system_grant",
+                "since": 9,
+                "deprecated": "",
+                "availableLevel": "normal",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_PRINT_JOB",
+                "grantMode": "system_grant",
+                "since": 9,
+                "deprecated": "",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
