@@ -532,6 +532,10 @@
                 {
                     "name": "data_panel_bg_color",
                     "value": "$color:ohos_id_color_datapanel_bg"
+                },
+                {
+                    "name": "circle_thickness",
+                    "value": "$float:ohos_id_datapanel_circle_thickness"
                 }
             ]
         },
@@ -752,6 +756,26 @@
                 {
                     "name": "bg_color_hovered",
                     "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "padding_horizontal",
+                    "value": "$float:ohos_id_picker_padding_horizontal"
+                },
+                {
+                    "name": "content_margin_vertical",
+                    "value": "$float:ohos_id_picker_content_margin_vertical"
+                },
+                {
+                    "name": "divider_thickness",
+                    "value": "$float:ohos_id_picker_divider_thickness"
+                },
+                {
+                    "name": "focus_border_width",
+                    "value": "$float:ohos_id_picker_focus_border_width"
+                },
+                {
+                    "name": "focus_border_margin",
+                    "value": "$float:ohos_id_picker_focus_border_margin"
                 }
             ]
         },
