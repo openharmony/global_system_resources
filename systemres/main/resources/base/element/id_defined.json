@@ -4660,6 +4660,12 @@
             "type": "float",
             "name": "ohos_id_datapanel_circle_thickness",
             "order": 911
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_ok",
+            "order": 912,
+            "flags": "private"
         }
     ]
 }
