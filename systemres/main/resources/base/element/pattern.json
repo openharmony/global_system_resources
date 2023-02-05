@@ -938,6 +938,10 @@
                 {
                     "name": "fg_color",
                     "value": "$color:ohos_id_color_foreground"
+                },
+                {
+                    "name": "scroll_bar_margin",
+                    "value": "$float:ohos_id_elements_margin_horizontal_s"
                 }
             ]
         },
