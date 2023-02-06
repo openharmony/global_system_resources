@@ -1151,6 +1151,10 @@
                 {
                     "name": "text_color",
                     "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "text_color_alpha",
+                    "value": "$float:ohos_id_alpha_content_primary"
                 }
             ]
         },
