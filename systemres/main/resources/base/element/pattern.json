@@ -820,6 +820,10 @@
                     "value": "$color:ohos_id_color_text_primary_contrary"
                 },
                 {
+                    "name": "popup_button_text_font_size",
+                    "value": "$float:ohos_id_text_size_button2"
+                },
+                {
                     "name": "popup_border_radius",
                     "value": "$float:ohos_id_corner_radius_default_l"
                 },
@@ -898,16 +902,24 @@
             "name": "ohos_rating_pattern",
             "value": [
                 {
-                    "name": "bg_color_hovered",
-                    "value": "$color:ohos_id_color_hover"
-                },
-                {
                     "name": "icon_color_active",
                     "value": "$color:ohos_id_color_palette11"
                 },
                 {
                     "name": "icon_color_inactive",
                     "value": "$color:ohos_id_color_component_normal"
+                },
+                {
+                    "name": "bg_color_hovered",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "bg_color_pressed",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "hover_radius_size",
+                    "value": "$float:ohos_id_corner_radius_default_xs"
                 }
             ]
         },
@@ -1148,12 +1160,76 @@
                     "value": "$float:ohos_id_subtab_horizontal_padding"
                 },
                 {
+                    "name": "subtab_landscape_horizontal_padding",
+                    "value": "12.0vp"
+                },
+                {
                     "name": "subtab_top_padding",
                     "value": "$float:ohos_id_subtab_top_padding"
                 },
                 {
                     "name": "subtab_bottom_padding",
                     "value": "$float:ohos_id_subtab_bottom_padding"
+                },
+                {
+                    "name": "subtab_hover_color",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "subtab_press_color",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "subtab_text_default_font_size",
+                    "value": "$float:ohos_id_text_size_body1"
+                },
+                {
+                    "name": "bottom_tab_horizontal_padding",
+                    "value": "4.0vp"
+                },
+                {
+                    "name": "bottom_tab_text_on",
+                    "value": "$color:ohos_id_color_bottom_tab_text_on"
+                },
+                {
+                    "name": "bottom_tab_text_off",
+                    "value": "$color:ohos_id_color_bottom_tab_text_off"
+                },
+                {
+                    "name": "bottom_tab_image_size",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "bottom_tab_text_size",
+                    "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "default_tab_bar_name",
+                    "value": "TabBar"
+                },
+                {
+                    "name": "bottom_tab_bar_space",
+                    "value": "2.0vp"
+                },
+                {
+                    "name": "sub_tab_bar_hover_duration",
+                    "value": "250.0"
+                },
+                {
+                    "name": "sub_tab_bar_hover_to_press_duration",
+                    "value": "100.0"
+                },
+                {
+                    "name": "tab_content_animation_duration",
+                    "value": "200.0"
+                },
+                {
+                    "name": "tab_bar_default_height",
+                    "value": "56.0vp"
+                },
+                {
+                    "name": "tab_bar_default_width",
+                    "value": "96.0vp"
                 }
             ]
         },
@@ -1545,7 +1621,7 @@
                 },
                 {
                     "name": "marker_color_alpha",
-                    "value": "0.1"
+                    "value": "$float:ohos_id_alpha_normal_bg"
                 },
                 {
                     "name": "tip_color",
@@ -1558,6 +1634,30 @@
                 {
                     "name": "block_color_hovered",
                     "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "block_color_pressed",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "bubble_to_circle_center_distance",
+                    "value": "$float:ohos_id_slider_bubble_to_circle_center_distance"
+                },
+                {
+                    "name": "measure_content_default_width",
+                    "value": "$float:ohos_id_slider_measure_content_default_width"
+                },
+                {
+                    "name": "outset_hot_block_shadow_width",
+                    "value": "$float:ohos_id_slider_outset_hot_block_shadow_width"
+                },
+                {
+                    "name": "inset_hot_block_shadow_width",
+                    "value": "$float:ohos_id_slider_inset_hot_block_shadow_width"
+                },
+                {
+                    "name": "focus_side_distance",
+                    "value": "$float:ohos_id_slider_focus_side_distance"
                 }
             ]
         },
@@ -1805,7 +1905,7 @@
             "value": [
                 {
                     "name": "default_text_color",
-                    "value": "#99000000"
+                    "value": "$color:ohos_id_color_primary"
                 },
                 {
                     "name": "selected_text_color",
@@ -1850,10 +1950,6 @@
                 {
                     "name": "hover_text_size",
                     "value": "$float:ohos_id_text_size_body3"
-                },
-                {
-                    "name": "hover_text_color",
-                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "hover_text_alpha",

@@ -4667,11 +4667,35 @@
             "order": 912
         },
         {
+            "type": "float",
+            "name": "ohos_id_slider_bubble_to_circle_center_distance",
+            "order": 913
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_slider_measure_content_default_width",
+            "order": 914
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_slider_outset_hot_block_shadow_width",
+            "order": 915
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_slider_inset_hot_block_shadow_width",
+            "order": 916
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_slider_focus_side_distance",
+            "order": 917
+        },
+        {
             "type": "media",
             "name": "ohos_ic_public_ok",
-            "order": 913,
+            "order": 918,
             "flags": "private"
         }
-
     ]
 }
