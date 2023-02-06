@@ -1757,7 +1757,7 @@
             "value": [
                 {
                     "name": "default_text_color",
-                    "value": "#99000000"
+                    "value": "$color:ohos_id_color_primary"
                 },
                 {
                     "name": "selected_text_color",
@@ -1802,10 +1802,6 @@
                 {
                     "name": "hover_text_size",
                     "value": "$float:ohos_id_text_size_body3"
-                },
-                {
-                    "name": "hover_text_color",
-                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "hover_text_alpha",
