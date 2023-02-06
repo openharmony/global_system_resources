@@ -1076,12 +1076,76 @@
                     "value": "$float:ohos_id_subtab_horizontal_padding"
                 },
                 {
+                    "name": "subtab_landscape_horizontal_padding",
+                    "value": "12.0vp"
+                },
+                {
                     "name": "subtab_top_padding",
                     "value": "$float:ohos_id_subtab_top_padding"
                 },
                 {
                     "name": "subtab_bottom_padding",
                     "value": "$float:ohos_id_subtab_bottom_padding"
+                },
+                {
+                    "name": "subtab_hover_color",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "subtab_press_color",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "subtab_text_default_font_size",
+                    "value": "$float:ohos_id_text_size_body1"
+                },
+                {
+                    "name": "bottom_tab_horizontal_padding",
+                    "value": "4.0vp"
+                },
+                {
+                    "name": "bottom_tab_text_on",
+                    "value": "$color:ohos_id_color_bottom_tab_text_on"
+                },
+                {
+                    "name": "bottom_tab_text_off",
+                    "value": "$color:ohos_id_color_bottom_tab_text_off"
+                },
+                {
+                    "name": "bottom_tab_image_size",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "bottom_tab_text_size",
+                    "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "default_tab_bar_name",
+                    "value": "TabBar"
+                },
+                {
+                    "name": "bottom_tab_bar_space",
+                    "value": "2.0vp"
+                },
+                {
+                    "name": "sub_tab_bar_hover_duration",
+                    "value": "250.0"
+                },
+                {
+                    "name": "sub_tab_bar_hover_to_press_duration",
+                    "value": "100.0"
+                },
+                {
+                    "name": "tab_content_animation_duration",
+                    "value": "200.0"
+                },
+                {
+                    "name": "tab_bar_default_height",
+                    "value": "56.0vp"
+                },
+                {
+                    "name": "tab_bar_default_width",
+                    "value": "96.0vp"
                 }
             ]
         },
