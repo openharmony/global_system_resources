@@ -986,6 +986,14 @@
                     "value": "$color:ohos_id_color_text_primary"
                 },
                 {
+                    "name": "text_font_size",
+                    "value": "$float:ohos_id_text_size_button1"
+                },
+                {
+                    "name": "attribute_alpha_content_primary",
+                    "value": "$float:ohos_id_alpha_content_primary"
+                },
+                {
                     "name": "border_radius",
                     "value": "$float:ohos_id_corner_radius_clicked"
                 },
