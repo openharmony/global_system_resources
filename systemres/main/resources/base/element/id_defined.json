@@ -4620,6 +4620,16 @@
             "type": "float",
             "name": "ohos_id_search_height",
             "order": 903
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_app_tracking_consent",
+            "order": 904
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_app_tracking_consent",
+            "order": 905
         }
     ]
 }
