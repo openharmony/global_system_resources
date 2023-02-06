@@ -938,6 +938,10 @@
                 {
                     "name": "fg_color",
                     "value": "$color:ohos_id_color_foreground"
+                },
+                {
+                    "name": "scroll_bar_margin",
+                    "value": "$float:ohos_id_elements_margin_horizontal_s"
                 }
             ]
         },
@@ -1020,6 +1024,14 @@
                 {
                     "name": "text_color",
                     "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "text_font_size",
+                    "value": "$float:ohos_id_text_size_button1"
+                },
+                {
+                    "name": "attribute_alpha_content_primary",
+                    "value": "$float:ohos_id_alpha_content_primary"
                 },
                 {
                     "name": "border_radius",
@@ -1151,6 +1163,10 @@
                 {
                     "name": "text_color",
                     "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "text_color_alpha",
+                    "value": "$float:ohos_id_alpha_content_primary"
                 }
             ]
         },
