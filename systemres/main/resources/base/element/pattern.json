@@ -902,16 +902,24 @@
             "name": "ohos_rating_pattern",
             "value": [
                 {
-                    "name": "bg_color_hovered",
-                    "value": "$color:ohos_id_color_hover"
-                },
-                {
                     "name": "icon_color_active",
                     "value": "$color:ohos_id_color_palette11"
                 },
                 {
                     "name": "icon_color_inactive",
                     "value": "$color:ohos_id_color_component_normal"
+                },
+                {
+                    "name": "bg_color_hovered",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "bg_color_pressed",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "hover_radius_size",
+                    "value": "$float:ohos_id_corner_radius_default_xs"
                 }
             ]
         },
@@ -1613,7 +1621,7 @@
                 },
                 {
                     "name": "marker_color_alpha",
-                    "value": "0.1"
+                    "value": "$float:ohos_id_alpha_normal_bg"
                 },
                 {
                     "name": "tip_color",
@@ -1626,6 +1634,30 @@
                 {
                     "name": "block_color_hovered",
                     "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "block_color_pressed",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "bubble_to_circle_center_distance",
+                    "value": "$float:ohos_id_slider_bubble_to_circle_center_distance"
+                },
+                {
+                    "name": "measure_content_default_width",
+                    "value": "$float:ohos_id_slider_measure_content_default_width"
+                },
+                {
+                    "name": "outset_hot_block_shadow_width",
+                    "value": "$float:ohos_id_slider_outset_hot_block_shadow_width"
+                },
+                {
+                    "name": "inset_hot_block_shadow_width",
+                    "value": "$float:ohos_id_slider_inset_hot_block_shadow_width"
+                },
+                {
+                    "name": "focus_side_distance",
+                    "value": "$float:ohos_id_slider_focus_side_distance"
                 }
             ]
         },
