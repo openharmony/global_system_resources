@@ -4696,6 +4696,16 @@
             "name": "ohos_ic_public_ok",
             "order": 918,
             "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_outer_handle_diameter",
+            "order": 919
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_inner_handle_diameter",
+            "order": 920
         }
     ]
 }
