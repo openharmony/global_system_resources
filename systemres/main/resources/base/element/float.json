@@ -430,7 +430,7 @@
         },
         {
             "name": "ohos_id_corner_radius_default_xs",
-            "value": "6.0vp"
+            "value": "4.0vp"
         },
         {
             "name": "ohos_id_default_padding_start",
@@ -537,6 +537,10 @@
             "value": "8.0vp"
         },
         {
+            "name": "ohos_id_elements_margin_horizontal_s",
+            "value": "4.0vp"
+        },
+        {
             "name": "ohos_id_text_line_space_s",
             "value": "1.1vp"
         },
@@ -631,6 +635,26 @@
         {
             "name": "ohos_id_datapanel_circle_thickness",
             "value": "24.0vp"
+        },
+        {
+            "name": "ohos_id_slider_bubble_to_circle_center_distance",
+            "value": "20.0vp"
+        },
+        {
+            "name": "ohos_id_slider_measure_content_default_width",
+            "value": "40.0vp"
+        },
+        {
+            "name": "ohos_id_slider_outset_hot_block_shadow_width",
+            "value": "4.0vp"
+        },
+        {
+            "name": "ohos_id_slider_inset_hot_block_shadow_width",
+            "value": "6.0vp"
+        },
+        {
+            "name": "ohos_id_slider_focus_side_distance",
+            "value": "2.0vp"
         }
     ]
 }
