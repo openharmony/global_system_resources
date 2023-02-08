@@ -4707,10 +4707,16 @@
             "name": "ohos_id_text_overlay_inner_handle_diameter",
             "order": 920
         },
-	{
+        {
             "type": "pattern",
             "name": "ohos_app_bar_pattern",
             "order": 921,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_spinner_disable",
+            "order": 922,
             "flags": "private"
         }
     ]
