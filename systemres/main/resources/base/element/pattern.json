@@ -1968,6 +1968,63 @@
                     "value": "2.0vp"
                 }
             ]
+        },
+        {
+            "name": "ohos_app_bar_pattern",
+            "value": [
+                {
+                    "name": "app_bar_height",
+                    "value": "56.0vp"
+                },
+                {
+                    "name": "icon_size",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "icon_corner_radius",
+                    "value": "8.0vp"
+                },
+                {
+                    "name": "app_bar_font_size",
+                    "value": "20.0fp"
+                },
+                {
+                    "name": "text_color_primary",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "click_effect_color",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "app_bar_bg_color",
+                    "value": "$color:ohos_id_color_background"
+                },
+                {
+                    "name": "app_bar_bundle_name",
+                    "value": "com.ohos.hag.famanager"
+                },
+                {
+                    "name": "app_bar_ability_name",
+                    "value": "FaPanelAbility"
+                },
+                {
+                    "name": "app_bar_service_bundle_name",
+                    "value": "com.js.timer1.hmservice"
+                },
+                {
+                    "name": "app_bar_service_ability_name",
+                    "value": "MainAbility"
+                },
+                {
+                    "name": "app_bar_service_module_name",
+                    "value": "entry"
+                },
+                {
+                    "name": "app_bar_service_host_pkg_name",
+                    "value": "com.js.timer1.hmservice"
+                }
+            ]
         }
     ]
 }
