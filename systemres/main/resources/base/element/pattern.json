@@ -1343,8 +1343,16 @@
                     "value": "$color:ohos_id_color_emphasize"
                 },
                 {
+                    "name": "handle_outer_diameter",
+                    "value": "$float:ohos_id_text_overlay_outer_handle_diameter"
+                },
+                {
                     "name": "handle_inner_color",
                     "value": "$color:ohos_id_color_dialog_bg"
+                },
+                {
+                    "name": "handle_inner_diameter",
+                    "value": "$float:ohos_id_text_overlay_inner_handle_diameter"
                 },
                 {
                     "name": "button_bg_color_clicked",
@@ -1472,7 +1480,7 @@
                 },
                 {
                     "name": "bg_color_selected",
-                    "value": "#19254FF7"
+                    "value": "#33007DFF"
                 },
                 {
                     "name": "text_color",
@@ -1897,6 +1905,14 @@
                 {
                     "name": "app_bar_fa",
                     "value": "$media:ohos_app_bar_fa"
+                },
+                {
+                    "name": "ic_public_ok",
+                    "value": "$media:ohos_ic_public_ok"
+                },
+                {
+                    "name": "ic_public_spinner_disable",
+                    "value": "$media:ohos_ic_public_spinner_disable"
                 }
             ]
         },
