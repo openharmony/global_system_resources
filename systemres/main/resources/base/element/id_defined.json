@@ -4718,6 +4718,16 @@
             "name": "ohos_ic_public_spinner_disable",
             "order": 922,
             "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_hover_animation_duration_default",
+            "order": 923
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_press_animation_duration_default",
+            "order": 924
         }
     ]
 }
