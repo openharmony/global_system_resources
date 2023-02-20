@@ -1584,6 +1584,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.READ_APP_PUSH_DATA",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 9,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.WRITE_APP_PUSH_DATA",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 9,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_AUDIO_CONFIG",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
