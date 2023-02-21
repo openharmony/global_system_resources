@@ -4726,8 +4726,13 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_press_animation_duration_default",
+            "name": "ohos_id_hover_to_press_animation_duration_default",
             "order": 924
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_press_animation_duration_default",
+            "order": 925
         }
     ]
 }
