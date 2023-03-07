@@ -177,6 +177,14 @@
                 {
                     "name": "text_font_size",
                     "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "border_color",
+                    "value": "$color:ohos_id_color_badge_red"
+                },
+                {
+                    "name": "border_width",
+                    "value": "$float:ohos_id_badge_border_width"
                 }
             ]
         },
@@ -951,6 +959,18 @@
                 {
                     "name": "moon_progress_fg_color_alpha",
                     "value": "$float:ohos_id_alpha_highlight_bg"
+                },
+                {
+                    "name": "progress_mask_color",
+                    "value": "$color:ohos_id_color_mask_regular"
+                },
+                {
+                    "name": "progress_border_color",
+                    "value": "$color:ohos_id_color_text_highlight_bg"
+                },
+                {
+                    "name": "progress_border_width",
+                    "value": "$float:ohos_id_float_progress_border_width"
                 }
             ]
         },
@@ -1298,6 +1318,18 @@
                 {
                     "name": "sub_tab_bar_min_width",
                     "value": "32.0vp"
+                },
+                {
+                    "name": "divider_color",
+                    "value": "$color:ohos_id_color_list_separator"
+                },
+                {
+                    "name": "tab_bar_shadow_margin",
+                    "value": "$float:ohos_id_tab_bar_shadow_margin_default"
+                },
+                {
+                    "name": "tab_bar_gradient_width",
+                    "value": "$float:ohos_id_tab_bar_gradient_width_default"
                 }
             ]
         },
@@ -1591,6 +1623,10 @@
                     "value": "$float:ohos_id_text_size_body1"
                 },
                 {
+                    "name": "menu_title_text_font_size",
+                    "value": "$float:ohos_id_text_size_headline8"
+                },
+                {
                     "name": "border_radius",
                     "value": "$float:ohos_id_corner_radius_button"
                 },
@@ -1701,6 +1737,10 @@
                 {
                     "name": "content_margin",
                     "value": "8.0vp"
+                },
+                {
+                    "name": "menu_title_height",
+                    "value": "$float:ohos_id_menu_title_height"
                 }
             ]
         },
