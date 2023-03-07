@@ -1762,6 +1762,14 @@
                 {
                     "name": "press_animation_duration",
                     "value": "$float:ohos_id_press_animation_duration_default"
+                },
+                {
+                    "name": "move_animation_duration",
+                    "value": "100.0"
+                },
+                {
+                    "name": "slider_max_length",
+                    "value": "360.0vp"
                 }
             ]
         },
