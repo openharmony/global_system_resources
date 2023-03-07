@@ -4733,6 +4733,31 @@
             "type": "float",
             "name": "ohos_id_press_animation_duration_default",
             "order": 925
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_tab_bar_shadow_margin_default",
+            "order": 926
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_tab_bar_gradient_width_default",
+            "order": 927
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_float_progress_border_width",
+            "order": 928
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_badge_border_width",
+            "order": 929
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_menu_title_height",
+            "order": 930
         }
     ]
 }
