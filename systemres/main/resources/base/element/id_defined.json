@@ -4758,6 +4758,12 @@
             "type": "float",
             "name": "ohos_id_menu_title_height",
             "order": 930
+        },
+        {
+            "type": "media",
+            "name": "ohos_icon_mask",
+            "order": 931,
+            "flags": "private"
         }
     ]
 }
