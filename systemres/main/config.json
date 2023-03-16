@@ -1203,6 +1203,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_BUNDLE_DIR",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 9,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ENTERPRISE_SUBSCRIBE_MANAGED_EVENT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
