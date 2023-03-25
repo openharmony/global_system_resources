@@ -108,6 +108,20 @@ ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Thin_Italic") {
   part_name = "ace_engine"
 }
 
+ohos_prebuilt_etc("HarmonyOS_Sans_Digit") {
+  source = "fonts/HarmonyOS_Sans_Digit.ttf"
+  module_install_dir = "fonts"
+  part_name = "ace_engine"
+  subsystem_name = "global"
+}
+
+ohos_prebuilt_etc("HarmonyOS_Sans_Digit_Medium") {
+  source = "fonts/HarmonyOS_Sans_Digit_Medium.ttf"
+  module_install_dir = "fonts"
+  part_name = "ace_engine"
+  subsystem_name = "global"
+}
+
 ohos_prebuilt_etc("HarmonyOS_Sans_Light") {
   source = "fonts/HarmonyOS_Sans_Light.ttf"
   module_install_dir = "fonts"
@@ -318,6 +332,8 @@ group("ohos_fonts") {
     ":HarmonyOS_Sans_Condensed_Regular_Italic",
     ":HarmonyOS_Sans_Condensed_Thin",
     ":HarmonyOS_Sans_Condensed_Thin_Italic",
+    ":HarmonyOS_Sans_Digit",
+    ":HarmonyOS_Sans_Digit_Medium",
     ":HarmonyOS_Sans_Light",
     ":HarmonyOS_Sans_Light_Italic",
     ":HarmonyOS_Sans_Medium",
