@@ -314,6 +314,48 @@ ohos_prebuilt_etc("HarmonyOS_Sans_Thin_Italic") {
   part_name = "ace_engine"
 }
 
+ohos_prebuilt_etc("NotoSans_JP_Regular") {
+  source = "fonts/NotoSans_JP_Regular.otf"
+  module_install_dir = "fonts"
+  part_name = "ace_engine"
+  subsystem_name = "global"
+}
+
+ohos_prebuilt_etc("NotoSans_JP_Bold") {
+  source = "fonts/NotoSans_JP_Bold.otf"
+  module_install_dir = "fonts"
+  part_name = "ace_engine"
+  subsystem_name = "global"
+}
+
+ohos_prebuilt_etc("NotoSans_JP_Light") {
+  source = "fonts/NotoSans_JP_Light.otf"
+  module_install_dir = "fonts"
+  part_name = "ace_engine"
+  subsystem_name = "global"
+}
+
+ohos_prebuilt_etc("NotoSans_KR_Regular") {
+  source = "fonts/NotoSans_KR_Regular.otf"
+  module_install_dir = "fonts"
+  part_name = "ace_engine"
+  subsystem_name = "global"
+}
+
+ohos_prebuilt_etc("NotoSans_KR_Bold") {
+  source = "fonts/NotoSans_KR_Bold.otf"
+  module_install_dir = "fonts"
+  part_name = "ace_engine"
+  subsystem_name = "global"
+}
+
+ohos_prebuilt_etc("NotoSans_KR_Light") {
+  source = "fonts/NotoSans_KR_Light.otf"
+  module_install_dir = "fonts"
+  part_name = "ace_engine"
+  subsystem_name = "global"
+}
+
 group("ohos_fonts") {
   deps = [
     ":HarmonyOS_Sans_Black",
@@ -366,5 +408,11 @@ group("ohos_fonts") {
     ":HarmonyOS_Sans_TC_Thin",
     ":HarmonyOS_Sans_Thin",
     ":HarmonyOS_Sans_Thin_Italic",
+    ":NotoSans_JP_Bold",
+    ":NotoSans_JP_Light",
+    ":NotoSans_JP_Regular",
+    ":NotoSans_KR_Bold",
+    ":NotoSans_KR_Light",
+    ":NotoSans_KR_Regular",
   ]
 }
