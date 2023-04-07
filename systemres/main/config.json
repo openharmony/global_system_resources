@@ -1768,6 +1768,15 @@
                 "deprecated": "",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.INSTALL_ENTERPRISE_BUNDLE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
