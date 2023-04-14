@@ -4764,6 +4764,16 @@
             "name": "ohos_icon_mask",
             "order": 931,
             "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_get_installed_bundle_list",
+            "order": 932
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_get_installed_bundle_list",
+            "order": 933
         }
     ]
 }
