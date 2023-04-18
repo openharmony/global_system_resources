@@ -507,6 +507,14 @@
         {
             "name": "ohos_desc_app_tracking_consent",
             "value": "Allows an application to access the open advertising identifier."
+        },
+        {
+            "name": "ohos_lab_get_installed_bundle_list",
+            "value": "Get the installed bundle list."
+        },
+        {
+            "name": "ohos_desc_get_installed_bundle_list",
+            "value": "Allows an application to get the installed bundle list."
         }
     ]
 }
