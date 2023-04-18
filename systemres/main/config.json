@@ -1356,6 +1356,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CLOUDFILE_SYNC_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CLOUDFILE_SYNC",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.FILE_ACCESS_MANAGER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
