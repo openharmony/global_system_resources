@@ -1284,6 +1284,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ENTERPRISE_SET_NETWORK",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ENTERPRISE_MANAGE_SET_APP_RUNNING_POLICY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -1795,6 +1804,17 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_INSTALLED_BUNDLE_LIST",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_get_installed_bundle_list",
+                "description": "$string:ohos_desc_get_installed_bundle_list"
             }
         ]
     }

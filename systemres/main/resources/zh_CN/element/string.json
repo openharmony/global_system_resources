@@ -499,6 +499,14 @@
         {
             "name": "ohos_desc_app_tracking_consent",
             "value": "允许应用读取广告标识符。"
+        },
+        {
+            "name": "ohos_lab_get_installed_bundle_list",
+            "value": "读取已安装应用列表"
+        },
+        {
+            "name": "ohos_desc_get_installed_bundle_list",
+            "value": "允许应用读取已安装应用列表。"
         }
     ]
 }
