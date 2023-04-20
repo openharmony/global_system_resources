@@ -25,5 +25,5 @@ ohos_hap("systemres_hap") {
   module_install_dir = "app/ohos.global.systemres"
   certificate_profile = "./SystemResources.p7b"
   subsystem_name = "global"
-  part_name = "systemres"
+  part_name = "system_resources"
 }

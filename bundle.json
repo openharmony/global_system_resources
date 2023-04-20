@@ -1,6 +1,6 @@
 {
-    "name": "@ohos/resources",
-    "version": "",
+    "name": "@ohos/system_resources",
+    "version": "4.0",
     "description": "global resources at the system level",
     "homePage": "https://gitee.com/openharmony",
     "license": "Apache V2",
@@ -35,15 +35,15 @@
         "destPath": "base/global/system_resources/systemres"
     },
     "component": {
-        "name": "systemres",
+        "name": "system_resources",
         "subsystem": "global",
         "syscap": [],
         "features": [],
         "adapted_system_type": [
             "standard"
         ],
-        "rom": "",
-        "ram": "",
+        "rom": "250KB",
+        "ram": "700KB",
         "deps": {
             "components": [],
             "third_party": []
