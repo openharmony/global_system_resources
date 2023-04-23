@@ -15,345 +15,393 @@ import("//build/ohos.gni")
 ohos_prebuilt_etc("HarmonyOS_Sans_Black") {
   source = "fonts/HarmonyOS_Sans_Black.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Black_Italic") {
   source = "fonts/HarmonyOS_Sans_Black_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Bold") {
   source = "fonts/HarmonyOS_Sans_Bold.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Bold_Italic") {
   source = "fonts/HarmonyOS_Sans_Bold_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Black") {
   source = "fonts/HarmonyOS_Sans_Condensed_Black.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Black_Italic") {
   source = "fonts/HarmonyOS_Sans_Condensed_Black_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Bold") {
   source = "fonts/HarmonyOS_Sans_Condensed_Bold.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Bold_Italic") {
   source = "fonts/HarmonyOS_Sans_Condensed_Bold_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Light") {
   source = "fonts/HarmonyOS_Sans_Condensed_Light.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Light_Italic") {
   source = "fonts/HarmonyOS_Sans_Condensed_Light_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Medium") {
   source = "fonts/HarmonyOS_Sans_Condensed_Medium.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Medium_Italic") {
   source = "fonts/HarmonyOS_Sans_Condensed_Medium_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Regular") {
   source = "fonts/HarmonyOS_Sans_Condensed_Regular.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Regular_Italic") {
   source = "fonts/HarmonyOS_Sans_Condensed_Regular_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Thin") {
   source = "fonts/HarmonyOS_Sans_Condensed_Thin.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Condensed_Thin_Italic") {
   source = "fonts/HarmonyOS_Sans_Condensed_Thin_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Digit") {
   source = "fonts/HarmonyOS_Sans_Digit.ttf"
   module_install_dir = "fonts"
-  part_name = "ace_engine"
   subsystem_name = "global"
+  part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Digit_Medium") {
   source = "fonts/HarmonyOS_Sans_Digit_Medium.ttf"
   module_install_dir = "fonts"
-  part_name = "ace_engine"
   subsystem_name = "global"
+  part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Light") {
   source = "fonts/HarmonyOS_Sans_Light.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Light_Italic") {
   source = "fonts/HarmonyOS_Sans_Light_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Medium") {
   source = "fonts/HarmonyOS_Sans_Medium.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Medium_Italic") {
   source = "fonts/HarmonyOS_Sans_Medium_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_UI_Black") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Black.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_Black") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_Black.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_UI_Bold") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Bold.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_Bold") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_Bold.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_UI_Light") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Light.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_Light") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_Light.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_UI_Medium") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Medium.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_Medium") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_Medium.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_UI_Regular") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Regular.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_Regular") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_Regular.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_UI_Thin") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Thin.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Naskh_Arabic_Thin") {
   source = "fonts/HarmonyOS_Sans_Naskh_Arabic_Thin.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Regular") {
   source = "fonts/HarmonyOS_Sans_Regular.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Regular_Italic") {
   source = "fonts/HarmonyOS_Sans_Regular_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_SC_Black") {
   source = "fonts/HarmonyOS_Sans_SC_Black.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_SC_Bold") {
   source = "fonts/HarmonyOS_Sans_SC_Bold.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_SC_Light") {
   source = "fonts/HarmonyOS_Sans_SC_Light.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_SC_Medium") {
   source = "fonts/HarmonyOS_Sans_SC_Medium.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_SC_Regular") {
   source = "fonts/HarmonyOS_Sans_SC_Regular.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_SC_Thin") {
   source = "fonts/HarmonyOS_Sans_SC_Thin.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_TC_Black") {
   source = "fonts/HarmonyOS_Sans_TC_Black.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_TC_Bold") {
   source = "fonts/HarmonyOS_Sans_TC_Bold.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_TC_Light") {
   source = "fonts/HarmonyOS_Sans_TC_Light.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_TC_Medium") {
   source = "fonts/HarmonyOS_Sans_TC_Medium.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_TC_Regular") {
   source = "fonts/HarmonyOS_Sans_TC_Regular.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_TC_Thin") {
   source = "fonts/HarmonyOS_Sans_TC_Thin.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Thin") {
   source = "fonts/HarmonyOS_Sans_Thin.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Thin_Italic") {
   source = "fonts/HarmonyOS_Sans_Thin_Italic.ttf"
   module_install_dir = "fonts"
+  subsystem_name = "global"
   part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("NotoSans_JP_Regular") {
   source = "fonts/NotoSans_JP_Regular.otf"
   module_install_dir = "fonts"
-  part_name = "ace_engine"
   subsystem_name = "global"
+  part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("NotoSans_JP_Bold") {
   source = "fonts/NotoSans_JP_Bold.otf"
   module_install_dir = "fonts"
-  part_name = "ace_engine"
   subsystem_name = "global"
+  part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("NotoSans_JP_Light") {
   source = "fonts/NotoSans_JP_Light.otf"
   module_install_dir = "fonts"
-  part_name = "ace_engine"
   subsystem_name = "global"
+  part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("NotoSans_KR_Regular") {
   source = "fonts/NotoSans_KR_Regular.otf"
   module_install_dir = "fonts"
-  part_name = "ace_engine"
   subsystem_name = "global"
+  part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("NotoSans_KR_Bold") {
   source = "fonts/NotoSans_KR_Bold.otf"
   module_install_dir = "fonts"
-  part_name = "ace_engine"
   subsystem_name = "global"
+  part_name = "ace_engine"
 }
 
 ohos_prebuilt_etc("NotoSans_KR_Light") {
   source = "fonts/NotoSans_KR_Light.otf"
   module_install_dir = "fonts"
-  part_name = "ace_engine"
   subsystem_name = "global"
+  part_name = "ace_engine"
 }
 
 group("ohos_fonts") {
