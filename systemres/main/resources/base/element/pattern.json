@@ -975,6 +975,38 @@
                 {
                     "name": "progress_border_width",
                     "value": "$float:ohos_id_float_progress_border_width"
+                },
+                {
+                    "name": "progress_disabled_alpha",
+                    "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "progress_click_effect",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "progress_text_size",
+                    "value": "$float:ohos_id_text_size_button3"
+                },
+                {
+                    "name": "capsule_progress_default_alpha",
+                    "value": "$float:ohos_id_alpha_highlight_bg"
+                },
+                {
+                    "name": "capsule_progress_select_color",
+                    "value": "$color:ohos_id_color_emphasize_contrary"
+                },
+                {
+                    "name": "progress_text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "ring_progress_fg_color_end",
+                    "value": "$color:ohos_id_color_ring_progress_end"
+                },
+                {
+                    "name": "ring_progress_fg_color_begin",
+                    "value": "$color:ohos_id_color_ring_progress_begin"
                 }
             ]
         },
