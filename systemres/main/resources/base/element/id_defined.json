@@ -4774,6 +4774,11 @@
             "type": "string",
             "name": "ohos_desc_get_installed_bundle_list",
             "order": 933
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_advanced_pattern",
+            "order": 934
         }
     ]
 }
