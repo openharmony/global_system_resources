@@ -1370,6 +1370,22 @@
                 {
                     "name": "tab_bar_gradient_width",
                     "value": "$float:ohos_id_tab_bar_gradient_width_default"
+                },
+                {
+                    "name": "color_bottom_tab_sub_bg",
+                    "value": "$color:ohos_id_color_bottom_tab_sub_bg"
+                },
+                {
+                    "name": "color_bottom_tab_sub_bg_blur",
+                    "value": "$color:ohos_id_color_bottom_tab_sub_bg_blur"
+                },
+		{
+                    "name": "bottom_tab_icon",
+                    "value": "$color:ohos_id_color_bottom_tab_icon"
+                },
+                {
+                    "name": "bottom_tab_icon_off",
+                    "value": "$color:ohos_id_color_bottom_tab_icon_off"
                 }
             ]
         },
