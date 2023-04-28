@@ -1007,6 +1007,14 @@
                 {
                     "name": "ring_progress_fg_color_begin",
                     "value": "$color:ohos_id_color_ring_progress_begin"
+                },
+                {
+                    "name": "capsule_progress_bg_color",
+                    "value": "$color:ohos_id_color_background"
+                },
+                {
+                    "name": "capsule_progress_bg_alpha",
+                    "value": "$float:ohos_id_alpha_content_fourth"
                 }
             ]
         },
