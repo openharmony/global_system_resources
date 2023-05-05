@@ -242,6 +242,74 @@
                 {
                     "name": "card_switch_button_bg_color_clicked",
                     "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "week_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "day_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "lunar_color",
+                    "value": "$color:ohos_id_color_text_secondary"
+                },
+                {
+                    "name": "weekend_day_color",
+                    "value": "$color:ohos_id_color_text_secondary"
+                },
+                {
+                    "name": "weekend_lunar_color",
+                    "value": "$color:ohos_id_color_text_secondary"
+                },
+                {
+                    "name": "today_day_focus_color",
+                    "value": "$color:ohos_id_color_tertiary"
+                },
+                {
+                    "name": "today_lunar_focus_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "today_day_unfocus_color",
+                    "value": "$color:ohos_id_color_tertiary"
+                },
+                {
+                    "name": "today_lunar_unfocus_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "work_mark_color",
+                    "value": "$color:ohos_id_color_text_secondary"
+                },
+                {
+                    "name": "off_mark_color",
+                    "value": "$color:ohos_id_color_fourth"
+                },
+                {
+                    "name": "non_current_month_work_mark_color",
+                    "value": "$color:ohos_id_color_text_secondary"
+                },
+                {
+                    "name": "non_current_month_off_mark_color",
+                    "value": "$color:ohos_id_color_fourth"
+                },
+                {
+                    "name": "non_current_month_day_color",
+                    "value": "$color:ohos_id_color_text_primary_contrary"
+                },
+                {
+                    "name": "non_current_month_lunar_color",
+                    "value": "$color:ohos_id_color_text_primary_contrary"
+                },
+                {
+                    "name": "focus_area_background_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "blur_area_background_color",
+                    "value": "$color:ohos_id_color_click_effect"
                 }
             ]
         },
