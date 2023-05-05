@@ -1321,6 +1321,38 @@
                 {
                     "name": "indicator_color_focused",
                     "value": "$color:ohos_id_color_focused_outline"
+                },
+                {
+                    "name": "arrow_disabled_alpha",
+                    "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "arrow_color_boardColor_hover",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "arrow_color_boardColor_click",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "arrow_color_primary",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "arrow_color_primary_contrary",
+                    "value": "$ohos_id_color_primary_contrary"
+                },
+                {
+                    "name": "arrow_color_component_normal",
+                    "value": "$color:ohos_id_color_component_normal"
+                },
+                {
+                    "name": "arrow_horizontal_margin",
+                    "value": "$float:ohos_id_elements_margin_horizontal_m"
+                },
+                {
+                    "name": "arrow_vertical_margin",
+                    "value": "$float:ohos_id_elements_margin_vertical_m"
                 }
             ]
         },
@@ -2189,6 +2221,22 @@
                 {
                     "name": "ic_public_spinner_disable",
                     "value": "$media:ohos_ic_public_spinner_disable"
+                },
+                {
+                    "name": "ic_public_arrow_left",
+                    "value":"$media:ohos_ic_public_arrow_left"
+                },
+                {
+                    "name": "ic_public_arrow_right",
+                    "value":"$media:ohos_ic_public_arrow_right"
+                },
+                {
+                    "name": "ic_public_arrow_up",
+                    "value":"$media:ohos_ic_public_arrow_up"
+                },
+                {
+                    "name": "ic_public_arrow_down",
+                    "value":"$media:ohos_ic_public_arrow_down"
                 }
             ]
         },
