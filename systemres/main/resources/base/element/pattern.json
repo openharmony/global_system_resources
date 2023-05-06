@@ -2189,6 +2189,14 @@
                 {
                     "name": "ic_public_spinner_disable",
                     "value": "$media:ohos_ic_public_spinner_disable"
+                },
+                {
+                    "name": "location_button_filled",
+                    "value": "$media:ohos_location_button_filled"
+                },
+                {
+                    "name": "location_button_line",
+                    "value": "$media:ohos_location_button_line"
                 }
             ]
         },
@@ -2299,6 +2307,111 @@
                 {
                     "name": "app_bar_ability_name",
                     "value": "FaPanelAbility"
+                }
+            ]
+        },
+        {
+            "name": "ohos_security_component_pattern",
+            "value": [
+                {
+                    "name": "icon_size",
+                    "value": "16.0vp"
+                },
+                {
+                    "name": "font_size",
+                    "value": "$float:ohos_id_text_size_button1"
+                },
+                {
+                    "name": "background_top_padding",
+                    "value": "12.0vp"
+                },
+                {
+                    "name": "background_right_padding",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "background_bottom_padding",
+                    "value": "12.0vp"
+                },
+                {
+                    "name": "background_left_padding",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "text_icon_padding",
+                    "value": "4.0vp"
+                },
+                {
+                    "name": "padding_without_background",
+                    "value": "4.0vp"
+                },
+                {
+                    "name": "icon_color",
+                    "value": "$color:ohos_id_color_primary_contrary"
+                },
+                {
+                    "name": "font_color",
+                    "value": "$color:ohos_id_color_text_primary_contrary"
+                },
+                {
+                    "name": "background_color",
+                    "value": "$color:ohos_id_color_activated"
+                },
+                {
+                    "name": "border_color",
+                    "value": "#ffffffff"
+                },
+                {
+                    "name": "border_width",
+                    "value": "0.0vp"
+                },
+                {
+                    "name": "border_radius",
+                    "value": "0.0vp"
+                },
+                {
+                    "name": "description_current_location",
+                    "value": "$string:ohos_id_text_location_button_description_current_location"
+                },
+                {
+                    "name": "description_add_location",
+                    "value": "$string:ohos_id_text_location_button_description_add_location"
+                },
+                {
+                    "name": "description_select_location",
+                    "value": "$string:ohos_id_text_location_button_description_select_location"
+                },
+                {
+                    "name": "description_share_location",
+                    "value": "$string:ohos_id_text_location_button_description_share_location"
+                },
+                {
+                    "name": "description_send_location",
+                    "value": "$string:ohos_id_text_location_button_description_send_location"
+                },
+                {
+                    "name": "description_locating",
+                    "value": "$string:ohos_id_text_location_button_description_locating"
+                },
+                {
+                    "name": "description_location",
+                    "value": "$string:ohos_id_text_location_button_description_location"
+                },
+                {
+                    "name": "description_send_current_location",
+                    "value": "$string:ohos_id_text_location_button_description_send_current_location"
+                },
+                {
+                    "name": "description_relocation",
+                    "value": "$string:ohos_id_text_location_button_description_relocation"
+                },
+                {
+                    "name": "description_punch_in",
+                    "value": "$string:ohos_id_text_location_button_description_punch_in"
+                },
+                {
+                    "name": "description_current_position",
+                    "value": "$string:ohos_id_text_location_button_description_current_position"
                 }
             ]
         }
