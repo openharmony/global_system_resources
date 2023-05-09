@@ -4787,111 +4787,183 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_week_color",
+            "name": "ohos_id_color_calendar_week",
             "order": 936
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_day_color",
+            "name": "ohos_id_color_calendar_day",
             "order": 937
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_lunar_color",
+            "name": "ohos_id_color_calendar_lunar",
             "order": 938
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_weekend_day_color",
+            "name": "ohos_id_color_calendar_weekend_day",
             "order": 939
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_weekend_lunar_color",
+            "name": "ohos_id_color_calendar_weekend_lunar",
             "order": 940
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_today_day_focus_color",
+            "name": "ohos_id_color_calendar_today_day_focus",
             "order": 941
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_today_lunar_focus_color",
+            "name": "ohos_id_color_calendar_today_lunar_focus",
             "order": 942
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_today_day_unfocus_color",
+            "name": "ohos_id_color_calendar_today_day_unfocus",
             "order": 943
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_today_lunar_unfocus_color",
+            "name": "ohos_id_color_calendar_today_lunar_unfocus",
             "order": 944
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_work_mark_color",
+            "name": "ohos_id_color_calendar_work_mark",
             "order": 945
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_off_mark_color",
+            "name": "ohos_id_color_calendar_off_mark",
             "order": 946
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_non_current_month_work_mark_color",
+            "name": "ohos_id_color_calendar_non_current_month_work_mark",
             "order": 947
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_non_current_month_off_mark_color",
+            "name": "ohos_id_color_calendar_non_current_month_off_mark",
             "order": 948
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_non_current_month_day_color",
+            "name": "ohos_id_color_calendar_non_current_month_day",
             "order": 949
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_non_current_month_lunar_color",
+            "name": "ohos_id_color_calendar_non_current_month_lunar",
             "order": 950
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_focus_area_background_color",
+            "name": "ohos_id_color_calendar_focus_area_background",
             "order": 951
         },
         {
             "type": "color",
-            "name": "ohos_id_color_calendar_blur_area_background_color",
+            "name": "ohos_id_color_calendar_blur_area_background",
             "order": 952
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_arrow_left",
+            "name": "ohos_location_button_filled",
             "order": 953,
             "flags": "private"
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_arrow_right",
+            "name": "ohos_location_button_line",
             "order": 954,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_security_component_pattern",
+            "order": 955
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_location_button_description_current_location",
+            "order": 956
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_location_button_description_add_location",
+            "order": 957
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_location_button_description_select_location",
+            "order": 958
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_location_button_description_share_location",
+            "order": 959
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_location_button_description_send_location",
+            "order": 960
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_location_button_description_locating",
+            "order": 961
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_location_button_description_location",
+            "order": 962
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_location_button_description_send_current_location",
+            "order": 963
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_location_button_description_relocation",
+            "order": 964
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_location_button_description_punch_in",
+            "order": 965
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_location_button_description_current_position",
+            "order": 966
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_arrow_left",
+            "order": 967,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_arrow_right",
+            "order": 968,
             "flags": "private"
         },
         {
             "type": "media",
             "name": "ohos_ic_public_arrow_up",
-            "order": 955,
+            "order": 969,
             "flags": "private"
         },
         {
             "type": "media",
             "name": "ohos_ic_public_arrow_down",
-            "order": 956,
+            "order": 970,
             "flags": "private"
         }
     ]
