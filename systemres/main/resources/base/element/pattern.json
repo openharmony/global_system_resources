@@ -1572,6 +1572,78 @@
                 {
                     "name": "over_outer_text_font_size",
                     "value": "$float:ohos_id_text_size_body3"
+                },
+                {
+                    "name": "over_count_text_color",
+                    "value": "$color:ohos_id_color_warning"
+                },
+                {
+                    "name": "over_count_text_font_size",
+                    "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "over_count_border_color",
+                    "value": "$color:ohos_id_color_warning"
+                },
+                {
+                    "name": "focus_broder_color",
+                    "value": "$color:ohos_id_color_focused_outline"
+                },
+                {
+                    "name": "border_radius_size",
+                    "value": "$float:ohos_id_corner_radius_default_s"
+                },
+                {
+                    "name": "typing_text_color",
+                    "value": "$color:ohos_id_color_text_hint"
+                },
+                {
+                    "name": "disabled_text_color",
+                    "value": "$color:ohos_id_color_text_tertiary"
+                },
+                {
+                    "name": "underline_actived_color",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "underline_typing_color",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "error_password_text_color",
+                    "value": "$color:ohos_id_color_warning"
+                },
+                {
+                    "name": "error_password_border_color",
+                    "value": "$color:ohos_id_color_warning"
+                },
+                {
+                    "name": "error_password_content_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "error_password_input_color",
+                    "value": "$color:ohos_id_color_text_field_sub_bg"
+                },
+                {
+                    "name": "error_underline_text_size",
+                    "value": "$float:ohos_id_text_size_body3"
+                },
+                {
+                    "name": "error_underline_text_color",
+                    "value": "$color:ohos_id_color_warning"
+                },
+                {
+                    "name": "error_underline_color",
+                    "value": "$color:ohos_id_color_warning"
+                },
+                {
+                    "name": "underline_color",
+                    "value": "$color:ohos_id_color_list_separator"
+                },
+                {
+                    "name": "underline_text_color",
+                    "value": "$color:ohos_id_color_text_hint"
                 }
             ]
         },
