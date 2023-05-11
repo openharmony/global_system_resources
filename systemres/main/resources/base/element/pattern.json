@@ -362,6 +362,26 @@
                 {
                     "name": "color_animation_duration",
                     "value": "100.0"
+                },
+                {
+                    "name": "default_width",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "default_height",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "hotzone_padding_horizontal",
+                    "value": "12.0vp"
+                },
+                {
+                    "name": "hotzone_padding_verical",
+                    "value": "12.0vp"
+                },
+                {
+                    "name": "default_padding",
+                    "value": "2.0vp"
                 }
             ]
         },
@@ -411,6 +431,26 @@
                 {
                     "name": "press_animation_duration",
                     "value": "$float:ohos_id_press_animation_duration_default"
+                },
+                {
+                    "name": "default_width",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "default_height",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "hotzone_padding_horizontal",
+                    "value": "12.0vp"
+                },
+                {
+                    "name": "hotzone_padding_verical",
+                    "value": "12.0vp"
+                },
+                {
+                    "name": "default_padding",
+                    "value": "2.0vp"
                 }
             ]
         },
