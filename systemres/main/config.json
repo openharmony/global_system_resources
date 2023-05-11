@@ -1851,6 +1851,24 @@
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_get_installed_bundle_list",
                 "description": "$string:ohos_desc_get_installed_bundle_list"
+            },
+            {
+                "name": "ohos.permission.ACCESS_CAST_ENGINE_MIRROR",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_CAST_ENGINE_STREAM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
