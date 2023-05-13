@@ -20,6 +20,7 @@
     },
     "module": {
         "package": "ohos.global.systemres",
+        "generateBuildHash":true,
         "deviceType": [
             "default",
             "tv",
