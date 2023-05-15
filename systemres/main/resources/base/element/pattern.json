@@ -2578,6 +2578,175 @@
                     "value": "$string:ohos_id_text_location_button_description_current_position"
                 }
             ]
+        },
+        {
+            "name": "ohos_advanced_pattern",
+            "value": [
+                {
+                    "name": "text_color_primary",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "text_color_secondary",
+                    "value": "$color:ohos_id_color_text_secondary"
+                },
+                {
+                    "name": "text_primary_activated",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "color_primary",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "color_test",
+                    "value": "$color:ohos_id_color_datapanel_color7_start"
+                },
+                {
+                    "name": "color_click_effect",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "color_titlebar_text",
+                    "value": "$color:ohos_id_color_titlebar_text"
+                },
+                {
+                    "name": "color_titlebar_subtitle_text",
+                    "value": "$color:ohos_id_color_titlebar_subtitle_text"
+                },
+                {
+                    "name": "color_titlebar_icon",
+                    "value": "$color:ohos_id_color_titlebar_icon"
+                },
+                {
+                    "name": "color_titlebar_text_off",
+                    "value": "$color:ohos_id_color_titlebar_text_off"
+                },
+                {
+                    "name": "color_tertiary",
+                    "value": "$color:ohos_id_color_tertiary"
+                },
+                {
+                    "name": "color_fourth",
+                    "value": "$color:ohos_id_color_fourth"
+                },
+                {
+                    "name": "color_focused_outline",
+                    "value": "$color:ohos_id_color_focused_outline"
+                },
+                {
+                    "name": "color_focused_outline",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "color_list_separator",
+                    "value": "$color:ohos_id_color_list_separator"
+                },
+                {
+                    "name": "color_toolbar_text",
+                    "value": "$color:ohos_id_color_toolbar_text"
+                },
+                {
+                    "name": "color_toolbar_icon",
+                    "value": "$color:ohos_id_color_toolbar_icon"
+                },
+                {
+                    "name": "color_toolbar_icon_actived",
+                    "value": "$color:ohos_id_color_toolbar_icon_actived"
+                },
+                {
+                    "name": "color_toolbar_text_actived",
+                    "value": "$color:ohos_id_color_toolbar_text_actived"
+                },
+                {
+                    "name": "color_toolbar_sub_bg",
+                    "value": "$color:ohos_id_color_toolbar_sub_bg"
+                },
+                {
+                    "name": "color_toolbar_bg",
+                    "value": "$color:ohos_id_color_toolbar_bg"
+                },
+                {
+                    "name": "text_size_sub_title3",
+                    "value": "$float:ohos_id_text_size_sub_title3"
+                },
+                {
+                    "name": "text_size_button2",
+                    "value": "$float:ohos_id_text_size_button2"
+                },
+                {
+                    "name": "text_size_sub_title2",
+                    "value": "$float:ohos_id_text_size_sub_title2"
+                },
+                {
+                    "name": "max_padding_start ",
+                    "value": "$float:ohos_id_max_padding_start"
+                },
+                {
+                    "name": "max_padding_end",
+                    "value": "$float:ohos_id_max_padding_end"
+                },
+                {
+                    "name": "default_padding_end",
+                    "value": "$float:ohos_id_default_padding_end"
+                },
+                {
+                    "name": "default_padding_start",
+                    "value": "$float:ohos_id_default_padding_start"
+                },
+                {
+                    "name": "corner_radius_clicked",
+                    "value": "$float:ohos_id_corner_radius_clicked"
+                },
+                {
+                    "name": "text_margin_horizontal",
+                    "value": "$float:ohos_id_text_margin_horizontal"
+                },
+                {
+                    "name": "text_size_caption",
+                    "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "text_size_headline7",
+                    "value": "$float:ohos_id_text_size_headline7"
+                },
+                {
+                    "name": "text_size_over_line",
+                    "value": "$float:ohos_id_text_size_over_line"
+                },
+                {
+                    "name": "text_size_headline8",
+                    "value": "$float:ohos_id_text_size_headline8"
+                },
+                {
+                    "name": "text_size_headline9",
+                    "value": "$float:ohos_id_text_size_headline9"
+                },
+                {
+                    "name": "text_size_body1",
+                    "value": "$float:ohos_id_text_size_body1"
+                },
+                {
+                    "name": "text_size_body2",
+                    "value": "$float:ohos_id_text_size_body2"
+                },
+                {
+                    "name": "corner_radius_dialog",
+                    "value": "$float:ohos_id_corner_radius_dialog"
+                },
+                {
+                    "name": "text_size_button1",
+                    "value": "$float:ohos_id_text_size_button1"  
+                },
+                {
+                    "name": "text_size_dialog_tittle",
+                    "value": "$float:ohos_id_text_size_dialog_tittle"
+                },
+                {
+                    "name": "corner_radius_subtab",
+                    "value": "$float:ohos_id_corner_radius_subtab"
+                }
+            ]
         }
     ]
 }
