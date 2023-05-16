@@ -2667,6 +2667,22 @@
                     "value": "$color:ohos_id_color_toolbar_bg"
                 },
                 {
+                    "name": "color_button_normal",
+                    "value": "$color:ohos_id_color_button_normal"
+                },
+                {
+                    "name": "color_progress",
+                    "value": "$color:ohos_id_color_progress"
+                },
+                {
+                    "name": "color_emphasize",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "color_text_primary_contrary",
+                    "value": "$color:ohos_id_color_text_primary_contrary"
+                },
+                {
                     "name": "text_size_sub_title3",
                     "value": "$float:ohos_id_text_size_sub_title3"
                 },
@@ -2679,7 +2695,7 @@
                     "value": "$float:ohos_id_text_size_sub_title2"
                 },
                 {
-                    "name": "max_padding_start ",
+                    "name": "max_padding_start",
                     "value": "$float:ohos_id_max_padding_start"
                 },
                 {
@@ -2736,7 +2752,7 @@
                 },
                 {
                     "name": "text_size_button1",
-                    "value": "$float:ohos_id_text_size_button1"  
+                    "value": "$float:ohos_id_text_size_button1"
                 },
                 {
                     "name": "text_size_dialog_tittle",
