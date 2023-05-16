@@ -12,6 +12,7 @@
 # limitations under the License.
 
 import("//build/ohos.gni")
+import("../systemres.gni")
 
 ohos_resources("main_res") {
   sources = [ "main/resources" ]
@@ -26,4 +27,10 @@ ohos_hap("systemres_hap") {
   certificate_profile = "./SystemResources.p7b"
   subsystem_name = "global"
   part_name = "system_resources"
+  if (defined(sign_hap_py_path)) {
+    certificate_profile = "${certificate_profile_path}"
+    key_alias = "OHSystemResources"
+    private_key_path = "OHSystemResources"
+    compatible_version = "9"
+  }
 }
