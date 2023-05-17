@@ -347,6 +347,46 @@
                     "name": "color_click",
                     "value": "#ff000000",
                     "type": "private"
+                },
+                {
+                    "name": "item_normal_color",
+                    "value": "$color:ohos_id_color_list_card_bg"
+                },
+                {
+                    "name": "item_margin_left",
+                    "value": "$float:ohos_id_card_margin_start"
+                },
+                {
+                    "name": "item_margin_right",
+                    "value": "$float:ohos_id_card_margin_end"
+                },
+                {
+                    "name": "item_border_radius",
+                    "value": "$float:ohos_id_corner_radius_default_l"
+                },
+                {
+                    "name": "item_focus_color",
+                    "value": "$color:ohos_id_color_focused_outline"
+                },
+                {
+                    "name": "item_hover_color",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "item_press_color",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "item_disabled_alpha",
+                    "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "item_select_color",
+                    "value": "#007DFF"
+                },
+                {
+                    "name": "item_selected_alpha",
+                    "value": "$float:ohos_id_alpha_normal_bg"
                 }
             ]
         },
