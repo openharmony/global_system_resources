@@ -5005,6 +5005,226 @@
             "type": "pattern",
             "name": "ohos_advanced_pattern",
             "order": 978
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_top_padding",
+            "order": 979
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_column_space",
+            "order": 980
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_week_height",
+            "order": 981
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_day_height",
+            "order": 982
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_week_width",
+            "order": 983
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_day_width",
+            "order": 984
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_week_and_day_space",
+            "order": 985
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_five_row_space",
+            "order": 986
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_six_row_space",
+            "order": 987
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_gregorian_height",
+            "order": 988
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_work_state_width",
+            "order": 989
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_play_width",
+            "order": 990
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_play_height",
+            "order": 991
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_play_padding_left",
+            "order": 992
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_play_padding_top",
+            "order": 993
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_play_padding_right",
+            "order": 994
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_play_padding_bottom",
+            "order": 995
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_current_time_width",
+            "order": 996
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_current_time_height",
+            "order": 997
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_current_time_padding_left",
+            "order": 998
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_current_time_padding_top",
+            "order": 999
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_current_time_padding_right",
+            "order": 1000
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_current_time_padding_bottom",
+            "order": 1001
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_progress_width",
+            "order": 1002
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_progress_height",
+            "order": 1003
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_progress_padding_left",
+            "order": 1004
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_progress_padding_top",
+            "order": 1005
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_progress_padding_right",
+            "order": 1006
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_progress_padding_bottom",
+            "order": 1007
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_total_time_width",
+            "order": 1008
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_total_time_height",
+            "order": 1009
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_total_time_padding_left",
+            "order": 1010
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_total_time_padding_top",
+            "order": 1011
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_total_time_padding_right",
+            "order": 1012
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_total_time_padding_bottom",
+            "order": 1013
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_full_screen_width",
+            "order": 1014
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_full_screen_height",
+            "order": 1015
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_full_screen_padding_left",
+            "order": 1016
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_full_screen_padding_top",
+            "order": 1017
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_full_screen_padding_right",
+            "order": 1018
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_full_screen_padding_bottom",
+            "order": 1019
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_video_control_bar_text_color",
+            "order": 1020
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_text_font_size",
+            "order": 1021
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_video_control_bar_background_color",
+            "order": 1022
         }
     ]
 }

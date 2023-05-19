@@ -310,6 +310,50 @@
                 {
                     "name": "blur_area_background_color",
                     "value": "$color:ohos_id_color_calendar_blur_area_background"
+                },
+                {
+                    "name": "top_padding",
+                    "value": "$float:ohos_id_calendar_top_padding"
+                },
+                {
+                    "name": "column_space",
+                    "value": "$float:ohos_id_calendar_column_space"
+                },
+                {
+                    "name": "week_height",
+                    "value": "$float:ohos_id_calendar_week_height"
+                },
+                {
+                    "name": "day_height",
+                    "value": "$float:ohos_id_calendar_day_height"
+                },
+                {
+                    "name": "week_width",
+                    "value": "$float:ohos_id_calendar_week_width"
+                },
+                {
+                    "name": "day_width",
+                    "value": "$float:ohos_id_calendar_day_width"
+                },
+                {
+                    "name": "week_and_day_space",
+                    "value": "$float:ohos_id_calendar_week_and_day_space"
+                },
+                {
+                    "name": "five_row_space",
+                    "value": "$float:ohos_id_calendar_five_row_space"
+                },
+                {
+                    "name": "six_row_space",
+                    "value": "$float:ohos_id_calendar_six_row_space"
+                },
+                {
+                    "name": "gregorian_height",
+                    "value": "$float:ohos_id_calendar_gregorian_height"
+                },
+                {
+                    "name": "work_state_width",
+                    "value": "$float:ohos_id_calendar_work_state_width"
                 }
             ]
         },
@@ -328,6 +372,138 @@
                 {
                     "name": "",
                     "value": ""
+                },
+                {
+                    "name": "control_bar_play_width",
+                    "value": "$float:ohos_id_video_control_bar_play_width"
+                },
+                {
+                    "name": "control_bar_play_height",
+                    "value": "$float:ohos_id_video_control_bar_play_height"
+                },
+                {
+                    "name": "control_bar_play_padding_left",
+                    "value": "$float:ohos_id_video_control_bar_play_padding_left"
+                },
+                {
+                    "name": "control_bar_play_padding_top",
+                    "value": "$float:ohos_id_video_control_bar_play_padding_top"
+                },
+                {
+                    "name": "control_bar_play_padding_right",
+                    "value": "$float:ohos_id_video_control_bar_play_padding_right"
+                },
+                {
+                    "name": "control_bar_play_padding_bottom",
+                    "value": "$float:ohos_id_video_control_bar_play_padding_bottom"
+                },
+                {
+                    "name": "control_bar_current_time_width",
+                    "value": "$float:ohos_id_video_control_bar_current_time_width"
+                },
+                {
+                    "name": "control_bar_current_time_height",
+                    "value": "$float:ohos_id_video_control_bar_current_time_height"
+                },
+                {
+                    "name": "control_bar_current_time_padding_left",
+                    "value": "$float:ohos_id_video_control_bar_current_time_padding_left"
+                },
+                {
+                    "name": "control_bar_current_time_padding_top",
+                    "value": "$float:ohos_id_video_control_bar_current_time_padding_top"
+                },
+                {
+                    "name": "control_bar_current_time_padding_right",
+                    "value": "$float:ohos_id_video_control_bar_current_time_padding_right"
+                },
+                {
+                    "name": "control_bar_current_time_padding_bottom",
+                    "value": "$float:ohos_id_video_control_bar_current_time_padding_bottom"
+                },
+                {
+                    "name": "control_bar_progress_width",
+                    "value": "$float:ohos_id_video_control_bar_progress_width"
+                },
+                {
+                    "name": "control_bar_progress_height",
+                    "value": "$float:ohos_id_video_control_bar_progress_height"
+                },
+                {
+                    "name": "control_bar_progress_padding_left",
+                    "value": "$float:ohos_id_video_control_bar_progress_padding_left"
+                },
+                {
+                    "name": "control_bar_progress_padding_top",
+                    "value": "$float:ohos_id_video_control_bar_progress_padding_top"
+                },
+                {
+                    "name": "control_bar_progress_padding_right",
+                    "value": "$float:ohos_id_video_control_bar_progress_padding_right"
+                },
+                {
+                    "name": "control_bar_progress_padding_bottom",
+                    "value": "$float:ohos_id_video_control_bar_progress_padding_bottom"
+                },
+                {
+                    "name": "control_bar_total_time_width",
+                    "value": "$float:ohos_id_video_control_bar_total_time_width"
+                },
+                {
+                    "name": "control_bar_total_time_height",
+                    "value": "$float:ohos_id_video_control_bar_total_time_height"
+                },
+                {
+                    "name": "control_bar_total_time_padding_left",
+                    "value": "$float:ohos_id_video_control_bar_total_time_padding_left"
+                },
+                {
+                    "name": "control_bar_total_time_padding_top",
+                    "value": "$float:ohos_id_video_control_bar_total_time_padding_top"
+                },
+                {
+                    "name": "control_bar_total_time_padding_right",
+                    "value": "$float:ohos_id_video_control_bar_total_time_padding_right"
+                },
+                {
+                    "name": "control_bar_total_time_padding_bottom",
+                    "value": "$float:ohos_id_video_control_bar_total_time_padding_bottom"
+                },
+                {
+                    "name": "control_bar_full_screen_width",
+                    "value": "$float:ohos_id_video_control_bar_full_screen_width"
+                },
+                {
+                    "name": "control_bar_full_screen_height",
+                    "value": "$float:ohos_id_video_control_bar_full_screen_height"
+                },
+                {
+                    "name": "control_bar_full_screen_padding_left",
+                    "value": "$float:ohos_id_video_control_bar_full_screen_padding_left"
+                },
+                {
+                    "name": "control_bar_full_screen_padding_top",
+                    "value": "$float:ohos_id_video_control_bar_full_screen_padding_top"
+                },
+                {
+                    "name": "control_bar_full_screen_padding_right",
+                    "value": "$float:ohos_id_video_control_bar_full_screen_padding_right"
+                },
+                {
+                    "name": "control_bar_full_screen_padding_bottom",
+                    "value": "$float:ohos_id_video_control_bar_full_screen_padding_bottom"
+                },
+                {
+                    "name": "control_bar_text_color",
+                    "value": "$color:ohos_id_video_control_bar_text_color"
+                },
+                {
+                    "name": "control_bar_text_font_size",
+                    "value": "$float:ohos_id_video_control_bar_text_font_size"
+                },
+                {
+                    "name": "control_bar_background_color",
+                    "value": "$color:ohos_id_video_control_bar_background_color"
                 }
             ]
         },
@@ -1499,7 +1675,7 @@
                     "name": "color_bottom_tab_sub_bg_blur",
                     "value": "$color:ohos_id_color_bottom_tab_sub_bg_blur"
                 },
-		{
+                {
                     "name": "bottom_tab_icon",
                     "value": "$color:ohos_id_color_bottom_tab_icon"
                 },
@@ -2320,19 +2496,19 @@
                 },
                 {
                     "name": "ic_public_arrow_left",
-                    "value":"$media:ohos_ic_public_arrow_left"
+                    "value": "$media:ohos_ic_public_arrow_left"
                 },
                 {
                     "name": "ic_public_arrow_right",
-                    "value":"$media:ohos_ic_public_arrow_right"
+                    "value": "$media:ohos_ic_public_arrow_right"
                 },
                 {
                     "name": "ic_public_arrow_up",
-                    "value":"$media:ohos_ic_public_arrow_up"
+                    "value": "$media:ohos_ic_public_arrow_up"
                 },
                 {
                     "name": "ic_public_arrow_down",
-                    "value":"$media:ohos_ic_public_arrow_down"
+                    "value": "$media:ohos_ic_public_arrow_down"
                 },
                 {
                     "name": "ic_public_cut",
