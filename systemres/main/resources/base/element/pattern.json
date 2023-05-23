@@ -2711,6 +2711,14 @@
                     "value": "$float:ohos_id_text_size_button1"
                 },
                 {
+                    "name": "min_icon_size",
+                    "value": "12.0vp"
+                },
+                {
+                    "name": "min_font_size",
+                    "value": "12.0vp"
+                },
+                {
                     "name": "background_top_padding",
                     "value": "12.0vp"
                 },
@@ -2745,6 +2753,14 @@
                 {
                     "name": "background_color",
                     "value": "$color:ohos_id_color_activated"
+                },
+                {
+                    "name": "icon_color_no_bg",
+                    "value": "$color:ohos_id_color_activated"
+                },
+                {
+                    "name": "font_color_no_bg",
+                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "border_color",
