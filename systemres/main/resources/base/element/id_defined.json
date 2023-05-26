@@ -5230,6 +5230,60 @@
             "type": "pattern",
             "name": "ohos_form_pattern",
             "order": 1023
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_fullscreen",
+            "order": 1024,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_maximize",
+            "order": 1025,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_ok",
+            "order": 1026,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_screen_l",
+            "order": 1027,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_screen_n",
+            "order": 1028,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_min",
+            "order": 1029,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_restores",
+            "order": 1030,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_close",
+            "order": 1031,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_max",
+            "order": 1032,
+            "flags": "private"
         }
     ]
 }
