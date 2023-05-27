@@ -977,6 +977,14 @@
                 {
                     "name": "button_text_font_size",
                     "value": "$float:ohos_id_text_size_button1"
+                },
+                {
+                    "name": "dialog_divider_length",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "dialog_divider_between_button_width",
+                    "value": "2.0px"
                 }
             ]
         },
