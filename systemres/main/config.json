@@ -961,6 +961,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_NET_STRATEGY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.SET_ABILITY_CONTROLLER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
