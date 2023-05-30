@@ -551,6 +551,22 @@
         {
             "name": "ohos_id_text_location_button_description_current_position",
             "value": "所在位置"
+        },
+        {
+            "name": "ohos_lab_device_standby_exemption",
+            "value": "允许应用在系统待机模式正常使用资源"
+        },
+        {
+            "name": "ohos_desc_device_standby_exemption",
+            "value": "如果系统应用需要系统待机模式正常使用资源，则需要申请该权限"
+        },
+        {
+            "name": "ohos_lab_restrict_application_active",
+            "value": "允许待机续航部件发布一个自定义的限网事件"
+        },
+        {
+            "name": "ohos_desc_restrict_application_active",
+            "value": "如果待机续航部件需要发布一个自定义的限网事件，需要权限保护"
         }
     ]
 }
