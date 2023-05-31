@@ -563,18 +563,6 @@
         {
             "name": "ohos_lab_device_standby_exemption",
             "value": "Allows applications to use resources in idle mode"
-        },
-        {
-            "name": "ohos_desc_device_standby_exemption",
-            "value": "If system application need to use resources in idel mode, apply for this permission"
-        },
-        {
-            "name": "ohos_lab_restrict_application_active",
-            "value": "Allows the standby component to publish a customized network limit event"
-        },
-        {
-            "name": "ohos_desc_restrict_application_active",
-            "value": "If the standby component needs to publish a customized network limit event, permission protection is required"
         }
     ]
 }
