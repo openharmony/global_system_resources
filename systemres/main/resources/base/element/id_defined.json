@@ -5284,6 +5284,69 @@
             "name": "ohos_ic_window_max",
             "order": 1032,
             "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_paste_button_line",
+            "order": 1033,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_save_button_filled",
+            "order": 1034,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_save_button_line",
+            "order": 1035,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_paste_button_description_paste",
+            "order": 1036
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_save_button_description_download",
+            "order": 1037
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_save_button_description_download_files",
+            "order": 1038
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_save_button_description_save",
+            "order": 1039
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_save_button_description_save_images",
+            "order": 1040
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_save_button_description_save_files",
+            "order": 1041
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_save_button_description_download_and_share",
+            "order": 1042
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_save_button_description_receive",
+            "order": 1043
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_save_button_description_continue_to_receive",
+            "order": 1044
         }
     ]
 }

@@ -2653,6 +2653,18 @@
                 {
                     "name": "ic_window_restores",
                     "value": "$media:ohos_ic_window_restores"
+                },
+                {
+                    "name": "paste_button_line",
+                    "value": "$media:ohos_paste_button_line"
+                },
+                {
+                    "name": "save_button_filled",
+                    "value": "$media:ohos_save_button_filled"
+                },
+                {
+                    "name": "save_button_line",
+                    "value": "$media:ohos_save_button_line"
                 }
             ]
         },
@@ -2893,6 +2905,42 @@
                 {
                     "name": "description_current_position",
                     "value": "$string:ohos_id_text_location_button_description_current_position"
+                },
+                {
+                    "name": "description_paste",
+                    "value": "$string:ohos_id_text_paste_button_description_paste"
+                },
+                {
+                    "name": "description_download",
+                    "value": "$string:ohos_id_text_save_button_description_download"
+                },
+                {
+                    "name": "description_download_files",
+                    "value": "$string:ohos_id_text_save_button_description_download_files"
+                },
+                {
+                    "name": "description_save",
+                    "value": "$string:ohos_id_text_save_button_description_save"
+                },
+                {
+                    "name": "description_save_images",
+                    "value": "$string:ohos_id_text_save_button_description_save_images"
+                },
+                {
+                    "name": "description_save_files",
+                    "value": "$string:ohos_id_text_save_button_description_save_files"
+                },
+                {
+                    "name": "description_download_and_share",
+                    "value": "$string:ohos_id_text_save_button_description_download_and_share"
+                },
+                {
+                    "name": "description_receive",
+                    "value": "$string:ohos_id_text_save_button_description_receive"
+                },
+                {
+                    "name": "description_continue_to_receive",
+                    "value": "$string:ohos_id_text_save_button_description_continue_to_receive"
                 }
             ]
         },
