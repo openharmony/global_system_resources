@@ -1906,6 +1906,15 @@
                 "deprecated": "",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_SENSOR",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
