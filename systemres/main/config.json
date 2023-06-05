@@ -1933,6 +1933,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.PREPARE_APP_TERMINATE",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
