@@ -2014,6 +2014,24 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.FILE_GUARD_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_FILE_GUARD_POLICY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
