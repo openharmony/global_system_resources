@@ -3140,6 +3140,19 @@
                     "value": "$float:ohos_id_corner_radius_subtab"
                 }
             ]
+        },
+        {
+            "name": "ohos_side_bar_pattern",
+            "value": [
+                {
+                    "name": "control_image_color",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "side_bar_background_color",
+                    "value": "$color:ohos_id_color_text_field_sub_bg"
+                }
+            ]
         }
     ]
 }
