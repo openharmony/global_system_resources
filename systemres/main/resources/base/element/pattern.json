@@ -1023,6 +1023,32 @@
             ]
         },
         {
+            "name": "ohos_close_icon_pattern",
+            "value": [
+                {
+                    "name": "close_icon_width",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "close_icon_height",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "close_icon_margin_top",
+                    "value": "20.0vp"
+                },
+                {
+                    "name": "close_icon_margin_right",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "close_icon_radius",
+                    "value": "12.0vp"
+                }
+
+            ]
+        },
+        {
             "name": "ohos_focus_animation_pattern",
             "value": [
                 {
@@ -2677,6 +2703,10 @@
                 {
                     "name": "save_button_line",
                     "value": "$media:ohos_save_button_line"
+                },
+                {
+                    "name": "ic_bottomsheet_close",
+                    "value":"$media:ohos_ic_bottomsheet_close"
                 }
             ]
         },

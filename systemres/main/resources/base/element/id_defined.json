@@ -5347,6 +5347,21 @@
             "type": "string",
             "name": "ohos_id_text_save_button_description_continue_to_receive",
             "order": 1044
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_side_bar_pattern",
+            "order": 1045
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_bottomsheet_close",
+            "order": 1046
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_close_icon_pattern",
+            "order": 1047
         }
     ]
 }
