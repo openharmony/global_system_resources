@@ -1635,7 +1635,7 @@
                 "availableLevel": "system_basic",
                 "since": 9,
                 "deprecated": "",
-                "provisionEnable": false,
+                "provisionEnable": true,
                 "distributedSceneEnable": false
             },
             {
@@ -1653,7 +1653,7 @@
                 "availableLevel": "system_core",
                 "since": 9,
                 "deprecated": "",
-                "provisionEnable": false,
+                "provisionEnable": true,
                 "distributedSceneEnable": true
             },
             {
@@ -2031,6 +2031,24 @@
                 "since": 10,
                 "deprecated": "",
                 "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.securityguard.SET_MODEL_STATE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.hsdr.HSDR_ACCESS",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": false,
                 "distributedSceneEnable": false
             }
         ]
