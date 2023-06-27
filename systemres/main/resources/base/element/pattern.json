@@ -2287,6 +2287,22 @@
                 {
                     "name": "menu_title_height",
                     "value": "$float:ohos_id_menu_title_height"
+                },
+                {
+                    "name": "default_padding_start",
+                    "value": "$float:ohos_id_default_padding_start"
+                },
+                {
+                    "name": "default_padding_end",
+                    "value": "$float:ohos_id_default_padding_end"
+                },
+                {
+                    "name": "default_padding_top",
+                    "value": "$float:ohos_id_default_padding_top"
+                },
+                {
+                    "name": "default_padding_bottom_fixed",
+                    "value": "$float:ohos_id_default_padding_bottom_fixed"
                 }
             ]
         },
@@ -3168,6 +3184,19 @@
                 {
                     "name": "corner_radius_subtab",
                     "value": "$float:ohos_id_corner_radius_subtab"
+                }
+            ]
+        },
+        {
+            "name": "ohos_side_bar_pattern",
+            "value": [
+                {
+                    "name": "control_image_color",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "side_bar_background_color",
+                    "value": "$color:ohos_id_color_text_field_sub_bg"
                 }
             ]
         }
