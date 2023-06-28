@@ -1956,6 +1956,22 @@
                 {
                     "name": "underline_text_color",
                     "value": "$color:ohos_id_color_text_hint"
+                },
+                {
+                    "name": "inline_text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "inline_radius_size",
+                    "value": "$float:ohos_id_corner_radius_default_xs"
+                },
+                {
+                    "name": "inline_bg_color",
+                    "value": "$color:ohos_id_color_text_field_bg"
+                },
+                {
+                    "name": "inline_border_color",
+                    "value": "$color:ohos_id_color_emphasize"
                 }
             ]
         },
