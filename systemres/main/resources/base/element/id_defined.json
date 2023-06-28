@@ -5352,6 +5352,12 @@
             "type": "pattern",
             "name": "ohos_side_bar_pattern",
             "order": 1045
+        },
+        {
+            "type": "string",
+            "name": "ohos_drawable_descriptor_path",
+            "order": 1046,
+            "flags":"private"
         }
     ]
 }
