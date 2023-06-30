@@ -5358,6 +5358,16 @@
             "name": "ohos_drawable_descriptor_path",
             "order": 1046,
             "flags":"private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_bottomsheet_close",
+            "order": 1047
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_close_icon_pattern",
+            "order": 1048
         }
     ]
 }
