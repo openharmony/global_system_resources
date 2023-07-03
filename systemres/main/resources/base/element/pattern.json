@@ -1141,6 +1141,42 @@
                 {
                     "name": "button_alpha_disabled",
                     "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "toolbar_bg_color",
+                    "value": "$color:ohos_id_color_toolbar_sub_bg"
+                },
+                {
+                    "name": "toolbar_divider_color",
+                    "value": "$color:ohos_id_color_list_separator"
+                },
+                {
+                    "name": "toolbar_item_focus_color",
+                    "value": "$color:ohos_id_color_focused_outline"
+                },
+                {
+                    "name": "toolbar_item_bg_button_border_radius",
+                    "value": "$float:ohos_id_corner_radius_clicked"
+                },
+                {
+                    "name": "toolbar_item_font_size",
+                    "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "toolbar_item_font_color",
+                    "value": "$color:ohos_id_color_toolbar_text"
+                },
+                {
+                    "name": "toolbar_item_icon_color",
+                    "value": "$color:ohos_id_color_toolbar_icon"
+                },
+                {
+                    "name": "toolbar_item_active_icon_color",
+                    "value": "$color:ohos_id_color_toolbar_icon_actived"
+                },
+                {
+                    "name": "toolbar_item_active_text_color",
+                    "value": "$color:ohos_id_color_toolbar_text_actived"
                 }
             ]
         },
