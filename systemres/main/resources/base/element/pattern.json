@@ -574,8 +574,16 @@
             "name": "ohos_qrcode_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "qrcode_foreground_color",
+                    "value": "$color:ohos_id_color_foreground"
+                },
+                {
+                    "name": "qrcode_background_color",
+                    "value": "$color:ohos_id_color_background"
+                },
+                {
+                    "name": "qrcode_focused_color",
+                    "value": "$color:ohos_id_color_focused_outline"
                 }
             ]
         },
