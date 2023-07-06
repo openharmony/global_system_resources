@@ -1218,6 +1218,14 @@
                 {
                     "name": "focus_border_margin",
                     "value": "$float:ohos_id_picker_focus_border_margin"
+                },
+                {
+                    "name": "lunarswitch_text_size",
+                    "value": "$float:ohos_id_text_size_body2"
+                },
+                {
+                    "name": "lunarswitch_text_color",
+                    "value": "$color:ohos_id_color_text_primary"
                 }
             ]
         },
