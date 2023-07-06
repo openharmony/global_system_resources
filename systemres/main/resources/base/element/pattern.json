@@ -358,6 +358,178 @@
                 {
                     "name": "work_state_width",
                     "value": "$float:ohos_id_calendar_work_state_width"
+                },
+                {
+                    "name": "calendar_picker_entry_border_color",
+                    "value": "$color:ohos_id_color_component_normal"
+                },
+                {
+                    "name": "calendar_picker_entry_arrow_color",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "calendar_picker_select_background_color",
+                    "value": "$color:ohos_id_color_emphasize_contrary"
+                },
+                {
+                    "name": "calendar_picker_dialog_background_color",
+                    "value": "$color:ohos_id_color_dialog_bg"
+                },
+                {
+                    "name": "calendar_picker_title_font_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "calendar_picker_attribute_alpha_content_primary",
+                    "value": "$float:ohos_id_alpha_content_primary"
+                },
+                {
+                    "name": "calendar_picker_attribute_alpha_content_tertiary",
+                    "value": "$float:ohos_id_alpha_content_tertiary"
+                },
+                {
+                    "name": "calendar_picker_text_selected_day_color",
+                    "value": "$color:ohos_id_color_text_primary_contrary"
+                },
+                {
+                    "name": "calendar_picker_text_current_day_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "calendar_picker_background_key_focused_color",
+                    "value": "$color:ohos_id_color_focused_outline"
+                },
+                {
+                    "name": "calendar_picker_background_selected_focused_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "calendar_picker_attribute_alpha_highlight_bg",
+                    "value": "$float:ohos_id_alpha_highlight_bg"
+                },
+                {
+                    "name": "calendar_picker_background_hover_color",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "calendar_picker_background_press_color",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "calendar_picker_entry_height",
+                    "value": "$float:ohos_id_calendar_picker_entry_height"
+                },
+                {
+                    "name": "calendar_picker_entry_border_width",
+                    "value": "$float:ohos_id_calendar_picker_entry_border_width"
+                },
+                {
+                    "name": "calendar_picker_entry_border_radius",
+                    "value": "$float:ohos_id_calendar_picker_entry_border_radius"
+                },
+                {
+                    "name": "calendar_picker_entry_button_width",
+                    "value": "$float:ohos_id_calendar_picker_entry_button_width"
+                },
+                {
+                    "name": "calendar_picker_entry_arrow_height",
+                    "value": "$float:ohos_id_calendar_picker_entry_arrow_height"
+                },
+                {
+                    "name": "calendar_picker_entry_arrow_width",
+                    "value": "$float:ohos_id_calendar_picker_entry_arrow_width"
+                },
+                {
+                    "name": "calendar_picker_entry_date_left_right_margin",
+                    "value": "$float:ohos_id_calendar_picker_entry_date_left_right_margin"
+                },
+                {
+                    "name": "calendar_picker_entry_date_top_bottom_margin",
+                    "value": "$float:ohos_id_calendar_picker_entry_date_top_bottom_margin"
+                },
+                {
+                    "name": "calendar_picker_dialog_margin",
+                    "value": "$float:ohos_id_calendar_picker_dialog_margin"
+                },
+                {
+                    "name": "calendar_picker_day_width_height",
+                    "value": "$float:ohos_id_calendar_picker_day_width_height"
+                },
+                {
+                    "name": "calendar_picker_day_font_size",
+                    "value": "$float:ohos_id_calendar_picker_day_font_size"
+                },
+                {
+                    "name": "calendar_picker_distance_between_container_and_date",
+                    "value": "$float:ohos_id_calendar_picker_distance_between_container_and_date"
+                },
+                {
+                    "name": "calendar_picker_distance_between_title_and_date",
+                    "value": "$float:ohos_id_calendar_picker_distance_between_title_and_date"
+                },
+                {
+                    "name": "calendar_picker_container_height",
+                    "value": "$float:ohos_id_calendar_picker_container_height"
+                },
+                {
+                    "name": "calendar_picker_title_font_size",
+                    "value": "$float:ohos_id_calendar_picker_title_font_size"
+                },
+                {
+                    "name": "calendar_picker_title_row_height",
+                    "value": "$float:ohos_id_calendar_picker_title_row_height"
+                },
+                {
+                    "name": "calendar_picker_title_row_top_padding",
+                    "value": "$float:ohos_id_calendar_picker_title_row_top_padding"
+                },
+                {
+                    "name": "calendar_picker_title_row_left_right_padding",
+                    "value": "$float:ohos_id_calendar_picker_title_row_left_right_padding"
+                },
+                {
+                    "name": "calendar_picker_title_text_padding",
+                    "value": "$float:ohos_id_calendar_picker_title_text_padding"
+                },
+                {
+                    "name": "calendar_picker_title_image_padding",
+                    "value": "$float:ohos_id_calendar_picker_title_image_padding"
+                },
+                {
+                    "name": "calendar_picker_image_width_height",
+                    "value": "$float:ohos_id_calendar_picker_image_width_height"
+                },
+                {
+                    "name": "calendar_picker_action_row_top_padding",
+                    "value": "$float:ohos_id_calendar_picker_action_row_top_padding"
+                },
+                {
+                    "name": "calendar_picker_action_row_bottom_left_right_padding",
+                    "value": "$float:ohos_id_calendar_picker_action_row_bottom_left_right_padding"
+                },
+                {
+                    "name": "calendar_picker_action_row_height",
+                    "value": "$float:ohos_id_calendar_picker_action_row_height"
+                },
+                {
+                    "name": "calendar_picker_day_radius",
+                    "value": "$float:ohos_id_calendar_picker_day_radius"
+                },
+                {
+                    "name": "calendar_day_key_focused_width",
+                    "value": "$float:ohos_id_calendar_day_key_focused_width"
+                },
+                {
+                    "name": "calendar_day_key_focused_pen_width",
+                    "value": "$float:ohos_id_calendar_day_key_focused_pen_width"
+                },
+                {
+                    "name": "calendar_picker_entry_font_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "calendar_picker_entry_font_size",
+                    "value": "$float:ohos_id_text_size_body1"
                 }
             ]
         },
@@ -2659,6 +2831,14 @@
                 {
                     "name": "ic_public_arrow_down",
                     "value": "$media:ohos_ic_public_arrow_down"
+                },
+                {
+                    "name": "ic_public_double_arrow_left",
+                    "value": "$media:ohos_ic_public_double_arrow_left"
+                },
+                {
+                    "name": "ic_public_double_arrow_right",
+                    "value": "$media:ohos_ic_public_double_arrow_right"
                 },
                 {
                     "name": "ic_public_cut",
