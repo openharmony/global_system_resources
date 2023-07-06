@@ -2107,6 +2107,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_INTELLIGENT_VOICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
