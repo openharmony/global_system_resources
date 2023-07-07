@@ -26,7 +26,8 @@
             "tv",
             "car",
             "wearable",
-            "tablet"
+            "tablet",
+            "2in1"
         ],
         "distro": {
             "deliveryWithInstall": true,
@@ -1414,6 +1415,15 @@
             },
             {
                 "name": "ohos.permission.ENTERPRISE_MANAGE_NETWORK",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ENTERPRISE_SET_BROWSER_POLICY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 10,

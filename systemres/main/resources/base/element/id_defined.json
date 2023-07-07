@@ -5369,15 +5369,229 @@
             "name": "ohos_close_icon_pattern",
             "order": 1048
         },
+	      {
+            "type": "media",
+            "name": "ohos_ic_public_clock",
+            "order": 1049
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_email",
+            "order": 1050
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_express",
+            "order": 1051
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_flight",
+            "order": 1052
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_location",
+            "order": 1053
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_phone",
+            "order": 1054
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_text",
+            "order": 1055
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_web",
+            "order": 1056
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_arrow_width",
+            "order": 1057,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_date_left_right_margin",
+            "order": 1058,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_date_top_bottom_margin",
+            "order": 1059,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_dialog_margin",
+            "order": 1060,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_day_width_height",
+            "order": 1061,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_day_font_size",
+            "order": 1062,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_distance_between_container_and_date",
+            "order": 1063,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_distance_between_title_and_date",
+            "order": 1064,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_container_height",
+            "order": 1065,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_font_size",
+            "order": 1066,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_row_height",
+            "order": 1067,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_row_top_padding",
+            "order": 1068,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_row_left_right_padding",
+            "order": 1069,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_text_padding",
+            "order": 1070,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_image_padding",
+            "order": 1071,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_image_width_height",
+            "order": 1072,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_action_row_top_padding",
+            "order": 1073,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_action_row_bottom_left_right_padding",
+            "order": 1074,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_day_radius",
+            "order": 1075,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_day_key_focused_width",
+            "order": 1076,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_double_arrow_left",
+            "order": 1077,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_double_arrow_right",
+            "order": 1078,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_action_row_height",
+            "order": 1079,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_height",
+            "order": 1080,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_border_width",
+            "order": 1081,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_border_radius",
+            "order": 1082,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_button_width",
+            "order": 1083,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_arrow_height",
+            "order": 1084,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_day_key_focused_pen_width",
+            "order": 1085,
+            "flags": "private"
+        },
         {
             "type": "string",
             "name": "ohos_lab_access_bluetooth",
-            "order": 1049
+            "order": 1086
         },
         {
             "type": "string",
             "name": "ohos_desc_access_bluetooth",
-            "order": 1050
+            "order": 1087
         }
     ]
 }
