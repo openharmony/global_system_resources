@@ -1781,7 +1781,7 @@
                 },
                 {
                     "name": "padding_left",
-                    "value": "$float:ohos_id_default_padding_top"
+                    "value": "$float:ohos_id_default_padding_start"
                 },
                 {
                     "name": "padding_right",
@@ -1810,6 +1810,10 @@
                 {
                     "name": "button_bg_color_disabled_alpha",
                     "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name":"stepper_focus_color",
+                    "value":"$color:ohos_id_color_focused_outline"
                 }
             ]
         },
