@@ -5622,6 +5622,21 @@
             "type": "media",
             "name": "ohos_ic_eco_hop",
             "order": 1093
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_draggable_default",
+            "order": 1094
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_rich_editor_pattern",
+            "order": 1095
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_hyperlink_pattern",
+            "order": 1096
         }
     ]
 }
