@@ -1986,6 +1986,10 @@
                     "value": "2.0vp"
                 },
                 {
+                    "name": "horizontal_bottom_tab_bar_space",
+                    "value": "8.0vp"
+                },
+                {
                     "name": "sub_tab_bar_hover_duration",
                     "value": "250.0"
                 },
@@ -2036,6 +2040,18 @@
                 {
                     "name": "bottom_tab_icon_off",
                     "value": "$color:ohos_id_color_bottom_tab_icon_off"
+                },
+                {
+                    "name": "tab_bar_column_gutter",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "tab_bar_column_margin",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "horizontal_bottom_tab_min_width",
+                    "value": "104.0vp"
                 }
             ]
         },
