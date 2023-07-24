@@ -3517,6 +3517,43 @@
                     "value": "$string:ohos_id_draggable_default"
                 }
             ]
+        },
+        {
+            "name": "ohos_pattern_lock_pattern",
+            "value": [
+                {
+                    "name": "regular_color",
+                    "value": "$color:ohos_id_color_foreground"
+                },
+                {
+                    "name": "press_color",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "selected_color",
+                    "value": "$color:ohos_id_color_foreground"
+                },
+                {
+                    "name": "wrong_color",
+                    "value": "$color:ohos_id_color_warning"
+                },
+                {
+                    "name": "correct_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "path_color",
+                    "value": "$color:ohos_id_color_fourth"
+                },
+                {
+                    "name": "hover_color",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "focus_color",
+                    "value": "$color:ohos_id_color_focused_outline"
+                }
+            ]
         }
     ]
 }
