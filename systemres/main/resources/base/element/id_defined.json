@@ -5642,6 +5642,12 @@
             "type": "media",
             "name": "ohos_ic_public_more",
             "order": 1097
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_pattern_lock_pattern",
+            "order": 1098,
+            "flags": "private"
         }
     ]
 }
