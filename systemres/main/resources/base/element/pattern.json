@@ -3523,7 +3523,23 @@
                 {
                     "name": "draggable",
                     "value": "$string:ohos_id_draggable_default"
-                }
+                },
+                {
+                    "name": "text_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "text_linked_opacity",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "text_disabled_opacity",
+                    "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "text_focused_color",
+                    "value": "$color:ohos_id_color_focused_outline"
+		}
             ]
         },
         {
