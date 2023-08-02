@@ -171,6 +171,17 @@
                 "description": "$string:ohos_desc_get_telephony_state"
             },
             {
+                "name": "ohos.permission.GET_PHONE_NUMBERS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_get_phone_numbers",
+                "description": "$string:ohos_desc_get_phone_numbers"
+            },
+            {
                 "name": "ohos.permission.READ_MESSAGES",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",

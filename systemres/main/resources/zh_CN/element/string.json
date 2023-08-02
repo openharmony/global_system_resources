@@ -61,8 +61,16 @@
             "value": "读取电话信息"
         },
         {
+            "name": "ohos_lab_get_phone_numbers",
+            "value": "读取SIM卡MSISDN"
+        },
+        {
             "name": "ohos_desc_get_telephony_state",
             "value": "允许应用访问设备的本机号码、设备ID、语音信箱、IMEI、ICCID等敏感信息。"
+        },
+        {
+            "name": "ohos_desc_get_phone_numbers",
+            "value": "允许应用访问SIM卡MSISDN"
         },
         {
             "name": "ohos_lab_read_messages",

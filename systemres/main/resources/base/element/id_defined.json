@@ -5648,6 +5648,16 @@
             "name": "ohos_pattern_lock_pattern",
             "order": 1098,
             "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_get_phone_numbers",
+            "order": 1099
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_get_phone_numbers",
+            "order": 1100
         }
     ]
 }
