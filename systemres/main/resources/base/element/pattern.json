@@ -1124,7 +1124,7 @@
                 },
                 {
                     "name": "title_text_color",
-                    "value": "$color:ohos_id_color_primary"
+                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "title_text_font_size",
@@ -1181,6 +1181,26 @@
                 {
                     "name": "default_padding_bottom_fixed",
                     "value": "$float:ohos_id_default_padding_bottom_fixed"
+                },
+                {
+                    "name": "button_default_font_color",
+                    "value": "$color:ohos_id_color_activated"
+                },
+                {
+                    "name": "button_bg_highlight_color",
+                    "value": "$color:ohos_id_color_activated"
+                },
+                {
+                    "name": "subtitle_text_font_size",
+                    "value": "$float:ohos_id_text_size_body2"
+                },
+                {
+                    "name": "attribute_alpha_content_primary",
+                    "value": "$float:ohos_id_alpha_content_primary"
+                },
+                {
+                    "name": "attribute_alpha_content_secondary",
+                    "value": "$float:ohos_id_alpha_content_secondary"
                 }
             ]
         },
