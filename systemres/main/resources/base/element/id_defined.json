@@ -5644,6 +5644,46 @@
             "name": "ohos_pattern_lock_pattern",
             "order": 1098,
             "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_button_divider",
+            "order": 1099
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_button_padding_bottom",
+            "order": 1100
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_single_button_padding_start",
+            "order": 1101
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_single_button_padding_end",
+            "order": 1102
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_start",
+            "order": 1103
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_end",
+            "order": 1104
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_horizontal",
+            "order": 1105
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_vertical",
+            "order": 1106
         }
     ]
 }
