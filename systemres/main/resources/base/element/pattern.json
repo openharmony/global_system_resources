@@ -1205,6 +1205,38 @@
                 {
                     "name": "attribute_alpha_content_secondary",
                     "value": "$float:ohos_id_alpha_content_secondary"
+                },
+                {
+                    "name": "divider_color",
+                    "value": "$color:ohos_id_color_button_divider"
+                },
+                {
+                    "name": "button_padding_bottom",
+                    "value": "$float:ohos_id_dialog_button_padding_bottom"
+                },
+                {
+                    "name": "single_button_padding_start",
+                    "value": "$float:ohos_id_dialog_single_button_padding_start"
+                },
+                {
+                    "name": "single_button_padding_end",
+                    "value": "$float:ohos_id_dialog_single_button_padding_end"
+                },
+                {
+                    "name": "muti_button_padding_start",
+                    "value": "$float:ohos_id_dialog_muti_button_padding_start"
+                },
+                {
+                    "name": "muti_button_padding_end",
+                    "value": "$float:ohos_id_dialog_muti_button_padding_end"
+                },
+                {
+                    "name": "muti_button_padding_horizontal",
+                    "value": "$float:ohos_id_dialog_muti_button_padding_horizontal"
+                },
+                {
+                    "name": "muti_button_padding_vertical",
+                    "value": "$float:ohos_id_dialog_muti_button_padding_vertical"
                 }
             ]
         },
