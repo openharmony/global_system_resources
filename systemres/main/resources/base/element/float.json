@@ -678,7 +678,7 @@
         },
         {
             "name": "ohos_id_tab_bar_shadow_margin_default",
-            "value": "24.0vp"
+            "value": "0.0vp"
         },
         {
             "name": "ohos_id_tab_bar_gradient_width_default",
@@ -971,6 +971,34 @@
         {
             "name": "ohos_id_calendar_day_key_focused_pen_width",
             "value": "2.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_button_padding_bottom",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_single_button_padding_start",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_single_button_padding_end",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_muti_button_padding_start",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_muti_button_padding_end",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_muti_button_padding_horizontal",
+            "value": "8.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_muti_button_padding_vertical",
+            "value": "4.0vp"
         }
     ]
 }

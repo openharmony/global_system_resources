@@ -2190,6 +2190,24 @@
                 "deprecated": "",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.UNINSTALL_BUNDLE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.RECOVER_BUNDLE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 10,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }

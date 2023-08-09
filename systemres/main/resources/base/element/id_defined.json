@@ -4945,26 +4945,22 @@
         {
             "type": "media",
             "name": "ohos_ic_public_arrow_left",
-            "order": 967,
-            "flags": "private"
+            "order": 967
         },
         {
             "type": "media",
             "name": "ohos_ic_public_arrow_right",
-            "order": 968,
-            "flags": "private"
+            "order": 968
         },
         {
             "type": "media",
             "name": "ohos_ic_public_arrow_up",
-            "order": 969,
-            "flags": "private"
+            "order": 969
         },
         {
             "type": "media",
             "name": "ohos_ic_public_arrow_down",
-            "order": 970,
-            "flags": "private"
+            "order": 970
         },
         {
             "type": "media",
@@ -5650,14 +5646,54 @@
             "flags": "private"
         },
         {
+            "type": "color",
+            "name": "ohos_id_color_button_divider",
+            "order": 1099
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_button_padding_bottom",
+            "order": 1100
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_single_button_padding_start",
+            "order": 1101
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_single_button_padding_end",
+            "order": 1102
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_start",
+            "order": 1103
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_end",
+            "order": 1104
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_horizontal",
+            "order": 1105
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_vertical",
+            "order": 1106
+        },
+        {
             "type": "string",
             "name": "ohos_lab_get_phone_numbers",
-            "order": 1099
+            "order": 1107
         },
         {
             "type": "string",
             "name": "ohos_desc_get_phone_numbers",
-            "order": 1100
+            "order": 1108
         }
     ]
 }
