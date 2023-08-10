@@ -69,8 +69,16 @@
             "value": "Read telephony information"
         },
         {
+            "name": "ohos_lab_get_phone_numbers",
+            "value": "Read MSISDN of SIM card"
+        },
+        {
             "name": "ohos_desc_get_telephony_state",
             "value": "Allows an application to access telephony information, including the phone number, device ID, voice mailbox, IMEI, and ICCID."
+        },
+        {
+            "name": "ohos_desc_get_phone_numbers",
+            "value": "Allows an application to access MSISDN of SIM card"
         },
         {
             "name": "ohos_lab_read_messages",
