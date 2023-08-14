@@ -3585,8 +3585,12 @@
                     "value": "$color:ohos_id_color_text_primary_activated"
                 },
                 {
-                    "name": "text_linked_opacity",
+                    "name": "text_touched_color",
                     "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "text_linked_opacity",
+                    "value": "$float:ohos_id_alpha_content_tertiary"
                 },
                 {
                     "name": "text_disabled_opacity",
