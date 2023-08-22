@@ -4945,26 +4945,22 @@
         {
             "type": "media",
             "name": "ohos_ic_public_arrow_left",
-            "order": 967,
-            "flags": "private"
+            "order": 967
         },
         {
             "type": "media",
             "name": "ohos_ic_public_arrow_right",
-            "order": 968,
-            "flags": "private"
+            "order": 968
         },
         {
             "type": "media",
             "name": "ohos_ic_public_arrow_up",
-            "order": 969,
-            "flags": "private"
+            "order": 969
         },
         {
             "type": "media",
             "name": "ohos_ic_public_arrow_down",
-            "order": 970,
-            "flags": "private"
+            "order": 970
         },
         {
             "type": "media",
@@ -5315,7 +5311,7 @@
         },
         {
             "type": "string",
-            "name": "ohos_id_text_save_button_description_download_files",
+            "name": "ohos_id_text_save_button_description_download_file",
             "order": 1038
         },
         {
@@ -5325,12 +5321,12 @@
         },
         {
             "type": "string",
-            "name": "ohos_id_text_save_button_description_save_images",
+            "name": "ohos_id_text_save_button_description_save_image",
             "order": 1040
         },
         {
             "type": "string",
-            "name": "ohos_id_text_save_button_description_save_files",
+            "name": "ohos_id_text_save_button_description_save_file",
             "order": 1041
         },
         {
@@ -5349,14 +5345,380 @@
             "order": 1044
         },
         {
+            "type": "pattern",
+            "name": "ohos_side_bar_pattern",
+            "order": 1045
+        },
+        {
+            "type": "string",
+            "name": "ohos_drawable_descriptor_path",
+            "order": 1046,
+            "flags":"private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_bottomsheet_close",
+            "order": 1047
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_close_icon_pattern",
+            "order": 1048
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_clock",
+            "order": 1049
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_email",
+            "order": 1050
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_express",
+            "order": 1051
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_flight",
+            "order": 1052
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_location",
+            "order": 1053
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_phone",
+            "order": 1054
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_text",
+            "order": 1055
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_web",
+            "order": 1056
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_arrow_width",
+            "order": 1057,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_date_left_right_margin",
+            "order": 1058,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_date_top_bottom_margin",
+            "order": 1059,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_dialog_margin",
+            "order": 1060,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_day_width_height",
+            "order": 1061,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_day_font_size",
+            "order": 1062,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_distance_between_container_and_date",
+            "order": 1063,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_distance_between_title_and_date",
+            "order": 1064,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_container_height",
+            "order": 1065,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_font_size",
+            "order": 1066,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_row_height",
+            "order": 1067,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_row_top_padding",
+            "order": 1068,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_row_left_right_padding",
+            "order": 1069,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_text_padding",
+            "order": 1070,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_title_image_padding",
+            "order": 1071,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_image_width_height",
+            "order": 1072,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_action_row_top_padding",
+            "order": 1073,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_action_row_bottom_left_right_padding",
+            "order": 1074,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_day_radius",
+            "order": 1075,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_day_key_focused_width",
+            "order": 1076,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_double_arrow_left",
+            "order": 1077,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_double_arrow_right",
+            "order": 1078,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_action_row_height",
+            "order": 1079,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_height",
+            "order": 1080,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_border_width",
+            "order": 1081,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_border_radius",
+            "order": 1082,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_button_width",
+            "order": 1083,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_picker_entry_arrow_height",
+            "order": 1084,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_day_key_focused_pen_width",
+            "order": 1085,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_access_bluetooth",
+            "order": 1086
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_access_bluetooth",
+            "order": 1087
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_device_matebook",
+            "order": 1088
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_device_pad",
+            "order": 1089
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_device_smartscreen",
+            "order": 1090
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_device_watch",
+            "order": 1091
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_device_phone",
+            "order": 1092
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_eco_hop",
+            "order": 1093
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_draggable_default",
+            "order": 1094
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_rich_editor_pattern",
+            "order": 1095
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_hyperlink_pattern",
+            "order": 1096
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_more",
+            "order": 1097
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_pattern_lock_pattern",
+            "order": 1098,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_button_divider",
+            "order": 1099
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_button_padding_bottom",
+            "order": 1100
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_single_button_padding_start",
+            "order": 1101
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_single_button_padding_end",
+            "order": 1102
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_start",
+            "order": 1103
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_end",
+            "order": 1104
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_horizontal",
+            "order": 1105
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_muti_button_padding_vertical",
+            "order": 1106
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_get_phone_numbers",
+            "order": 1107
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_get_phone_numbers",
+            "order": 1108
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_add",
+            "order": 1109
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_minus",
+            "order": 1110
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_password_style_height",
+            "order": 1111
+        },
+        {
             "type": "media",
             "name": "ohos_ic_public_cast_stream",
-            "order": 1045
+            "order": 1112
         },
         {
             "type": "media",
             "name": "ohos_ic_public_cast_mirror",
-            "order": 1046
+            "order": 1113
         }
     ]
 }

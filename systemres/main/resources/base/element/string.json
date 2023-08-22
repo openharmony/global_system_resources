@@ -69,8 +69,16 @@
             "value": "Read telephony information"
         },
         {
+            "name": "ohos_lab_get_phone_numbers",
+            "value": "Read MSISDN of SIM card"
+        },
+        {
             "name": "ohos_desc_get_telephony_state",
             "value": "Allows an application to access telephony information, including the phone number, device ID, voice mailbox, IMEI, and ICCID."
+        },
+        {
+            "name": "ohos_desc_get_phone_numbers",
+            "value": "Allows an application to access MSISDN of SIM card"
         },
         {
             "name": "ohos_lab_read_messages",
@@ -569,20 +577,20 @@
             "value": "Download"
         },
         {
-            "name": "ohos_id_text_save_button_description_download_files",
-            "value": "Download files"
+            "name": "ohos_id_text_save_button_description_download_file",
+            "value": "Download file"
         },
         {
             "name": "ohos_id_text_save_button_description_save",
             "value": "Save"
         },
         {
-            "name": "ohos_id_text_save_button_description_save_images",
-            "value": "Save images"
+            "name": "ohos_id_text_save_button_description_save_image",
+            "value": "Save image"
         },
         {
-            "name": "ohos_id_text_save_button_description_save_files",
-            "value": "Save files"
+            "name": "ohos_id_text_save_button_description_save_file",
+            "value": "Save file"
         },
         {
             "name": "ohos_id_text_save_button_description_download_and_share",
@@ -595,6 +603,22 @@
         {
             "name": "ohos_id_text_save_button_description_continue_to_receive",
             "value": "Continue to receive"
+        },
+        {
+            "name": "ohos_drawable_descriptor_path",
+            "value": "M54.38,0h83.24c18.91,0,25.77,1.97,32.68,5.67,6.91,3.7,12.34,9.12,16.03,16.03,3.7,6.91,5.67,13.77,5.67,32.68v83.24c0,18.91-1.97,25.77-5.67,32.68-3.7,6.91-9.12,12.34-16.03,16.03s-13.77,5.67-32.68,5.67H54.38c-18.91,0-25.77-1.97-32.68-5.67-6.91-3.7-12.34-9.12-16.03-16.03-3.7-6.91-5.67-13.77-5.67-32.68V54.38C0,35.47,1.97,28.61,5.67,21.7c3.7-6.91,9.12-12.34,16.03-16.03C28.61,1.97,35.47,0,54.38,0h0Z"
+        },
+        {
+            "name": "ohos_lab_access_bluetooth",
+            "value": "Allow to access and use bluetooth capabilities"
+        },
+        {
+            "name": "ohos_desc_access_bluetooth",
+            "value": "Allow to access and use bluetooth capabilities, such as discovering remote devices, pairing with remote bluetooth devices, and connecting to remote bluetooth devices, and broadcasting and scanning functions of bluetooth Low Energy"
+        },
+        {
+            "name": "ohos_id_draggable_default",
+            "value": "0"
         }
     ]
 }

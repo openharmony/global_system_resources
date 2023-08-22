@@ -76,6 +76,10 @@
                     "value": "$pattern:ohos_drag_bar_pattern"
                 },
                 {
+                    "name": "close_icon_pattern",
+                    "value": "$pattern:ohos_close_icon_pattern"
+                },
+                {
                     "name": "focus_animation_pattern",
                     "value": "$pattern:ohos_focus_animation_pattern"
                 },
@@ -194,6 +198,14 @@
                 {
                     "name": "form_pattern",
                     "value": "$pattern:ohos_form_pattern"
+                },
+                {
+                    "name": "side_bar_pattern",
+                    "value": "$pattern:ohos_side_bar_pattern"
+                },
+                {
+                    "name": "pattern_lock_pattern",
+                    "value": "$pattern:ohos_pattern_lock_pattern"
                 }
             ]
         }

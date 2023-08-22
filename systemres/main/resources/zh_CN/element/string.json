@@ -61,8 +61,16 @@
             "value": "读取电话信息"
         },
         {
+            "name": "ohos_lab_get_phone_numbers",
+            "value": "读取SIM卡MSISDN"
+        },
+        {
             "name": "ohos_desc_get_telephony_state",
             "value": "允许应用访问设备的本机号码、设备ID、语音信箱、IMEI、ICCID等敏感信息。"
+        },
+        {
+            "name": "ohos_desc_get_phone_numbers",
+            "value": "允许应用访问SIM卡MSISDN"
         },
         {
             "name": "ohos_lab_read_messages",
@@ -561,7 +569,7 @@
             "value": "下载"
         },
         {
-            "name": "ohos_id_text_save_button_description_download_files",
+            "name": "ohos_id_text_save_button_description_download_file",
             "value": "下载文件"
         },
         {
@@ -569,11 +577,11 @@
             "value": "保存"
         },
         {
-            "name": "ohos_id_text_save_button_description_save_images",
+            "name": "ohos_id_text_save_button_description_save_image",
             "value": "保存图片"
         },
         {
-            "name": "ohos_id_text_save_button_description_save_files",
+            "name": "ohos_id_text_save_button_description_save_file",
             "value": "保存文件"
         },
         {
@@ -587,6 +595,14 @@
         {
             "name": "ohos_id_text_save_button_description_continue_to_receive",
             "value": "继续接收"
+        },
+        {
+            "name": "ohos_lab_access_bluetooth",
+            "value": "允许接入并使用蓝牙功能"
+        },
+        {
+            "name": "ohos_desc_access_bluetooth",
+            "value": "允许接入并使用蓝牙功能，例如发现远端设备、向远端设备发起配对、连接远端设备，以及低功耗蓝牙发送广播和扫描外围设备"
         }
     ]
 }
