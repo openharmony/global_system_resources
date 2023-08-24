@@ -5694,6 +5694,16 @@
             "type": "string",
             "name": "ohos_desc_get_phone_numbers",
             "order": 1108
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_cast_stream",
+            "order": 1109
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_cast_mirror",
+            "order": 1110
         }
     ]
 }
