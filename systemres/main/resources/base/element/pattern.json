@@ -3586,6 +3586,10 @@
                 {
                     "name": "draggable",
                     "value": "$string:ohos_id_draggable_default"
+                },
+                {
+                    "name": "text_color_disabled_alpha",
+                    "value": "$float:ohos_id_alpha_disabled"
                 }
             ]
         },
