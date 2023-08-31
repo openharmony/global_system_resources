@@ -2226,6 +2226,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.QUERY_ACCESSIBILITY_ELEMENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
