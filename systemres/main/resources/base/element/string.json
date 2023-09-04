@@ -619,6 +619,14 @@
         {
             "name": "ohos_id_draggable_default",
             "value": "0"
+        },
+        {
+            "name": "ohos_lab_activate_theme_package",
+            "value": "Theme enablement permissions"
+        },
+        {
+            "name": "ohos_desc_activate_theme_package",
+            "value": "Allow a system app to set theme content, including wallpapers, icons, skins, aod, fonts, and more"
         }
     ]
 }

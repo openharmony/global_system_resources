@@ -5719,6 +5719,16 @@
             "type": "media",
             "name": "ohos_ic_public_cast_mirror",
             "order": 1113
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_activate_theme_package",
+            "order": 1114
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_activate_theme_package",
+            "order": 1115
         }
     ]
 }

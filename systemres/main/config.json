@@ -2235,6 +2235,17 @@
                 "deprecated": "",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACTIVATE_THEME_PACKAGE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_activate_theme_package",
+                "description": "$string:ohos_desc_activate_theme_package"
             }
         ]
     }
