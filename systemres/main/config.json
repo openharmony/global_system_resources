@@ -2271,6 +2271,24 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ENABLE_DISTRIBUTED_HARDWARE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": true
+            },
+            {
+                "name": "ohos.permission.ACCESS_DISTRIBUTED_HARDWARE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": true
             }
         ]
     }
