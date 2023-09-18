@@ -321,6 +321,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.AGENT_REQUIRE_FORM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.LOCATION_IN_BACKGROUND",
                 "grantMode": "user_grant",
                 "availableLevel": "normal",
