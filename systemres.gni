@@ -11,5 +11,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+declare_args() {
+  system_resources_support_ext = false
+}
+
 certificate_profile_path =
     "//vendor/tools/hap_sign_conf/global/system_resources/SystemResources.p7b"
+
+systemres_ext_path = "//vendor/${product_company}/base/global/system_resources"
