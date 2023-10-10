@@ -206,6 +206,10 @@
                 {
                     "name": "pattern_lock_pattern",
                     "value": "$pattern:ohos_pattern_lock_pattern"
+                },
+                {
+                    "name": "gauge_pattern",
+                    "value": "$pattern:ohos_gauge_pattern"
                 }
             ]
         }
