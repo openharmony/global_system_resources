@@ -3682,6 +3682,23 @@
                     "value": "$color:ohos_id_color_focused_outline"
                 }
             ]
+        },
+        {
+            "name": "ohos_gauge_pattern",
+            "value": [
+                {
+                    "name": "indicator_color",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "indicator_border_color",
+                    "value": "$color:ohos_id_color_primary_contrary"
+                },
+                {
+                    "name": "limit_value_min_font_size",
+                    "value": "$float:ohos_id_text_size_caption"
+                }
+            ]
         }
     ]
 }

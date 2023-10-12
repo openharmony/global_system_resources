@@ -2300,6 +2300,42 @@
                 "distributedSceneEnable": true
             },
             {
+                "name": "ohos.permission.INSTANTSHARE_SWITCH_CONTROL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_INSTANTSHARE_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_INSTANTSHARE_PRIVATE_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SECURE_PASTE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_MCP_AUTHORIZATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -2307,7 +2343,7 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
-            }
+			}
         ]
     }
 }
