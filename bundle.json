@@ -37,8 +37,10 @@
     "component": {
         "name": "system_resources",
         "subsystem": "global",
-        "syscap": [],
-        "features": [],
+        "syscap": [ "SystemCapability.Global.ResourceManager" ],
+        "features": [
+            "system_resources_support_ext"
+        ],
         "adapted_system_type": [
             "standard"
         ],

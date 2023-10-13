@@ -1,4 +1,4 @@
-# Copyright (c) 2021 Huawei Device Co., Ltd.
+# Copyright (c) 2021-2023 Huawei Device Co., Ltd.
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
@@ -11,6 +11,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 import("//build/ohos.gni")
+import("systemres.gni")
 
 ohos_prebuilt_etc("HarmonyOS_Sans_Black") {
   source = "fonts/HarmonyOS_Sans_Black.ttf"
@@ -404,8 +405,24 @@ ohos_prebuilt_etc("NotoSans_KR_Light") {
   part_name = "ace_engine"
 }
 
+ohos_prebuilt_etc("HMOSColorEmojiCompat") {
+  source = "fonts/HMOSColorEmojiCompat.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
+ohos_prebuilt_etc("HMOSColorEmojiFlags") {
+  source = "fonts/HMOSColorEmojiFlags.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
 group("ohos_fonts") {
   deps = [
+    ":HMOSColorEmojiCompat",
+    ":HMOSColorEmojiFlags",
     ":HarmonyOS_Sans_Black",
     ":HarmonyOS_Sans_Black_Italic",
     ":HarmonyOS_Sans_Bold",
@@ -463,4 +480,8 @@ group("ohos_fonts") {
     ":NotoSans_KR_Light",
     ":NotoSans_KR_Regular",
   ]
+
+  if (system_resources_support_ext) {
+    deps += [ "${systemres_ext_path}:ohos_fonts_ext" ]
+  }
 }
