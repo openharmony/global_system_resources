@@ -1449,6 +1449,16 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ENTERPRISE_MANAGE_SYSTEM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "availableType": "MDM",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ENTERPRISE_RESTRICT_POLICY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
