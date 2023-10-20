@@ -2667,6 +2667,10 @@
                 {
                     "name": "bg_color_selected_alpha",
                     "value": "$float:ohos_id_alpha_highlight_bg"
+                },
+                {
+                    "name": "preview_menu_mask_color",
+                    "value": "$color:ohos_id_color_mask_thin"
                 }
             ]
         },
