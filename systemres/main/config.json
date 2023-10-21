@@ -2017,9 +2017,9 @@
                 "name": "ohos.permission.ACCESS_SENSING_WITH_ULTRASOUND",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": 10,
+                "since": 11,
                 "deprecated": "",
-                "provisionEnable": false,
+                "provisionEnable": true,
                 "distributedSceneEnable": false
             },
             {
@@ -2406,6 +2406,15 @@
                 "name": "ohos.permission.SET_CODE_PROTECT_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.PERCEIVE_TRAIL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
                 "since": 11,
                 "deprecated": "",
                 "provisionEnable": true,
