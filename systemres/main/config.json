@@ -2430,6 +2430,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.COOPERATE_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.PERCEIVE_TRAIL",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
