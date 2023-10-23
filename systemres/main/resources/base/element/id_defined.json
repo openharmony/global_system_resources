@@ -5744,6 +5744,16 @@
             "type": "string",
             "name": "ohos_desc_read_pasteboard",
             "order": 1118
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_divider_shadow_enable_default",
+            "order": 1119
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_navigation_group_color",
+            "order": 1120
         }
     ]
 }

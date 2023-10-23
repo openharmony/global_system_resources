@@ -1433,6 +1433,14 @@
                 {
                     "name": "toolbar_item_active_text_color",
                     "value": "$color:ohos_id_color_toolbar_text_actived"
+                },
+                {
+                    "name": "divider_shadow_enable",
+                    "value": "$string:ohos_id_divider_shadow_enable_default"
+                },
+                {
+                    "name": "navigation_group_color",
+                    "value": "$color:ohos_id_navigation_group_color"
                 }
             ]
         },
