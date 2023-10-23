@@ -2385,6 +2385,17 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.READ_PASTEBOARD",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_read_pasteboard",
+                "description": "$string:ohos_desc_read_pasteboard"
+            },
+            {
                 "name": "ohos.permission.ACCESS_MCP_AUTHORIZATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
