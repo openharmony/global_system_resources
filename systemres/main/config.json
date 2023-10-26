@@ -2817,42 +2817,42 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.READ_WRITE_DOWNLOAD",
+                "name": "ohos.permission.READ_WRITE_DOWNLOAD_DIRECTORY",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",
                 "since": 11,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false,
-                "label": "$string:ohos_lab_read_write_download",
-                "description": "$string:ohos_desc_read_write_download"
+                "label": "$string:ohos_lab_read_write_download_directory",
+                "description": "$string:ohos_desc_read_write_download_directory"
             },
             {
-                "name": "ohos.permission.READ_WRITE_DOCUMENTS",
+                "name": "ohos.permission.READ_WRITE_DOCUMENTS_DIRECTORY",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",
                 "since": 11,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false,
-                "label": "$string:ohos_lab_read_write_documents",
-                "description": "$string:ohos_desc_read_write_documents"
+                "label": "$string:ohos_lab_read_write_documents_directory",
+                "description": "$string:ohos_desc_read_write_documents_directory"
             },
             {
-                "name": "ohos.permission.READ_WRITE_DESKTOP",
+                "name": "ohos.permission.READ_WRITE_DESKTOP_DIRECTORY",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",
                 "since": 11,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false,
-                "label": "$string:ohos_lab_read_write_desktop",
-                "description": "$string:ohos_desc_read_write_desktop"
+                "label": "$string:ohos_lab_read_write_desktop_directory",
+                "description": "$string:ohos_desc_read_write_desktop_directory"
             },
             {
                 "name": "ohos.permission.FILE_ACCESS_PERSIST",
                 "grantMode": "system_grant",
-                "availableLevel": "normal",
+                "availableLevel": "system_basic",
                 "since": 11,
                 "deprecated": "",
                 "provisionEnable": true,
