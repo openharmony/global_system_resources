@@ -2815,6 +2815,48 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.READ_WRITE_DOWNLOAD",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_read_write_download",
+                "description": "$string:ohos_desc_read_write_download"
+            },
+            {
+                "name": "ohos.permission.READ_WRITE_DOCUMENTS",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_read_write_documents",
+                "description": "$string:ohos_desc_read_write_documents"
+            },
+            {
+                "name": "ohos.permission.READ_WRITE_DESKTOP",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_read_write_desktop",
+                "description": "$string:ohos_desc_read_write_desktop"
+            },
+            {
+                "name": "ohos.permission.FILE_ACCESS_PERSIST",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
