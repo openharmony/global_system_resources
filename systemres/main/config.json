@@ -2493,7 +2493,18 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
-            }
+            },
+            {
+                "name": "ohos.permission.ACCESS_OUC",
+                "grantMode": "system_grant",
+                "since": 11,
+                "deprecated": "",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_software_update",
+                "description": "string:ohos_desc_software_update"
+            },
         ]
     }
 }
