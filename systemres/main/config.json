@@ -2495,6 +2495,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_PRIVATE_PHOTOS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_OUC",
                 "grantMode": "system_grant",
                 "since": 11,
