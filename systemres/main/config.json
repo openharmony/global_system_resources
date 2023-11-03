@@ -2594,9 +2594,9 @@
             {
                 "name": "ohos.permission.INPUT_CONTROL_DISPATCHING",
                 "grantMode": "system_grant",
+                "availableLevel": "system_basic",
                 "since": 11,
                 "deprecated": "",
-                "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             }
