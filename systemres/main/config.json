@@ -2591,7 +2591,7 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
-			{
+            {
                 "name": "ohos.permission.TRUSTED_RING_HASH_DATA_PERMISSION",
                 "grantMode": "system_grant",
                 "since": 11,
@@ -2600,7 +2600,7 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
-			{
+            {
                 "name": "ohos.permission.QUERY_TRUSTED_RING_USER_INFO",
                 "grantMode": "system_grant",
                 "since": 11,
@@ -2609,7 +2609,7 @@
                 "provisionEnable": false,
                 "distributedSceneEnable": false
             },
-			{
+            {
                 "name": "ohos.permission.MANAGE_TRUSTED_RING",
                 "grantMode": "system_grant",
                 "since": 11,
@@ -2618,7 +2618,7 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
-			{
+            {
                 "name": "ohos.permission.USE_TRUSTED_RING",
                 "grantMode": "system_grant",
                 "since": 11,
