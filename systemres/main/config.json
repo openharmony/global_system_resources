@@ -2590,6 +2590,15 @@
                 "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.INPUT_CONTROL_DISPATCHING",
+                "grantMode": "system_grant",
+                "since": 11,
+                "deprecated": "",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
