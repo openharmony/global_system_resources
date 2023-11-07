@@ -5764,6 +5764,116 @@
             "type": "media",
             "name": "ohos_ic_public_camera",
             "order": 1122
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_corner_radius",
+            "order": 1123
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_button_bg_focus_color",
+            "order": 1124
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_button_text_focus_color",
+            "order": 1125
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_font_size",
+            "order": 1126
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_font_weight",
+            "order": 1127
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_min_width",
+            "order": 1128
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_height",
+            "order": 1129
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_download_height",
+            "order": 1130
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_horizontal_padding",
+            "order": 1131
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_vertical_padding",
+            "order": 1132
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_min_font_size",
+            "order": 1133
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_text_max_lines",
+            "order": 1134
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_min_circle_button_diameter",
+            "order": 1135
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_min_circle_button_icon_size",
+            "order": 1136
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_min_circle_button_padding",
+            "order": 1137
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_max_circle_button_diameter",
+            "order": 1138
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_max_circle_button_icon_size",
+            "order": 1139
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_max_circle_button_padding",
+            "order": 1140
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_button_progress_focus_color",
+            "order": 1141
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_download_font_size",
+            "order": 1142
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_progress_diameter",
+            "order": 1143
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_inner_padding",
+            "order": 1144
         }
     ]
 }
