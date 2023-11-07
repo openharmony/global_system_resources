@@ -74,6 +74,94 @@
                 {
                     "name": "border_width",
                     "value": "0.0vp"
+                },
+                {
+                    "name": "button_radius",
+                    "value": "$float:ohos_id_button_corner_radius"
+                },
+                {
+                    "name": "button_bg_focus_color",
+                    "value": "$color:ohos_id_button_bg_focus_color"
+                },
+                {
+                    "name": "button_text_focus_color",
+                    "value": "$color:ohos_id_button_text_focus_color"
+                },
+                {
+                    "name": "button_font_size",
+                    "value": "$float:ohos_id_button_font_size"
+                },
+                {
+                    "name": "button_font_weight",
+                    "value": "$float:ohos_id_button_font_weight"
+                },
+                {
+                    "name": "button_min_width",
+                    "value": "$float:ohos_id_button_min_width"
+                },
+                {
+                    "name": "button_height",
+                    "value": "$float:ohos_id_button_height"
+                },
+                {
+                    "name": "button_download_height",
+                    "value": "$float:ohos_id_button_download_height"
+                },
+                {
+                    "name": "button_horizontal_padding",
+                    "value": "$float:ohos_id_button_horizontal_padding"
+                },
+                {
+                    "name": "button_vertical_padding",
+                    "value": "$float:ohos_id_button_vertical_padding"
+                },
+                {
+                    "name": "button_min_font_size",
+                    "value": "$float:ohos_id_button_min_font_size"
+                },
+                {
+                    "name": "button_text_max_lines",
+                    "value": "$float:ohos_id_button_text_max_lines"
+                },
+                {
+                    "name": "min_circle_button_diameter",
+                    "value": "$float:ohos_id_min_circle_button_diameter"
+                },
+                {
+                    "name": "min_circle_button_icon_size",
+                    "value": "$float:ohos_id_min_circle_button_icon_size"
+                },
+                {
+                    "name": "min_circle_button_padding",
+                    "value": "$float:ohos_id_min_circle_button_padding"
+                },
+                {
+                    "name": "max_circle_button_diameter",
+                    "value": "$float:ohos_id_max_circle_button_diameter"
+                },
+                {
+                    "name": "max_circle_button_icon_size",
+                    "value": "$float:ohos_id_max_circle_button_icon_size"
+                },
+                {
+                    "name": "button_max_circle_button_padding",
+                    "value": "$float:ohos_id_max_circle_button_padding"
+                },
+                {
+                    "name": "button_progress_focus_color",
+                    "value": "$color:ohos_id_button_progress_focus_color"
+                },
+                {
+                    "name": "button_download_font_size",
+                    "value": "$float:ohos_id_button_download_font_size"
+                },
+                {
+                    "name": "button_progress_diameter",
+                    "value": "$float:ohos_id_button_progress_diameter"
+                },
+                {
+                    "name": "button_inner_padding",
+                    "value": "$float:ohos_id_button_inner_padding"
                 }
             ]
         },
