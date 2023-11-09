@@ -2522,6 +2522,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.RUN_DYN_CODE",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.COOPERATE_MANAGER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
