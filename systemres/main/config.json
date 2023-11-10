@@ -2682,6 +2682,22 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_APP_INSTALL_INFO",
+                "grantMode": "system_grant",
+                "since": 11,
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.RECEIVE_APP_INSTALL_INFO_CHANGE",
+                "grantMode": "system_grant",
+                "since": 11,
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
