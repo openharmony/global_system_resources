@@ -2684,6 +2684,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.RECORD_VOICE_CALL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_APP_INSTALL_INFO",
                 "grantMode": "system_grant",
                 "since": 11,
