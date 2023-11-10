@@ -2646,6 +2646,42 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_SECURITY_PRIVACY_CENTER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_SECURITY_PRIVACY_ADVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_SECURITY_PRIVACY_ADVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.USE_SECURITY_PRIVACY_MESSAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
