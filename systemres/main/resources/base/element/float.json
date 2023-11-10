@@ -865,6 +865,10 @@
             "value": "15.0vp"
         },
         {
+            "name": "ohos_id_video_control_bar_background_alpha",
+            "value": "100.0"
+        },
+        {
             "name": "ohos_id_calendar_picker_action_row_height",
             "value": "40.0vp"
         },
@@ -1079,6 +1083,18 @@
         {
             "name": "ohos_id_button_inner_padding",
             "value": "8.0vp"
+        },
+        {
+            "name": "ohos_id_counter_title_font_size",
+            "value": "15.0vp"
+        },
+        {
+            "name": "ohos_id_camera_buffer_width",
+            "value": "1080.0px"
+        },
+        {
+            "name": "ohos_id_camera_buffer_height",
+            "value": "1920.0px"
         }
     ]
 }
