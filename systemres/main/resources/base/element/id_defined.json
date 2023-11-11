@@ -5879,6 +5879,41 @@
             "type": "color",
             "name": "ohos_id_focus_color",
             "order": 1145
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_video_control_bar_error_text_color",
+            "order": 1146
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_video_control_bar_background_alpha",
+            "order": 1147
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_counter_title_font_color",
+            "order": 1148
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_counter_title_background_color",
+            "order": 1149
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_counter_title_font_size",
+            "order": 1150
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_camera_buffer_width",
+            "order": 1151
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_camera_buffer_height",
+            "order": 1152
         }
     ]
 }

@@ -637,8 +637,20 @@
             "name": "ohos_camera_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "camera_buffer_width",
+                    "value": "$float:ohos_id_camera_buffer_width"
+                },
+                {
+                    "name": "camera_buffer_height",
+                    "value": "$float:ohos_id_camera_buffer_height"
+                },
+                {
+                    "name": "camera_video_text_font_size",
+                    "value": "$float:ohos_id_video_control_bar_text_font_size"
+                },
+                {
+                    "name": "camera_video_text_color",
+                    "value": "$color:ohos_id_video_control_bar_error_text_color"
                 }
             ]
         },
@@ -780,6 +792,14 @@
                 {
                     "name": "control_bar_background_color",
                     "value": "$color:ohos_id_video_control_bar_background_color"
+                },
+                {
+                    "name": "control_bar_error_text_color",
+                    "value": "$color:ohos_id_video_control_bar_error_text_color"
+                },
+                {
+                    "name": "control_bar_background_alpha",
+                    "value": "$float:ohos_id_video_control_bar_background_alpha"
                 }
             ]
         },
@@ -865,6 +885,18 @@
                 {
                     "name": "button_alpha_disabled",
                     "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "title_font_color",
+                    "value": "$color:ohos_id_counter_title_font_color"
+                },
+                {
+                    "name": "title_background_color",
+                    "value": "$color:ohos_id_counter_title_background_color"
+                },
+                {
+                    "name": "title_font_size",
+                    "value": "$float:ohos_id_counter_title_font_size"
                 }
             ]
         },
