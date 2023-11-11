@@ -5914,6 +5914,16 @@
             "type": "float",
             "name": "ohos_id_camera_buffer_height",
             "order": 1152
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_section_unfocus_effect_enable_default",
+            "order": 1153
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_section_unfocus_color",
+            "order": 1154
         }
     ]
 }
