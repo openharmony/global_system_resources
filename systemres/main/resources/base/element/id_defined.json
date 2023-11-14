@@ -6109,6 +6109,156 @@
             "type": "color",
             "name": "ohos_id_picker_press_color",
             "order": 1191
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_checkbox_size",
+            "order": 1192
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_checkbox_hotzone_padding",
+            "order": 1193
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_checkbox_default_size",
+            "order": 1194
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_checkbox_need_focus",
+            "order": 1195
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_checkbox_inactive_background_solid",
+            "order": 1196
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_checkbox_border_width",
+            "order": 1197
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_checkbox_stroke_width",
+            "order": 1198
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_checkbox_shadow_color",
+            "order": 1199
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_checkbox_shadow_width",
+            "order": 1200
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_switch_pattern_width",
+            "order": 1201
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_switch_pattern_height",
+            "order": 1202
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_switch_hotzone_horizontal_padding",
+            "order": 1203
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_switch_hotzone_vertical_padding",
+            "order": 1204
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_switch_aspect_ratio",
+            "order": 1205
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_switch_inactive_background_solid",
+            "order": 1206
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_switch_default_width",
+            "order": 1207
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_switch_default_height",
+            "order": 1208
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_switch_need_focus",
+            "order": 1209
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_switch_border_width",
+            "order": 1210
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_switch_shadow_color",
+            "order": 1211
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_switch_pattern_shadow_width",
+            "order": 1212
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_radio_size",
+            "order": 1213
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_radio_hotzone_padding",
+            "order": 1214
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_radio_default_size",
+            "order": 1215
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_radio_inner_size_ratio",
+            "order": 1216
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_radio_need_focus",
+            "order": 1217
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_radio_inactive_background_solid",
+            "order": 1218
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_radio_border_width",
+            "order": 1219
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_radio_shadow_color",
+            "order": 1220
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_radio_shadow_width",
+            "order": 1221
         }
     ]
 }
