@@ -522,7 +522,7 @@
             {
                 "name": "ohos.permission.PRIVACY_WINDOW",
                 "grantMode": "system_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "normal",
                 "since": 9,
                 "deprecated": "",
                 "provisionEnable": true,
@@ -2705,6 +2705,15 @@
                 "grantMode": "system_grant",
                 "since": 11,
                 "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_ADVANCED_SECURITY_MODE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             }

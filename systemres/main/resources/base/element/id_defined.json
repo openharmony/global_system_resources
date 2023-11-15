@@ -6110,155 +6110,164 @@
             "name": "ohos_id_picker_press_color",
             "order": 1191
         },
-        {
-            "type": "float",
-            "name": "ohos_id_checkbox_size",
+            "type": "string",
+            "name": "ohos_id_sheet_type",
             "order": 1192
         },
         {
-            "type": "float",
-            "name": "ohos_id_checkbox_hotzone_padding",
+            "type": "string",
+            "name": "ohos_id_multiple_dialog_display",
             "order": 1193
         },
         {
             "type": "float",
-            "name": "ohos_id_checkbox_default_size",
+            "name": "ohos_id_checkbox_size",
             "order": 1194
         },
         {
             "type": "float",
-            "name": "ohos_id_checkbox_need_focus",
+            "name": "ohos_id_checkbox_hotzone_padding",
             "order": 1195
         },
         {
             "type": "float",
-            "name": "ohos_id_checkbox_inactive_background_solid",
+            "name": "ohos_id_checkbox_default_size",
             "order": 1196
         },
         {
             "type": "float",
-            "name": "ohos_id_checkbox_border_width",
+            "name": "ohos_id_checkbox_need_focus",
             "order": 1197
         },
         {
             "type": "float",
-            "name": "ohos_id_checkbox_stroke_width",
+            "name": "ohos_id_checkbox_inactive_background_solid",
             "order": 1198
         },
         {
-            "type": "color",
-            "name": "ohos_id_checkbox_shadow_color",
+            "type": "float",
+            "name": "ohos_id_checkbox_border_width",
             "order": 1199
         },
         {
             "type": "float",
-            "name": "ohos_id_checkbox_shadow_width",
+            "name": "ohos_id_checkbox_stroke_width",
             "order": 1200
         },
         {
-            "type": "float",
-            "name": "ohos_id_switch_pattern_width",
+            "type": "color",
+            "name": "ohos_id_checkbox_shadow_color",
             "order": 1201
         },
         {
             "type": "float",
-            "name": "ohos_id_switch_pattern_height",
+            "name": "ohos_id_checkbox_shadow_width",
             "order": 1202
         },
         {
             "type": "float",
-            "name": "ohos_id_switch_hotzone_horizontal_padding",
+            "name": "ohos_id_switch_pattern_width",
             "order": 1203
         },
         {
             "type": "float",
-            "name": "ohos_id_switch_hotzone_vertical_padding",
+            "name": "ohos_id_switch_pattern_height",
             "order": 1204
         },
         {
             "type": "float",
-            "name": "ohos_id_switch_aspect_ratio",
+            "name": "ohos_id_switch_hotzone_horizontal_padding",
             "order": 1205
         },
         {
             "type": "float",
-            "name": "ohos_id_switch_inactive_background_solid",
+            "name": "ohos_id_switch_hotzone_vertical_padding",
             "order": 1206
         },
         {
             "type": "float",
-            "name": "ohos_id_switch_default_width",
+            "name": "ohos_id_switch_aspect_ratio",
             "order": 1207
         },
         {
             "type": "float",
-            "name": "ohos_id_switch_default_height",
+            "name": "ohos_id_switch_inactive_background_solid",
             "order": 1208
         },
         {
             "type": "float",
-            "name": "ohos_id_switch_need_focus",
+            "name": "ohos_id_switch_default_width",
             "order": 1209
         },
         {
             "type": "float",
-            "name": "ohos_id_switch_border_width",
+            "name": "ohos_id_switch_default_height",
             "order": 1210
         },
         {
-            "type": "color",
-            "name": "ohos_id_switch_shadow_color",
+            "type": "float",
+            "name": "ohos_id_switch_need_focus",
             "order": 1211
         },
         {
             "type": "float",
-            "name": "ohos_id_switch_pattern_shadow_width",
+            "name": "ohos_id_switch_border_width",
             "order": 1212
         },
         {
-            "type": "float",
-            "name": "ohos_id_radio_size",
+            "type": "color",
+            "name": "ohos_id_switch_shadow_color",
             "order": 1213
         },
         {
             "type": "float",
-            "name": "ohos_id_radio_hotzone_padding",
+            "name": "ohos_id_switch_pattern_shadow_width",
             "order": 1214
         },
         {
             "type": "float",
-            "name": "ohos_id_radio_default_size",
+            "name": "ohos_id_radio_size",
             "order": 1215
         },
         {
             "type": "float",
-            "name": "ohos_id_radio_inner_size_ratio",
+            "name": "ohos_id_radio_hotzone_padding",
             "order": 1216
         },
         {
             "type": "float",
-            "name": "ohos_id_radio_need_focus",
+            "name": "ohos_id_radio_default_size",
             "order": 1217
         },
         {
             "type": "float",
-            "name": "ohos_id_radio_inactive_background_solid",
+            "name": "ohos_id_radio_inner_size_ratio",
             "order": 1218
         },
         {
             "type": "float",
-            "name": "ohos_id_radio_border_width",
+            "name": "ohos_id_radio_need_focus",
             "order": 1219
         },
         {
-            "type": "color",
-            "name": "ohos_id_radio_shadow_color",
+            "type": "float",
+            "name": "ohos_id_radio_inactive_background_solid",
             "order": 1220
         },
         {
             "type": "float",
-            "name": "ohos_id_radio_shadow_width",
+            "name": "ohos_id_radio_border_width",
             "order": 1221
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_radio_shadow_color",
+            "order": 1222
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_radio_shadow_width",
+            "order": 1223
         }
     ]
 }
