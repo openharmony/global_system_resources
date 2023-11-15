@@ -2716,6 +2716,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.STORE_PERSISTENT_DATA",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
