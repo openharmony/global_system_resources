@@ -2723,6 +2723,15 @@
                 "availableLevel": "normal",
                 "since": 11,
                 "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_HIVIEWX",
+                "grantMode": "system_grant",
+                "since": 11,
+                "deprecated": "",
+                "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             }

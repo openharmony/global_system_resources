@@ -243,6 +243,54 @@
                 {
                     "name": "point_animation_duration",
                     "value": "200.0"
+                },
+                {
+                    "name": "switch_pattern_width",
+                    "value": "$float:ohos_id_switch_pattern_width"
+                },
+                {
+                    "name": "switch_pattern_height",
+                    "value": "$float:ohos_id_switch_pattern_height"
+                },
+                {
+                    "name": "switch_hotzone_horizontal_padding",
+                    "value": "$float:ohos_id_switch_hotzone_horizontal_padding"
+                },
+                {
+                    "name": "switch_hotzone_vertical_padding",
+                    "value": "$float:ohos_id_switch_hotzone_vertical_padding"
+                },
+                {
+                    "name": "switch_aspect_ratio",
+                    "value": "$float:ohos_id_switch_aspect_ratio"
+                },
+                {
+                    "name": "switch_inactive_background_solid",
+                    "value": "$float:ohos_id_switch_inactive_background_solid"
+                },
+                {
+                    "name": "switch_default_width",
+                    "value": "$float:ohos_id_switch_default_width"
+                },
+                {
+                    "name": "switch_default_height",
+                    "value": "$float:ohos_id_switch_default_height"
+                },
+                {
+                    "name": "switch_need_focus",
+                    "value": "$float:ohos_id_switch_need_focus"
+                },
+                {
+                    "name": "switch_border_width",
+                    "value": "$float:ohos_id_switch_border_width"
+                },
+                {
+                    "name": "switch_shadow_color",
+                    "value": "$color:ohos_id_switch_shadow_color"
+                },
+                {
+                    "name": "switch_pattern_shadow_width",
+                    "value": "$float:ohos_id_switch_pattern_shadow_width"
                 }
             ]
         },
@@ -982,6 +1030,42 @@
                 {
                     "name": "default_padding",
                     "value": "2.0vp"
+                },
+                {
+                    "name": "checkbox_size",
+                    "value": "$float:ohos_id_checkbox_size"
+                },
+                {
+                    "name": "checkbox_hotzone_padding",
+                    "value": "$float:ohos_id_checkbox_hotzone_padding"
+                },
+                {
+                    "name": "checkbox_default_size",
+                    "value": "$float:ohos_id_checkbox_default_size"
+                },
+                {
+                    "name": "checkbox_need_focus",
+                    "value": "$float:ohos_id_checkbox_need_focus"
+                },
+                {
+                    "name": "checkbox_inactive_background_solid",
+                    "value": "$float:ohos_id_checkbox_inactive_background_solid"
+                },
+                {
+                    "name": "checkbox_border_width",
+                    "value": "$float:ohos_id_checkbox_border_width"
+                },
+                {
+                    "name": "checkbox_stroke_width",
+                    "value": "$float:ohos_id_checkbox_stroke_width"
+                },
+                {
+                    "name": "checkbox_shadow_color",
+                    "value": "$color:ohos_id_checkbox_shadow_color"
+                },
+                {
+                    "name": "checkbox_shadow_width",
+                    "value": "$float:ohos_id_checkbox_shadow_width"
                 }
             ]
         },
@@ -1051,6 +1135,42 @@
                 {
                     "name": "default_padding",
                     "value": "2.0vp"
+                },
+                {
+                    "name": "radio_size",
+                    "value": "$float:ohos_id_radio_size"
+                },
+                {
+                    "name": "radio_hotzone_padding",
+                    "value": "$float:ohos_id_radio_hotzone_padding"
+                },
+                {
+                    "name": "radio_default_size",
+                    "value": "$float:ohos_id_radio_default_size"
+                },
+                {
+                    "name": "radio_inner_size_ratio",
+                    "value": "$float:ohos_id_radio_inner_size_ratio"
+                },
+                {
+                    "name": "radio_need_focus",
+                    "value": "$float:ohos_id_radio_need_focus"
+                },
+                {
+                    "name": "radio_inactive_background_solid",
+                    "value": "$float:ohos_id_radio_inactive_background_solid"
+                },
+                {
+                    "name": "radio_border_width",
+                    "value": "$float:ohos_id_radio_border_width"
+                },
+                {
+                    "name": "radio_shadow_color",
+                    "value": "$color:ohos_id_radio_shadow_color"
+                },
+                {
+                    "name": "radio_shadow_width",
+                    "value": "$float:ohos_id_radio_shadow_width"
                 }
             ]
         },
