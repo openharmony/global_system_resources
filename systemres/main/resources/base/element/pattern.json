@@ -1572,6 +1572,14 @@
                 {
                     "name": "text_color",
                     "value": "?theme:attribute_color_text_primary"
+                },
+                {
+                    "name": "marquee_font_size",
+                    "value": "$float:ohos_id_marquee_font_size"
+                },
+                {
+                    "name": "marquee_text_color",
+                    "value": "$color:ohos_id_marquee_text_color"
                 }
             ]
         },
@@ -1693,6 +1701,46 @@
                 {
                     "name": "section_unfocus_color",
                     "value": "$color:ohos_id_section_unfocus_color"
+                },
+                {
+                    "name": "navigation_bar_height",
+                    "value": "$float:ohos_id_navigation_bar_height"
+                },
+                {
+                    "name": "navigation_bar_height_emphasize",
+                    "value": "$float:ohos_id_navigation_bar_height_emphasize"
+                },
+                {
+                    "name": "navigation_bar_menu_zone_size",
+                    "value": "$float:ohos_id_navigation_bar_menu_zone_size"
+                },
+                {
+                    "name": "navigation_bar_menu_icon_size",
+                    "value": "$float:ohos_id_navigation_bar_menu_icon_size"
+                },
+                {
+                    "name": "navigation_bar_logo_icon_size",
+                    "value": "$float:ohos_id_navigation_bar_logo_icon_size"
+                },
+                {
+                    "name": "navigation_bar_button_normal_color",
+                    "value": "$color:ohos_id_navigation_bar_button_normal_color"
+                },
+                {
+                    "name": "navigation_bar_default_padding_end",
+                    "value": "$float:ohos_id_navigation_bar_default_padding_end"
+                },
+                {
+                    "name": "navigation_bar_menu_item_padding",
+                    "value": "$float:ohos_id_navigation_bar_menu_item_padding"
+                },
+                {
+                    "name": "navigation_bar_title_min_padding",
+                    "value": "$float:ohos_id_navigation_bar_title_min_padding"
+                },
+                {
+                    "name": "navigation_bar_most_menu_item_count_in_bar",
+                    "value": "$float:ohos_id_navigation_bar_most_menu_item_count_in_bar"
                 }
             ]
         },
@@ -1996,6 +2044,18 @@
                 {
                     "name": "bg_color_focused",
                     "value": "$color:ohos_id_color_focused_outline_transparent"
+                },
+                {
+                    "name": "popup_mask_color",
+                    "value": "$color:ohos_id_popup_mask_color"
+                },
+                {
+                    "name": "popup_text_color",
+                    "value": "$color:ohos_id_popup_text_color"
+                },
+                {
+                    "name": "popup_text_font_size",
+                    "value": "$float:ohos_id_popup_text_font_size"
                 }
             ]
         },
@@ -2097,6 +2157,70 @@
                 {
                     "name": "capsule_progress_bg_alpha",
                     "value": "$float:ohos_id_alpha_content_fourth"
+                },
+                {
+                    "name": "progress_thickness",
+                    "value": "$float:ohos_id_progress_thickness"
+                },
+                {
+                    "name": "progress_default_width",
+                    "value": "$float:ohos_id_progress_default_width"
+                },
+                {
+                    "name": "progress_ring_thickness",
+                    "value": "$float:ohos_id_progress_ring_thickness"
+                },
+                {
+                    "name": "progress_default_diameter",
+                    "value": "$float:ohos_id_progress_default_diameter"
+                },
+                {
+                    "name": "progress_scale_number",
+                    "value": "$float:ohos_id_progress_scale_number"
+                },
+                {
+                    "name": "progress_scale_width",
+                    "value": "$float:ohos_id_progress_scale_width"
+                },
+                {
+                    "name": "progress_stroke_width",
+                    "value": "$float:ohos_id_progress_stroke_width"
+                },
+                {
+                    "name": "progress_scale_default_diameter",
+                    "value": "$float:ohos_id_progress_scale_default_diameter"
+                },
+                {
+                    "name": "progress_moon_diameter",
+                    "value": "$float:ohos_id_progress_moon_diameter"
+                },
+                {
+                    "name": "progress_loading_move_ratio",
+                    "value": "$float:ohos_id_progress_loading_move_ratio"
+                },
+                {
+                    "name": "progress_loading_ring_radius",
+                    "value": "$float:ohos_id_progress_loading_ring_radius"
+                },
+                {
+                    "name": "progress_loading_orbit_radius",
+                    "value": "$float:ohos_id_progress_loading_orbit_radius"
+                },
+                {
+                    "name": "progress_loading_comet_tail_len",
+                    "value": "$float:ohos_id_progress_loading_comet_tail_len"
+                },
+                {
+                    "name": "progress_bubble_radius",
+                    "value": "$float:ohos_id_progress_bubble_radius"
+                },
+                {
+                    "name": "progress_bubble_diameter",
+                    "value": "$float:ohos_id_progress_bubble_diameter"
+                },
+                {
+                    "name": "progress_button_download_height",
+                    "value": "$float:ohos_id_progress_button_download_height"
                 }
             ]
         },
@@ -2371,6 +2495,58 @@
                 {
                     "name": "arrow_vertical_margin",
                     "value": "$float:ohos_id_elements_margin_vertical_m"
+                },
+                {
+                    "name": "swiper_indicator_size",
+                    "value": "$float:ohos_id_swiper_indicator_size"
+                },
+                {
+                    "name": "swiper_indicator_selected_size",
+                    "value": "$float:ohos_id_swiper_indicator_selected_size"
+                },
+                {
+                    "name": "swiper_indicator_mask",
+                    "value": "$float:ohos_id_swiper_indicator_mask"
+                },
+                {
+                    "name": "swiper_indicator_point_padding",
+                    "value": "$float:ohos_id_swiper_indicator_point_padding"
+                },
+                {
+                    "name": "swiper_indicator_start_end_padding",
+                    "value": "$float:ohos_id_swiper_indicator_start_end_padding"
+                },
+                {
+                    "name": "swiper_indicator_press_padding",
+                    "value": "$float:ohos_id_swiper_indicator_press_padding"
+                },
+                {
+                    "name": "swiper_indicator_press_point_padding",
+                    "value": "$float:ohos_id_swiper_indicator_press_point_padding"
+                },
+                {
+                    "name": "swiper_indicator_press_size",
+                    "value": "$float:ohos_id_swiper_indicator_press_size"
+                },
+                {
+                    "name": "swiper_indicator_hover_size",
+                    "value": "$float:ohos_id_swiper_indicator_hover_size"
+                },
+                {
+                    "name": "swiper_indicator_hotzone_size",
+                    "value": "$float:ohos_id_swiper_indicator_hotzone_size"
+                },
+                {
+                    "name": "swiper_indicator_disabled",
+                    "value": "$float:ohos_id_swiper_indicator_disabled"
+                },
+                {
+                    "name": "swiper_animation_curve",
+                    "value": "$float:ohos_id_swiper_animation_curve"
+                },
+                {
+                    "name": "swiper_animation_opacity",
+                    "value": "$float:ohos_id_swiper_animation_opacity"
                 }
             ]
         },
