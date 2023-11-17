@@ -6284,6 +6284,18 @@
             "type": "string",
             "name": "ohos_id_expand_display",
             "order": 1226
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_point_light_bloom_color",
+            "order": 1227,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_point_light_bloom_radius",
+            "order": 1228,
+            "flags": "private"
         }
     ]
 }
