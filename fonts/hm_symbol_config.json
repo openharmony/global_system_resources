@@ -1,0 +1,378 @@
+{
+  "name": "HM Symbol Layers Grouping",
+  "version": "1.0",
+  "symbol_layers_grouping": [
+    {
+      "native_glyph_id": "0",
+      "symbol_glyph_id": "0",
+      "layers": [
+        {
+          "components": [0]
+        },
+        {
+          "components": [1]
+        },
+		{
+          "components": [2]
+        }
+      ],
+      "render_modes": [
+        {
+          "mode": "monochrome",
+          "render_groups": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0,1,2]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "variable_alphas": {
+        "alpha_below_thr": 0.5,
+        "alpha_above_thr": 1,
+        "threshold_groups": [
+          {
+            "group_indexes": [
+              {
+                "layer_indexes": [0]
+              }
+            ],
+            "threshold": 0.25
+          },
+          {
+            "group_indexes": [
+              {
+                "layer_indexes": [1]
+              }
+            ],
+            "threshold": 0.5
+          },
+          {
+            "group_indexes": [
+              {
+                "layer_indexes": [2]
+              }
+            ],
+            "threshold": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "native_glyph_id": "5",
+      "symbol_glyph_id": "4",
+      "layers": [
+        {
+          "components": [0,1,2]
+        },
+        {
+          "components": [3]
+        },
+		{
+          "components": [4]
+        },
+		{
+          "components": [5]
+        }
+      ],
+      "render_modes": [
+        {
+          "mode": "monochrome",
+          "render_groups": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0],
+                  "mask_indexs": [1]
+                },
+                {
+                  "layer_indexes": [2],
+                  "mask_indexs": [3]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mode": "multicolor",
+          "render_groups": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0],
+                  "mask_indexs": [1]
+                }
+              ],
+              "default_color": "#000000"
+            },
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [2],
+                  "mask_indexs": [3]
+                }
+              ],
+              "default_color": "#64BB5C"
+            }
+          ]
+        },
+        {
+          "mode": "hierarchical",
+          "render_groups": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0],
+                  "mask_indexs": [1]
+                }
+              ],
+              "fix_alpha": 0.5
+            },
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [2],
+                  "mask_indexs": [3]
+                }
+              ],
+              "fix_alpha": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "native_glyph_id": "1",
+      "symbol_glyph_id": "1",
+      "layers": [
+        {
+          "components": [0,1,2,3,4,5]
+        }
+      ],
+      "render_modes": [
+        {
+          "mode": "monochrome",
+          "render_groups": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "native_glyph_id": "2",
+      "symbol_glyph_id": "2",
+      "layers": [
+        {
+          "components": [0]
+        },
+        {
+          "components": [1]
+        },
+        {
+          "components": [2]
+        },
+        {
+          "components": [3,4,5,6]
+        }
+      ],
+      "render_modes": [
+        {
+          "mode": "monochrome",
+          "render_groups": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0],
+                  "mask_indexs": [1]
+                },
+                {
+                  "layer_indexes": [2],
+                  "mask_indexs": [3]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mode": "multicolor",
+          "render_groups": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0],
+                  "mask_indexs": [1]
+                }
+              ],
+              "default_color": "#000000"
+            },
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [2],
+                  "mask_indexs": [3]
+                }
+              ],
+              "default_color": "#E84026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "native_glyph_id": "3",
+      "symbol_glyph_id": "3",
+      "layers": [
+        {
+          "components": [0,1]
+        },
+        {
+          "components": [2]
+        },
+        {
+          "components": [3]
+        }
+      ],
+      "render_modes": [
+        {
+          "mode": "monochrome",
+          "render_groups": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0]
+                },
+                {
+                  "layer_indexes": [1],
+                  "mask_indexs": [2]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "native_glyph_id": "6",
+      "symbol_glyph_id": "6",
+      "layers": [
+        {
+          "components": [0]
+        },
+        {
+          "components": [1]
+        },
+        {
+          "components": [2,6]
+        },
+        {
+          "components": [3]
+        },        
+        {
+          "components": [4]
+        },        
+        {
+          "components": [5]
+        }
+      ],
+      "render_modes": [
+        {
+          "mode": "monochrome",
+          "render_groups": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0],
+                  "mask_indexs": [1]
+                },
+                {
+                  "layer_indexes": [4],
+                  "mask_indexs": [5]
+                },
+                {
+                  "layer_indexes": [2,3]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mode": "multicolor",
+          "render_groups": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [3]
+                }
+              ],
+              "default_color": "#E84026"
+            },
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [2]
+                }
+              ],
+              "default_color": "#55BEF0"
+            },
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0],
+                  "mask_indexs": [1]
+                },
+                {
+                  "layer_indexes": [4],
+                  "mask_indexs": [5]
+                }
+              ],
+              "default_color": "#55BEF0"
+            }
+          ]
+        },
+        {
+          "mode": "hierarchical",
+          "render_groups": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [3]
+                }
+              ],
+              "fix_alpha": 1
+            },
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [2]
+                }
+              ],
+              "fix_alpha": 0.6
+            },
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0],
+                  "mask_indexs": [1]
+                },
+                {
+                  "layer_indexes": [4],
+                  "mask_indexs": [5]
+                }
+              ],
+              "fix_alpha": 0.3
+            }            
+          ]
+        }
+      ]
+    }
+  ]
+}
