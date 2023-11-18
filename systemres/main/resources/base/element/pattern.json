@@ -3099,6 +3099,14 @@
                 {
                     "name": "menu_expand_display",
                     "value": "$string:ohos_id_expand_display"
+                },
+                {
+                    "name": "max_padding_start",
+                    "value": "$float:ohos_id_max_padding_start"
+                },
+                {
+                    "name": "max_padding_end",
+                    "value": "$float:ohos_id_max_padding_end"
                 }
             ]
         },
