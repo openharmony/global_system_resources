@@ -6286,15 +6286,20 @@
             "order": 1226
         },
         {
+            "type": "media",
+            "name": "ohos_ic_public_cancel",
+            "order": 1227
+        },
+        {
             "type": "color",
             "name": "ohos_id_point_light_bloom_color",
-            "order": 1227,
+            "order": 1228,
             "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_point_light_bloom_radius",
-            "order": 1228,
+            "order": 1229,
             "flags": "private"
         }
     ]
