@@ -6286,224 +6286,229 @@
             "order": 1226
         },
         {
-            "type": "float",
-            "name": "ohos_id_navigation_bar_height",
+            "type": "media",
+            "name": "ohos_ic_public_cancel",
             "order": 1227
         },
         {
             "type": "float",
-            "name": "ohos_id_navigation_bar_height_emphasize",
+            "name": "ohos_id_navigation_bar_height",
             "order": 1228
         },
         {
             "type": "float",
-            "name": "ohos_id_navigation_bar_menu_zone_size",
+            "name": "ohos_id_navigation_bar_height_emphasize",
             "order": 1229
         },
         {
             "type": "float",
-            "name": "ohos_id_navigation_bar_menu_icon_size",
+            "name": "ohos_id_navigation_bar_menu_zone_size",
             "order": 1230
         },
         {
             "type": "float",
-            "name": "ohos_id_navigation_bar_logo_icon_size",
+            "name": "ohos_id_navigation_bar_menu_icon_size",
             "order": 1231
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_navigation_bar_logo_icon_size",
+            "order": 1232
         },
         {
             "type": "color",
             "name": "ohos_id_navigation_bar_button_normal_color",
-            "order": 1232
-        },
-        {
-            "type": "float",
-            "name": "ohos_id_navigation_bar_default_padding_end",
             "order": 1233
         },
         {
             "type": "float",
-            "name": "ohos_id_navigation_bar_menu_item_padding",
+            "name": "ohos_id_navigation_bar_default_padding_end",
             "order": 1234
         },
         {
             "type": "float",
-            "name": "ohos_id_navigation_bar_title_min_padding",
+            "name": "ohos_id_navigation_bar_menu_item_padding",
             "order": 1235
         },
         {
             "type": "float",
-            "name": "ohos_id_navigation_bar_most_menu_item_count_in_bar",
+            "name": "ohos_id_navigation_bar_title_min_padding",
             "order": 1236
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_indicator_size",
+            "name": "ohos_id_navigation_bar_most_menu_item_count_in_bar",
             "order": 1237
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_indicator_selected_size",
+            "name": "ohos_id_swiper_indicator_size",
             "order": 1238
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_indicator_mask",
+            "name": "ohos_id_swiper_indicator_selected_size",
             "order": 1239
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_indicator_point_padding",
+            "name": "ohos_id_swiper_indicator_mask",
             "order": 1240
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_indicator_start_end_padding",
+            "name": "ohos_id_swiper_indicator_point_padding",
             "order": 1241
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_indicator_press_padding",
+            "name": "ohos_id_swiper_indicator_start_end_padding",
             "order": 1242
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_indicator_press_point_padding",
+            "name": "ohos_id_swiper_indicator_press_padding",
             "order": 1243
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_indicator_press_size",
+            "name": "ohos_id_swiper_indicator_press_point_padding",
             "order": 1244
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_indicator_hover_size",
+            "name": "ohos_id_swiper_indicator_press_size",
             "order": 1245
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_indicator_hotzone_size",
+            "name": "ohos_id_swiper_indicator_hover_size",
             "order": 1246
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_indicator_disabled",
+            "name": "ohos_id_swiper_indicator_hotzone_size",
             "order": 1247
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_animation_curve",
+            "name": "ohos_id_swiper_indicator_disabled",
             "order": 1248
         },
         {
             "type": "float",
-            "name": "ohos_id_swiper_animation_opacity",
+            "name": "ohos_id_swiper_animation_curve",
             "order": 1249
         },
         {
             "type": "float",
-            "name": "ohos_id_marquee_font_size",
+            "name": "ohos_id_swiper_animation_opacity",
             "order": 1250
         },
         {
-            "type": "color",
-            "name": "ohos_id_marquee_text_color",
+            "type": "float",
+            "name": "ohos_id_marquee_font_size",
             "order": 1251
         },
         {
             "type": "color",
-            "name": "ohos_id_popup_mask_color",
+            "name": "ohos_id_marquee_text_color",
             "order": 1252
         },
         {
             "type": "color",
-            "name": "ohos_id_popup_text_color",
+            "name": "ohos_id_popup_mask_color",
             "order": 1253
         },
         {
-            "type": "float",
-            "name": "ohos_id_popup_text_font_size",
+            "type": "color",
+            "name": "ohos_id_popup_text_color",
             "order": 1254
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_thickness",
+            "name": "ohos_id_popup_text_font_size",
             "order": 1255
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_default_width",
+            "name": "ohos_id_progress_thickness",
             "order": 1256
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_ring_thickness",
+            "name": "ohos_id_progress_default_width",
             "order": 1257
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_default_diameter",
+            "name": "ohos_id_progress_ring_thickness",
             "order": 1258
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_scale_number",
+            "name": "ohos_id_progress_default_diameter",
             "order": 1259
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_scale_width",
+            "name": "ohos_id_progress_scale_number",
             "order": 1260
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_stroke_width",
+            "name": "ohos_id_progress_scale_width",
             "order": 1261
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_scale_default_diameter",
+            "name": "ohos_id_progress_stroke_width",
             "order": 1262
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_moon_diameter",
+            "name": "ohos_id_progress_scale_default_diameter",
             "order": 1263
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_loading_move_ratio",
+            "name": "ohos_id_progress_moon_diameter",
             "order": 1264
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_loading_ring_radius",
+            "name": "ohos_id_progress_loading_move_ratio",
             "order": 1265
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_loading_orbit_radius",
+            "name": "ohos_id_progress_loading_ring_radius",
             "order": 1266
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_loading_comet_tail_len",
+            "name": "ohos_id_progress_loading_orbit_radius",
             "order": 1267
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_bubble_radius",
+            "name": "ohos_id_progress_loading_comet_tail_len",
             "order": 1268
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_bubble_diameter",
+            "name": "ohos_id_progress_bubble_radius",
             "order": 1269
         },
         {
             "type": "float",
-            "name": "ohos_id_progress_button_download_height",
+            "name": "ohos_id_progress_bubble_diameter",
             "order": 1270
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_button_download_height",
+            "order": 1271
         }
     ]
 }

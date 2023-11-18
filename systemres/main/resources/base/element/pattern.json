@@ -1485,6 +1485,10 @@
                 {
                     "name": "button_default_bg_color",
                     "value": "$color:ohos_id_color_dialog_default_bg"
+                },
+                {
+                    "name": "multiple_dialog_display",
+                    "value": "$string:ohos_id_multiple_dialog_display"
                 }
             ]
         },
@@ -3259,6 +3263,14 @@
                 {
                     "name": "menu_bg_color_alpha",
                     "value": "0.85"
+                },
+                {
+                    "name": "select_default_border_radius",
+                    "value": "$float:ohos_id_corner_radius_button"
+                },
+                {
+                    "name": "select_default_bg_color",
+                    "value": "$color:ohos_id_color_card_bg"
                 }
             ]
         },
