@@ -2718,6 +2718,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.STORE_PERSISTENT_DATA",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_HIVIEWX",
                 "grantMode": "system_grant",
                 "since": 11,
@@ -2728,6 +2737,15 @@
             },
             {
                 "name": "ohos.permission.ACCESS_PASSWORDVAULT_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_LOWPOWER_MANAGER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 11,

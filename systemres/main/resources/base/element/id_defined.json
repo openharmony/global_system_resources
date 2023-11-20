@@ -6523,64 +6523,69 @@
             "order": 1273
         },
         {
-            "type": "media",
-            "name": "ohos_ic_public_hang_up",
+            "type": "pattern",
+            "name": "ohos_sheet_pattern",
             "order": 1274
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_pause",
+            "name": "ohos_ic_public_hang_up",
             "order": 1275
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_play_last",
+            "name": "ohos_ic_public_pause",
             "order": 1276
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_play_next",
+            "name": "ohos_ic_public_play_last",
             "order": 1277
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_play",
+            "name": "ohos_ic_public_play_next",
             "order": 1278
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_restore",
+            "name": "ohos_ic_public_play",
             "order": 1279
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_sound_off",
+            "name": "ohos_ic_public_restore",
             "order": 1280
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_sound",
+            "name": "ohos_ic_public_sound_off",
             "order": 1281
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_video_off",
+            "name": "ohos_ic_public_sound",
             "order": 1282
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_video",
+            "name": "ohos_ic_public_video_off",
             "order": 1283
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_voice_off",
+            "name": "ohos_ic_public_video",
             "order": 1284
         },
         {
             "type": "media",
-            "name": "ohos_ic_public_voice",
+            "name": "ohos_ic_public_voice_off",
             "order": 1285
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_voice",
+            "order": 1286
         }
     ]
 }
