@@ -600,13 +600,11 @@
             {
                 "name": "ohos.permission.SYSTEM_LIGHT_CONTROL",
                 "grantMode": "system_grant",
-                "availableLevel": "normal",
+                "availableLevel": "system_basic",
                 "since": 11,
                 "deprecated": "",
                 "provisionEnable": true,
-                "distributedSceneEnable": false,
-                "label": "$string:ohos_desc_light",
-                "description": "$string:ohos_desc_light"
+                "distributedSceneEnable": false
             },
             {
                 "name": "ohos.permission.ACTIVITY_MOTION",
