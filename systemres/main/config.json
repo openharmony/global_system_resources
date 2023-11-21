@@ -598,6 +598,15 @@
                 "description": "$string:ohos_desc_vibrate"
             },
             {
+                "name": "ohos.permission.SYSTEM_LIGHT_CONTROL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACTIVITY_MOTION",
                 "grantMode": "user_grant",
                 "availableLevel": "normal",
