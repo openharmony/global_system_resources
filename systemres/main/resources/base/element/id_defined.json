@@ -6586,6 +6586,156 @@
             "type": "media",
             "name": "ohos_ic_public_voice",
             "order": 1286
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_padding_horizontal",
+            "order": 1287
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_padding_vertical",
+            "order": 1288
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_content_max_width",
+            "order": 1289
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_content_min_width",
+            "order": 1290
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_content_min_height",
+            "order": 1291
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_text_font_weight",
+            "order": 1292
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_bottom",
+            "order": 1293
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_margin",
+            "order": 1294
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_text_min_font_size",
+            "order": 1295
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_text_max_lines",
+            "order": 1296
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_font_size",
+            "order": 1297
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_start_num",
+            "order": 1298
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_score",
+            "order": 1299
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_mini_score",
+            "order": 1300
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_step_size",
+            "order": 1301
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_padding_vertical",
+            "order": 1302
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_big_width",
+            "order": 1303
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_big_height",
+            "order": 1304
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_mini_width",
+            "order": 1305
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_mini_height",
+            "order": 1306
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_designed_start_aspect_ratio",
+            "order": 1307
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_focus_border_width",
+            "order": 1308
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_shape_mode",
+            "order": 1309
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_normal_width",
+            "order": 1310
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_active_width",
+            "order": 1311
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_min_height",
+            "order": 1312
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_min_dynamic_height",
+            "order": 1313
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_reserved_height",
+            "order": 1314
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_touch_width",
+            "order": 1315
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_scroll_bar_background_color",
+            "order": 1316
         }
     ]
 }
