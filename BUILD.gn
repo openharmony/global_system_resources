@@ -419,10 +419,25 @@ ohos_prebuilt_etc("HMOSColorEmojiFlags") {
   part_name = "ace_engine"
 }
 
+ohos_prebuilt_etc("HMSymbolVF") {
+  source = "fonts/HMSymbolVF.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
+ohos_prebuilt_etc("hm_symbol_config") {
+  source = "fonts/hm_symbol_config.json"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
 group("ohos_fonts") {
   deps = [
     ":HMOSColorEmojiCompat",
     ":HMOSColorEmojiFlags",
+    ":HMSymbolVF",
     ":HarmonyOS_Sans_Black",
     ":HarmonyOS_Sans_Black_Italic",
     ":HarmonyOS_Sans_Bold",
@@ -479,6 +494,7 @@ group("ohos_fonts") {
     ":NotoSans_KR_Bold",
     ":NotoSans_KR_Light",
     ":NotoSans_KR_Regular",
+    ":hm_symbol_config",
   ]
 
   if (system_resources_support_ext) {
