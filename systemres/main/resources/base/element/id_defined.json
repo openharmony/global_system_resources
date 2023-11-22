@@ -6284,6 +6284,458 @@
             "type": "string",
             "name": "ohos_id_expand_display",
             "order": 1226
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_cancel",
+            "order": 1227
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_point_light_bloom_color",
+            "order": 1228,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_point_light_bloom_radius",
+            "order": 1229,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_navigation_bar_height",
+            "order": 1230
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_navigation_bar_height_emphasize",
+            "order": 1231
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_navigation_bar_menu_zone_size",
+            "order": 1232
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_navigation_bar_menu_icon_size",
+            "order": 1233
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_navigation_bar_logo_icon_size",
+            "order": 1234
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_navigation_bar_button_normal_color",
+            "order": 1235
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_navigation_bar_default_padding_end",
+            "order": 1236
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_navigation_bar_menu_item_padding",
+            "order": 1237
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_navigation_bar_title_min_padding",
+            "order": 1238
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_navigation_bar_most_menu_item_count_in_bar",
+            "order": 1239
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_indicator_size",
+            "order": 1240
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_indicator_selected_size",
+            "order": 1241
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_indicator_mask",
+            "order": 1242
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_indicator_point_padding",
+            "order": 1243
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_indicator_start_end_padding",
+            "order": 1244
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_indicator_press_padding",
+            "order": 1245
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_indicator_press_point_padding",
+            "order": 1246
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_indicator_press_size",
+            "order": 1247
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_indicator_hover_size",
+            "order": 1248
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_indicator_hotzone_size",
+            "order": 1249
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_indicator_disabled",
+            "order": 1250
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_animation_curve",
+            "order": 1251
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_swiper_animation_opacity",
+            "order": 1252
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_marquee_font_size",
+            "order": 1253
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_marquee_text_color",
+            "order": 1254
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_popup_mask_color",
+            "order": 1255
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_popup_text_color",
+            "order": 1256
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_popup_text_font_size",
+            "order": 1257
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_thickness",
+            "order": 1258
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_default_width",
+            "order": 1259
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_ring_thickness",
+            "order": 1260
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_default_diameter",
+            "order": 1261
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_scale_number",
+            "order": 1262
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_scale_width",
+            "order": 1263
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_stroke_width",
+            "order": 1264
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_scale_default_diameter",
+            "order": 1265
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_moon_diameter",
+            "order": 1266
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_loading_move_ratio",
+            "order": 1267
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_loading_ring_radius",
+            "order": 1268
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_loading_orbit_radius",
+            "order": 1269
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_loading_comet_tail_len",
+            "order": 1270
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_bubble_radius",
+            "order": 1271
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_bubble_diameter",
+            "order": 1272
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_button_download_height",
+            "order": 1273
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_sheet_pattern",
+            "order": 1274
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_hang_up",
+            "order": 1275
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_pause",
+            "order": 1276
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_play_last",
+            "order": 1277
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_play_next",
+            "order": 1278
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_play",
+            "order": 1279
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_restore",
+            "order": 1280
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_sound_off",
+            "order": 1281
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_sound",
+            "order": 1282
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_video_off",
+            "order": 1283
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_video",
+            "order": 1284
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_voice_off",
+            "order": 1285
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_voice",
+            "order": 1286
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_padding_horizontal",
+            "order": 1287
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_padding_vertical",
+            "order": 1288
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_content_max_width",
+            "order": 1289
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_content_min_width",
+            "order": 1290
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_content_min_height",
+            "order": 1291
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_text_font_weight",
+            "order": 1292
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_bottom",
+            "order": 1293
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_margin",
+            "order": 1294
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_text_min_font_size",
+            "order": 1295
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_text_max_lines",
+            "order": 1296
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_font_size",
+            "order": 1297
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_start_num",
+            "order": 1298
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_score",
+            "order": 1299
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_mini_score",
+            "order": 1300
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_step_size",
+            "order": 1301
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_padding_vertical",
+            "order": 1302
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_big_width",
+            "order": 1303
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_big_height",
+            "order": 1304
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_mini_width",
+            "order": 1305
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_mini_height",
+            "order": 1306
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_designed_start_aspect_ratio",
+            "order": 1307
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_rating_focus_border_width",
+            "order": 1308
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_shape_mode",
+            "order": 1309
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_normal_width",
+            "order": 1310
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_active_width",
+            "order": 1311
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_min_height",
+            "order": 1312
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_min_dynamic_height",
+            "order": 1313
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_reserved_height",
+            "order": 1314
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scroll_bar_touch_width",
+            "order": 1315
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_scroll_bar_background_color",
+            "order": 1316
         }
     ]
 }
