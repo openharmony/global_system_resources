@@ -1489,6 +1489,22 @@
                 {
                     "name": "multiple_dialog_display",
                     "value": "$string:ohos_id_multiple_dialog_display"
+                },
+                {
+                    "name": "dialog_padding_actions_left",
+                    "value": "$float:ohos_id_dialog_padding_actions_left"
+                },
+                {
+                    "name": "dialog_padding_actions_top",
+                    "value": "$float:ohos_id_dialog_padding_actions_top"
+                },
+                {
+                    "name": "dialog_padding_actions_right",
+                    "value": "$float:ohos_id_dialog_padding_actions_right"
+                },
+                {
+                    "name": "dialog_padding_actions_bottom",
+                    "value": "$float:ohos_id_dialog_padding_actions_bottom"
                 }
             ]
         },

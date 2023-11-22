@@ -6736,6 +6736,26 @@
             "type": "color",
             "name": "ohos_id_scroll_bar_background_color",
             "order": 1316
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_padding_actions_left",
+            "order": 1317
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_padding_actions_top",
+            "order": 1318
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_padding_actions_right",
+            "order": 1319
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_padding_actions_bottom",
+            "order": 1320
         }
     ]
 }
