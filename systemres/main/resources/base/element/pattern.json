@@ -3888,7 +3888,7 @@
             "value": [
                 {
                     "name": "default_text_color",
-                    "value": "$color:ohos_id_color_primary"
+                    "value": "$color:ohos_id_color_text_secondary"
                 },
                 {
                     "name": "selected_text_color",
@@ -3903,8 +3903,20 @@
                     "value": "$float:ohos_id_text_size_headline7"
                 },
                 {
+                    "name": "popup_selected_text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "popup_unselected_text_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
                     "name": "selected_background_color",
                     "value": "$color:ohos_id_color_text_highlight_bg"
+                },
+                {
+                    "name": "selected_background_color_opacity",
+                    "value": "$float:ohos_id_alpha_normal_bg"
                 },
                 {
                     "name": "popup_background_color",
