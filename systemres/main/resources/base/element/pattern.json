@@ -2457,6 +2457,42 @@
                 {
                     "name": "search_icon_color",
                     "value": "$color:ohos_id_color_secondary"
+                },
+                {
+                    "name": "search_default_height",
+                    "value": "$float:ohos_id_search_default_height"
+                },
+                {
+                    "name": "search_icon_size",
+                    "value": "$float:ohos_id_search_icon_size"
+                },
+                {
+                    "name": "search_close_icon_size",
+                    "value": "$float:ohos_id_search_close_icon_size"
+                },
+                {
+                    "name": "search_close_icon_hot_zone_horizontal",
+                    "value": "$float:ohos_id_search_close_icon_hot_zone_horizontal"
+                },
+                {
+                    "name": "search_text_field_padding_left",
+                    "value": "$float:ohos_id_search_text_field_padding_left"
+                },
+                {
+                    "name": "search_text_field_padding_right",
+                    "value": "$float:ohos_id_search_text_field_padding_right"
+                },
+                {
+                    "name": "search_font_weight",
+                    "value": "$float:ohos_id_search_font_weight"
+                },
+                {
+                    "name": "search_text_field_border_radius",
+                    "value": "$float:ohos_id_search_text_field_border_radius"
+                },
+                {
+                    "name": "search_block_right_shade",
+                    "value": "$float:ohos_id_search_block_right_shade"
                 }
             ]
         },
@@ -3018,6 +3054,78 @@
                 {
                     "name": "password_style_height",
                     "value": "$float:ohos_id_password_style_height"
+                },
+                {
+                    "name": "textfield_padding_horizontal",
+                    "value": "$float:ohos_id_textfield_padding_horizontal"
+                },
+                {
+                    "name": "textfield_padding_vertical",
+                    "value": "$float:ohos_id_textfield_padding_vertical"
+                },
+                {
+                    "name": "textfield_height",
+                    "value": "$float:ohos_id_textfield_height"
+                },
+                {
+                    "name": "textfield_font_weight",
+                    "value": "$float:ohos_id_textfield_font_weight"
+                },
+                {
+                    "name": "textfield_border_radius",
+                    "value": "$float:ohos_id_textfield_border_radius"
+                },
+                {
+                    "name": "textfield_disable_opacity_ratio",
+                    "value": "$float:ohos_id_textfield_disable_opacity_ratio"
+                },
+                {
+                    "name": "textfield_over_hide_length",
+                    "value": "$float:ohos_id_textfield_over_hide_length"
+                },
+                {
+                    "name": "textfield_cursor_radius",
+                    "value": "$float:ohos_id_textfield_cursor_radius"
+                },
+                {
+                    "name": "textfield_need_fade",
+                    "value": "$float:ohos_id_textfield_need_fade"
+                },
+                {
+                    "name": "textfield_icon_size",
+                    "value": "$float:ohos_id_textfield_icon_size"
+                },
+                {
+                    "name": "textfield_icon_hot_zone_size",
+                    "value": "$float:ohos_id_textfield_icon_hot_zone_size"
+                },
+                {
+                    "name": "textfield_show_ellipsis",
+                    "value": "$float:ohos_id_textfield_show_ellipsis"
+                },
+                {
+                    "name": "textfield_error_spacing",
+                    "value": "$float:ohos_id_textfield_error_spacing"
+                },
+                {
+                    "name": "textfield_error_is_inner",
+                    "value": "$float:ohos_id_textfield_error_is_inner"
+                },
+                {
+                    "name": "textfield_error_border_width",
+                    "value": "$float:ohos_id_textfield_error_border_width"
+                },
+                {
+                    "name": "textfield_error_font_weight",
+                    "value": "$float:ohos_id_textfield_error_font_weight"
+                },
+                {
+                    "name": "textfield_count_font_weight",
+                    "value": "$float:ohos_id_textfield_count_font_weight"
+                },
+                {
+                    "name": "textfield_over_count_font_weight",
+                    "value": "$float:ohos_id_textfield_over_count_font_weight"
                 }
             ]
         },
@@ -3075,6 +3183,66 @@
                 {
                     "name": "camera_input",
                     "value": "$string:ohos_id_text_camera_input"
+                },
+                {
+                    "name": "text_overlay_menu_border_color",
+                    "value": "$color:ohos_id_text_overlay_menu_border_color"
+                },
+                {
+                    "name": "text_overlay_menu_border_width",
+                    "value": "$float:ohos_id_text_overlay_menu_border_width"
+                },
+                {
+                    "name": "text_overlay_menu_border_style",
+                    "value": "$float:ohos_id_text_overlay_menu_border_style"
+                },
+                {
+                    "name": "text_overlay_menu_padding_left",
+                    "value": "$float:ohos_id_text_overlay_menu_padding_left"
+                },
+                {
+                    "name": "text_overlay_menu_padding_top",
+                    "value": "$float:ohos_id_text_overlay_menu_padding_top"
+                },
+                {
+                    "name": "text_overlay_menu_padding_right",
+                    "value": "$float:ohos_id_text_overlay_menu_padding_right"
+                },
+                {
+                    "name": "text_overlay_menu_padding_bottom",
+                    "value": "$float:ohos_id_text_overlay_menu_padding_bottom"
+                },
+                {
+                    "name": "text_overlay_menu_spacing_with_text",
+                    "value": "$float:ohos_id_text_overlay_menu_spacing_with_text"
+                },
+                {
+                    "name": "text_overlay_menu_button_width",
+                    "value": "$float:ohos_id_text_overlay_menu_button_width"
+                },
+                {
+                    "name": "text_overlay_menu_button_height",
+                    "value": "$float:ohos_id_text_overlay_menu_button_height"
+                },
+                {
+                    "name": "text_overlay_button_text_font_weight",
+                    "value": "$float:ohos_id_text_overlay_button_text_font_weight"
+                },
+                {
+                    "name": "text_overlay_menu_button_padding_left",
+                    "value": "$float:ohos_id_text_overlay_menu_button_padding_left"
+                },
+                {
+                    "name": "text_overlay_menu_button_padding_top",
+                    "value": "$float:ohos_id_text_overlay_menu_button_padding_top"
+                },
+                {
+                    "name": "text_overlay_menu_button_padding_right",
+                    "value": "$float:ohos_id_text_overlay_menu_button_padding_right"
+                },
+                {
+                    "name": "text_overlay_menu_button_padding_bottom",
+                    "value": "$float:ohos_id_text_overlay_menu_button_padding_bottom"
                 }
             ]
         },
