@@ -6756,6 +6756,216 @@
             "type": "float",
             "name": "ohos_id_dialog_padding_actions_bottom",
             "order": 1320
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_padding_horizontal",
+            "order": 1321
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_padding_vertical",
+            "order": 1322
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_height",
+            "order": 1323
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_font_weight",
+            "order": 1324
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_border_radius",
+            "order": 1325
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_disable_opacity_ratio",
+            "order": 1326
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_over_hide_length",
+            "order": 1327
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_cursor_radius",
+            "order": 1328
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_need_fade",
+            "order": 1329
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_icon_size",
+            "order": 1330
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_icon_hot_zone_size",
+            "order": 1331
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_show_ellipsis",
+            "order": 1332
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_error_spacing",
+            "order": 1333
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_error_is_inner",
+            "order": 1334
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_error_border_width",
+            "order": 1335
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_error_font_weight",
+            "order": 1336
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_count_font_weight",
+            "order": 1337
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_textfield_over_count_font_weight",
+            "order": 1338
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_default_height",
+            "order": 1339
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_icon_size",
+            "order": 1340
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_close_icon_size",
+            "order": 1341
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_close_icon_hot_zone_horizontal",
+            "order": 1342
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_text_field_padding_left",
+            "order": 1343
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_text_field_padding_right",
+            "order": 1344
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_font_weight",
+            "order": 1345
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_text_field_border_radius",
+            "order": 1346
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_block_right_shade",
+            "order": 1347
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_text_overlay_menu_border_color",
+            "order": 1348
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_border_width",
+            "order": 1349
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_border_style",
+            "order": 1350
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_padding_left",
+            "order": 1351
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_padding_top",
+            "order": 1352
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_padding_right",
+            "order": 1353
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_padding_bottom",
+            "order": 1354
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_spacing_with_text",
+            "order": 1355
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_button_width",
+            "order": 1356
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_button_height",
+            "order": 1357
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_button_text_font_weight",
+            "order": 1358
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_button_padding_left",
+            "order": 1359
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_button_padding_top",
+            "order": 1360
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_button_padding_right",
+            "order": 1361
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_overlay_menu_button_padding_bottom",
+            "order": 1362
         }
     ]
 }
