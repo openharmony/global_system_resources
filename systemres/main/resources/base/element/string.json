@@ -655,6 +655,30 @@
         {
             "name": "ohos_id_expand_display",
             "value": "false"
+        },
+        {
+            "name": "ohos_lab_read_write_download_directory",
+            "value": "Read Write Download Directory"
+        },
+        {
+            "name": "ohos_desc_read_write_download_directory",
+            "value": "Allows the application to access the Download directory in the public directory"
+        },
+        {
+            "name": "ohos_lab_read_write_documents_directory",
+            "value": "Read Write Documents Directory"
+        },
+        {
+            "name": "ohos_desc_read_write_documents_directory",
+            "value": "Allow the application to access the Documents directory in the public directory"
+        },
+        {
+            "name": "ohos_lab_read_write_desktop_directory",
+            "value": "Read Write Desktop Directory"
+        },
+        {
+            "name": "ohos_desc_read_write_desktop_directory",
+            "value": "Allow the application to access the Desktop directory in the public directory"
         }
     ]
 }
