@@ -1779,6 +1779,434 @@
         {
             "name": "ohos_id_text_overlay_menu_button_padding_bottom",
             "value": "0.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_padding_min",
+            "value": "4.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_padding_mid",
+            "value": "8.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_frame_start",
+            "value": "0.0"
+        },
+        {
+            "name": "ohos_id_dialog_frame_end",
+            "value": "1.0"
+        },
+        {
+            "name": "ohos_id_dialog_scale_start",
+            "value": "0.85"
+        },
+        {
+            "name": "ohos_id_dialog_scale_end",
+            "value": "1.0"
+        },
+        {
+            "name": "ohos_id_dialog_opacity_start",
+            "value": "0.0"
+        },
+        {
+            "name": "ohos_id_dialog_opacity_end",
+            "value": "1.0"
+        },
+        {
+            "name": "ohos_id_dialog_animation_duration_in",
+            "value": "250"
+        },
+        {
+            "name": "ohos_id_dialog_animation_duration_out",
+            "value": "220"
+        },
+        {
+            "name": "ohos_id_dialog_translate",
+            "value": "500.0"
+        },
+        {
+            "name": "ohos_id_dialog_divider_width",
+            "value": "1.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_divider_height",
+            "value": "24.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_divider_padding_horizon",
+            "value": "4.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_divider_padding_vertical",
+            "value": "6.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_padding_left_adjust",
+            "value": "24.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_padding_bottom_adjust",
+            "value": "0.0vp"
+        },
+        {
+            "name": "ohos_id_button_title_padding_vertical",
+            "value": "14.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_title_text_max_lines",
+            "value": "2"
+        },
+        {
+            "name": "ohos_id_dialog_title_text_font_size_min",
+            "value": "15.0fp"
+        },
+        {
+            "name": "ohos_id_select_option_show_count",
+            "value": "INT32_MAX"
+        },
+        {
+            "name": "ohos_id_select_itself_rrect_size",
+            "value": "8.0vp"
+        },
+        {
+            "name": "ohos_id_select_popup_border_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "ohos_id_select_popup_shadow_width",
+            "value": "60.0vp"
+        },
+        {
+            "name": "ohos_id_select_popup_rrect_size",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_select_popup_min_width",
+            "value": "136.0vp"
+        },
+        {
+            "name": "ohos_id_select_is_tv",
+            "value": "0"
+        },
+        {
+            "name": "ohos_id_select_popup_spacing_horizontal",
+            "value": "24.0vp"
+        },
+        {
+            "name": "ohos_id_select_popup_spacing_vertical",
+            "value": "27.0vp"
+        },
+        {
+            "name": "ohos_id_select_popup_spacing_content",
+            "value": "0.0vp"
+        },
+        {
+            "name": "ohos_id_outset_block_size",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_outset_block_hot_region_size",
+            "value": "40.0vp"
+        },
+        {
+            "name": "ohos_id_outset_track_thickness",
+            "value": "4.0vp"
+        },
+        {
+            "name": "ohos_id_inset_track_thickness",
+            "value": "20.0vp"
+        },
+        {
+            "name": "ohos_id_inset_block_size",
+            "value": "12.0vp"
+        },
+        {
+            "name": "ohos_id_inset_block_hot_region_size",
+            "value": "32.0vp"
+        },
+        {
+            "name": "ohos_id_marker_size",
+            "value": "4.0vp"
+        },
+        {
+            "name": "ohos_id_tip_font_size",
+            "value": "14.0fp"
+        },
+        {
+            "name": "ohos_id_tip_text_padding_size",
+            "value": "8.0vp"
+        },
+        {
+            "name": "ohos_id_label_padding",
+            "value": "8.0vp"
+        },
+        {
+            "name": "ohos_id_tab_padding",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_tab_gradient_width",
+            "value": "24.0vp"
+        },
+        {
+            "name": "ohos_id_tab_default_height",
+            "value": "56.0vp"
+        },
+        {
+            "name": "ohos_id_tab_default_width",
+            "value": "200.0px"
+        },
+        {
+            "name": "ohos_id_active_indicator_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "ohos_id_active_indicator_min_width",
+            "value": "32.0vp"
+        },
+        {
+            "name": "ohos_id_active_indicator_padding",
+            "value": "3.0vp"
+        },
+        {
+            "name": "ohos_id_focus_indicator_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "ohos_id_default_loading_distance",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_default_refreshing_distance",
+            "value": "64.0vp"
+        },
+        {
+            "name": "ohos_id_default_max_distance",
+            "value": "128.0vp"
+        },
+        {
+            "name": "ohos_id_default_progress_diameter",
+            "value": "32.0vp"
+        },
+        {
+            "name": "ohos_id_default_showtime_distance",
+            "value": "96.0vp"
+        },
+        {
+            "name": "ohos_id_gradient_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "ohos_id_scroll_distance",
+            "value": "50.0f"
+        },
+        {
+            "name": "ohos_id_chain_min_space",
+            "value": "15.0vp"
+        },
+        {
+            "name": "ohos_id_chain_max_space",
+            "value": "40.0vp"
+        },
+        {
+            "name": "ohos_id_chain_conductivity",
+            "value": "0.7f"
+        },
+        {
+            "name": "ohos_id_chain_intensity",
+            "value": "0.3f"
+        },
+        {
+            "name": "ohos_id_chain_stiffness",
+            "value": "228.0f"
+        },
+        {
+            "name": "ohos_id_chain_damping",
+            "value": "30.0f"
+        },
+        {
+            "name": "ohos_id_click_alpha_begin",
+            "value": "0.0f"
+        },
+        {
+            "name": "ohos_id_click_alpha_end",
+            "value": "0.05f"
+        },
+        {
+            "name": "ohos_id_click_scale",
+            "value": "0.95f"
+        },
+        {
+            "name": "ohos_id_focus_scale",
+            "value": "1.12f"
+        },
+        {
+            "name": "ohos_id_focus_scale_large",
+            "value": "0.94f"
+        },
+        {
+            "name": "ohos_id_focus_scale_middle",
+            "value": "0.8f"
+        },
+        {
+            "name": "ohos_id_focus_scale_little",
+            "value": "0.6f"
+        },
+        {
+            "name": "ohos_id_focus_opacity_large",
+            "value": "1.0f"
+        },
+        {
+            "name": "ohos_id_focus_opacity_middle",
+            "value": "0.66f"
+        },
+        {
+            "name": "ohos_id_focus_opacity_little",
+            "value": "0.38f"
+        },
+        {
+            "name": "ohos_id_focus_animation_duration",
+            "value": "100.0f"
+        },
+        {
+            "name": "ohos_id_click_animation_duration",
+            "value": "200.0f"
+        },
+        {
+            "name": "ohos_id_item_size",
+            "value": "76.0vp"
+        },
+        {
+            "name": "ohos_id_padding_in_percent",
+            "value": "0.0f"
+        },
+        {
+            "name": "ohos_id_group_image_size",
+            "value": "24.0vp"
+        },
+        {
+            "name": "ohos_id_calendar_focused_area_radius",
+            "value": "24.0vp"
+        },
+        {
+            "name": "ohos_id_work_state_horizontal_moving_distance",
+            "value": "2.0vp"
+        },
+        {
+            "name": "ohos_id_work_state_vertical_moving_distance",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_work_state_center_adjustment",
+            "value": "0.0vp"
+        },
+        {
+            "name": "ohos_id_day_yaxis_offset",
+            "value": "4.0vp"
+        },
+        {
+            "name": "ohos_id_lunar_day_yaxis_offset",
+            "value": "23.0vp"
+        },
+        {
+            "name": "ohos_id_underscore_xaxis_offset",
+            "value": "12.0vp"
+        },
+        {
+            "name": "ohos_id_underscore_yaxis_offset",
+            "value": "36.0vp"
+        },
+        {
+            "name": "ohos_id_schedule_marker_xaxis_offset",
+            "value": "22.0vp"
+        },
+        {
+            "name": "ohos_id_schedule_marker_yaxis_offset",
+            "value": "40.0vp"
+        },
+        {
+            "name": "ohos_id_touch_circle_stroke_width",
+            "value": "1.0vp"
+        },
+        {
+            "name": "ohos_id_lunar_height",
+            "value": "14.0vp"
+        },
+        {
+            "name": "ohos_id_underscore_width",
+            "value": "1.0vp"
+        },
+        {
+            "name": "ohos_id_underscore_length",
+            "value": "20.0vp"
+        },
+        {
+            "name": "ohos_id_schedule_marker_radius",
+            "value": "2.0vp"
+        },
+        {
+            "name": "ohos_id_arrow_height_width",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_card_calendar_button_height_width",
+            "value": "32.0vp"
+        },
+        {
+            "name": "ohos_id_card_calendar_title_font_size",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_card_calendar_top_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "ohos_id_card_calendar_week_height",
+            "value": "14.0vp"
+        },
+        {
+            "name": "ohos_id_card_calendar_week_day_height_width",
+            "value": "44.0vp"
+        },
+        {
+            "name": "ohos_id_card_calendar_focus_area_radius",
+            "value": "22.0vp"
+        },
+        {
+            "name": "ohos_id_card_calendar_week_font_size",
+            "value": "10.0fp"
+        },
+        {
+            "name": "ohos_id_card_calendar_day_font_size",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_card_calendar_gregorian_height",
+            "value": "24.0vp"
+        },
+        {
+            "name": "ohos_id_card_calendar_lunar_font_size",
+            "value": "10.0vp"
+        },
+        {
+            "name": "ohos_id_card_calendar_week_day_row_space",
+            "value": "4.0vp"
+        },
+        {
+            "name": "ohos_id_card_calendar_daily_five_row_space",
+            "value": "10.0vp"
+        },
+        {
+            "name": "ohos_id_boundary_col_offset",
+            "value": "50.0vp"
+        },
+        {
+            "name": "ohos_id_card_border_radius",
+            "value": "16.0vp"
+        },
+        {
+            "name": "ohos_id_card_blur_radius",
+            "value": "10.0px"
         }
     ]
 }
