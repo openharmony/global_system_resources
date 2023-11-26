@@ -2493,6 +2493,18 @@
                 {
                     "name": "popup_text_font_size",
                     "value": "$float:ohos_id_popup_text_font_size"
+                },
+                {
+                    "name": "popup_double_border_enable",
+                    "value": "$string:ohos_id_popup_double_border_enable_default"
+                },
+                {
+                    "name": "popup_outer_border_color",
+                    "value": "$color:ohos_id_popup_outer_border_color"
+                },
+                {
+                    "name": "popup_inner_border_color",
+                    "value": "$color:ohos_id_popup_inner_border_color"
                 }
             ]
         },

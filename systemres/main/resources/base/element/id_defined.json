@@ -7647,6 +7647,20 @@
             "type": "color",
             "name": "ohos_id_background_secondary",
             "order": 1498
+        },
+        {   "type": "string",
+            "name": "ohos_id_popup_double_border_enable_default",
+            "order": 1499
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_popup_outer_border_color",
+            "order": 1500
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_popup_inner_border_color",
+            "order": 1501
         }
     ]
 }
