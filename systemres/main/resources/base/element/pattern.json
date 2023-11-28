@@ -306,8 +306,8 @@
             "name": "ohos_clock_pattern",
             "value": [
                 {
-                    "name": "",
-                    "value": ""
+                    "name": "clock_default_size",
+                    "value": "$float:ohos_id_clock_default_size"
                 }
             ]
         },
@@ -350,6 +350,18 @@
                 {
                     "name": "border_width",
                     "value": "$float:ohos_id_badge_border_width"
+                },
+                {
+                    "name": "badge_message_count",
+                    "value": "$float:ohos_id_badge_message_count"
+                },
+                {
+                    "name": "badge_position",
+                    "value": "$float:ohos_id_badge_position"
+                },
+                {
+                    "name": "badge_show_message",
+                    "value": "$float:ohos_id_badge_show_message"
                 }
             ]
         },
@@ -1637,6 +1649,26 @@
                 {
                     "name": "track_shadow_radiu",
                     "value": "5.0vp"
+                },
+                {
+                    "name": "datapanel_thickness",
+                    "value": "$float:ohos_id_datapanel_thickness"
+                },
+                {
+                    "name": "datapanel_height",
+                    "value": "$float:ohos_id_datapanel_height"
+                },
+                {
+                    "name": "datapanel_width",
+                    "value": "$float:ohos_id_datapanel_width"
+                },
+                {
+                    "name": "datapanel_trackshadow_offsetx",
+                    "value": "$float:ohos_id_datapanel_trackshadow_offsetx"
+                },
+                {
+                    "name": "datapanel_trackshadow_offsety",
+                    "value": "$float:ohos_id_datapanel_trackshadow_offsety"
                 }
             ]
         },
@@ -1857,7 +1889,7 @@
                 },
                 {
                     "name": "dialog_dimension_end",
-                    "value": "$float:ohos_id_dialog_margin_start"
+                    "value": "$float:ohos_id_dialog_margin_end"
                 },
                 {
                     "name": "dialog_padding_actions_left",
@@ -2436,6 +2468,34 @@
                 {
                     "name": "bg_color_alpha",
                     "value": "$float:ohos_id_alpha_inapptip_bg"
+                },
+                {
+                    "name": "piece_height",
+                    "value": "$float:ohos_id_piece_height"
+                },
+                {
+                    "name": "piece_text_lines",
+                    "value": "$float:ohos_id_piece_text_lines"
+                },
+                {
+                    "name": "piece_font_weight",
+                    "value": "$float:ohos_id_piece_font_weight"
+                },
+                {
+                    "name": "piece_padding_horizontal",
+                    "value": "$float:ohos_id_piece_padding_horizontal"
+                },
+                {
+                    "name": "piece_padding_vertical",
+                    "value": "$float:ohos_id_piece_padding_vertical"
+                },
+                {
+                    "name": "piece_icon_size",
+                    "value": "$float:ohos_id_piece_icon_size"
+                },
+                {
+                    "name": "piece_interval",
+                    "value": "$float:ohos_id_piece_interval"
                 }
             ]
         },
@@ -3854,6 +3914,30 @@
                 {
                     "name": "text_color",
                     "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "toggle_text_font_size",
+                    "value": "$float:ohos_id_toggle_text_font_size"
+                },
+                {
+                    "name": "toggle_text_font_weight",
+                    "value": "$float:ohos_id_toggle_text_font_weight"
+                },
+                {
+                    "name": "toggle_height",
+                    "value": "$float:ohos_id_toggle_height"
+                },
+                {
+                    "name": "toggle_padding_horizontal",
+                    "value": "$float:ohos_id_toggle_padding_horizontal"
+                },
+                {
+                    "name": "toggle_padding_vertical",
+                    "value": "$float:ohos_id_toggle_padding_vertical"
+                },
+                {
+                    "name": "toggle_disable_alpha",
+                    "value": "$float:ohos_id_toggle_disable_alpha"
                 }
             ]
         },

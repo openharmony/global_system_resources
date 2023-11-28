@@ -7663,34 +7663,144 @@
             "order": 1501
         },
         {
+            "type": "float",
+            "name": "ohos_id_toggle_text_font_size",
+            "order": 1502
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toggle_text_font_weight",
+            "order": 1503
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toggle_height",
+            "order": 1504
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toggle_padding_horizontal",
+            "order": 1505
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toggle_padding_vertical",
+            "order": 1506
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toggle_disable_alpha",
+            "order": 1507
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_clock_default_size",
+            "order": 1508
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_datapanel_thickness",
+            "order": 1509
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_datapanel_height",
+            "order": 1510
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_datapanel_width",
+            "order": 1511
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_datapanel_trackshadow_offsetx",
+            "order": 1512
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_datapanel_trackshadow_offsety",
+            "order": 1513
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_badge_message_count",
+            "order": 1514
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_badge_position",
+            "order": 1515
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_badge_show_message",
+            "order": 1516
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_piece_height",
+            "order": 1517
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_piece_text_lines",
+            "order": 1518
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_piece_font_weight",
+            "order": 1519
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_piece_padding_horizontal",
+            "order": 1520
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_piece_padding_vertical",
+            "order": 1521
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_piece_icon_size",
+            "order": 1522
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_piece_interval",
+            "order": 1523
+        },
+        {
             "type": "symbol",
             "name": "ohos_wifi",
-            "order": 1502
+            "order": 1524
         },
         {
             "type": "symbol",
             "name": "ohos_trash",
-            "order": 1503
+            "order": 1525
         },
         {
             "type": "symbol",
             "name": "ohos_trash_circle",
-            "order": 1504
+            "order": 1526
         },
         {
             "type": "symbol",
             "name": "ohos_photo",
-            "order": 1505
+            "order": 1527
         },
         {
             "type": "symbol",
             "name": "ohos_folder_badge_plus",
-            "order": 1506
+            "order": 1528
         },
         {
             "type": "symbol",
             "name": "ohos_lungs",
-            "order": 1507
+            "order": 1529
         }
     ]
 }
