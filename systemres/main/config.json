@@ -2799,6 +2799,84 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_HIVIEWCARE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CONNECT_UI_EXTENSION_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.READ_WRITE_DOWNLOAD_DIRECTORY",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_read_write_download_directory",
+                "description": "$string:ohos_desc_read_write_download_directory"
+            },
+            {
+                "name": "ohos.permission.READ_WRITE_DOCUMENTS_DIRECTORY",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_read_write_documents_directory",
+                "description": "$string:ohos_desc_read_write_documents_directory"
+            },
+            {
+                "name": "ohos.permission.READ_WRITE_DESKTOP_DIRECTORY",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_read_write_desktop_directory",
+                "description": "$string:ohos_desc_read_write_desktop_directory"
+            },
+            {
+                "name": "ohos.permission.FILE_ACCESS_PERSIST",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_ACCOUNT_KIT_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.REQUEST_ANONYMOUS_ATTEST",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.START_ABILITY_WITH_ANIMATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
