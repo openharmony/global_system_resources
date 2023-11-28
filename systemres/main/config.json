@@ -2875,6 +2875,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.START_ABILITY_WITH_ANIMATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
