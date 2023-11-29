@@ -85,6 +85,15 @@
                 "description": "$string:ohos_desc_access_bluetooth"
             },
             {
+                "name": "ohos.permission.GET_BLUETOOTH_LOCAL_MAC",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.INTERNET",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
