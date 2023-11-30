@@ -2859,6 +2859,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SET_SANDBOX_POLICY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_ACCOUNT_KIT_SERVICE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -2887,6 +2896,15 @@
             },
             {
                 "name": "ohos.permission.START_ABILITY_WITH_ANIMATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.START_RECENT_ABILITY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 11,

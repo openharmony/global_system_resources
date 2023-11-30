@@ -7811,6 +7811,141 @@
             "type": "media",
             "name": "ohos_ic_public_scan",
             "order": 1531
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_calendar_lunar_font_size",
+            "order": 1532
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_qrcode_type",
+            "order": 1533
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_qrcode_size",
+            "order": 1534
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_stepper_text_fontweight",
+            "order": 1535
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_stepper_text_fontsize_min",
+            "order": 1536
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_stepper_text_max_lines",
+            "order": 1537
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_stepper_progress_diameter",
+            "order": 1538
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_stepper_arrow_width_diameter",
+            "order": 1539
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_stepper_arrow_height_diameter",
+            "order": 1540
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_stepper_button_pressed_height",
+            "order": 1541
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_stepper_control_height",
+            "order": 1542
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_stepper_control_padding",
+            "order": 1543
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_text_fontsize",
+            "order": 1544
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_text_min_fontsize",
+            "order": 1545
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_item_icon_size",
+            "order": 1546
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_item_padding_icon_left",
+            "order": 1547
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_item_padding_icon_top",
+            "order": 1548
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_item_padding_icon_right",
+            "order": 1549
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_item_padding_icon_bottom",
+            "order": 1550
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_item_padding_text_left",
+            "order": 1551
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_item_padding_text_top",
+            "order": 1552
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_item_padding_text_right",
+            "order": 1553
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_item_padding_text_bottom",
+            "order": 1554
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toolbar_item_radius",
+            "order": 1555
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_toolbar_item_focus_color",
+            "order": 1556
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_toolbar_item_hover_color",
+            "order": 1557
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_toolbar_control_normal",
+            "order": 1558
         }
     ]
 }
