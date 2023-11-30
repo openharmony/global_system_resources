@@ -725,6 +725,10 @@
                     "value": "$float:ohos_id_text_size_sub_title1"
                 },
                 {
+                    "name": "calendar_lunar_font_size",
+                    "value": "$float:ohos_id_calendar_lunar_font_size"
+                },
+                {
                     "name": "calendar_work_day_mark_font_size",
                     "value": "$float:ohos_id_text_size_caption1"
                 },
@@ -1221,6 +1225,14 @@
                 {
                     "name": "qrcode_focused_color",
                     "value": "$color:ohos_id_color_focused_outline"
+                },
+                {
+                    "name": "qrcode_type",
+                    "value": "$float:ohos_id_qrcode_type"
+                },
+                {
+                    "name": "qrcode_size",
+                    "value": "$float:ohos_id_qrcode_size"
                 }
             ]
         },
@@ -3071,6 +3083,42 @@
                 {
                     "name":"stepper_focus_color",
                     "value":"$color:ohos_id_color_focused_outline"
+                },
+                {
+                    "name": "stepper_text_fontweight",
+                    "value": "$float:ohos_id_stepper_text_fontweight"
+                },
+                {
+                    "name": "text_fontsize_min",
+                    "value": "$float:ohos_id_stepper_text_fontsize_min"
+                },
+                {
+                    "name": "text_max_lines",
+                    "value": "$float:ohos_id_stepper_text_max_lines"
+                },
+                {
+                    "name": "progress_diameter",
+                    "value": "$float:ohos_id_stepper_progress_diameter"
+                },
+                {
+                    "name": "arrow_width_diameter",
+                    "value": "$float:ohos_id_stepper_arrow_width_diameter"
+                },
+                {
+                    "name": "arrow_height_diameter",
+                    "value": "$float:ohos_id_stepper_arrow_height_diameter"
+                },
+                {
+                    "name": "button_pressed_height",
+                    "value": "$float:ohos_id_stepper_button_pressed_height"
+                },
+                {
+                    "name": "control_height",
+                    "value": "$float:ohos_id_stepper_control_height"
+                },
+                {
+                    "name": "control_padding",
+                    "value": "$float:ohos_id_stepper_control_padding"
                 }
             ]
         },
@@ -3967,6 +4015,74 @@
                 {
                     "name": "icon_color",
                     "value": "$color:ohos_id_color_toolbar_icon"
+                },
+                {
+                    "name": "text_fontsize",
+                    "value": "$float:ohos_id_toolbar_text_fontsize"
+                },
+                {
+                    "name": "text_font_family_medium",
+                    "value": "$string:ohos_id_text_font_family_medium"
+                },
+                {
+                    "name": "text_min_fontsize",
+                    "value": "$float:ohos_id_toolbar_text_min_fontsize"
+                },
+                {
+                    "name": "item_icon_width",
+                    "value": "$float:ohos_id_toolbar_item_icon_size"
+                },
+                {
+                    "name": "item_icon_height",
+                    "value": "$float:ohos_id_toolbar_item_icon_size"
+                },
+                {
+                    "name": "item_padding_icon_left",
+                    "value": "$float:ohos_id_toolbar_item_padding_icon_left"
+                },
+                {
+                    "name": "item_padding_icon_top",
+                    "value": "$float:ohos_id_toolbar_item_padding_icon_top"
+                },
+                {
+                    "name": "item_padding_icon_right",
+                    "value": "$float:ohos_id_toolbar_item_padding_icon_right"
+                },
+                {
+                    "name": "item_padding_icon_bottom",
+                    "value": "$float:ohos_id_toolbar_item_padding_icon_bottom"
+                },
+                {
+                    "name": "item_padding_text_left",
+                    "value": "$float:ohos_id_toolbar_item_padding_text_left"
+                },
+                {
+                    "name": "item_padding_text_top",
+                    "value": "$float:ohos_id_toolbar_item_padding_text_top"
+                },
+                {
+                    "name": "item_padding_text_right",
+                    "value": "$float:ohos_id_toolbar_item_padding_text_right"
+                },
+                {
+                    "name": "item_padding_text_bottom",
+                    "value": "$float:ohos_id_toolbar_item_padding_text_bottom"
+                },
+                {
+                    "name": "item_focus_color",
+                    "value": "$color:ohos_id_toolbar_item_focus_color"
+                },
+                {
+                    "name": "item_hover_color",
+                    "value": "$color:ohos_id_toolbar_item_hover_color"
+                },
+                {
+                    "name": "control_normal",
+                    "value": "$color:ohos_id_toolbar_control_normal"
+                },
+                {
+                    "name": "item_radius",
+                    "value": "$float:ohos_id_toolbar_item_radius"
                 }
             ]
         },
