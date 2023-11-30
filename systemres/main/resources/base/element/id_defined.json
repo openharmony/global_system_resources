@@ -7946,6 +7946,66 @@
             "type": "color",
             "name": "ohos_id_toolbar_control_normal",
             "order": 1558
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_menu_bg_blur_effect_enable_default",
+            "order": 1559
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_menu_blur_effect_saturation",
+            "order": 1560
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_menu_blur_effect_brightness",
+            "order": 1561
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_menu_blur_effect_radius",
+            "order": 1562
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_menu_blur_effect_color",
+            "order": 1563
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_menu_double_border_enable_default",
+            "order": 1564
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_menu_outer_border_width",
+            "order": 1565
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_menu_outer_border_radius",
+            "order": 1566
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_menu_outer_border_color",
+            "order": 1567
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_menu_inner_border_width",
+            "order": 1568
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_menu_inner_border_radius",
+            "order": 1569
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_menu_inner_border_color",
+            "order": 1570
         }
     ]
 }
