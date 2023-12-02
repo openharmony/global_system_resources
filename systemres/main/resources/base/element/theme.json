@@ -222,6 +222,14 @@
 	    	{
                     "name": "sheet_pattern",
                     "value": "$pattern:ohos_sheet_pattern"
+                },
+                {
+                    "name": "blur_style_common",
+                    "value": "$pattern:ohos_blur_style_common"
+                },
+                {
+                    "name": "ohos_shadow_pattern",
+                    "value": "$pattern:ohos_shadow_pattern"
                 }
             ]
         }

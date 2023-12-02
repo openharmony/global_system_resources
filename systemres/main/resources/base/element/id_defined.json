@@ -5353,7 +5353,7 @@
             "type": "string",
             "name": "ohos_drawable_descriptor_path",
             "order": 1046,
-            "flags":"private"
+            "flags": "private"
         },
         {
             "type": "media",
@@ -8006,6 +8006,736 @@
             "type": "color",
             "name": "ohos_id_menu_inner_border_color",
             "order": 1570
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_blur_style_common",
+            "order": 1571
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thin_radius",
+            "order": 1572
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thin_saturation",
+            "order": 1573
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thin_brightness",
+            "order": 1574
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_thin_color",
+            "order": 1575
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thin_radius_dark",
+            "order": 1576
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thin_saturation_dark",
+            "order": 1577
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thin_brightness_dark",
+            "order": 1578
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_thin_color_dark",
+            "order": 1579
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_regular_radius",
+            "order": 1580
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_regular_saturation",
+            "order": 1581
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_regular_brightness",
+            "order": 1582
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_regular_color",
+            "order": 1583
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_regular_radius_dark",
+            "order": 1584
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_regular_saturation_dark",
+            "order": 1585
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_regular_brightness_dark",
+            "order": 1586
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_regular_color_dark",
+            "order": 1587
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thick_radius",
+            "order": 1588
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thick_saturation",
+            "order": 1589
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thick_brightness",
+            "order": 1590
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_thick_color",
+            "order": 1591
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thick_radius_dark",
+            "order": 1592
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thick_saturation_dark",
+            "order": 1593
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_thick_brightness_dark",
+            "order": 1594
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_thick_color_dark",
+            "order": 1595
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thin_radius",
+            "order": 1596
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thin_saturation",
+            "order": 1597
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thin_brightness",
+            "order": 1598
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_background_thin_color",
+            "order": 1599
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thin_radius_dark",
+            "order": 1600
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thin_saturation_dark",
+            "order": 1601
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thin_brightness_dark",
+            "order": 1602
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_background_thin_color_dark",
+            "order": 1603
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_regular_radius",
+            "order": 1604
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_regular_saturation",
+            "order": 1605
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_regular_brightness",
+            "order": 1606
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_background_regular_color",
+            "order": 1607
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_regular_radius_dark",
+            "order": 1608
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_regular_saturation_dark",
+            "order": 1609
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_regular_brightness_dark",
+            "order": 1610
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_background_regular_color_dark",
+            "order": 1611
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thick_radius",
+            "order": 1612
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thick_saturation",
+            "order": 1613
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thick_brightness",
+            "order": 1614
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_background_thick_color",
+            "order": 1615
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thick_radius_dark",
+            "order": 1616
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thick_saturation_dark",
+            "order": 1617
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_thick_brightness_dark",
+            "order": 1618
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_background_thick_color_dark",
+            "order": 1619
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_ultra_thick_radius",
+            "order": 1620
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_ultra_thick_saturation",
+            "order": 1621
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_ultra_thick_brightness",
+            "order": 1622
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_background_ultra_thick_color",
+            "order": 1623
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_ultra_thick_radius_dark",
+            "order": 1624
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_ultra_thick_saturation_dark",
+            "order": 1625
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_background_ultra_thick_brightness_dark",
+            "order": 1626
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_background_ultra_thick_color_dark",
+            "order": 1627
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thin_radius",
+            "order": 1628
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thin_saturation",
+            "order": 1629
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thin_brightness",
+            "order": 1630
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_ultra_thin_color",
+            "order": 1631
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thin_radius_dark",
+            "order": 1632
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thin_saturation_dark",
+            "order": 1633
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thin_brightness_dark",
+            "order": 1634
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_ultra_thin_color_dark",
+            "order": 1635
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thin_radius",
+            "order": 1636
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thin_saturation",
+            "order": 1637
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thin_brightness",
+            "order": 1638
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_thin_color",
+            "order": 1639
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thin_radius_dark",
+            "order": 1640
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thin_saturation_dark",
+            "order": 1641
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thin_brightness_dark",
+            "order": 1642
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_thin_color_dark",
+            "order": 1643
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_regular_radius",
+            "order": 1644
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_regular_saturation",
+            "order": 1645
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_regular_brightness",
+            "order": 1646
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_regular_color",
+            "order": 1647
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_regular_radius_dark",
+            "order": 1648
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_regular_saturation_dark",
+            "order": 1649
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_regular_brightness_dark",
+            "order": 1650
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_regular_color_dark",
+            "order": 1651
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thick_radius",
+            "order": 1652
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thick_saturation",
+            "order": 1653
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thick_brightness",
+            "order": 1654
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_thick_color",
+            "order": 1655
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thick_radius_dark",
+            "order": 1656
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thick_saturation_dark",
+            "order": 1657
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_thick_brightness_dark",
+            "order": 1658
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_thick_color_dark",
+            "order": 1659
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_radius",
+            "order": 1660
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_saturation",
+            "order": 1661
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_brightness",
+            "order": 1662
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_ultra_thick_color",
+            "order": 1663
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_radius_dark",
+            "order": 1664
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_saturation_dark",
+            "order": 1665
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_brightness_dark",
+            "order": 1666
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_ultra_thick_color_dark",
+            "order": 1667
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_shadow_pattern",
+            "order": 1668
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_default_xs",
+            "order": 1669
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_default_sm",
+            "order": 1670
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_default_md",
+            "order": 1671
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_default_lg",
+            "order": 1672
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_floating_sm",
+            "order": 1673
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_floating_md",
+            "order": 1674
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_default_xs_dark",
+            "order": 1675
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_default_sm_dark",
+            "order": 1676
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_default_md_dark",
+            "order": 1677
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_default_lg_dark",
+            "order": 1678
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_floating_sm_dark",
+            "order": 1679
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_floating_md_dark",
+            "order": 1680
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_xs_shadow",
+            "order": 1681
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_xs_offset_x",
+            "order": 1682
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_xs_offset_y",
+            "order": 1683
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_sm_shadow",
+            "order": 1684
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_sm_offset_x",
+            "order": 1685
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_sm_offset_y",
+            "order": 1686
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_md_shadow",
+            "order": 1687
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_md_offset_x",
+            "order": 1688
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_md_offset_y",
+            "order": 1689
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_lg_shadow",
+            "order": 1690
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_lg_offset_x",
+            "order": 1691
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_lg_offset_y",
+            "order": 1692
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_sm_shadow",
+            "order": 1693
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_sm_offset_x",
+            "order": 1694
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_sm_offset_y",
+            "order": 1695
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_md_shadow",
+            "order": 1696
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_md_offset_x",
+            "order": 1697
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_md_offset_y",
+            "order": 1698
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_xs_shadow_dark",
+            "order": 1699
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_xs_offset_x_dark",
+            "order": 1700
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_xs_offset_y_dark",
+            "order": 1701
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_sm_shadow_dark",
+            "order": 1702
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_sm_offset_x_dark",
+            "order": 1703
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_sm_offset_y_dark",
+            "order": 1704
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_md_shadow_dark",
+            "order": 1705
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_md_offset_x_dark",
+            "order": 1706
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_md_offset_y_dark",
+            "order": 1707
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_lg_shadow_dark",
+            "order": 1708
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_lg_offset_x_dark",
+            "order": 1709
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_lg_offset_y_dark",
+            "order": 1710
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_sm_shadow_dark",
+            "order": 1711
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_sm_offset_x_dark",
+            "order": 1712
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_sm_offset_y_dark",
+            "order": 1713
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_md_shadow_dark",
+            "order": 1714
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_md_offset_x_dark",
+            "order": 1715
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_floating_md_offset_y_dark",
+            "order": 1716
         }
     ]
 }
