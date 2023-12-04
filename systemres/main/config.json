@@ -2666,6 +2666,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.INTERCEPT_INPUT_EVENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_SECURITY_PRIVACY_CENTER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
