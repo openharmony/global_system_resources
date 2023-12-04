@@ -8736,6 +8736,12 @@
             "type": "float",
             "name": "ohos_id_shadow_floating_md_offset_y_dark",
             "order": 1716
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_point_light_illuminated_border_width",
+            "order": 1717,
+            "flags": "private"
         }
     ]
 }
