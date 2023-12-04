@@ -1,10 +1,194 @@
 {
   "name": "HM Symbol Layers Grouping",
   "version": "1.0",
+  "common_animations": [
+    {
+      "animation_type": "scale",
+      "animation_parameters": [
+        {
+          "animation_mode": 1,
+          "sub_type": "unit",
+          "group_parameters": [
+            [
+              {
+                "curve": "spring",
+                "curve_args": {
+                  "velocity": 1,
+                  "mass": 0,
+                  "stiffness": 228,
+                  "damping": 22
+                },
+                "duration": 0,
+                "delay": 0,
+                "properties": {
+                  "sx": [1,1.15],
+                  "sy": [1,1.15]
+                }
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "special_animations": [
+    {
+      "animation_type": "variable_color",
+      "animation_parameters": [
+        {
+          "animation_mode": 1,
+          "sub_type": "variable_3_group",
+          "group_parameters": [
+            [ // group_1
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 100,
+                "delay": 0,
+                "properties": {
+                  "alpha": [0.4,0.6]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 150,
+                "delay": 100,
+                "properties": {
+                  "alpha": [0.6,1]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 200,
+                "delay": 250,
+                "properties": {
+                  "alpha": [1,0.6]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 250,
+                "delay": 450,
+                "properties": {
+                  "alpha": [0.6,0.4]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 600,
+                "delay": 700,
+                "properties": {
+                  "alpha": [0.4,0.4]
+                }
+              }
+            ],
+            [ // group_2
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 150,
+                "delay": 100,
+                "properties": {
+                  "alpha": [0.4,0.6]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 200,
+                "delay": 250,
+                "properties": {
+                  "alpha": [0.6,1]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 250,
+                "delay": 450,
+                "properties": {
+                  "alpha": [1,0.6]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 200,
+                "delay": 700,
+                "properties": {
+                  "alpha": [0.6,0.4]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 400,
+                "delay": 900,
+                "properties": {
+                  "alpha": [0.4,0.4]
+                }
+              }
+            ],
+            [ // group_3
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 200,
+                "delay": 250,
+                "properties": {
+                  "alpha": [0.4,0.6]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 250,
+                "delay": 450,
+                "properties": {
+                  "alpha": [0.6,1]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 200,
+                "delay": 700,
+                "properties": {
+                  "alpha": [1,0.6]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 150,
+                "delay": 900,
+                "properties": {
+                  "alpha": [0.6,0.4]
+                }
+              },
+              {
+                "curve": "linear",
+                "curve_args": {},
+                "duration": 250,
+                "delay": 1050,
+                "properties": {
+                  "alpha": [0.4,0.4]
+                }
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ],
   "symbol_layers_grouping": [
     {
-      "native_glyph_id": "0",
-      "symbol_glyph_id": "0",
+      "native_glyph_id": 3,
+      "symbol_glyph_id": 3,
       "layers": [
         {
           "components": [0]
@@ -59,11 +243,44 @@
             "threshold": 0.75
           }
         ]
-      }
+      },
+      "animation_settings": [
+        {
+          "animation_type": "variable_color",
+          "animation_mode": 1,
+          "sub_type": "variable_3_group",
+          "group_settings": [
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [0]
+                }
+              ],
+              "animation_index": 0
+            },
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [1]
+                }
+              ],
+              "animation_index": 1
+            },
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [2]
+                }
+              ],
+              "animation_index": 2
+            }
+          ]
+        }
+      ]
     },
     {
-      "native_glyph_id": "5",
-      "symbol_glyph_id": "4",
+      "native_glyph_id": 2,
+      "symbol_glyph_id": 7,
       "layers": [
         {
           "components": [0,1,2]
@@ -86,11 +303,11 @@
               "group_indexes": [
                 {
                   "layer_indexes": [0],
-                  "mask_indexs": [1]
+                  "mask_indexes": [1]
                 },
                 {
                   "layer_indexes": [2],
-                  "mask_indexs": [3]
+                  "mask_indexes": [3]
                 }
               ]
             }
@@ -103,7 +320,7 @@
               "group_indexes": [
                 {
                   "layer_indexes": [0],
-                  "mask_indexs": [1]
+                  "mask_indexes": [1]
                 }
               ],
               "default_color": "#000000"
@@ -112,7 +329,7 @@
               "group_indexes": [
                 {
                   "layer_indexes": [2],
-                  "mask_indexs": [3]
+                  "mask_indexes": [3]
                 }
               ],
               "default_color": "#64BB5C"
@@ -126,7 +343,7 @@
               "group_indexes": [
                 {
                   "layer_indexes": [0],
-                  "mask_indexs": [1]
+                  "mask_indexes": [1]
                 }
               ],
               "fix_alpha": 0.5
@@ -135,7 +352,7 @@
               "group_indexes": [
                 {
                   "layer_indexes": [2],
-                  "mask_indexs": [3]
+                  "mask_indexes": [3]
                 }
               ],
               "fix_alpha": 1
@@ -145,8 +362,8 @@
       ]
     },
     {
-      "native_glyph_id": "1",
-      "symbol_glyph_id": "1",
+      "native_glyph_id": 4,
+      "symbol_glyph_id": 4,
       "layers": [
         {
           "components": [0,1,2,3,4,5]
@@ -168,20 +385,14 @@
       ]
     },
     {
-      "native_glyph_id": "2",
-      "symbol_glyph_id": "2",
+      "native_glyph_id": 5,
+      "symbol_glyph_id": 5,
       "layers": [
         {
-          "components": [0]
+          "components": [0,1]
         },
         {
-          "components": [1]
-        },
-        {
-          "components": [2]
-        },
-        {
-          "components": [3,4,5,6]
+          "components": [2,3,4,5,6]
         }
       ],
       "render_modes": [
@@ -191,12 +402,7 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [0],
-                  "mask_indexs": [1]
-                },
-                {
-                  "layer_indexes": [2],
-                  "mask_indexs": [3]
+                  "layer_indexes": [0,1]
                 }
               ]
             }
@@ -208,8 +414,7 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [0],
-                  "mask_indexs": [1]
+                  "layer_indexes": [0]
                 }
               ],
               "default_color": "#000000"
@@ -217,8 +422,7 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [2],
-                  "mask_indexs": [3]
+                  "layer_indexes": [1]
                 }
               ],
               "default_color": "#E84026"
@@ -228,17 +432,14 @@
       ]
     },
     {
-      "native_glyph_id": "3",
-      "symbol_glyph_id": "3",
+      "native_glyph_id": 6,
+      "symbol_glyph_id": 6,
       "layers": [
         {
           "components": [0,1]
         },
         {
-          "components": [2]
-        },
-        {
-          "components": [3]
+          "components": [2,3]
         }
       ],
       "render_modes": [
@@ -248,11 +449,7 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [0]
-                },
-                {
-                  "layer_indexes": [1],
-                  "mask_indexs": [2]
+                  "layer_indexes": [0,1]
                 }
               ]
             }
@@ -261,26 +458,17 @@
       ]
     },
     {
-      "native_glyph_id": "6",
-      "symbol_glyph_id": "6",
+      "native_glyph_id": 8,
+      "symbol_glyph_id": 8,
       "layers": [
         {
-          "components": [0]
-        },
-        {
-          "components": [1]
+          "components": [0,1,4,5]
         },
         {
           "components": [2,6]
         },
         {
           "components": [3]
-        },        
-        {
-          "components": [4]
-        },        
-        {
-          "components": [5]
         }
       ],
       "render_modes": [
@@ -290,15 +478,7 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [0],
-                  "mask_indexs": [1]
-                },
-                {
-                  "layer_indexes": [4],
-                  "mask_indexs": [5]
-                },
-                {
-                  "layer_indexes": [2,3]
+                  "layer_indexes": [0,1,2]
                 }
               ]
             }
@@ -310,7 +490,7 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [3]
+                  "layer_indexes": [0,1]
                 }
               ],
               "default_color": "#E84026"
@@ -319,19 +499,6 @@
               "group_indexes": [
                 {
                   "layer_indexes": [2]
-                }
-              ],
-              "default_color": "#55BEF0"
-            },
-            {
-              "group_indexes": [
-                {
-                  "layer_indexes": [0],
-                  "mask_indexs": [1]
-                },
-                {
-                  "layer_indexes": [4],
-                  "mask_indexs": [5]
                 }
               ],
               "default_color": "#55BEF0"
@@ -344,7 +511,7 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [3]
+                  "layer_indexes": [2]
                 }
               ],
               "fix_alpha": 1
@@ -352,7 +519,7 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [2]
+                  "layer_indexes": [1]
                 }
               ],
               "fix_alpha": 0.6
@@ -360,12 +527,7 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [0],
-                  "mask_indexs": [1]
-                },
-                {
-                  "layer_indexes": [4],
-                  "mask_indexs": [5]
+                  "layer_indexes": [0]
                 }
               ],
               "fix_alpha": 0.3
