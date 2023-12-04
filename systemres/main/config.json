@@ -2922,9 +2922,54 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.MANAGE_USB_CONFIG",
+                "name": "ohos.permission.READ_CLOUD_SYNC_CONFIG",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_CLOUD_SYNC_CONFIG",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_FINDDEVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_FINDSERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.TRIGGER_ACTIVATIONLOCK",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 11,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_USB_CONFIG",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
                 "since": 11,
                 "deprecated": "",
                 "provisionEnable": true,
