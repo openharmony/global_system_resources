@@ -699,6 +699,42 @@
         {
             "name": "ohos_id_menu_double_border_enable_default",
             "value": "0"
+        },
+        {
+            "name": "ohos_grid_edit_title_edit",
+            "value": "Edit"
+        },
+        {
+            "name": "ohos_grid_edit_title_chanel",
+            "value": "Categories"
+        },
+        {
+            "name": "ohos_grid_edit_subtitle_sort",
+            "value": "Drag to sort"
+        },
+        {
+            "name": "ohos_grid_edit_subtitle_add",
+            "value": "Touch to add"
+        },
+        {
+            "name": "ohos_network_not_connected",
+            "value": "No Internet connection"
+        },
+        {
+            "name": "ohos_network_connected_unstable",
+            "value": "Poornetwork connection. Touch to try again."
+        },
+        {
+            "name": "ohos_unstable_connect_server",
+            "value": "Unable to connect to the serve. Touch to try again."
+        },
+        {
+            "name": "ohos_custom_network_tips_left",
+            "value": "Unable to get location. Touch to try again."
+        },
+        {
+            "name": "ohos_set_network",
+            "value": "Set to network"
         }
     ]
 }
