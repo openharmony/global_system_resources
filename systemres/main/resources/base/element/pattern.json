@@ -1970,6 +1970,14 @@
                 {
                     "name": "dialog_title_text_font_size_min",
                     "value": "$float:ohos_id_dialog_title_text_font_size_min"
+                },
+                {
+                    "name": "dialog_expand_display",
+                    "value": "$string:ohos_id_expand_display"
+                },
+                {
+                    "name": "dialog_buttonwithcontent_padding",
+                    "value": "$float:ohos_id_dialog_buttonwithcontent_padding"
                 }
             ]
         },
