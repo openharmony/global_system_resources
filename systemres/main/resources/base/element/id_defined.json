@@ -8742,6 +8742,31 @@
             "name": "ohos_id_point_light_illuminated_border_width",
             "order": 1717,
             "flags": "private"
-        }
+        },
+		{
+            "type": "media",
+            "name": "ohos_ic_public_add",
+            "order": 1718
+        },
+		{
+            "type": "media",
+            "name": "ohos_ic_public_add_norm_filled",
+            "order": 1719
+        },
+		{
+            "type": "media",
+            "name": "ohos_ic_public_remove_filled",
+            "order": 1720
+        },
+		{
+            "type": "media",
+            "name": "ohos_ic_public_edit",
+            "order": 1721
+        },
+		{
+            "type": "media",
+            "name": "ohos_ic_public_fail",
+            "order": 1722
+        },
     ]
 }
