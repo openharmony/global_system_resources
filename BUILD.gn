@@ -419,8 +419,64 @@ ohos_prebuilt_etc("HMOSColorEmojiFlags") {
   part_name = "ace_engine"
 }
 
-ohos_prebuilt_etc("HMSymbolVF") {
-  source = "fonts/HMSymbolVF.ttf"
+ohos_prebuilt_etc("HMSymbol-Black") {
+  source = "fonts/HMSymbol-Black.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
+ohos_prebuilt_etc("HMSymbol-Bold") {
+  source = "fonts/HMSymbol-Bold.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
+ohos_prebuilt_etc("HMSymbol-ExtraLight") {
+  source = "fonts/HMSymbol-ExtraLight.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
+ohos_prebuilt_etc("HMSymbol-Heavy") {
+  source = "fonts/HMSymbol-Heavy.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
+ohos_prebuilt_etc("HMSymbol-Light") {
+  source = "fonts/HMSymbol-Light.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
+ohos_prebuilt_etc("HMSymbol-Medium") {
+  source = "fonts/HMSymbol-Medium.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
+ohos_prebuilt_etc("HMSymbol-Regular") {
+  source = "fonts/HMSymbol-Regular.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
+ohos_prebuilt_etc("HMSymbol-SemiBold") {
+  source = "fonts/HMSymbol-SemiBold.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
+ohos_prebuilt_etc("HMSymbol-Thin") {
+  source = "fonts/HMSymbol-Thin.ttf"
   module_install_dir = "fonts"
   subsystem_name = "global"
   part_name = "ace_engine"
@@ -437,7 +493,15 @@ group("ohos_fonts") {
   deps = [
     ":HMOSColorEmojiCompat",
     ":HMOSColorEmojiFlags",
-    ":HMSymbolVF",
+    ":HMSymbol-Black",
+    ":HMSymbol-Bold",
+    ":HMSymbol-ExtraLight",
+    ":HMSymbol-Heavy",
+    ":HMSymbol-Light",
+    ":HMSymbol-Medium",
+    ":HMSymbol-Regular",
+    ":HMSymbol-SemiBold",
+    ":HMSymbol-Thin",
     ":HarmonyOS_Sans_Black",
     ":HarmonyOS_Sans_Black_Italic",
     ":HarmonyOS_Sans_Bold",
