@@ -170,6 +170,26 @@
                 {
                     "name": "button_inner_padding",
                     "value": "$float:ohos_id_button_inner_padding"
+                },
+                {
+                    "name": "small_button_horizontal_padding",
+                    "value": "$float:ohos_id_button_inner_padding"
+                },
+                {
+                    "name": "bg_color_normal",
+                    "value": "$color:ohos_id_color_button_normal"
+                },
+                {
+                    "name": "emphasize_button_text_color",
+                    "value": "$color:ohos_id_color_foreground_contrary"
+                },
+                {
+                    "name": "small_button_font_size",
+                    "value": "$float:ohos_id_text_size_button3"
+                },
+                {
+                    "name": "small_button_height",
+                    "value": "$float:ohos_id_button_download_height"
                 }
             ]
         },
