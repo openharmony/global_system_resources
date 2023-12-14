@@ -2609,6 +2609,18 @@
                 {
                     "name": "popup_inner_border_color",
                     "value": "$color:ohos_id_popup_inner_border_color"
+                },
+                {
+                    "name": "text_primary_color",
+                    "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "text_primary_activated_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "text_secondary_color",
+                    "value": "$color:ohos_id_color_secondary"
                 }
             ]
         },
