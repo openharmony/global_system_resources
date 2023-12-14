@@ -2621,11 +2621,7 @@
                 },
                 {
                     "name": "fg_color",
-                    "value": "$color:ohos_id_color_emphasize"
-                },
-                {
-                    "name": "fg_color",
-                    "value": "$color:ohos_id_color_emphasize"
+                    "value": "$color:ohos_id_color_component_activated"
                 },
                 {
                     "name": "fg_color_cached_alpha",
@@ -2665,7 +2661,11 @@
                 },
                 {
                     "name": "progress_border_color",
-                    "value": "$color:ohos_id_color_text_highlight_bg"
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "progress_border_color_alpha",
+                    "value": "$float:ohos_id_alpha_highlight_bg"
                 },
                 {
                     "name": "progress_border_width",
@@ -2689,11 +2689,15 @@
                 },
                 {
                     "name": "capsule_progress_select_color",
-                    "value": "$color:ohos_id_color_emphasize_contrary"
+                    "value": "$color:ohos_id_color_emphasize"
                 },
                 {
                     "name": "progress_text_color",
                     "value": "$color:ohos_id_color_text_primary"
+                },
+                {
+                    "name": "ring_progress_bg_color",
+                    "value": "$color:ohos_id_color_button_normal"
                 },
                 {
                     "name": "ring_progress_fg_color_end",
@@ -5021,11 +5025,11 @@
                 },
                 {
                     "name": "hover_text_alpha",
-                    "value": "0.6"
+                    "value": "$float:ohos_id_alpha_content_secondary"
                 },
                 {
                     "name": "slip_hover_background_color",
-                    "value": "#000000"
+                    "value": "$color:ohos_id_color_hover"
                 },
                 {
                     "name": "focus_bg_outline_color",
