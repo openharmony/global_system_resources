@@ -4948,6 +4948,10 @@
                 {
                     "name": "ic_public_cast_mirror",
                     "value": "$media:ohos_ic_public_cast_mirror"
+                },
+                {
+                    "name": "ic_public_cancel",
+                    "value": "$media:ohos_ic_public_cancel"
                 }
             ]
         },
@@ -5578,7 +5582,7 @@
                 },
                 {
                     "name": "subtitle_text_font_color",
-                    "value": "$color:ohos_id_color_text_tertiary"
+                    "value": "$color:ohos_id_color_text_secondary"
                 },
                 {
                     "name": "subtitle_text_margin",
@@ -5595,6 +5599,18 @@
                 {
                     "name": "sheet_type",
                     "value": "$string:ohos_id_sheet_type"
+                },
+                {
+                    "name": "mask_color",
+                    "value": "$color:ohos_id_color_mask_thin"
+                },
+                {
+                    "name": "close_icon_color",
+                    "value": "$color:ohos_id_color_button_normal"
+                },
+                {
+                    "name": "close_icon_image_color",
+                    "value": "$color:ohos_id_color_primary"
                 }
             ]
         },
