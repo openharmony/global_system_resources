@@ -2945,6 +2945,10 @@
                 {
                     "name": "scroll_bar_background_color",
                     "value": "$color:ohos_id_scroll_bar_background_color"
+                },
+                {
+                    "name": "scroll_bar_foreground_opacity",
+                    "value": "$float:ohos_id_alpha_content_tertiary"
                 }
             ]
         },
