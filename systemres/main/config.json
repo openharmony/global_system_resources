@@ -1930,7 +1930,7 @@
                 "availableLevel": "system_basic",
                 "since": 9,
                 "deprecated": "",
-                "provisionEnable": false,
+                "provisionEnable": true,
                 "distributedSceneEnable": false
             },
             {
@@ -1939,7 +1939,7 @@
                 "availableLevel": "system_basic",
                 "since": 9,
                 "deprecated": "",
-                "provisionEnable": false,
+                "provisionEnable": true,
                 "distributedSceneEnable": false
             },
             {
@@ -2387,7 +2387,7 @@
             {
                 "name": "ohos.permission.QUERY_ACCESSIBILITY_ELEMENT",
                 "grantMode": "system_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "system_core",
                 "since": 11,
                 "deprecated": "",
                 "provisionEnable": false,
