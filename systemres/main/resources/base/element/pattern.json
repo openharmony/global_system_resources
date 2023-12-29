@@ -61,7 +61,7 @@
                 },
                 {
                     "name": "waiting_button_text_color",
-                    "value": "$color:ohos_id_color_text_primary_contrary"
+                    "value": "$color:ohos_id_color_foreground_contrary"
                 },
                 {
                     "name": "process_button_text_color",
@@ -85,7 +85,7 @@
                 },
                 {
                     "name": "button_bg_focus_color",
-                    "value": "$color:ohos_id_button_bg_focus_color"
+                    "value": "$color:ohos_id_color_button_normal"
                 },
                 {
                     "name": "button_text_color",
@@ -2386,7 +2386,7 @@
                 },
                 {
                     "name": "picker_popup_radius",
-                    "value": "$float:ohos_id_picker_popup_radius"
+                    "value": "$float:ohos_id_corner_radius_dialog"
                 },
                 {
                     "name": "picker_popup_padding",
@@ -2810,7 +2810,7 @@
                 },
                 {
                     "name": "icon_color_inactive",
-                    "value": "$color:ohos_fa_foreground"
+                    "value": "$color:ohos_id_color_component_normal"
                 },
                 {
                     "name": "bg_color_hovered",
@@ -4045,7 +4045,7 @@
                 },
                 {
                     "name": "toggle_disable_alpha",
-                    "value": "$float:ohos_id_toggle_disable_alpha"
+                    "value": "$float:ohos_id_alpha_disabled"
                 }
             ]
         },
@@ -4147,7 +4147,7 @@
             "value": [
                 {
                     "name": "bg_color",
-                    "value": "$color:ohos_id_color_dialog_bg"
+                    "value": "$color:ohos_id_color_card_bg"
                 },
                 {
                     "name": "bg_color_hovered",
@@ -4175,7 +4175,7 @@
                 },
                 {
                     "name": "text_font_size",
-                    "value": "$float:ohos_id_text_size_button1"
+                    "value": "$float:ohos_id_text_size_body1"
                 },
                 {
                     "name": "menu_text_font_size",
@@ -4363,7 +4363,7 @@
                 },
                 {
                     "name": "select_font_color",
-                    "value": "$color:ohos_id_select_font_color"
+                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "select_option_show_count",
