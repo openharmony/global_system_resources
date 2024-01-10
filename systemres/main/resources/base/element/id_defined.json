@@ -7084,13 +7084,15 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_dialog_padding_actions_left",
-            "order": 1386
+            "name": "ohos_id_dialog_padding_actions_left_abandoned_occupation",
+            "order": 1386,
+            "flags": "private"
         },
         {
             "type": "float",
-            "name": "ohos_id_dialog_padding_actions_top",
-            "order": 1387
+            "name": "ohos_id_dialog_padding_actions_top_abandoned_occupation",
+            "order": 1387,
+            "flags": "private"
         },
         {
             "type": "float",
