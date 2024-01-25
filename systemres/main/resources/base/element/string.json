@@ -735,6 +735,14 @@
         {
             "name": "ohos_set_network",
             "value": "Network settings"
+        },
+        {
+            "name": "ohos_lab_access_nearlink",
+            "value": "Allow to access and use nearlink capabilities"
+        },
+        {
+            "name": "ohos_desc_access_nearlink",
+            "value": "Allow to access and use nearlink capabilities, such as discovering remote devices, pairing with remote nearlink devices, and connecting to remote nearlink devices, and broadcasting and scanning functions"
         }
     ]
 }
