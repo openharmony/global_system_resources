@@ -5074,6 +5074,34 @@
                 {
                     "name": "focus_bg_outline_size",
                     "value": "2.0vp"
+                },
+                {
+                    "name": "pressed_bg_area_color",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "slip_pressed_background_color",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "popup_clicked_bg_area_color",
+                    "value": "$color:ohos_id_color_button_normal"
+                },
+                {
+                    "name": "popup_title_color",
+                    "value": "#00ffffff"
+                },
+                {
+                    "name": "popup_unclicked_bg_area_color",
+                    "value": "#00000000"
+                },
+                {
+                    "name": "popup_background_color_api_twelve",
+                    "value": "#00ffffff"
+                },
+                {
+                    "name": "hover_text_size_api_twelve",
+                    "value": "$float:ohos_id_text_size_caption"
                 }
             ]
         },
