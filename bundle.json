@@ -32,19 +32,19 @@
         }
     ],
     "segment": {
-        "destPath": "base/global/system_resources/systemres"
+        "destPath": "base/global/system_resources"
     },
     "component": {
         "name": "system_resources",
         "subsystem": "global",
-        "syscap": [ "SystemCapability.Global.ResourceManager" ],
+        "syscap": [],
         "features": [
             "system_resources_support_ext"
         ],
         "adapted_system_type": [
             "standard"
         ],
-        "rom": "250KB",
+        "rom": "792KB",
         "ram": "700KB",
         "deps": {
             "components": [],
