@@ -1,0 +1,120 @@
+{
+    "float": [
+        {
+            "name": "alpha_primary",
+            "value": "0.9"
+        },
+        {
+            "name": "alpha_secondary",
+            "value": "0.6"
+        },
+        {
+            "name": "alpha_tertiary",
+            "value": "0.4"
+        },
+        {
+            "name": "alpha_fourth",
+            "value": "0.2"
+        },
+        {
+            "name": "alpha_fifth",
+            "value": "0.1"
+        },
+        {
+            "name": "alpha_sixth",
+            "value": "0.05"
+        },
+        {
+            "name": "alpha_disable",
+            "value": "0.4"
+        },
+        {
+            "name": "alert_container_max_width",
+            "value": "400vp"
+        },
+        {
+            "name": "alert_container_shape",
+            "value": "$float:corner_radius_level16"
+        },
+        {
+            "name": "alert_container_border_width",
+            "value": "$float:border_none"
+        },
+        {
+            "name": "alert_title_primary_height",
+            "value": "56vp"
+        },
+        {
+            "name": "alert_title_padding_left",
+            "value": "$float:padding_level2"
+        },
+        {
+            "name": "alert_title_padding_top",
+            "value": "$float:padding_level4"
+        },
+        {
+            "name": "alert_title_padding_right",
+            "value": "$float:padding_level2"
+        },
+        {
+            "name": "alert_title_padding_bottom",
+            "value": "$float:padding_level4"
+        },
+        {
+            "name": "alert_title_secondary_height",
+            "value": "72vp"
+        },
+        {
+            "name": "alert_button_horizontal_space",
+            "value": "$float:padding_level4"
+        },
+        {
+            "name": "alert_button_vertical_space",
+            "value": "$float:padding_level2"
+        },
+        {
+            "name": "alert_left_padding_horizontal",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "alert_right_padding_horizontal",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "alert_left_padding_vertical",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "alert_right_padding_vertical",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "interactive_disable",
+            "value": "$float:alpha_disable"
+        },
+        {
+            "name": "alert_button_top_padding",
+            "value": "$float:padding_level4"
+        },
+        {
+            "name": "alert_button_bottom_padding_horizontal",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "alert_button_bottom_padding_vertical",
+            "value": "$float:padding_level4"
+        },
+        {
+            "name": "alert_content_default_padding",
+            "value": "$float:padding_level12"
+        },
+        {
+            "name": "alert_divider_height",
+            "value": "24.0vp"
+        },
+        {
+            "name": "alert_divider_width",
+            "value": "$float:border_medium"
+        }
+    ]
+  }
