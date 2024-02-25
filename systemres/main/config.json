@@ -1097,7 +1097,7 @@
                 "availableLevel": "system_basic",
                 "since": 8,
                 "deprecated": "",
-                "provisionEnable": false,
+                "provisionEnable": true,
                 "distributedSceneEnable": false
             },
             {
@@ -3062,6 +3062,15 @@
                 "name": "ohos.permission.MANAGE_USER_ACCOUNT_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_AI_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
                 "since": 12,
                 "deprecated": "",
                 "provisionEnable": true,

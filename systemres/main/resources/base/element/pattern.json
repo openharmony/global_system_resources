@@ -3538,6 +3538,10 @@
                 {
                     "name": "text_font_size",
                     "value": "$float:ohos_id_text_font_size"
+                },
+                {
+                    "name": "bg_color_selected",
+                    "value": "$color:ohos_id_color_text_highlight_bg"
                 }
             ]
         },
