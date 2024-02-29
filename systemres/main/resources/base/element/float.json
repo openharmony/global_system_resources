@@ -2855,6 +2855,314 @@
         {
             "name": "ohos_id_point_light_illuminated_border_width",
             "value": "1.0vp"
+        },
+        {
+            "name": "alpha_90",
+            "value": "0.9"
+        },
+        {
+            "name": "alpha_60",
+            "value": "0.6"
+        },
+        {
+            "name": "alpha_40",
+            "value": "0.6"
+        },
+        {
+            "name": "alpha_20",
+            "value": "0.2"
+        },
+        {
+            "name": "alpha_10",
+            "value": "0.1"
+        },
+        {
+            "name": "alpha_05",
+            "value": "0.05"
+        },
+        {
+            "name": "corner_radius_none",
+            "value": "0.0vp"
+        },
+        {
+            "name": "corner_radius_level1",
+            "value": "2.0vp"
+        },
+        {
+            "name": "corner_radius_level2",
+            "value": "4.0vp"
+        },
+        {
+            "name": "corner_radius_level3",
+            "value": "6.0vp"
+        },
+        {
+            "name": "corner_radius_level4",
+            "value": "8.0vp"
+        },
+        {
+            "name": "corner_radius_level5",
+            "value": "10.0vp"
+        },
+        {
+            "name": "corner_radius_level6",
+            "value": "12.0vp"
+        },
+        {
+            "name": "corner_radius_level7",
+            "value": "14.0vp"
+        },
+        {
+            "name": "corner_radius_level8",
+            "value": "16.0vp"
+        },
+        {
+            "name": "corner_radius_level9",
+            "value": "18.0vp"
+        },
+        {
+            "name": "corner_radius_level10",
+            "value": "20.0vp"
+        },
+        {
+            "name": "corner_radius_level11",
+            "value": "22.0vp"
+        },
+        {
+            "name": "corner_radius_level12",
+            "value": "24.0vp"
+        },
+        {
+            "name": "corner_radius_level16",
+            "value": "32.0vp"
+        },
+        {
+            "name": "padding_level0",
+            "value": "0.0vp"
+        },
+        {
+            "name": "padding_level1",
+            "value": "2.0vp"
+        },
+        {
+            "name": "padding_level2",
+            "value": "4.0vp"
+        },
+        {
+            "name": "padding_level3",
+            "value": "6.0vp"
+        },
+        {
+            "name": "padding_level4",
+            "value": "8.0vp"
+        },
+        {
+            "name": "padding_level5",
+            "value": "10.0vp"
+        },
+        {
+            "name": "padding_level6",
+            "value": "12.0vp"
+        },
+        {
+            "name": "padding_level7",
+            "value": "14.0vp"
+        },
+        {
+            "name": "padding_level8",
+            "value": "16.0vp"
+        },
+        {
+            "name": "padding_level9",
+            "value": "18.0vp"
+        },
+        {
+            "name": "padding_level10",
+            "value": "20.0vp"
+        },
+        {
+            "name": "padding_level11",
+            "value": "22.0vp"
+        },
+        {
+            "name": "padding_level12",
+            "value": "24.0vp"
+        },
+        {
+            "name": "padding_level16",
+            "value": "32.0vp"
+        },
+        {
+            "name": "padding_level24",
+            "value": "48.0vp"
+        },
+        {
+            "name": "padding_level32",
+            "value": "64.0vp"
+        },
+        {
+            "name": "padding_level36",
+            "value": "72.0vp"
+        },
+        {
+            "name": "margin_left",
+            "value": "16.0vp"
+        },
+        {
+            "name": "margin_right",
+            "value": "16.0vp"
+        },
+        {
+            "name": "margin_left_none",
+            "value": "0.0vp"
+        },
+        {
+            "name": "margin_right_none",
+            "value": "0.0vp"
+        },
+        {
+            "name": "border_none",
+            "value": "0.0vp"
+        },
+        {
+            "name": "border_extra_small",
+            "value": "0.5px"
+        },
+        {
+            "name": "border_small",
+            "value": "1.0px"
+        },
+        {
+            "name": "border_medium",
+            "value": "2.0px"
+        },
+        {
+            "name": "border_larger",
+            "value": "1.0vp"
+        },
+        {
+            "name": "border_extra_larger",
+            "value": "2.0vp"
+        },
+        {
+            "name": "outline_none",
+            "value": "0.0vp"
+        },
+        {
+            "name": "outline_extra_small",
+            "value": "0.5px"
+        },
+        {
+            "name": "outline_small",
+            "value": "1.0px"
+        },
+        {
+            "name": "outline_medium",
+            "value": "2.0px"
+        },
+        {
+            "name": "outline_larger",
+            "value": "1.0vp"
+        },
+        {
+            "name": "outline_extra_larger",
+            "value": "2.0vp"
+        },
+        {
+            "name": "font_weight_thin",
+            "value": "0.0"
+        },
+        {
+            "name": "font_weight_ultralight",
+            "value": "1.0"
+        },
+        {
+            "name": "font_weight_light",
+            "value": "2.0"
+        },
+        {
+            "name": "font_weight_regular",
+            "value": "3.0"
+        },
+        {
+            "name": "font_weight_medium",
+            "value": "4.0"
+        },
+        {
+            "name": "font_weight_semibold",
+            "value": "5.0"
+        },
+        {
+            "name": "font_weight_bold",
+            "value": "6.0"
+        },
+        {
+            "name": "font_weight_heavy",
+            "value": "7.0"
+        },
+        {
+            "name": "font_weight_black",
+            "value": "8.0"
+        },
+        {
+            "name": "Display_L",
+            "value": "56.0fp"
+        },
+        {
+            "name": "Display_M",
+            "value": "48.0fp"
+        },
+        {
+            "name": "Display_S",
+            "value": "38.0fp"
+        },
+        {
+            "name": "Title_L",
+            "value": "30.0fp"
+        },
+        {
+            "name": "Title_M",
+            "value": "24.0fp"
+        },
+        {
+            "name": "Title_S",
+            "value": "20.0fp"
+        },
+        {
+            "name": "Subtitle_L",
+            "value": "18.0fp"
+        },
+        {
+            "name": "Subtitle_M",
+            "value": "16.0fp"
+        },
+        {
+            "name": "Subtitle_S",
+            "value": "14.0fp"
+        },
+        {
+            "name": "Body_L",
+            "value": "16.0fp"
+        },
+        {
+            "name": "Body_M",
+            "value": "14.0fp"
+        },
+        {
+            "name": "Body_S",
+            "value": "12.0fp"
+        },
+        {
+            "name": "Caption_L",
+            "value": "12.0fp"
+        },
+        {
+            "name": "Caption_M",
+            "value": "10.0fp"
+        },
+        {
+            "name": "Caption_S",
+            "value": "8.0fp"
         }
     ]
 }
