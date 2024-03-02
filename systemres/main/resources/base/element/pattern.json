@@ -2262,6 +2262,58 @@
                 {
                     "name": "navigation_divider_color",
                     "value": "$color:ohos_id_color_list_separator"
+                },
+                {
+                    "name": "navigation_main_title_color",
+                    "value": "$color:font_primary"
+                },
+                {
+                    "name": "navigation_sub_title_color",
+                    "value": "$color:font_secondary"
+                },
+                {
+                    "name": "navigation_comp_background_color",
+                    "value": "$color:comp_background_tertiary"
+                },
+                {
+                    "name": "navigation_icon_color",
+                    "value": "$color:icon_primary"
+                },
+                {
+                    "name": "navigation_margin_l",
+                    "value": "$float:margin_left"
+                },
+                {
+                    "name": "navigation_margin_r",
+                    "value": "$float:margin_right"
+                },
+                {
+                    "name": "navigation_main_title_fontsize_l",
+                    "value": "$float:Title_L"
+                },
+                {
+                    "name": "navigation_main_title_fontsize_m",
+                    "value": "$float:Title_M"
+                },
+                {
+                    "name": "navigation_sub_title_fontsize_s",
+                    "value": "$float:Subtitle_S"
+                },
+                {
+                    "name": "navigation_corner_radius",
+                    "value": "$float:corner_radius_level10"
+                },
+                {
+                    "name": "navigation_icon_padding",
+                    "value": "$float:padding_level12"
+                },
+                {
+                    "name": "navigation_main_title_fontweight",
+                    "value": "$float:font_weight_bold"
+                },
+                {
+                    "name": "navigation_sub_title_fontweight",
+                    "value": "$float:font_weight_regular"
                 }
             ]
         },
