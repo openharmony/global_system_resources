@@ -4858,6 +4858,14 @@
                     "value": "$media:ohos_app_bar_fa"
                 },
                 {
+                    "name": "app_bar_menu",
+                    "value": "$media:ohos_ic_public_more"
+                },
+                {
+                    "name": "app_bar_close",
+                    "value": "$media:ohos_ic_public_remove"
+                },
+                {
                     "name": "ic_public_ok",
                     "value": "$media:ohos_ic_public_ok"
                 },
@@ -5105,10 +5113,6 @@
                     "value": "$color:ohos_id_color_text_primary"
                 },
                 {
-                    "name": "click_effect_color",
-                    "value": "$color:ohos_id_color_click_effect"
-                },
-                {
                     "name": "app_bar_bg_color",
                     "value": "$color:ohos_id_color_background"
                 },
@@ -5123,6 +5127,98 @@
                 {
                     "name": "app_bar_stage_ability_name",
                     "value": "PanelAbility"
+                },
+                {
+                    "name": "bent_radius",
+                    "value": "18.0vp"
+                },
+                {
+                    "name": "right_angle",
+                    "value": "0.0vp"
+                },
+                {
+                    "name": "icon_color",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "divider_color",
+                    "value": "#33000000"
+                },
+                {
+                    "name": "border_color",
+                    "value": "$color:ohos_id_color_fourth"
+                },
+                {
+                    "name": "hover_color",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "click_effect_color",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "focused_outline_color",
+                    "value": "$color:ohos_id_color_focused_outline"
+                },
+                {
+                    "name": "menu_bar_width",
+                    "value": "80.0vp"
+                },
+                {
+                    "name": "menu_bar_height",
+                    "value": "36.0vp"
+                },
+                {
+                    "name": "new_icon_size",
+                    "value": "20.0vp"
+                },
+                {
+                    "name": "divider_width",
+                    "value": "1.0px"
+                },
+                {
+                    "name": "divider_height",
+                    "value": "16.0vp"
+                },
+                {
+                    "name": "border_width",
+                    "value": "1.0px"
+                },
+                {
+                    "name": "button_width",
+                    "value": "40.0vp"
+                },
+                {
+                    "name": "button_height",
+                    "value": "36.0vp"
+                },
+                {
+                    "name": "focused_outline_width",
+                    "value": "2.0vp"
+                },
+                {
+                    "name": "menu_bar_top_margin",
+                    "value": "10.0vp"
+                },
+                {
+                    "name": "menu_bar_left_margin",
+                    "value": "12.0vp"
+                },
+                {
+                    "name": "menu_bar_right_margin",
+                    "value": "8.0vp"
+                },
+                {
+                    "name": "icon_outside_margin",
+                    "value": "12.0vp"
+                },
+                {
+                    "name": "icon_inside_margin",
+                    "value": "8.0vp"
+                },
+                {
+                    "name": "icon_vertical_margin",
+                    "value": "8.0vp"
                 }
             ]
         },
