@@ -2264,55 +2264,55 @@
                     "value": "$color:ohos_id_color_list_separator"
                 },
                 {
-                    "name": "navigation_main_title_color",
+                    "name": "title_primary_color",
                     "value": "$color:font_primary"
                 },
                 {
-                    "name": "navigation_sub_title_color",
+                    "name": "title_subheader_color",
                     "value": "$color:font_secondary"
                 },
                 {
-                    "name": "navigation_comp_background_color",
+                    "name": "icon_background_color",
                     "value": "$color:comp_background_tertiary"
                 },
                 {
-                    "name": "navigation_icon_color",
+                    "name": "icon_color",
                     "value": "$color:icon_primary"
                 },
                 {
-                    "name": "navigation_margin_l",
+                    "name": "title_margin_left",
                     "value": "$float:margin_left"
                 },
                 {
-                    "name": "navigation_margin_r",
+                    "name": "title_margin_right",
                     "value": "$float:margin_right"
                 },
                 {
-                    "name": "navigation_main_title_fontsize_l",
+                    "name": "title_primary_size",
                     "value": "$float:Title_L"
                 },
                 {
-                    "name": "navigation_main_title_fontsize_m",
+                    "name": "title_secondary_size",
                     "value": "$float:Title_M"
                 },
                 {
-                    "name": "navigation_sub_title_fontsize_s",
+                    "name": "title_tertiary_size",
                     "value": "$float:Subtitle_S"
                 },
                 {
-                    "name": "navigation_corner_radius",
+                    "name": "icon_background_shape",
                     "value": "$float:corner_radius_level10"
                 },
                 {
-                    "name": "navigation_icon_padding",
-                    "value": "$float:padding_level12"
+                    "name": "icon_background_space_horizontal",
+                    "value": "$float:padding_level4"
                 },
                 {
-                    "name": "navigation_main_title_fontweight",
+                    "name": "title_primary_weight",
                     "value": "$float:font_weight_bold"
                 },
                 {
-                    "name": "navigation_sub_title_fontweight",
+                    "name": "title_tertiary_weight",
                     "value": "$float:font_weight_regular"
                 }
             ]
