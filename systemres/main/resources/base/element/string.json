@@ -743,6 +743,10 @@
         {
             "name": "ohos_desc_access_nearlink",
             "value": "Allow to access and use nearlink capabilities, such as discovering remote devices, pairing with remote nearlink devices, and connecting to remote nearlink devices, and broadcasting and scanning functions"
+        },
+        {
+            "name": "ohos_show_password_directly",
+            "value": "0"
         }
     ]
 }
