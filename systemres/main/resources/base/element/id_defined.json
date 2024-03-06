@@ -9989,6 +9989,12 @@
             "type": "string",
             "name": "ohos_show_password_directly",
             "order": 1966
+        },
+        {
+            "type": "media",
+            "name": "ohos_moon_progress_fg_circle_shadow",
+            "order": 1967,
+            "flags":"private"
         }
     ]
 }
