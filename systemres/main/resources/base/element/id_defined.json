@@ -9995,6 +9995,166 @@
             "name": "ohos_moon_progress_fg_circle_shadow",
             "order": 1967,
             "flags":"private"
+        },
+        {
+            "type": "color",
+            "name": "titlebar_subheader_color",
+            "order": 1968
+        },
+        {
+            "type": "color",
+            "name": "titlebar_icon_color",
+            "order": 1969
+        },
+        {
+            "type": "color",
+            "name": "titlebar_icon_background_color",
+            "order": 1970
+        },
+        {
+            "type": "color",
+            "name": "titlebar_icon_background_hover_color",
+            "order": 1971
+        },
+        {
+            "type": "color",
+            "name": "titlebar_icon_background_pressed_color",
+            "order": 1972
+        },
+        {
+            "type": "float",
+            "name": "titlebar_title_primary_size",
+            "order": 1973
+        },
+        {
+            "type": "float",
+            "name": "titlebar_title_secondary_size",
+            "order": 1974
+        },
+        {
+            "type": "float",
+            "name": "titlebar_title_tertiary_size",
+            "order": 1975
+        },
+        {
+            "type": "float",
+            "name": "titlebar_title_tertiary_weight",
+            "order": 1976
+        },
+        {
+            "type": "float",
+            "name": "titlebar_subheader_size",
+            "order": 1977
+        },
+        {
+            "type": "float",
+            "name": "titlebar_subheader_weight",
+            "order": 1978
+        },
+        {
+            "type": "float",
+            "name": "titlebar_padding_left",
+            "order": 1979
+        },
+        {
+            "type": "float",
+            "name": "titlebar_padding_top",
+            "order": 1980
+        },
+        {
+            "type": "float",
+            "name": "titlebar_padding_right",
+            "order": 1981
+        },
+        {
+            "type": "float",
+            "name": "titlebar_padding_bottom",
+            "order": 1982
+        },
+        {
+            "type": "float",
+            "name": "titlebar_icon_background_space_horizontal",
+            "order": 1983
+        },
+        {
+            "type": "float",
+            "name": "titlebar_icon_padding_horizontal",
+            "order": 1984
+        },
+        {
+            "type": "float",
+            "name": "titlebar_title_margin_left",
+            "order": 1985
+        },
+        {
+            "type": "float",
+            "name": "titlebar_title_margin_right",
+            "order": 1986
+        },
+        {
+            "type": "float",
+            "name": "titlebar_icon_width",
+            "order": 1987
+        },
+        {
+            "type": "float",
+            "name": "titlebar_icon_height",
+            "order": 1988
+        },
+        {
+            "type": "float",
+            "name": "titlebar_icon_disable_alpha",
+            "order": 1989
+        },
+        {
+            "type": "float",
+            "name": "titlebar_icon_background_height",
+            "order": 1990
+        },
+        {
+            "type": "float",
+            "name": "titlebar_icon_background_width",
+            "order": 1991
+        },
+        {
+            "type": "float",
+            "name": "titlebar_icon_background_shape",
+            "order": 1992
+        },
+        {
+            "type": "color",
+            "name": "titlebar_icon_background_focus_outline_color",
+            "order": 1993
+        },
+        {
+            "type": "float",
+            "name": "titlebar_icon_background_disable_alpha",
+            "order": 1994
+        },
+        {
+            "type": "float",
+            "name": "titlebar_default_height",
+            "order": 1995
+        },
+        {
+            "type": "float",
+            "name": "titlebar_emphasize_height",
+            "order": 1996
+        },
+        {
+            "type": "float",
+            "name": "titlebar_emphasize_twolines_height",
+            "order": 1997
+        },
+        {
+            "type": "float",
+            "name": "titlebar_icon_background_focus_outline_weight",
+            "order": 1998
+        },
+	{
+            "type": "color",
+            "name": "titlebar_title_tertiary_color",
+            "order": 1999
         }
     ]
 }

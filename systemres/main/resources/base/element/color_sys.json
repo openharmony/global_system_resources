@@ -227,6 +227,34 @@
         {
             "name": "alert_divider_color",
             "value": "$color:comp_divider"
+        },
+        {
+            "name": "titlebar_title_tertiary_color",
+            "value": "$color:font_primary"
+        },
+        {
+            "name": "titlebar_subheader_color",
+            "value": "$color:font_secondary"
+        },
+        {
+            "name": "titlebar_icon_color",
+            "value": "$color:icon_primary"
+        },
+        {
+            "name": "titlebar_icon_background_color",
+            "value": "$color:comp_background_tertiary"
+        },
+        {
+            "name": "titlebar_icon_background_hover_color",
+            "value": "$color:interactive_hover"
+        },
+        {
+            "name": "titlebar_icon_background_pressed_color",
+            "value": "$color:interactive_pressed"
+        },
+        {
+            "name": "titlebar_icon_background_focus_outline_color",
+            "value": "$color:interactive_focus"
         }
     ]
   }

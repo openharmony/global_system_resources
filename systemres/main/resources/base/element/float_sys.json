@@ -119,6 +119,106 @@
         {
             "name": "alert_button_style",
             "value": "2.0"
+        },
+        {
+            "name": "titlebar_title_primary_size",
+            "value": "$float:Title_L"
+        },
+        {
+            "name": "titlebar_title_secondary_size",
+            "value": "$float:Title_M"
+        },
+        {
+            "name": "titlebar_title_tertiary_size",
+            "value": "$float:Title_S"
+        },
+        {
+            "name": "titlebar_title_tertiary_weight",
+            "value": "$float:font_weight_bold"
+        },
+        {
+            "name": "titlebar_subheader_size",
+            "value": "$float:Subtitle_S"
+        },
+        {
+            "name": "titlebar_subheader_weight",
+            "value": "$float:font_weight_regular"
+        },
+        {
+            "name": "titlebar_padding_left",
+            "value": "$float:padding_level0"
+        },
+        {
+            "name": "titlebar_padding_top",
+            "value": "$float:padding_level2"
+        },
+        {
+            "name": "titlebar_padding_right",
+            "value": "$float:padding_level0"
+        },
+        {
+            "name": "titlebar_padding_bottom",
+            "value": "$float:padding_level2"
+        },
+        {
+            "name": "titlebar_icon_background_space_horizontal",
+            "value": "$float:padding_level4"
+        },
+        {
+            "name": "titlebar_icon_padding_horizontal",
+            "value": "$float:padding_level7"
+        },
+        {
+            "name": "titlebar_title_margin_left",
+            "value": "$float:margin_left"
+        },
+        {
+            "name": "titlebar_title_margin_right",
+            "value": "$float:margin_right"
+        },
+        {
+            "name": "titlebar_icon_width",
+            "value": "24.0vp"
+        },
+        {
+            "name": "titlebar_icon_height",
+            "value": "24.0vp"
+        },
+        {
+            "name": "titlebar_icon_disable_alpha",
+            "value": "$float:interactive_disable"
+        },
+        {
+            "name": "titlebar_icon_background_height",
+            "value": "40.0vp"
+        },
+        {
+            "name": "titlebar_icon_background_width",
+            "value": "40.0vp"
+        },
+        {
+            "name": "titlebar_icon_background_shape",
+            "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "titlebar_icon_background_focus_outline_weight",
+            "value": "$float:outline_extra_larger"
+        },
+        {
+            "name": "titlebar_icon_background_disable_alpha",
+            "value": "$float:interactive_disable"
+        },
+        {
+            "name": "titlebar_default_height",
+            "value": "56.0vp"
+        },
+        {
+            "name": "titlebar_emphasize_height",
+            "value": "112.0vp"
+        },
+        {
+            "name": "titlebar_emphasize_twolines_height",
+            "value": "137.0vp"
         }
     ]
   }

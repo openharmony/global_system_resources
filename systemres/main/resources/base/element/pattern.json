@@ -2272,43 +2272,55 @@
                 },
                 {
                     "name": "title_subheader_color",
-                    "value": "$color:font_secondary"
+                    "value": "$color:titlebar_subheader_color"
+                },
+                {
+                    "name": "title_subheader_size",
+                    "value": "$float:titlebar_subheader_size"
+                },
+                {
+                    "name": "title_subheader_weight",
+                    "value": "$float:titlebar_subheader_weight"
                 },
                 {
                     "name": "icon_background_color",
-                    "value": "$color:comp_background_tertiary"
+                    "value": "$color:titlebar_icon_background_color"
                 },
                 {
                     "name": "icon_color",
-                    "value": "$color:icon_primary"
+                    "value": "$color:titlebar_icon_color"
                 },
                 {
                     "name": "title_margin_left",
-                    "value": "$float:margin_left"
+                    "value": "$float:titlebar_title_margin_left"
                 },
                 {
                     "name": "title_margin_right",
-                    "value": "$float:margin_right"
+                    "value": "$float:titlebar_title_margin_right"
                 },
                 {
                     "name": "title_primary_size",
-                    "value": "$float:Title_L"
+                    "value": "$float:titlebar_title_primary_size"
                 },
                 {
                     "name": "title_secondary_size",
-                    "value": "$float:Title_M"
+                    "value": "$float:titlebar_title_secondary_size"
                 },
                 {
                     "name": "title_tertiary_size",
-                    "value": "$float:Subtitle_S"
+                    "value": "$float:titlebar_title_tertiary_size"
+                },
+                {
+                    "name": "title_tertiary_color",
+                    "value": "$color:titlebar_title_tertiary_color"
                 },
                 {
                     "name": "icon_background_shape",
-                    "value": "$float:corner_radius_level10"
+                    "value": "$float:titlebar_icon_background_shape"
                 },
                 {
                     "name": "icon_background_space_horizontal",
-                    "value": "$float:padding_level4"
+                    "value": "$float:titlebar_icon_background_space_horizontal"
                 },
                 {
                     "name": "title_primary_weight",
@@ -2316,7 +2328,107 @@
                 },
                 {
                     "name": "title_tertiary_weight",
-                    "value": "$float:font_weight_regular"
+                    "value": "$float:titlebar_title_tertiary_weight"
+                },
+                {
+                    "name": "padding_left",
+                    "value": "$float:titlebar_padding_left"
+                },
+                {
+                    "name": "padding_top",
+                    "value": "$float:titlebar_padding_top"
+                },
+                {
+                    "name": "padding_right",
+                    "value": "$float:titlebar_padding_right"
+                },
+                {
+                    "name": "padding_bottom",
+                    "value": "$float:titlebar_padding_bottom"
+                },
+                {
+                    "name": "padding_left_twolines",
+                    "value": "$float:padding_level0"
+                },
+                {
+                    "name": "padding_top_twolines",
+                    "value": "$float:padding_level4"
+                },
+                {
+                    "name": "padding_right_twolines",
+                    "value": "$float:padding_level0"
+                },
+                {
+                    "name": "padding_bottom_twolines",
+                    "value": "$float:padding_level5"
+                },
+                {
+                    "name": "title_space_vertical",
+                    "value": "$float:padding_level1"
+                },
+                {
+                    "name": "icon_space_horizontal",
+                    "value": "$float:titlebar_icon_padding_horizontal"
+                },
+                {
+                    "name": "icon_width",
+                    "value": "$float:titlebar_icon_width"
+                },
+                {
+                    "name": "icon_height",
+                    "value": "$float:titlebar_icon_height"
+                },
+                {
+                    "name": "icon_disable_alpha",
+                    "value": "$float:titlebar_icon_disable_alpha"
+                },
+                {
+                    "name": "icon_background_height",
+                    "value": "$float:titlebar_icon_background_height"
+                },
+                {
+                    "name": "icon_background_width",
+                    "value": "$float:titlebar_icon_background_width"
+                },
+                {
+                    "name": "icon_background_hover_color",
+                    "value": "$color:titlebar_icon_background_hover_color"
+                },
+                {
+                    "name": "icon_background_pressed_color",
+                    "value": "$color:titlebar_icon_background_pressed_color"
+                },
+                {
+                    "name": "icon_background_focus_outline_weight",
+                    "value": "$float:titlebar_icon_background_focus_outline_weight"
+                },
+                {
+                    "name": "icon_background_focus_outline_color",
+                    "value": "$color:titlebar_icon_background_focus_outline_color"
+                },
+                {
+                    "name": "title_secondary_color",
+                    "value": "$color:font_primary"
+                },
+                {
+                    "name": "title_secondary_weight",
+                    "value": "$float:font_weight_bold"
+                },
+                {
+                    "name": "icon_background_disable_alpha",
+                    "value": "$float:titlebar_icon_background_disable_alpha"
+                },
+                {
+                    "name": "title_default_height",
+                    "value": "$float:titlebar_default_height"
+                },
+                {
+                    "name": "title_emphasize_height",
+                    "value": "$float:titlebar_emphasize_height"
+                },
+                {
+                    "name": "title_emphasize_twolines_height",
+                    "value": "$float:titlebar_emphasize_twolines_height"
                 }
             ]
         },
