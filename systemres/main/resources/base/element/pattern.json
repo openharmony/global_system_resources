@@ -3709,6 +3709,10 @@
                 {
                     "name": "bg_color_selected",
                     "value": "$color:ohos_id_color_text_highlight_bg"
+                },
+                {
+                    "name": "text_fadeout_enable",
+                    "value": "$string:ohos_id_text_fadeout_enable_default"
                 }
             ]
         },
@@ -3978,6 +3982,10 @@
                 {
                     "name": "show_password_directly",
                     "value": "$string:ohos_show_password_directly"
+                },
+                {
+                    "name": "text_fadeout_enable",
+                    "value": "$string:ohos_id_text_fadeout_enable_default"
                 }
             ]
         },
