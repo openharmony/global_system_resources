@@ -3120,6 +3120,17 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CHANGE_DISPLAYMODE",
+                "grantMode": "system_grant",
+                "since": 12,
+                "deprecated": "",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_change_displaymode",
+                "description": "$string:ohos_desc_change_displaymode"
             }
         ]
     }

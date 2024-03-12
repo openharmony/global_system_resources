@@ -8969,7 +8969,7 @@
             "type": "media",
             "name": "ohos_ic_normal_white_grid_calendar",
             "order": 1762
-        },        
+        },
         {
             "type": "media",
             "name": "ohos_ic_normal_white_grid_audio",
@@ -10155,6 +10155,16 @@
             "type": "color",
             "name": "titlebar_title_tertiary_color",
             "order": 1999
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_change_displaymode",
+            "order": 2000
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_change_displaymode",
+            "order": 2001
         }
     ]
 }

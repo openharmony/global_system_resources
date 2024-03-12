@@ -747,6 +747,14 @@
         {
             "name": "ohos_show_password_directly",
             "value": "0"
+        },
+        {
+            "name": "ohos_lab_change_displaymode",
+            "value": "Change displayMode permission"
+        },
+        {
+            "name": "ohos_desc_change_displaymode",
+            "value": "This permission is used to allow the system app to change display mode"
         }
     ]
 }
