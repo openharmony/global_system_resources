@@ -5806,6 +5806,14 @@
                 {
                     "name": "text_color_disabled_alpha",
                     "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "caret_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "selected_background_color",
+                    "value": "$color:ohos_id_color_emphasize"
                 }
             ]
         },
