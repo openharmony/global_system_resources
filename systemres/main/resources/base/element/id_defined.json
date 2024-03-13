@@ -10155,6 +10155,11 @@
             "type": "color",
             "name": "titlebar_title_tertiary_color",
             "order": 1999
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_fadeout_enable_default",
+            "order": 2000
         }
     ]
 }
