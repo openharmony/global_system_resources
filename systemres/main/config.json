@@ -3120,6 +3120,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_MEDIALIB_THUMB_DB",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
