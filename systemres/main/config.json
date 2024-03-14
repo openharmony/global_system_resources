@@ -2949,6 +2949,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.READ_FINDSERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.TRIGGER_ACTIVATIONLOCK",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
@@ -3118,6 +3127,15 @@
                 "availableLevel": "system_basic",
                 "since": 12,
                 "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CHANGE_DISPLAYMODE",
+                "grantMode": "system_grant",
+                "since": 12,
+                "deprecated": "",
+                "availableLevel": "system_core",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
