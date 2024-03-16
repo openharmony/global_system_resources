@@ -4341,6 +4341,10 @@
                     "value": "$color:ohos_id_color_card_bg"
                 },
                 {
+                    "name": "bg_color_select_button",
+                    "value": "$color:ohos_id_color_button_normal"
+                },
+                {
                     "name": "bg_color_hovered",
                     "value": "$color:ohos_id_color_hover"
                 },
@@ -4367,6 +4371,10 @@
                 {
                     "name": "text_font_size",
                     "value": "$float:ohos_id_text_size_body1"
+                },
+                {
+                    "name": "small_text_font_size",
+                    "value": "$float:ohos_id_text_size_body2"
                 },
                 {
                     "name": "menu_text_font_size",
@@ -4465,8 +4473,16 @@
                     "value": "12.0vp"
                 },
                 {
+                    "name": "small_spinner_width",
+                    "value": "10.0vp"
+                },
+                {
                     "name": "spinner_height",
                     "value": "24.0vp"
+                },
+                {
+                    "name": "small_spinner_height",
+                    "value": "20.0vp"
                 },
                 {
                     "name": "default_divider_width",
@@ -4477,8 +4493,20 @@
                     "value": "66.0vp"
                 },
                 {
+                    "name": "normal_select_min_width",
+                    "value": "68.0vp"
+                },
+                {
+                    "name": "small_select_min_width",
+                    "value": "56.0vp"
+                },
+                {
                     "name": "select_min_height",
                     "value": "40.0vp"
+                },
+                {
+                    "name": "small_select_min_height",
+                    "value": "28.0vp"
                 },
                 {
                     "name": "icon_side_length",
@@ -4523,6 +4551,10 @@
                 {
                     "name": "select_default_border_radius",
                     "value": "$float:ohos_id_corner_radius_button"
+                },
+                {
+                    "name": "small_select_border_radius",
+                    "value": "$float:ohos_id_corner_radius_small_button"
                 },
                 {
                     "name": "select_default_bg_color",
