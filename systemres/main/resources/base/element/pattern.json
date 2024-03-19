@@ -1122,6 +1122,10 @@
                 {
                     "name": "chain_damping",
                     "value": "$float:ohos_id_chain_damping"
+                },
+                {
+                    "name": "list_fadeout_enable",
+                    "value": "$string:ohos_id_list_fadeout_enable_default"
                 }
             ]
         },
