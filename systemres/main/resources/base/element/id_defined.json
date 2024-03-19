@@ -10240,6 +10240,18 @@
             "type": "symbol",
             "name": "speaker_wave_3",
             "order": 2016
+        },
+        {
+            "type": "media",
+            "name": "ohos_radio_tick",
+            "order": 2017,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_radio_dot",
+            "order": 2018,
+            "flags": "private"
         }
     ]
 }

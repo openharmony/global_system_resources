@@ -1410,6 +1410,10 @@
             "name": "ohos_radio_pattern",
             "value": [
                 {
+                    "name": "bg_focus_outline_color",
+                    "value": "$color:ohos_id_color_focused_outline"
+                },
+                {
                     "name": "hover_border_color",
                     "value": "$color:ohos_id_color_hover"
                 },
@@ -1472,6 +1476,18 @@
                 {
                     "name": "default_padding",
                     "value": "2.0vp"
+                },
+                {
+                    "name": "radio_size_api_twelve",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "radio_hotzone_padding_twelve",
+                    "value": "2.0vp"
+                },
+                {
+                    "name": "radio_default_size_api_twelve",
+                    "value": "24.0vp"
                 },
                 {
                     "name": "radio_size",
@@ -5227,6 +5243,14 @@
                 {
                     "name": "moon_progress_fg_circle_shadow",
                     "value": "$media:ohos_moon_progress_fg_circle_shadow"
+                },
+                {
+                    "name": "radio_tick_svg",
+                    "value": "$media:ohos_radio_tick"
+                },
+                {
+                    "name": "radio_dot_svg",
+                    "value": "$media:ohos_radio_dot"
                 }
             ]
         },
