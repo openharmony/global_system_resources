@@ -10160,6 +10160,11 @@
             "type": "string",
             "name": "ohos_id_text_fadeout_enable_default",
             "order": 2000
+        },
+        {
+            "type": "float",
+            "name": "alert_title_alignment",
+            "order": 2001
         }
     ]
 }
