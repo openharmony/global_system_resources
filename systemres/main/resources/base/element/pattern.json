@@ -1122,6 +1122,10 @@
                 {
                     "name": "chain_damping",
                     "value": "$float:ohos_id_chain_damping"
+                },
+                {
+                    "name": "list_fadeout_enable",
+                    "value": "$string:ohos_id_list_fadeout_enable_default"
                 }
             ]
         },
@@ -5316,7 +5320,7 @@
                 },
                 {
                     "name": "popup_title_color",
-                    "value": "#00ffffff"
+                    "value": "$color:ohos_id_color_button_normal"
                 },
                 {
                     "name": "popup_unclicked_bg_area_color",
@@ -5324,7 +5328,7 @@
                 },
                 {
                     "name": "popup_background_color_api_twelve",
-                    "value": "#00ffffff"
+                    "value": "#66808080"
                 },
                 {
                     "name": "hover_text_size_api_twelve",

@@ -307,6 +307,13 @@ ohos_prebuilt_etc("HarmonyOS_Sans_SC_Thin") {
   part_name = "ace_engine"
 }
 
+ohos_prebuilt_etc("HarmonyOS_SansSC_Semibold") {
+  source = "fonts/HarmonyOS_SansSC_Semibold.ttf"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
 ohos_prebuilt_etc("HarmonyOS_Sans_TC_Black") {
   source = "fonts/HarmonyOS_Sans_TC_Black.ttf"
   module_install_dir = "fonts"
@@ -502,6 +509,7 @@ group("ohos_fonts") {
     ":HMSymbol-Regular",
     ":HMSymbol-SemiBold",
     ":HMSymbol-Thin",
+    ":HarmonyOS_SansSC_Semibold",
     ":HarmonyOS_Sans_Black",
     ":HarmonyOS_Sans_Black_Italic",
     ":HarmonyOS_Sans_Bold",
