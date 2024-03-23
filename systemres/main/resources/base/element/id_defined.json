@@ -10165,6 +10165,36 @@
             "type": "string",
             "name": "ohos_id_list_fadeout_enable_default",
             "order": 2001
+        },
+        {
+            "type": "float",
+            "name": "alignment_start",
+            "order": 2002
+        },
+        {
+            "type": "float",
+            "name": "alignment_center",
+            "order": 2003
+        },
+        {
+            "type": "float",
+            "name": "alignment_end",
+            "order": 2004
+        },
+        {
+            "type": "float",
+            "name": "alignment_justify",
+            "order": 2005
+        },
+        {
+            "type": "float",
+            "name": "alert_title_alignment",
+            "order": 2006
+        },
+        {
+            "type": "color",
+            "name": "comp_background_list_card",
+            "order": 2007
         }
     ]
 }
