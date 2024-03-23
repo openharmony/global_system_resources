@@ -4790,6 +4790,10 @@
                     "value": "$float:ohos_id_outset_block_hot_region_size"
                 },
                 {
+                    "name": "none_block_hot_region_size",
+                    "value": "$float:ohos_id_none_block_hot_region_size"
+                },
+                {
                     "name": "block_color",
                     "value": "$color:ohos_id_color_foreground_contrary"
                 },
@@ -4800,6 +4804,10 @@
                 {
                     "name": "inset_track_thickness",
                     "value": "$float:ohos_id_inset_track_thickness"
+                },
+                {
+                    "name": "none_track_thickness",
+                    "value": "$float:ohos_id_none_track_thickness"
                 },
                 {
                     "name": "inset_block_size",

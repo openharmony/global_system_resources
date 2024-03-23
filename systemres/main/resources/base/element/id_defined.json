@@ -10195,6 +10195,16 @@
             "type": "color",
             "name": "comp_background_list_card",
             "order": 2007
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_none_block_hot_region_size",
+            "order": 2008
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_none_track_thickness",
+            "order": 2009
         }
     ]
 }
