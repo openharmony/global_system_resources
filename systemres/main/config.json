@@ -3086,6 +3086,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.READ_ACCOUNT_LOGIN_STATE",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.WRITE_ACCOUNT_LOGIN_STATE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.NOTIFY_DEBUG_ASSERT_RESULT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
