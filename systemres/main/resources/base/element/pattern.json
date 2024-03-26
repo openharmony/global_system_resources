@@ -5418,7 +5418,7 @@
                 },
                 {
                     "name": "app_bar_menu",
-                    "value": "$media:ohos_ic_public_more"
+                    "value": "$media:ohos_ic_public_more_filled"
                 },
                 {
                     "name": "app_bar_close",
@@ -5760,6 +5760,30 @@
                     "value": "$color:ohos_id_color_focused_outline"
                 },
                 {
+                    "name": "blur_color_light",
+                    "value": "#99FFFFFF"
+                },
+                {
+                    "name": "blur_color_dark",
+                    "value": "#99000000"
+                },
+                {
+                    "name": "divider_color_light",
+                    "value": "#33000000"
+                },
+                {
+                    "name": "divider_color_dark",
+                    "value": "#33FFFFFF"
+                },
+                {
+                    "name": "border_color_light",
+                    "value": "#33182431"
+                },
+                {
+                    "name": "border_color_dark",
+                    "value": "#4DFFFFFF"
+                },
+                {
                     "name": "menu_bar_width",
                     "value": "80.0vp"
                 },
@@ -5818,6 +5842,10 @@
                 {
                     "name": "icon_vertical_margin",
                     "value": "8.0vp"
+                },
+                {
+                    "name": "blur_radius",
+                    "value": "5.0vp"
                 }
             ]
         },
