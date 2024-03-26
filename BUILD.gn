@@ -496,6 +496,13 @@ ohos_prebuilt_etc("hm_symbol_config") {
   part_name = "ace_engine"
 }
 
+ohos_prebuilt_etc("hm_symbol_config_next") {
+  source = "fonts/hm_symbol_config_next.json"
+  module_install_dir = "fonts"
+  subsystem_name = "global"
+  part_name = "ace_engine"
+}
+
 group("ohos_fonts") {
   deps = [
     ":HMOSColorEmojiCompat",
@@ -567,6 +574,7 @@ group("ohos_fonts") {
     ":NotoSans_KR_Light",
     ":NotoSans_KR_Regular",
     ":hm_symbol_config",
+    ":hm_symbol_config_next",
   ]
 
   if (system_resources_support_ext) {

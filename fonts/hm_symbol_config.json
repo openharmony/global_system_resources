@@ -280,16 +280,16 @@
     },
     {
       "native_glyph_id": 7,
-      "symbol_glyph_id": 2,
+      "symbol_glyph_id": 7,
       "layers": [
         {
-          "components": [0,1,2]
+          "components": [0,1]
         },
         {
-          "components": [3]
+          "components": [2]
         },
 		{
-          "components": [4,5]
+          "components": [3]
         }
       ],
       "render_modes": [
@@ -299,11 +299,7 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [0],
-                  "mask_indexes": [1]
-                },
-                {
-                  "layer_indexes": [2]
+                  "layer_indexes": [0, 1, 2]
                 }
               ]
             }
@@ -315,11 +311,18 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [0],
-                  "mask_indexes": [1]
+                  "layer_indexes": [0]
                 }
               ],
-              "default_color": "#000000"
+              "default_color": "#191919"
+            },
+            {
+              "group_indexes": [
+                {
+                  "layer_indexes": [1]
+                }
+              ],
+              "default_color": "#64BB5C"
             },
             {
               "group_indexes": [
@@ -327,7 +330,7 @@
                   "layer_indexes": [2]
                 }
               ],
-              "default_color": "#64BB5C"
+              "default_color": "#FFFFFF"
             }
           ]
         },
@@ -337,19 +340,19 @@
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [0],
-                  "mask_indexes": [1]
+                  "layer_indexes": [0]
                 }
               ],
-              "fix_alpha": 0.5
+              "fix_alpha": 1
             },
             {
               "group_indexes": [
                 {
-                  "layer_indexes": [2]
+                  "layer_indexes": [1],
+				  "mask_indexes": [2]
                 }
               ],
-              "fix_alpha": 1
+              "fix_alpha": 0.5
             }
           ]
         }
