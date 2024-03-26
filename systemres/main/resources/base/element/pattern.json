@@ -4010,6 +4010,10 @@
                 {
                     "name": "text_fadeout_enable",
                     "value": "$string:ohos_id_text_fadeout_enable_default"
+                },
+                {
+                    "name": "textfield_show_handle",
+                    "value": "$string:ohos_textfield_show_handle"
                 }
             ]
         },

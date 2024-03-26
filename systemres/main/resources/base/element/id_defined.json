@@ -10252,6 +10252,11 @@
             "name": "ohos_radio_dot",
             "order": 2018,
             "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "ohos_textfield_show_handle",
+            "order": 2019
         }
     ]
 }
