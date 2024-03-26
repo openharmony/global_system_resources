@@ -3210,6 +3210,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name":"ohos.permission.ACCESS_SERVICE_NAVIGATION_INFO",
+                "grantMode":"system_grant",
+                "availableLevel":"normal",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
             }
         ]
     }
