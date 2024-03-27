@@ -194,6 +194,51 @@
                 {
                     "name": "role_warning",
                     "value": "$color:warning"
+                },
+				{
+                    "name": "role_warning",
+                    "value": "$color:ohos_id_color_warning"
+                },
+                {
+                    "name": "border_width",
+                    "value": "$float:ohos_id_width_border_button"
+                },
+                {
+                    "name": "border_color",
+                    "value": "$color:ohos_id_color_border_button"
+                },
+                {
+                    "name": "width_border_small",
+                    "value": "$float:ohos_id_width_border_small_button"
+                },
+                {
+                    "name": "color_border_small",
+                    "value": "$color:ohos_id_color_border_small_button"
+                },
+                {
+                    "name": "shadow_default",
+                    "value": "$float:ohos_id_shadow_default_button"
+                },
+                {
+                    "name": "shadow_focus",
+                    "value": "$float:ohos_id_shadow_focus_button"
+                },
+                {
+                    "name": "scale_focus",
+                    "value": "$float:ohos_id_scale_focus_button"
+                },
+                {
+                    "name": "emphasize_focus_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "padding_text",
+                    "value": "$float:ohos_id_padding_text_button"
+                },
+                {
+                    "name": "focus_bg_text",
+                    "value": "$color:ohos_id_color_focus_bg_text_button"
+>>>>>>> 28df847 (Button控件分层参数)
                 }
             ]
         },
