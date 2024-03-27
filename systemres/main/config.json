@@ -3194,6 +3194,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name":"ohos.permission.GET_PRIVACY_INDICATOR",
+                "grantMode":"system_grant",
+                "availableLevel":"system_basic",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
+            },
+            {
+                "name":"ohos.permission.SET_PRIVACY_INDICATOR",
+                "grantMode":"system_grant",
+                "availableLevel":"system_core",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
+            },
+            {
                 "name": "ohos.permission.CHANGE_BUNDLE_UNINSTALL_STATE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
