@@ -3230,6 +3230,24 @@
                 "distributedSceneEnable":false
             },
             {
+                "name":"ohos.permission.LAUNCH_SPAMSHIELD_PAGE",
+                "grantMode":"system_grant",
+                "availableLevel":"system_basic",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
+            },
+            {
+                "name":"ohos.permission.ACCESS_SPAMSHIELD_PAGE",
+                "grantMode":"system_grant",
+                "availableLevel":"system_basic",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
+            },
+            {
                 "name": "ohos.permission.CHANGE_BUNDLE_UNINSTALL_STATE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
