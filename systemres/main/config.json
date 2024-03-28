@@ -3203,6 +3203,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_STYLUS_EVENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name":"ohos.permission.ACCESS_SERVICE_NAVIGATION_INFO",
                 "grantMode":"system_grant",
                 "availableLevel":"normal",
