@@ -5,31 +5,31 @@
             "value": [
                 {
                     "name": "bg_color",
-                    "value": "$color:ohos_id_color_emphasize"
+                    "value": "$color:comp_background_emphasize"
                 },
                 {
                     "name": "bg_color_clicked_blend",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:interactive_click"
                 },
                 {
                     "name": "bg_color_hovered_blend",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:interactive_hover"
                 },
                 {
                     "name": "bg_color_disabled_alpha",
-                    "value": "$float:ohos_id_alpha_disabled"
+                    "value": "$float:interactive_disable"
                 },
                 {
                     "name": "text_color",
-                    "value": "$color:ohos_id_color_text_primary_contrary"
+                    "value": "$color:font_on_primary"
                 },
                 {
                     "name": "text_color_disabled_alpha",
-                    "value": "$float:ohos_id_alpha_disabled"
+                    "value": "$float:interactive_disable"
                 },
                 {
                     "name": "normal_text_color",
-                    "value": "$color:ohos_id_color_text_primary_activated"
+                    "value": "$color:font_emphasize"
                 },
                 {
                     "name": "download_button_text_color",
@@ -61,11 +61,11 @@
                 },
                 {
                     "name": "waiting_button_text_color",
-                    "value": "$color:ohos_id_color_foreground_contrary"
+                    "value": "$color:font_on_primary"
                 },
                 {
                     "name": "process_button_text_color",
-                    "value": "$color:ohos_id_color_text_primary_contrary"
+                    "value": "$color:font_on_primary"
                 },
                 {
                     "name": "border_color",
@@ -81,15 +81,15 @@
                 },
                 {
                     "name": "button_bg_color",
-                    "value": "$color:ohos_id_color_emphasize"
+                    "value": "$color:comp_background_emphasize"
                 },
                 {
                     "name": "button_bg_focus_color",
-                    "value": "$color:ohos_id_color_button_normal"
+                    "value": "$color:comp_background_tertiary"
                 },
                 {
                     "name": "button_text_color",
-                    "value": "$color:ohos_id_color_foreground_contrary"
+                    "value": "$color:font_on_primary"
                 },
                 {
                     "name": "button_text_focus_color",
@@ -97,7 +97,7 @@
                 },
                 {
                     "name": "button_font_size",
-                    "value": "$float:ohos_id_text_size_button1"
+                    "value": "$float:Body_L"
                 },
                 {
                     "name": "button_font_weight",
@@ -177,15 +177,15 @@
                 },
                 {
                     "name": "bg_color_normal",
-                    "value": "$color:ohos_id_color_button_normal"
+                    "value": "$color:comp_background_tertiary"
                 },
                 {
                     "name": "emphasize_button_text_color",
-                    "value": "$color:ohos_id_color_foreground_contrary"
+                    "value": "$color:font_on_primary"
                 },
                 {
                     "name": "small_button_font_size",
-                    "value": "$float:ohos_id_text_size_button3"
+                    "value": "$float:Body_S"
                 },
                 {
                     "name": "small_button_height",
@@ -193,7 +193,7 @@
                 },
                 {
                     "name": "role_warning",
-                    "value": "$color:ohos_id_color_warning"
+                    "value": "$color:warning"
                 }
             ]
         },
