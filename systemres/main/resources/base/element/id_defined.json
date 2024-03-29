@@ -7648,7 +7648,8 @@
             "name": "ohos_id_background_secondary",
             "order": 1498
         },
-        {   "type": "string",
+        {
+            "type": "string",
             "name": "ohos_id_popup_double_border_enable_default",
             "order": 1499
         },
@@ -8749,22 +8750,22 @@
             "order": 1718,
             "flags": "private"
         },
-		{
+        {
             "type": "media",
             "name": "ohos_ic_public_add_norm_filled",
             "order": 1719
         },
-		{
+        {
             "type": "media",
             "name": "ohos_ic_public_remove_filled",
             "order": 1720
         },
-		{
+        {
             "type": "media",
             "name": "ohos_ic_public_edit",
             "order": 1721
         },
-		{
+        {
             "type": "media",
             "name": "ohos_ic_public_fail",
             "order": 1722
@@ -9993,7 +9994,7 @@
             "type": "media",
             "name": "ohos_moon_progress_fg_circle_shadow",
             "order": 1967,
-            "flags":"private"
+            "flags": "private"
         },
         {
             "type": "color",
@@ -10150,7 +10151,7 @@
             "name": "titlebar_icon_background_focus_outline_weight",
             "order": 1998
         },
-	{
+        {
             "type": "color",
             "name": "titlebar_title_tertiary_color",
             "order": 1999
@@ -10316,6 +10317,37 @@
             "type": "media",
             "name": "ohos_user_auth_icon_fingerprint",
             "order": 2031
+        },
+        {
+
+            "type": "float",
+            "name": "ohos_id_width_border_dialog",
+            "order": 2032
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_border_dialog",
+            "order": 2033
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_align_dialog_title",
+            "order": 2034
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_align_dialog_content",
+            "order": 2035
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_min_width_dialog",
+            "order": 2036
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_radio_height_dialog",
+            "order": 2037
         }
     ]
 }
