@@ -68,14 +68,6 @@
                     "value": "$color:font_on_primary"
                 },
                 {
-                    "name": "border_color",
-                    "value": "#00ffffff"
-                },
-                {
-                    "name": "border_width",
-                    "value": "0.0vp"
-                },
-                {
                     "name": "button_radius",
                     "value": "$float:ohos_id_corner_radius_button"
                 },
@@ -233,12 +225,27 @@
                 },
                 {
                     "name": "padding_text",
-                    "value": "$float:ohos_id_padding_text_button"
+                    "value": "$float:ohos_id_button_inner_padding"
                 },
                 {
                     "name": "focus_bg_text",
                     "value": "$color:ohos_id_color_focus_bg_text_button"
->>>>>>> 28df847 (Button控件分层参数)
+                },
+                {
+                    "name": "text_button_text_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "emphasize_button_text_focus_color",
+                    "value": "$color:ohos_id_color_foreground_contrary"
+                },
+                {
+                    "name": "normal_button_text_focus_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "text_button_text_focus_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
                 }
             ]
         },
