@@ -4735,6 +4735,14 @@
                 {
                     "name": "menu_inner_border_color",
                     "value": "$color:ohos_id_menu_inner_border_color"
+                },
+                {
+                    "name": "menu_large_margin",
+                    "value": "$float:ohos_id_elements_margin_horizontal_l"
+                },
+                {
+                    "name": "menu_medium_margin",
+                    "value": "$float:ohos_id_elements_margin_horizontal_m"
                 }
             ]
         },
