@@ -10261,6 +10261,51 @@
             "type": "float",
             "name": "ohos_id_bottomtab_height",
             "order": 2020
-        }
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_border_button",
+            "order": 2021
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_shadow_focus_button",
+            "order": 2022
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_width_border_small_button",
+            "order": 2023
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_border_small_button",
+            "order": 2024
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_default_button",
+            "order": 2025
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_focus_button",
+            "order": 2026
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_scale_focus_button",
+            "order": 2027
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_width_border_button",
+            "order": 2028
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_focus_bg_text_button",
+            "order": 2029
+	}
     ]
 }

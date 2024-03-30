@@ -68,14 +68,6 @@
                     "value": "$color:font_on_primary"
                 },
                 {
-                    "name": "border_color",
-                    "value": "#00ffffff"
-                },
-                {
-                    "name": "border_width",
-                    "value": "0.0vp"
-                },
-                {
                     "name": "button_radius",
                     "value": "$float:ohos_id_corner_radius_button"
                 },
@@ -194,6 +186,62 @@
                 {
                     "name": "role_warning",
                     "value": "$color:warning"
+                },
+                {
+                    "name": "border_width",
+                    "value": "$float:ohos_id_width_border_button"
+                },
+                {
+                    "name": "border_color",
+                    "value": "$color:ohos_id_color_border_button"
+                },
+                {
+                    "name": "width_border_small",
+                    "value": "$float:ohos_id_width_border_small_button"
+                },
+                {
+                    "name": "color_border_small",
+                    "value": "$color:ohos_id_color_border_small_button"
+                },
+                {
+                    "name": "shadow_default",
+                    "value": "$float:ohos_id_shadow_default_button"
+                },
+                {
+                    "name": "shadow_focus",
+                    "value": "$float:ohos_id_shadow_focus_button"
+                },
+                {
+                    "name": "scale_focus",
+                    "value": "$float:ohos_id_scale_focus_button"
+                },
+                {
+                    "name": "emphasize_focus_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "padding_text",
+                    "value": "$float:ohos_id_button_inner_padding"
+                },
+                {
+                    "name": "focus_bg_text",
+                    "value": "$color:ohos_id_color_focus_bg_text_button"
+                },
+                {
+                    "name": "text_button_text_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "emphasize_button_text_focus_color",
+                    "value": "$color:ohos_id_color_foreground_contrary"
+                },
+                {
+                    "name": "normal_button_text_focus_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "text_button_text_focus_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
                 }
             ]
         },
