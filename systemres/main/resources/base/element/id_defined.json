@@ -10372,6 +10372,31 @@
             "type": "float",
             "name": "ohos_id_show_icon_text_input",
             "order": 2042
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_size_focused_bg_checkbox",
+            "order": 2043
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_focused_bg_checkbox",
+            "order": 2044
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_focused_border_color_unselected_checkbox",
+            "order": 2045
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_focused_bg_color_unselected_checkbox",
+            "order": 2046
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_device_columns_dialog",
+            "order": 2047
         }
     ]
 }
