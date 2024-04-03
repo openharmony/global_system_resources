@@ -4090,6 +4090,30 @@
                 {
                     "name": "textfield_show_handle",
                     "value": "$string:ohos_textfield_show_handle"
+                },
+                {
+                    "name": "text_input_border_width",
+                    "value": "$float:ohos_id_width_border_text_input"
+                },
+                {
+                    "name": "text_input_border_color",
+                    "value": "$color:ohos_id_color_border_text_input"
+                },
+                {
+                    "name": "error_text_input_border_width",
+                    "value": "$float:ohos_id_width_border_error_text_input"
+                },
+                {
+                    "name": "text_input_and_error_tips_spacing",
+                    "value": "$float:ohos_id_padding_error_tips_text_input"
+                },
+                {
+                    "name": "textinput_default_height",
+                    "value": "$float:ohos_id_textfield_height"
+                },
+                {
+                    "name": "show_icon_text_input",
+                    "value": "$float:ohos_id_show_icon_text_input"
                 }
             ]
         },
