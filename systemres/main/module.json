@@ -1,27 +1,10 @@
 {
-    "app": {
-        "bundleName": "ohos.global.systemres",
-        "icon": "$media:ohos_app_icon",
-        "label": "$string:ohos_app_name",
-        "singleton": true,
-        "vendor": "ohos",
-        "version": {
-            "code": 2,
-            "name": "2.0.0.1"
-        },
-        "apiVersion": {
-            "compatible": 3,
-            "target": 3
-        }
-    },
-    "deviceConfig": {
-        "default": {
-        }
-    },
     "module": {
         "package": "ohos.global.systemres",
+        "name": "entry",
+        "type": "entry",
         "generateBuildHash":true,
-        "deviceType": [
+        "deviceTypes": [
             "default",
             "tv",
             "car",
@@ -29,11 +12,8 @@
             "tablet",
             "2in1"
         ],
-        "distro": {
-            "deliveryWithInstall": true,
-            "moduleName": "entry",
-            "moduleType": "entry"
-        },
+        "deliveryWithInstall": true,
+        "installationFree": false,
         "definePermissions": [
             {
                 "name": "ohos.permission.ANSWER_CALL",

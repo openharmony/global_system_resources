@@ -14,14 +14,20 @@
 import("//build/ohos.gni")
 import("../systemres.gni")
 
+ohos_app_scope("main_app_res") {
+  app_profile = "AppScope/app.json"
+  sources = [ "AppScope/resources" ]
+}
+
 ohos_resources("main_res") {
   sources = [ "main/resources" ]
-  hap_profile = "./main/config.json"
+  deps = [ ":main_app_res" ]
+  hap_profile = "./main/module.json"
 }
 
 ohos_hap("systemres_hap") {
   deps = [ ":main_res" ]
-  hap_profile = "./main/config.json"
+  hap_profile = "./main/module.json"
   hap_name = "SystemResources"
   module_install_dir = "app/ohos.global.systemres"
   certificate_profile = "./SystemResources.p7b"
