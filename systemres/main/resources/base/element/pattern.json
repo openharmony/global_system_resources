@@ -1804,8 +1804,36 @@
                     "value": "$float:ohos_id_corner_radius_dialog"
                 },
                 {
+                    "name": "dialog_container_radius",
+                    "value": "$float:alert_container_shape"
+                },
+                {
                     "name": "bg_color",
                     "value": "$color:ohos_id_color_dialog_bg"
+                },
+                {
+                    "name": "bg_color_version_twelve",
+                    "value": "$color:comp_background_primary"
+                },
+                {
+                    "name": "dialog_container_max_width",
+                    "value": "$float:alert_container_max_width"
+                },
+                {
+                    "name": "dialog_container_margin_left",
+                    "value": "$float:margin_left"
+                },
+                {
+                    "name": "dialog_container_margin_right",
+                    "value": "$float:margin_right"
+                },
+                {
+                    "name": "dialog_background_shadow_on",
+                    "value": "$float:ohos_id_dialog_background_shadow_on"
+                },
+                {
+                    "name": "dialog_background_shadow_off",
+                    "value": "$float:ohos_id_dialog_background_shadow_off"
                 },
                 {
                     "name": "border_color",
