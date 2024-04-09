@@ -10442,6 +10442,51 @@
             "type": "symbol",
             "name": "pause",
             "order": 2056
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_default_shadow_none",
+            "order": 2057
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_default_shadow_xs",
+            "order": 2058
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_default_shadow_s",
+            "order": 2059
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_default_shadow_m",
+            "order": 2060
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_default_shadow_l",
+            "order": 2061
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_floating_shadow_s",
+            "order": 2062
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_floating_shadow_m",
+            "order": 2063
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_background_shadow_on",
+            "order": 2064
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_background_shadow_off",
+            "order": 2065
         }
     ]
 }
