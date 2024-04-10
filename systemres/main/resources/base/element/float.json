@@ -25,6 +25,10 @@
             "value": "0.6"
         },
         {
+            "name": "ohos_id_padding_dot_swiper",
+            "value": "12.0vp"
+        },
+        {
             "name": "ohos_id_alpha_content_tertiary",
             "value": "0.4"
         },
@@ -294,7 +298,7 @@
         },
         {
             "name": "ohos_id_text_align_dialog_title",
-            "value": "1.0"
+            "value": "0.0"
         },
         {
             "name": "ohos_id_device_columns_dialog",
@@ -302,7 +306,7 @@
         },
         {
             "name": "ohos_id_text_align_dialog_content",
-            "value": "1.0"
+            "value": "0.0"
         },
         {
             "name": "ohos_id_text_size_body3",
@@ -481,11 +485,7 @@
             "value": "12.0vp"
         },
         {
-            "name": "ohos_id_min_width_dialog",
-            "value": "365.0vp"
-        },
-        {
-            "name": "ohos_id_radio_height_dialog",
+            "name": "ohos_id_ratio_height_dialog",
             "value": "0.8"
         },
         {
@@ -3295,6 +3295,34 @@
         {
             "name": "ohos_id_floating_shadow_m",
             "value": "5"
+        },
+        {
+            "name": "ohos_id_button_focus_border_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "ohos_id_button_focus_effect_type",
+            "value": "0.0"
+        },
+        {
+            "name": "ohos_id_button_default_light_illiminated",
+            "value": "0.0"
+        },
+        {
+            "name": "ohos_id_linear_focus_border_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "ohos_id_linear_focus_effect_type",
+            "value": "0.0"
+        },
+        {
+            "name": "ohos_id_stack_focus_border_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "ohos_id_stack_focus_effect_type",
+            "value": "0.0"
         }
     ]
 }
