@@ -242,6 +242,22 @@
                 {
                     "name": "text_button_text_focus_color",
                     "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "button_focus_border_color",
+                    "value": "$color:ohos_id_button_focus_border_color"
+                },
+                {
+                    "name": "button_focus_border_width",
+                    "value": "$float:ohos_id_button_focus_border_width"
+                },
+                {
+                    "name": "button_focus_effect_type",
+                    "value": "$float:ohos_id_button_focus_effect_type"
+                },
+                {
+                    "name": "button_default_light_illiminated",
+                    "value": "$float:ohos_id_button_default_light_illiminated"
                 }
             ]
         },
@@ -6792,6 +6808,40 @@
                 {
                     "name": "shadow_style_floating_md_color_dark",
                     "value": "$color:ohos_id_shadow_floating_md_dark"
+                }
+            ]
+        },
+        {
+            "name": "ohos_linear_layout_pattern",
+            "value": [
+                {
+                    "name": "linear_focus_border_color",
+                    "value": "$color:ohos_id_linear_focus_border_color"
+                },
+                {
+                    "name": "linear_focus_border_width",
+                    "value": "$float:ohos_id_linear_focus_border_width"
+                },
+                {
+                    "name": "linear_focus_effect_type",
+                    "value": "$float:ohos_id_linear_focus_effect_type"
+                }
+            ]
+        },
+        {
+            "name": "ohos_stack_pattern",
+            "value": [
+                {
+                    "name": "stack_focus_border_color",
+                    "value": "$color:ohos_id_stack_focus_border_color"
+                },
+                {
+                    "name": "stack_focus_border_width",
+                    "value": "$float:ohos_id_stack_focus_border_width"
+                },
+                {
+                    "name": "stack_focus_effect_type",
+                    "value": "$float:ohos_id_stack_focus_effect_type"
                 }
             ]
         }

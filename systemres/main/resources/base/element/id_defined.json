@@ -10487,6 +10487,68 @@
             "type": "float",
             "name": "ohos_id_dialog_background_shadow_off",
             "order": 2065
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_linear_layout_pattern",
+            "order": 2066,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_stack_pattern",
+            "order": 2067,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_button_focus_border_color",
+            "order": 2068
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_focus_border_width",
+            "order": 2069
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_focus_effect_type",
+            "order": 2070
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_button_default_light_illiminated",
+            "order": 2071
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_linear_focus_border_color",
+            "order": 2072
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_linear_focus_border_width",
+            "order": 2073
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_linear_focus_effect_type",
+            "order": 2074
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_stack_focus_border_color",
+            "order": 2075
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_stack_focus_border_width",
+            "order": 2076
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_stack_focus_effect_type",
+            "order": 2077
         }
     ]
 }
