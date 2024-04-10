@@ -3381,6 +3381,15 @@
                 "deprecated":"",
                 "provisionEnable":true,
                 "distributedSceneEnable":false
+            },
+            {
+                "name":"ohos.permission.SET_PROCESS_CACHE_STATE",
+                "grantMode":"system_grant",
+                "availableLevel":"system_basic",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
             }
         ]
     }
