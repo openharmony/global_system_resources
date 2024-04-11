@@ -2080,8 +2080,8 @@
                     "value": "$float:ohos_id_device_columns_dialog"
                 },
                 {
-                    "name": "dialog_radio_height",
-                    "value": "$float:ohos_id_radio_height_dialog"
+                    "name": "dialog_ratio_height",
+                    "value": "$float:ohos_id_ratio_height_dialog"
                 },
                 {
                     "name": "dialog_dimension_end",
@@ -3535,6 +3535,10 @@
                 {
                     "name": "indicator_text_font_size",
                     "value": "$float:ohos_id_text_size_body2"
+                },
+                {
+                    "name": "indicator_padding_dot",
+                    "value": "$float:ohos_id_padding_dot_swiper"
                 },
                 {
                     "name": "indicator_text_font_color",

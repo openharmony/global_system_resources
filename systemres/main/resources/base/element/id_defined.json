@@ -10345,7 +10345,7 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_radio_height_dialog",
+            "name": "ohos_id_ratio_height_dialog",
             "order": 2037
         },
         {
@@ -10549,6 +10549,11 @@
             "type": "float",
             "name": "ohos_id_stack_focus_effect_type",
             "order": 2077
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_padding_dot_swiper",
+            "order": 2078
         }
     ]
 }
