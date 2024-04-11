@@ -10694,6 +10694,46 @@
             "type": "media",
             "name": "ohos_ic_public_more_filled",
             "order": 2106
+	},
+	{
+	    "type": "color",
+            "name": "ohos_id_color_focus_board_switch",
+            "order": 2107
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_width_border_switch",
+            "order": 2108
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_border_switch",
+            "order": 2109
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_border_status_button_checked",
+            "order": 2110
+	    },
+        {
+            "type": "color",
+            "name": "ohos_id_color_border_status_button_unchecked",
+            "order": 2111
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_bgcolor_focus_status_button_unchecked",
+            "order": 2112
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_bgcolor_focus_status_button_checked",
+            "order": 2113
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_text_color_focus_status_button",
+            "order": 2114
         }
     ]
 }
