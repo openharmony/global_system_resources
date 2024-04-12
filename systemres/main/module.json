@@ -3307,6 +3307,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.INPUT_INFRARED_EMITTE",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
