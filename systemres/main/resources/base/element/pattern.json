@@ -1502,6 +1502,14 @@
                     "value": "$color:ohos_id_color_focused_outline"
                 },
                 {
+                    "name": "size_focused_bg",
+                    "value": "$float:ohos_id_size_focused_bg_radio"
+                },
+                {
+                    "name": "color_focused_bg",
+                    "value": "$color:ohos_id_color_focused_bg_radio"
+                },
+                {
                     "name": "hover_border_color",
                     "value": "$color:ohos_id_color_hover"
                 },
