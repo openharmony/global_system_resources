@@ -3320,6 +3320,14 @@
                 {
                     "name": "scroll_bar_foreground_opacity",
                     "value": "$float:ohos_id_alpha_content_tertiary"
+                },
+                {
+                    "name": "scroll_bar_default_width",
+                    "value": "16.0vp"
+                },
+                {
+                    "name": "scroll_bar_default_height",
+                    "value": "16.0vp"
                 }
             ]
         },
