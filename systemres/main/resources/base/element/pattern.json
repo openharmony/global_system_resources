@@ -3901,6 +3901,10 @@
                 {
                     "name": "text_fadeout_enable",
                     "value": "$string:ohos_id_text_fadeout_enable_default"
+                },
+                {
+                    "name": "text_fadeout_width",
+                    "value": "$float:ohos_id_text_fadeout_width"
                 }
             ]
         },
