@@ -4400,6 +4400,38 @@
                 {
                     "name": "toast_text_max_lines",
                     "value": "$float:ohos_id_toast_text_max_lines"
+                },
+                {
+                    "name": "toast_border_radius_level9",
+                    "value": "$float:corner_radius_level9"
+                },
+                {
+                    "name": "toast_padding_level8",
+                    "value": "$float:padding_level8"
+                },
+                {
+                    "name": "toast_padding_level4",
+                    "value": "$float:padding_level4"
+                },
+                {
+                    "name": "toast_Body_M",
+                    "value": "$float:Body_M"
+                },
+                {
+                    "name": "toast_font_primary",
+                    "value": "$color:font_primary"
+                },
+                {
+                    "name": "toast_font_weight_regular",
+                    "value": "$float:font_weight_regular"
+                },
+                {
+                    "name": "toast_margin_left",
+                    "value": "$float:margin_left"
+                },
+                {
+                    "name": "toast_margin_right",
+                    "value": "$float:margin_right"
                 }
             ]
         },
