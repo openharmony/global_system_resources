@@ -5111,6 +5111,38 @@
                 {
                     "name": "menu_medium_margin",
                     "value": "$float:ohos_id_elements_margin_horizontal_m"
+                },
+                {
+                    "name": "menu_border_color",
+                    "value": "$color:ohos_id_color_border_menu"
+                },
+                {
+                    "name": "menu_border_width",
+                    "value": "$float:ohos_id_width_border_menu"
+                },
+                {
+                    "name": "menu_item_focused_bg_color",
+                    "value": "$color:ohos_id_color_focused_bg_menu_item"
+                },
+                {
+                    "name": "menu_item_focused_text_color",
+                    "value": "$color:ohos_id_color_focused_text_menu_item"
+                },
+                {
+                    "name": "menu_item_focused_shadow_style",
+                    "value": "$float:ohos_id_shadow_focused_menu_item"
+                },
+                {
+                    "name": "menu_item_top_bottom_margin",
+                    "value": "$float:ohos_id_menu_item_top_bottom_margin"
+                },
+                {
+                    "name": "menu_target_security_space",
+                    "value": "$float:ohos_id_target_security_space_menu"
+                },
+                {
+                    "name": "menu_item_content_align",
+                    "value": "$float:ohos_id_content_align_menu_item"
                 }
             ]
         },
