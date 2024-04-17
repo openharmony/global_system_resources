@@ -10554,6 +10554,21 @@
             "type": "float",
             "name": "ohos_id_padding_dot_swiper",
             "order": 2078
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_focused_bg_radio",
+            "order": 2079
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_size_focused_bg_radio",
+            "order": 2080
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_fadeout_width",
+            "order": 2081
         }
     ]
 }

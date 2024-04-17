@@ -1502,6 +1502,14 @@
                     "value": "$color:ohos_id_color_focused_outline"
                 },
                 {
+                    "name": "size_focused_bg",
+                    "value": "$float:ohos_id_size_focused_bg_radio"
+                },
+                {
+                    "name": "color_focused_bg",
+                    "value": "$color:ohos_id_color_focused_bg_radio"
+                },
+                {
                     "name": "hover_border_color",
                     "value": "$color:ohos_id_color_hover"
                 },
@@ -3312,6 +3320,14 @@
                 {
                     "name": "scroll_bar_foreground_opacity",
                     "value": "$float:ohos_id_alpha_content_tertiary"
+                },
+                {
+                    "name": "scroll_bar_default_width",
+                    "value": "16.0vp"
+                },
+                {
+                    "name": "scroll_bar_default_height",
+                    "value": "16.0vp"
                 }
             ]
         },
@@ -3885,6 +3901,10 @@
                 {
                     "name": "text_fadeout_enable",
                     "value": "$string:ohos_id_text_fadeout_enable_default"
+                },
+                {
+                    "name": "text_fadeout_width",
+                    "value": "$float:ohos_id_text_fadeout_width"
                 }
             ]
         },
@@ -4328,6 +4348,10 @@
                 {
                     "name": "text_color",
                     "value": "$color:ohos_id_color_text_primary_contrary"
+                },
+                {
+                    "name": "text_color_blur_style",
+                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "bg_color",
