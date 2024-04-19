@@ -3419,9 +3419,9 @@
                 "distributedSceneEnable":false
             },
             {
-                "name":"ohos.permission.MANAGE_SETTINGS",
+                "name":"ohos.permission.ACCESS_SYSTEM_APP_CERT",
                 "grantMode":"system_grant",
-                "availableLevel":"system_basic",
+                "availableLevel":"system_core",
                 "since":12,
                 "deprecated":"",
                 "provisionEnable":true,
