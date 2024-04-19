@@ -1794,7 +1794,7 @@
         },
         {
             "name": "ohos_id_text_overlay_menu_spacing_with_text",
-            "value": "4.0vp"
+            "value": "8.0vp"
         },
         {
             "name": "ohos_id_text_overlay_menu_button_width",
@@ -3331,6 +3331,10 @@
         {
             "name": "ohos_id_text_fadeout_width",
             "value": "16.0vp"
+        },
+        {
+            "name": "dialog_divider_show",
+            "value": "1"
         }
     ]
 }
