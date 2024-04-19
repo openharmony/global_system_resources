@@ -1900,7 +1900,7 @@
             {
                 "name": "ohos.permission.ACCESS_CERT_MANAGER_INTERNAL",
                 "grantMode": "system_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "system_core",
                 "since": 9,
                 "deprecated": "",
                 "provisionEnable": true,
@@ -3413,6 +3413,24 @@
                 "name":"ohos.permission.PRELOAD_UI_EXTENSION_ABILITY",
                 "grantMode":"system_grant",
                 "availableLevel":"system_basic",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
+            },
+            {
+                "name":"ohos.permission.ACCESS_SYSTEM_APP_CERT",
+                "grantMode":"system_grant",
+                "availableLevel":"system_core",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
+            },
+            {
+                "name":"ohos.permission.ACCESS_USER_TRUSTED_CERT",
+                "grantMode":"system_grant",
+                "availableLevel":"system_core",
                 "since":12,
                 "deprecated":"",
                 "provisionEnable":true,
