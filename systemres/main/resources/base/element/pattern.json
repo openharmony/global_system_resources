@@ -4218,6 +4218,14 @@
                 {
                     "name": "show_icon_text_input",
                     "value": "$float:ohos_id_show_icon_text_input"
+                },
+                {
+                    "name": "preview_underline_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "preview_board_color",
+                    "value": "$color:ohos_id_color_component_normal"
                 }
             ]
         },
