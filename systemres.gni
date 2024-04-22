@@ -22,68 +22,36 @@ systemres_ext_path = "//vendor/${product_company}/base/global/system_resources"
 
 fonts_list = [
   {
-    font_name = "HarmonyOS_Sans_Black"
-    font_path = "fonts/HarmonyOS_Sans_Black.ttf"
+    font_name = "HarmonyOS_Sans"
+    font_path = "fonts/HarmonyOS_Sans.ttf"
   },
   {
-    font_name = "HarmonyOS_Sans_Black_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Black_Italic.ttf"
+    font_name = "HarmonyOS_Sans_Italic"
+    font_path = "fonts/HarmonyOS_Sans_Italic.ttf"
   },
   {
-    font_name = "HarmonyOS_Sans_Bold"
-    font_path = "fonts/HarmonyOS_Sans_Bold.ttf"
+    font_name = "HarmonyOS_Sans_Condensed"
+    font_path = "fonts/HarmonyOS_Sans_Condensed.ttf"
   },
   {
-    font_name = "HarmonyOS_Sans_Bold_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Bold_Italic.ttf"
+    font_name = "HarmonyOS_Sans_Condensed_Italic"
+    font_path = "fonts/HarmonyOS_Sans_Condensed_Italic.ttf"
   },
   {
-    font_name = "HarmonyOS_Sans_Condensed_Black"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Black.ttf"
+    font_name = "HarmonyOS_Sans_Naskh_Arabic"
+    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic.ttf"
   },
   {
-    font_name = "HarmonyOS_Sans_Condensed_Black_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Black_Italic.ttf"
+    font_name = "HarmonyOS_Sans_Naskh_Arabic_UI"
+    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI.ttf"
   },
   {
-    font_name = "HarmonyOS_Sans_Condensed_Bold"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Bold.ttf"
+    font_name = "HarmonyOS_Sans_SC"
+    font_path = "fonts/HarmonyOS_Sans_SC.ttf"
   },
   {
-    font_name = "HarmonyOS_Sans_Condensed_Bold_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Bold_Italic.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Condensed_Light"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Light.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Condensed_Light_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Light_Italic.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Condensed_Medium"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Medium.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Condensed_Medium_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Medium_Italic.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Condensed_Regular"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Regular.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Condensed_Regular_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Regular_Italic.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Condensed_Thin"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Thin.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Condensed_Thin_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Condensed_Thin_Italic.ttf"
+    font_name = "HarmonyOS_Sans_TC"
+    font_path = "fonts/HarmonyOS_Sans_TC.ttf"
   },
   {
     font_name = "HarmonyOS_Sans_Digit"
@@ -92,138 +60,6 @@ fonts_list = [
   {
     font_name = "HarmonyOS_Sans_Digit_Medium"
     font_path = "fonts/HarmonyOS_Sans_Digit_Medium.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Light"
-    font_path = "fonts/HarmonyOS_Sans_Light.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Light_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Light_Italic.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Medium"
-    font_path = "fonts/HarmonyOS_Sans_Medium.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Medium_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Medium_Italic.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_UI_Black"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Black.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_Black"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_Black.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_UI_Bold"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Bold.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_Bold"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_Bold.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_UI_Light"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Light.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_Light"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_Light.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_UI_Medium"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Medium.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_Medium"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_Medium.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_UI_Regular"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Regular.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_Regular"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_Regular.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_UI_Thin"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI_Thin.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Naskh_Arabic_Thin"
-    font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_Thin.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Regular"
-    font_path = "fonts/HarmonyOS_Sans_Regular.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Regular_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Regular_Italic.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_SC_Black"
-    font_path = "fonts/HarmonyOS_Sans_SC_Black.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_SC_Bold"
-    font_path = "fonts/HarmonyOS_Sans_SC_Bold.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_SC_Light"
-    font_path = "fonts/HarmonyOS_Sans_SC_Light.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_SC_Medium"
-    font_path = "fonts/HarmonyOS_Sans_SC_Medium.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_SC_Regular"
-    font_path = "fonts/HarmonyOS_Sans_SC_Regular.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_SC_Thin"
-    font_path = "fonts/HarmonyOS_Sans_SC_Thin.ttf"
-  },
-  {
-    font_name = "HarmonyOS_SansSC_Semibold"
-    font_path = "fonts/HarmonyOS_SansSC_Semibold.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_TC_Black"
-    font_path = "fonts/HarmonyOS_Sans_TC_Black.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_TC_Bold"
-    font_path = "fonts/HarmonyOS_Sans_TC_Bold.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_TC_Light"
-    font_path = "fonts/HarmonyOS_Sans_TC_Light.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_TC_Medium"
-    font_path = "fonts/HarmonyOS_Sans_TC_Medium.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_TC_Regular"
-    font_path = "fonts/HarmonyOS_Sans_TC_Regular.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_TC_Thin"
-    font_path = "fonts/HarmonyOS_Sans_TC_Thin.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Thin"
-    font_path = "fonts/HarmonyOS_Sans_Thin.ttf"
-  },
-  {
-    font_name = "HarmonyOS_Sans_Thin_Italic"
-    font_path = "fonts/HarmonyOS_Sans_Thin_Italic.ttf"
   },
   {
     font_name = "HMOSColorEmojiCompat"
