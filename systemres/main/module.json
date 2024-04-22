@@ -3462,6 +3462,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": true
+            },
+            {
+                "name": "ohos.permission.ACCESS_TEXTAUTOFILL_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
