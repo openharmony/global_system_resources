@@ -1836,6 +1836,26 @@
                     "value": "$float:ohos_id_corner_radius_dialog"
                 },
                 {
+                    "name": "padding_top_title",
+                    "value": "$float:ohos_id_padding_top_title_dialog"
+                },
+                {
+                    "name": "padding_single_title",
+                    "value": "$float:ohos_id_padding_single_title_dialog"
+                },
+                {
+                    "name": "color_bg_with_blur",
+                    "value": "$color:ohos_id_color_bg_with_blur_dialog"
+                },
+                {
+                    "name": "shadow_dialog",
+                    "value": "$float:ohos_id_shadow_dialog"
+                },
+                {
+                    "name": "align_dialog",
+                    "value": "$float:ohos_id_align_dialog"
+                },
+                {
                     "name": "dialog_container_radius",
                     "value": "$float:alert_container_shape"
                 },
