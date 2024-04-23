@@ -3471,6 +3471,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name":"ohos.permission.KILL_APP_PROCESSES",
+                "grantMode":"system_grant",
+                "availableLevel":"system_basic",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
             }
         ]
     }
