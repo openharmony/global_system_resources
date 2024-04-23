@@ -2194,6 +2194,26 @@
                 {
                     "name": "dialog_buttonwithcontent_padding",
                     "value": "$float:ohos_id_dialog_buttonwithcontent_padding"
+                },
+                {
+                    "name": "dialog_alignment",
+                    "value": "$float:ohos_id_dialog_alignment"
+                },
+                {
+                    "name": "dialog_maxsize_scale_landscape",
+                    "value": "$float:ohos_id_dialog_maxsize_scale_landscape"
+                },
+                {
+                    "name": "dialog_maxsize_scale_portrait",
+                    "value": "$float:ohos_id_dialog_maxsize_scale_portrait"
+                },
+                {
+                    "name": "dialog_scroll_flex_align",
+                    "value": "$float:ohos_id_dialog_scroll_flex_align"
+                },
+                {
+                    "name": "dialog_column_measure_type",
+                    "value": "$float:ohos_id_dialog_column_measure_type"
                 }
             ]
         },
@@ -2854,6 +2874,14 @@
                 {
                     "name": "picker_press_color",
                     "value": "$color:ohos_id_picker_press_color"
+                },
+                {
+                    "name": "picker_show_count_landscape",
+                    "value": "$float:ohos_id_picker_show_count_landscape"
+                },
+                {
+                    "name": "picker_show_count_portrait",
+                    "value": "$float:ohos_id_picker_show_count_portrait"
                 }
             ]
         },
