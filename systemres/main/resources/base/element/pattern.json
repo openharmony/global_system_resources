@@ -3920,6 +3920,18 @@
                 {
                     "name": "focus_indicator_vertical_padding",
                     "value": "$float:ohos_id_focus_indicator_padding"
+                },
+                {
+                    "name": "dialog_radius_level10",
+                    "value": "$float:corner_radius_level10"
+                },
+                {
+                    "name": "dialog_icon_primary",
+                    "value": "$color:icon_primary"
+                },
+                {
+                    "name": "dialog_font_primary",
+                    "value": "$color:font_primary"
                 }
             ]
         },
