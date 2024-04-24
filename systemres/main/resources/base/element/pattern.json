@@ -3585,8 +3585,16 @@
             "name": "ohos_swiper_pattern",
             "value": [
                 {
+                    "name": "indicator_scale_swiper",
+                    "value": "$float:ohos_id_scale_swiper_indicator"
+                },
+                {
                     "name": "indicator_color_selected",
                     "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "indicator_color_focused_selected",
+                    "value": "$color:ohos_id_color_focused_select"
                 },
                 {
                     "name": "indicator_color",
