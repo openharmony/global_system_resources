@@ -3480,6 +3480,15 @@
                 "deprecated":"",
                 "provisionEnable":true,
                 "distributedSceneEnable":false
+            },
+            {
+                "name": "ohos.permission.WRITE_RINGTONE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
