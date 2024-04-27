@@ -387,6 +387,30 @@
                 {
                     "name": "switch_pattern_shadow_width",
                     "value": "$float:ohos_id_switch_pattern_shadow_width"
+                },
+                {
+                    "name": "switch_focus_width_border",
+                    "value": "$float:ohos_id_width_border_switch"
+                },
+                {
+                    "name": "switch_focus_color_border",
+                    "value": "$color:ohos_id_color_border_switch"
+                },
+                {
+                    "name": "switch_focus_board_width",
+                    "value": "$float:ohos_id_switch_pattern_width"
+                },
+                {
+                    "name": "switch_focus_board_height",
+                    "value": "$float:ohos_id_switch_pattern_height"
+                },
+                {
+                    "name": "switch_focus_board_radius",
+                    "value": "$float:ohos_id_corner_radius_clicked"
+                },
+                {
+                    "name": "switch_focus_board_color",
+                    "value": "$color:ohos_id_color_focus_board_switch"
                 }
             ]
         },
@@ -3928,6 +3952,18 @@
                 {
                     "name": "focus_indicator_vertical_padding",
                     "value": "$float:ohos_id_focus_indicator_padding"
+                },
+                {
+                    "name": "dialog_radius_level10",
+                    "value": "$float:corner_radius_level10"
+                },
+                {
+                    "name": "dialog_icon_primary",
+                    "value": "$color:icon_primary"
+                },
+                {
+                    "name": "dialog_font_primary",
+                    "value": "$color:font_primary"
                 }
             ]
         },
@@ -4565,6 +4601,42 @@
                 {
                     "name": "toggle_disable_alpha",
                     "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "shadow_default_status_button",
+                    "value": "$float:ohos_id_shadow_default_button"
+                },
+                {
+                    "name": "shadow_focus_status_button",
+                    "value": "$float:ohos_id_shadow_focus_button"
+                },
+                {
+                    "name": "scale_focus_status_button",
+                    "value": "$float:ohos_id_scale_focus_button"
+                },
+                {
+                    "name": "border_width_status_button",
+                    "value": "$float:ohos_id_width_border_small_button"
+                },
+                {
+                    "name": "border_color_status_button_checked",
+                    "value": "$color:ohos_id_color_border_status_button_checked"
+                },
+                {
+                    "name": "border_color_status_button_unchecked",
+                    "value": "$color:ohos_id_color_border_status_button_unchecked"
+                },
+                {
+                    "name": "bg_color_focus_status_button_checked",
+                    "value": "$color:ohos_id_bgcolor_focus_status_button_checked"
+                },
+                {
+                    "name": "status_button_text_color_focus",
+                    "value": "$color:ohos_id_text_color_focus_status_button"
+                },
+                {
+                    "name": "bg_color_focus_status_button_unchecked",
+                    "value": "$color:ohos_id_bgcolor_focus_status_button_unchecked"
                 }
             ]
         },
@@ -5039,6 +5111,38 @@
                 {
                     "name": "menu_medium_margin",
                     "value": "$float:ohos_id_elements_margin_horizontal_m"
+                },
+                {
+                    "name": "menu_border_color",
+                    "value": "$color:ohos_id_color_border_menu"
+                },
+                {
+                    "name": "menu_border_width",
+                    "value": "$float:ohos_id_width_border_menu"
+                },
+                {
+                    "name": "menu_item_focused_bg_color",
+                    "value": "$color:ohos_id_color_focused_bg_menu_item"
+                },
+                {
+                    "name": "menu_item_focused_text_color",
+                    "value": "$color:ohos_id_color_focused_text_menu_item"
+                },
+                {
+                    "name": "menu_item_focused_shadow_style",
+                    "value": "$float:ohos_id_shadow_focused_menu_item"
+                },
+                {
+                    "name": "menu_item_top_bottom_margin",
+                    "value": "$float:ohos_id_menu_item_top_bottom_margin"
+                },
+                {
+                    "name": "menu_target_security_space",
+                    "value": "$float:ohos_id_target_security_space_menu"
+                },
+                {
+                    "name": "menu_item_content_align",
+                    "value": "$float:ohos_id_content_align_menu_item"
                 }
             ]
         },
@@ -5418,7 +5522,7 @@
                 },
                 {
                     "name": "app_bar_menu",
-                    "value": "$media:ohos_ic_public_more"
+                    "value": "$media:ohos_ic_public_more_filled"
                 },
                 {
                     "name": "app_bar_close",
@@ -5567,6 +5671,18 @@
                 {
                     "name": "radio_dot_svg",
                     "value": "$media:ohos_radio_dot"
+                },
+                {
+                    "name": "ic_public_camera",
+                    "value": "$media:ohos_ic_public_camera"
+                },
+                {
+                    "name": "ic_public_scan",
+                    "value": "$media:ohos_ic_public_scan"
+                },
+                {
+                    "name": "ic_public_albums",
+                    "value": "$media:ohos_ic_public_albums"
                 }
             ]
         },
@@ -5760,6 +5876,30 @@
                     "value": "$color:ohos_id_color_focused_outline"
                 },
                 {
+                    "name": "blur_color_light",
+                    "value": "#99FFFFFF"
+                },
+                {
+                    "name": "blur_color_dark",
+                    "value": "#99000000"
+                },
+                {
+                    "name": "divider_color_light",
+                    "value": "#33000000"
+                },
+                {
+                    "name": "divider_color_dark",
+                    "value": "#33FFFFFF"
+                },
+                {
+                    "name": "border_color_light",
+                    "value": "#33182431"
+                },
+                {
+                    "name": "border_color_dark",
+                    "value": "#4DFFFFFF"
+                },
+                {
                     "name": "menu_bar_width",
                     "value": "80.0vp"
                 },
@@ -5818,6 +5958,10 @@
                 {
                     "name": "icon_vertical_margin",
                     "value": "8.0vp"
+                },
+                {
+                    "name": "blur_radius",
+                    "value": "5.0vp"
                 }
             ]
         },

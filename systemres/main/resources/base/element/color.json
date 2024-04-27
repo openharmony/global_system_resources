@@ -74,7 +74,7 @@
         },
         {
             "name": "ohos_id_color_focused_select",
-            "value": "#00ffffff"
+            "value": "#ff007dff"
         },
         {
             "name": "ohos_id_color_hover",
@@ -1475,6 +1475,46 @@
         {
             "name": "ohos_id_stack_focus_border_color",
             "value": "#ff007dff"
+        },
+        {
+            "name": "ohos_id_color_border_switch",
+            "value": "#00ffffff"
+        },
+        {
+            "name": "ohos_id_color_border_status_button_checked",
+            "value": "#00ffffff"
+        },
+        {
+            "name": "ohos_id_color_border_status_button_unchecked",
+            "value": "#00ffffff"
+        },
+        {
+            "name": "ohos_id_bgcolor_focus_status_button_unchecked",
+            "value": "#0c182431"
+        },
+        {
+            "name": "ohos_id_bgcolor_focus_status_button_checked",
+            "value": "#33007dff"
+        },
+        {
+            "name": "ohos_id_text_color_focus_status_button",
+            "value": "#ff182431"
+        },
+        {
+            "name": "ohos_id_color_focus_board_switch",
+            "value": "#33ff0000"
+        },
+        {
+            "name": "ohos_id_color_border_menu",
+            "value": "#00000000"
+        },
+        {
+            "name": "ohos_id_color_focused_bg_menu_item",
+            "value": "#00000000"
+        },
+        {
+            "name": "ohos_id_color_focused_text_menu_item",
+            "value": "#ff182431"
         }
     ]
 }

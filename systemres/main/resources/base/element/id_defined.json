@@ -10689,6 +10689,91 @@
             "type": "float",
             "name": "ohos_id_scale_swiper_indicator",
             "order": 2105
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_public_more_filled",
+            "order": 2106
+	},
+	{
+	    "type": "color",
+            "name": "ohos_id_color_focus_board_switch",
+            "order": 2107
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_width_border_switch",
+            "order": 2108
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_border_switch",
+            "order": 2109
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_border_status_button_checked",
+            "order": 2110
+	    },
+        {
+            "type": "color",
+            "name": "ohos_id_color_border_status_button_unchecked",
+            "order": 2111
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_bgcolor_focus_status_button_unchecked",
+            "order": 2112
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_bgcolor_focus_status_button_checked",
+            "order": 2113
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_text_color_focus_status_button",
+            "order": 2114
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_border_menu",
+            "order": 2115
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_width_border_menu",
+            "order": 2116
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_focused_bg_menu_item",
+            "order": 2117
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_focused_text_menu_item",
+            "order": 2118
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_menu_item_top_bottom_margin",
+            "order": 2119
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_shadow_focused_menu_item",
+            "order": 2120
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_target_security_space_menu",
+            "order": 2121
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_content_align_menu_item",
+            "order": 2122
         }
     ]
 }
