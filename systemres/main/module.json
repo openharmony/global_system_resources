@@ -3482,6 +3482,33 @@
                 "distributedSceneEnable":false
             },
             {
+                "name": "ohos.permission.WRITE_RINGTONE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_SCREEN_LOCK_MEDIA_DATA",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_SCREEN_LOCK_ALL_DATA",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.GET_ACCOUNT_MINORS_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
