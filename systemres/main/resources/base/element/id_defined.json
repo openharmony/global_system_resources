@@ -10694,9 +10694,9 @@
             "type": "media",
             "name": "ohos_ic_public_more_filled",
             "order": 2106
-	},
-	{
-	    "type": "color",
+        },
+        {
+            "type": "color",
             "name": "ohos_id_color_focus_board_switch",
             "order": 2107
         },
@@ -18129,6 +18129,11 @@
             "type": "symbol",
             "name": "lung",
             "order": 3593
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_toast_content_limit_max_width",
+            "order": 3594
         }
     ]
 }
