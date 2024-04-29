@@ -3149,6 +3149,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.INTERACT_ACROSS_LOCAL_ACCOUNTS_AS_USER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.NOTIFY_DEBUG_ASSERT_RESULT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
