@@ -290,7 +290,7 @@
                 },
                 {
                     "name": "bg_color_unchecked",
-                    "value": "$color:ohos_id_color_component_normal"
+                    "value": "$color:ohos_id_switch_unchecked_bgColor"
                 },
                 {
                     "name": "fg_shadow_width",
@@ -389,14 +389,6 @@
                     "value": "$float:ohos_id_switch_pattern_shadow_width"
                 },
                 {
-                    "name": "switch_focus_width_border",
-                    "value": "$float:ohos_id_width_border_switch"
-                },
-                {
-                    "name": "switch_focus_color_border",
-                    "value": "$color:ohos_id_color_border_switch"
-                },
-                {
                     "name": "switch_focus_board_width",
                     "value": "$float:ohos_id_switch_pattern_width"
                 },
@@ -411,6 +403,14 @@
                 {
                     "name": "switch_focus_board_color",
                     "value": "$color:ohos_id_color_focus_board_switch"
+                },
+                {
+                    "name": "switch_focus_bgColor_unselected",
+                    "value": "$color:ohos_id_focused_bgcolor_switch_button_unselected"
+                },
+                {
+                    "name": "switch_focus_pointColor_unselected",
+                    "value": "$color:ohos_id_focused_pointColor_switch_button_unselected"
                 }
             ]
         },
@@ -6370,6 +6370,10 @@
                 {
                     "name": "selected_background_color",
                     "value": "$color:ohos_id_color_text_highlight_bg"
+                },
+                {
+                    "name": "drag_background_color",
+                    "value": "$color:ohos_id_color_dialog_bg"
                 }
             ]
         },
