@@ -2665,6 +2665,14 @@
                 {
                     "name": "title_emphasize_twolines_height",
                     "value": "$float:titlebar_emphasize_twolines_height"
+                },
+                {
+                    "name": "titlebar_background_blur_style",
+                    "value": "11"
+                },
+                {
+                    "name": "toolbar_background_blur_style",
+                    "value": "11"
                 }
             ]
         },
@@ -3964,6 +3972,10 @@
                 {
                     "name": "dialog_font_primary",
                     "value": "$color:font_primary"
+                },
+                {
+                    "name": "bottom_tab_bar_bg_blur_style",
+                    "value": "11"
                 }
             ]
         },
@@ -6514,6 +6526,10 @@
                 {
                     "name": "close_icon_image_color",
                     "value": "$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "sheet_background_blur_style",
+                    "value": "12"
                 }
             ]
         },
