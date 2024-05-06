@@ -3266,6 +3266,15 @@
                 "distributedSceneEnable":false
             },
             {
+                "name":"ohos.permission.EXEMPT_PRIVACY_INDICATOR",
+                "grantMode":"system_grant",
+                "availableLevel":"system_core",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
+            },
+            {
                 "name":"ohos.permission.SET_SUPER_PRIVACY",
                 "grantMode":"system_grant",
                 "availableLevel":"system_core",
