@@ -7152,6 +7152,79 @@
                     "value": "$float:ohos_id_stack_focus_effect_type"
                 }
             ]
+        },
+        {
+            "name": "ohos_container_modal_pattern",
+            "value": [
+                {
+                    "name": "container_modal_background",
+                    "value": "$color:container_modal_background"
+                },
+                {
+                    "name": "container_modal_unfocus_background",
+                    "value": "$color:container_modal_unfocus_background"
+                },
+                {
+                    "name": "ohos_id_color_primary",
+                    "value": "$color:ohos_id_color_primary"
+                },
+                {  
+                    "name": "ohos_id_alpha_normal_bg",
+                    "value": "$float:ohos_id_alpha_normal_bg"
+                },
+                {  
+                    "name": "ohos_id_color_click_effect",
+                    "value": "$color:ohos_id_color_click_effect"
+                },
+                {
+                    "name": "ohos_id_color_hover",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
+                    "name": "ohos_id_color_warning",
+                    "value": "$color:ohos_id_color_warning"
+                },
+                {
+                    "name": "ohos_id_color_foreground_contrary",
+                    "value": "$color:ohos_id_color_foreground_contrary"
+                },
+                {
+                    "name": "ohos_id_color_primary_contrary",
+                    "value": "$color:ohos_id_color_primary_contrary"
+                },
+                {
+                    "name": "ohos_id_normalbtn_unfocus_bg",
+                    "value": "$color:ohos_id_normalbtn_unfocus_bg"
+                },
+                {
+                    "name": "ohos_id_closebtn_unfocus_bg",
+                    "value": "$color:ohos_id_closebtn_unfocus_bg"
+                },
+                {
+                    "name": "ohos_id_normalbtn_bg",
+                    "value": "$color:ohos_id_normalbtn_bg"
+                },
+                {
+                    "name": "ohos_id_normalbtn_hover_bg",
+                    "value": "$color:ohos_id_normalbtn_hover_bg"
+                },
+                {
+                    "name": "ohos_id_closebtn_focus_bg",
+                    "value": "$color:ohos_id_closebtn_focus_bg"
+                },
+                {
+                    "name": "ohos_id_closebtn_color_warning",
+                    "value": "$color:ohos_id_closebtn_color_warning"
+                },
+                {
+                    "name": "ohos_id_closebtn_press_bg",
+                    "value": "$color:ohos_id_closebtn_press_bg"
+                },
+                {
+                    "name": "ohos_id_normalbtn_press_bg",
+                    "value": "$color:ohos_id_normalbtn_press_bg"
+                }
+            ]   
         }
     ]
 }

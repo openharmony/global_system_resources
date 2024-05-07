@@ -18134,6 +18134,61 @@
             "type": "float",
             "name": "ohos_id_toast_content_limit_max_width",
             "order": 3594
+        },
+        {    "type":"pattern",
+             "name":"ohos_container_modal_pattern",
+             "order":3595
+        },
+        {
+            "type":"color",
+             "name":"container_modal_background",
+             "order":3596
+        },
+        {
+            "type":"color",
+             "name":"container_modal_unfocus_background",
+             "order":3597
+        },
+        {
+            "type":"color",
+            "name":"ohos_id_normalbtn_unfocus_bg",
+            "order":3598
+        },
+        {
+            "type":"color",
+            "name":"ohos_id_closebtn_unfocus_bg",
+            "order":3599
+        },
+        {
+            "type":"color",
+            "name":"ohos_id_normalbtn_bg",
+            "order":3600
+        },
+        {
+            "type":"color",
+            "name":"ohos_id_normalbtn_hover_bg",
+            "order":3601
+        },
+        {
+            "type":"color",
+            "name":"ohos_id_closebtn_color_warning",
+            "order":3602
+        },
+        {
+            "type":"color",
+            "name":"ohos_id_closebtn_focus_bg",
+            "order":3603
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_closebtn_press_bg",
+            "order": 3604
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_normalbtn_press_bg",
+            "order": 3605
         }
     ]
 }
+        
