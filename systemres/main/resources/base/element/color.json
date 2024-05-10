@@ -510,7 +510,7 @@
         },
         {
             "name": "ohos_id_color_border_dialog",
-            "value": "#26FFFFFF"
+            "value": "#ff000000"
         },
         {
             "name": "ohos_id_color_dialog_default_bg",
@@ -1450,11 +1450,11 @@
         },
         {
             "name": "ohos_id_color_border_button",
-            "value": "#00ffffff"
+            "value": "#ff000000"
         },
         {
             "name": "ohos_id_color_border_small_button",
-            "value": "#00ffffff"
+            "value": "#ff000000"
         },
         {
             "name": "ohos_id_color_focus_bg_text_button",
@@ -1462,7 +1462,7 @@
         },
         {
             "name": "ohos_id_color_border_text_input",
-            "value": "#00000000"
+            "value": "#ff000000"
         },
         {
             "name": "ohos_id_button_focus_border_color",
@@ -1482,11 +1482,11 @@
         },
         {
             "name": "ohos_id_color_border_status_button_checked",
-            "value": "#00ffffff"
+            "value": "#ff000000"
         },
         {
             "name": "ohos_id_color_border_status_button_unchecked",
-            "value": "#00ffffff"
+            "value": "#ff000000"
         },
         {
             "name": "ohos_id_bgcolor_focus_status_button_unchecked",
@@ -1506,7 +1506,7 @@
         },
         {
             "name": "ohos_id_color_border_menu",
-            "value": "#00000000"
+            "value": "#ff000000"
         },
         {
             "name": "ohos_id_color_focused_bg_menu_item",
@@ -1515,6 +1515,46 @@
         {
             "name": "ohos_id_color_focused_text_menu_item",
             "value": "#ff182431"
+        },
+        {
+            "name": "container_modal_background",
+            "value": "#fff0f0f0"
+        },
+        {
+            "name": "container_modal_unfocus_background",
+            "value": "#fff1f3f5"
+        },
+        {
+            "name": "ohos_id_normalbtn_unfocus_bg",
+            "value": "#FFF5F5F5"
+        },
+        {
+            "name": "ohos_id_closebtn_unfocus_bg",
+            "value": "#FFFEF7F6"
+        },
+        {
+            "name": "ohos_id_normalbtn_bg",
+            "value": "#FFE8E8E8"
+        },
+        {
+            "name": "ohos_id_normalbtn_hover_bg",
+            "value": "#FFDCDCDC"
+        },
+        {
+            "name": "ohos_id_closebtn_focus_bg",
+            "value": "#FFFCEBE9"
+        },
+        {
+            "name": "ohos_id_closebtn_color_warning",
+            "value": "#FFE84026"
+        },
+        {
+            "name": "ohos_id_closebtn_press_bg",
+            "value": "#FFD03922"
+        },
+        {
+            "name": "ohos_id_normalbtn_press_bg",
+            "value": "#FFD0D0D0"
         }
     ]
 }
