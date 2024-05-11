@@ -2315,6 +2315,10 @@
                 {
                     "name": "draggable",
                     "value": "$string:ohos_id_draggable_default"
+                },
+                {
+                    "name": "min_edge_antialiasing",
+                    "value": "$float:ohos_min_edge_antialiasing"
                 }
             ]
         },
