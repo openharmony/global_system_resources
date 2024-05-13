@@ -3637,6 +3637,18 @@
                     "value": "$float:ohos_id_scale_swiper_indicator"
                 },
                 {
+                    "name": "color_focus_unselected",
+                    "value": "$color:ohos_id_color_focus_unselected_dot_swiper"
+                },
+                {
+                    "name": "color_focus_bg",
+                    "value": "$color:ohos_id_color_focus_bg_swiper"
+                },
+                {
+                    "name": "indicator_bg_height",
+                    "value": "$float:ohos_id_height_bg_swiper"
+                },
+                {
                     "name": "indicator_color_selected",
                     "value": "$color:ohos_id_color_emphasize"
                 },
