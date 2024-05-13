@@ -10699,13 +10699,13 @@
             "order": 2107
         },
         {
-            "type": "float",
-            "name": "ohos_id_width_border_switch",
+            "type": "color",
+            "name": "ohos_id_focused_bgcolor_switch_button_unselected",
             "order": 2108
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_switch",
+            "name": "ohos_id_focused_pointColor_switch_button_unselected",
             "order": 2109
         },
         {
@@ -18212,6 +18212,11 @@
             "type": "float",
             "name": "ohos_id_height_bg_swiper",
             "order": 3610
+	},
+	{
+            "type": "color",
+            "name": "ohos_id_switch_unchecked_bgColor",
+            "order": 3611
         }
     ]
 }
