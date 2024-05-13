@@ -18197,6 +18197,21 @@
             "type": "float",
             "name": "ohos_min_edge_antialiasing",
             "order": 3607
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_focus_unselected_dot_swiper",
+            "order": 3608
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_focus_bg_swiper",
+            "order": 3609
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_height_bg_swiper",
+            "order": 3610
         }
     ]
 }
