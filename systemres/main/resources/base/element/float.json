@@ -2682,7 +2682,7 @@
         },
         {
             "name": "ohos_id_blur_style_component_ultra_thin_radius",
-            "value": "120.0"
+            "value": "30.0"
         },
         {
             "name": "ohos_id_blur_style_component_ultra_thin_saturation",
@@ -2694,7 +2694,7 @@
         },
         {
             "name": "ohos_id_blur_style_component_ultra_thin_radius_dark",
-            "value": "200.0"
+            "value": "30.0"
         },
         {
             "name": "ohos_id_blur_style_component_ultra_thin_saturation_dark",
@@ -2706,7 +2706,7 @@
         },
         {
             "name": "ohos_id_blur_style_component_thin_radius",
-            "value": "80.0"
+            "value": "40.0"
         },
         {
             "name": "ohos_id_blur_style_component_thin_saturation",
@@ -2718,7 +2718,7 @@
         },
         {
             "name": "ohos_id_blur_style_component_thin_radius_dark",
-            "value": "200.0"
+            "value": "40.0"
         },
         {
             "name": "ohos_id_blur_style_component_thin_saturation_dark",
@@ -2730,7 +2730,7 @@
         },
         {
             "name": "ohos_id_blur_style_component_regular_radius",
-            "value": "120.0"
+            "value": "50.0"
         },
         {
             "name": "ohos_id_blur_style_component_regular_saturation",
@@ -2742,7 +2742,7 @@
         },
         {
             "name": "ohos_id_blur_style_component_regular_radius_dark",
-            "value": "200.0"
+            "value": "50.0"
         },
         {
             "name": "ohos_id_blur_style_component_regular_saturation_dark",
@@ -2754,7 +2754,7 @@
         },
         {
             "name": "ohos_id_blur_style_component_thick_radius",
-            "value": "80.0"
+            "value": "60.0"
         },
         {
             "name": "ohos_id_blur_style_component_thick_saturation",
@@ -2766,7 +2766,7 @@
         },
         {
             "name": "ohos_id_blur_style_component_thick_radius_dark",
-            "value": "80.0"
+            "value": "60.0"
         },
         {
             "name": "ohos_id_blur_style_component_thick_saturation_dark",
@@ -2778,7 +2778,7 @@
         },
         {
             "name": "ohos_id_blur_style_component_ultra_thick_radius",
-            "value": "80.0"
+            "value": "60.0"
         },
         {
             "name": "ohos_id_blur_style_component_ultra_thick_saturation",
@@ -2790,7 +2790,7 @@
         },
         {
             "name": "ohos_id_blur_style_component_ultra_thick_radius_dark",
-            "value": "80.0"
+            "value": "60.0"
         },
         {
             "name": "ohos_id_blur_style_component_ultra_thick_saturation_dark",
@@ -3403,10 +3403,6 @@
         {
             "name": "ohos_id_picker_show_count_portrait",
             "value": "5.0"
-        },
-        {
-            "name": "ohos_id_width_border_switch",
-            "value": "0.0fp"
         },
         {
             "name": "ohos_id_width_border_menu",
