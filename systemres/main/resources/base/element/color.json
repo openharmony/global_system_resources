@@ -1485,10 +1485,6 @@
             "value": "#ff007dff"
         },
         {
-            "name": "ohos_id_color_border_switch",
-            "value": "#00ffffff"
-        },
-        {
             "name": "ohos_id_color_border_status_button_checked",
             "value": "#ff000000"
         },
@@ -1511,6 +1507,14 @@
         {
             "name": "ohos_id_color_focus_board_switch",
             "value": "#00000000"
+        },
+        {
+            "name": "ohos_id_focused_bgcolor_switch_button_unselected",
+            "value": "#337F7F7F"
+        },
+        {
+            "name": "ohos_id_focused_pointColor_switch_button_unselected",
+            "value": "#ffffffff"
         },
         {
             "name": "ohos_id_color_border_menu",
@@ -1563,6 +1567,10 @@
         {
             "name": "ohos_id_normalbtn_press_bg",
             "value": "#FFD0D0D0"
+	},
+	{
+            "name": "ohos_id_switch_unchecked_bgColor",
+            "value": "#337F7F7F"
         }
     ]
 }
