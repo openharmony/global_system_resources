@@ -3570,6 +3570,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.PROTECT_SCREEN_LOCK_DATA",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
