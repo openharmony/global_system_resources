@@ -21,6 +21,10 @@
             "value": "#ff000000"
         },
         {
+            "name": "ohos_id_color_focused_select",
+            "value": "#ff006cde"
+        },
+        {
             "name": "ohos_id_color_emphasize",
             "value": "#ff006cde"
         },
@@ -50,6 +54,10 @@
         },
         {
             "name": "ohos_id_color_component_normal",
+            "value": "#19ffffff"
+        },
+        {
+            "name": "ohos_id_color_focus_unselected_dot_swiper",
             "value": "#19ffffff"
         },
         {
@@ -1139,6 +1147,10 @@
         {
             "name": "ohos_id_normalbtn_press_bg",
             "value": "#FF4B4B4B"
+	},
+	{
+            "name": "ohos_id_focused_pointColor_switch_button_unselected",
+            "value": "#ffe5e5e5"
         }
     ]
 }
