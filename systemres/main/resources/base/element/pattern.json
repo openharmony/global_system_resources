@@ -456,6 +456,18 @@
                     "value": "$float:ohos_id_text_size_caption"
                 },
                 {
+                    "name": "text_age_font_size",
+                    "value": "$float:ohos_id_badge_text_age_font_size"
+                },
+                {
+                    "name": "badge_age_size",
+                    "value": "$float:ohos_id_badge_age_size"
+                },
+                {
+                    "name": "badge_age_add_padding",
+                    "value": "$float:ohos_id_badge_age_add_padding"
+                },
+                {
                     "name": "border_color",
                     "value": "$color:ohos_id_color_badge_red"
                 },
