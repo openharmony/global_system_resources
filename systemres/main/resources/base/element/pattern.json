@@ -6397,6 +6397,18 @@
                 {
                     "name": "section_unfocus_color",
                     "value": "$color:ohos_id_section_unfocus_color"
+                },
+		{
+                    "name": "dialog_radius_level10",
+                    "value": "$float:corner_radius_level10"
+                },
+                {
+                    "name": "dialog_icon_primary",
+                    "value": "$color:icon_primary"
+                },
+                {
+                    "name": "dialog_font_primary",
+                    "value": "$color:font_primary"
                 }
             ]
         },
