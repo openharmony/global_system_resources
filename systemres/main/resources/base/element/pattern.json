@@ -2258,6 +2258,34 @@
                 {
                     "name": "dialog_column_measure_type",
                     "value": "$float:ohos_id_dialog_column_measure_type"
+                },
+                {
+                    "name": "dialog_icon_primary",
+                    "value": "$color:icon_primary"
+                },
+                {
+                    "name": "dialog_font_primary",
+                    "value": "$color:font_primary"
+                },
+                {
+                    "name": "big_font_size_scale",
+                    "value": "$float:ohos_id_big_font_size_scale"
+                },
+                {
+                    "name": "large_font_size_scale",
+                    "value": "$float:ohos_id_large_font_size_scale"
+                },
+                {
+                    "name": "max_font_size_scale",
+                    "value": "$float:ohos_id_max_font_size_scale"
+                },
+                {
+                    "name": "big_dialog_width",
+                    "value": "$float:ohos_id_big_dialog_width"
+                },
+                {
+                    "name": "max_dialog_width",
+                    "value": "$float:ohos_id_max_dialog_width"
                 }
             ]
         },
