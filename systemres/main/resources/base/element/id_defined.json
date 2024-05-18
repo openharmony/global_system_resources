@@ -18252,6 +18252,21 @@
             "type": "string",
             "name": "ohos_id_sheet_bottom",
             "order": 3618
+        },
+        {
+            "type": "float",
+            "name": "margin_level1",
+            "order": 3619
+        },
+        {
+            "type": "float",
+            "name": "margin_level2",
+            "order": 3620
+        },
+        {
+            "type": "float",
+            "name": "margin_level3",
+            "order": 3621
         }
     ]
 }
