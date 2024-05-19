@@ -3906,6 +3906,10 @@
                     "value": "$color:ohos_id_color_bottom_tab_icon_off"
                 },
                 {
+                    "name": "bottom_tab_symbol",
+                    "value": "$color:icon_emphasize"
+                },
+                {
                     "name": "bottom_tab_symbol_off",
                     "value": "$color:ohos_fa_icon_tertiary"
                 },
@@ -4831,6 +4835,10 @@
                 {
                     "name": "select_icon_color",
                     "value": "$color:ohos_id_color_spinner_icon"
+                },
+                {
+                    "name": "select_symbol_color",
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "focus_bg_outline_color",
