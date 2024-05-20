@@ -18292,6 +18292,36 @@
             "type": "float",
             "name": "ohos_id_max_dialog_width",
             "order": 3626
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_ideal_size",
+            "order": 3627
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_property_top",
+            "order": 3628
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_property_bottom",
+            "order": 3629
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_property_left",
+            "order": 3630
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_property_bottom",
+            "order": 3631
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_property_right",
+            "order": 3632
         }
     ]
 }

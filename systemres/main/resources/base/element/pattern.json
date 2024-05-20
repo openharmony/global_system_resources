@@ -2286,6 +2286,30 @@
                 {
                     "name": "max_dialog_width",
                     "value": "$float:ohos_id_max_dialog_width"
+                },
+                {
+                    "name": "ideal_size",
+                    "value": "$float:ohos_id_ideal_size"
+                },
+                {
+                    "name": "dialog_property_top",
+                    "value": "$float:ohos_id_dialog_property_top"
+                },
+                {
+                    "name": "dialog_property_bottom",
+                    "value": "$float:ohos_id_dialog_property_bottom"
+                },
+                {
+                    "name": "text_property_left",
+                    "value": "$float:ohos_id_text_property_left"
+                },
+                {
+                    "name": "text_property_bottom",
+                    "value": "$float:ohos_id_text_property_bottom"
+                },
+                {
+                    "name": "text_property_right",
+                    "value": "$float:ohos_id_text_property_right"
                 }
             ]
         },
