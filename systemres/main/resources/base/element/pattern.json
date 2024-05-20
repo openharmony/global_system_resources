@@ -1007,6 +1007,14 @@
                 {
                     "name": "boundary_col_offset",
                     "value": "$float:ohos_id_boundary_col_offset"
+                },
+                {
+                    "name": "calendar_picker_dialog_button_transparent",
+                    "value": "$string:ohos_id_calendar_picker_dialog_button_transparent"
+                },
+                {
+                    "name": "calendar_picker_dialog_divider_transparent",
+                    "value": "$string:ohos_id_calendar_picker_dialog_divider_transparent"
                 }
             ]
         },
@@ -5275,6 +5283,10 @@
                 {
                     "name": "menu_item_content_align",
                     "value": "$float:ohos_id_content_align_menu_item"
+                },
+                {
+                    "name": "menu_has_filter",
+                    "value": "$string:ohos_id_menu_has_filter"
                 }
             ]
         },
