@@ -2266,58 +2266,6 @@
                 {
                     "name": "dialog_column_measure_type",
                     "value": "$float:ohos_id_dialog_column_measure_type"
-                },
-                {
-                    "name": "dialog_icon_primary",
-                    "value": "$color:icon_primary"
-                },
-                {
-                    "name": "dialog_font_primary",
-                    "value": "$color:font_primary"
-                },
-                {
-                    "name": "big_font_size_scale",
-                    "value": "$float:ohos_id_big_font_size_scale"
-                },
-                {
-                    "name": "large_font_size_scale",
-                    "value": "$float:ohos_id_large_font_size_scale"
-                },
-                {
-                    "name": "max_font_size_scale",
-                    "value": "$float:ohos_id_max_font_size_scale"
-                },
-                {
-                    "name": "big_dialog_width",
-                    "value": "$float:ohos_id_big_dialog_width"
-                },
-                {
-                    "name": "max_dialog_width",
-                    "value": "$float:ohos_id_max_dialog_width"
-                },
-                {
-                    "name": "ideal_size",
-                    "value": "$float:ohos_id_ideal_size"
-                },
-                {
-                    "name": "dialog_property_top",
-                    "value": "$float:ohos_id_dialog_property_top"
-                },
-                {
-                    "name": "dialog_property_bottom",
-                    "value": "$float:ohos_id_dialog_property_bottom"
-                },
-                {
-                    "name": "text_property_left",
-                    "value": "$float:ohos_id_text_property_left"
-                },
-                {
-                    "name": "text_property_bottom",
-                    "value": "$float:ohos_id_text_property_bottom"
-                },
-                {
-                    "name": "text_property_right",
-                    "value": "$float:ohos_id_text_property_right"
                 }
             ]
         },
@@ -7365,6 +7313,63 @@
                     "value": "$color:ohos_id_normalbtn_press_bg"
                 }
             ]   
+        },
+        {
+            "name": "ohos_aging_adapation_dialog_pattern",
+            "value": [
+                {
+                    "name": "dialog_icon_primary",
+                    "value": "$color:icon_primary"
+                },
+                {
+                    "name": "dialog_font_primary",
+                    "value": "$color:font_primary"
+                },
+                {
+                    "name": "big_font_size_scale",
+                    "value": "$float:ohos_id_big_font_size_scale"
+                },
+                {
+                    "name": "large_font_size_scale",
+                    "value": "$float:ohos_id_large_font_size_scale"
+                },
+                {
+                    "name": "max_font_size_scale",
+                    "value": "$float:ohos_id_max_font_size_scale"
+                },
+                {
+                    "name": "big_dialog_width",
+                    "value": "$float:ohos_id_big_dialog_width"
+                },
+                {
+                    "name": "max_dialog_width",
+                    "value": "$float:ohos_id_max_dialog_width"
+                },
+                {
+                    "name": "ideal_size",
+                    "value": "$float:ohos_id_ideal_size"
+                },
+                {
+                    "name": "dialog_property_top",
+                    "value": "$float:ohos_id_dialog_property_top"
+                },
+                {
+                    "name": "dialog_property_bottom",
+                    "value": "$float:ohos_id_dialog_property_bottom"
+                },
+                {
+                    "name": "text_property_left",
+                    "value": "$float:ohos_id_text_property_left"
+                },
+                {
+                    "name": "text_property_bottom",
+                    "value": "$float:ohos_id_text_property_bottom"
+                },
+                {
+                    "name": "text_property_right",
+                    "value": "$float:ohos_id_text_property_right"
+                }
+            ]
         }
     ]
 }
