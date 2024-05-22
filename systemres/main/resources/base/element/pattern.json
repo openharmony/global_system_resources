@@ -5549,6 +5549,14 @@
                     "value": "$media:ohos_ic_public_drawer"
                 },
                 {
+                    "name": "ic_public_drawer_open",
+                    "value": "$media:ohos_ic_public_drawer_open"
+                },
+                {
+                    "name": "ic_public_drawer_close",
+                    "value": "$media:ohos_ic_public_drawer_close"
+                },
+                {
                     "name": "indexer_arrow",
                     "value": "$media:ohos_indexer_arrow"
                 },
@@ -6478,7 +6486,7 @@
                     "name": "section_unfocus_color",
                     "value": "$color:ohos_id_section_unfocus_color"
                 },
-		{
+                {
                     "name": "dialog_radius_level10",
                     "value": "$float:corner_radius_level10"
                 },
@@ -6489,6 +6497,22 @@
                 {
                     "name": "dialog_font_primary",
                     "value": "$color:font_primary"
+                },
+                {
+                    "name": "control_button_back_board_color",
+                    "value": "$color:comp_background_tertiary"
+                },
+                {
+                    "name": "control_button_back_board_color_hover",
+                    "value": "$color:interactive_hover"
+                },
+                {
+                    "name": "control_button_back_board_color_press",
+                    "value": "$color:interactive_pressed"
+                },
+                {
+                    "name": "control_button_back_board_stroke_color",
+                    "value": "$color:interactive_focus"
                 }
             ]
         },
