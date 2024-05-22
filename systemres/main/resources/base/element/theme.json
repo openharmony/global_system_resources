@@ -12,6 +12,10 @@
                     "value": "$color:ohos_id_focus_color"
                 },
                 {
+                    "name": "hover_color",
+                    "value": "$color:ohos_id_color_hover"
+                },
+                {
                     "name": "button_pattern",
                     "value": "$pattern:ohos_button_pattern"
                 },
@@ -238,6 +242,22 @@
                 {
                     "name": "stack_pattern",
                     "value": "$pattern:ohos_stack_pattern"
+                },
+                {
+                    "name": "container_modal_pattern",
+                    "value": "$pattern:ohos_container_modal_pattern"
+                },
+                {
+                    "name": "ohos_id_normalbtn_unfocus_bg",
+                    "value": "$color:ohos_id_normalbtn_unfocus_bg"
+                },
+                {
+                    "name": "ohos_id_closebtn_unfocus_bg",
+                    "value": "$color:ohos_id_closebtn_unfocus_bg"
+                },
+                {
+                    "name": "aging_adapation_dialog_pattern",
+                    "value": "$pattern:ohos_aging_adapation_dialog_pattern"
                 }
             ]
         }

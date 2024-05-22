@@ -649,6 +649,10 @@
             "value": "auto"
         },
         {
+            "name": "ohos_id_sheet_bottom",
+            "value": "auto"
+        },
+        {
             "name": "ohos_id_multiple_dialog_display",
             "value": "stack"
         },
@@ -759,6 +763,22 @@
         {
             "name": "ohos_textfield_show_handle",
             "value": "0"
+        },
+        {
+            "name": "ohos_add_form_to_desktop",
+            "value": "Add form to desktop"
+        },
+        {
+            "name": "ohos_id_menu_has_filter",
+            "value": "true"
+        },
+        {
+            "name": "ohos_id_calendar_picker_dialog_button_transparent",
+            "value": "true"
+        },
+        {
+            "name": "ohos_id_calendar_picker_dialog_divider_transparent",
+            "value": "false"
         }
     ]
 }

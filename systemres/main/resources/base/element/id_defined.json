@@ -5288,14 +5288,12 @@
         {
             "type": "media",
             "name": "ohos_save_button_filled",
-            "order": 1034,
-            "flags": "private"
+            "order": 1034
         },
         {
             "type": "media",
             "name": "ohos_save_button_line",
-            "order": 1035,
-            "flags": "private"
+            "order": 1035
         },
         {
             "type": "string",
@@ -10701,20 +10699,20 @@
             "order": 2107
         },
         {
-            "type": "float",
-            "name": "ohos_id_width_border_switch",
+            "type": "color",
+            "name": "ohos_id_focused_bgcolor_switch_button_unselected",
             "order": 2108
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_switch",
+            "name": "ohos_id_focused_pointColor_switch_button_unselected",
             "order": 2109
         },
         {
             "type": "color",
             "name": "ohos_id_color_border_status_button_checked",
             "order": 2110
-	    },
+        },
         {
             "type": "color",
             "name": "ohos_id_color_border_status_button_unchecked",
@@ -18134,6 +18132,232 @@
             "type": "float",
             "name": "ohos_id_toast_content_limit_max_width",
             "order": 3594
-        }
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_container_modal_pattern",
+            "order": 3595
+        },
+        {
+            "type": "color",
+            "name": "container_modal_background",
+            "order": 3596
+        },
+        {
+            "type": "color",
+            "name": "container_modal_unfocus_background",
+            "order": 3597
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_normalbtn_unfocus_bg",
+            "order": 3598
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_closebtn_unfocus_bg",
+            "order": 3599
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_normalbtn_bg",
+            "order": 3600
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_normalbtn_hover_bg",
+            "order": 3601
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_closebtn_color_warning",
+            "order": 3602
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_closebtn_focus_bg",
+            "order": 3603
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_closebtn_press_bg",
+            "order": 3604
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_normalbtn_press_bg",
+            "order": 3605
+        },
+        {
+            "type": "string",
+            "name": "ohos_add_form_to_desktop",
+            "order": 3606
+        },
+        {
+            "type": "float",
+            "name": "ohos_min_edge_antialiasing",
+            "order": 3607
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_focus_unselected_dot_swiper",
+            "order": 3608
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_focus_bg_swiper",
+            "order": 3609
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_height_bg_swiper",
+            "order": 3610
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_switch_unchecked_bgColor",
+            "order": 3611
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_badge_text_age_font_size",
+            "order": 3612
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_badge_age_size",
+            "order": 3613
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_badge_age_add_padding",
+            "order": 3614
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_subtab_item_padding",
+            "order": 3615
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_focus_ring_unchecked_radio",
+            "order": 3616
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_focus_bg_unchecked_radio",
+            "order": 3617
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_sheet_bottom",
+            "order": 3618
+        },
+        {
+            "type": "float",
+            "name": "margin_level1",
+            "order": 3619
+        },
+        {
+            "type": "float",
+            "name": "margin_level2",
+            "order": 3620
+        },
+        {
+            "type": "float",
+            "name": "margin_level3",
+            "order": 3621
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_big_font_size_scale",
+            "order": 3622
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_large_font_size_scale",
+            "order": 3623
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_max_font_size_scale",
+            "order": 3624
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_big_dialog_width",
+            "order": 3625
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_max_dialog_width",
+            "order": 3626
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_ideal_size",
+            "order": 3627
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_property_top",
+            "order": 3628
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_property_bottom",
+            "order": 3629
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_property_left",
+            "order": 3630
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_property_bottom",
+            "order": 3631
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_property_right",
+            "order": 3632
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_calendar_picker_dialog_button_transparent",
+            "order": 3633
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_calendar_picker_dialog_divider_transparent",
+            "order": 3634
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_menu_has_filter",
+            "order": 3635
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_aging_adapation_dialog_pattern",
+            "order": 3636,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_aging_font_scale",
+            "order": 3637
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_aging_padding_height",
+            "order": 3638
+        },
+	{
+            "type": "color",
+            "name": "ohos_id_normal_button_focus_bgcolor",
+            "order": 3639
+	}
     ]
 }
