@@ -2721,6 +2721,14 @@
                 {
                     "name": "title_margin_level3",
                     "value": "$float:margin_level3"
+                },
+                {
+                    "name": "titlebar_breakpoint_horizontal_s",
+                    "value": "$float:breakpoint_horizontal_s"
+                },
+                {
+                    "name": "titlebar_breakpoint_horizontal_m",
+                    "value": "$float:breakpoint_horizontal_m"
                 }
             ]
         },

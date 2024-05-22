@@ -18354,7 +18354,7 @@
             "name": "ohos_id_progress_aging_padding_height",
             "order": 3638
         },
-	{
+        {
             "type": "color",
             "name": "ohos_id_normal_button_focus_bgcolor",
             "order": 3639
@@ -18383,6 +18383,16 @@
             "type": "color",
             "name": "ohos_id_swiper_container_color",
             "order": 3644
+        },
+        {
+            "type": "float",
+            "name": "breakpoint_horizontal_s",
+            "order": 3645
+        },
+        {
+            "type": "float",
+            "name": "breakpoint_horizontal_m",
+            "order": 3646
         }
     ]
 }
