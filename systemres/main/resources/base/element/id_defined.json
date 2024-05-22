@@ -18343,6 +18343,16 @@
             "name": "ohos_aging_adapation_dialog_pattern",
             "order": 3636,
             "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_aging_font_scale",
+            "order": 3637
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_aging_padding_height",
+            "order": 3638
         }
     ]
 }

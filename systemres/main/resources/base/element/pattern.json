@@ -3269,6 +3269,14 @@
                 {
                     "name": "progress_button_download_height",
                     "value": "$float:ohos_id_progress_button_download_height"
+                },
+                {
+                    "name": "progress_aging_font_scale",
+                    "value": "$float:ohos_id_progress_aging_font_scale"
+                },
+                {
+                    "name": "progress_aging_padding_height",
+                    "value": "$float:ohos_id_progress_aging_padding_height"
                 }
             ]
         },
