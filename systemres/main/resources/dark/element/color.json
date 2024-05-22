@@ -1102,7 +1102,7 @@
         },
         {
             "name": "ohos_id_color_focus_bg_text_button",
-            "value": "#ff000000"
+            "value": "#00000000"
         },
         {
             "name": "ohos_id_focused_border_color_unselected_checkbox",
@@ -1171,6 +1171,10 @@
         {
             "name": "ohos_id_focused_pointColor_switch_button_unselected",
             "value": "#ffe5e5e5"
+        },
+        {
+            "name": "ohos_id_normal_button_focus_bgcolor",
+            "value": "#00000000"
         }
     ]
 }
