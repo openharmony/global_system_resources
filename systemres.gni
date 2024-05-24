@@ -20,7 +20,7 @@ certificate_profile_path =
 
 systemres_ext_path = "//vendor/${product_company}/base/global/system_resources"
 
-fonts_list = [
+sys_fonts_list = [
   {
     font_name = "HarmonyOS_Sans"
     font_path = "fonts/HarmonyOS_Sans.ttf"
