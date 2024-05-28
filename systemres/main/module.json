@@ -3635,6 +3635,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_FILE_CONTENT_SHARE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_SEARCH_SERVICE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
