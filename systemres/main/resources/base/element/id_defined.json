@@ -18360,19 +18360,54 @@
             "order": 3639
         },
         {
+            "type": "color",
+            "name": "ohos_id_swiper_dot_active_color",
+            "order": 3640
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_swiper_dot_color",
+            "order": 3641
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_swiper_mask_color_start",
+            "order": 3642
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_swiper_mask_color_end",
+            "order": 3643
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_swiper_container_color",
+            "order": 3644
+        },
+        {
+            "type": "float",
+            "name": "breakpoint_horizontal_s",
+            "order": 3645
+        },
+        {
+            "type": "float",
+            "name": "breakpoint_horizontal_m",
+            "order": 3646
+        },
+        {
             "type": "float",
             "name": "control_button_margin_top_small",
-            "order": 3640
+            "order": 3647
         },
         {
             "type": "float",
             "name": "control_button_width_small",
-            "order": 3641
+            "order": 3648
         },
         {
             "type": "float",
             "name": "control_button_height_small",
-            "order": 3642
+            "order": 3649
         }
     ]
 }

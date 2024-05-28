@@ -1896,6 +1896,10 @@
                     "value": "$float:ohos_id_padding_top_title_dialog"
                 },
                 {
+                    "name": "button_type",
+                    "value": "0"
+                },
+                {
                     "name": "padding_single_title",
                     "value": "$float:ohos_id_padding_single_title_dialog"
                 },
@@ -2721,6 +2725,14 @@
                 {
                     "name": "title_margin_level3",
                     "value": "$float:margin_level3"
+                },
+                {
+                    "name": "titlebar_breakpoint_horizontal_s",
+                    "value": "$float:breakpoint_horizontal_s"
+                },
+                {
+                    "name": "titlebar_breakpoint_horizontal_m",
+                    "value": "$float:breakpoint_horizontal_m"
                 }
             ]
         },
@@ -3573,6 +3585,10 @@
                 {
                     "name": "search_block_right_shade",
                     "value": "$float:ohos_id_search_block_right_shade"
+                },
+                {
+                    "name": "search_symbol_icon_color",
+                    "value": "$color:font_secondary"
                 }
             ]
         },
@@ -3819,6 +3835,26 @@
                 {
                     "name": "swiper_animation_opacity",
                     "value": "$float:ohos_id_swiper_animation_opacity"
+                },
+                {
+                    "name": "dot_active_color",
+                    "value": "$color:ohos_id_swiper_dot_active_color"
+                },
+                {
+                    "name": "dot_color",
+                    "value": "$color:ohos_id_swiper_dot_color"
+                },
+                {
+                    "name": "mask_color_start",
+                    "value": "$color:ohos_id_swiper_mask_color_start"
+                },
+                {
+                    "name": "mask_color_end",
+                    "value": "$color:ohos_id_swiper_mask_color_end"
+                },
+                {
+                    "name": "container_color",
+                    "value": "$color:ohos_id_swiper_container_color"
                 }
             ]
         },
@@ -3908,6 +3944,10 @@
                 {
                     "name": "bottom_tab_text_size",
                     "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "bottom_tab_horizontal_text_size",
+                    "value": "$float:Caption_L"
                 },
                 {
                     "name": "default_tab_bar_name",
@@ -5245,6 +5285,10 @@
                     "value": "$float:ohos_id_menu_item_top_bottom_margin"
                 },
                 {
+                    "name": "menu_item_left_right_margin",
+                    "value": "0.0vp"
+                },
+                {
                     "name": "menu_target_security_space",
                     "value": "$float:ohos_id_target_security_space_menu"
                 },
@@ -6455,8 +6499,8 @@
                     "value": "$string:ohos_id_section_unfocus_effect_enable_default"
                 },
                 {
-                    "name": "section_unfocus_color",
-                    "value": "$color:ohos_id_section_unfocus_color"
+                    "name": "color_panel_bg",
+                    "value": "$color:ohos_id_color_panel_bg"
                 },
                 {
                     "name": "dialog_radius_level10",
@@ -6508,15 +6552,15 @@
                 },
                 {
                     "name": "control_button_margin_top_small",
-                    "value": "$color:interactive_focus"
+                    "value": "$float:control_button_margin_top_small"
                 },
                 {
                     "name": "control_button_width_small",
-                    "value": "$color:interactive_focus"
+                    "value": "$float:control_button_width_small"
                 },
                 {
                     "name": "control_button_height_small",
-                    "value": "$color:interactive_focus"
+                    "value": "$float:control_button_height_small"
                 }
             ]
         },

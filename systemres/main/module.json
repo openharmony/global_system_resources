@@ -1909,7 +1909,7 @@
             {
                 "name": "ohos.permission.ACCESS_CERT_MANAGER_INTERNAL",
                 "grantMode": "system_grant",
-                "availableLevel": "system_core",
+                "availableLevel": "system_basic",
                 "since": 9,
                 "deprecated": "",
                 "provisionEnable": true,
@@ -3284,6 +3284,33 @@
                 "distributedSceneEnable":false
             },
             {
+                "name":"ohos.permission.EXEMPT_CAMERA_PRIVACY_INDICATOR",
+                "grantMode":"system_grant",
+                "availableLevel":"system_core",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
+            },
+            {
+                "name":"ohos.permission.EXEMPT_MICROPHONE_PRIVACY_INDICATOR",
+                "grantMode":"system_grant",
+                "availableLevel":"system_core",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
+            },
+            {
+                "name":"ohos.permission.EXEMPT_LOCATION_PRIVACY_INDICATOR",
+                "grantMode":"system_grant",
+                "availableLevel":"system_core",
+                "since":12,
+                "deprecated":"",
+                "provisionEnable":true,
+                "distributedSceneEnable":false
+            },
+            {
                 "name":"ohos.permission.SET_SUPER_PRIVACY",
                 "grantMode":"system_grant",
                 "availableLevel":"system_core",
@@ -3584,6 +3611,24 @@
                 "name": "ohos.permission.PROTECT_SCREEN_LOCK_DATA",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+             {
+                "name": "ohos.permission.ACCESS_DEVICE_COLLABORATION_PRIVATE_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_RINGTONE_RESOURCE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
                 "since": 12,
                 "deprecated": "",
                 "provisionEnable": true,

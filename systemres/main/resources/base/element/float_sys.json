@@ -50,7 +50,7 @@
         },
         {
             "name": "alert_title_padding_top",
-            "value": "$float:padding_level4"
+            "value": "$float:padding_level6"
         },
         {
             "name": "alert_title_padding_right",
@@ -58,7 +58,7 @@
         },
         {
             "name": "alert_title_padding_bottom",
-            "value": "$float:padding_level4"
+            "value": "$float:padding_level6"
         },
         {
             "name": "alert_title_secondary_height",
@@ -243,6 +243,14 @@
         {
             "name": "margin_level3",
             "value": "32.0vp"
+        },
+        {
+            "name": "breakpoint_horizontal_s",
+            "value": "600.0vp"
+        },
+        {
+            "name": "breakpoint_horizontal_m",
+            "value": "840.0vp"
         },
         {
             "name": "control_button_margin_top_small",
