@@ -262,6 +262,26 @@
                 {
                     "name": "normal_button_focus_bgcolor",
                     "value": "$color:ohos_id_normal_button_focus_bgcolor"
+                },
+                {
+                    "name": "button_aging_big_font_size_scale",
+                    "value": "$float:ohos_id_big_font_size_scale"
+                },
+                {
+                    "name": "button_aging_large_font_size_scale",
+                    "value": "$float:ohos_id_large_font_size_scale"
+                },
+                {
+                    "name": "button_aging_max_font_size_scale",
+                    "value": "$float:ohos_id_max_font_size_scale"
+                },
+                {
+                    "name": "button_aging_normal_padding",
+                    "value": "$float:button_aging_normal_padding"
+                },
+                {
+                    "name": "button_aging_small_padding",
+                    "value": "$float:button_aging_small_padding"
                 }
             ]
         },

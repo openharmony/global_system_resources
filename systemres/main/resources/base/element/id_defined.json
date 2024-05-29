@@ -18408,6 +18408,16 @@
             "type": "string",
             "name": "icon_save",
             "order": 3649
+        },
+        {
+            "type": "float",
+            "name": "button_aging_normal_padding",
+            "order": 3650
+        },
+        {
+            "type": "float",
+            "name": "button_aging_small_padding",
+            "order": 3651
         }
     ]
 }
