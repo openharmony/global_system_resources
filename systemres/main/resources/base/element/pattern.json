@@ -6549,6 +6549,38 @@
                 {
                     "name": "control_button_back_board_stroke_color",
                     "value": "$color:interactive_focus"
+                },
+                {
+                    "name": "control_button_margin_left_small",
+                    "value": "$float:margin_level1"
+                },
+                {
+                    "name": "control_button_margin_left_middle",
+                    "value": "$float:margin_level2"
+                },
+                {
+                    "name": "control_button_margin_left_large",
+                    "value": "$float:margin_level3"
+                },
+                {
+                    "name": "break_point_horizontal_small",
+                    "value": "$float:breakpoint_horizontal_s"
+                },
+                {
+                    "name": "break_point_horizontal_middle",
+                    "value": "$float:breakpoint_horizontal_m"
+                },
+                {
+                    "name": "control_button_margin_top_small",
+                    "value": "$float:control_button_margin_top_small"
+                },
+                {
+                    "name": "control_button_width_small",
+                    "value": "$float:control_button_width_small"
+                },
+                {
+                    "name": "control_button_height_small",
+                    "value": "$float:control_button_height_small"
                 }
             ]
         },
