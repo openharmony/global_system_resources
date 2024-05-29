@@ -22034,6 +22034,21 @@
             "type": "media",
             "name": "save_button_picture",
             "order": 4374
+        },
+        {
+            "type": "string",
+            "name": "menu_normal_layout",
+            "order": 4375
+        },
+        {
+            "type": "string",
+            "name": "menu_normal_placement",
+            "order": 4376
+        },
+        {
+            "type": "string",
+            "name": "menu_back_blur",
+            "order": 4377
         }
     ]
 }
