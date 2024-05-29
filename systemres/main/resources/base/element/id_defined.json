@@ -18395,19 +18395,34 @@
             "order": 3646
         },
         {
+            "type": "string",
+            "name": "icon_back",
+            "order": 3647
+        },
+        {
+            "type": "string",
+            "name": "icon_cancel",
+            "order": 3648
+        },
+        {
+            "type": "string",
+            "name": "icon_save",
+            "order": 3649
+        },
+        {
             "type": "float",
             "name": "control_button_margin_top_small",
-            "order": 3647
+            "order": 3650
         },
         {
             "type": "float",
             "name": "control_button_width_small",
-            "order": 3648
+            "order": 3651
         },
         {
             "type": "float",
             "name": "control_button_height_small",
-            "order": 3649
+            "order": 3652
         }
     ]
 }
