@@ -22089,6 +22089,16 @@
 	    "type": "color",
             "name": "dataPanel_color_subheading_separator",
             "order": 4385
+        },
+        {
+            "type": "color",
+            "name": "color_sidebarcontainer_sub_bg",
+            "order": 4386
+        },
+        {
+            "type": "float",
+            "name": "sidebarcontainer_width",
+            "order": 4387
         }
     ]
 }
