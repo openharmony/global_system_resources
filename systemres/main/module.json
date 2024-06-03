@@ -750,15 +750,6 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.ASSIST_DEVICE_UPDATE",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": 12,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
                 "name": "ohos.permission.UPDATE_MIGRATE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",

@@ -2677,6 +2677,18 @@
                 {
                     "name": "toolbar_background_blur_style",
                     "value": "0"
+                },
+                {
+                    "name": "title_margin_level1",
+                    "value": "$float:margin_level1"
+                },
+                {
+                    "name": "title_margin_level2",
+                    "value": "$float:margin_level2"
+                },
+                {
+                    "name": "title_margin_level3",
+                    "value": "$float:margin_level3"
                 }
             ]
         },
@@ -6526,10 +6538,6 @@
                 {
                     "name": "sheet_type",
                     "value": "$string:ohos_id_sheet_type"
-                },
-                {
-                    "name": "sheet_bottom",
-                    "value": "$string:ohos_id_sheet_bottom"
                 },
                 {
                     "name": "mask_color",
