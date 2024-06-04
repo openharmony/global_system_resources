@@ -18267,6 +18267,178 @@
             "type": "float",
             "name": "margin_level3",
             "order": 3621
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_big_font_size_scale",
+            "order": 3622
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_large_font_size_scale",
+            "order": 3623
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_max_font_size_scale",
+            "order": 3624
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_big_dialog_width",
+            "order": 3625
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_max_dialog_width",
+            "order": 3626
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_ideal_size",
+            "order": 3627
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_property_top",
+            "order": 3628
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_dialog_property_bottom",
+            "order": 3629
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_property_left",
+            "order": 3630
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_property_bottom",
+            "order": 3631
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_text_property_right",
+            "order": 3632
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_calendar_picker_dialog_button_transparent",
+            "order": 3633
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_calendar_picker_dialog_divider_transparent",
+            "order": 3634
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_menu_has_filter",
+            "order": 3635
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_aging_adapation_dialog_pattern",
+            "order": 3636,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_aging_font_scale",
+            "order": 3637
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_progress_aging_padding_height",
+            "order": 3638
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_normal_button_focus_bgcolor",
+            "order": 3639
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_swiper_dot_active_color",
+            "order": 3640
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_swiper_dot_color",
+            "order": 3641
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_swiper_mask_color_start",
+            "order": 3642
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_swiper_mask_color_end",
+            "order": 3643
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_swiper_container_color",
+            "order": 3644
+        },
+        {
+            "type": "float",
+            "name": "breakpoint_horizontal_s",
+            "order": 3645
+        },
+        {
+            "type": "float",
+            "name": "breakpoint_horizontal_m",
+            "order": 3646
+        },
+        {
+            "type": "string",
+            "name": "icon_back",
+            "order": 3647
+        },
+        {
+            "type": "string",
+            "name": "icon_cancel",
+            "order": 3648
+        },
+        {
+            "type": "string",
+            "name": "icon_save",
+            "order": 3649
+        },
+        {
+            "type": "float",
+            "name": "button_aging_normal_padding",
+            "order": 3650
+        },
+        {
+            "type": "float",
+            "name": "button_aging_small_padding",
+            "order": 3651
+        },
+        {
+            "type": "float",
+            "name": "control_button_margin_top_small",
+            "order": 3652
+        },
+        {
+            "type": "float",
+            "name": "control_button_width_small",
+            "order": 3653
+        },
+        {
+            "type": "float",
+            "name": "control_button_height_small",
+            "order": 3654
+        },
+        {
+            "type": "media",
+            "name": "ic_form_menu_add",
+            "order": 3655,
+            "flags": "private"
         }
     ]
 }
