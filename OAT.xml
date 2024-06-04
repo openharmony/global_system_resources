@@ -53,6 +53,8 @@
                 <filteritem type="filepath" name="fonts/.*" desc="For license see LICENSE_Fonts."/>
                 <filteritem type="filepath" name="test/tool/test_font.hap" desc="self developed testing tools."/>
                 <filteritem type="filepath" name="systemres/main/resources/base/media/ohos_moon_progress_fg_circle_shadow.png" desc="自研的二进制图片"/>
+                <filteritem type="filepath" name="test/code/AppScope/resources/base/media/app_icon.png" desc="self developed image."/>
+                <filteritem type="filepath" name="test/code/entry/src/main/resources/base/media/icon.png" desc="self developed image."/>
             </filefilter>
              <filefilter name="defaultPolicyFilter" desc="License文件头校验策略的过滤条件" >
                 <filteritem type="filename" name="hvigorw" desc="OpenHarmony工程编译入口脚本，无需添加License头"/>
