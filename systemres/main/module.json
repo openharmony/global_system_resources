@@ -3472,7 +3472,7 @@
                 "provisionEnable":true,
                 "distributedSceneEnable":false
             },
-            {    
+            {
                 "name":"ohos.permission.PRELOAD_UI_EXTENSION_ABILITY",
                 "grantMode":"system_grant",
                 "availableLevel":"system_basic",
@@ -3674,6 +3674,15 @@
                 "name": "ohos.permission.ACCESS_SCREEN_LOCK",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.INJECT_INPUT_EVENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
                 "since": 12,
                 "deprecated": "",
                 "provisionEnable": true,
