@@ -22100,6 +22100,16 @@
             "type": "float",
             "name": "sidebarcontainer_width",
             "order": 4387
-        }    
+        },
+        {
+            "type": "float",
+            "name": "dialog_title_max_scale_aging",
+            "order": 4388
+        },
+        {
+            "type": "float",
+            "name": "dialog_default_scale_aging",
+            "order": 4389
+        }
     ]
 }

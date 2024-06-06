@@ -2298,6 +2298,14 @@
                 {
                     "name": "dialog_column_measure_type",
                     "value": "$float:ohos_id_dialog_column_measure_type"
+                },
+                {
+                    "name": "dialog_title_max_scale_aging",
+                    "value": "$float:dialog_title_max_scale_aging"
+                },
+                {
+                    "name": "dialog_default_scale_aging",
+                    "value": "$float:dialog_default_scale_aging"
                 }
             ]
         },
