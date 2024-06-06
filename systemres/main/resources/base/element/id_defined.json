@@ -22110,6 +22110,11 @@
             "type": "float",
             "name": "dialog_default_scale_aging",
             "order": 4389
+        },
+        {
+            "type": "string",
+            "name": "textfield_accessibility_property_delete",
+            "order": 4390
         }
     ]
 }
