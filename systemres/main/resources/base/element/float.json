@@ -3507,6 +3507,14 @@
         {
             "name": "dialog_default_scale_aging",
             "value": "1.0"
+        },
+        {
+            "name": "dialog_content_max_scale_aging",
+            "value": "3.2"
+        },
+        {
+            "name": "dialog_content_landscape_max_scale_aging",
+            "value": "2.0"
         }
     ]
 }
