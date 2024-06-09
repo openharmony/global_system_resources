@@ -2006,6 +2006,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MICROPHONE_CONTROL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_CAMERA_CONFIG",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
