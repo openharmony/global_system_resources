@@ -22170,6 +22170,16 @@
             "type": "float",
             "name": "dialog_content_landscape_max_scale_aging",
             "order": 4401
+        },
+        {
+            "type": "float",
+            "name": "dialog_button_max_scale_aging",
+            "order": 4402
+        },
+        {
+            "type": "float",
+            "name": "dialog_button_landscape_max_scale_aging",
+            "order": 4403
         }
     ]
 }

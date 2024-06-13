@@ -2314,6 +2314,14 @@
                 {
                     "name": "dialog_content_landscape_max_scale_aging",
                     "value": "$float:dialog_content_landscape_max_scale_aging"
+                },
+                {
+                    "name": "dialog_button_max_scale_aging",
+                    "value": "$float:dialog_button_max_scale_aging"
+                },
+                {
+                    "name": "dialog_button_landscape_max_scale_aging",
+                    "value": "$float:dialog_button_landscape_max_scale_aging"
                 }
             ]
         },
