@@ -22089,6 +22089,56 @@
 	    "type": "color",
             "name": "dataPanel_color_subheading_separator",
             "order": 4385
+        },
+        {
+            "type": "float",
+            "name": "slider_measure_content_default_width",
+            "order": 4386
+        },
+        {
+            "type": "color",
+            "name": "slider_color_emphasize",
+            "order": 4387
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_block_size",
+            "order": 4388
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_hot_block_shadow_width",
+            "order": 4389
+        },
+        {
+            "type": "color",
+            "name": "slider_color_foreground_contrary",
+            "order": 4390
+        },
+        {
+            "type": "color",
+            "name": "slider_color_hover",
+            "order": 4391
+        },
+        {
+            "type": "color",
+            "name": "slider_color_click_effect",
+            "order": 4392
+        },
+        {
+            "type": "color",
+            "name": "slider_block_shadow_color",
+            "order": 4393
+        },
+        {
+            "type": "float",
+            "name": "slider_scale_value",
+            "order": 4394
+        },
+        {
+            "type": "float",
+            "name": "slider_control_focus_frame",
+            "order": 4395
         }
     ]
 }
