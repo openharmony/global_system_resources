@@ -6778,6 +6778,14 @@
                 {
                     "name": "sheet_background_blur_style",
                     "value": "0"
+                },
+                {
+                    "name": "sheet_normal_aging_scale",
+                    "value": "$float:ohos_id_normal_font_size_scale"
+                },
+                {
+                    "name": "sheet_max_aging_scale",
+                    "value": "$float:ohos_id_big_font_size_scale"
                 }
             ]
         },
