@@ -22160,6 +22160,16 @@
             "type": "media",
             "name": "ic_public_worldclock_filled",
             "order": 4399
+        },
+        {
+            "type": "float",
+            "name": "dialog_content_max_scale_aging",
+            "order": 4400
+        },
+        {
+            "type": "float",
+            "name": "dialog_content_landscape_max_scale_aging",
+            "order": 4401
         }
     ]
 }
