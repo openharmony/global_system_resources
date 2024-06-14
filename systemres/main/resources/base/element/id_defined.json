@@ -22084,9 +22084,9 @@
             "type": "media",
             "name": "clone_app_badge_5",
             "order": 4384
-	},
-	{
-	    "type": "color",
+        },
+        {
+            "type": "color",
             "name": "dataPanel_color_subheading_separator",
             "order": 4385
         },
@@ -22139,6 +22139,271 @@
             "type": "float",
             "name": "slider_control_focus_frame",
             "order": 4395
+        },
+        {
+            "type": "float",
+            "name": "sheet_corner_radius",
+            "order": 4396
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_text_font_size",
+            "order": 4397
+        },
+        {
+            "type": "color",
+            "name": "sheet_title_text_font_color",
+            "order": 4398
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_text_margin",
+            "order": 4399
+        },
+        {
+            "type": "color",
+            "name": "sheet_panel_background_color",
+            "order": 4400
+        },
+        {
+            "type": "float",
+            "name": "sheet_panel_background_blur_style",
+            "order": 4401
+        },
+        {
+            "type": "float",
+            "name": "sheet_height_percent_large_sys",
+            "order": 4402
+        },
+        {
+            "type": "float",
+            "name": "sheet_height_percent_medium_sys",
+            "order": 4403
+        },
+        {
+            "type": "float",
+            "name": "sheet_operation_height_sys",
+            "order": 4404
+        },
+        {
+            "type": "float",
+            "name": "popup_border_width",
+            "order": 4405
+        },
+        {
+            "type": "float",
+            "name": "popup_target_space",
+            "order": 4406
+        },
+        {
+            "type": "float",
+            "name": "popup_corner_radius",
+            "order": 4407
+        },
+        {
+            "type": "float",
+            "name": "popup_min_height",
+            "order": 4408
+        },
+        {
+            "type": "float",
+            "name": "popup_max_columns",
+            "order": 4409
+        },
+        {
+            "type": "float",
+            "name": "popup_horizontal_padding",
+            "order": 4410
+        },
+        {
+            "type": "float",
+            "name": "popup_vertical_padding",
+            "order": 4411
+        },
+        {
+            "type": "float",
+            "name": "popup_text_font_size",
+            "order": 4412
+        },
+        {
+            "type": "color",
+            "name": "popup_default_bg_color",
+            "order": 4413
+        },
+        {
+            "type": "color",
+            "name": "popup_border_color",
+            "order": 4414
+        },
+        {
+            "type": "color",
+            "name": "popup_text_primary_color",
+            "order": 4415
+        },
+        {
+            "type": "float",
+            "name": "image_animator_corner_radius_card",
+            "order": 4416
+        },
+        {
+            "type": "color",
+            "name": "color_sidebarcontainer_sub_bg",
+            "order": 4417
+        },
+        {
+            "type": "float",
+            "name": "sidebarcontainer_width",
+            "order": 4418
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_activemagnify",
+            "order": 4419
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_touchmagnify",
+            "order": 4420
+        },
+        {
+            "type": "color",
+            "name": "scrollbar_color_foreground",
+            "order": 4421
+        },
+        {
+            "type": "color",
+            "name": "scroll_bar_background_color",
+            "order": 4422
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_elements_margin_horizontal_s",
+            "order": 4423
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_shape_mode",
+            "order": 4424
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_normal_width",
+            "order": 4425
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_active_width",
+            "order": 4426
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_min_height",
+            "order": 4427
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_min_dynamic_height",
+            "order": 4428
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_reserved_height",
+            "order": 4429
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_touch_width",
+            "order": 4430
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_alpha_content_tertiary",
+            "order": 4431
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar__border_radius",
+            "order": 4432
+	    },
+        {
+            "type": "color",
+            "name": "scroll_bar_back_color",
+            "order": 4433
+        },
+        {
+            "type": "float",
+            "name": "textfield_font_size",
+            "order": 4434
+        },
+        {
+            "type": "float",
+            "name": "textfield_border_radius",
+            "order": 4435
+        },
+        {
+            "type": "color",
+            "name": "textfield_bg_color",
+            "order": 4436
+        },
+        {
+            "type": "color",
+            "name": "textfield_cursor_color",
+            "order": 4437
+        },
+        {
+            "type": "color",
+            "name": "search_text_color",
+            "order": 4438
+        },
+        {
+            "type": "float",
+            "name": "search_default_height",
+            "order": 4439
+        },
+        {
+            "type": "color",
+            "name": "search_placeholder_color",
+            "order": 4440
+        },
+        {
+            "type": "color",
+            "name": "search_border_color",
+            "order": 4441
+        },
+        {
+            "type": "float",
+            "name": "search_border_width",
+            "order": 4442
+        },
+        {
+            "type": "float",
+            "name": "text_picker_vertical_padding",
+            "order": 4443
+        },
+        {
+            "type": "float",
+            "name": "text_picker_text_size_headline8",
+            "order": 4444
+        },
+        {
+            "type": "color",
+            "name": "text_picker_color_text_primary_activated",
+            "order": 4445
+        },
+        {
+            "type": "float",
+            "name": "text_picker_text_size_sub_title2",
+            "order": 4446
+        },
+        {
+            "type": "color",
+            "name": "text_picker_color_text_primary",
+            "order": 4447
+        },
+        {
+            "type": "float",
+            "name": "text_picker_text_size_sub_title3",
+            "order": 4448
         }
     ]
 }
