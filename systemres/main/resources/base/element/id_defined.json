@@ -22200,6 +22200,16 @@
             "type": "string",
             "name": "textfield_accessibility_handle_password",
             "order": 4407
+        },
+        {
+            "type": "float",
+            "name": "dialog_min_scale_aging",
+            "order": 4408
+        },
+        {
+            "type": "float",
+            "name": "dialog_landscape_boundary_aging",
+            "order": 4409
         }
     ]
 }
