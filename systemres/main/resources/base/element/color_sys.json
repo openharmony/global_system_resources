@@ -213,6 +213,18 @@
             "value": "$color:comp_divider"
         },
         {
+            "name": "popup_default_bg_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "popup_border_color",
+            "value": "#FF000000"
+        },
+        {
+            "name": "popup_text_primary_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
             "name": "titlebar_title_tertiary_color",
             "value": "$color:font_primary"
         },
@@ -263,6 +275,59 @@
         {
             "name": "slider_block_shadow_color",
             "value": "#26000000"
+        },
+        {
+            "name": "sheet_title_text_font_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "sheet_panel_background_color",
+            "value": "$color:ohos_id_color_panel_bg"
+        },
+        {
+            "name": "color_sidebarcontainer_sub_bg",
+            "value": "$color:ohos_id_color_text_field_sub_bg"
+        }
+        ,
+        {
+            "name": "scrollbar_color_foreground",
+            "value": "$color:ohos_id_color_foreground"
+        },
+        {
+            "name": "scroll_bar_background_color",
+            "value": "$color:ohos_id_scroll_bar_background_color"
+        },
+        {
+            "name": "scroll_bar_back_color",
+            "value": "$color:ohos_id_color_component_normal"
+        },
+        {
+            "name": "textfield_bg_color",
+            "value": "$color:ohos_id_color_text_field_sub_bg"
+        },
+        {
+            "name": "search_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "textfield_cursor_color",
+            "value": "$color:ohos_id_color_text_primary_activated"
+        },
+        {
+            "name": "search_placeholder_color",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "search_border_color",
+            "value": "#26FFFFFF"
+        },
+        {
+            "name": "text_picker_color_text_primary_activated",
+            "value": "$color:ohos_id_color_text_primary_activated"
+        },
+        {
+            "name": "text_picker_color_text_primary",
+            "value": "$color:ohos_id_color_text_primary"
         }
     ]
   }
