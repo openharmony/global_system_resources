@@ -4177,6 +4177,10 @@
                 {
                     "name": "text_fadeout_width",
                     "value": "$float:ohos_id_text_fadeout_width"
+                },
+                {
+                    "name": "textfield_show_handle",
+                    "value": "$string:ohos_textfield_show_handle"
                 }
             ]
         },
@@ -6630,6 +6634,10 @@
                 {
                     "name": "default_text_color",
                     "value": "$color:font_primary"
+                },
+                {
+                    "name": "textfield_show_handle",
+                    "value": "$string:ohos_textfield_show_handle"
                 }
             ]
         },
