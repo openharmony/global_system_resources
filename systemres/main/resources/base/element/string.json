@@ -810,7 +810,15 @@
         },
         {
             "name" : "textfield_accessibility_property_delete",
-            "value" : "Delete, button"
+            "value" : "Clear, button"
+        },
+        {
+            "name" : "textfield_accessibility_show_password",
+            "value" : "Show password plaintext"
+        },
+        {
+            "name" : "textfield_accessibility_handle_password",
+            "value" : "Don't show password plaintext"
         }
     ]
 }
