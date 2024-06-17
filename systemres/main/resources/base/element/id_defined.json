@@ -22190,6 +22190,16 @@
             "type": "float",
             "name": "option_min_height",
             "order": 4405
+        },
+        {
+            "type": "string",
+            "name": "textfield_accessibility_show_password",
+            "order": 4406
+        },
+        {
+            "type": "string",
+            "name": "textfield_accessibility_handle_password",
+            "order": 4407
         }
     ]
 }
