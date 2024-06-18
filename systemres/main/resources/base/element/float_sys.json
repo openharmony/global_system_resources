@@ -431,6 +431,26 @@
         {
             "name": "text_picker_vertical_padding",
             "value": "8.0vp"
+        },
+        {
+            "name": "search_focus_border_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "search_focus_border_padding",
+            "value": "2.0vp"
+        },
+        {
+            "name": "search_focus_effect_type",
+            "value": "0.0"
+        },
+        {
+            "name": "search_icon_size",
+            "value": "$float:ohos_id_search_icon_size"
+        },
+        {
+            "name": "search_icon_height",
+            "value": "$float:ohos_id_search_icon_height"
         }
     ]
   }

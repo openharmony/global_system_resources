@@ -328,6 +328,38 @@
         {
             "name": "text_picker_color_text_primary",
             "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "search_focus_border_color",
+            "value": "$color:ohos_id_color_focused_outline"
+        },
+        {
+            "name": "search_icon_color",
+            "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "search_symbol_icon_color",
+            "value": "$color:font_secondary"
+        },
+        {
+            "name": "search_text_color_focused",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "search_focus_bg_color",
+            "value": "$color:ohos_id_color_text_field_sub_bg"
+        },
+        {
+            "name": "search_focus_icon_color",
+            "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "search_hover_color",
+            "value": "$color:ohos_id_color_text_field_sub_bg"
+        },
+        {
+            "name": "search_touch_color",
+            "value": "$color:ohos_id_color_text_field_sub_bg"
         }
     ]
   }

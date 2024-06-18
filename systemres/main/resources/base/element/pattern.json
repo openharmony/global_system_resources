@@ -3576,7 +3576,7 @@
                 },
                 {
                     "name": "text_color_focused",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:search_text_color_focused"
                 },
                 {
                     "name": "text_font_size",
@@ -3584,11 +3584,11 @@
                 },
                 {
                     "name": "search_touch_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:search_touch_color"
                 },
                 {
                     "name": "search_hover_color",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:search_hover_color"
                 },
                 {
                     "name": "search_divider_side_space",
@@ -3596,7 +3596,7 @@
                 },
                 {
                     "name": "search_icon_height",
-                    "value": "$float:ohos_id_search_icon_height"
+                    "value": "$float:search_icon_height"
                 },
                 {
                     "name": "search_icon_right_space",
@@ -3628,7 +3628,7 @@
                 },
                 {
                     "name": "search_icon_color",
-                    "value": "$color:ohos_id_color_secondary"
+                    "value": "$color:search_icon_color"
                 },
                 {
                     "name": "search_default_height",
@@ -3636,7 +3636,7 @@
                 },
                 {
                     "name": "search_icon_size",
-                    "value": "$float:ohos_id_search_icon_size"
+                    "value": "$float:search_icon_size"
                 },
                 {
                     "name": "search_close_icon_size",
@@ -3677,6 +3677,30 @@
                 {
                     "name": "search_border_width",
                     "value": "$float:search_border_width"
+                },
+                {
+                    "name": "search_focus_border_color",
+                    "value": "$color:search_focus_border_color"
+                },
+                {
+                    "name": "search_focus_border_width",
+                    "value": "$float:search_focus_border_width"
+                },
+                {
+                    "name": "search_focus_border_padding",
+                    "value": "$float:search_focus_border_padding"
+                },
+                {
+                    "name": "search_focus_effect_type",
+                    "value": "$float:search_focus_effect_type"
+                },
+                {
+                    "name": "search_focus_bg_color",
+                    "value": "$color:search_focus_bg_color"
+                },
+                {
+                    "name": "search_focus_icon_color",
+                    "value": "$color:search_focus_icon_color"
                 }
             ]
         },
