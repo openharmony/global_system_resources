@@ -22404,6 +22404,18 @@
             "type": "float",
             "name": "text_picker_text_size_sub_title3",
             "order": 4448
+        },
+	    {
+            "type": "pattern",
+            "name": "ohos_arc_list_item_pattern",
+            "order": 4396,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_arc_list_pattern",
+            "order": 4397,
+            "flags": "private"
         }
     ]
 }
