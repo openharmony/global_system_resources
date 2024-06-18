@@ -684,6 +684,14 @@
         {
             "name": "option_selected_border_color",
             "value": "#00000000"
+        },
+        {
+            "name": "qrcode_color_foreground",
+            "value": "$color:ohos_id_color_foreground"
+        },
+        {
+            "name": "qrcode_color_background",
+            "value": "$color:ohos_id_color_background"
         }
     ]
   }

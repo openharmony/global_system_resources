@@ -1380,11 +1380,11 @@
             "value": [
                 {
                     "name": "qrcode_foreground_color",
-                    "value": "$color:ohos_id_color_foreground"
+                    "value": "$color:qrcode_color_foreground"
                 },
                 {
                     "name": "qrcode_background_color",
-                    "value": "$color:ohos_id_color_background"
+                    "value": "$color:qrcode_color_background"
                 },
                 {
                     "name": "default_size",
