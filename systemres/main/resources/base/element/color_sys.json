@@ -356,6 +356,22 @@
         {
             "name": "search_touch_color",
             "value": "#00000000"
+        },
+        {
+            "name": "rating_icon_color_active",
+            "value": "$color:ohos_id_color_palette11"
+        },
+        {
+            "name": "rating_icon_color_inactive",
+            "value": "$color:ohos_id_color_component_normal"
+        },
+        {
+            "name": "rating_bg_color_hovered",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "rating_bg_color_pressed",
+            "value": "$color:ohos_id_color_click_effect"
         }
     ]
   }
