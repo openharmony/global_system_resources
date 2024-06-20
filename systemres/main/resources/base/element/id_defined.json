@@ -22489,6 +22489,36 @@
             "type": "float",
             "name": "rating_icon_board_distance",
             "order": 4465
+        },
+        {
+            "type": "float",
+            "name": "segment_button_height",
+            "order": 4466
+        },
+        {
+            "type": "float",
+            "name": "segment_min_button_height",
+            "order": 4467
+        },
+        {
+            "type": "float",
+            "name": "segment_button_baseplate_padding",
+            "order": 4468
+        },
+        {
+            "type": "float",
+            "name": "segment_button_text_u_d_padding",
+            "order": 4469
+        },
+        {
+            "type": "float",
+            "name": "segment_button_text_capsule_u_d_padding",
+            "order": 4470
+        },
+        {
+            "type": "float",
+            "name": "segment_button_text_l_r_padding",
+            "order": 4471
         }
     ]
 }
