@@ -22484,6 +22484,11 @@
             "type": "color",
             "name": "rating_icon_color_active",
             "order": 4464
+        },
+        {
+            "type": "float",
+            "name": "rating_icon_board_distance",
+            "order": 4465
         }
     ]
 }
