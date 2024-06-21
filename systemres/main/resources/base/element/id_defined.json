@@ -22084,7 +22084,7 @@
             "type": "media",
             "name": "clone_app_badge_5",
             "order": 4384
-        },
+	    },
         {
             "type": "color",
             "name": "dataPanel_color_subheading_separator",
@@ -22404,6 +22404,121 @@
             "type": "float",
             "name": "text_picker_text_size_sub_title3",
             "order": 4448
+        },
+        {
+            "type": "float",
+            "name": "search_focus_effect_type",
+            "order": 4449
+        },
+        {
+            "type": "color",
+            "name": "search_focus_bg_color",
+            "order": 4450
+        },
+        {
+            "type": "color",
+            "name": "search_focus_icon_color",
+            "order": 4451
+        },
+        {
+            "type": "color",
+            "name": "search_icon_color",
+            "order": 4452
+        },
+        {
+            "type": "color",
+            "name": "search_symbol_icon_color",
+            "order": 4453
+        },
+        {
+            "type": "float",
+            "name": "search_icon_size",
+            "order": 4454
+        },
+        {
+            "type": "float",
+            "name": "search_icon_height",
+            "order": 4455
+        },
+        {
+            "type": "color",
+            "name": "search_text_color_focused",
+            "order": 4456
+        },
+        {
+            "type": "color",
+            "name": "search_hover_color",
+            "order": 4457
+        },
+        {
+            "type": "color",
+            "name": "search_touch_color",
+            "order": 4458
+        },
+        {
+            "type": "color",
+            "name": "rating_icon_color_inactive",
+            "order": 4459
+        },
+        {
+            "type": "color",
+            "name": "rating_bg_color_hovered",
+            "order": 4460
+        },
+        {
+            "type": "color",
+            "name": "rating_bg_color_pressed",
+            "order": 4461
+        },
+        {
+            "type": "float",
+            "name": "rating_hover_radius_size",
+            "order": 4462
+        },
+        {
+            "type": "float",
+            "name": "rating_icon_sub_size",
+            "order": 4463
+        },
+        {
+            "type": "color",
+            "name": "rating_icon_color_active",
+            "order": 4464
+        },
+        {
+            "type": "float",
+            "name": "rating_icon_board_distance",
+            "order": 4465
+        },
+        {
+            "type": "float",
+            "name": "segment_button_height",
+            "order": 4466
+        },
+        {
+            "type": "float",
+            "name": "segment_min_button_height",
+            "order": 4467
+        },
+        {
+            "type": "float",
+            "name": "segment_button_baseplate_padding",
+            "order": 4468
+        },
+        {
+            "type": "float",
+            "name": "segment_button_text_u_d_padding",
+            "order": 4469
+        },
+        {
+            "type": "float",
+            "name": "segment_button_text_capsule_u_d_padding",
+            "order": 4470
+        },
+        {
+            "type": "float",
+            "name": "segment_button_text_l_r_padding",
+            "order": 4471
         }
     ]
 }

@@ -3369,23 +3369,23 @@
             "value": [
                 {
                     "name": "icon_color_active",
-                    "value": "$color:ohos_id_color_palette11"
+                    "value": "$color:rating_icon_color_active"
                 },
                 {
                     "name": "icon_color_inactive",
-                    "value": "$color:ohos_id_color_component_normal"
+                    "value": "$color:rating_icon_color_inactive"
                 },
                 {
                     "name": "bg_color_hovered",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:rating_bg_color_hovered"
                 },
                 {
                     "name": "bg_color_pressed",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:rating_bg_color_pressed"
                 },
                 {
                     "name": "hover_radius_size",
-                    "value": "$float:ohos_id_corner_radius_default_xs"
+                    "value": "$float:rating_hover_radius_size"
                 },
                 {
                     "name": "hover_animation_duration",
@@ -3438,6 +3438,14 @@
                 {
                     "name": "rating_focus_border_width",
                     "value": "$float:ohos_id_rating_focus_border_width"
+                },
+                {
+                    "name": "rating_icon_sub_size",
+                    "value": "$float:rating_icon_sub_size"
+                },
+                {
+                    "name": "rating_icon_board_distance",
+                    "value": "$float:rating_icon_board_distance"
                 }
             ]
         },
@@ -3580,7 +3588,7 @@
                 },
                 {
                     "name": "text_color_focused",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:search_text_color_focused"
                 },
                 {
                     "name": "text_font_size",
@@ -3588,11 +3596,11 @@
                 },
                 {
                     "name": "search_touch_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:search_touch_color"
                 },
                 {
                     "name": "search_hover_color",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:search_hover_color"
                 },
                 {
                     "name": "search_divider_side_space",
@@ -3600,7 +3608,7 @@
                 },
                 {
                     "name": "search_icon_height",
-                    "value": "$float:ohos_id_search_icon_height"
+                    "value": "$float:search_icon_height"
                 },
                 {
                     "name": "search_icon_right_space",
@@ -3632,7 +3640,7 @@
                 },
                 {
                     "name": "search_icon_color",
-                    "value": "$color:ohos_id_color_secondary"
+                    "value": "$color:search_icon_color"
                 },
                 {
                     "name": "search_default_height",
@@ -3640,7 +3648,7 @@
                 },
                 {
                     "name": "search_icon_size",
-                    "value": "$float:ohos_id_search_icon_size"
+                    "value": "$float:search_icon_size"
                 },
                 {
                     "name": "search_close_icon_size",
@@ -3681,6 +3689,18 @@
                 {
                     "name": "search_border_width",
                     "value": "$float:search_border_width"
+                },
+                {
+                    "name": "search_focus_effect_type",
+                    "value": "$float:search_focus_effect_type"
+                },
+                {
+                    "name": "search_focus_bg_color",
+                    "value": "$color:search_focus_bg_color"
+                },
+                {
+                    "name": "search_focus_icon_color",
+                    "value": "$color:search_focus_icon_color"
                 }
             ]
         },

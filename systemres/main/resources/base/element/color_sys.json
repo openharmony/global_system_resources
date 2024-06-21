@@ -328,6 +328,50 @@
         {
             "name": "text_picker_color_text_primary",
             "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "search_icon_color",
+            "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "search_symbol_icon_color",
+            "value": "$color:font_secondary"
+        },
+        {
+            "name": "search_text_color_focused",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "search_focus_bg_color",
+            "value": "$color:ohos_id_color_text_field_sub_bg"
+        },
+        {
+            "name": "search_focus_icon_color",
+            "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "search_hover_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "search_touch_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "rating_icon_color_active",
+            "value": "$color:ohos_id_color_palette11"
+        },
+        {
+            "name": "rating_icon_color_inactive",
+            "value": "$color:ohos_id_color_component_normal"
+        },
+        {
+            "name": "rating_bg_color_hovered",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "rating_bg_color_pressed",
+            "value": "$color:ohos_id_color_click_effect"
         }
     ]
   }
