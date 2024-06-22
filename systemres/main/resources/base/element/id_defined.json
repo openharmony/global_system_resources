@@ -22524,6 +22524,206 @@
             "type": "float",
             "name": "toggle_bgcolor_checked_focus_alpha",
             "order": 4472
+        },
+        {
+            "type": "color",
+            "name": "toast_border_color",
+            "order": 4473
+        },
+        {
+            "type": "float",
+            "name": "toast_border_width",
+            "order": 4474
+        },
+        {
+            "type": "float",
+            "name": "toast_shadow_default",
+            "order": 4475
+        },
+        {
+            "type": "float",
+            "name": "toast_bottom",
+            "order": 4476
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_level4",
+            "order": 4477
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_level8",
+            "order": 4478
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_horizontal",
+            "order": 4479
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_vertical",
+            "order": 4480
+        },
+        {
+            "type": "float",
+            "name": "toast_corner_radius_level9",
+            "order": 4481
+        },
+        {
+            "type": "float",
+            "name": "toast_border_radius",
+            "order": 4482
+        },
+        {
+            "type": "color",
+            "name": "toast_color_instant_tip_bg",
+            "order": 4483
+        },
+        {
+            "type": "float",
+            "name": "toast_Body_M",
+            "order": 4484
+        },
+        {
+            "type": "float",
+            "name": "toast_text_font_size",
+            "order": 4485
+        },
+        {
+            "type": "color",
+            "name": "toast_color_text_primary_contrary",
+            "order": 4486
+        },
+		{   
+            "type": "float",
+            "name": "chip_normal_text_padding_left",
+            "order": 4487
+        },
+        {
+            "type":"float",
+            "name": "chip_normal_text_padding_right",
+            "order": 4488
+        },
+        {
+            "type":"float",
+            "name": "chip_small_text_padding_left",
+            "order": 4489
+        },
+        {
+            "type":"float",
+            "name": "chip_small_text_padding_right",
+            "order": 4490
+        },
+        {
+            "type":"float",
+            "name": "chip_normal_text_margin_left",
+            "order": 4491
+        },
+        {
+            "type":"float",
+            "name": "chip_normal_text_margin_right",
+            "order": 4492
+        },
+        {
+            "type":"float",
+            "name": "chip_small_text_margin_left",
+            "order": 4493
+        },
+        {
+            "type":"float",
+            "name": "chip_small_text_margin_right",
+            "order": 4494
+        },
+        {
+            "type":"float",
+            "name": "chip_normal_height",
+            "order": 4495
+        },
+        {
+            "type":"float",
+            "name": "chip_small_height",
+            "order": 4496
+        },
+        {
+            "type":"float",
+            "name": "chip_normal_border_width",
+            "order": 4497
+        },
+        {
+            "type":"float",
+            "name": "chip_small_border_width",
+            "order": 4498
+        },
+        {
+            "type":"float",
+            "name": "chip_shadowStyle_radius",
+            "order": 4499
+        },
+        {
+            "type":"float",
+            "name": "chip_normal_focused_fontsize",
+            "order": 4500
+        },
+        {
+            "type":"float",
+            "name": "chip_small_focused_fontsize",
+            "order": 4501
+        },
+        {
+            "type":"float",
+            "name": "chip_focused_btn_scale_x",
+            "order": 4502
+        },
+        {
+            "type":"float",
+            "name": "chip_focused_btn_scale_y",
+            "order": 4503
+        },
+        {
+            "type":"float",
+            "name": "chip_suffixIcon_size_width",
+            "order": 4504
+        },
+        {
+            "type":"float",
+            "name": "chip_suffixIcon_size_height",
+            "order": 4505
+        },
+        {
+            "type":"float",
+            "name": "chip_suffixIcon_size_default",
+            "order": 4506
+        },
+        {
+            "type":"color",
+            "name": "chip_normal_border_color",
+            "order": 4507
+        },
+        {
+            "type":"color",
+            "name": "chip_small_border_color",
+            "order": 4508
+        },
+        {
+            "type":"color",
+            "name": "chip_hover_fg",
+            "order": 4509
+        },
+        {
+            "type":"color",
+            "name": "chip_focus_bg",
+            "order": 4510
+        },
+        {
+            "type":"color",
+            "name": "chip_focus_text",
+            "order": 4511
+        },
+        {
+            "type":"color",
+            "name": "chip_focus_icon",
+            "order": 4512
         }
     ]
 }
