@@ -4893,6 +4893,10 @@
                 {
                     "name": "bg_color_focus_status_button_unchecked",
                     "value": "$color:ohos_id_bgcolor_focus_status_button_unchecked"
+                },
+                {
+                    "name": "bg_color_checked_focus_alpha",
+                    "value": "$float:toggle_bgcolor_checked_focus_alpha"
                 }
             ]
         },
