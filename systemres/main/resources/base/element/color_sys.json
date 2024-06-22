@@ -372,6 +372,42 @@
         {
             "name": "rating_bg_color_pressed",
             "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "toast_border_color",
+            "value": "#FF000000"
+        },
+        {
+            "name": "toast_color_instant_tip_bg",
+            "value": "$color:ohos_id_color_instant_tip_bg"
+        },
+        {
+            "name": "toast_color_text_primary_contrary",
+            "value": "$color:ohos_id_color_instant_tip_bg"
+        },
+		{
+            "name": "chip_normal_border_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "chip_small_border_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "chip_hover_fg",
+            "value": "#19000000"
+        },
+        {
+            "name": "chip_focus_bg",
+            "value": "#00000000"
+        },
+        {
+            "name": "chip_focus_text",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "chip_focus_icon",
+            "value": "$color:ohos_id_color_secondary"
         }
     ]
   }

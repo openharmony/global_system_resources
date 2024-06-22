@@ -483,6 +483,130 @@
         {
             "name": "toggle_bgcolor_checked_focus_alpha",
             "value": "0.2"
+        },
+        {
+            "name": "toast_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "toast_shadow_default",
+            "value": "6.0"
+        },
+        {
+            "name": "toast_bottom",
+            "value": "$float:ohos_id_toast_bottom"
+        },
+        {
+            "name": "toast_padding_level4",
+            "value": "$float:padding_level4"
+        },
+        {
+            "name": "toast_padding_level8",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "toast_padding_horizontal",
+            "value": "$float:ohos_id_toast_padding_horizontal"
+        },
+        {
+            "name": "toast_padding_vertical",
+            "value": "$float:ohos_id_toast_padding_vertical"
+        },
+        {
+            "name": "toast_corner_radius_level9",
+            "value": "$float:corner_radius_level9"
+        },
+        {
+            "name": "toast_border_radius",
+            "value": "$float:ohos_id_corner_radius_tips_instant_tip"
+        },
+        {
+            "name": "toast_Body_M",
+            "value": "$float:Body_M"
+        },
+        {
+            "name": "toast_text_font_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+		{
+            "name": "chip_normal_text_padding_left",
+            "value": "16"
+        },
+        {
+            "name": "chip_normal_text_padding_right",
+            "value": "16"
+        },
+        {
+            "name": "chip_small_text_padding_left",
+            "value": "12"
+        },
+        {
+            "name": "chip_small_text_padding_right",
+            "value": "12"
+        },
+        {
+            "name": "chip_normal_text_margin_left",
+            "value": "6"
+        },
+        {
+            "name": "chip_normal_text_margin_right",
+            "value": "6"
+        },
+        {
+            "name": "chip_small_text_margin_left",
+            "value": "4"
+        },
+        {
+            "name": "chip_small_text_margin_right",
+            "value": "4"
+        },
+        {
+            "name": "chip_normal_height",
+            "value": "36.0vp"
+        },
+        {
+            "name": "chip_small_height",
+            "value": "28.0vp"
+        },
+        {
+            "name": "chip_normal_border_width",
+            "value": "0"
+        },
+        {
+            "name": "chip_small_border_width",
+            "value": "0"
+        },
+        {
+            "name": "chip_shadowStyle_radius",
+            "value": "0"
+        },
+        {
+            "name": "chip_normal_focused_fontsize",
+            "value": "$float:ohos_id_text_size_button2"
+        },
+        {
+            "name": "chip_small_focused_fontsize",
+            "value": "$float:ohos_id_text_size_button2"
+        },
+        {
+            "name": "chip_focused_btn_scale_x",
+            "value": "1"
+        },
+        {
+            "name": "chip_focused_btn_scale_y",
+            "value": "1"
+        },
+        {
+            "name": "chip_suffixIcon_size_width",
+            "value": "16"
+        },
+        {
+            "name": "chip_suffixIcon_size_height",
+            "value": "16"
+        },
+        {
+            "name": "chip_suffixIcon_size_default",
+            "value": "16"
         }
     ]
   }
