@@ -23299,6 +23299,46 @@
             "type":"float",
             "name": "tab_focus_indicator_radius_sys",
             "order": 4627
+        },
+        {
+            "type": "color",
+            "name": "point_color_checked",
+            "order": 4628
+        },
+        {
+            "type": "float",
+            "name": "checkbox_default_size_twelve",
+            "order": 4629
+        },
+        {
+            "type": "float",
+            "name": "checkbox_default_padding_size",
+            "order": 4630
+        },
+        {
+            "type": "float",
+            "name": "checkbox_hover_padding_size",
+            "order": 4631
+        },
+        {
+            "type": "float",
+            "name": "radio_container_size",
+            "order": 4632
+        },
+        {
+            "type": "float",
+            "name": "radio_horizontal_padding",
+            "order": 4633
+        },
+        {
+            "type": "float",
+            "name": "radio_hover_bg_size",
+            "order": 4634
+        },
+        {
+            "type": "float",
+            "name": "radio_circle_dial",
+            "order": 4635
         }
     ]
 }
