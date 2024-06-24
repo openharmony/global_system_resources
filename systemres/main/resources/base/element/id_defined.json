@@ -22377,32 +22377,32 @@
         },
         {
             "type": "float",
-            "name": "text_picker_vertical_padding",
+            "name": "textpicker_vertical_padding",
             "order": 4443
         },
         {
             "type": "float",
-            "name": "text_picker_text_size_headline8",
+            "name": "textpicker_selected_text_size",
             "order": 4444
         },
         {
             "type": "color",
-            "name": "text_picker_color_text_primary_activated",
+            "name": "textpicker_selected_text_color",
             "order": 4445
         },
         {
             "type": "float",
-            "name": "text_picker_text_size_sub_title2",
+            "name": "textpicker_text_size",
             "order": 4446
         },
         {
             "type": "color",
-            "name": "text_picker_color_text_primary",
+            "name": "textpicker_text_color",
             "order": 4447
         },
         {
             "type": "float",
-            "name": "text_picker_text_size_sub_title3",
+            "name": "textpicker_disappear_text_size",
             "order": 4448
         },
         {
@@ -22724,6 +22724,21 @@
             "type":"color",
             "name": "chip_focus_icon",
             "order": 4512
+        },
+        {
+            "type": "float",
+            "name": "image_animator_adapt_radius",
+            "order": 4513
+        },
+        {
+            "type": "float",
+            "name": "textpicker_padding_horizontal",
+            "order": 4514
+        },
+        {
+            "type": "color",
+            "name": "textpicker_disappear_text_color",
+            "order": 4515
         }
     ]
 }
