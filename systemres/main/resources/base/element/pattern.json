@@ -2373,7 +2373,7 @@
             "value": [
                 {
                     "name": "focus_animation_color",
-                    "value": "$color:ohos_id_color_focused_outline"
+                    "value": "$color:focus_animation_color_sys"
                 }
             ]
         },
@@ -4115,15 +4115,15 @@
                 },
                 {
                     "name": "focus_indicator_radius",
-                    "value": "$float:ohos_id_corner_radius_clicked"
+                    "value": "$float:tab_focus_indicator_radius_sys"
                 },
                 {
                     "name": "subtab_text_on_color",
-                    "value": "$color:ohos_id_color_subtab_text_on"
+                    "value": "$color:tab_subtab_text_on_color_sys"
                 },
                 {
                     "name": "subtab_text_off_color",
-                    "value": "$color:ohos_id_color_subtab_text_off"
+                    "value": "$color:tab_subtab_text_off_color_sys"
                 },
                 {
                     "name": "subtab_indicator_height",
@@ -4155,15 +4155,15 @@
                 },
                 {
                     "name": "subtab_hover_color",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:tab_subtab_hover_color_sys"
                 },
                 {
                     "name": "subtab_press_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:tab_subtab_press_color_sys"
                 },
                 {
                     "name": "subtab_text_default_font_size",
-                    "value": "$float:ohos_id_text_size_body1"
+                    "value": "$float:tab_subtab_text_default_font_size_sys"
                 },
                 {
                     "name": "bottom_tab_horizontal_padding",
@@ -4215,7 +4215,7 @@
                 },
                 {
                     "name": "tab_bar_default_height",
-                    "value": "56.0vp"
+                    "value": "$float:tab_bar_default_height_sys"
                 },
                 {
                     "name": "bottom_tab_bar_default_height",
@@ -4239,7 +4239,7 @@
                 },
                 {
                     "name": "tab_bar_gradient_width",
-                    "value": "$float:ohos_id_tab_bar_gradient_width_default"
+                    "value": "$float:tab_bar_gradient_width_sys"
                 },
                 {
                     "name": "color_bottom_tab_sub_bg",

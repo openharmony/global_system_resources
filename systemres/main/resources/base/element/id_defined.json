@@ -23254,6 +23254,51 @@
             "type":"color",
             "name": "segment_button_color_Press",
             "order": 4618
+        },
+        {
+            "type":"color",
+            "name": "focus_animation_color_sys",
+            "order": 4619
+        },
+        {
+            "type":"color",
+            "name": "tab_subtab_text_on_color_sys",
+            "order": 4620
+        },
+        {
+            "type":"color",
+            "name": "tab_subtab_text_off_color_sys",
+            "order": 4621
+        },
+        {
+            "type":"color",
+            "name": "tab_subtab_hover_color_sys",
+            "order": 4622
+        },
+        {
+            "type":"color",
+            "name": "tab_subtab_press_color_sys",
+            "order": 4623
+        },
+        {
+            "type":"float",
+            "name": "tab_subtab_text_default_font_size_sys",
+            "order": 4624
+        },
+        {
+            "type":"float",
+            "name": "tab_bar_default_height_sys",
+            "order": 4625
+        },
+        {
+            "type":"float",
+            "name": "tab_bar_gradient_width_sys",
+            "order": 4626
+        },
+        {
+            "type":"float",
+            "name": "tab_focus_indicator_radius_sys",
+            "order": 4627
         }
     ]
 }
