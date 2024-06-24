@@ -349,6 +349,10 @@
             "value": "0.0vp"
         },
         {
+            "name": "image_animator_adapt_radius",
+            "value": "0"
+        },
+        {
             "name": "sidebarcontainer_width",
             "value": "-1.0vp"
         },
@@ -417,20 +421,24 @@
             "value": "0.0vp"
         },
         {
-            "name": "text_picker_text_size_headline8",
+            "name": "textpicker_selected_text_size",
             "value": "$float:ohos_id_text_size_headline8"
         },
         {
-            "name": "text_picker_text_size_sub_title2",
+            "name": "textpicker_text_size",
             "value": "$float:ohos_id_text_size_sub_title2"
         },
         {
-            "name": "text_picker_text_size_sub_title3",
+            "name": "textpicker_disappear_text_size",
             "value": "$float:ohos_id_text_size_sub_title3"
         },
         {
-            "name": "text_picker_vertical_padding",
+            "name": "textpicker_vertical_padding",
             "value": "8.0vp"
+        },
+        {
+            "name": "textpicker_padding_horizontal",
+            "value": "$float:ohos_id_picker_padding_horizontal"
         },
         {
             "name": "search_focus_effect_type",
@@ -607,6 +615,26 @@
         {
             "name": "chip_suffixIcon_size_default",
             "value": "16"
+        },
+        {
+            "name": "chip_normal_radius",
+            "value": "$float:ohos_id_corner_radius_tips_instant_tip"
+        },
+        {
+            "name": "chip_small_radius",
+            "value": "$float:ohos_id_corner_radius_piece"
+        },
+        {
+            "name": "chip_normal_font_size",
+            "value": "$float:ohos_id_text_size_button2"
+        },
+        {
+            "name": "chip_small_font_size",
+            "value": "$float:ohos_id_text_size_button2"
+        },
+        {
+            "name": "qrcode_default_size",
+            "value": "240.0vp"
         }
     ]
   }

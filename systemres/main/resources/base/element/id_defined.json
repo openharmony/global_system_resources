@@ -22377,32 +22377,32 @@
         },
         {
             "type": "float",
-            "name": "text_picker_vertical_padding",
+            "name": "textpicker_vertical_padding",
             "order": 4443
         },
         {
             "type": "float",
-            "name": "text_picker_text_size_headline8",
+            "name": "textpicker_selected_text_size",
             "order": 4444
         },
         {
             "type": "color",
-            "name": "text_picker_color_text_primary_activated",
+            "name": "textpicker_selected_text_color",
             "order": 4445
         },
         {
             "type": "float",
-            "name": "text_picker_text_size_sub_title2",
+            "name": "textpicker_text_size",
             "order": 4446
         },
         {
             "type": "color",
-            "name": "text_picker_color_text_primary",
+            "name": "textpicker_text_color",
             "order": 4447
         },
         {
             "type": "float",
-            "name": "text_picker_text_size_sub_title3",
+            "name": "textpicker_disappear_text_size",
             "order": 4448
         },
         {
@@ -22595,135 +22595,201 @@
             "name": "toast_color_text_primary_contrary",
             "order": 4486
         },
-		{   
+        {
             "type": "float",
             "name": "chip_normal_text_padding_left",
             "order": 4487
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_normal_text_padding_right",
             "order": 4488
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_small_text_padding_left",
             "order": 4489
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_small_text_padding_right",
             "order": 4490
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_normal_text_margin_left",
             "order": 4491
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_normal_text_margin_right",
             "order": 4492
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_small_text_margin_left",
             "order": 4493
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_small_text_margin_right",
             "order": 4494
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_normal_height",
             "order": 4495
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_small_height",
             "order": 4496
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_normal_border_width",
             "order": 4497
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_small_border_width",
             "order": 4498
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_shadowStyle_radius",
             "order": 4499
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_normal_focused_fontsize",
             "order": 4500
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_small_focused_fontsize",
             "order": 4501
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_focused_btn_scale_x",
             "order": 4502
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_focused_btn_scale_y",
             "order": 4503
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_suffixIcon_size_width",
             "order": 4504
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_suffixIcon_size_height",
             "order": 4505
         },
         {
-            "type":"float",
+            "type": "float",
             "name": "chip_suffixIcon_size_default",
             "order": 4506
         },
         {
-            "type":"color",
+            "type": "color",
             "name": "chip_normal_border_color",
             "order": 4507
         },
         {
-            "type":"color",
+            "type": "color",
             "name": "chip_small_border_color",
             "order": 4508
         },
         {
-            "type":"color",
+            "type": "color",
             "name": "chip_hover_fg",
             "order": 4509
         },
         {
-            "type":"color",
+            "type": "color",
             "name": "chip_focus_bg",
             "order": 4510
         },
         {
-            "type":"color",
+            "type": "color",
             "name": "chip_focus_text",
             "order": 4511
         },
         {
-            "type":"color",
+            "type": "color",
             "name": "chip_focus_icon",
             "order": 4512
+        },
+        {
+            "type": "float",
+            "name": "image_animator_adapt_radius",
+            "order": 4513
+        },
+        {
+            "type": "float",
+            "name": "textpicker_padding_horizontal",
+            "order": 4514
+        },
+        {
+            "type": "color",
+            "name": "textpicker_disappear_text_color",
+            "order": 4515
+        },
+        {
+            "type": "color",
+            "name": "chip_background_color",
+            "order": 4516
+        },
+        {
+            "type": "color",
+            "name": "chip_font_color",
+            "order": 4517
+        },
+        {
+            "type": "color",
+            "name": "chip_press_color",
+            "order": 4518
+        },
+        {
+            "type": "color",
+            "name": "chip_usually_icon_color",
+            "order": 4519
+        },
+        {
+            "type": "color",
+            "name": "chip_active_icon_color",
+            "order": 4520
+        },
+        {
+            "type": "float",
+            "name": "chip_normal_radius",
+            "order": 4521
+        },
+        {
+            "type": "float",
+            "name": "chip_small_radius",
+            "order": 4522
+        },
+        {
+            "type": "float",
+            "name": "chip_normal_font_size",
+            "order": 4523
+        },
+        {
+            "type": "float",
+            "name": "chip_small_font_size",
+            "order": 4524
+        },
+        {
+            "type": "float",
+            "name": "qrcode_default_size",
+            "order": 4525
         }
+
     ]
 }
