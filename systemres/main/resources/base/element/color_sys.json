@@ -412,6 +412,26 @@
         {
             "name": "chip_focus_icon",
             "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "chip_background_color",
+            "value": "$color:ohos_id_color_button_normal"
+        },
+        {
+            "name": "chip_font_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "chip_press_color",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "chip_usually_icon_color",
+            "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "chip_active_icon_color",
+            "value": "$color:ohos_id_color_text_primary_contrary"
         }
     ]
   }
