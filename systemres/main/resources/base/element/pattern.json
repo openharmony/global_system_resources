@@ -4285,7 +4285,11 @@
                 },
                 {
                     "name": "count_text_font_size",
-                    "value": "$float:ohos_id_text_size_caption"
+                    "value": "$float:ohos_id_text_size_caption1"
+                },
+                {
+                    "name": "count_text_max_font_scale",
+                    "value": "$float:ohos_id_large_font_size_scale"
                 },
                 {
                     "name": "over_text_color",
@@ -4317,7 +4321,11 @@
                 },
                 {
                     "name": "over_count_text_font_size",
-                    "value": "$float:ohos_id_text_size_caption"
+                    "value": "$float:ohos_id_text_size_caption1"
+                },
+                {
+                    "name": "over_count_text_max_font_scale",
+                    "value": "$float:ohos_id_large_font_size_scale"
                 },
                 {
                     "name": "over_count_border_color",
