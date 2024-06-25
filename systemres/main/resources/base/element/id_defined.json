@@ -23184,6 +23184,26 @@
             "type": "color",
             "name": "option_focused_font_color",
             "order": 4604
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_app_theme_pattern",
+            "order": 4605
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_width",
+            "order": 4606
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_box_glow",
+            "order": 4607
+        },
+        {
+            "type": "color",
+            "name": "app_theme_focus_color",
+            "order": 4608
         }
     ]
 }
