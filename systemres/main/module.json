@@ -361,6 +361,24 @@
                 "description": "$string:ohos_desc_approximately_location"
             },
             {
+                "name": "ohos.permission.CONTROL_LOCATION_SWITCH",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MOCK_LOCATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MEDIA_LOCATION",
                 "grantMode": "user_grant",
                 "availableLevel": "normal",
