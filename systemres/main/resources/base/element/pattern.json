@@ -3022,6 +3022,14 @@
                 {
                     "name": "text_picker_vertical_padding",
                     "value": "$float:textpicker_vertical_padding"
+                },
+                {
+                    "name": "picker_background_color",
+                    "value": "$color:ohos_id_picker_background_color"
+                },
+                {
+                    "name": "picker_crown_sensitivity",
+                    "value": "$float:ohos_id_picker_crown_sensitivity"
                 }
             ]
         },
