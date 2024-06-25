@@ -22789,6 +22789,26 @@
             "type": "float",
             "name": "qrcode_default_size",
             "order": 4525
+        },
+        {
+            "type": "float",
+            "name": "segment_button_min_font_size",
+            "order": 4526
+        },
+        {
+            "type": "float",
+            "name": "segment_button_normal_border_radius",
+            "order": 4527
+        },
+        {
+            "type": "float",
+            "name": "segment_marquee",
+            "order": 4528
+        },
+        {
+            "type": "float",
+            "name": "segment_focus_control",
+            "order": 4529
         }
 
     ]
