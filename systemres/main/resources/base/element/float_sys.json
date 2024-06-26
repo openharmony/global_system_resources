@@ -839,6 +839,22 @@
         {
             "name": "segment_button_shadow",
             "value": "0"
+        },
+        {
+            "name": "tab_subtab_text_default_font_size_sys",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "tab_bar_default_height_sys",
+            "value": "56.0vp"
+        },
+        {
+            "name": "tab_bar_gradient_width_sys",
+            "value": "$float:ohos_id_tab_bar_gradient_width_default"
+        },
+        {
+            "name": "tab_focus_indicator_radius_sys",
+            "value": "$float:ohos_id_corner_radius_clicked"
         }
     ]
   }
