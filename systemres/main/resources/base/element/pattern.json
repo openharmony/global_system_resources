@@ -7862,6 +7862,23 @@
                     "value": "$float:corner_radius_level10"
                 }
             ]
+        },
+        {
+            "name": "ohos_app_theme_pattern",
+            "value": [
+                {
+                    "name": "app_theme_focus_color",
+                    "value": "$color:app_theme_focus_color"
+                },
+                {
+                    "name": "app_theme_focus_width",
+                    "value": "$float:app_theme_focus_width"
+                },
+                {
+                    "name": "app_theme_focus_box_glow",
+                    "value": "$float:app_theme_focus_box_glow"
+                }
+            ]
         }
     ]
 }

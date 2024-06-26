@@ -661,7 +661,7 @@
             "value": "0"
         },
         {
-            "name": "chip_shadowStyle_radius",
+            "name": "chip_shadow_style_radius",
             "value": "0"
         },
         {
@@ -681,15 +681,15 @@
             "value": "1"
         },
         {
-            "name": "chip_suffixIcon_size_width",
+            "name": "chip_suffix_icon_size_width",
             "value": "16"
         },
         {
-            "name": "chip_suffixIcon_size_height",
+            "name": "chip_suffix_icon_size_height",
             "value": "16"
         },
         {
-            "name": "chip_suffixIcon_size_default",
+            "name": "chip_suffix_icon_size_default",
             "value": "16"
         },
         {
@@ -815,6 +815,30 @@
         {
             "name": "option_focus_shadow",
             "value": "6.0"
+        },
+        {
+            "name": "app_theme_focus_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "app_theme_focus_box_glow",
+            "value": "0.0"
+        },
+        {
+            "name": "segment_button_checked_text_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "segment_button_unselected_text_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "segment_button_background_blur_style",
+            "value": "7"
+        },
+        {
+            "name": "segment_button_shadow",
+            "value": "0"
         }
     ]
   }

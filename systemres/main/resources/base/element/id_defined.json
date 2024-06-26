@@ -22657,7 +22657,7 @@
         },
         {
             "type": "float",
-            "name": "chip_shadowStyle_radius",
+            "name": "chip_shadow_style_radius",
             "order": 4499
         },
         {
@@ -22682,17 +22682,17 @@
         },
         {
             "type": "float",
-            "name": "chip_suffixIcon_size_width",
+            "name": "chip_suffix_icon_size_width",
             "order": 4504
         },
         {
             "type": "float",
-            "name": "chip_suffixIcon_size_height",
+            "name": "chip_suffix_icon_size_height",
             "order": 4505
         },
         {
             "type": "float",
-            "name": "chip_suffixIcon_size_default",
+            "name": "chip_suffix_icon_size_default",
             "order": 4506
         },
         {
@@ -23184,6 +23184,76 @@
             "type": "color",
             "name": "option_focused_font_color",
             "order": 4604
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_app_theme_pattern",
+            "order": 4605
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_width",
+            "order": 4606
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_box_glow",
+            "order": 4607
+        },
+        {
+            "type": "color",
+            "name": "app_theme_focus_color",
+            "order": 4608
+        },
+        {
+            "type":"float",
+            "name": "segment_button_checked_text_size",
+            "order": 4609
+        },
+        {
+            "type":"float",
+            "name": "segment_button_unselected_text_size",
+            "order": 4610
+        },
+        {
+            "type":"float",
+            "name": "segment_button_background_blur_style",
+            "order": 4611
+        },
+        {
+            "type":"float",
+            "name": "segment_button_shadow",
+            "order": 4612
+        },
+        {
+            "type":"color",
+            "name": "segment_button_checked_text_primary",
+            "order": 4613
+        },
+        {
+            "type":"color",
+            "name": "segment_button_checked_foreground_contrary",
+            "order": 4614
+        },
+        {
+            "type":"color",
+            "name": "segment_button_unselected_text_primary",
+            "order": 4615
+        },
+        {
+            "type":"color",
+            "name": "segment_button_backboard_primary",
+            "order": 4616
+        },
+        {
+            "type":"color",
+            "name": "segment_button_color_hover",
+            "order": 4617
+        },
+        {
+            "type":"color",
+            "name": "segment_button_color_Press",
+            "order": 4618
         }
     ]
 }
