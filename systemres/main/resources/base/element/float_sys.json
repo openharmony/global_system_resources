@@ -730,7 +730,7 @@
         },
         {
             "name": "picker_focus_area_type",
-            "value": "0.0"
+            "value": "0"
         },
         {
             "name": "picker_selector_item_radius",
@@ -875,6 +875,10 @@
         {
             "name": "select_normal_text_font_size",
             "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "option_selected_border_width",
+            "value": "0.0vp"
         }
     ]
   }

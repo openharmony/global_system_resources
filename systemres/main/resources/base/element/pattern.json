@@ -5647,6 +5647,18 @@
                 {
                     "name": "option_focused_font_color",
                     "value": "$color:option_focused_font_color"
+                },
+                {
+                    "name": "option_default_shadow",
+                    "value": "6.0"
+                },
+                {
+                    "name": "option_selected_border_color",
+                    "value": "$color:option_selected_border_color"
+                },
+                {
+                    "name": "option_selected_border_width",
+                    "value": "$float:option_selected_border_width"
                 }
             ]
         },

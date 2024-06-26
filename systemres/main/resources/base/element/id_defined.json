@@ -23404,6 +23404,21 @@
             "type": "float",
             "name": "radio_circle_dial",
             "order": 4648
+        },
+        {
+            "type": "color",
+            "name": "option_selected_border_color",
+            "order": 4649
+        }, 
+        {
+            "type": "float",
+            "name": "option_selected_border_width",
+            "order": 4650
+        },
+        {
+            "type": "float",
+            "name": "option_default_shadow",
+            "order": 4651
         }
     ]
 }
