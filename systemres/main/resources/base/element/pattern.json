@@ -4815,7 +4815,7 @@
                 },
                 {
                     "name": "toast_outer_border_color",
-                    "value": "$float:toast_outer_border_color"
+                    "value": "$color:toast_outer_border_color"
                 },
                 {
                     "name": "toast_inner_border_width",
@@ -4823,7 +4823,7 @@
                 },
                 {
                     "name": "toast_inner_border_color",
-                    "value": "$float:toast_inner_border_color"
+                    "value": "$color:toast_inner_border_color"
                 }
             ]
         },
