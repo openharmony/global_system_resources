@@ -807,6 +807,10 @@
         {
             "name" : "form_disable_time_limit",
             "value" : "Time Limit"
+        },
+        {
+		    "name" : "qrcode_expiration_prompt",
+            "value" : "The QR code has expired, please refresh"
         }
     ]
 }
