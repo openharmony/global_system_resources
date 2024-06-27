@@ -22995,6 +22995,91 @@
             "type": "float",
             "name": "sub_tab_bar_indicatorstyle_margin_top",
             "order": 4566
+        },
+        {
+            "type": "float",
+            "name": "dialog_double_border_enable",
+            "order": 4567
+        },
+        {
+            "type": "color",
+            "name": "dialog_outer_border_color",
+            "order": 4568
+        },
+        {
+            "type": "float",
+            "name": "dialog_outer_border_width",
+            "order": 4569
+        },
+        {
+            "type": "color",
+            "name": "dialog_inner_border_color",
+            "order": 4570
+        },
+        {
+            "type": "float",
+            "name": "dialog_inner_border_width",
+            "order": 4571
+        },
+        {
+            "type": "float",
+            "name": "popup_outer_border_width",
+            "order": 4572
+        },
+        {
+            "type": "float",
+            "name": "popup_inner_border_width",
+            "order": 4573
+        },
+        {
+            "type": "float",
+            "name": "popup_border_radius",
+            "order": 4574
+        },
+        {
+            "type": "float",
+            "name": "toast_double_border_enable",
+            "order": 4575
+        },
+        {
+            "type": "color",
+            "name": "toast_outer_border_color",
+            "order": 4576
+        },
+        {
+            "type": "float",
+            "name": "toast_outer_border_width",
+            "order": 4577
+        },
+        {
+            "type": "color",
+            "name": "toast_inner_border_color",
+            "order": 4578
+        },
+        {
+            "type": "float",
+            "name": "toast_inner_border_width",
+            "order": 4579
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_new",
+            "order": 4580
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_old",
+            "order": 4581
+        },
+        {
+            "type": "float",
+            "name": "toast_border_radius_new",
+            "order": 4582
+        },
+        {
+            "type": "float",
+            "name": "toast_border_radius_old",
+            "order": 4583
         }
     ]
 }

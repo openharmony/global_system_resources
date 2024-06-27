@@ -2330,6 +2330,26 @@
                 {
                     "name": "dialog_landscape_boundary_aging",
                     "value": "$float:dialog_landscape_boundary_aging"
+                },
+                {
+                    "name": "dialog_double_border_enable",
+                    "value": "$float:dialog_double_border_enable"
+                },
+                {
+                    "name": "dialog_outer_border_width",
+                    "value": "$float:dialog_outer_border_width"
+                },
+                {
+                    "name": "dialog_outer_border_color",
+                    "value": "$color:dialog_outer_border_color"
+                },
+                {
+                    "name": "dialog_inner_border_width",
+                    "value": "$float:dialog_inner_border_width"
+                },
+                {
+                    "name": "dialog_inner_border_color",
+                    "value": "$color:dialog_inner_border_color"
                 }
             ]
         },
@@ -3107,7 +3127,7 @@
                 },
                 {
                     "name": "popup_border_radius",
-                    "value": "$float:ohos_id_corner_radius_default_l"
+                    "value": "$float:popup_border_radius"
                 },
                 {
                     "name": "popup_horizontal_padding",
@@ -3150,8 +3170,16 @@
                     "value": "$color:ohos_id_popup_outer_border_color"
                 },
                 {
+                    "name": "popup_outer_border_width",
+                    "value": "$float:popup_outer_border_width"
+                },
+                {
                     "name": "popup_inner_border_color",
                     "value": "$color:ohos_id_popup_inner_border_color"
+                },
+                {
+                    "name": "popup_inner_border_width",
+                    "value": "$float:popup_inner_border_width"
                 },
                 {
                     "name": "text_primary_color",
@@ -4699,11 +4727,11 @@
                 },
                 {
                     "name": "toast_border_radius",
-                    "value": "$float:ohos_id_corner_radius_tips_instant_tip"
+                    "value": "$float:toast_border_radius_old"
                 },
                 {
                     "name": "toast_padding_horizontal",
-                    "value": "$float:ohos_id_toast_padding_horizontal"
+                    "value": "$float:toast_padding_old"
                 },
                 {
                     "name": "toast_padding_vertical",
@@ -4747,11 +4775,11 @@
                 },
                 {
                     "name": "toast_border_radius_level9",
-                    "value": "$float:corner_radius_level9"
+                    "value": "$float:toast_border_radius_new"
                 },
                 {
                     "name": "toast_padding_level8",
-                    "value": "$float:padding_level8"
+                    "value": "$float:toast_padding_new"
                 },
                 {
                     "name": "toast_padding_level4",
@@ -4776,6 +4804,26 @@
                 {
                     "name": "toast_margin_right",
                     "value": "$float:margin_right"
+                },
+                {
+                    "name": "toast_double_border_enable",
+                    "value": "$float:toast_double_border_enable"
+                },
+                {
+                    "name": "toast_outer_border_width",
+                    "value": "$float:toast_outer_border_width"
+                },
+                {
+                    "name": "toast_outer_border_color",
+                    "value": "$color:toast_outer_border_color"
+                },
+                {
+                    "name": "toast_inner_border_width",
+                    "value": "$float:toast_inner_border_width"
+                },
+                {
+                    "name": "toast_inner_border_color",
+                    "value": "$color:toast_inner_border_color"
                 }
             ]
         },
