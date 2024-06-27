@@ -2333,7 +2333,7 @@
                 },
                 {
                     "name": "dialog_double_border_enable",
-                    "value": "$color:dialog_double_border_enable"
+                    "value": "$float:dialog_double_border_enable"
                 },
                 {
                     "name": "dialog_outer_border_width",
@@ -2349,7 +2349,7 @@
                 },
                 {
                     "name": "dialog_inner_border_color",
-                    "value": "$float:dialog_inner_border_color"
+                    "value": "$color:dialog_inner_border_color"
                 }
             ]
         },
