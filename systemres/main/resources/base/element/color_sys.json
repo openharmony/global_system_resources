@@ -539,7 +539,7 @@
         },
         {
             "name": "select_normal_border_color",
-            "value": "#FF000000"
+            "value": "#00000000"
         },
         {
             "name": "select_focused_text_color",
@@ -608,6 +608,38 @@
         {
             "name": "tab_subtab_press_color_sys",
             "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "select_normal_icon_color",
+            "value": "$color:ohos_id_color_spinner_icon"
+        },
+        {
+            "name": "select_normal_font_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "select_option_hovered_bg_color",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "select_option_clicked_bg_color",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "menu_normal_bg_color",
+            "value": "$color:ohos_id_color_card_bg"
+        },
+        {
+            "name": "menu_nomal_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "select_normal_bg_color",
+            "value": "$color:ohos_id_color_button_normal"
+        },
+        {
+            "name": "option_selected_border_color",
+            "value": "#00000000"
         }
     ]
   }
