@@ -361,6 +361,24 @@
                 "description": "$string:ohos_desc_approximately_location"
             },
             {
+                "name": "ohos.permission.CONTROL_LOCATION_SWITCH",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MOCK_LOCATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MEDIA_LOCATION",
                 "grantMode": "user_grant",
                 "availableLevel": "normal",
@@ -2891,7 +2909,7 @@
             {
                 "name": "ohos.permission.READ_WRITE_DOWNLOAD_DIRECTORY",
                 "grantMode": "user_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "normal",
                 "since": 11,
                 "deprecated": "",
                 "provisionEnable": true,
@@ -2902,7 +2920,7 @@
             {
                 "name": "ohos.permission.READ_WRITE_DOCUMENTS_DIRECTORY",
                 "grantMode": "user_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "normal",
                 "since": 11,
                 "deprecated": "",
                 "provisionEnable": true,
@@ -2924,7 +2942,7 @@
             {
                 "name": "ohos.permission.FILE_ACCESS_PERSIST",
                 "grantMode": "system_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "normal",
                 "since": 11,
                 "deprecated": "",
                 "provisionEnable": true,
@@ -3734,6 +3752,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_SUBSCRIPTION_CAPSULE_DATA",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.INJECT_INPUT_EVENT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
@@ -3817,6 +3844,16 @@
             },
             {
                 "name": "ohos.permission.REPORT_SECURITY_EVENT_TO_CLOUD",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+
+                "name": "ohos.permission.PERCEIVE_SMART_POWER_SCENARIO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 12,
