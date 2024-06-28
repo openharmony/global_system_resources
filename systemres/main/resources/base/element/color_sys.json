@@ -608,6 +608,50 @@
         {
             "name": "tab_subtab_press_color_sys",
             "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "search_placeholder_color_focused",
+            "value": "$color:ohos_id_color_text_hint"
+        },
+        {
+            "name": "composeListItem_normal_stroke_color",
+            "value": "#ffffff"
+        },
+        {
+            "name": "composeListItem_normal_left_text_color",
+            "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
+            "name": "composeListItem_normal_right_text_color",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "composeListItem_normal_right_icon_color",
+            "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "composeListItem_focused_backboard",
+            "value": "$color:ohos_id_color_component_normal"
+        },
+        {
+            "name": "composeListItem_focused_left_text_color",
+            "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
+            "name": "composeListItem_focused_right_text_color",
+            "value": "$color:ohos_id_color_text_secondary_contrary"
+        },
+        {
+            "name": "composeListItem_focused_right_icon_color",
+            "value": "$color:ohos_id_color_primary_contrary"
+        },
+        {
+            "name": "composeListItem_fifty_eight_normal_icon_color",
+            "value": "$color:ohos_id_color_primary"
+        },
+        {
+            "name": "composeListItem_sixty_four_normal_icon_color",
+            "value": "$color:ohos_id_color_primary"
         }
     ]
   }
