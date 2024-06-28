@@ -459,7 +459,7 @@
         },
         {
             "name": "toast_color_text_primary_contrary",
-            "value": "$color:ohos_id_color_instant_tip_bg"
+            "value": "$color:ohos_id_color_text_primary_contrary"
         },
 		{
             "name": "chip_normal_border_color",
@@ -560,6 +560,54 @@
         {
             "name": "option_focused_font_color",
             "value": "#ff182431"
+        },
+        {
+            "name": "app_theme_focus_color",
+            "value": "#ff007dff"
+        },
+        {
+            "name": "segment_button_checked_text_primary",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "segment_button_checked_foreground_contrary",
+            "value": "$color:ohos_id_color_foreground_contrary"
+        },
+        {
+            "name": "segment_button_unselected_text_primary",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "segment_button_backboard_primary",
+            "value": "$color:ohos_id_color_button_normal"
+        },
+        {
+            "name": "segment_button_color_hover",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "segment_button_color_Press",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "focus_animation_color_sys",
+            "value": "$color:ohos_id_color_focused_outline"
+        },
+        {
+            "name": "tab_subtab_text_on_color_sys",
+            "value": "$color:ohos_id_color_subtab_text_on"
+        },
+        {
+            "name": "tab_subtab_text_off_color_sys",
+            "value": "$color:ohos_id_color_subtab_text_off"
+        },
+        {
+            "name": "tab_subtab_hover_color_sys",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "tab_subtab_press_color_sys",
+            "value": "$color:ohos_id_color_click_effect"
         }
     ]
   }

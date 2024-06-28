@@ -22657,7 +22657,7 @@
         },
         {
             "type": "float",
-            "name": "chip_shadowStyle_radius",
+            "name": "chip_shadow_style_radius",
             "order": 4499
         },
         {
@@ -22682,17 +22682,17 @@
         },
         {
             "type": "float",
-            "name": "chip_suffixIcon_size_width",
+            "name": "chip_suffix_icon_size_width",
             "order": 4504
         },
         {
             "type": "float",
-            "name": "chip_suffixIcon_size_height",
+            "name": "chip_suffix_icon_size_height",
             "order": 4505
         },
         {
             "type": "float",
-            "name": "chip_suffixIcon_size_default",
+            "name": "chip_suffix_icon_size_default",
             "order": 4506
         },
         {
@@ -23187,14 +23187,174 @@
         },
         {
             "type": "pattern",
+            "name": "ohos_app_theme_pattern",
+            "order": 4605
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_width",
+            "order": 4606
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_box_glow",
+            "order": 4607
+        },
+        {
+            "type": "color",
+            "name": "app_theme_focus_color",
+            "order": 4608
+        },
+        {
+            "type":"float",
+            "name": "segment_button_checked_text_size",
+            "order": 4609
+        },
+        {
+            "type":"float",
+            "name": "segment_button_unselected_text_size",
+            "order": 4610
+        },
+        {
+            "type":"float",
+            "name": "segment_button_background_blur_style",
+            "order": 4611
+        },
+        {
+            "type":"float",
+            "name": "segment_button_shadow",
+            "order": 4612
+        },
+        {
+            "type":"color",
+            "name": "segment_button_checked_text_primary",
+            "order": 4613
+        },
+        {
+            "type":"color",
+            "name": "segment_button_checked_foreground_contrary",
+            "order": 4614
+        },
+        {
+            "type":"color",
+            "name": "segment_button_unselected_text_primary",
+            "order": 4615
+        },
+        {
+            "type":"color",
+            "name": "segment_button_backboard_primary",
+            "order": 4616
+        },
+        {
+            "type":"color",
+            "name": "segment_button_color_hover",
+            "order": 4617
+        },
+        {
+            "type":"color",
+            "name": "segment_button_color_Press",
+            "order": 4618
+        },
+        {
+            "type":"color",
+            "name": "focus_animation_color_sys",
+            "order": 4619
+        },
+        {
+            "type":"color",
+            "name": "tab_subtab_text_on_color_sys",
+            "order": 4620
+        },
+        {
+            "type":"color",
+            "name": "tab_subtab_text_off_color_sys",
+            "order": 4621
+        },
+        {
+            "type":"color",
+            "name": "tab_subtab_hover_color_sys",
+            "order": 4622
+        },
+        {
+            "type":"color",
+            "name": "tab_subtab_press_color_sys",
+            "order": 4623
+        },
+        {
+            "type":"float",
+            "name": "tab_subtab_text_default_font_size_sys",
+            "order": 4624
+        },
+        {
+            "type":"float",
+            "name": "tab_bar_default_height_sys",
+            "order": 4625
+        },
+        {
+            "type":"float",
+            "name": "tab_bar_gradient_width_sys",
+            "order": 4626
+        },
+        {
+            "type":"float",
+            "name": "tab_focus_indicator_radius_sys",
+            "order": 4627
+        },
+        {
+            "type": "color",
+            "name": "point_color_checked",
+            "order": 4628
+        },
+        {
+            "type": "float",
+            "name": "checkbox_default_size_twelve",
+            "order": 4629
+        },
+        {
+            "type": "float",
+            "name": "checkbox_default_padding_size",
+            "order": 4630
+        },
+        {
+            "type": "float",
+            "name": "checkbox_hover_padding_size",
+            "order": 4631
+        },
+        {
+            "type": "float",
+            "name": "radio_container_size",
+            "order": 4632
+        },
+        {
+            "type": "float",
+            "name": "radio_horizontal_padding",
+            "order": 4633
+        },
+        {
+            "type": "float",
+            "name": "radio_hover_bg_size",
+            "order": 4634
+        },
+        {
+            "type": "float",
+            "name": "radio_circle_dial",
+            "order": 4635
+        },
+        {
+            "type": "string",
+            "name": "qrcode_expiration_prompt",
+            "order": 4636
+        },
+        {
+            "type": "pattern",
             "name": "arc_list_item_pattern",
-            "order": 4605,
+            "order": 4637,
             "flags": "private"
         },
         {
             "type": "pattern",
             "name": "arc_list_pattern",
-            "order": 4606,
+            "order": 4638,
             "flags": "private"
         }
     ]

@@ -306,7 +306,7 @@
                 },
                 {
                     "name": "fg_color_checked",
-                    "value": "$color:ohos_id_color_foreground_contrary"
+                    "value": "$color:point_color_checked"
                 },
                 {
                     "name": "fg_color_unchecked",
@@ -1439,6 +1439,10 @@
                 {
                     "name": "qrcode_size",
                     "value": "$float:ohos_id_qrcode_size"
+                },
+                {
+                    "name": "qrcode_expiration_prompt",
+                    "value": "$string:qrcode_expiration_prompt"
                 }
             ]
         },
@@ -1564,11 +1568,11 @@
                 },
                 {
                     "name": "checkbox_default_size_twelve",
-                    "value": "24.0vp"
+                    "value": "$float:checkbox_default_size_twelve"
                 },
                 {
                     "name": "checkbox_default_padding_size",
-                    "value": "2.0vp"
+                    "value": "$float:checkbox_default_padding_size"
                 },
                 {
                     "name": "checkbox_inactive_background_solid",
@@ -1605,6 +1609,10 @@
                 {
                     "name": "focused_bg_color_unselected",
                     "value": "$color:ohos_id_focused_bg_color_unselected_checkbox"
+                },
+                {
+                    "name": "checkbox_hover_padding_size",
+                    "value": "$float:checkbox_hover_padding_size"
                 }
             ]
         },
@@ -1621,7 +1629,7 @@
                 },
                 {
                     "name": "radio_hover_bg_size",
-                    "value": "2.0vp"
+                    "value": "$float:radio_hover_bg_size"
                 },
                 {
                     "name": "color_focused_bg",
@@ -1701,11 +1709,11 @@
                 },
                 {
                     "name": "radio_size_api_twelve",
-                    "value": "24.0vp"
+                    "value": "$float:radio_container_size"
                 },
                 {
                     "name": "radio_default_padding_size",
-                    "value": "2.0vp"
+                    "value": "$float:radio_horizontal_padding"
                 },
                 {
                     "name": "radio_default_size_api_twelve",
@@ -1746,6 +1754,10 @@
                 {
                     "name": "radio_shadow_width",
                     "value": "$float:ohos_id_radio_shadow_width"
+                },
+                {
+                    "name": "radio_circle_dial",
+                    "value": "$float:radio_circle_dial"
                 }
             ]
         },
@@ -2411,7 +2423,7 @@
             "value": [
                 {
                     "name": "focus_animation_color",
-                    "value": "$color:ohos_id_color_focused_outline"
+                    "value": "$color:focus_animation_color_sys"
                 }
             ]
         },
@@ -4153,15 +4165,15 @@
                 },
                 {
                     "name": "focus_indicator_radius",
-                    "value": "$float:ohos_id_corner_radius_clicked"
+                    "value": "$float:tab_focus_indicator_radius_sys"
                 },
                 {
                     "name": "subtab_text_on_color",
-                    "value": "$color:ohos_id_color_subtab_text_on"
+                    "value": "$color:tab_subtab_text_on_color_sys"
                 },
                 {
                     "name": "subtab_text_off_color",
-                    "value": "$color:ohos_id_color_subtab_text_off"
+                    "value": "$color:tab_subtab_text_off_color_sys"
                 },
                 {
                     "name": "subtab_indicator_height",
@@ -4193,15 +4205,15 @@
                 },
                 {
                     "name": "subtab_hover_color",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:tab_subtab_hover_color_sys"
                 },
                 {
                     "name": "subtab_press_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:tab_subtab_press_color_sys"
                 },
                 {
                     "name": "subtab_text_default_font_size",
-                    "value": "$float:ohos_id_text_size_body1"
+                    "value": "$float:tab_subtab_text_default_font_size_sys"
                 },
                 {
                     "name": "bottom_tab_horizontal_padding",
@@ -4253,7 +4265,7 @@
                 },
                 {
                     "name": "tab_bar_default_height",
-                    "value": "56.0vp"
+                    "value": "$float:tab_bar_default_height_sys"
                 },
                 {
                     "name": "bottom_tab_bar_default_height",
@@ -4277,7 +4289,7 @@
                 },
                 {
                     "name": "tab_bar_gradient_width",
-                    "value": "$float:ohos_id_tab_bar_gradient_width_default"
+                    "value": "$float:tab_bar_gradient_width_sys"
                 },
                 {
                     "name": "color_bottom_tab_sub_bg",
@@ -7898,6 +7910,23 @@
                 {
                     "name": "dialog_corner_radius_level10",
                     "value": "$float:corner_radius_level10"
+                }
+            ]
+        },
+        {
+            "name": "ohos_app_theme_pattern",
+            "value": [
+                {
+                    "name": "app_theme_focus_color",
+                    "value": "$color:app_theme_focus_color"
+                },
+                {
+                    "name": "app_theme_focus_width",
+                    "value": "$float:app_theme_focus_width"
+                },
+                {
+                    "name": "app_theme_focus_box_glow",
+                    "value": "$float:app_theme_focus_box_glow"
                 }
             ]
         }
