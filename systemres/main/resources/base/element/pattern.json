@@ -3720,7 +3720,7 @@
                 },
                 {
                     "name": "tips_text_color_focused",
-                    "value": "$color:ohos_id_color_text_hint"
+                    "value": "$color:search_placeholder_color_focused"
                 },
                 {
                     "name": "text_color",
@@ -3829,10 +3829,6 @@
                 {
                     "name": "search_border_width",
                     "value": "$float:search_border_width"
-                },
-                {
-                    "name": "search_focus_effect_type",
-                    "value": "$float:search_focus_effect_type"
                 },
                 {
                     "name": "search_focus_bg_color",

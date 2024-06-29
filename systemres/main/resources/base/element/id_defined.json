@@ -22406,8 +22406,8 @@
             "order": 4448
         },
         {
-            "type": "float",
-            "name": "search_focus_effect_type",
+            "type": "color",
+            "name": "search_placeholder_color_focused",
             "order": 4449
         },
         {
@@ -23419,6 +23419,206 @@
             "type": "float",
             "name": "option_default_shadow",
             "order": 4651
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_normal_left_text_color",
+            "order": 4652
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_normal_right_text_color",
+            "order": 4653
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_normal_right_icon_color",
+            "order": 4654
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_focused_backboard",
+            "order": 4655
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_focused_left_text_color",
+            "order": 4656
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_focused_right_text_color",
+            "order": 4657
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_focused_right_icon_color",
+            "order": 4658
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_fifty_eight_normal_icon_color",
+            "order": 4659
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_sixty_four_normal_icon_color",
+            "order": 4660
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_normal_stroke_thickness",
+            "order": 4661
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_normal_fuzzy_value",
+            "order": 4662
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_single_line_height",
+            "order": 4663
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_normal_left_text_size",
+            "order": 4664
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_normal_right_text_size",
+            "order": 4665
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_normal_right_icon_size",
+            "order": 4666
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_normal_shadow_attribute",
+            "order": 4667
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_focused_circular_bead",
+            "order": 4668
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_focused_left_text_size",
+            "order": 4669
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_focused_right_text_size",
+            "order": 4670
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_focused_right_icon_size",
+            "order": 4671
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_focused_magnification",
+            "order": 4672
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_focused_shadow_attribute",
+            "order": 4673
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_fifty_eight_normal_icon_size",
+            "order": 4674
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_sixty_four_normal_icon_size",
+            "order": 4675
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_seventy_two_normal_head_portrait_size",
+            "order": 4676
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_seventy_two_normal_head_portrait_and_text_padding",
+            "order": 4677
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_seventy_two_normal_preview_size",
+            "order": 4678
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_seventy_two_normal_preview_and_text_padding",
+            "order": 4679
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_eighty_normal_app_icon_size",
+            "order": 4680
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_eighty_normal_app_icon_and_text_padding",
+            "order": 4681
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_ninety_six_normal_app_icon_size",
+            "order": 4682
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_ninety_six_normal_app_icon_and_text_padding",
+            "order": 4683
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_single_line_list_left_text_top",
+            "order": 4684
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_single_line_list_left_text_bottom",
+            "order": 4685
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_marqueeOptions_right",
+            "order": 4686
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_maxLines_right",
+            "order": 4687
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_system_icon",
+            "order": 4688
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_system_icon_line_height",
+            "order": 4689
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_right_textOverflow",
+            "order": 4690
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_normal_stroke_color",
+            "order": 4691
         }
     ]
 }
