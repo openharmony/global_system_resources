@@ -707,6 +707,10 @@
         {
             "name" : "form_disable_time_limit",
             "value" : "时间限额"
+        },
+        {
+            "name" : "qrcode_expiration_prompt",
+            "value" : "二维码已过期，请刷新"
         }
     ]
 }

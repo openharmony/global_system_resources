@@ -1401,6 +1401,10 @@
                 {
                     "name": "qrcode_size",
                     "value": "$float:ohos_id_qrcode_size"
+                },
+                {
+                    "name": "qrcode_expiration_prompt",
+                    "value": "$string:qrcode_expiration_prompt"
                 }
             ]
         },
