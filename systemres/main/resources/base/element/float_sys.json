@@ -730,7 +730,7 @@
         },
         {
             "name": "picker_focus_area_type",
-            "value": "0.0"
+            "value": "0"
         },
         {
             "name": "picker_selector_item_radius",
@@ -975,6 +975,30 @@
         {
             "name": "composeListItem_right_textOverflow",
             "value": "true"
+        },
+        {
+            "name": "select_normal_text_primary_alpha",
+            "value": "$float:ohos_id_alpha_content_primary"
+        },
+        {
+            "name": "select_press_border_radius",
+            "value": "$float:ohos_id_corner_radius_button"
+        },
+        {
+            "name": "select_disabled_color_alpha",
+            "value": "$float:ohos_id_alpha_disabled"
+        },
+        {
+            "name": "menu_normal_text_font_size",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "select_normal_text_font_size",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "option_selected_border_width",
+            "value": "0.0vp"
         }
     ]
   }

@@ -5142,19 +5142,19 @@
             "value": [
                 {
                     "name": "bg_color",
-                    "value": "$color:ohos_id_color_card_bg"
+                    "value": "$color:menu_normal_bg_color"
                 },
                 {
                     "name": "bg_color_select_button",
-                    "value": "$color:ohos_id_color_button_normal"
+                    "value": "$color:select_normal_bg_color"
                 },
                 {
                     "name": "bg_color_hovered",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:select_option_hovered_bg_color"
                 },
                 {
                     "name": "bg_color_clicked",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:select_option_clicked_bg_color"
                 },
                 {
                     "name": "bg_color_selected",
@@ -5162,7 +5162,7 @@
                 },
                 {
                     "name": "text_color",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:menu_nomal_text_color"
                 },
                 {
                     "name": "text_color_selected",
@@ -5174,7 +5174,7 @@
                 },
                 {
                     "name": "text_font_size",
-                    "value": "$float:ohos_id_text_size_body1"
+                    "value": "$float:select_normal_text_font_size"
                 },
                 {
                     "name": "small_text_font_size",
@@ -5182,7 +5182,7 @@
                 },
                 {
                     "name": "menu_text_font_size",
-                    "value": "$float:ohos_id_text_size_body1"
+                    "value": "$float:menu_normal_text_font_size"
                 },
                 {
                     "name": "menu_title_text_font_size",
@@ -5190,7 +5190,7 @@
                 },
                 {
                     "name": "border_radius",
-                    "value": "$float:ohos_id_corner_radius_button"
+                    "value": "$float:select_press_border_radius"
                 },
                 {
                     "name": "menu_border_radius",
@@ -5206,7 +5206,7 @@
                 },
                 {
                     "name": "select_icon_color",
-                    "value": "$color:ohos_id_color_spinner_icon"
+                    "value": "$color:select_normal_icon_color"
                 },
                 {
                     "name": "select_symbol_color",
@@ -5230,7 +5230,7 @@
                 },
                 {
                     "name": "menu_text_primary_alpha",
-                    "value": "$float:ohos_id_alpha_content_primary"
+                    "value": "$float:select_normal_text_primary_alpha"
                 },
                 {
                     "name": "menu_text_secondary_alpha",
@@ -5254,7 +5254,7 @@
                 },
                 {
                     "name": "color_disabled_alpha",
-                    "value": "$float:ohos_id_alpha_disabled"
+                    "value": "$float:select_disabled_color_alpha"
                 },
                 {
                     "name": "select_menu_padding",
@@ -5394,7 +5394,7 @@
                 },
                 {
                     "name": "select_font_color",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:select_normal_font_color"
                 },
                 {
                     "name": "select_option_show_count",
@@ -5639,6 +5639,18 @@
                 {
                     "name": "option_focused_font_color",
                     "value": "$color:option_focused_font_color"
+                },
+                {
+                    "name": "option_default_shadow",
+                    "value": "6.0"
+                },
+                {
+                    "name": "option_selected_border_color",
+                    "value": "$color:option_selected_border_color"
+                },
+                {
+                    "name": "option_selected_border_width",
+                    "value": "$float:option_selected_border_width"
                 }
             ]
         },
