@@ -530,11 +530,19 @@
         },
         {
             "name": "rating_icon_sub_size",
-            "value": "14.0"
+            "value": "0.0"
         },
         {
             "name": "rating_icon_board_distance",
-            "value": "7.0"
+            "value": "0.0"
+        },
+        {
+            "name": "rating_big_width",
+            "value": "$float:ohos_id_rating_big_width"
+        },
+        {
+            "name": "rating_big_height",
+            "value": "$float:ohos_id_rating_big_height"
         },
         {
             "name": "segment_button_height",

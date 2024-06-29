@@ -23619,6 +23619,31 @@
             "type": "color",
             "name": "composeListItem_normal_stroke_color",
             "order": 4691
+        },
+        {
+            "type": "color",
+            "name": "qrcode_color_foreground",
+            "order": 4692
+        },
+        {
+            "type": "color",
+            "name": "qrcode_color_background",
+            "order": 4693
+        },
+        {
+            "type": "color",
+            "name": "rating_focus_bgcolor",
+            "order": 4694
+        },
+        {
+            "type": "float",
+            "name": "rating_big_width",
+            "order": 4695
+        },
+        {
+            "type": "float",
+            "name": "rating_big_height",
+            "order": 4696
         }
     ]
 }
