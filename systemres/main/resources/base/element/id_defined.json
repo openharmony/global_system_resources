@@ -23422,11 +23422,6 @@
         },
         {
             "type": "color",
-            "name": "composeListItem_normal_stroke_color",
-            "order": 4651
-        },
-        {
-            "type": "color",
             "name": "composeListItem_normal_left_text_color",
             "order": 4652
         },
@@ -23619,6 +23614,11 @@
             "type": "float",
             "name": "composeListItem_right_textOverflow",
             "order": 4690
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_normal_stroke_color",
+            "order": 4691
         }
     ]
 }
