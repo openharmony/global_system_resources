@@ -517,10 +517,6 @@
             "value": "$float:ohos_id_picker_padding_horizontal"
         },
         {
-            "name": "search_focus_effect_type",
-            "value": "0.0"
-        },
-        {
             "name": "search_icon_size",
             "value": "$float:ohos_id_search_icon_size"
         },
@@ -534,11 +530,19 @@
         },
         {
             "name": "rating_icon_sub_size",
-            "value": "14.0"
+            "value": "0.0"
         },
         {
             "name": "rating_icon_board_distance",
-            "value": "7.0"
+            "value": "0.0"
+        },
+        {
+            "name": "rating_big_width",
+            "value": "$float:ohos_id_rating_big_width"
+        },
+        {
+            "name": "rating_big_height",
+            "value": "$float:ohos_id_rating_big_height"
         },
         {
             "name": "segment_button_height",
@@ -855,6 +859,126 @@
         {
             "name": "tab_focus_indicator_radius_sys",
             "value": "$float:ohos_id_corner_radius_clicked"
+        },
+        {
+            "name": "composeListItem_normal_stroke_thickness",
+            "value": "0"
+        },
+        {
+            "name": "composeListItem_normal_fuzzy_value",
+            "value": "0"
+        },
+        {
+            "name": "composeListItem_single_line_height",
+            "value": "48.0vp"
+        },
+        {
+            "name": "composeListItem_normal_left_text_size",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "composeListItem_normal_right_text_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "composeListItem_normal_right_icon_size",
+            "value": "24.0vp"
+        },
+        {
+            "name": "composeListItem_normal_shadow_attribute",
+            "value": "0"
+        },
+        {
+            "name": "composeListItem_focused_circular_bead",
+            "value": "$float:ohos_id_corner_radius_default_s"
+        },
+        {
+            "name": "composeListItem_focused_left_text_size",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "composeListItem_focused_right_text_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "composeListItem_focused_right_icon_size",
+            "value": "24.0vp"
+        },
+        {
+            "name": "composeListItem_focused_magnification",
+            "value": "1.05"
+        },
+        {
+            "name": "composeListItem_focused_shadow_attribute",
+            "value": "0"
+        },
+        {
+            "name": "composeListItem_fifty_eight_normal_icon_size",
+            "value": "24.0vp"
+        },
+        {
+            "name": "composeListItem_sixty_four_normal_icon_size",
+            "value": "24.0vp"
+        },
+        {
+            "name": "composeListItem_seventy_two_normal_head_portrait_size",
+            "value": "40.0vp"
+        },
+        {
+            "name": "composeListItem_seventy_two_normal_head_portrait_and_text_padding",
+            "value": "12.0vp"
+        },
+        {
+            "name": "composeListItem_seventy_two_normal_preview_size",
+            "value": "48.0vp"
+        },
+        {
+            "name": "composeListItem_seventy_two_normal_preview_and_text_padding",
+            "value": "12.0vp"
+        },
+        {
+            "name": "composeListItem_eighty_normal_app_icon_size",
+            "value": "56.0vp"
+        },
+        {
+            "name": "composeListItem_eighty_normal_app_icon_and_text_padding",
+            "value": "12.0vp"
+        },
+        {
+            "name": "composeListItem_ninety_six_normal_app_icon_size",
+            "value": "56.0vp"
+        },
+        {
+            "name": "composeListItem_ninety_six_normal_app_icon_and_text_padding",
+            "value": "12.0vp"
+        },
+        {
+            "name": "composeListItem_single_line_list_left_text_top",
+            "value": "12.0vp"
+        },
+        {
+            "name": "composeListItem_single_line_list_left_text_bottom",
+            "value": "12.0vp"
+        },
+        {
+            "name": "composeListItem_marqueeOptions_right",
+            "value": "true"
+        },
+        {
+            "name": "composeListItem_maxLines_right",
+            "value": "1"
+        },
+        {
+            "name": "composeListItem_system_icon",
+            "value": "40"
+        },
+        {
+            "name": "composeListItem_system_icon_line_height",
+            "value": "56"
+        },
+        {
+            "name": "composeListItem_right_textOverflow",
+            "value": "true"
         },
         {
             "name": "select_normal_text_primary_alpha",

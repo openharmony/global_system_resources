@@ -1418,11 +1418,11 @@
             "value": [
                 {
                     "name": "qrcode_foreground_color",
-                    "value": "$color:ohos_id_color_foreground"
+                    "value": "$color:qrcode_color_foreground"
                 },
                 {
                     "name": "qrcode_background_color",
-                    "value": "$color:ohos_id_color_background"
+                    "value": "$color:qrcode_color_background"
                 },
                 {
                     "name": "default_size",
@@ -3595,11 +3595,11 @@
                 },
                 {
                     "name": "rating_big_width",
-                    "value": "$float:ohos_id_rating_big_width"
+                    "value": "$float:rating_big_width"
                 },
                 {
                     "name": "rating_big_height",
-                    "value": "$float:ohos_id_rating_big_height"
+                    "value": "$float:rating_big_height"
                 },
                 {
                     "name": "rating_mini_width",
@@ -3624,6 +3624,10 @@
                 {
                     "name": "rating_icon_board_distance",
                     "value": "$float:rating_icon_board_distance"
+                },
+                {
+                    "name": "rating_focus_bgcolor",
+                    "value": "$color:rating_focus_bgcolor"
                 }
             ]
         },
@@ -3758,7 +3762,7 @@
                 },
                 {
                     "name": "tips_text_color_focused",
-                    "value": "$color:ohos_id_color_text_hint"
+                    "value": "$color:search_placeholder_color_focused"
                 },
                 {
                     "name": "text_color",
@@ -3867,10 +3871,6 @@
                 {
                     "name": "search_border_width",
                     "value": "$float:search_border_width"
-                },
-                {
-                    "name": "search_focus_effect_type",
-                    "value": "$float:search_focus_effect_type"
                 },
                 {
                     "name": "search_focus_bg_color",
