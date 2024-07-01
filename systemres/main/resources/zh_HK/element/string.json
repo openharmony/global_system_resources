@@ -129,8 +129,16 @@
             "value":"拍攝輸入"
         },
         {
-            "name" : "textfield_accessibility_property_delete",
-            "value" : "刪除 按鈕"
+            "name" : "textfield_accessibility_property_clear",
+            "value" : "清除，按鈕"
+        },
+        {
+            "name" : "textfield_accessibility_show_password",
+            "value" : "顯示密碼明文"
+        },
+        {
+            "name" : "textfield_accessibility_hide_password",
+            "value" : "不顯示密碼明文"
         },
         {
             "name" : "form_disable_time_limit",

@@ -4239,7 +4239,7 @@
                     "value": "$float:ohos_id_text_fadeout_width"
                 },
                 {
-                    "name": "textfield_show_handle",
+                    "name": "text_show_handle",
                     "value": "$string:ohos_textfield_show_handle"
                 }
             ]
@@ -4572,16 +4572,16 @@
                     "value": "$color:ohos_id_color_component_normal"
                 },
                 {
-                    "name": "textfield_accessibility_property_delete",
-                    "value": "$string:textfield_accessibility_property_delete"
+                    "name": "textfield_accessibility_property_clear",
+                    "value": "$string:textfield_accessibility_property_clear"
                 },
                 {
                     "name": "textfield_accessibility_show_password",
                     "value": "$string:textfield_accessibility_show_password"
                 },
                 {
-                    "name": "textfield_accessibility_handle_password",
-                    "value": "$string:textfield_accessibility_handle_password"
+                    "name": "textfield_accessibility_hide_password",
+                    "value": "$string:textfield_accessibility_hide_password"
                 }
             ]
         },
@@ -6732,7 +6732,7 @@
                     "value": "$color:font_primary"
                 },
                 {
-                    "name": "textfield_show_handle",
+                    "name": "rich_editor_show_handle",
                     "value": "$string:ohos_textfield_show_handle"
                 }
             ]
