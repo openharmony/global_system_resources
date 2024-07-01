@@ -3685,47 +3685,47 @@
             "value": [
                 {
                     "name": "fg_color",
-                    "value": "$color:scrollbar_color_foreground"
+                    "value": "$color:ohos_id_color_foreground"
                 },
                 {
                     "name": "scroll_bar_margin",
-                    "value": "$float:scroll_bar_elements_margin_horizontal_s"
+                    "value": "$float:ohos_id_elements_margin_horizontal_s"
                 },
                 {
                     "name": "scroll_bar_shape_mode",
-                    "value": "$float:scroll_bar_shape_mode"
+                    "value": "$float:ohos_id_scroll_bar_shape_mode"
                 },
                 {
                     "name": "scroll_bar_normal_width",
-                    "value": "$float:scroll_bar_normal_width"
+                    "value": "$float:ohos_id_scroll_bar_normal_width"
                 },
                 {
                     "name": "scroll_bar_active_width",
-                    "value": "$float:scroll_bar_active_width"
+                    "value": "$float:ohos_id_scroll_bar_active_width"
                 },
                 {
                     "name": "scroll_bar_min_height",
-                    "value": "$float:scroll_bar_min_height"
+                    "value": "$float:ohos_id_scroll_bar_min_height"
                 },
                 {
                     "name": "scroll_bar_min_dynamic_height",
-                    "value": "$float:scroll_bar_min_dynamic_height"
+                    "value": "$float:ohos_id_scroll_bar_min_dynamic_height"
                 },
                 {
                     "name": "scroll_bar_reserved_height",
-                    "value": "$float:scroll_bar_reserved_height"
+                    "value": "$float:ohos_id_scroll_bar_reserved_height"
                 },
                 {
                     "name": "scroll_bar_touch_width",
-                    "value": "$float:scroll_bar_touch_width"
+                    "value": "$float:ohos_id_scroll_bar_touch_width"
                 },
                 {
                     "name": "scroll_bar_background_color",
-                    "value": "$color:scroll_bar_background_color"
+                    "value": "$color:ohos_id_scroll_bar_background_color"
                 },
                 {
                     "name": "scroll_bar_foreground_opacity",
-                    "value": "$float:scroll_bar_alpha_content_tertiary"
+                    "value": "$float:ohos_id_alpha_content_tertiary"
                 },
                 {
                     "name": "scroll_bar_default_width",
@@ -3742,10 +3742,6 @@
                 {
                     "name": "scroll_bar_activemagnify",
                     "value": "$float:scroll_bar_activemagnify"
-                },
-                {
-                    "name": "scroll_bar__radius",
-                    "value": "$float:scroll_bar__border_radius"
                 },
                 {
                     "name": "scroll_bar_back_color",
