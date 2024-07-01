@@ -6270,19 +6270,19 @@
             "value": [
                 {
                     "name": "default_text_color",
-                    "value": "$color:ohos_id_color_text_secondary"
+                    "value": "$color:indexer_text_color"
                 },
                 {
                     "name": "selected_text_color",
-                    "value": "$color:ohos_id_color_text_primary_activated"
+                    "value": "$color:indexer_text_color_active"
                 },
                 {
                     "name": "popup_text_color",
-                    "value": "$color:ohos_id_color_text_primary_activated"
+                    "value": "$color:indexer_text_color_active"
                 },
                 {
                     "name": "popup_text_size",
-                    "value": "$float:ohos_id_text_size_headline7"
+                    "value": "$float:indexer_popup_text_size"
                 },
                 {
                     "name": "popup_selected_text_color",
@@ -6294,7 +6294,7 @@
                 },
                 {
                     "name": "selected_background_color",
-                    "value": "$color:ohos_id_color_text_highlight_bg"
+                    "value": "$color:indexer_selected_bg_color"
                 },
                 {
                     "name": "selected_background_color_opacity",
@@ -6302,7 +6302,7 @@
                 },
                 {
                     "name": "popup_background_color",
-                    "value": "$color:ohos_id_color_card_bg"
+                    "value": "$color:indexer_popup_bg_color"
                 },
                 {
                     "name": "popup_separator_color",
@@ -6346,11 +6346,11 @@
                 },
                 {
                     "name": "pressed_bg_area_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:indexer_pressed_bg_color"
                 },
                 {
                     "name": "slip_pressed_background_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:indexer_pressed_bg_color"
                 },
                 {
                     "name": "popup_clicked_bg_area_color",
@@ -6366,11 +6366,15 @@
                 },
                 {
                     "name": "popup_background_color_api_twelve",
-                    "value": "#66808080"
+                    "value": "$color:popup_background_color_api_twelve"
                 },
                 {
                     "name": "hover_text_size_api_twelve",
                     "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "indexer_bar_color",
+                    "value": "$color:indexer_bar_color"
                 }
             ]
         },

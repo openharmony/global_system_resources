@@ -23656,6 +23656,46 @@
             "name": "arc_list_pattern",
             "order": 4698,
             "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "popup_background_color_api_twelve",
+            "order": 4699
+        },
+        {
+            "type": "color",
+            "name": "indexer_bar_color",
+            "order": 4700
+        },
+        {
+            "type": "float",
+            "name": "indexer_popup_text_size",
+            "order": 4701
+        },
+        {
+            "type": "color",
+            "name": "indexer_text_color_active",
+            "order": 4702
+        },
+        {
+            "type": "color",
+            "name": "indexer_text_color",
+            "order": 4703
+        },
+        {
+            "type": "color",
+            "name": "indexer_popup_bg_color",
+            "order": 4704
+        },
+        {
+            "type": "color",
+            "name": "indexer_pressed_bg_color",
+            "order": 4705
+        },
+        {
+            "type": "color",
+            "name": "indexer_selected_bg_color",
+            "order": 4706
         }
     ]
 }
