@@ -23696,6 +23696,21 @@
             "type": "color",
             "name": "indexer_selected_bg_color",
             "order": 4706
+        },
+        {
+            "type":"color",
+            "name": "tab_bar_focused_color_sys",
+            "order": 4707
+        },
+        {
+            "type":"float",
+            "name": "tab_bar_margin_width_sys",
+            "order": 4708
+        },
+        {
+            "type":"float",
+            "name": "tab_subtab_item_padding_sys",
+            "order": 4709
         }
     ]
 }

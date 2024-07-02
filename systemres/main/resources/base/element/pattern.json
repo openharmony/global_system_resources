@@ -4189,7 +4189,7 @@
                 },
                 {
                     "name": "subtab_item_padding",
-                    "value": "$float:ohos_id_subtab_item_padding"
+                    "value": "$float:tab_subtab_item_padding_sys"
                 },
                 {
                     "name": "subtab_top_padding",
@@ -4382,6 +4382,14 @@
                 {
                     "name": "bottom_tab_bar_bg_blur_style",
                     "value": "0"
+                },
+                {
+                    "name": "tab_bar_focused_color",
+                    "value": "$color:tab_bar_focused_color_sys"
+                },
+                {
+                    "name": "tab_bar_margin_width",
+                    "value": "$float:tab_bar_margin_width_sys"
                 }
             ]
         },
