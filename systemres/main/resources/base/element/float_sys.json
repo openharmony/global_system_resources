@@ -441,6 +441,22 @@
             "value": "2.0"
         },
         {
+            "name": "scroll_bar_normal_start_angle",
+            "value": "-30.0"
+        },
+        {
+            "name": "scroll_bar_active_start_angle",
+            "value": "-60.0"
+        },
+        {
+            "name": "scroll_bar_normal_max_offset_angle",
+            "value": "60.0"
+        },
+        {
+            "name": "scroll_bar_active_max_offset_angle",
+            "value": "120.0"
+        },
+        {
             "name": "textfield_font_size",
             "value": "$float:ohos_id_text_size_body1"
         },

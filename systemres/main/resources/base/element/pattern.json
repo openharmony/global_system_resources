@@ -3746,6 +3746,38 @@
                 {
                     "name": "scroll_bar_back_color",
                     "value": "$color:scroll_bar_back_color"
+                },
+                {
+                    "name": "scroll_bar_normal_background_width",
+                    "value": "4.0vp"
+                },
+                {
+                    "name": "scroll_bar_active_background_width",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "scroll_bar_normal_scroll_bar_width",
+                    "value": "3.0vp"
+                },
+                {
+                    "name": "scroll_bar_active_scroll_bar_width",
+                    "value": "22.0vp"
+                },
+                {
+                    "name": "scroll_bar_normal_start_angle",
+                    "value": "$float:scroll_bar_normal_start_angle"
+                },
+                {
+                    "name": "scroll_bar_active_start_angle",
+                    "value": "$float:scroll_bar_active_start_angle"
+                },
+                {
+                    "name": "scroll_bar_normal_max_offset_angle",
+                    "value": "$float:scroll_bar_normal_max_offset_angle"
+                },
+                {
+                    "name": "scroll_bar_active_max_offset_angle",
+                    "value": "$float:scroll_bar_active_max_offset_angle"
                 }
             ]
         },
