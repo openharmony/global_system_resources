@@ -23716,6 +23716,36 @@
             "type":"color",
             "name": "tab_subtab_text_focused_color_sys",
             "order": 4710
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_press_color",
+            "order": 4711
+        },
+        {
+            "type": "color",
+            "name": "picker_press_color",
+            "order": 4712
+        },
+        {
+            "type": "float",
+            "name": "picker_selector_item_focus_font_size",
+            "order": 4713
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_focus_text_color",
+            "order": 4714
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_hover_color",
+            "order": 4715
+        },
+        {
+            "type": "color",
+            "name": "picker_select_divider_color",
+            "order": 4716
         }
     ]
 }

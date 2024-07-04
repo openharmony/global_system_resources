@@ -2879,11 +2879,11 @@
                 },
                 {
                     "name": "bg_color_pressed",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:picker_selector_item_press_color"
                 },
                 {
                     "name": "bg_color_hovered",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:picker_selector_item_hover_color"
                 },
                 {
                     "name": "padding_horizontal",
@@ -2923,11 +2923,11 @@
                 },
                 {
                     "name": "picker_focus_option_font_size",
-                    "value": "$float:ohos_id_picker_focus_option_font_size"
+                    "value": "$float:picker_selector_item_focus_font_size"
                 },
                 {
                     "name": "picker_focus_option_text_color",
-                    "value": "$color:ohos_id_picker_focus_option_text_color"
+                    "value": "$color:picker_selector_item_focus_text_color"
                 },
                 {
                     "name": "picker_focus_option_weight",
@@ -3047,7 +3047,7 @@
                 },
                 {
                     "name": "picker_select_divider_color",
-                    "value": "$color:ohos_id_picker_select_divider_color"
+                    "value": "$color:picker_select_divider_color"
                 },
                 {
                     "name": "picker_select_gradient_height",
@@ -3059,7 +3059,7 @@
                 },
                 {
                     "name": "picker_press_color",
-                    "value": "$color:ohos_id_picker_press_color"
+                    "value": "$color:picker_press_color"
                 },
                 {
                     "name": "picker_show_count_landscape",

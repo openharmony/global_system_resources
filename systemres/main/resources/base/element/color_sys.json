@@ -695,6 +695,26 @@
         {
             "name": "tab_subtab_text_focused_color_sys",
             "value": "$color:ohos_id_color_subtab_text_off"
+        },
+        {
+            "name": "picker_selector_item_hover_color",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "picker_selector_item_press_color",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "picker_press_color",
+            "value": "$color:ohos_id_picker_press_color"
+        },
+        {
+            "name": "picker_selector_item_focus_text_color",
+            "value": "$color:ohos_id_picker_focus_option_text_color"
+        },
+        {
+            "name": "picker_select_divider_color",
+            "value": "$color:ohos_id_picker_select_divider_color"
         }
     ]
   }
