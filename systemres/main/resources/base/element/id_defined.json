@@ -23367,7 +23367,7 @@
         },
         {
             "type": "color",
-            "name": "menu_normal_bg_color",
+            "name": "select_menu_normal_bg_color",
             "order": 4641
         },
         {
@@ -23746,6 +23746,86 @@
             "type": "color",
             "name": "picker_select_divider_color",
             "order": 4716
+        },
+		{
+            "type": "float",
+            "name": "select_min_width",
+            "order": 4717
+        },
+        {
+            "type": "float",
+            "name": "normal_select_min_width",
+            "order": 4718
+        },
+        {
+            "type": "float",
+            "name": "small_select_min_width",
+            "order": 4719
+        },
+        {
+            "type": "float",
+            "name": "select_normal_content_margin",
+            "order": 4720
+        },
+        {
+            "type": "float",
+            "name": "select_normal_left_right_margin",
+            "order": 4721
+        },
+        {
+            "type": "float",
+            "name": "menu_normal_out_padding",
+            "order": 4722
+        },
+        {
+            "type": "float",
+            "name": "option_normal_width",
+            "order": 4723
+        },
+        {
+            "type": "float",
+            "name": "option_min_height",
+            "order": 4724
+        },
+        {
+            "type": "float",
+            "name": "inner_border_radius",
+            "order": 4725
+        },
+        {
+            "type": "float",
+            "name": "menu_text_tertiary_alpha",
+            "order": 4726
+        },
+        {
+            "type": "float",
+            "name": "select_font_size_text",
+            "order": 4727
+        },
+        {
+            "type": "color",
+            "name": "select_selected_color",
+            "order": 4728
+        },
+        {
+            "type": "color",
+            "name": "text_color_selected",
+            "order": 4729
+        },
+        {
+            "type": "float",
+            "name": "select_default_border_radius",
+            "order": 4730
+        },
+		{
+            "type": "color",
+            "name": "select_font_primary",
+            "order": 4731
+        },
+        {
+            "type": "color",
+            "name": "select_bg_color_selected",
+            "order": 4732
         }
     ]
 }

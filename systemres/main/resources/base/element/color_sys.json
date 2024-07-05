@@ -665,7 +665,7 @@
             "value": "$color:ohos_id_color_click_effect"
         },
         {
-            "name": "menu_normal_bg_color",
+            "name": "select_menu_normal_bg_color",
             "value": "$color:ohos_id_color_card_bg"
         },
         {
@@ -715,6 +715,22 @@
         {
             "name": "picker_select_divider_color",
             "value": "$color:ohos_id_picker_select_divider_color"
+        },
+		{
+            "name": "select_selected_color",
+            "value": "$color:ohos_id_select_selected_color"
+        },
+        {
+            "name": "text_color_selected",
+            "value": "$color:ohos_id_color_text_primary_activated"
+        },
+		{
+            "name": "select_font_primary",
+            "value": "$color:font_primary"
+        },
+        {
+            "name": "select_bg_color_selected",
+            "value": "$color:ohos_id_color_emphasize"
         }
     ]
   }
