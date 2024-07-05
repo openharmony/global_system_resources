@@ -3632,6 +3632,10 @@
                 {
                     "name": "rating_focus_bgcolor",
                     "value": "$color:rating_focus_bgcolor"
+                },
+                {
+                    "name": "rating_focus_space",
+                    "value": "$float:rating_focus_space"
                 }
             ]
         },
