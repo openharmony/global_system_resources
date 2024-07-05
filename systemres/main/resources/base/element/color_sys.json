@@ -731,6 +731,14 @@
         {
             "name": "select_bg_color_selected",
             "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "segment_button_focus_backboard_primary",
+            "value": "$color:ohos_id_color_focused_bg"
+        },
+        {
+            "name": "segment_button_focus_text_primary",
+            "value": "$color:ohos_id_color_text_primary_contrary"
         }
     ]
   }
