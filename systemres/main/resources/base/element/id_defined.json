@@ -23126,45 +23126,62 @@
             "name": "radio_circle_dial",
             "order": 4592
         },
-        {
-            "type": "color",
-            "name": "popup_background_color_api_twelve",
+		{
+            "type": "string",
+            "name": "qrcode_expiration_prompt",
             "order": 4593
         },
         {
-            "type": "color",
-            "name": "indexer_bar_color",
-            "order": 4594
+            "type": "pattern",
+            "name": "arc_list_item_pattern",
+            "order": 4594,
+            "flags": "private"
         },
         {
-            "type": "float",
-            "name": "indexer_popup_text_size",
-            "order": 4595
-        },
+            "type": "pattern",
+            "name": "arc_list_pattern",
+            "order": 4595,
+            "flags": "private"
+        }		
         {
             "type": "color",
-            "name": "indexer_text_color_active",
+            "name": "popup_background_color_api_twelve",
             "order": 4596
         },
         {
             "type": "color",
-            "name": "indexer_text_color",
+            "name": "indexer_bar_color",
             "order": 4597
         },
         {
-            "type": "color",
-            "name": "indexer_popup_bg_color",
+            "type": "float",
+            "name": "indexer_popup_text_size",
             "order": 4598
         },
         {
             "type": "color",
-            "name": "indexer_pressed_bg_color",
+            "name": "indexer_text_color_active",
             "order": 4599
         },
         {
             "type": "color",
-            "name": "indexer_selected_bg_color",
+            "name": "indexer_text_color",
             "order": 4600
+        },
+        {
+            "type": "color",
+            "name": "indexer_popup_bg_color",
+            "order": 4601
+        },
+        {
+            "type": "color",
+            "name": "indexer_pressed_bg_color",
+            "order": 4602
+        },
+        {
+            "type": "color",
+            "name": "indexer_selected_bg_color",
+            "order": 4603
         }
     ]
 }
