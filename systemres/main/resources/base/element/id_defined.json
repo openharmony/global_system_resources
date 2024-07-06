@@ -23085,6 +23085,46 @@
             "type": "string",
             "name": "ohos_toolbar_more",
             "order": 4584
+        },
+        {
+            "type": "color",
+            "name": "point_color_checked",
+            "order": 4585
+        },
+        {
+            "type": "float",
+            "name": "checkbox_default_size_twelve",
+            "order": 4586
+        },
+        {
+            "type": "float",
+            "name": "checkbox_default_padding_size",
+            "order": 4587
+        },
+        {
+            "type": "float",
+            "name": "checkbox_hover_padding_size",
+            "order": 4588
+        },
+        {
+            "type": "float",
+            "name": "radio_container_size",
+            "order": 4589
+        },
+        {
+            "type": "float",
+            "name": "radio_horizontal_padding",
+            "order": 4590
+        },
+        {
+            "type": "float",
+            "name": "radio_hover_bg_size",
+            "order": 4591
+        },
+        {
+            "type": "float",
+            "name": "radio_circle_dial",
+            "order": 4592
         }
     ]
 }

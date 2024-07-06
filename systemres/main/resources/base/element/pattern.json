@@ -306,7 +306,7 @@
                 },
                 {
                     "name": "fg_color_checked",
-                    "value": "$color:ohos_id_color_foreground_contrary"
+                    "value": "$color:point_color_checked"
                 },
                 {
                     "name": "fg_color_unchecked",
@@ -1522,11 +1522,11 @@
                 },
                 {
                     "name": "checkbox_default_size_twelve",
-                    "value": "24.0vp"
+                    "value": "$float:checkbox_default_size_twelve"
                 },
                 {
                     "name": "checkbox_default_padding_size",
-                    "value": "2.0vp"
+                    "value": "$float:checkbox_default_padding_size"
                 },
                 {
                     "name": "checkbox_inactive_background_solid",
@@ -1563,6 +1563,10 @@
                 {
                     "name": "focused_bg_color_unselected",
                     "value": "$color:ohos_id_focused_bg_color_unselected_checkbox"
+                },
+                {
+                    "name": "checkbox_hover_padding_size",
+                    "value": "$float:checkbox_hover_padding_size"
                 }
             ]
         },
@@ -1655,11 +1659,11 @@
                 },
                 {
                     "name": "radio_size_api_twelve",
-                    "value": "24.0vp"
+                    "value": "$float:radio_container_size"
                 },
                 {
                     "name": "radio_default_padding_size",
-                    "value": "2.0vp"
+                    "value": "$float:radio_horizontal_padding"
                 },
                 {
                     "name": "radio_default_size_api_twelve",
@@ -1700,6 +1704,14 @@
                 {
                     "name": "radio_shadow_width",
                     "value": "$float:ohos_id_radio_shadow_width"
+                },
+                {
+                    "name": "radio_hover_bg_size",
+                    "value": "$float:radio_hover_bg_size"
+                },
+                {
+                    "name": "radio_circle_dial",
+                    "value": "$float:radio_circle_dial"
                 }
             ]
         },
