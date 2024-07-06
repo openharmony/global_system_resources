@@ -518,7 +518,7 @@
         },
         {
             "name": "composeListItem_color_background_normal",
-            "value": "$color:ohos_id_color_list_card_bg"
+            "value": "#00000000"
         },
         {
             "name": "composeListItem_color_border_focused",
@@ -526,11 +526,11 @@
         },
         {
             "name": "composeListItem_color_hover",
-            "value": "$color:ohos_id_color_hover"
+            "value": "$color:interactive_hover"
         },
         {
             "name": "composeListItem_color_press",
-            "value": "$color:ohos_id_color_click_effect"
+            "value": "$color:interactive_pressed"
         },
         {
             "name": "select_normal_border_color",
@@ -610,43 +610,43 @@
         },
         {
             "name": "composeListItem_normal_stroke_color",
-            "value": "#ffffff"
+            "value": "#00000000"
         },
         {
             "name": "composeListItem_normal_left_text_color",
-            "value": "$color:ohos_id_color_text_primary_contrary"
+            "value": "$color:font_primary"
         },
         {
             "name": "composeListItem_normal_right_text_color",
-            "value": "$color:ohos_id_color_text_secondary"
+            "value": "$color:font_secondary"
         },
         {
             "name": "composeListItem_normal_right_icon_color",
-            "value": "$color:ohos_id_color_secondary"
+            "value": "$color:icon_primary"
         },
         {
             "name": "composeListItem_focused_backboard",
-            "value": "$color:ohos_id_color_component_normal"
+            "value": "#00000000"
         },
         {
             "name": "composeListItem_focused_left_text_color",
-            "value": "$color:ohos_id_color_text_primary_contrary"
+            "value": "$color:font_primary"
         },
         {
             "name": "composeListItem_focused_right_text_color",
-            "value": "$color:ohos_id_color_text_secondary_contrary"
+            "value": "$color:font_secondary"
         },
         {
             "name": "composeListItem_focused_right_icon_color",
-            "value": "$color:ohos_id_color_primary_contrary"
+            "value": "$color:font_secondary"
         },
         {
             "name": "composeListItem_fifty_eight_normal_icon_color",
-            "value": "$color:ohos_id_color_primary"
+            "value": "$color:icon_primary"
         },
         {
             "name": "composeListItem_sixty_four_normal_icon_color",
-            "value": "$color:ohos_id_color_primary"
+            "value": "$color:icon_primary"
         },
         {
             "name": "select_normal_icon_color",
@@ -739,6 +739,10 @@
         {
             "name": "segment_button_focus_text_primary",
             "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
+            "name": "toolBarDialog_backboard_focused_bg_color",
+            "value": "#00000000"
         }
     ]
   }
