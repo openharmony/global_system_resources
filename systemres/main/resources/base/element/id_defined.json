@@ -23125,6 +23125,11 @@
             "type": "float",
             "name": "radio_circle_dial",
             "order": 4592
+        },
+        {
+            "type": "string",
+            "name": "qrcode_expiration_prompt",
+            "order": 4593
         }
     ]
 }
