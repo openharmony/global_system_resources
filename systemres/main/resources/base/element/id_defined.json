@@ -23879,7 +23879,7 @@
         },
         {
             "type": "float",
-            "name": "scroll_bar_normal_background_width",
+            "name": "slider_measure_content_outset_width",
             "order": 4743
         },
         {
@@ -23916,6 +23916,11 @@
             "type": "float",
             "name": "scroll_bar_active_max_offset_angle",
             "order": 4750
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_normal_background_width",
+            "order": 4751
         }
     ]
 }
