@@ -445,6 +445,22 @@
             "value": "2.0"
         },
         {
+            "name": "scroll_bar_normal_start_angle",
+            "value": "-30.0"
+        },
+        {
+            "name": "scroll_bar_active_start_angle",
+            "value": "-60.0"
+        },
+        {
+            "name": "scroll_bar_normal_max_offset_angle",
+            "value": "60.0"
+        },
+        {
+            "name": "scroll_bar_active_max_offset_angle",
+            "value": "120.0"
+        },
+        {
             "name": "textfield_font_size",
             "value": "$float:ohos_id_text_size_body1"
         },
@@ -980,7 +996,7 @@
             "name": "picker_selector_item_focus_font_size",
             "value": "$float:ohos_id_picker_focus_option_font_size"
         },
-		{
+        {
             "name": "select_min_width",
             "value": "66.0vp"
         },
