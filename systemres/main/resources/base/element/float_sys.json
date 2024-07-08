@@ -730,27 +730,27 @@
         },
         {
             "name": "composeListItem_margin_left",
-            "value": "$float:ohos_id_card_margin_start"
+            "value": "12.0"
         },
         {
             "name": "composeListItem_margin_right",
-            "value": "$float:ohos_id_card_margin_end"
+            "value": "12.0"
         },
         {
             "name": "composeListItem_padding_left",
-            "value": "12.0vp"
+            "value": "0"
         },
         {
             "name": "composeListItem_padding_right",
-            "value": "12.0vp"
+            "value": "0"
         },
         {
             "name": "composeListItem_normal_radio",
-            "value": "$float:ohos_id_corner_radius_default_l"
+            "value": "$float:corner_radius_level8"
         },
         {
             "name": "composeListItem_focused_border",
-            "value": "2.0vp"
+            "value": "2.0"
         },
         {
             "name": "select_normal_border_width",
@@ -846,7 +846,7 @@
         },
         {
             "name": "composeListItem_single_line_height",
-            "value": "48.0vp"
+            "value": "80"
         },
         {
             "name": "composeListItem_normal_left_text_size",
@@ -858,7 +858,7 @@
         },
         {
             "name": "composeListItem_normal_right_icon_size",
-            "value": "24.0vp"
+            "value": "24.0"
         },
         {
             "name": "composeListItem_normal_shadow_attribute",
@@ -866,7 +866,7 @@
         },
         {
             "name": "composeListItem_focused_circular_bead",
-            "value": "$float:ohos_id_corner_radius_default_s"
+            "value": "$float:corner_radius_level8"
         },
         {
             "name": "composeListItem_focused_left_text_size",
@@ -878,11 +878,11 @@
         },
         {
             "name": "composeListItem_focused_right_icon_size",
-            "value": "24.0vp"
+            "value": "24.0"
         },
         {
             "name": "composeListItem_focused_magnification",
-            "value": "1.05"
+            "value": "1.0"
         },
         {
             "name": "composeListItem_focused_shadow_attribute",
@@ -890,59 +890,59 @@
         },
         {
             "name": "composeListItem_fifty_eight_normal_icon_size",
-            "value": "24.0vp"
+            "value": "24.0"
         },
         {
             "name": "composeListItem_sixty_four_normal_icon_size",
-            "value": "24.0vp"
+            "value": "24.0"
         },
         {
             "name": "composeListItem_seventy_two_normal_head_portrait_size",
-            "value": "40.0vp"
+            "value": "40.0"
         },
         {
             "name": "composeListItem_seventy_two_normal_head_portrait_and_text_padding",
-            "value": "12.0vp"
+            "value": "12.0"
         },
         {
             "name": "composeListItem_seventy_two_normal_preview_size",
-            "value": "48.0vp"
+            "value": "96"
         },
         {
             "name": "composeListItem_seventy_two_normal_preview_and_text_padding",
-            "value": "12.0vp"
+            "value": "12.0"
         },
         {
             "name": "composeListItem_eighty_normal_app_icon_size",
-            "value": "56.0vp"
+            "value": "64.0"
         },
         {
             "name": "composeListItem_eighty_normal_app_icon_and_text_padding",
-            "value": "12.0vp"
+            "value": "12.0"
         },
         {
             "name": "composeListItem_ninety_six_normal_app_icon_size",
-            "value": "56.0vp"
+            "value": "64.0"
         },
         {
             "name": "composeListItem_ninety_six_normal_app_icon_and_text_padding",
-            "value": "12.0vp"
+            "value": "12.0"
         },
         {
             "name": "composeListItem_single_line_list_left_text_top",
-            "value": "12.0vp"
+            "value": "$float:padding_level4"
         },
         {
             "name": "composeListItem_single_line_list_left_text_bottom",
-            "value": "12.0vp"
+            "value": "$float:padding_level4"
         },
         {
             "name": "composeListItem_marqueeOptions_right",
-            "value": "true"
+            "value": "0"
         },
         {
             "name": "composeListItem_maxLines_right",
-            "value": "1"
+            "value": "0"
         },
         {
             "name": "composeListItem_system_icon",
@@ -950,11 +950,11 @@
         },
         {
             "name": "composeListItem_system_icon_line_height",
-            "value": "56"
+            "value": "64"
         },
         {
             "name": "composeListItem_right_textOverflow",
-            "value": "true"
+            "value": "0"
         },
         {
             "name": "select_normal_text_primary_alpha",
@@ -987,6 +987,86 @@
         {
             "name": "tab_subtab_item_padding_sys",
             "value": "$float:ohos_id_subtab_item_padding"
+        },
+        {
+            "name": "picker_selector_item_focus_font_size",
+            "value": "$float:ohos_id_picker_focus_option_font_size"
+        },
+        {
+            "name": "select_min_width",
+            "value": "66.0vp"
+        },
+        {
+            "name": "normal_select_min_width",
+            "value": "68.0vp"
+        },
+        {
+            "name": "small_select_min_width",
+            "value": "56.0vp"
+        },
+        {
+            "name": "select_normal_content_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "select_normal_left_right_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "menu_normal_out_padding",
+            "value": "4.0vp"
+        },
+        {
+            "name": "option_normal_width",
+            "value": "156.0vp"
+        },
+        {
+            "name": "option_min_height",
+            "value": "48.0vp"
+        },
+        {
+            "name": "inner_border_radius",
+            "value": "$float:ohos_id_corner_radius_default_m"
+        },
+        {
+            "name": "menu_text_tertiary_alpha",
+            "value": "$float:ohos_id_alpha_content_tertiary"
+        },
+        {
+            "name": "select_font_size_text",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "select_default_border_radius",
+            "value": "$float:ohos_id_corner_radius_button"
+        },
+        {
+            "name": "composeListItem_single_line_list_left_text_top1",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "composeListItem_single_line_list_left_text_top2",
+            "value": "$float:padding_level10"
+        },
+        {
+            "name": "composeListItem_single_line_list_left_text_top3",
+            "value": "$float:padding_level12"
+        },
+        {
+            "name": "composeListItem_single_line_list_left_text_bottom1",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "composeListItem_single_line_list_left_text_bottom2",
+            "value": "$float:padding_level10"
+        },
+        {
+            "name": "composeListItem_single_line_list_left_text_bottom3",
+            "value": "$float:padding_level12"
+        },
+        {
+            "name": "composeListItem_focus_dynamic_effect",
+            "value": "0"
         }
     ]
   }
