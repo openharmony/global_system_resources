@@ -23921,6 +23921,16 @@
             "type": "float",
             "name": "scroll_bar_normal_background_width",
             "order": 4751
+        },
+        {
+            "type": "color",
+            "name": "toast_default_bg_color",
+            "order": 4752
+        },
+        {
+            "type": "float",
+            "name": "toast_bg_theme_color_mode",
+            "order": 4753
         }
     ]
 }

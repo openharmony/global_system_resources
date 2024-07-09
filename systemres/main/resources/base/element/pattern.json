@@ -5014,6 +5014,14 @@
                 {
                     "name": "toast_shadow_default",
                     "value": "$float:toast_shadow_default"
+                },
+                {
+                    "name": "toast_default_bg_color",
+                    "value": "$color:toast_default_bg_color"
+                },
+                {
+                    "name": "toast_bg_theme_color_mode",
+                    "value": "$float:toast_bg_theme_color_mode"
                 }
             ]
         },

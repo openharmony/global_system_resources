@@ -554,7 +554,7 @@
         },
         {
             "name": "option_focused_font_color",
-            "value": "#ff182431"
+            "value": "$color:ohos_id_color_text_primary"
         },
         {
             "name": "app_theme_focus_color",
@@ -742,6 +742,10 @@
         },
         {
             "name": "toolBarDialog_backboard_focused_bg_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "toast_default_bg_color",
             "value": "#00000000"
         }
     ]
