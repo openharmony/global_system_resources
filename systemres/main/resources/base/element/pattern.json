@@ -6948,6 +6948,10 @@
                 {
                     "name": "sheet_max_aging_scale",
                     "value": "$float:ohos_id_big_font_size_scale"
+                },
+                {
+                    "name": "close_icon_symbol_color",
+                    "value": "$color:icon_primary"
                 }
             ]
         },
