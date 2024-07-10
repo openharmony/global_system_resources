@@ -51,28 +51,7 @@
         <filefilterlist>
             <filefilter name="binaryFileTypePolicyFilter" desc="Filters for binary file policies">
                 <filteritem type="filepath" name="fonts/.*" desc="For license see LICENSE_Fonts."/>
-                <filteritem type="filepath" name="test/tool/test_font.hap" desc="self developed testing tools."/>
-                <filteritem type="filepath" name="systemres/main/resources/base/media/ohos_moon_progress_fg_circle_shadow.png" desc="自研的二进制图片"/>
-                <filteritem type="filepath" name="test/code/AppScope/resources/base/media/app_icon.png" desc="self developed image."/>
-                <filteritem type="filepath" name="test/code/entry/src/main/resources/base/media/icon.png" desc="self developed image."/>
-            </filefilter>
-             <filefilter name="defaultPolicyFilter" desc="License文件头校验策略的过滤条件" >
-                <filteritem type="filename" name="hvigorw" desc="OpenHarmony工程编译入口脚本，无需添加License头"/>
-                <filteritem type="filename" name="hvigorw.bat" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
-                <filteritem type="filename" name="hvigorfile.ts" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
-                <filteritem type="filename" name="hvigor-config.json5" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
-                <filteritem type="filename" name="hvigor-wrapper.js" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
-                <filteritem type="filename" name="oh-package.json5" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
-                <filteritem type="filename" name="build-profile.json5" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
-            </filefilter>
-            <filefilter name="copyrightPolicyFilter" desc="Filters for copyright header policies">
-                <filteritem type="filename" name="hvigorw" desc="OpenHarmony工程编译入口脚本，无需添加License头"/>
-                <filteritem type="filename" name="hvigorw.bat" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
-                <filteritem type="filename" name="hvigorfile.ts" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
-                <filteritem type="filename" name="hvigor-config.json5" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
-                <filteritem type="filename" name="hvigor-wrapper.js" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
-                <filteritem type="filename" name="oh-package.json5" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
-                <filteritem type="filename" name="build-profile.json5" desc="OpenHarmony工程编译配置文件，无需添加License头"/>
+                <filteritem type="filename" name="*.png" desc="自研的二进制图片"/>
             </filefilter>
         </filefilterlist>
         <licensefile>LICENSE_Fonts</licensefile>
