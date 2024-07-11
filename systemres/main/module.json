@@ -3907,7 +3907,7 @@
             },
             {
                 "name": "ohos.permission.ACTIVATE_DEVICE_PSI",
-                "grantMode": "system_grant",
+                "grantMode": "user_grant",
                 "availableLevel": "system_basic",
                 "since": 12,
                 "deprecated": "",
