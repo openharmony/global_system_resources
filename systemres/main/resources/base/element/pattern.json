@@ -7404,6 +7404,10 @@
                     "value": "$float:ohos_id_shadow_default_lg_shadow"
                 },
                 {
+                    "name": "shadow_style_default_lg_radius",
+                    "value": "$float:ohos_id_radius_default_lg_shadow"
+                },
+                {
                     "name": "shadow_style_default_lg_offset_x",
                     "value": "$float:ohos_id_shadow_default_lg_offset_x"
                 },
@@ -7418,6 +7422,10 @@
                 {
                     "name": "shadow_style_floating_sm_shadow",
                     "value": "$float:ohos_id_shadow_floating_sm_shadow"
+                },
+                {
+                    "name": "shadow_style_floating_sm_radius",
+                    "value": "$float:ohos_id_radius_floating_sm_shadow"
                 },
                 {
                     "name": "shadow_style_floating_sm_offset_x",
@@ -7436,6 +7444,10 @@
                     "value": "$float:ohos_id_shadow_floating_md_shadow"
                 },
                 {
+                    "name": "shadow_style_floating_md_radius",
+                    "value": "$float:ohos_id_radius_floating_md_shadow"
+                },
+                {
                     "name": "shadow_style_floating_md_offset_x",
                     "value": "$float:ohos_id_shadow_floating_md_offset_x"
                 },
@@ -7452,6 +7464,10 @@
                     "value": "$float:ohos_id_shadow_default_xs_shadow_dark"
                 },
                 {
+                    "name": "shadow_style_default_xs_radius_dark",
+                    "value": "$float:ohos_id_radius_default_xs_shadow_dark"
+                },
+                {
                     "name": "shadow_style_default_xs_offset_x_dark",
                     "value": "$float:ohos_id_shadow_default_xs_offset_x_dark"
                 },
@@ -7462,6 +7478,10 @@
                 {
                     "name": "shadow_style_default_xs_color_dark",
                     "value": "$color:ohos_id_shadow_default_xs_dark"
+                },
+                {
+                    "name": "shadow_style_default_sm_radius_dark",
+                    "value": "$float:ohos_id_radius_default_sm_shadow_dark"
                 },
                 {
                     "name": "shadow_style_default_sm_shadow_dark",
@@ -7484,6 +7504,10 @@
                     "value": "$float:ohos_id_shadow_default_md_shadow_dark"
                 },
                 {
+                    "name": "shadow_style_default_md_radius_dark",
+                    "value": "$float:ohos_id_radius_default_md_shadow_dark"
+                },
+                {
                     "name": "shadow_style_default_md_offset_x_dark",
                     "value": "$float:ohos_id_shadow_default_md_offset_x_dark"
                 },
@@ -7498,6 +7522,10 @@
                 {
                     "name": "shadow_style_default_lg_shadow_dark",
                     "value": "$float:ohos_id_shadow_default_lg_shadow_dark"
+                },
+                {
+                    "name": "shadow_style_default_lg_radius_dark",
+                    "value": "$float:ohos_id_radius_default_lg_shadow_dark"
                 },
                 {
                     "name": "shadow_style_default_lg_offset_x_dark",
@@ -7516,6 +7544,10 @@
                     "value": "$float:ohos_id_shadow_floating_sm_shadow_dark"
                 },
                 {
+                    "name": "shadow_style_floating_sm_radius_dark",
+                    "value": "$float:ohos_id_radius_floating_sm_shadow_dark"
+                },
+                {
                     "name": "shadow_style_floating_sm_offset_x_dark",
                     "value": "$float:ohos_id_shadow_floating_sm_offset_x_dark"
                 },
@@ -7530,6 +7562,10 @@
                 {
                     "name": "shadow_style_floating_md_shadow_dark",
                     "value": "$float:ohos_id_shadow_floating_md_shadow_dark"
+                },
+                {
+                    "name": "shadow_style_floating_md_radius_dark",
+                    "value": "$float:ohos_id_radius_floating_md_shadow_dark"
                 },
                 {
                     "name": "shadow_style_floating_md_offset_x_dark",
