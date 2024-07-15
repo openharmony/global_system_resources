@@ -5781,11 +5781,15 @@
                 },
                 {
                     "name": "marker_color",
-                    "value": "$color:ohos_id_color_foreground"
+                    "value": "$color:slider_color_foreground"
                 },
                 {
                     "name": "marker_color_alpha",
-                    "value": "$float:ohos_id_alpha_normal_bg"
+                    "value": "$float:slider_alpha_normal_bg"
+                },
+                {
+                    "name": "outset_and_none_track_color",
+                    "value": "$color:slider_outset_and_none_track_color"
                 },
                 {
                     "name": "tip_color",

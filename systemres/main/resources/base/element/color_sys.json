@@ -747,6 +747,14 @@
         {
             "name": "toast_default_bg_color",
             "value": "#00000000"
+        },
+        {
+            "name": "slider_color_foreground",
+            "value": "$color:ohos_id_color_foreground"
+        },
+        {
+            "name": "slider_outset_and_none_track_color",
+            "value": "$color:ohos_id_color_emphasize"
         }
     ]
   }
