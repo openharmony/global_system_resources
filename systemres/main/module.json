@@ -83,6 +83,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SUBSCRIBE_SWING_ABILITY",
+                "grantMode": "system_grant",
+                "since": 12,
+                "deprecated": "",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGER_SWING_MOTION",
+                "grantMode": "system_grant",
+                "since": 12,
+                "deprecated": "",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.INTERNET",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
