@@ -3632,6 +3632,10 @@
                 {
                     "name": "rating_focus_bgcolor",
                     "value": "$color:rating_focus_bgcolor"
+                },
+                {
+                    "name": "rating_focus_space",
+                    "value": "$float:rating_focus_space"
                 }
             ]
         },
@@ -5777,11 +5781,15 @@
                 },
                 {
                     "name": "marker_color",
-                    "value": "$color:ohos_id_color_foreground"
+                    "value": "$color:slider_color_foreground"
                 },
                 {
                     "name": "marker_color_alpha",
-                    "value": "$float:ohos_id_alpha_normal_bg"
+                    "value": "$float:slider_alpha_normal_bg"
+                },
+                {
+                    "name": "outset_and_none_track_color",
+                    "value": "$color:slider_outset_and_none_track_color"
                 },
                 {
                     "name": "tip_color",
@@ -7236,6 +7244,10 @@
                 {
                     "name": "sheet_operation_height",
                     "value": "$float:sheet_operation_height_sys"
+                },
+                {
+                    "name": "sheet_show_close_icon",
+                    "value": "$float:sheet_show_close_icon"
                 }
             ]
         },
