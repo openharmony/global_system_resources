@@ -425,6 +425,10 @@
             "value": "56.0vp"
         },
         {
+            "name": "sheet_show_close_icon",
+            "value": "1"
+        },
+        {
             "name": "image_animator_corner_radius_card",
             "value": "0.0vp"
         },
@@ -523,6 +527,10 @@
         {
             "name": "rating_big_height",
             "value": "$float:ohos_id_rating_big_height"
+        },
+        {
+            "name": "rating_focus_space",
+            "value": "0.0vp"
         },
         {
             "name": "segment_button_height",
@@ -1075,6 +1083,14 @@
         {
             "name": "toast_bg_theme_color_mode",
             "value": "0.0"
+        },
+        {
+            "name": "slider_alpha_normal_bg",
+            "value": "0.1"
+        },
+        {
+            "name": "menu_is_blend_bg_color",
+            "value": "0"
         }
     ]
   }

@@ -522,7 +522,7 @@
         },
         {
             "name": "composeListItem_color_border_focused",
-            "value": "$color:ohos_id_color_focused_outline"
+            "value": "$color:interactive_focus"
         },
         {
             "name": "composeListItem_color_hover",
@@ -638,7 +638,7 @@
         },
         {
             "name": "composeListItem_focused_right_icon_color",
-            "value": "$color:font_secondary"
+            "value": "$color:icon_primary"
         },
         {
             "name": "composeListItem_fifty_eight_normal_icon_color",
@@ -747,6 +747,14 @@
         {
             "name": "toast_default_bg_color",
             "value": "#00000000"
+        },
+        {
+            "name": "slider_color_foreground",
+            "value": "$color:ohos_id_color_foreground"
+        },
+        {
+            "name": "slider_outset_and_none_track_color",
+            "value": "$color:ohos_id_color_emphasize"
         }
     ]
   }

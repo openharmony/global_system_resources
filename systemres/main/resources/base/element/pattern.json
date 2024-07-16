@@ -3632,6 +3632,10 @@
                 {
                     "name": "rating_focus_bgcolor",
                     "value": "$color:rating_focus_bgcolor"
+                },
+                {
+                    "name": "rating_focus_space",
+                    "value": "$float:rating_focus_space"
                 }
             ]
         },
@@ -3894,7 +3898,7 @@
                 },
                 {
                     "name": "search_symbol_icon_color",
-                    "value": "$color:font_secondary"
+                    "value": "$color:search_symbol_icon_color"
                 },
                 {
                     "name": "search_border_color",
@@ -5761,6 +5765,10 @@
                 {
                     "name": "select_font_size_text",
                     "value": "$float:select_font_size_text"
+                },
+                {
+                    "name": "menu_is_blend_bg_color",
+                    "value": "$float:menu_is_blend_bg_color"
                 }
             ]
         },
@@ -5777,11 +5785,15 @@
                 },
                 {
                     "name": "marker_color",
-                    "value": "$color:ohos_id_color_foreground"
+                    "value": "$color:slider_color_foreground"
                 },
                 {
                     "name": "marker_color_alpha",
-                    "value": "$float:ohos_id_alpha_normal_bg"
+                    "value": "$float:slider_alpha_normal_bg"
+                },
+                {
+                    "name": "outset_and_none_track_color",
+                    "value": "$color:slider_outset_and_none_track_color"
                 },
                 {
                     "name": "tip_color",
@@ -7236,6 +7248,10 @@
                 {
                     "name": "sheet_operation_height",
                     "value": "$float:sheet_operation_height_sys"
+                },
+                {
+                    "name": "sheet_show_close_icon",
+                    "value": "$float:sheet_show_close_icon"
                 }
             ]
         },
