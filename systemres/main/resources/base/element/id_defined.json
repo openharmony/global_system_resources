@@ -23966,6 +23966,41 @@
             "type": "float",
             "name": "menu_is_blend_bg_color",
             "order": 4760
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_left_secondary_description_text_size",
+            "order": 4761
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_normal_left_secondary_text_color",
+            "order": 4762
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_focused_left_secondary_text_color",
+            "order": 4763
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_normal_left_description_text_color",
+            "order": 4764
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_focused_left_description_text_color",
+            "order": 4765
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_badge_color",
+            "order": 4766
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_normal_icon_color",
+            "order": 4767
         }
     ]
 }
