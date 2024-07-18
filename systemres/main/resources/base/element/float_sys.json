@@ -558,7 +558,7 @@
         },
         {
             "name": "toggle_bgcolor_checked_focus_alpha",
-            "value": "0.2"
+            "value": "$float:ohos_id_alpha_highlight_bg"
         },
         {
             "name": "toast_border_width",
@@ -874,7 +874,7 @@
         },
         {
             "name": "composeListItem_normal_shadow_attribute",
-            "value": "0"
+            "value": "-1"
         },
         {
             "name": "composeListItem_focused_circular_bead",
@@ -898,7 +898,7 @@
         },
         {
             "name": "composeListItem_focused_shadow_attribute",
-            "value": "0"
+            "value": "-1"
         },
         {
             "name": "composeListItem_fifty_eight_normal_icon_size",
@@ -1091,6 +1091,10 @@
         {
             "name": "menu_is_blend_bg_color",
             "value": "0"
+        },
+        {
+            "name": "composeListItem_left_secondary_description_text_size",
+            "value": "$float:ohos_id_text_size_body2"
         }
     ]
   }

@@ -755,6 +755,30 @@
         {
             "name": "slider_outset_and_none_track_color",
             "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "composeListItem_normal_left_secondary_text_color",
+            "value": "$color:font_secondary"
+        },
+        {
+            "name": "composeListItem_focused_left_secondary_text_color",
+            "value": "$color:font_secondary"
+        },
+        {
+            "name": "composeListItem_normal_left_description_text_color",
+            "value": "$color:font_tertiary"
+        },
+        {
+            "name": "composeListItem_focused_left_description_text_color",
+            "value": "$color:font_tertiary"
+        },
+        {
+            "name": "composeListItem_badge_color",
+            "value": "$color:icon_primary"
+        },
+        {
+            "name": "composeListItem_normal_icon_color",
+            "value": "$color:icon_primary"
         }
     ]
   }
