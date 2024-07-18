@@ -439,6 +439,14 @@
                 {
                     "name": "switch_focus_pointColor_unselected",
                     "value": "$color:ohos_id_focused_pointColor_switch_button_unselected"
+                },
+                {
+                    "name": "interactive_hover",
+                    "value": "$color:interactive_hover"
+                },
+                {
+                    "name": "interactive_pressed",
+                    "value": "$color:interactive_pressed"
                 }
             ]
         },
