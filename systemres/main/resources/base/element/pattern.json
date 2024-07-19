@@ -4467,6 +4467,18 @@
                 {
                     "name": "text_fadeout_width",
                     "value": "$float:ohos_id_text_fadeout_width"
+                },
+                {
+                    "name": "text_line_spacing",
+                    "value": "$float:ohos_id_text_spacing_line"
+                },
+                {
+                    "name": "text_font_weight",
+                    "value": "$float:ohos_id_text_font_weight"
+                },
+                {
+                    "name": "text_align",
+                    "value": "$float:ohos_id_text_align"
                 }
             ]
         },
@@ -4736,6 +4748,10 @@
                 {
                     "name": "textfield_error_font_weight",
                     "value": "$float:ohos_id_textfield_error_font_weight"
+                },
+                {
+                    "name": "textfield_error_text_align",
+                    "value": "$float:ohos_id_textfield_error_text_align"
                 },
                 {
                     "name": "textfield_count_font_weight",
