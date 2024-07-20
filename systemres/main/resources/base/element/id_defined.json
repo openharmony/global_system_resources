@@ -23249,6 +23249,36 @@
             "type": "pattern",
             "name": "ohos_linear_indicator_pattern",
             "order": 4613
+        },
+        {
+            "type": "float",
+            "name": "menu_item_child_min_height_token",
+            "order": 4614
+        },
+        {
+            "type": "float",
+            "name": "menu_item_vertical_padding_token",
+            "order": 4615
+        },
+        {
+            "type": "float",
+            "name": "menu_item_group_title_text_font_size_token",
+            "order": 4616
+        },
+        {
+            "type": "float",
+            "name": "menu_default_radius_token",
+            "order": 4617
+        },
+        {
+            "type": "float",
+            "name": "menu_border_radius_token",
+            "order": 4618
+        },
+        {
+            "type": "float",
+            "name": "inner_border_radius_token",
+            "order": 4619
         }
     ]
 }

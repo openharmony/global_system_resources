@@ -295,6 +295,14 @@
         {
             "name": "list_container_height_level7",
             "value": "120"
-        }
+        },
+        {
+            "name": "menu_border_radius_token",
+            "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "inner_border_radius_token",
+            "value": "$float:corner_radius_level8"
+        }  
     ]
   }

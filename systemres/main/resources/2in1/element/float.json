@@ -91,6 +91,14 @@
         {
             "name": "toast_padding_old",
             "value": "8.0vp"
-        }
+        },
+        {
+            "name": "menu_border_radius_token",
+            "value": "$float:corner_radius_level4"
+        },
+        {
+            "name": "inner_border_radius_token",
+            "value": "$float:corner_radius_level2"
+        }  
     ]
 }
