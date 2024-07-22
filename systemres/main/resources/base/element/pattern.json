@@ -5699,6 +5699,14 @@
                     "value": "$string:menu_back_blur"
                 },
                 {
+                    "name": "menu_back_blur_with_color",
+                    "value": "$float:menu_back_blur_with_color"
+                },
+                {
+                    "name": "menu_back_blur_color",
+                    "value": "$color:menu_back_blur_color"
+                },
+                {
                     "name": "select_normal_border_width",
                     "value": "$float:select_normal_border_width"
                 },
