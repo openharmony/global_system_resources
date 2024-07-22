@@ -24017,7 +24017,7 @@
             "name": "ohos_id_toast_align",
             "order": 4770
         },
-        {
+		{
             "type": "float",
             "name": "ohos_id_text_spacing_line",
             "order": 4771
@@ -24031,7 +24031,7 @@
             "type": "float",
             "name": "ohos_id_textfield_error_text_align",
             "order": 4773
-        },
+		},
         {
             "type": "float",
             "name": "menu_back_blur_with_color",
@@ -24086,6 +24086,66 @@
             "type": "float",
             "name": "swiper_crown_translocation_ratio",
             "order": 4784
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_color_text_secondary",
+            "order": 4785
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_color_text_primary",
+            "order": 4786
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_color_text_primary_contrary",
+            "order": 4787
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_border_color",
+            "order": 4788
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_color_blend_pressed",
+            "order": 4789
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_color_blend_hovered",
+            "order": 4790
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_search_background",
+            "order": 4791
+        },
+		{
+            "type": "color",
+            "name": "chip_icon_focus_fill",
+            "order": 4792
+        },
+        {
+            "type": "color",
+            "name": "chip_icon_focus_activated",
+            "order": 4793
+        },
+        {
+            "type": "color",
+            "name": "chip_focus_activated_bg",
+            "order": 4794
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_color_focused_bg",
+            "order": 4795
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_color_button_normal",
+            "order": 4796
         }
     ]
 }

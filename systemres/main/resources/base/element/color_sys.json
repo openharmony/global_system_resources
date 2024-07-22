@@ -460,7 +460,7 @@
             "name": "toast_color_text_primary_contrary",
             "value": "$color:ohos_id_color_text_primary_contrary"
         },
-		{
+        {
             "name": "chip_normal_border_color",
             "value": "#00000000"
         },
@@ -494,7 +494,7 @@
         },
         {
             "name": "chip_press_color",
-            "value": "#00000000"
+            "value": "#19000000"
         },
         {
             "name": "chip_usually_icon_color",
@@ -503,6 +503,54 @@
         {
             "name": "chip_active_icon_color",
             "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
+            "name": "chip_icon_focus_fill",
+            "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "chip_icon_focus_activated",
+            "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
+            "name": "chip_focus_activated_bg",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "searchkeyboard_color_focused_bg",
+            "value": "$color:ohos_id_color_focused_bg"
+        },
+        {
+            "name": "searchkeyboard_color_button_normal",
+            "value": "$color:ohos_id_color_button_normal"
+        },
+        {
+            "name": "searchkeyboard_color_text_secondary",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "searchkeyboard_color_text_primary",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "searchkeyboard_color_text_primary_contrary",
+            "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
+            "name": "searchkeyboard_border_color",
+            "value": "#26FFFFFF"
+        },
+        {
+            "name": "searchkeyboard_color_blend_pressed",
+            "value": "#26FFFFFF"
+        },
+        {
+            "name": "searchkeyboard_color_blend_hovered",
+            "value": "#19FFFFFF"
+        },
+        {
+            "name": "searchkeyboard_search_background",
+            "value": "$color:ohos_id_color_text_field_sub_bg"
         },
         {
             "name": "picker_selector_item_border_color",
@@ -720,7 +768,7 @@
             "name": "picker_select_divider_color",
             "value": "$color:ohos_id_picker_select_divider_color"
         },
-		{
+        {
             "name": "select_selected_color",
             "value": "$color:ohos_id_select_selected_color"
         },
@@ -728,7 +776,7 @@
             "name": "text_color_selected",
             "value": "$color:ohos_id_color_text_primary_activated"
         },
-		{
+        {
             "name": "select_font_primary",
             "value": "$color:font_primary"
         },
@@ -785,4 +833,4 @@
             "value": "$color:icon_primary"
         }
     ]
-  }
+}
