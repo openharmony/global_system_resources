@@ -10737,42 +10737,50 @@
         {
             "type": "color",
             "name": "ohos_id_color_border_menu",
-            "order": 2115
+            "order": 2115,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_width_border_menu",
-            "order": 2116
+            "order": 2116,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_color_focused_bg_menu_item",
-            "order": 2117
+            "order": 2117,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_color_focused_text_menu_item",
-            "order": 2118
+            "order": 2118,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_menu_item_top_bottom_margin",
-            "order": 2119
+            "order": 2119,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_shadow_focused_menu_item",
-            "order": 2120
+            "order": 2120,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_target_security_space_menu",
-            "order": 2121
+            "order": 2121,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_content_align_menu_item",
-            "order": 2122
+            "order": 2122,
+            "flags": "private"
         },
         {
             "type": "symbol",
