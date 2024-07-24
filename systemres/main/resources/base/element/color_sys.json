@@ -831,6 +831,14 @@
         {
             "name": "composeListItem_normal_icon_color",
             "value": "$color:icon_primary"
+        },
+        {
+            "name": "select_focused_font_primary",
+            "value": "$color:font_primary"
+        },
+        {
+            "name": "select_normal_focused_icon_color",
+            "value": "$color:ohos_id_color_spinner_icon"
         }
     ]
 }

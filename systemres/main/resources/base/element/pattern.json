@@ -5837,6 +5837,18 @@
                 {
                     "name": "option_focused_box_padding",
                     "value": "$float:option_focused_box_padding"
+                },
+                {
+                    "name": "select_focused_symbol_color",
+                    "value": "$color:select_focused_font_primary"
+                },
+                {
+                    "name": "select_focused_icon_color",
+                    "value": "$color:select_normal_focused_icon_color"
+                },
+                {
+                    "name": "option_is_apply_focus_style",
+                    "value": "$float:option_is_apply_focus_style"
                 }
             ]
         },
