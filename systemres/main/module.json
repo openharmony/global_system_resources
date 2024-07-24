@@ -121,6 +121,15 @@
                 "description": "$string:ohos_desc_internet"
             },
             {
+                "name": "ohos.permission.GET_DOMAIN_VERIFY_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MODIFY_AUDIO_SETTINGS",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
