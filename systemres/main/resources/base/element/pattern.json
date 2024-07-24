@@ -5106,11 +5106,11 @@
                 },
                 {
                     "name": "menu_border_radius",
-                    "value": "$float:menu_border_radius_token"
+                    "value": "$float:ohos_id_corner_radius_card"
                 },
                 {
                     "name": "inner_border_radius",
-                    "value": "$float:inner_border_radius_token"
+                    "value": "$float:ohos_id_corner_radius_default_m"
                 },
                 {
                     "name": "menu_icon_color",
@@ -5445,8 +5445,12 @@
                     "value": "$float:menu_item_group_title_text_font_size_token"
                 },
                 {
-                    "name": "menu_default_radius",
-                    "value": "$float:menu_default_radius_token"
+                    "name": "menu_border_radius_new",
+                    "value": "$float:menu_border_radius_token"
+                },
+                {
+                    "name": "inner_border_radius_new",
+                    "value": "$float:inner_border_radius_token"
                 },
                 {
                     "name": "menu_text_color",
