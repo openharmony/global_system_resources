@@ -24146,6 +24146,36 @@
             "type": "color",
             "name": "searchkeyboard_color_button_normal",
             "order": 4796
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_indicator_width_ratio",
+            "order": 4797
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_indicator_height_ratio",
+            "order": 4798
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_indicator_corner_radius_ratio",
+            "order": 4799
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_indicator_border_ratio",
+            "order": 4800
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_track_thickness",
+            "order": 4801
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_interval_ratio",
+            "order": 4802
         }
     ]
 }
