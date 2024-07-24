@@ -24176,6 +24176,21 @@
             "type": "float",
             "name": "ohos_id_interval_ratio",
             "order": 4802
+        },
+        {
+            "type": "color",
+            "name": "select_focused_font_primary",
+            "order": 4803
+        },
+        {
+            "type": "color",
+            "name": "select_normal_focused_icon_color",
+            "order": 4804
+        },
+        {
+            "type": "float",
+            "name": "option_is_apply_focus_style",
+            "order": 4805
         }
     ]
 }
