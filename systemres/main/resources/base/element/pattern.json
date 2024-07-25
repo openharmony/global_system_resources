@@ -1582,22 +1582,6 @@
                     "value": "$color:ohos_id_color_focused_outline"
                 },
                 {
-                    "name": "size_focused_bg",
-                    "value": "$float:ohos_id_size_focused_bg_radio"
-                },
-                {
-                    "name": "color_focused_bg",
-                    "value": "$color:ohos_id_color_focused_bg_radio"
-                },
-                {
-                    "name": "focused_ring_unchecked",
-                    "value": "$color:ohos_id_color_focus_ring_unchecked_radio"
-                },
-                {
-                    "name": "focused_bg_unchecked",
-                    "value": "$color:ohos_id_color_focus_bg_unchecked_radio"
-                },
-                {
                     "name": "hover_border_color",
                     "value": "$color:ohos_id_color_hover"
                 },
@@ -1924,30 +1908,6 @@
                     "value": "$float:ohos_id_corner_radius_dialog"
                 },
                 {
-                    "name": "padding_top_title",
-                    "value": "$float:ohos_id_padding_top_title_dialog"
-                },
-                {
-                    "name": "button_type",
-                    "value": "0"
-                },
-                {
-                    "name": "padding_single_title",
-                    "value": "$float:ohos_id_padding_single_title_dialog"
-                },
-                {
-                    "name": "color_bg_with_blur",
-                    "value": "$color:ohos_id_color_bg_with_blur_dialog"
-                },
-                {
-                    "name": "shadow_dialog",
-                    "value": "$float:ohos_id_shadow_dialog"
-                },
-                {
-                    "name": "align_dialog",
-                    "value": "$float:ohos_id_align_dialog"
-                },
-                {
                     "name": "dialog_container_radius",
                     "value": "$float:alert_container_shape"
                 },
@@ -1978,22 +1938,6 @@
                 {
                     "name": "dialog_background_shadow_off",
                     "value": "$float:ohos_id_dialog_background_shadow_off"
-                },
-                {
-                    "name": "border_color",
-                    "value": "$color:ohos_id_color_border_dialog"
-                },
-                {
-                    "name": "border_width",
-                    "value": "$float:ohos_id_width_border_dialog"
-                },
-                {
-                    "name": "text_align_title",
-                    "value": "$float:ohos_id_text_align_dialog_title"
-                },
-                {
-                    "name": "text_align_content",
-                    "value": "$float:ohos_id_text_align_dialog_content"
                 },
                 {
                     "name": "title_text_color",
@@ -2202,14 +2146,6 @@
                 {
                     "name": "dialog_dimension_start",
                     "value": "$float:ohos_id_dialog_margin_start"
-                },
-                {
-                    "name": "device_columns_dialog",
-                    "value": "$float:ohos_id_device_columns_dialog"
-                },
-                {
-                    "name": "dialog_ratio_height",
-                    "value": "$float:ohos_id_ratio_height_dialog"
                 },
                 {
                     "name": "dialog_dimension_end",
@@ -3781,28 +3717,8 @@
             "name": "ohos_swiper_pattern",
             "value": [
                 {
-                    "name": "indicator_scale_swiper",
-                    "value": "$float:ohos_id_scale_swiper_indicator"
-                },
-                {
-                    "name": "color_focus_unselected",
-                    "value": "$color:ohos_id_color_focus_unselected_dot_swiper"
-                },
-                {
-                    "name": "color_focus_bg",
-                    "value": "$color:ohos_id_color_focus_bg_swiper"
-                },
-                {
-                    "name": "indicator_bg_height",
-                    "value": "$float:ohos_id_height_bg_swiper"
-                },
-                {
                     "name": "indicator_color_selected",
                     "value": "$color:ohos_id_color_emphasize"
-                },
-                {
-                    "name": "indicator_color_focused_selected",
-                    "value": "$color:ohos_id_color_focused_select"
                 },
                 {
                     "name": "indicator_color",
@@ -3823,10 +3739,6 @@
                 {
                     "name": "indicator_text_font_size",
                     "value": "$float:ohos_id_text_size_body2"
-                },
-                {
-                    "name": "indicator_padding_dot",
-                    "value": "$float:ohos_id_padding_dot_swiper"
                 },
                 {
                     "name": "indicator_text_font_color",
