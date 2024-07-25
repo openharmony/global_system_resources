@@ -27,6 +27,15 @@
                 "description": "$string:ohos_desc_answer_call"
             },
             {
+                "name": "ohos.permission.ACCESS_DEVICE_COLLABORATION_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.USE_BLUETOOTH",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
@@ -3963,6 +3972,15 @@
                 "name": "ohos.permission.DUMP_AUDIO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
+                 "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },    
+            {
+                "name": "ohos.permission.ACCESS_MULTICORE_HYBRID_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
                 "since": 12,
                 "deprecated": "",
                 "provisionEnable": true,

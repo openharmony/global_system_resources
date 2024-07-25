@@ -10737,42 +10737,50 @@
         {
             "type": "color",
             "name": "ohos_id_color_border_menu",
-            "order": 2115
+            "order": 2115,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_width_border_menu",
-            "order": 2116
+            "order": 2116,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_color_focused_bg_menu_item",
-            "order": 2117
+            "order": 2117,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_color_focused_text_menu_item",
-            "order": 2118
+            "order": 2118,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_menu_item_top_bottom_margin",
-            "order": 2119
+            "order": 2119,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_shadow_focused_menu_item",
-            "order": 2120
+            "order": 2120,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_target_security_space_menu",
-            "order": 2121
+            "order": 2121,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_content_align_menu_item",
-            "order": 2122
+            "order": 2122,
+            "flags": "private"
         },
         {
             "type": "symbol",
@@ -23279,6 +23287,976 @@
             "type": "float",
             "name": "inner_border_radius_token",
             "order": 4619
+        },
+        {
+            "type": "symbol",
+            "name": "folder_badge_ellipsis",
+            "order": 4620
+        },
+        {
+            "type": "symbol",
+            "name": "battery_leaf_fill",
+            "order": 4621
+        },
+        {
+            "type": "symbol",
+            "name": "arrow_right_and_square",
+            "order": 4622
+        },
+        {
+            "type": "symbol",
+            "name": "a_10k_rectangle",
+            "order": 4623
+        },
+        {
+            "type": "symbol",
+            "name": "a_360_degree_rotation",
+            "order": 4624
+        },
+        {
+            "type": "symbol",
+            "name": "doc_text_badge_clock_fill",
+            "order": 4625
+        },
+        {
+            "type": "symbol",
+            "name": "a_3k_rectangle",
+            "order": 4626
+        },
+        {
+            "type": "symbol",
+            "name": "hobbyhorse",
+            "order": 4627
+        },
+        {
+            "type": "symbol",
+            "name": "notice_fill",
+            "order": 4628
+        },
+        {
+            "type": "symbol",
+            "name": "heart_house_fill",
+            "order": 4629
+        },
+        {
+            "type": "symbol",
+            "name": "graduationcap",
+            "order": 4630
+        },
+        {
+            "type": "symbol",
+            "name": "ellipsis_circle",
+            "order": 4631
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_01",
+            "order": 4632
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_02",
+            "order": 4633
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_03",
+            "order": 4634
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_04",
+            "order": 4635
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_05",
+            "order": 4636
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_06",
+            "order": 4637
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_07",
+            "order": 4638
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_08",
+            "order": 4639
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_09",
+            "order": 4640
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_10",
+            "order": 4641
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_11",
+            "order": 4642
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_12",
+            "order": 4643
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_13",
+            "order": 4644
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_14",
+            "order": 4645
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_15",
+            "order": 4646
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_16",
+            "order": 4647
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_17",
+            "order": 4648
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_18",
+            "order": 4649
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_19",
+            "order": 4650
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_20",
+            "order": 4651
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_21",
+            "order": 4652
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_22",
+            "order": 4653
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_23",
+            "order": 4654
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_24",
+            "order": 4655
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_25",
+            "order": 4656
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_26",
+            "order": 4657
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_27",
+            "order": 4658
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_28",
+            "order": 4659
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_29",
+            "order": 4660
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_30",
+            "order": 4661
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_31",
+            "order": 4662
+        },
+        {
+            "type": "symbol",
+            "name": "lactate_threshold_1",
+            "order": 4663
+        },
+        {
+            "type": "symbol",
+            "name": "watch_badge_card",
+            "order": 4664
+        },
+        {
+            "type": "symbol",
+            "name": "car_key",
+            "order": 4665
+        },
+        {
+            "type": "symbol",
+            "name": "spare_1",
+            "order": 4666
+        },
+        {
+            "type": "symbol",
+            "name": "spare_2",
+            "order": 4667
+        },
+        {
+            "type": "symbol",
+            "name": "spare_3",
+            "order": 4668
+        },
+        {
+            "type": "symbol",
+            "name": "spare_4",
+            "order": 4669
+        },
+        {
+            "type": "symbol",
+            "name": "spare_5",
+            "order": 4670
+        },
+        {
+            "type": "symbol",
+            "name": "spare_6",
+            "order": 4671
+        },
+        {
+            "type": "symbol",
+            "name": "spare_7",
+            "order": 4672
+        },
+        {
+            "type": "symbol",
+            "name": "spare_8",
+            "order": 4673
+        },
+        {
+            "type": "symbol",
+            "name": "calendar_badge_clock_fill",
+            "order": 4674
+        },
+        {
+            "type": "symbol",
+            "name": "spare_9",
+            "order": 4675
+        },
+        {
+            "type": "symbol",
+            "name": "a_5k_rectangle",
+            "order": 4676
+        },
+        {
+            "type": "symbol",
+            "name": "ebook",
+            "order": 4677
+        },
+        {
+            "type": "symbol",
+            "name": "background_blurred",
+            "order": 4678
+        },
+        {
+            "type": "symbol",
+            "name": "background_blurred_slash",
+            "order": 4679
+        },
+        {
+            "type": "symbol",
+            "name": "background_color_removal",
+            "order": 4680
+        },
+        {
+            "type": "symbol",
+            "name": "background_color_removal_slash",
+            "order": 4681
+        },
+        {
+            "type": "symbol",
+            "name": "color_temperature_1",
+            "order": 4682
+        },
+        {
+            "type": "symbol",
+            "name": "color_temperature_slash",
+            "order": 4683
+        },
+        {
+            "type": "symbol",
+            "name": "adjustment_slash",
+            "order": 4684
+        },
+        {
+            "type": "symbol",
+            "name": "highlights_slash",
+            "order": 4685
+        },
+        {
+            "type": "symbol",
+            "name": "shadow_slash",
+            "order": 4686
+        },
+        {
+            "type": "symbol",
+            "name": "toning_slash",
+            "order": 4687
+        },
+        {
+            "type": "symbol",
+            "name": "bright_slash",
+            "order": 4688
+        },
+        {
+            "type": "symbol",
+            "name": "contrast_slash",
+            "order": 4689
+        },
+        {
+            "type": "symbol",
+            "name": "dark_slash",
+            "order": 4690
+        },
+        {
+            "type": "symbol",
+            "name": "saturation_slash",
+            "order": 4691
+        },
+        {
+            "type": "symbol",
+            "name": "natural_saturation_slash",
+            "order": 4692
+        },
+        {
+            "type": "symbol",
+            "name": "paintpalette_slash",
+            "order": 4693
+        },
+        {
+            "type": "symbol",
+            "name": "triangleshape_slash",
+            "order": 4694
+        },
+        {
+            "type": "symbol",
+            "name": "circle_square_slash",
+            "order": 4695
+        },
+        {
+            "type": "symbol",
+            "name": "fade_slash",
+            "order": 4696
+        },
+        {
+            "type": "symbol",
+            "name": "exposure_slash",
+            "order": 4697
+        },
+        {
+            "type": "symbol",
+            "name": "particle_slash",
+            "order": 4698
+        },
+        {
+            "type": "symbol",
+            "name": "stop_circle_fill",
+            "order": 4699
+        },
+        {
+            "type": "symbol",
+            "name": "align_left",
+            "order": 4700
+        },
+        {
+            "type": "symbol",
+            "name": "align_center",
+            "order": 4701
+        },
+        {
+            "type": "symbol",
+            "name": "align_right",
+            "order": 4702
+        },
+        {
+            "type": "symbol",
+            "name": "align_top",
+            "order": 4703
+        },
+        {
+            "type": "symbol",
+            "name": "align_middle",
+            "order": 4704
+        },
+        {
+            "type": "symbol",
+            "name": "align_bottom",
+            "order": 4705
+        },
+        {
+            "type": "symbol",
+            "name": "download_fill",
+            "order": 4706
+        },
+        {
+            "type": "symbol",
+            "name": "envelope_badge_dot_fill",
+            "order": 4707
+        },
+        {
+            "type": "symbol",
+            "name": "keymouse_sharing_fill",
+            "order": 4708
+        },
+        {
+            "type": "symbol",
+            "name": "matebook_and_phone_fill",
+            "order": 4709
+        },
+        {
+            "type": "symbol",
+            "name": "multi_screen_collaboration_fill",
+            "order": 4710
+        },
+        {
+            "type": "symbol",
+            "name": "picture_2_fill",
+            "order": 4711
+        },
+        {
+            "type": "symbol",
+            "name": "keyboard_badge_combination",
+            "order": 4712
+        },
+        {
+            "type": "symbol",
+            "name": "person_badge_checkmark_fill",
+            "order": 4713
+        },
+        {
+            "type": "symbol",
+            "name": "coins_badge_coin",
+            "order": 4714
+        },
+        {
+            "type": "symbol",
+            "name": "law",
+            "order": 4715
+        },
+        {
+            "type": "symbol",
+            "name": "science_technology",
+            "order": 4716
+        },
+        {
+            "type": "symbol",
+            "name": "star_square_stack_fill",
+            "order": 4717
+        },
+        {
+            "type": "symbol",
+            "name": "board_game_fill",
+            "order": 4718
+        },
+        {
+            "type": "symbol",
+            "name": "chicken_leg_fill",
+            "order": 4719
+        },
+        {
+            "type": "symbol",
+            "name": "chicken_leg",
+            "order": 4720
+        },
+        {
+            "type": "symbol",
+            "name": "cross_case_fill",
+            "order": 4721
+        },
+        {
+            "type": "symbol",
+            "name": "leisure_puzzle_fill",
+            "order": 4722
+        },
+        {
+            "type": "symbol",
+            "name": "tennis_ball_fill",
+            "order": 4723
+        },
+        {
+            "type": "symbol",
+            "name": "tennis_ball",
+            "order": 4724
+        },
+        {
+            "type": "symbol",
+            "name": "volleyball_fill",
+            "order": 4725
+        },
+        {
+            "type": "symbol",
+            "name": "volleyball",
+            "order": 4726
+        },
+        {
+            "type": "symbol",
+            "name": "action_shooting_fill",
+            "order": 4727
+        },
+        {
+            "type": "symbol",
+            "name": "exponentiation",
+            "order": 4728
+        },
+        {
+            "type": "symbol",
+            "name": "wired_projection",
+            "order": 4729
+        },
+        {
+            "type": "symbol",
+            "name": "mic_badge_star",
+            "order": 4730
+        },
+        {
+            "type": "symbol",
+            "name": "albatross_ball",
+            "order": 4731
+        },
+        {
+            "type": "symbol",
+            "name": "AR_share",
+            "order": 4732
+        },
+        {
+            "type": "symbol",
+            "name": "arrow_bounce_right",
+            "order": 4733
+        },
+        {
+            "type": "symbol",
+            "name": "arrow_right_and_square_shield_fill",
+            "order": 4734
+        },
+        {
+            "type": "symbol",
+            "name": "arrowshape_up_to_line_slash",
+            "order": 4735
+        },
+        {
+            "type": "symbol",
+            "name": "backward_fill",
+            "order": 4736
+        },
+        {
+            "type": "symbol",
+            "name": "bag_badge_plus",
+            "order": 4737
+        },
+        {
+            "type": "symbol",
+            "name": "balloon",
+            "order": 4738
+        },
+        {
+            "type": "symbol",
+            "name": "barrage_off",
+            "order": 4739
+        },
+        {
+            "type": "symbol",
+            "name": "barrage_on",
+            "order": 4740
+        },
+        {
+            "type": "symbol",
+            "name": "barrage_setting",
+            "order": 4741
+        },
+        {
+            "type": "symbol",
+            "name": "barrage_simple",
+            "order": 4742
+        },
+        {
+            "type": "symbol",
+            "name": "doc_text_badge_arrow_right",
+            "order": 4743
+        },
+        {
+            "type": "symbol",
+            "name": "car_badge_minus",
+            "order": 4744
+        },
+        {
+            "type": "symbol",
+            "name": "cart_fill",
+            "order": 4745
+        },
+        {
+            "type": "symbol",
+            "name": "charge_badge_minus_fill",
+            "order": 4746
+        },
+        {
+            "type": "symbol",
+            "name": "charge_head",
+            "order": 4747
+        },
+        {
+            "type": "symbol",
+            "name": "children_1",
+            "order": 4748
+        },
+        {
+            "type": "symbol",
+            "name": "classify",
+            "order": 4749
+        },
+        {
+            "type": "symbol",
+            "name": "daren_college",
+            "order": 4750
+        },
+        {
+            "type": "symbol",
+            "name": "device_bolt",
+            "order": 4751
+        },
+        {
+            "type": "symbol",
+            "name": "display_products",
+            "order": 4752
+        },
+        {
+            "type": "symbol",
+            "name": "display_products_slash",
+            "order": 4753
+        },
+        {
+            "type": "symbol",
+            "name": "distance_unit",
+            "order": 4754
+        },
+        {
+            "type": "symbol",
+            "name": "dot_radiowaves_message",
+            "order": 4755
+        },
+        {
+            "type": "symbol",
+            "name": "dot_radiowaves_message_fill",
+            "order": 4756
+        },
+        {
+            "type": "symbol",
+            "name": "figure_run_1",
+            "order": 4757
+        },
+        {
+            "type": "symbol",
+            "name": "earphone_5888_slash",
+            "order": 4758
+        },
+        {
+            "type": "symbol",
+            "name": "enlarge_window",
+            "order": 4759
+        },
+        {
+            "type": "symbol",
+            "name": "exchange_product",
+            "order": 4760
+        },
+        {
+            "type": "symbol",
+            "name": "face_laughing",
+            "order": 4761
+        },
+        {
+            "type": "symbol",
+            "name": "ferry_badge_minus_fill",
+            "order": 4762
+        },
+        {
+            "type": "symbol",
+            "name": "figure_arms_open_1",
+            "order": 4763
+        },
+        {
+            "type": "symbol",
+            "name": "figure_arms_open_filled_viewfinder",
+            "order": 4764
+        },
+        {
+            "type": "symbol",
+            "name": "flexible_screen",
+            "order": 4765
+        },
+        {
+            "type": "symbol",
+            "name": "full_rectangle",
+            "order": 4766
+        },
+        {
+            "type": "symbol",
+            "name": "group",
+            "order": 4767
+        },
+        {
+            "type": "symbol",
+            "name": "half_rectangle",
+            "order": 4768
+        },
+        {
+            "type": "symbol",
+            "name": "house_shield_fill",
+            "order": 4769
+        },
+        {
+            "type": "symbol",
+            "name": "info_rectangle_portrait_fill",
+            "order": 4770
+        },
+        {
+            "type": "symbol",
+            "name": "kunlun_glass",
+            "order": 4771
+        },
+        {
+            "type": "symbol",
+            "name": "leave_home_shield_fill",
+            "order": 4772
+        },
+        {
+            "type": "symbol",
+            "name": "line_below_AWB",
+            "order": 4773
+        },
+        {
+            "type": "symbol",
+            "name": "location_right_fill",
+            "order": 4774
+        },
+        {
+            "type": "symbol",
+            "name": "mainboard_fault",
+            "order": 4775
+        },
+        {
+            "type": "symbol",
+            "name": "messenger",
+            "order": 4776
+        },
+        {
+            "type": "symbol",
+            "name": "mouse_fill",
+            "order": 4777
+        },
+        {
+            "type": "symbol",
+            "name": "music_house_fill",
+            "order": 4778
+        },
+        {
+            "type": "symbol",
+            "name": "navigation_1",
+            "order": 4779
+        },
+        {
+            "type": "symbol",
+            "name": "notice",
+            "order": 4780
+        },
+        {
+            "type": "symbol",
+            "name": "notice_1",
+            "order": 4781
+        },
+        {
+            "type": "symbol",
+            "name": "passport",
+            "order": 4782
+        },
+        {
+            "type": "symbol",
+            "name": "personalized_sticker",
+            "order": 4783
+        },
+        {
+            "type": "symbol",
+            "name": "pollen_club_fill",
+            "order": 4784
+        },
+        {
+            "type": "symbol",
+            "name": "rear_cover_fault",
+            "order": 4785
+        },
+        {
+            "type": "symbol",
+            "name": "replace_device",
+            "order": 4786
+        },
+        {
+            "type": "symbol",
+            "name": "reposition",
+            "order": 4787
+        },
+        {
+            "type": "symbol",
+            "name": "road_lanes_badge_minus_fill",
+            "order": 4788
+        },
+        {
+            "type": "symbol",
+            "name": "robots_fill",
+            "order": 4789
+        },
+        {
+            "type": "symbol",
+            "name": "route_plan_fill",
+            "order": 4790
+        },
+        {
+            "type": "symbol",
+            "name": "ruler_measure",
+            "order": 4791
+        },
+        {
+            "type": "symbol",
+            "name": "ruler_measure_slash",
+            "order": 4792
+        },
+        {
+            "type": "symbol",
+            "name": "service_fill",
+            "order": 4793
+        },
+        {
+            "type": "symbol",
+            "name": "short_distance",
+            "order": 4794
+        },
+        {
+            "type": "symbol",
+            "name": "start_to_end_distance",
+            "order": 4795
+        },
+        {
+            "type": "symbol",
+            "name": "start_to_end_distance_fill",
+            "order": 4796
+        },
+        {
+            "type": "symbol",
+            "name": "store_fill",
+            "order": 4797
+        },
+        {
+            "type": "symbol",
+            "name": "switch_compass",
+            "order": 4798
+        },
+        {
+            "type": "symbol",
+            "name": "switch_leveler",
+            "order": 4799
+        },
+        {
+            "type": "symbol",
+            "name": "switch_reality",
+            "order": 4800
+        },
+        {
+            "type": "symbol",
+            "name": "text_badge_questionmark",
+            "order": 4801
+        },
+        {
+            "type": "symbol",
+            "name": "text_clipboard_fill",
+            "order": 4802
+        },
+        {
+            "type": "symbol",
+            "name": "topic",
+            "order": 4803
+        },
+        {
+            "type": "symbol",
+            "name": "topic_message_fill",
+            "order": 4804
+        },
+        {
+            "type": "symbol",
+            "name": "touchscreen_fault",
+            "order": 4805
+        },
+        {
+            "type": "symbol",
+            "name": "vip_purchasing_code",
+            "order": 4806
+        },
+        {
+            "type": "symbol",
+            "name": "volume_based_package_1",
+            "order": 4807
+        },
+        {
+            "type": "symbol",
+            "name": "waveform_path_ecg_magnifyingglass_fill",
+            "order": 4808
+        },
+        {
+            "type": "symbol",
+            "name": "whatsapp",
+            "order": 4809
+        },
+        {
+            "type": "symbol",
+            "name": "wisdom_house",
+            "order": 4810
+        },
+        {
+            "type": "symbol",
+            "name": "wrench_rectangle_portrait_fill",
+            "order": 4811
+        },
+        {
+            "type": "symbol",
+            "name": "arrowshape_turn_up_left_fill",
+            "order": 4812
+        },
+        {
+            "type": "float",
+            "name": "sub_tab_bar_third_large_font_size_scale",
+            "order": 4813
         }
     ]
 }
