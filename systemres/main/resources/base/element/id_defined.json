@@ -22656,8 +22656,8 @@
             "order": 4498
         },
         {
-            "type": "float",
-            "name": "chip_shadow_style_radius",
+            "type": "color",
+            "name": "searchkeyboard_color_button_normal",
             "order": 4499
         },
         {
@@ -24143,8 +24143,8 @@
             "order": 4795
         },
         {
-            "type": "color",
-            "name": "searchkeyboard_color_button_normal",
+            "type": "float",
+            "name": "chip_normal_shadow_style",
             "order": 4796
         },
         {
@@ -24191,6 +24191,11 @@
             "type": "float",
             "name": "option_is_apply_focus_style",
             "order": 4805
+        },
+        {
+            "type": "float",
+            "name": "chip_small_shadow_style",
+            "order": 4806
         }
     ]
 }
