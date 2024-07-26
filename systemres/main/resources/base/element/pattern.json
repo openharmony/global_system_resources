@@ -3915,6 +3915,10 @@
                 {
                     "name": "search_focus_icon_color",
                     "value": "$color:search_focus_icon_color"
+                },
+                {
+                    "name": "search_cancel_button_style",
+                    "value": "$float:search_cancel_button_style_sys"
                 }
             ]
         },
@@ -4466,6 +4470,10 @@
                 {
                     "name": "tab_bar_margin_width",
                     "value": "$float:tab_bar_margin_width_sys"
+                },
+                {
+                    "name": "tab_bar_focus_padding",
+                    "value": "$float:tab_bar_focus_padding_sys"
                 }
             ]
         },
