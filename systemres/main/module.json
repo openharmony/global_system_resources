@@ -3185,6 +3185,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_UWB",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.USE_UWB_RANGING",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_FINDNETWORK",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
