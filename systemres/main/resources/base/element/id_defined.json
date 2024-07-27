@@ -10319,32 +10319,38 @@
         {
             "type": "float",
             "name": "ohos_id_width_border_dialog",
-            "order": 2032
+            "order": 2032,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_color_border_dialog",
-            "order": 2033
+            "order": 2033,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_text_align_dialog_title",
-            "order": 2034
+            "order": 2034,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_text_align_dialog_content",
-            "order": 2035
+            "order": 2035,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_min_width_dialog",
-            "order": 2036
+            "order": 2036,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_ratio_height_dialog",
-            "order": 2037
+            "order": 2037,
+            "flags": "private"
         },
         {
             "type": "color",
@@ -10403,7 +10409,8 @@
         {
             "type": "float",
             "name": "ohos_id_device_columns_dialog",
-            "order": 2047
+            "order": 2047,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -10560,17 +10567,20 @@
         {
             "type": "float",
             "name": "ohos_id_padding_dot_swiper",
-            "order": 2078
+            "order": 2078,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_color_focused_bg_radio",
-            "order": 2079
+            "order": 2079,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_size_focused_bg_radio",
-            "order": 2080
+            "order": 2080,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -10590,27 +10600,32 @@
         {
             "type": "color",
             "name": "ohos_id_color_bg_with_blur_dialog",
-            "order": 2084
+            "order": 2084,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_align_dialog",
-            "order": 2085
+            "order": 2085,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_shadow_dialog",
-            "order": 2086
+            "order": 2086,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_padding_top_title_dialog",
-            "order": 2087
+            "order": 2087,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_padding_single_title_dialog",
-            "order": 2088
+            "order": 2088,
+            "flags": "private"
         },
         {
             "type": "media",
@@ -10690,12 +10705,14 @@
         {
             "type": "color",
             "name": "ohos_id_color_focused_select",
-            "order": 2104
+            "order": 2104,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_scale_swiper_indicator",
-            "order": 2105
+            "order": 2105,
+            "flags": "private"
         },
         {
             "type": "media",
@@ -18219,17 +18236,20 @@
         {
             "type": "color",
             "name": "ohos_id_color_focus_unselected_dot_swiper",
-            "order": 3608
+            "order": 3608,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_color_focus_bg_swiper",
-            "order": 3609
+            "order": 3609,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_height_bg_swiper",
-            "order": 3610
+            "order": 3610,
+            "flags": "private"
         },
         {
             "type": "color",
@@ -18259,12 +18279,14 @@
         {
             "type": "color",
             "name": "ohos_id_color_focus_ring_unchecked_radio",
-            "order": 3616
+            "order": 3616,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_color_focus_bg_unchecked_radio",
-            "order": 3617
+            "order": 3617,
+            "flags": "private"
         },
         {
             "type": "string",
