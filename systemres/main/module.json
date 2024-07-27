@@ -1099,6 +1099,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_NET_FIREWALL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_NET_FIREWALL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.SET_ABILITY_CONTROLLER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
