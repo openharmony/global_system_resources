@@ -3636,6 +3636,10 @@
                 {
                     "name": "rating_focus_space",
                     "value": "$float:rating_focus_space"
+                },
+                {
+                    "name": "rating_focus_blur_cancel_animation",
+                    "value": "$float:rating_focus_blur_cancel_animation"
                 }
             ]
         },
