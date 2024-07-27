@@ -3636,6 +3636,10 @@
                 {
                     "name": "rating_focus_space",
                     "value": "$float:rating_focus_space"
+                },
+                {
+                    "name": "rating_focus_blur_cancel_animation",
+                    "value": "$float:rating_focus_blur_cancel_animation"
                 }
             ]
         },
@@ -3733,7 +3737,7 @@
                 },
                 {
                     "name": "scroll_bar_foreground_opacity",
-                    "value": "$float:ohos_id_alpha_content_tertiary"
+                    "value": "$float:scroll_bar_foreground_opacity"
                 },
                 {
                     "name": "scroll_bar_default_width",
