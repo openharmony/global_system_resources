@@ -24226,6 +24226,16 @@
             "type": "float",
             "name": "search_need_focus_box",
             "order": 4812
+        },
+        {
+            "type": "float",
+            "name": "swiper_crown_indicator_drag_min_angle",
+            "order": 4813
+        },
+        {
+            "type": "float",
+            "name": "swiper_crown_indicator_drag_max_angle",
+            "order": 4814
         }
     ]
 }
