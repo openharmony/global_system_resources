@@ -10162,7 +10162,8 @@
         {
             "type": "string",
             "name": "ohos_id_list_fadeout_enable_default",
-            "order": 2001
+            "order": 2001,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -10279,7 +10280,8 @@
         {
             "type": "color",
             "name": "ohos_id_color_border_small_button",
-            "order": 2024
+            "order": 2024,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -10517,52 +10519,62 @@
         {
             "type": "color",
             "name": "ohos_id_button_focus_border_color",
-            "order": 2068
+            "order": 2068,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_button_focus_border_width",
-            "order": 2069
+            "order": 2069,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_button_focus_effect_type",
-            "order": 2070
+            "order": 2070,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_button_default_light_illiminated",
-            "order": 2071
+            "order": 2071,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_linear_focus_border_color",
-            "order": 2072
+            "order": 2072,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_linear_focus_border_width",
-            "order": 2073
+            "order": 2073,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_linear_focus_effect_type",
-            "order": 2074
+            "order": 2074,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_stack_focus_border_color",
-            "order": 2075
+            "order": 2075,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_stack_focus_border_width",
-            "order": 2076
+            "order": 2076,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "ohos_id_stack_focus_effect_type",
-            "order": 2077
+            "order": 2077,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -10585,7 +10597,8 @@
         {
             "type": "float",
             "name": "ohos_id_text_fadeout_width",
-            "order": 2081
+            "order": 2081,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -10723,42 +10736,50 @@
         {
             "type": "color",
             "name": "ohos_id_color_focus_board_switch",
-            "order": 2107
+            "order": 2107,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_focused_bgcolor_switch_button_unselected",
-            "order": 2108
+            "order": 2108,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_focused_pointColor_switch_button_unselected",
-            "order": 2109
+            "order": 2109,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_color_border_status_button_checked",
-            "order": 2110
+            "order": 2110,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_color_border_status_button_unchecked",
-            "order": 2111
+            "order": 2111,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_bgcolor_focus_status_button_unchecked",
-            "order": 2112
+            "order": 2112,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_bgcolor_focus_status_button_checked",
-            "order": 2113
+            "order": 2113,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "ohos_id_text_color_focus_status_button",
-            "order": 2114
+            "order": 2114,
+            "flags": "private"
         },
         {
             "type": "color",
@@ -18254,7 +18275,8 @@
         {
             "type": "color",
             "name": "ohos_id_switch_unchecked_bgColor",
-            "order": 3611
+            "order": 3611,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -18397,7 +18419,8 @@
         {
             "type": "color",
             "name": "ohos_id_normal_button_focus_bgcolor",
-            "order": 3639
+            "order": 3639,
+            "flags": "private"
         },
         {
             "type": "color",
