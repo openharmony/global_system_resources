@@ -4225,6 +4225,14 @@
                 {
                     "name": "swiper_crown_translocation_ratio",
                     "value": "$float:swiper_crown_translocation_ratio"
+                },
+                {
+                    "name": "swiper_indicator_drag_min_angle",
+                    "value": "$float:swiper_crown_indicator_drag_min_angle"
+                },
+                {
+                    "name": "swiper_indicator_drag_max_angle",
+                    "value": "$float:swiper_crown_indicator_drag_max_angle"
                 }
             ]
         },
