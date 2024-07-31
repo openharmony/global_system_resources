@@ -24236,6 +24236,16 @@
             "type": "float",
             "name": "swiper_crown_indicator_drag_max_angle",
             "order": 4814
+        },
+        {
+            "type": "float",
+            "name": "textfield_independent_control_keyboard",
+            "order": 4815
+        },
+        {
+            "type": "float",
+            "name": "textfield_direction_keys_move_focus_out",
+            "order": 4816
         }
     ]
 }

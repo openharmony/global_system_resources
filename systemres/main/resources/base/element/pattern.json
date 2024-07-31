@@ -4860,6 +4860,14 @@
                 {
                     "name": "preview_board_color",
                     "value": "$color:ohos_id_color_component_normal"
+                },
+                {
+                    "name": "independent_control_keyboard",
+                    "value": "$float:textfield_independent_control_keyboard"
+                },
+                {
+                    "name": "direction_keys_move_focus_out",
+                    "value": "$float:textfield_direction_keys_move_focus_out"
                 }
             ]
         },
