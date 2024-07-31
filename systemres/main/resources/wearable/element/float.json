@@ -170,11 +170,11 @@
         },
         {
             "name": "ohos_id_indicator_height_ratio",
-            "value": "0.059"
+            "value": "0.058"
         },
         {
             "name": "ohos_id_indicator_corner_radius_ratio",
-            "value": "0.006"
+            "value": "0.0067"
         },
         {
             "name": "ohos_id_indicator_border_ratio",
@@ -182,7 +182,7 @@
         },
         {
             "name": "ohos_id_track_thickness",
-            "value": "3.334vp"
+            "value": "10.0vp"
         },
         {
             "name": "ohos_id_interval_ratio",
@@ -219,6 +219,14 @@
         {
             "name": "swiper_crown_indicator_drag_max_angle",
             "value": "10.0"
+        },
+        {
+            "name": "ohos_id_toast_align",
+            "value": "4.0"
+        },
+        {
+            "name": "toast_bg_theme_color_mode",
+            "value": "2.0"
         }
     ]
 }
