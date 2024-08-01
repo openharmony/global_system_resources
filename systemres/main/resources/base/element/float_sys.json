@@ -709,6 +709,10 @@
             "value": "16"
         },
         {
+            "name": "chip_activated_fontweight",
+            "value": "3"
+        },
+        {
             "name": "chip_normal_radius",
             "value": "$float:ohos_id_corner_radius_tips_instant_tip"
         },
@@ -1160,6 +1164,5 @@
             "name": "select_slide_more_offset",
             "value": "0"
         }
-		
     ]
   }
