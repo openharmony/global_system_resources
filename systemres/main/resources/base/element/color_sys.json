@@ -517,6 +517,22 @@
             "value": "$color:ohos_id_color_emphasize"
         },
         {
+            "name": "chip_small_activated_border_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "chip_normal_activated_border_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "chip_activated_background_color",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "chip_activated_fontcolor",
+            "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
             "name": "searchkeyboard_color_focused_bg",
             "value": "$color:ohos_id_color_focused_bg"
         },
