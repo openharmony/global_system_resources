@@ -4272,6 +4272,10 @@
                     "value": "$color:tab_subtab_text_focused_color_sys"
                 },
                 {
+                    "name": "subtab_focused_style",
+                    "value": "$float:tab_subtab_focused_style"
+                },
+                {
                     "name": "subtab_indicator_height",
                     "value": "$float:ohos_id_subtab_line_height"
                 },
