@@ -24310,6 +24310,26 @@
             "type": "float",
             "name": "sub_tab_bar_third_large_font_size_scale",
             "order": 4813
+        },
+        {
+            "type": "string",
+            "name": "slider_accessibility_selected",
+            "order": 4814
+        },
+        {
+            "type": "string",
+            "name": "slider_accessibility_unselected",
+            "order": 4815
+        },
+        {
+            "type": "string",
+            "name": "slider_accessibility_unselectedDesc",
+            "order": 4816
+        },
+        {
+            "type": "string",
+            "name": "slider_accessibility_disabledDesc",
+            "order": 4817
         }
     ]
 }

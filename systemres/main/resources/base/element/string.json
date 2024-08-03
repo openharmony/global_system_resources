@@ -823,6 +823,22 @@
         {
             "name" : "ohos_toolbar_more",
             "value" : "More"
+        },
+        {
+            "name": "slider_accessibility_selected",
+            "value": "Selected"
+        },
+        {
+            "name": "slider_accessibility_unselected",
+            "value": "Not Selected"
+        },
+        {
+            "name": "slider_accessibility_unselectedDesc",
+            "value": "Double click with on finger to select"
+        },
+        {
+            "name": "slider_accessibility_disabledDesc",
+            "value": "Not Available"
         }
     ]
 }
