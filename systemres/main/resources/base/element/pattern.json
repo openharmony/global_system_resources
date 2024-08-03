@@ -5376,6 +5376,22 @@
                 {
                     "name": "tip_text_padding_size",
                     "value": "$float:ohos_id_tip_text_padding_size"
+                },
+                {
+                    "name": "slider_accessibility_selected",
+                    "value": "$string:slider_accessibility_selected"
+                },
+                {
+                    "name": "slider_accessibility_unselected",
+                    "value": "$string:slider_accessibility_unselected"
+                },
+                {
+                    "name": "slider_accessibility_unselectedDesc",
+                    "value": "$string:slider_accessibility_unselectedDesc"
+                },
+                {
+                    "name": "slider_accessibility_disabledDesc",
+                    "value": "$string:slider_accessibility_disabledDesc"
                 }
             ]
         },

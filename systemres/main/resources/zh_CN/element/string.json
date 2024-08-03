@@ -723,6 +723,22 @@
         {
             "name" : "ohos_toolbar_more",
             "value" : "更多"
+        },
+        {
+            "name": "slider_accessibility_selected",
+            "value": "已选中"
+        },
+        {
+            "name": "slider_accessibility_unselected",
+            "value": "未选中"
+        },
+        {
+            "name": "slider_accessibility_unselectedDesc",
+            "value": "单指双击即可选中"
+        },
+        {
+            "name": "slider_accessibility_disabledDesc",
+            "value": "不可用"
         }
     ]
 }

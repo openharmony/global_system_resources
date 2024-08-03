@@ -24312,24 +24312,44 @@
             "order": 4813
         },
         {
+            "type": "string",
+            "name": "slider_accessibility_selected",
+            "order": 4814
+        },
+        {
+            "type": "string",
+            "name": "slider_accessibility_unselected",
+            "order": 4815
+        },
+        {
+            "type": "string",
+            "name": "slider_accessibility_unselectedDesc",
+            "order": 4816
+        },
+        {
+            "type": "string",
+            "name": "slider_accessibility_disabledDesc",
+            "order": 4817
+        },
+        {
             "type": "color",
             "name": "glass_material_outline_primary",
-            "order": 4814
+            "order": 4818
         },
         {
             "type": "color",
             "name": "glass_material_outline_secondary",
-            "order": 4815
+            "order": 4819
         },
         {
             "type": "color",
             "name": "glass_material_mask_primary",
-            "order": 4816
+            "order": 4820
         },
         {
             "type": "color",
             "name": "glass_material_mask_secondary",
-            "order": 4817
+            "order": 4821
         }
     ]
 }
