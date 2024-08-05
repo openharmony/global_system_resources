@@ -23048,12 +23048,14 @@
         {
             "type": "float",
             "name": "composeListItem_margin_left",
-            "order": 4577
+            "order": 4577,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_margin_right",
-            "order": 4578
+            "order": 4578,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -23073,7 +23075,8 @@
         {
             "type": "float",
             "name": "composeListItem_focused_border",
-            "order": 4582
+            "order": 4582,
+            "flags": "private"
         },
         {
             "type": "color",
@@ -23083,7 +23086,8 @@
         {
             "type": "color",
             "name": "composeListItem_color_border_focused",
-            "order": 4584
+            "order": 4584,
+            "flags": "private"
         },
         {
             "type": "color",
@@ -23458,12 +23462,14 @@
         {
             "type": "color",
             "name": "composeListItem_fifty_eight_normal_icon_color",
-            "order": 4659
+            "order": 4659,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "composeListItem_sixty_four_normal_icon_color",
-            "order": 4660
+            "order": 4660,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -23473,12 +23479,14 @@
         {
             "type": "float",
             "name": "composeListItem_normal_fuzzy_value",
-            "order": 4662
+            "order": 4662,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_single_line_height",
-            "order": 4663
+            "order": 4663,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -23493,7 +23501,8 @@
         {
             "type": "float",
             "name": "composeListItem_normal_right_icon_size",
-            "order": 4666
+            "order": 4666,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -23518,7 +23527,8 @@
         {
             "type": "float",
             "name": "composeListItem_focused_right_icon_size",
-            "order": 4671
+            "order": 4671,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -23533,52 +23543,62 @@
         {
             "type": "float",
             "name": "composeListItem_fifty_eight_normal_icon_size",
-            "order": 4674
+            "order": 4674,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_sixty_four_normal_icon_size",
-            "order": 4675
+            "order": 4675,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_seventy_two_normal_head_portrait_size",
-            "order": 4676
+            "order": 4676,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_seventy_two_normal_head_portrait_and_text_padding",
-            "order": 4677
+            "order": 4677,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_seventy_two_normal_preview_size",
-            "order": 4678
+            "order": 4678,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_seventy_two_normal_preview_and_text_padding",
-            "order": 4679
+            "order": 4679,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_eighty_normal_app_icon_size",
-            "order": 4680
+            "order": 4680,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_eighty_normal_app_icon_and_text_padding",
-            "order": 4681
+            "order": 4681,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_ninety_six_normal_app_icon_size",
-            "order": 4682
+            "order": 4682,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_ninety_six_normal_app_icon_and_text_padding",
-            "order": 4683
+            "order": 4683,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -23603,7 +23623,8 @@
         {
             "type": "float",
             "name": "composeListItem_system_icon",
-            "order": 4688
+            "order": 4688,
+            "flags": "private"
         },
         {
             "type": "float",
