@@ -24330,6 +24330,26 @@
             "type": "string",
             "name": "slider_accessibility_disabledDesc",
             "order": 4817
+        },
+        {
+            "type": "color",
+            "name": "glass_material_outline_primary",
+            "order": 4818
+        },
+        {
+            "type": "color",
+            "name": "glass_material_outline_secondary",
+            "order": 4819
+        },
+        {
+            "type": "color",
+            "name": "glass_material_mask_primary",
+            "order": 4820
+        },
+        {
+            "type": "color",
+            "name": "glass_material_mask_secondary",
+            "order": 4821
         }
     ]
 }
