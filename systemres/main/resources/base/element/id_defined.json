@@ -22682,17 +22682,17 @@
         },
         {
             "type": "float",
-            "name": "chip_suffix_icon_size_width",
+            "name": "chip_normal_suffix_icon_size_width",
             "order": 4504
         },
         {
             "type": "float",
-            "name": "chip_suffix_icon_size_height",
+            "name": "chip_normal_suffix_icon_size_height",
             "order": 4505
         },
         {
             "type": "float",
-            "name": "chip_suffix_icon_size_default",
+            "name": "chip_normal_suffix_icon_size_default",
             "order": 4506
         },
         {
@@ -24277,6 +24277,51 @@
             "type": "float",
             "name": "select_slide_more_offset",
             "order": 4818
+        },
+        {
+            "type": "float",
+            "name": "chip_small_suffix_icon_size_width",
+            "order": 4819
+        },
+        {
+            "type": "float",
+            "name": "chip_small_suffix_icon_size_height",
+            "order": 4820
+        },
+        {
+            "type": "float",
+            "name": "chip_small_suffix_icon_size_default",
+            "order": 4821
+        },
+        {
+            "type": "color",
+            "name": "chip_small_activated_border_color",
+            "order": 4822
+        },
+        {
+            "type": "color",
+            "name": "chip_normal_activated_border_color",
+            "order": 4823
+        },
+        {
+            "type": "color",
+            "name": "chip_activated_background_color",
+            "order": 4824
+        },
+        {
+            "type": "color",
+            "name": "chip_activated_fontcolor",
+            "order": 4825
+        },
+        {
+            "type": "float",
+            "name": "chip_activated_fontweight",
+            "order": 4826
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_focused_style",
+            "order": 4827
         }
     ]
 }

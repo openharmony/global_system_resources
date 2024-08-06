@@ -685,16 +685,32 @@
             "value": "1"
         },
         {
-            "name": "chip_suffix_icon_size_width",
+            "name": "chip_normal_suffix_icon_size_width",
             "value": "16"
         },
         {
-            "name": "chip_suffix_icon_size_height",
+            "name": "chip_normal_suffix_icon_size_height",
             "value": "16"
         },
         {
-            "name": "chip_suffix_icon_size_default",
+            "name": "chip_normal_suffix_icon_size_default",
             "value": "16"
+        },
+        {
+            "name": "chip_small_suffix_icon_size_width",
+            "value": "16"
+        },
+        {
+            "name": "chip_small_suffix_icon_size_height",
+            "value": "16"
+        },
+        {
+            "name": "chip_small_suffix_icon_size_default",
+            "value": "16"
+        },
+        {
+            "name": "chip_activated_fontweight",
+            "value": "500"
         },
         {
             "name": "chip_normal_radius",
@@ -786,7 +802,7 @@
         },
         {
             "name": "menu_normal_back_ground_blur_type",
-            "value": "0.0"
+            "value": "12.0"
         },
         {
             "name": "option_normal_top_bottom_margin",
@@ -1062,7 +1078,7 @@
         },
         {
             "name": "searchkeyboard_control_default_focus",
-            "value": "0"
+            "value": "1"
         },
         {
             "name": "textfield_independent_control_keyboard",
@@ -1075,7 +1091,10 @@
         {
             "name": "select_slide_more_offset",
             "value": "0"
+        },
+        {
+            "name": "tab_subtab_focused_style",
+            "value": "0"
         }
-		
     ]
   }
