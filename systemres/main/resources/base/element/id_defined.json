@@ -24322,6 +24322,21 @@
             "type": "float",
             "name": "tab_subtab_focused_style",
             "order": 4827
+        },
+        {
+            "type": "float",
+            "name": "swiper_indicator_focused_padding",
+            "order": 4828
+        },
+        {
+            "type": "float",
+            "name": "swiper_clip_bounds",
+            "order": 4829
+        },
+        {
+            "type": "color",
+            "name": "subtab_active_indicator_color",
+            "order": 4830
         }
     ]
 }

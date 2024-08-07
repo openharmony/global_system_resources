@@ -4035,6 +4035,14 @@
                     "value": "$float:ohos_id_scale_swiper_indicator"
                 },
                 {
+                    "name": "indicator_focused_padding",
+                    "value": "$float:swiper_indicator_focused_padding"
+                },
+                {
+                    "name": "clip_bounds",
+                    "value": "$float:swiper_clip_bounds"
+                },
+                {
                     "name": "color_focus_unselected",
                     "value": "$color:ohos_id_color_focus_unselected_dot_swiper"
                 },
@@ -4249,7 +4257,7 @@
                 },
                 {
                     "name": "active_indicator_color",
-                    "value": "$color:ohos_id_color_subtab_line_on"
+                    "value": "$color:subtab_active_indicator_color"
                 },
                 {
                     "name": "focus_indicator_color",
