@@ -957,6 +957,18 @@
             "value": "$float:ohos_id_subtab_item_padding"
         },
         {
+            "name": "subtab_item_top_padding_sys",
+            "value": "$float:ohos_id_subtab_top_padding"
+        },
+        {
+            "name": "subtab_item_bottom_padding_sys",
+            "value": "$float:ohos_id_subtab_bottom_padding"
+        },
+        {
+            "name": "subtab_item_horizontal_padding_sys",
+            "value": "$float:ohos_id_subtab_horizontal_padding"
+        },
+        {
             "name": "picker_selector_item_focus_font_size",
             "value": "$float:ohos_id_picker_focus_option_font_size"
         },
