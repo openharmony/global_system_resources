@@ -1074,7 +1074,7 @@
         },
         {
             "name": "scroll_bar_foreground_opacity",
-            "value": "0.4"
+            "value": "$float:ohos_id_alpha_content_tertiary"
         },
         {
             "name": "searchkeyboard_control_default_focus",
@@ -1095,10 +1095,6 @@
         {
             "name": "tab_subtab_focused_style",
             "value": "0"
-        },
-        {
-            "name": "scroll_bar_foreground_opacity",
-            "value": "$float:ohos_id_alpha_content_tertiary"
         }
     ]
   }
