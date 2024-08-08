@@ -24337,6 +24337,11 @@
             "type": "color",
             "name": "subtab_active_indicator_color",
             "order": 4830
+        },
+        {   
+            "type": "float",
+            "name": "switch_different_pointColor",
+            "order": 4831
         }
     ]
 }
