@@ -24322,6 +24322,41 @@
             "type": "float",
             "name": "tab_subtab_focused_style",
             "order": 4827
+        },
+        {
+            "type": "float",
+            "name": "swiper_indicator_focused_padding",
+            "order": 4828
+        },
+        {
+            "type": "float",
+            "name": "swiper_clip_bounds",
+            "order": 4829
+        },
+        {
+            "type": "color",
+            "name": "subtab_active_indicator_color",
+            "order": 4830
+        },
+        {   
+            "type": "float",
+            "name": "switch_different_pointColor",
+            "order": 4831
+        },
+        {
+            "type": "float",
+            "name": "subtab_item_top_padding_sys",
+            "order": 4832
+        },
+        {
+            "type": "float",
+            "name": "subtab_item_bottom_padding_sys",
+            "order": 4833
+        },
+        {
+            "type": "float",
+            "name": "subtab_item_horizontal_padding_sys",
+            "order": 4834
         }
     ]
 }

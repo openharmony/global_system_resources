@@ -443,6 +443,10 @@
                 {
                     "name": "switch_unchecked_pointColor",
                     "value": "$color:switch_unchecked_pointColor"
+                },
+                {
+                    "name": "switch_different_pointColor",
+                    "value": "$float:switch_different_pointColor"
                 }
             ]
         },
@@ -4035,6 +4039,14 @@
                     "value": "$float:ohos_id_scale_swiper_indicator"
                 },
                 {
+                    "name": "indicator_focused_padding",
+                    "value": "$float:swiper_indicator_focused_padding"
+                },
+                {
+                    "name": "clip_bounds",
+                    "value": "$float:swiper_clip_bounds"
+                },
+                {
                     "name": "color_focus_unselected",
                     "value": "$color:ohos_id_color_focus_unselected_dot_swiper"
                 },
@@ -4249,7 +4261,7 @@
                 },
                 {
                     "name": "active_indicator_color",
-                    "value": "$color:ohos_id_color_subtab_line_on"
+                    "value": "$color:subtab_active_indicator_color"
                 },
                 {
                     "name": "focus_indicator_color",
@@ -4285,7 +4297,7 @@
                 },
                 {
                     "name": "subtab_horizontal_padding",
-                    "value": "$float:ohos_id_subtab_horizontal_padding"
+                    "value": "$float:subtab_item_horizontal_padding_sys"
                 },
                 {
                     "name": "subtab_landscape_horizontal_padding",
@@ -4297,11 +4309,11 @@
                 },
                 {
                     "name": "subtab_top_padding",
-                    "value": "$float:ohos_id_subtab_top_padding"
+                    "value": "$float:subtab_item_top_padding_sys"
                 },
                 {
                     "name": "subtab_bottom_padding",
-                    "value": "$float:ohos_id_subtab_bottom_padding"
+                    "value": "$float:subtab_item_bottom_padding_sys"
                 },
                 {
                     "name": "subtab_hover_color",

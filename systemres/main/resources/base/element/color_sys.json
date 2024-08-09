@@ -851,6 +851,10 @@
         {
             "name": "scrollbar_color_foreground",
             "value": "$color:ohos_id_color_foreground"
+        },
+        {
+            "name": "subtab_active_indicator_color",
+            "value": "$color:ohos_id_color_subtab_line_on"
         }
     ]
 }
