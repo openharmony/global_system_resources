@@ -251,6 +251,18 @@
         {
             "name": "comp_background_warning_secondary",
             "value": "#FDD9D9"
+        },
+        {
+            "name": "button_background_color_transparent",
+            "value": "$color:ohos_id_color_button_normal"
+        },
+        {
+            "name": "window_outline_color",
+            "value": "$color:comp_outline_color"
+        },
+        {
+            "name": "window_border_color",
+            "value": "$color:comp_border_color"
         }
     ]
   }

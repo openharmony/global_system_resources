@@ -303,6 +303,22 @@
         {
             "name": "inner_border_radius_token",
             "value": "$float:corner_radius_level8"
+        },
+        {
+            "name": "window_shadow_config",
+            "value": "$float:ohos_id_default_shadow_none"
+        },
+        {
+            "name": "window_outline_width",
+            "value": "$float:outline_none"
+        },
+        {
+            "name": "window_border_width",
+            "value": "$float:border_none"
+        },
+        {
+            "name": "window_radius_small",
+            "value": "$float:corner_radius_level16"
         }  
     ]
   }

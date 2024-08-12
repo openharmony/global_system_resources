@@ -24650,6 +24650,51 @@
             "type": "string",
             "name": "calendar_picker_sun",
             "order": 4881
+        },
+        {
+            "type": "float",
+            "name": "window_radius_small",
+            "order": 4882
+        },
+        {
+            "type": "color",
+            "name": "button_background_color_transparent",
+            "order": 4883
+        },
+        {
+            "type": "float",
+            "name": "window_shadow_config",
+            "order": 4884
+        },
+        {
+            "type": "float",
+            "name": "window_outline_width",
+            "order": 4885
+        },
+        {
+            "type": "float",
+            "name": "window_border_width",
+            "order": 4886
+        },
+        {
+            "type": "color",
+            "name": "window_outline_color",
+            "order": 4887
+        },
+        {
+            "type": "color",
+            "name": "window_border_color",
+            "order": 4888
+        },
+        {
+            "type": "color",
+            "name": "comp_outline_color",
+            "order": 4889
+        },
+        {
+            "type": "color",
+            "name": "comp_border_color",
+            "order": 4890
         }
     ]
 }
