@@ -24515,6 +24515,31 @@
             "type": "string",
             "name": "pass_point",
             "order": 4854
+        },
+        {
+            "type": "string",
+            "name": "general_paste",
+            "order": 4855
+        },
+        {
+            "type": "string",
+            "name": "general_cancel",
+            "order": 4856
+        },
+        {
+            "type": "string",
+            "name": "general_more",
+            "order": 4857
+        },
+        {
+            "type": "string",
+            "name": "stepper_back",
+            "order": 4858
+        },
+        {
+            "type": "string",
+            "name": "stepper_next",
+            "order": 4859
         }
     ]
 }
