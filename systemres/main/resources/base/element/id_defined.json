@@ -24517,29 +24517,54 @@
             "order": 4854
         },
         {
+            "type": "string",
+            "name": "general_paste",
+            "order": 4855
+        },
+        {
+            "type": "string",
+            "name": "general_cancel",
+            "order": 4856
+        },
+        {
+            "type": "string",
+            "name": "general_more",
+            "order": 4857
+        },
+        {
+            "type": "string",
+            "name": "stepper_back",
+            "order": 4858
+        },
+        {
+            "type": "string",
+            "name": "stepper_next",
+            "order": 4859
+        },
+        {
             "type": "media",
             "name": "Copy_Drag",
-            "order": 4855
+            "order": 4860
         },
         {
             "type": "media",
             "name": "Copy_One_Drag",
-            "order": 4856
+            "order": 4861
         },
         {
             "type": "media",
             "name": "Forbid_Drag",
-            "order": 4857
+            "order": 4862
         },
         {
             "type": "media",
             "name": "Forbid_One_Drag",
-            "order": 4858
+            "order": 4863
         },
         {
             "type": "media",
             "name": "Move_Drag",
-            "order": 4859
+            "order": 4864
         }
     ]
 }
