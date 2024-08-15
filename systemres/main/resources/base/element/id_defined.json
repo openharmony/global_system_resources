@@ -24540,6 +24540,21 @@
             "type": "string",
             "name": "stepper_next",
             "order": 4859
+        },
+        {
+            "type": "string",
+            "name": "res_writting_tool_bundle_name",
+            "order": 4860
+        },
+        {
+            "type": "string",
+            "name": "res_writting_tool_ability_name",
+            "order": 4861
+        },
+        {
+            "type": "media",
+            "name": "ic_public_ai_write",
+            "order": 4862
         }
     ]
 }
