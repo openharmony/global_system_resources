@@ -27,6 +27,15 @@
                 "description": "$string:ohos_desc_answer_call"
             },
             {
+                "name": "ohos.permission.ACCESS_BBOX_DIR",
+                "grantMode": "system_grant",
+                "since": 12,
+                "deprecated": "",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_DEVICE_COLLABORATION_SERVICE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -4096,6 +4105,33 @@
             },
             {
                 "name": "ohos.permission.NETWORK_DHCP",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_IDM_WIDGET",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": true
+            },
+            {
+                "name": "ohos.permission.MANAGE_ACCESSORY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.COLLECT_ACCESSORY_LOG",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 12,
