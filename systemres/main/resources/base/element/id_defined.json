@@ -24377,6 +24377,11 @@
             "type": "color",
             "name": "chip_focus_activated_fontcolor",
             "order": 4838
+        },
+        {
+            "type": "float",
+            "name": "qrcode_focused_padding",
+            "order": 4839
         }
     ]
 }
