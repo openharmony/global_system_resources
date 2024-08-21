@@ -24580,6 +24580,36 @@
             "type": "media",
             "name": "Move_Drag",
             "order": 4867
+        },
+        {
+            "type": "string",
+            "name": "textfield_show_password",
+            "order": 4868
+        },
+        {
+            "type": "string",
+            "name": "textfield_hide_password",
+            "order": 4869
+        },
+        {
+            "type": "string",
+            "name": "textfield_show_password_button",
+            "order": 4870
+        },
+        {
+            "type": "string",
+            "name": "textfield_hide_password_button",
+            "order": 4871
+        },
+        {
+            "type": "string",
+            "name": "textfield_has_showed_password",
+            "order": 4872
+        },
+        {
+            "type": "string",
+            "name": "textfield_has_hidden_password",
+            "order": 4873
         }
     ]
 }

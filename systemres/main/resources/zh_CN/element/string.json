@@ -891,6 +891,30 @@
         {
             "name": "stepper_next",
             "value": "下一步"
+        },
+        {
+            "name": "textfield_show_password",
+            "value": "显示密码"
+        },
+        {
+            "name": "textfield_hide_password",
+            "value": "隐藏密码"
+        },
+        {
+            "name": "textfield_show_password_button",
+            "value": "显示密码，按钮"
+        },
+        {
+            "name": "textfield_hide_password_button",
+            "value": "隐藏密码，按钮"
+        },
+        {
+            "name": "textfield_has_showed_password",
+            "value": "已显示密码"
+        },
+        {
+            "name": "textfield_has_hidden_password",
+            "value": "已隐藏密码"
         }
     ]
 }

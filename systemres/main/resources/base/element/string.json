@@ -999,6 +999,30 @@
         {
             "name": "stepper_next",
             "value": "NEXT"
+        },
+        {
+            "name": "textfield_show_password",
+            "value": "Show password"
+        },
+        {
+            "name": "textfield_hide_password",
+            "value": "Hide password"
+        },
+        {
+            "name": "textfield_show_password_button",
+            "value": "Show password, button"
+        },
+        {
+            "name": "textfield_hide_password_button",
+            "value": "Hide password, button"
+        },
+        {
+            "name": "textfield_has_showed_password",
+            "value": "Has showed password, button"
+        },
+        {
+            "name": "textfield_has_hidden_password",
+            "value": "Has hidden password, button"
         }
     ]
 }
