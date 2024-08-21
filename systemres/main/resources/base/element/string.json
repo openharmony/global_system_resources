@@ -1001,6 +1001,34 @@
             "value": "BACK"
         },
         {
+            "name": "calendar_picker_mon",
+            "value": "Monday"
+        },
+        {
+            "name": "calendar_picker_tue",
+            "value": "Tuesday"
+        },
+        {
+            "name": "calendar_picker_wed",
+            "value": "Wednesday"
+        },
+        {
+            "name": "calendar_picker_thu",
+            "value": "Thursday"
+        },
+        {
+            "name": "calendar_picker_fri",
+            "value": "Friday"
+        },
+        {
+            "name": "calendar_picker_sat",
+            "value": "Saturday"
+        },
+        {
+            "name": "calendar_picker_sun",
+            "value": "Sunday"
+        },
+        {
             "name": "stepper_next",
             "value": "NEXT"
         },
@@ -1028,5 +1056,6 @@
             "name": "textfield_has_hidden_password",
             "value": "Has hidden password, button"
         }
+        
     ]
 }
