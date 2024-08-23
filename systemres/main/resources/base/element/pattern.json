@@ -979,6 +979,34 @@
                 {
                     "name": "calendar_picker_dialog_divider_transparent",
                     "value": "$string:ohos_id_calendar_picker_dialog_divider_transparent"
+                },
+                {
+                    "name": "calendar_picker_mon",
+                    "value": "$string:calendar_picker_mon"
+                },
+                {
+                    "name": "calendar_picker_tue",
+                    "value": "$string:calendar_picker_tue"
+                },
+                {
+                    "name": "calendar_picker_wed",
+                    "value": "$string:calendar_picker_wed"
+                },
+                {
+                    "name": "calendar_picker_thu",
+                    "value": "$string:calendar_picker_thu"
+                },
+                {
+                    "name": "calendar_picker_fri",
+                    "value": "$string:calendar_picker_fri"
+                },
+                {
+                    "name": "calendar_picker_sat",
+                    "value": "$string:calendar_picker_sat"
+                },
+                {
+                    "name": "calendar_picker_sun",
+                    "value": "$string:calendar_picker_sun"
                 }
             ]
         },
@@ -2677,7 +2705,7 @@
                 },
                 {
                     "name": "selected_text_size",
-                    "value": "$float:ohos_id_text_size_headline8"
+                    "value": "$float:ohos_id_text_size_dialog_tittle"
                 },
                 {
                     "name": "focus_text_color",
@@ -4400,6 +4428,30 @@
                     "value": "$string:textfield_accessibility_hide_password"
                 },
                 {
+                    "name": "textfield_show_password",
+                    "value": "$string:textfield_show_password"
+                },
+                {
+                    "name": "textfield_hide_password",
+                    "value": "$string:textfield_hide_password"
+                },
+                {
+                    "name": "textfield_show_password_button",
+                    "value": "$string:textfield_show_password_button"
+                },
+                {
+                    "name": "textfield_hide_password_button",
+                    "value": "$string:textfield_hide_password_button"
+                },
+                {
+                    "name": "textfield_has_showed_password",
+                    "value": "$string:textfield_has_showed_password"
+                },
+                {
+                    "name": "textfield_has_hidden_password",
+                    "value": "$string:textfield_has_hidden_password"
+                },
+                {
                     "name": "textfield_symbol_color",
                     "value": "$color:icon_primary"
                 },
@@ -4487,6 +4539,10 @@
                 {
                     "name": "camera_input",
                     "value": "$string:ohos_id_text_camera_input"
+                },
+                {
+                    "name": "ai_write_menu_name",
+                    "value": "$string:ai_write_menu_name"
                 },
                 {
                     "name": "text_overlay_menu_border_color",

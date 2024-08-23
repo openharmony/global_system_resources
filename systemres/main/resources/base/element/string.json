@@ -641,6 +641,10 @@
             "value": "Photo input"
         },
         {
+            "name": "ai_write_menu_name",
+            "value": ""
+        },
+        {
             "name": "ohos_id_section_unfocus_effect_enable_default",
             "value": "0"
         },
@@ -997,8 +1001,61 @@
             "value": "BACK"
         },
         {
+            "name": "calendar_picker_mon",
+            "value": "Monday"
+        },
+        {
+            "name": "calendar_picker_tue",
+            "value": "Tuesday"
+        },
+        {
+            "name": "calendar_picker_wed",
+            "value": "Wednesday"
+        },
+        {
+            "name": "calendar_picker_thu",
+            "value": "Thursday"
+        },
+        {
+            "name": "calendar_picker_fri",
+            "value": "Friday"
+        },
+        {
+            "name": "calendar_picker_sat",
+            "value": "Saturday"
+        },
+        {
+            "name": "calendar_picker_sun",
+            "value": "Sunday"
+        },
+        {
             "name": "stepper_next",
             "value": "NEXT"
+        },
+        {
+            "name": "textfield_show_password",
+            "value": "Show password"
+        },
+        {
+            "name": "textfield_hide_password",
+            "value": "Hide password"
+        },
+        {
+            "name": "textfield_show_password_button",
+            "value": "Show password, button"
+        },
+        {
+            "name": "textfield_hide_password_button",
+            "value": "Hide password, button"
+        },
+        {
+            "name": "textfield_has_showed_password",
+            "value": "Has showed password, button"
+        },
+        {
+            "name": "textfield_has_hidden_password",
+            "value": "Has hidden password, button"
         }
+        
     ]
 }
