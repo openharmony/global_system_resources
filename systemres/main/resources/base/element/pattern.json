@@ -6299,6 +6299,18 @@
                 {
                     "name": "description_save_to_gallery",
                     "value": "$string:ohos_id_text_save_button_description_save_to_gallery"
+                },
+                {
+                    "name": "description_export_to_gallery",
+                    "value": "$string:save_button_description_export_to_gallery"
+                },
+                {
+                    "name": "description_quick_save_to_gallery",
+                    "value": "$string:save_button_description_quick_save_to_gallery"
+                },
+                {
+                    "name": "description_quick_resave_to_gallery",
+                    "value": "$string:save_button_description_quick_resave_to_gallery"
                 }
             ]
         },
