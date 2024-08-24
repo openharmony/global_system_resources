@@ -24695,6 +24695,21 @@
             "type": "color",
             "name": "comp_border_color",
             "order": 4890
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_save_button_description_export_to_gallery",
+            "order": 4891
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_save_button_description_quick_save_to_gallery",
+            "order": 4892
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_text_save_button_description_quick_resave_to_gallery",
+            "order": 4893
         }
     ]
 }
