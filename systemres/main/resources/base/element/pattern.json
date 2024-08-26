@@ -4514,6 +4514,14 @@
                 {
                     "name": "tab_bar_focus_padding",
                     "value": "$float:tab_bar_focus_padding_sys"
+                },
+                {
+                    "name": "tab_bar_board_focus_padding",
+                    "value": "$float:tab_bar_board_focus_padding_sys"
+                },
+                {
+                    "name": "subtab_item_Horizontal_padding",
+                    "value": "$float:tab_subtab_item_Horizontal_padding_sys"
                 }
             ]
         },
