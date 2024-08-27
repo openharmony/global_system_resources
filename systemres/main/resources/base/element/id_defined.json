@@ -10725,45 +10725,38 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_focused_bgcolor_switch_button_unselected",
-            "order": 2108,
-            "flags": "private"
+            "name": "switch_button_focused_bgcolor_unselected",
+            "order": 2108
         },
         {
             "type": "color",
-            "name": "ohos_id_focused_pointColor_switch_button_unselected",
-            "order": 2109,
-            "flags": "private"
+            "name": "switch_button_focused_pointColor_unselected",
+            "order": 2109
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_status_button_checked",
-            "order": 2110,
-            "flags": "private"
+            "name": "status_button_color_border_checked",
+            "order": 2110
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_status_button_unchecked",
-            "order": 2111,
-            "flags": "private"
+            "name": "status_button_color_border_unchecked",
+            "order": 2111
         },
         {
             "type": "color",
-            "name": "ohos_id_bgcolor_focus_status_button_unchecked",
-            "order": 2112,
-            "flags": "private"
+            "name": "status_button_bgcolor_focus_unchecked",
+            "order": 2112
         },
         {
             "type": "color",
-            "name": "ohos_id_bgcolor_focus_status_button_checked",
-            "order": 2113,
-            "flags": "private"
+            "name": "status_button_bgcolor_focus_checked",
+            "order": 2113
         },
         {
             "type": "color",
-            "name": "ohos_id_text_color_focus_status_button",
-            "order": 2114,
-            "flags": "private"
+            "name": "status_button_text_color_focus",
+            "order": 2114
         },
         {
             "type": "color",
@@ -18247,9 +18240,8 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_switch_unchecked_bgColor",
-            "order": 3611,
-            "flags": "private"
+            "name": "switch_unchecked_bgColor",
+            "order": 3611
         },
         {
             "type": "float",
@@ -25344,7 +25336,7 @@
         },
         {
             "type": "float",
-            "name": "toggle_bgcolor_checked_focus_alpha",
+            "name": "status_button_bgcolor_checked_focus_alpha",
             "order": 5024
         },
         {

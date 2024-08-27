@@ -282,7 +282,7 @@
                 },
                 {
                     "name": "bg_color_unchecked",
-                    "value": "$color:ohos_id_color_component_normal"
+                    "value": "$color:switch_unchecked_bgColor"
                 },
                 {
                     "name": "fg_shadow_width",
@@ -387,6 +387,42 @@
                 {
                     "name": "interactive_pressed",
                     "value": "$color:interactive_pressed"
+                },
+                {
+                    "name": "switch_focus_board_width",
+                    "value": "$float:ohos_id_switch_pattern_width"
+                },
+                {
+                    "name": "switch_focus_board_height",
+                    "value": "$float:ohos_id_switch_pattern_height"
+                },
+                {
+                    "name": "switch_focus_board_radius",
+                    "value": "$float:ohos_id_corner_radius_clicked"
+                },
+                {
+                    "name": "switch_focus_board_color",
+                    "value": "$color:ohos_id_color_focus_board_switch"
+                },
+                {
+                    "name": "switch_focus_bgColor_unselected",
+                    "value": "$color:switch_button_focused_bgcolor_unselected"
+                },
+                {
+                    "name": "switch_focus_pointColor_unselected",
+                    "value": "$color:switch_button_focused_pointColor_unselected"
+                },
+                {
+                    "name": "switch_unchecked_pointColor",
+                    "value": "$color:switch_unchecked_pointColor"
+                },
+                {
+                    "name": "switch_different_pointColor",
+                    "value": "$float:switch_different_pointColor"
+                },
+                {
+                    "name": "switch_focus_box_padding",
+                    "value": "$float:switch_focus_box_padding"
                 }
             ]
         },
@@ -4981,6 +5017,46 @@
                 {
                     "name": "toggle_disable_alpha",
                     "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "shadow_default_status_button",
+                    "value": "$float:ohos_id_shadow_default_button"
+                },
+                {
+                    "name": "shadow_focus_status_button",
+                    "value": "$float:ohos_id_shadow_focus_button"
+                },
+                {
+                    "name": "scale_focus_status_button",
+                    "value": "$float:ohos_id_scale_focus_button"
+                },
+                {
+                    "name": "border_width_status_button",
+                    "value": "$float:ohos_id_width_border_small_button"
+                },
+                {
+                    "name": "border_color_status_button_checked",
+                    "value": "$color:status_button_color_border_checked"
+                },
+                {
+                    "name": "border_color_status_button_unchecked",
+                    "value": "$color:status_button_color_border_unchecked"
+                },
+                {
+                    "name": "bg_color_focus_status_button_checked",
+                    "value": "$color:status_button_bgcolor_focus_checked"
+                },
+                {
+                    "name": "status_button_text_color_focus",
+                    "value": "$color:status_button_text_color_focus"
+                },
+                {
+                    "name": "bg_color_focus_status_button_unchecked",
+                    "value": "$color:status_button_bgcolor_focus_unchecked"
+                },
+                {
+                    "name": "bg_color_checked_focus_alpha",
+                    "value": "$float:status_button_bgcolor_checked_focus_alpha"
                 }
             ]
         },

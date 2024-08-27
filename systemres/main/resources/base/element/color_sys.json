@@ -609,6 +609,50 @@
             "value": "$color:font_primary"
         },
         {
+            "name": "switch_unchecked_pointColor",
+            "value": "$color:point_color_checked"
+        },
+        {
+            "name": "status_button_color_border_checked",
+            "value": "#ff000000"
+        },
+        {
+            "name": "status_button_color_border_unchecked",
+            "value": "#ff000000"
+        },
+        {
+            "name": "status_button_bgcolor_focus_unchecked",
+            "value": "#0c182431"
+        },
+        {
+            "name": "status_button_bgcolor_focus_checked",
+            "value": "#ff007dff"
+        },
+        {
+            "name": "status_button_text_color_focus",
+            "value": "#ff182431"
+        },
+        {
+            "name": "ohos_id_color_focus_board_switch",
+            "value": "#00000000"
+        },
+        {
+            "name": "switch_button_focused_bgcolor_unselected",
+            "value": "#337F7F7F"
+        },
+        {
+            "name": "switch_button_focused_pointColor_unselected",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "switch_unchecked_bgColor",
+            "value": "#337F7F7F"
+        },
+        {
+            "name": "point_color_checked",
+            "value": "#ffffffff"
+        },
+        {
             "name": "select_normal_border_color",
             "value": "#00000000"
         },
