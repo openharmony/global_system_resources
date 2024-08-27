@@ -521,6 +521,34 @@
             "value": "0.0"
         },
         {
+            "name": "rating_hover_radius_size",
+            "value": "$float:ohos_id_corner_radius_default_xs"
+        },
+        {
+            "name": "rating_icon_sub_size",
+            "value": "0.0"
+        },
+        {
+            "name": "rating_icon_board_distance",
+            "value": "0.0"
+        },
+        {
+            "name": "rating_big_width",
+            "value": "$float:ohos_id_rating_big_width"
+        },
+        {
+            "name": "rating_big_height",
+            "value": "$float:ohos_id_rating_big_height"
+        },
+        {
+            "name": "rating_focus_space",
+            "value": "0.0vp"
+        },
+        {
+            "name": "rating_focus_blur_cancel_animation",
+            "value": "0.0"
+        },
+        {
             "name": "toast_border_width",
             "value": "$float:toast_outer_border_width"
         },
