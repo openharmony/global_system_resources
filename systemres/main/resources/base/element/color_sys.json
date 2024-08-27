@@ -251,6 +251,34 @@
         {
             "name": "comp_background_warning_secondary",
             "value": "#FDD9D9"
+        },
+        {
+            "name": "slider_color_foreground",
+            "value": "$color:ohos_id_color_foreground"
+        },
+        {
+            "name": "slider_outset_and_none_track_color",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "slider_color_emphasize",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "slider_color_foreground_contrary",
+            "value": "$color:ohos_id_color_foreground_contrary"
+        },
+        {
+            "name": "slider_color_hover",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "slider_color_click_effect",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "slider_block_shadow_color",
+            "value": "#26000000"
         }
     ]
   }

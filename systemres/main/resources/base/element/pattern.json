@@ -5294,8 +5294,28 @@
             "name": "ohos_slider_pattern",
             "value": [
                 {
+                    "name": "measure_content_outset_width",
+                    "value": "$float:slider_measure_content_outset_width"
+                },
+                {
+                    "name": "block_shadow_color",
+                    "value": "$color:slider_block_shadow_color"
+                },
+                {
+                    "name": "control_focus_frame",
+                    "value": "$float:slider_control_focus_frame"
+                },
+                {
+                    "name": "scale_value",
+                    "value": "$float:slider_scale_value"
+                },
+                {
+                    "name": "outset_and_none_track_color",
+                    "value": "$color:slider_outset_and_none_track_color"
+                },
+                {
                     "name": "track_color_selected",
-                    "value": "$color:ohos_id_color_emphasize"
+                    "value": "$color:slider_color_emphasize"
                 },
                 {
                     "name": "track_bg_color",
@@ -5303,11 +5323,11 @@
                 },
                 {
                     "name": "marker_color",
-                    "value": "$color:ohos_id_color_foreground"
+                    "value": "$color:slider_color_foreground"
                 },
                 {
                     "name": "marker_color_alpha",
-                    "value": "$float:ohos_id_alpha_normal_bg"
+                    "value": "$float:slider_alpha_normal_bg"
                 },
                 {
                     "name": "tip_color",
@@ -5319,11 +5339,11 @@
                 },
                 {
                     "name": "block_color_hovered",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:slider_color_hover"
                 },
                 {
                     "name": "block_color_pressed",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:slider_color_click_effect"
                 },
                 {
                     "name": "bubble_to_circle_center_distance",
@@ -5335,7 +5355,7 @@
                 },
                 {
                     "name": "outset_hot_block_shadow_width",
-                    "value": "$float:ohos_id_slider_outset_hot_block_shadow_width"
+                    "value": "$float:slider_outset_hot_block_shadow_width"
                 },
                 {
                     "name": "inset_hot_block_shadow_width",
@@ -5363,7 +5383,7 @@
                 },
                 {
                     "name": "outset_block_size",
-                    "value": "$float:ohos_id_outset_block_size"
+                    "value": "$float:slider_outset_block_size"
                 },
                 {
                     "name": "outset_block_hot_region_size",
@@ -5375,7 +5395,7 @@
                 },
                 {
                     "name": "block_color",
-                    "value": "$color:ohos_id_color_foreground_contrary"
+                    "value": "$color:slider_color_foreground_contrary"
                 },
                 {
                     "name": "outset_track_thickness",
