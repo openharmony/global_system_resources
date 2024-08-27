@@ -25760,6 +25760,206 @@
             "type": "float",
             "name": "capsule_progress_bg_alpha",
             "order": 5103
+        },
+        {
+            "type": "float",
+            "name": "slider_measure_content_outset_width",
+            "order": 5104
+        },
+        {
+            "type": "float",
+            "name": "slider_alpha_normal_bg",
+            "order": 5105
+        },
+        {
+            "type": "color",
+            "name": "slider_color_foreground",
+            "order": 5106
+        },
+        {
+            "type": "color",
+            "name": "slider_outset_and_none_track_color",
+            "order": 5107
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_board_focus_padding_sys",
+            "order": 5108
+        },
+        {
+            "type": "color",
+            "name": "slider_color_emphasize",
+            "order": 5109
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_block_size",
+            "order": 5110
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_hot_block_shadow_width",
+            "order": 5111
+        },
+        {
+            "type": "color",
+            "name": "slider_color_foreground_contrary",
+            "order": 5112
+        },
+        {
+            "type": "color",
+            "name": "slider_color_hover",
+            "order": 5113
+        },
+        {
+            "type": "color",
+            "name": "slider_color_click_effect",
+            "order": 5114
+        },
+        {
+            "type": "color",
+            "name": "slider_block_shadow_color",
+            "order": 5115
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_item_Horizontal_padding_sys",
+            "order": 5116
+        },
+        {
+            "type": "float",
+            "name": "slider_control_focus_frame",
+            "order": 5117
+        },
+        {
+            "type": "float",
+            "name": "slider_scale_value",
+            "order": 5118
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_focused_style",
+            "order": 5119
+        },
+        {
+            "type": "float",
+            "name": "swiper_indicator_focused_padding",
+            "order": 5120
+        },
+        {
+            "type": "float",
+            "name": "swiper_clip_bounds",
+            "order": 5121
+        },
+        {
+            "type": "color",
+            "name": "focus_animation_color_sys",
+            "order": 5122
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_text_on_color_sys",
+            "order": 5123
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_text_off_color_sys",
+            "order": 5124
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_hover_color_sys",
+            "order": 5125
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_press_color_sys",
+            "order": 5126
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_text_default_font_size_sys",
+            "order": 5127
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_default_height_sys",
+            "order": 5128
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_gradient_width_sys",
+            "order": 5129
+        },
+        {
+            "type": "float",
+            "name": "tab_focus_indicator_radius_sys",
+            "order": 5130
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_item_padding_sys",
+            "order": 5131
+        },
+        {
+            "type": "float",
+            "name": "subtab_item_top_padding_sys",
+            "order": 5132
+        },
+        {
+            "type": "float",
+            "name": "subtab_item_bottom_padding_sys",
+            "order": 5133
+        },
+        {
+            "type": "float",
+            "name": "subtab_item_horizontal_padding_sys",
+            "order": 5134
+        },
+        {
+            "type": "color",
+            "name": "subtab_active_indicator_color",
+            "order": 5135
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_margin_width_sys",
+            "order": 5136
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_text_focused_color_sys",
+            "order": 5137
+        },
+        {
+            "type": "color",
+            "name": "tab_bar_focused_color_sys",
+            "order": 5138
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_focus_padding_sys",
+            "order": 5139
+        },
+        {
+            "type": "color",
+            "name": "qrcode_color_foreground",
+            "order": 5140
+        },
+        {
+            "type": "color",
+            "name": "qrcode_color_background",
+            "order": 5141
+        },
+        {
+            "type": "float",
+            "name": "qrcode_default_size",
+            "order": 5142
+        },
+        {
+            "type": "float",
+            "name": "qrcode_focused_padding",
+            "order": 5143
         }
     ]
 }
