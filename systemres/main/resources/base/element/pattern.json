@@ -1490,6 +1490,26 @@
             "name": "ohos_radio_pattern",
             "value": [
                 {
+                    "name": "size_focused_bg",
+                    "value": "$float:ohos_id_size_focused_bg_radio"
+                },
+                {
+                    "name": "color_focused_bg",
+                    "value": "$color:ohos_id_color_focused_bg_radio"
+                },
+                {
+                    "name": "focused_ring_unchecked",
+                    "value": "$color:ohos_id_color_focus_ring_unchecked_radio"
+                },
+                {
+                    "name": "focused_bg_unchecked",
+                    "value": "$color:ohos_id_color_focus_bg_unchecked_radio"
+                },
+                {
+                    "name": "radio_hover_bg_size",
+                    "value": "$float:radio_hover_bg_size"
+                },
+                {
                     "name": "bg_focus_outline_color",
                     "value": "$color:ohos_id_color_focused_outline"
                 },
