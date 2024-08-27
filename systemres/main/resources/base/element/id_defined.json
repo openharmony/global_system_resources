@@ -24720,14 +24720,15 @@
             "type": "color",
             "name": "segment_button_focus_text_primary",
             "order": 4895
-        },{
+        },
+        {
             "type": "color",
-            "name": "chip_normal_border_color",
+            "name": "chip_border_color",
             "order": 4896
         },
         {
             "type": "color",
-            "name": "chip_small_border_color",
+            "name": "chip_activated_border_color",
             "order": 4897
         },
         {
@@ -24862,17 +24863,17 @@
         },
         {
             "type": "float",
-            "name": "chip_suffix_icon_size_width",
+            "name": "progress_text_size",
             "order": 4924
         },
         {
             "type": "float",
-            "name": "chip_suffix_icon_size_height",
+            "name": "ring_progress_default_padding",
             "order": 4925
         },
         {
             "type": "float",
-            "name": "chip_suffix_icon_size_default",
+            "name": "progress_ring_thickness",
             "order": 4926
         },
         {
@@ -24946,13 +24947,13 @@
             "order": 4940
         },
         {
-            "type": "color",
-            "name": "chip_small_activated_border_color",
+            "type": "float",
+            "name": "capsule_progress_default_alpha",
             "order": 4941
         },
         {
-            "type": "color",
-            "name": "chip_normal_activated_border_color",
+            "type": "float",
+            "name": "progress_default_diameter",
             "order": 4942
         },
         {
@@ -25194,6 +25195,571 @@
             "type": "float",
             "name": "composeListItem_normal_radio",
             "order": 4990
+        },
+        {
+            "type": "float",
+            "name": "toast_border_width",
+            "order": 4991
+        },
+        {
+            "type": "float",
+            "name": "toast_shadow_default",
+            "order": 4992
+        },
+        {
+            "type": "color",
+            "name": "toast_default_bg_color",
+            "order": 4993
+        },
+        {
+            "type": "float",
+            "name": "toast_bg_theme_color_mode",
+            "order": 4994
+        },
+        {
+            "type": "color",
+            "name": "toast_color_text_primary_contrary",
+            "order": 4995
+        },
+        {
+            "type": "color",
+            "name": "toast_color_instant_tip_bg",
+            "order": 4996
+        },
+        {
+            "type": "float",
+            "name": "toast_text_font_size",
+            "order": 4997
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_vertical",
+            "order": 4998
+        },
+        {
+            "type": "float",
+            "name": "toast_bottom",
+            "order": 4999
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_level4",
+            "order": 5000
+        },
+        {
+            "type": "float",
+            "name": "toast_Body_M",
+            "order": 5001
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_horizontal",
+            "order": 5002
+        },
+        {
+            "type": "float",
+            "name": "toast_border_radius_level9",
+            "order": 5003
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_level8",
+            "order": 5004
+        },
+        {
+            "type": "float",
+            "name": "toast_border_radius",
+            "order": 5005
+        },
+        {
+            "type": "color",
+            "name": "toast_font_primary",
+            "order": 5006
+        },
+        {
+            "type": "color",
+            "name": "toast_border_color",
+            "order": 5007
+        },
+        {
+            "type": "float",
+            "name": "image_animator_corner_radius_card",
+            "order": 5008
+        },
+        {
+            "type": "float",
+            "name": "image_animator_adapt_radius",
+            "order": 5009
+        },
+        {
+            "type": "color",
+            "name": "rating_icon_color_inactive",
+            "order": 5010
+        },
+        {
+            "type": "color",
+            "name": "rating_bg_color_hovered",
+            "order": 5011
+        },
+        {
+            "type": "color",
+            "name": "rating_bg_color_pressed",
+            "order": 5012
+        },
+        {
+            "type": "float",
+            "name": "rating_icon_board_distance",
+            "order": 5013
+        },
+        {
+            "type": "color",
+            "name": "rating_focus_bgcolor",
+            "order": 5014
+        },
+        {
+            "type": "float",
+            "name": "rating_big_width",
+            "order": 5015
+        },
+        {
+            "type": "float",
+            "name": "rating_big_height",
+            "order": 5016
+        },
+        {
+            "type": "float",
+            "name": "rating_focus_space",
+            "order": 5017
+        },
+        {
+            "type": "float",
+            "name": "rating_focus_blur_cancel_animation",
+            "order": 5018
+        },
+        {
+            "type": "float",
+            "name": "rating_hover_radius_size",
+            "order": 5019
+        },
+        {
+            "type": "color",
+            "name": "rating_icon_color_active",
+            "order": 5020
+        },
+        {
+            "type": "float",
+            "name": "rating_icon_sub_size",
+            "order": 5021
+        },
+        {
+            "type": "color",
+            "name": "switch_unchecked_pointColor",
+            "order": 5022
+        },
+        {
+            "type": "float",
+            "name": "switch_different_pointColor",
+            "order": 5023
+        },
+        {
+            "type": "float",
+            "name": "toggle_bgcolor_checked_focus_alpha",
+            "order": 5024
+        },
+        {
+            "type": "float",
+            "name": "sheet_corner_radius",
+            "order": 5025
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_text_font_size",
+            "order": 5026
+        },
+        {
+            "type": "color",
+            "name": "sheet_title_text_font_color",
+            "order": 5027
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_text_margin",
+            "order": 5028
+        },
+        {
+            "type": "color",
+            "name": "sheet_panel_background_color",
+            "order": 5029
+        },
+        {
+            "type": "float",
+            "name": "sheet_panel_background_blur_style",
+            "order": 5030
+        },
+        {
+            "type": "float",
+            "name": "sheet_height_percent_large_sys",
+            "order": 5031
+        },
+        {
+            "type": "float",
+            "name": "sheet_height_percent_medium_sys",
+            "order": 5032
+        },
+        {
+            "type": "float",
+            "name": "sheet_operation_height_sys",
+            "order": 5033
+        },
+        {
+            "type": "float",
+            "name": "sheet_show_close_icon",
+            "order": 5034
+        },
+        {
+            "type": "color",
+            "name": "textpicker_selected_text_color",
+            "order": 5035
+        },
+        {
+            "type": "float",
+            "name": "textpicker_selected_text_size",
+            "order": 5036
+        },
+        {
+            "type": "color",
+            "name": "textpicker_text_color",
+            "order": 5037
+        },
+        {
+            "type": "float",
+            "name": "textpicker_text_size",
+            "order": 5038
+        },
+        {
+            "type": "color",
+            "name": "textpicker_disappear_text_color",
+            "order": 5039
+        },
+        {
+            "type": "float",
+            "name": "textpicker_disappear_text_size",
+            "order": 5040
+        },
+        {
+            "type": "float",
+            "name": "picker_focus_area_type",
+            "order": 5041
+        },
+        {
+            "type": "float",
+            "name": "picker_selector_item_radius",
+            "order": 5042
+        },
+        {
+            "type": "float",
+            "name": "picker_selector_item_space",
+            "order": 5043
+        },
+        {
+            "type": "float",
+            "name": "picker_selector_item_border_width",
+            "order": 5044
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_border_color",
+            "order": 5045
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_normal_bg_color",
+            "order": 5046
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_focus_text_color",
+            "order": 5047
+        },
+        {
+            "type": "float",
+            "name": "picker_selector_item_focus_border_width",
+            "order": 5048
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_focus_border_color",
+            "order": 5049
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_focus_bg_color",
+            "order": 5050
+        },
+        {
+            "type": "color",
+            "name": "picker_select_divider_color",
+            "order": 5051
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_press_color",
+            "order": 5052
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_hover_color",
+            "order": 5053
+        },
+        {
+            "type": "float",
+            "name": "text_overflow_style_sys",
+            "order": 5054
+        },
+        {
+            "type": "float",
+            "name": "text_marquee_start_policy_sys",
+            "order": 5055
+        }     ,
+        {
+            "type": "float",
+            "name": "popup_border_width",
+            "order": 5056
+        },
+        {
+            "type": "float",
+            "name": "popup_target_space",
+            "order": 5057
+        },
+        {
+            "type": "float",
+            "name": "popup_corner_radius",
+            "order": 5058
+        },
+        {
+            "type": "float",
+            "name": "popup_min_height",
+            "order": 5059
+        },
+        {
+            "type": "float",
+            "name": "popup_max_columns",
+            "order": 5060
+        },
+        {
+            "type": "float",
+            "name": "popup_horizontal_padding",
+            "order": 5061
+        },
+        {
+            "type": "float",
+            "name": "popup_vertical_padding",
+            "order": 5062
+        },
+        {
+            "type": "float",
+            "name": "popup_text_font_size",
+            "order": 5063
+        },
+        {
+            "type": "color",
+            "name": "popup_default_bg_color",
+            "order": 5064
+        },
+        {
+            "type": "color",
+            "name": "popup_border_color",
+            "order": 5065
+        },
+        {
+            "type": "color",
+            "name": "popup_text_primary_color",
+            "order": 5066
+        },
+        {
+            "type": "float",
+            "name": "popup_bg_theme_color_mode",
+            "order": 5067
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_select_focused_color_alpha",
+            "order": 5068
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_focused_shadow_style",
+            "order": 5069
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_activemagnify",
+            "order": 5070
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_touchmagnify",
+            "order": 5071
+        },
+        {
+            "type": "color",
+            "name": "scrollbar_color_foreground",
+            "order": 5072
+        },
+        {
+            "type": "color",
+            "name": "scroll_bar_back_color",
+            "order": 5073
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_foreground_opacity",
+            "order": 5074
+        },
+        {
+            "type": "color",
+            "name": "progress_track_color",
+            "order": 5075
+        },
+        {
+            "type": "color",
+            "name": "progress_track_selected_color",
+            "order": 5076
+        },
+        {
+            "type": "color",
+            "name": "fg_progress_color",
+            "order": 5077
+        },
+        {
+            "type": "color",
+            "name": "loading_progress_focused_color",
+            "order": 5078
+        },
+        {
+            "type": "color",
+            "name": "progress_hover_blend_color",
+            "order": 5079
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_inprogress_border_color",
+            "order": 5080
+        },
+        {
+            "type": "color",
+            "name": "progress_border_color",
+            "order": 5081
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_bg_inprogress_color",
+            "order": 5082
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_bg_color",
+            "order": 5083
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_bg_focused_color",
+            "order": 5084
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_text_focused_color",
+            "order": 5085
+        },
+        {
+            "type": "color",
+            "name": "progress_text_color",
+            "order": 5086
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_select_focused_color",
+            "order": 5087
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_select_color",
+            "order": 5088
+        },
+        {
+            "type": "color",
+            "name": "progress_click_effect",
+            "order": 5089
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_bg_focused_color_alpha",
+            "order": 5090
+        },
+        {
+            "type": "color",
+            "name": "ring_progress_bg_color",
+            "order": 5091
+        },
+        {
+            "type": "color",
+            "name": "ring_progress_fg_color_end",
+            "order": 5092
+        },
+        {
+            "type": "color",
+            "name": "ring_progress_fg_color_begin",
+            "order": 5093
+        },
+        {
+            "type": "float",
+            "name": "loading_progress_default_size",
+            "order": 5094
+        },
+        {
+            "type": "float",
+            "name": "progress_text_margin",
+            "order": 5095
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_hover_effect_type",
+            "order": 5096
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_focused_scale",
+            "order": 5097
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_inprogress_border_color_alpha",
+            "order": 5098
+        },
+        {
+            "type": "float",
+            "name": "progress_border_color_alpha",
+            "order": 5099
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_inprogress_border_width",
+            "order": 5100
+        },
+        {
+            "type": "float",
+            "name": "progress_border_width",
+            "order": 5101
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_bg_inprogress_color_alpha",
+            "order": 5102
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_bg_alpha",
+            "order": 5103
         }
     ]
 }
