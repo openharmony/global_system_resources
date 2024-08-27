@@ -4567,6 +4567,14 @@
                 {
                     "name": "text_align",
                     "value": "$float:ohos_id_text_align"
+                },
+                {
+                    "name": "text_overflow_style",
+                    "value": "$float:text_overflow_style_sys"
+                },
+                {
+                    "name": "text_marquee_start_policy",
+                    "value": "$float:text_marquee_start_policy_sys"
                 }
             ]
         },
