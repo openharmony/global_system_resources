@@ -25943,12 +25943,12 @@
         },
         {
             "type": "color",
-            "name": "qrcode_color_foreground",
+            "name": "round_size_focused_bg_sys",
             "order": 5140
         },
         {
             "type": "color",
-            "name": "qrcode_color_background",
+            "name": "text_input_focus_padding_sys",
             "order": 5141
         },
         {
@@ -25960,6 +25960,396 @@
             "type": "float",
             "name": "qrcode_focused_padding",
             "order": 5143
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_app_theme_pattern",
+            "order": 5144
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_width",
+            "order": 5145
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_box_glow",
+            "order": 5146
+        },
+        {
+            "type": "color",
+            "name": "search_placeholder_color_focused",
+            "order": 5147
+        },
+        {
+            "type": "color",
+            "name": "search_focus_bg_color",
+            "order": 5148
+        },
+        {
+            "type": "color",
+            "name": "search_focus_icon_color",
+            "order": 5149
+        },
+        {
+            "type": "color",
+            "name": "search_icon_color",
+            "order": 5150
+        },
+        {
+            "type": "color",
+            "name": "search_symbol_icon_color",
+            "order": 5151
+        },
+        {
+            "type": "float",
+            "name": "search_icon_size",
+            "order": 5152
+        },
+        {
+            "type": "float",
+            "name": "search_icon_height",
+            "order": 5153
+        },
+        {
+            "type": "color",
+            "name": "search_text_color_focused",
+            "order": 5154
+        },
+        {
+            "type": "color",
+            "name": "search_hover_color",
+            "order": 5155
+        },
+        {
+            "type": "color",
+            "name": "search_touch_color",
+            "order": 5156
+        },
+        {
+            "type": "float",
+            "name": "textfield_font_size",
+            "order": 5157
+        },
+        {
+            "type": "float",
+            "name": "textfield_border_radius",
+            "order": 5158
+        },
+        {
+            "type": "color",
+            "name": "textfield_bg_color",
+            "order": 5159
+        },
+        {
+            "type": "color",
+            "name": "textfield_cursor_color",
+            "order": 5160
+        },
+        {
+            "type": "color",
+            "name": "search_text_color",
+            "order": 5161
+        },
+        {
+            "type": "float",
+            "name": "search_default_height",
+            "order": 5162
+        },
+        {
+            "type": "color",
+            "name": "search_placeholder_color",
+            "order": 5163
+        },
+        {
+            "type": "color",
+            "name": "search_border_color",
+            "order": 5164
+        },
+        {
+            "type": "float",
+            "name": "search_border_width",
+            "order": 5165
+        },
+        {
+            "type": "float",
+            "name": "search_cancel_button_style_sys",
+            "order": 5166
+        },
+        {
+            "type": "float",
+            "name": "text_input_need_focus_box_sys",
+            "order": 5167
+        },
+        {
+            "type": "color",
+            "name": "select_menu_normal_bg_color",
+            "order": 5168
+        },
+        {
+            "type": "float",
+            "name": "select_min_width",
+            "order": 5169
+        },
+        {
+            "type": "float",
+            "name": "normal_select_min_width",
+            "order": 5170
+        },
+        {
+            "type": "float",
+            "name": "small_select_min_width",
+            "order": 5171
+        },
+        {
+            "type": "float",
+            "name": "select_normal_content_margin",
+            "order": 5172
+        },
+        {
+            "type": "float",
+            "name": "select_normal_left_right_margin",
+            "order": 5173
+        },
+        {
+            "type": "float",
+            "name": "menu_normal_out_padding",
+            "order": 5174
+        },
+        {
+            "type": "float",
+            "name": "option_normal_width",
+            "order": 5175
+        },
+        {
+            "type": "float",
+            "name": "option_is_apply_focus_style",
+            "order": 5176
+        },
+        {
+            "type": "float",
+            "name": "inner_border_radius",
+            "order": 5177
+        },
+        {
+            "type": "float",
+            "name": "menu_text_tertiary_alpha",
+            "order": 5178
+        },
+        {
+            "type": "float",
+            "name": "select_font_size_text",
+            "order": 5179
+        },
+        {
+            "type": "color",
+            "name": "select_selected_color",
+            "order": 5180
+        },
+        {
+            "type": "color",
+            "name": "text_color_selected",
+            "order": 5181
+        },
+        {
+            "type": "float",
+            "name": "select_default_border_radius",
+            "order": 5182
+        },
+		{
+            "type": "color",
+            "name": "select_font_primary",
+            "order": 5183
+        },
+        {
+            "type": "color",
+            "name": "select_bg_color_selected",
+            "order": 5184
+        },
+        {
+            "type": "color",
+            "name": "select_normal_bg_color",
+            "order": 5185
+        },
+        {
+            "type": "color",
+            "name": "select_normal_icon_color",
+            "order": 5186
+        },
+        {
+            "type": "color",
+            "name": "select_normal_font_color",
+            "order": 5187
+        },
+        {
+            "type": "color",
+            "name": "select_option_hovered_bg_color",
+            "order": 5188
+        },
+        {
+            "type": "color",
+            "name": "select_option_clicked_bg_color",
+            "order": 5189
+        },
+        {
+            "type": "color",
+            "name": "menu_normal_bg_color",
+            "order": 5190
+        },
+        {
+            "type": "color",
+            "name": "menu_nomal_text_color",
+            "order": 5191
+        },
+        {
+            "type": "float",
+            "name": "select_normal_text_font_size",
+            "order": 5192
+        },
+        {
+            "type": "float",
+            "name": "select_normal_text_primary_alpha",
+            "order": 5193
+        },
+        {
+            "type": "float",
+            "name": "select_press_border_radius",
+            "order": 5194
+        },
+        {
+            "type": "float",
+            "name": "select_disabled_color_alpha",
+            "order": 5195
+        },
+        {
+            "type": "float",
+            "name": "menu_normal_text_font_size",
+            "order": 5196
+        },
+        {
+            "type": "color",
+            "name": "option_selected_border_color",
+            "order": 5197
+        }, 
+        {
+            "type": "float",
+            "name": "option_selected_border_width",
+            "order": 5198
+        },
+        {
+            "type": "float",
+            "name": "option_default_shadow",
+            "order": 5199
+        },
+        {
+            "type": "float",
+            "name": "menu_is_blend_bg_color",
+            "order": 5200
+        },
+        {
+            "type": "float",
+            "name": "option_focused_box_padding",
+            "order": 5201
+        },
+        {
+            "type": "color",
+            "name": "select_focused_font_primary",
+            "order": 5202
+        },
+        {
+            "type": "color",
+            "name": "select_normal_focused_icon_color",
+            "order": 5203
+        },
+        {
+            "type": "color",
+            "name": "menu_normal_border_color",
+            "order": 5204
+        },
+        {
+            "type": "color",
+            "name": "option_focused_back_ground_color",
+            "order": 5205
+        },
+        {
+            "type": "color",
+            "name": "option_focused_font_color",
+            "order": 5206
+        },
+        {
+            "type": "float",
+            "name": "select_slide_more_offset",
+            "order": 5207
+        },
+        {
+            "type": "color",
+            "name": "select_focused_back_ground_color",
+            "order": 5208
+        },
+        {
+            "type": "color",
+            "name": "select_focused_text_color",
+            "order": 5209
+        },
+        {
+            "type": "color",
+            "name": "select_normal_border_color",
+            "order": 5210
+        },
+        {
+            "type": "float",
+            "name": "menu_normal_back_ground_blur_type",
+            "order": 5211
+        },
+        {
+            "type": "float",
+            "name": "menu_normal_border_width",
+            "order": 5212
+        },
+        {
+            "type": "float",
+            "name": "option_focused_left_right_margin",
+            "order": 5213
+        },
+        {
+            "type": "float",
+            "name": "option_content_normal_align",
+            "order": 5214
+        },
+        {
+            "type": "float",
+            "name": "option_content_normal_left_right_padding",
+            "order": 5215
+        },
+        {
+            "type": "float",
+            "name": "option_focus_shadow",
+            "order": 5216
+        },
+        {
+            "type": "float",
+            "name": "option_normal_top_bottom_margin",
+            "order": 5217
+        },
+        {
+            "type": "float",
+            "name": "select_focused_scale",
+            "order": 5218
+        },
+        {
+            "type": "float",
+            "name": "select_focused_shadow",
+            "order": 5219
+        },
+        {
+            "type": "float",
+            "name": "select_normal_shadow",
+            "order": 5220
+        },
+        {
+            "type": "float",
+            "name": "select_normal_border_width",
+            "order": 5221
         }
     ]
 }
