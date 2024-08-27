@@ -3060,11 +3060,11 @@
             "value": [
                 {
                     "name": "bg_color",
-                    "value": "$color:ohos_id_color_component_normal"
+                    "value": "$color:progress_track_color"
                 },
                 {
                     "name": "fg_color",
-                    "value": "$color:ohos_id_color_component_activated"
+                    "value": "$color:progress_track_selected_color"
                 },
                 {
                     "name": "fg_color_cached_alpha",
@@ -3072,11 +3072,19 @@
                 },
                 {
                     "name": "fg_progress_color",
-                    "value": "$color:ohos_id_color_progress"
+                    "value": "$color:fg_progress_color"
                 },
                 {
                     "name": "loading_progress_bg_color_alpha",
                     "value": "0.6"
+                },
+                {
+                    "name": "loading_progress_default_size",
+                    "value": "$float:loading_progress_default_size"
+                },
+                {
+                    "name": "loading_progress_focused_color",
+                    "value": "$color:loading_progress_focused_color"
                 },
                 {
                     "name": "moon_progress_bg_color",
@@ -3108,15 +3116,15 @@
                 },
                 {
                     "name": "progress_border_color",
-                    "value": "$color:ohos_id_color_emphasize"
+                    "value": "$color:progress_border_color"
                 },
                 {
                     "name": "progress_border_color_alpha",
-                    "value": "$float:ohos_id_alpha_highlight_bg"
+                    "value": "$float:progress_border_color_alpha"
                 },
                 {
                     "name": "progress_border_width",
-                    "value": "$float:ohos_id_float_progress_border_width"
+                    "value": "$float:progress_border_width"
                 },
                 {
                     "name": "progress_disabled_alpha",
@@ -3124,43 +3132,107 @@
                 },
                 {
                     "name": "progress_click_effect",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:progress_click_effect"
                 },
                 {
                     "name": "progress_text_size",
-                    "value": "$float:ohos_id_text_size_button3"
+                    "value": "$float:progress_text_size"
+                },
+                {
+                    "name": "progress_text_margin",
+                    "value": "$float:progress_text_margin"
+                },
+                {
+                    "name": "progress_hover_blend_color",
+                    "value": "$color:progress_hover_blend_color"
+                },
+                {
+                    "name": "capsule_progress_hover_effect_type",
+                    "value": "$float:capsule_progress_hover_effect_type"
+                },
+                {
+                    "name": "capsule_progress_focused_scale",
+                    "value": "$float:capsule_progress_focused_scale"
+                },
+                {
+                    "name": "capsule_progress_inprogress_border_color",
+                    "value": "$color:capsule_progress_inprogress_border_color"
+                },
+                {
+                    "name": "capsule_progress_inprogress_border_color_alpha",
+                    "value": "$float:capsule_progress_inprogress_border_color_alpha"
+                },
+                {
+                    "name": "capsule_progress_inprogress_border_width",
+                    "value": "$float:capsule_progress_inprogress_border_width"
+                },
+                {
+                    "name": "capsule_progress_bg_inprogress_color",
+                    "value": "$color:capsule_progress_bg_inprogress_color"
+                },
+                {
+                    "name": "capsule_progress_bg_inprogress_color_alpha",
+                    "value": "$float:capsule_progress_bg_inprogress_color_alpha"
+                },
+                {
+                    "name": "capsule_progress_bg_focused_color",
+                    "value": "$color:capsule_progress_bg_focused_color"
+                },
+                {
+                    "name": "capsule_progress_bg_focused_color_alpha",
+                    "value": "$float:capsule_progress_bg_focused_color_alpha"
+                },
+                {
+                    "name": "capsule_progress_text_focused_color",
+                    "value": "$color:capsule_progress_text_focused_color"
+                },
+                {
+                    "name": "capsule_progress_select_focused_color",
+                    "value": "$color:capsule_progress_select_focused_color"
+                },
+                {
+                    "name": "capsule_progress_select_focused_color_alpha",
+                    "value": "$float:capsule_progress_select_focused_color_alpha"
+                },
+                {
+                    "name": "capsule_progress_focused_shadow_style",
+                    "value": "$float:capsule_progress_focused_shadow_style"
                 },
                 {
                     "name": "capsule_progress_default_alpha",
-                    "value": "$float:ohos_id_alpha_highlight_bg"
+                    "value": "$float:capsule_progress_default_alpha"
                 },
                 {
                     "name": "capsule_progress_select_color",
-                    "value": "$color:ohos_id_color_emphasize"
+                    "value": "$color:capsule_progress_select_color"
                 },
                 {
                     "name": "progress_text_color",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:progress_text_color"
                 },
                 {
                     "name": "ring_progress_bg_color",
-                    "value": "$color:ohos_id_color_button_normal"
+                    "value": "$color:ring_progress_bg_color"
                 },
                 {
                     "name": "ring_progress_fg_color_end",
-                    "value": "$color:ohos_id_color_ring_progress_end"
+                    "value": "$color:ring_progress_fg_color_end"
                 },
                 {
                     "name": "ring_progress_fg_color_begin",
-                    "value": "$color:ohos_id_color_ring_progress_begin"
+                    "value": "$color:ring_progress_fg_color_begin"
+                },
+                {
+                    "name": "ring_progress_default_padding",
+                    "value": "$float:ring_progress_default_padding"
                 },
                 {
                     "name": "capsule_progress_bg_color",
-                    "value": "$color:ohos_id_color_background"
+                    "value": "$color:capsule_progress_bg_color"
                 },
                 {
                     "name": "capsule_progress_bg_alpha",
-                    "value": "$float:ohos_id_alpha_content_fourth"
+                    "value": "$float:float:capsule_progress_bg_alpha"
                 },
                 {
                     "name": "progress_thickness",
@@ -3172,11 +3244,11 @@
                 },
                 {
                     "name": "progress_ring_thickness",
-                    "value": "$float:ohos_id_progress_ring_thickness"
+                    "value": "$float:progress_ring_thickness"
                 },
                 {
                     "name": "progress_default_diameter",
-                    "value": "$float:ohos_id_progress_default_diameter"
+                    "value": "$float:progress_default_diameter"
                 },
                 {
                     "name": "progress_scale_number",

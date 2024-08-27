@@ -251,6 +251,78 @@
         {
             "name": "comp_background_warning_secondary",
             "value": "#FDD9D9"
+        },
+        {
+            "name": "progress_track_color",
+            "value": "$color:ohos_id_color_component_normal"
+        },
+        {
+            "name": "progress_track_selected_color",
+            "value": "$color:ohos_id_color_component_activated"
+        },
+        {
+            "name": "fg_progress_color",
+            "value": "$color:ohos_id_color_progress"
+        },
+        {
+            "name": "loading_progress_focused_color",
+            "value": "$color:ohos_id_color_progress"
+        },
+        {
+            "name": "progress_hover_blend_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "capsule_progress_inprogress_border_color",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "progress_border_color",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "capsule_progress_bg_inprogress_color",
+            "value": "$color:ohos_id_color_background"
+        },
+        {
+            "name": "capsule_progress_bg_color",
+            "value": "$color:ohos_id_color_background"
+        },
+        {
+            "name": "capsule_progress_bg_focused_color",
+            "value": "$color:ohos_id_color_background"
+        },
+        {
+            "name": "capsule_progress_text_focused_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "progress_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "capsule_progress_select_focused_color",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "capsule_progress_select_color",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "progress_click_effect",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "ring_progress_bg_color",
+            "value": "$color:ohos_id_color_button_normal"
+        },
+        {
+            "name": "ring_progress_fg_color_end",
+            "value": "$color:ohos_id_color_ring_progress_end"
+        },
+        {
+            "name": "ring_progress_fg_color_begin",
+            "value": "$color:ohos_id_color_ring_progress_begin"
         }
     ]
   }
