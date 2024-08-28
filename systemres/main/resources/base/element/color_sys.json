@@ -251,6 +251,74 @@
         {
             "name": "comp_background_warning_secondary",
             "value": "#FDD9D9"
+        },
+        {
+            "name": "composeListItem_color_background_normal",
+            "value": "#00000000"
+        },
+        {
+            "name": "composeListItem_color_hover",
+            "value": "$color:interactive_hover"
+        },
+        {
+            "name": "composeListItem_color_press",
+            "value": "$color:interactive_pressed"
+        },
+        {
+            "name": "composeListItem_normal_stroke_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "composeListItem_normal_left_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "composeListItem_focused_left_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "composeListItem_normal_right_text_color",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "composeListItem_normal_right_icon_color",
+            "value": "$color:ohos_id_color_primary"
+        },
+        {
+            "name": "composeListItem_focused_backboard",
+            "value": "#00000000"
+        },
+        {
+            "name": "composeListItem_focused_right_text_color",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "composeListItem_focused_right_icon_color",
+            "value": "$color:ohos_id_color_primary"
+        },
+        {
+            "name": "composeListItem_normal_left_secondary_text_color",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "composeListItem_focused_left_secondary_text_color",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "composeListItem_normal_left_description_text_color",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "composeListItem_focused_left_description_text_color",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "composeListItem_badge_color",
+            "value": "$color:icon_primary"
+        },
+        {
+            "name": "composeListItem_normal_icon_color",
+            "value": "$color:icon_primary"
         }
     ]
   }
