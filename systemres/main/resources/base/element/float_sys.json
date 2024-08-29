@@ -303,6 +303,14 @@
         {
             "name": "inner_border_radius_token",
             "value": "$float:corner_radius_level8"
-        }  
+        },
+        {
+            "name": "app_theme_focus_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "app_theme_focus_box_glow",
+            "value": "0.0"
+        }
     ]
   }
