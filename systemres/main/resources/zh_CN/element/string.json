@@ -782,7 +782,7 @@
         },
         {
             "name": "general_select_all",
-            "value": "粘贴"
+            "value": "全选"
         },
         {
             "name": "general_translate",
@@ -955,6 +955,10 @@
         {
             "name": "textfield_has_hidden_password",
             "value": "已隐藏密码"
+        },
+        {
+            "name": "textfield_accessibility_clear",
+            "value": "清空"
         }
     ]
 }

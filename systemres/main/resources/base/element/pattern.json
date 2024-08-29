@@ -4478,6 +4478,10 @@
                 {
                     "name": "glass_material_mask_secondary",
                     "value": "$color:glass_material_mask_secondary"
+                },
+                {
+                    "name": "textfield_accessibility_clear",
+                    "value": "$string:textfield_accessibility_clear"
                 }
             ]
         },
@@ -7532,11 +7536,11 @@
             "name": "ohos_aging_adapation_dialog_pattern",
             "value": [
                 {
-                    "name": "dialog_icon_primary",
+                    "name": "aging_dialog_icon_primary",
                     "value": "$color:icon_primary"
                 },
                 {
-                    "name": "dialog_font_primary",
+                    "name": "aging_dialog_font_primary",
                     "value": "$color:font_primary"
                 },
                 {
