@@ -4140,6 +4140,33 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SET_TELEPHONY_ESIM_STATE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_TELEPHONY_ESIM_STATE_OPEN",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_TELEPHONY_ESIM_STATE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_IDM_WIDGET",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -4195,6 +4222,33 @@
             },
             {
                 "name": "ohos.permission.ALLOW_SHOW_NON_SECURE_WINDOWS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_DISTRIBUTED_MODEM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GRANT_SHORT_TERM_WRITE_MEDIAVIDEO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SHORT_TERM_WRITE_IMAGEVIDEO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 12,
