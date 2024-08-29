@@ -26345,6 +26345,21 @@
             "type": "color",
             "name": "app_theme_focus_color",
             "order": 5222
+        },
+        {
+            "type": "float",
+            "name": "searchkeyboard_control_default_focus",
+            "order": 5223
+        },
+        {
+            "type": "color",
+            "name": "toolBarDialog_backboard_focused_bg_color",
+            "order": 5224
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_margin",
+            "order": 5225
         }
     ]
 }
