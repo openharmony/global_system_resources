@@ -1335,6 +1335,14 @@
                     "value": "$color:ohos_id_color_background"
                 },
                 {
+                    "name": "focused_padding",
+                    "value": "$float:qrcode_focused_padding"
+                },
+                {
+                    "name": "default_size",
+                    "value": "$float:qrcode_default_size"
+                },
+                {
                     "name": "qrcode_focused_color",
                     "value": "$color:ohos_id_color_focused_outline"
                 },
