@@ -959,6 +959,14 @@
         {
             "name": "textfield_accessibility_clear",
             "value": "清空"
+        },
+        {
+            "name": "ohos_lab_short_term_write_imagevideo",
+            "value": "允许应用保存图片、视频到用户公共目录。应用获取此权限后，最长可获得30分钟的短时授权，来保存图片/视频。"
+        },
+        {
+            "name": "ohos_desc_short_term_write_imagevideo",
+            "value": "可申请此权限的特殊场景与功能：1.应用无法使用安全保存控件，例如H5网页应用等。2.存在连续多次保存图片/视频的场景，无法使用保存确认弹框，一次保存多个图片/视频。"
         }
     ]
 }
