@@ -4239,6 +4239,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ENTERPRISE_RECOVERY_KEY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.GRANT_SHORT_TERM_WRITE_MEDIAVIDEO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
@@ -4248,10 +4257,10 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.ENTERPRISE_RECOVERY_KEY",
+                "name": "ohos.permission.SHORT_TERM_WRITE_IMAGEVIDEO",
                 "grantMode": "system_grant",
-                "availableLevel": "system_core",
-                "since": 13,
+                "availableLevel": "system_basic",
+                "since": 12,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
