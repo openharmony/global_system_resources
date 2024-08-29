@@ -850,19 +850,19 @@
         },
         {
             "name": "slider_accessibility_selected",
-            "value": "Selected"
+            "value": "Ticked"
         },
         {
             "name": "slider_accessibility_unselected",
-            "value": "Not Selected"
+            "value": "Not Ticked"
         },
         {
             "name": "slider_accessibility_unselectedDesc",
-            "value": "Double click with on finger to select"
+            "value": "Double tap to select"
         },
         {
             "name": "slider_accessibility_disabledDesc",
-            "value": "Not Available"
+            "value": "Disabled"
         },
         {
             "name": "general_confirm",
@@ -870,7 +870,7 @@
         },
         {
             "name": "general_last_step",
-            "value": "Prev"
+            "value": "Previous"
         },
         {
             "name": "general_next_step",
@@ -918,11 +918,11 @@
         },
         {
             "name": "general_start",
-            "value": "START"
+            "value": "Start"
         },
         {
             "name": "general_skip",
-            "value": "SKIP"
+            "value": "Skip"
         },
         {
             "name": "general_maximized_display",
@@ -942,11 +942,11 @@
         },
         {
             "name": "general_window_left_screen",
-            "value": "Show On Left"
+            "value": "Show on left"
         },
         {
             "name": "general_window_right_screen",
-            "value": "Show On Right"
+            "value": "Show on right"
         },
         {
             "name": "general_text_clock_week",
@@ -954,7 +954,7 @@
         },
         {
             "name": "general_display_lunar_calendar",
-            "value": "Display Lunar"
+            "value": "Show lunar calendar"
         },
         {
             "name": "general_calendar_week",
@@ -1010,7 +1010,7 @@
         },
         {
             "name": "stepper_back",
-            "value": "BACK"
+            "value": "Back"
         },
         {
             "name": "calendar_picker_mon",
@@ -1042,7 +1042,7 @@
         },
         {
             "name": "stepper_next",
-            "value": "NEXT"
+            "value": "Next"
         },
         {
             "name": "textfield_show_password",
@@ -1062,16 +1062,15 @@
         },
         {
             "name": "textfield_has_showed_password",
-            "value": "Has showed password, button"
+            "value": "Password visible"
         },
         {
             "name": "textfield_has_hidden_password",
-            "value": "Has hidden password, button"
+            "value": "Password hidden"
         },
         {
             "name": "textfield_accessibility_clear",
             "value": "Clear"
         }
-        
     ]
 }
