@@ -1490,6 +1490,26 @@
             "name": "ohos_radio_pattern",
             "value": [
                 {
+                    "name": "size_focused_bg",
+                    "value": "$float:ohos_id_size_focused_bg_radio"
+                },
+                {
+                    "name": "color_focused_bg",
+                    "value": "$color:ohos_id_color_focused_bg_radio"
+                },
+                {
+                    "name": "focused_ring_unchecked",
+                    "value": "$color:ohos_id_color_focus_ring_unchecked_radio"
+                },
+                {
+                    "name": "focused_bg_unchecked",
+                    "value": "$color:ohos_id_color_focus_bg_unchecked_radio"
+                },
+                {
+                    "name": "radio_hover_bg_size",
+                    "value": "$float:radio_hover_bg_size"
+                },
+                {
                     "name": "bg_focus_outline_color",
                     "value": "$color:ohos_id_color_focused_outline"
                 },
@@ -3630,27 +3650,27 @@
             "value": [
                 {
                     "name": "indicator_scale_swiper",
-                    "value": "$float:ohos_id_scale_swiper_indicator"
+                    "value": "$float:swiper_scale_indicator"
                 },
                 {
                     "name": "color_focus_unselected",
-                    "value": "$color:ohos_id_color_focus_unselected_dot_swiper"
+                    "value": "$color:swiper_color_focus_unselected_dot"
                 },
                 {
                     "name": "color_focus_bg",
-                    "value": "$color:ohos_id_color_focus_bg_swiper"
+                    "value": "$color:swiper_color_focus_bg"
                 },
                 {
                     "name": "indicator_bg_height",
-                    "value": "$float:ohos_id_height_bg_swiper"
+                    "value": "$float:swiper_height_bg"
                 },
                 {
                     "name": "indicator_color_focused_selected",
-                    "value": "$color:ohos_id_color_focused_select"
+                    "value": "$color:swiper_color_focused_select"
                 },
                 {
                     "name": "indicator_padding_dot",
-                    "value": "$float:ohos_id_padding_dot_swiper"
+                    "value": "$float:swiper_padding_dot"
                 },
                 {
                     "name": "indicator_focused_padding",
