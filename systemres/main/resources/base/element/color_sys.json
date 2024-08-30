@@ -281,6 +281,74 @@
             "value": "$color:comp_divider"
         },
         {
+            "name": "chip_border_color",
+            "value":"#00000000"
+        },
+        {
+            "name": "chip_activated_border_color",
+            "value":"#00000000"
+        },
+        {
+            "name": "chip_activated_background_color",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "chip_activated_fontcolor",
+            "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
+            "name": "chip_hover_fg",
+            "value": "#19000000"
+        },
+        {
+            "name": "chip_focus_bg",
+            "value": "$color:ohos_id_color_button_normal"
+        },
+        {
+            "name": "chip_focus_activated_bg",
+            "value": "#fac858"
+        },
+        {
+            "name": "chip_focus_text",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "chip_focus_icon",
+            "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "chip_background_color",
+            "value": "$color:ohos_id_color_button_normal"
+        },
+        {
+            "name": "chip_font_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "chip_press_color",
+            "value": "#19000000"
+        },
+        {
+            "name": "chip_usually_icon_color",
+            "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "chip_active_icon_color",
+            "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
+            "name": "chip_icon_focus_fill",
+            "value": "#ee6666"
+        },
+        {
+            "name": "chip_icon_focus_activated",
+            "value": "#73c0de"
+        },
+        {
+            "name": "chip_focus_activated_fontcolor",
+            "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
             "name": "titlebar_title_tertiary_color",
             "value": "$color:font_primary"
         },
