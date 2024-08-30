@@ -269,42 +269,6 @@
             "value": "-1.0vp"
         },
         {
-            "name": "list_container_height_level1",
-            "value": "48"
-        },
-        {
-            "name": "list_container_height_level2",
-            "value": "56"
-        },
-        {
-            "name": "list_container_height_level3",
-            "value": "64"
-        },
-        {
-            "name": "list_container_height_level4",
-            "value": "72"
-        },
-        {
-            "name": "list_container_height_level5",
-            "value": "80"
-        },
-        {
-            "name": "list_container_height_level6",
-            "value": "96"
-        },
-        {
-            "name": "list_container_height_level7",
-            "value": "120"
-        },
-        {
-            "name": "menu_border_radius_token",
-            "value": "$float:corner_radius_level10"
-        },
-        {
-            "name": "inner_border_radius_token",
-            "value": "$float:corner_radius_level8"
-        },
-        {
             "name": "chip_normal_text_padding_left",
             "value": "16"
         },
@@ -419,6 +383,42 @@
         {
             "name": "chip_small_font_size",
             "value": "$float:ohos_id_text_size_button2"
+        },
+        {
+            "name": "list_container_height_level1",
+            "value": "48"
+        },
+        {
+            "name": "list_container_height_level2",
+            "value": "56"
+        },
+        {
+            "name": "list_container_height_level3",
+            "value": "64"
+        },
+        {
+            "name": "list_container_height_level4",
+            "value": "72"
+        },
+        {
+            "name": "list_container_height_level5",
+            "value": "80"
+        },
+        {
+            "name": "list_container_height_level6",
+            "value": "96"
+        },
+        {
+            "name": "list_container_height_level7",
+            "value": "120"
+        },
+        {
+            "name": "menu_border_radius_token",
+            "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "inner_border_radius_token",
+            "value": "$float:corner_radius_level8"
         }
     ]
   }
