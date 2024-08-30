@@ -419,6 +419,22 @@
         {
             "name": "inner_border_radius_token",
             "value": "$float:corner_radius_level8"
+        },
+        {
+            "name": "qrcode_focused_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "qrcode_default_size",
+            "value": "240.0vp"
+        },
+        {
+            "name": "app_theme_focus_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "app_theme_focus_box_glow",
+            "value": "0.0"
         }
     ]
   }
