@@ -24310,6 +24310,483 @@
             "type": "float",
             "name": "sub_tab_bar_third_large_font_size_scale",
             "order": 4813
+        },
+        {
+            "type": "string",
+            "name": "slider_accessibility_selected",
+            "order": 4814,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "slider_accessibility_unselected",
+            "order": 4815,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "slider_accessibility_unselectedDesc",
+            "order": 4816,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "slider_accessibility_disabledDesc",
+            "order": 4817,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "glass_material_outline_primary",
+            "order": 4818,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "glass_material_outline_secondary",
+            "order": 4819,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "glass_material_mask_primary",
+            "order": 4820,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "glass_material_mask_secondary",
+            "order": 4821,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_confirm",
+            "order": 4822,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_last_step",
+            "order": 4823,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_next_step",
+            "order": 4824,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "last_updated_time",
+            "order": 4825,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_refresh",
+            "order": 4826,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_copy",
+            "order": 4827,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_cut",
+            "order": 4828,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_select_all",
+            "order": 4829,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_translate",
+            "order": 4830,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_share",
+            "order": 4831,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_search",
+            "order": 4832,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_open",
+            "order": 4833,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_close",
+            "order": 4834,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_start",
+            "order": 4835,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_skip",
+            "order": 4836,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_maximized_display",
+            "order": 4837,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_exit_maximized_display",
+            "order": 4838,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_full_screen_display",
+            "order": 4839,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_exit_full_screen_display",
+            "order": 4840,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_window_left_screen",
+            "order": 4841,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_window_right_screen",
+            "order": 4842,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_text_clock_week",
+            "order": 4843,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_display_lunar_calendar",
+            "order": 4844,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_calendar_week",
+            "order": 4845,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_year",
+            "order": 4846,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_month",
+            "order": 4847,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_day",
+            "order": 4848,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_pre_month",
+            "order": 4849,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_pre_year",
+            "order": 4850,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_next_year",
+            "order": 4851,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_next_month",
+            "order": 4852,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_today",
+            "order": 4853,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "pass_point",
+            "order": 4854,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_paste",
+            "order": 4855,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_cancel",
+            "order": 4856,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_more",
+            "order": 4857,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "stepper_back",
+            "order": 4858,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "stepper_next",
+            "order": 4859,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "res_writting_tool_bundle_name",
+            "order": 4860,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "res_writting_tool_ability_name",
+            "order": 4861,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ic_public_ai_write",
+            "order": 4862,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "Copy_Drag",
+            "order": 4863,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "Copy_One_Drag",
+            "order": 4864,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "Forbid_Drag",
+            "order": 4865,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "Forbid_One_Drag",
+            "order": 4866,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "Move_Drag",
+            "order": 4867,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "textfield_show_password",
+            "order": 4868,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "textfield_hide_password",
+            "order": 4869,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "textfield_show_password_button",
+            "order": 4870,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "textfield_hide_password_button",
+            "order": 4871,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "textfield_has_showed_password",
+            "order": 4872,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "textfield_has_hidden_password",
+            "order": 4873,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "ai_write_menu_name",
+            "order": 4874,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "calendar_picker_mon",
+            "order": 4875,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "calendar_picker_tue",
+            "order": 4876,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "calendar_picker_wed",
+            "order": 4877,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "calendar_picker_thu",
+            "order": 4878,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "calendar_picker_fri",
+            "order": 4879,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "calendar_picker_sat",
+            "order": 4880,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "calendar_picker_sun",
+            "order": 4881,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "window_radius_small",
+            "order": 4882,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "button_background_color_transparent",
+            "order": 4883,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "window_shadow_config",
+            "order": 4884,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "window_outline_width",
+            "order": 4885,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "window_border_width",
+            "order": 4886,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "window_outline_color",
+            "order": 4887,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "window_border_color",
+            "order": 4888,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "comp_outline_color",
+            "order": 4889,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "comp_border_color",
+            "order": 4890,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "save_button_description_export_to_gallery",
+            "order": 4891
+        },
+        {
+            "type": "string",
+            "name": "save_button_description_quick_save_to_gallery",
+            "order": 4892
+        },
+        {
+            "type": "string",
+            "name": "save_button_description_quick_resave_to_gallery",
+            "order": 4893
         }
     ]
 }
