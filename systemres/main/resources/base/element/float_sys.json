@@ -293,18 +293,6 @@
             "value": "96"
         },
         {
-            "name": "list_container_height_level7",
-            "value": "120"
-        },
-        {
-            "name": "menu_border_radius_token",
-            "value": "$float:corner_radius_level10"
-        },
-        {
-            "name": "inner_border_radius_token",
-            "value": "$float:corner_radius_level8"
-        },
-        {
             "name": "composeListItem_padding_left",
             "value": "0"
         },
@@ -411,6 +399,18 @@
         {
             "name": "composeListItem_left_secondary_description_text_size",
             "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "list_container_height_level7",
+            "value": "120"
+        },
+        {
+            "name": "menu_border_radius_token",
+            "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "inner_border_radius_token",
+            "value": "$float:corner_radius_level8"
         }
     ]
   }
