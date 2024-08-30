@@ -1511,19 +1511,19 @@
             "value": [
                 {
                     "name": "size_focused_bg",
-                    "value": "$float:ohos_id_size_focused_bg_radio"
+                    "value": "$float:radio_size_focused_bg"
                 },
                 {
                     "name": "color_focused_bg",
-                    "value": "$color:ohos_id_color_focused_bg_radio"
+                    "value": "$color:radio_color_focused_bg"
                 },
                 {
                     "name": "focused_ring_unchecked",
-                    "value": "$color:ohos_id_color_focus_ring_unchecked_radio"
+                    "value": "$color:radio_color_focus_ring_unchecked"
                 },
                 {
                     "name": "focused_bg_unchecked",
-                    "value": "$color:ohos_id_color_focus_bg_unchecked_radio"
+                    "value": "$color:radio_color_focus_bg_unchecked"
                 },
                 {
                     "name": "radio_hover_bg_size",

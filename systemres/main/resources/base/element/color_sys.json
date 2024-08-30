@@ -369,6 +369,18 @@
             "value": "$color:interactive_hover"
         },
         {
+            "name": "radio_color_focused_bg",
+            "value": "#00ffffff"
+        },
+        {
+            "name": "radio_color_focus_ring_unchecked",
+            "value": "#66182431"
+        },
+        {
+            "name": "radio_color_focus_bg_unchecked",
+            "value": "#33ffffff"
+        },
+        {
             "name": "titlebar_icon_background_pressed_color",
             "value": "$color:interactive_pressed"
         },
