@@ -4623,11 +4623,11 @@
             "value": [
                 {
                     "name": "text_font_size",
-                    "value": "$float:ohos_id_text_size_body2"
+                    "value": "$float:toast_text_font_size"
                 },
                 {
                     "name": "text_color",
-                    "value": "$color:ohos_id_color_text_primary_contrary"
+                    "value": "$color:toast_color_text_primary_contrary"
                 },
                 {
                     "name": "text_color_blur_style",
@@ -4635,19 +4635,19 @@
                 },
                 {
                     "name": "bg_color",
-                    "value": "$color:ohos_id_color_instant_tip_bg"
+                    "value": "$color:toast_color_instant_tip_bg"
                 },
                 {
                     "name": "toast_border_radius",
-                    "value": "$float:toast_border_radius_old"
+                    "value": "$float:toast_border_radius"
                 },
                 {
                     "name": "toast_padding_horizontal",
-                    "value": "$float:toast_padding_old"
+                    "value": "$float:toast_padding_horizontal"
                 },
                 {
                     "name": "toast_padding_vertical",
-                    "value": "$float:ohos_id_toast_padding_vertical"
+                    "value": "$float:toast_padding_vertical"
                 },
                 {
                     "name": "toast_content_limit_max_width",
@@ -4671,7 +4671,7 @@
                 },
                 {
                     "name": "toast_bottom",
-                    "value": "$float:ohos_id_toast_bottom"
+                    "value": "$float:toast_bottom"
                 },
                 {
                     "name": "toast_margin",
@@ -4687,23 +4687,23 @@
                 },
                 {
                     "name": "toast_border_radius_level9",
-                    "value": "$float:toast_border_radius_new"
+                    "value": "$float:toast_border_radius_level9"
                 },
                 {
                     "name": "toast_padding_level8",
-                    "value": "$float:toast_padding_new"
+                    "value": "$float:toast_padding_level8"
                 },
                 {
                     "name": "toast_padding_level4",
-                    "value": "$float:padding_level4"
+                    "value": "$float:toast_padding_level4"
                 },
                 {
                     "name": "toast_Body_M",
-                    "value": "$float:Body_M"
+                    "value": "$float:toast_Body_M"
                 },
                 {
                     "name": "toast_font_primary",
-                    "value": "$color:font_primary"
+                    "value": "$color:toast_font_primary"
                 },
                 {
                     "name": "toast_font_weight_regular",
@@ -4719,15 +4719,15 @@
                 },
                 {
                     "name": "toast_double_border_enable",
-                    "value": "$float:toast_double_border_enable"
+                    "value": "$float:toast_border_enable"
                 },
                 {
                     "name": "toast_outer_border_width",
-                    "value": "$float:toast_outer_border_width"
+                    "value": "$float:toast_border_width"
                 },
                 {
                     "name": "toast_outer_border_color",
-                    "value": "$color:toast_outer_border_color"
+                    "value": "$color:toast_border_color"
                 },
                 {
                     "name": "toast_inner_border_width",
@@ -4736,6 +4736,18 @@
                 {
                     "name": "toast_inner_border_color",
                     "value": "$color:toast_inner_border_color"
+                },
+                {
+                    "name": "toast_shadow_default",
+                    "value": "$float:toast_shadow_default"
+                },
+                {
+                    "name": "toast_default_bg_color",
+                    "value": "$color:toast_default_bg_color"
+                },
+                {
+                    "name": "toast_bg_theme_color_mode",
+                    "value": "$float:toast_bg_theme_color_mode"
                 }
             ]
         },
