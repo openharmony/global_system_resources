@@ -3367,11 +3367,11 @@
             "value": [
                 {
                     "name": "fg_color",
-                    "value": "$color:ohos_id_color_foreground"
+                    "value": "$color:scrollbar_color_foreground"
                 },
                 {
                     "name": "scroll_bar_margin",
-                    "value": "$float:ohos_id_elements_margin_horizontal_s"
+                    "value": "$float:scroll_bar_margin"
                 },
                 {
                     "name": "scroll_bar_shape_mode",
@@ -3407,7 +3407,7 @@
                 },
                 {
                     "name": "scroll_bar_foreground_opacity",
-                    "value": "$float:ohos_id_alpha_content_tertiary"
+                    "value": "$float:scroll_bar_foreground_opacity"
                 },
                 {
                     "name": "scroll_bar_default_width",
@@ -3416,6 +3416,14 @@
                 {
                     "name": "scroll_bar_default_height",
                     "value": "16.0vp"
+                },
+                {
+                    "name": "scroll_bar_touchmagnify",
+                    "value": "$float:scroll_bar_touchmagnify"
+                },
+                {
+                    "name": "scroll_bar_activemagnify",
+                    "value": "$float:scroll_bar_activemagnify"
                 }
             ]
         },
