@@ -10518,62 +10518,52 @@
         {
             "type": "color",
             "name": "ohos_id_button_focus_border_color",
-            "order": 2068,
-            "flags": "private"
+            "order": 2068
         },
         {
             "type": "float",
             "name": "ohos_id_button_focus_border_width",
-            "order": 2069,
-            "flags": "private"
+            "order": 2069
         },
         {
             "type": "float",
             "name": "ohos_id_button_focus_effect_type",
-            "order": 2070,
-            "flags": "private"
+            "order": 2070
         },
         {
             "type": "float",
             "name": "ohos_id_button_default_light_illiminated",
-            "order": 2071,
-            "flags": "private"
+            "order": 2071
         },
         {
             "type": "color",
             "name": "ohos_id_linear_focus_border_color",
-            "order": 2072,
-            "flags": "private"
+            "order": 2072
         },
         {
             "type": "float",
             "name": "ohos_id_linear_focus_border_width",
-            "order": 2073,
-            "flags": "private"
+            "order": 2073
         },
         {
             "type": "float",
             "name": "ohos_id_linear_focus_effect_type",
-            "order": 2074,
-            "flags": "private"
+            "order": 2074
         },
         {
             "type": "color",
             "name": "ohos_id_stack_focus_border_color",
-            "order": 2075,
-            "flags": "private"
+            "order": 2075
         },
         {
             "type": "float",
             "name": "ohos_id_stack_focus_border_width",
-            "order": 2076,
-            "flags": "private"
+            "order": 2076
         },
         {
             "type": "float",
             "name": "ohos_id_stack_focus_effect_type",
-            "order": 2077,
-            "flags": "private"
+            "order": 2077
         },
         {
             "type": "float",
@@ -10583,15 +10573,13 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_bg_radio",
-            "order": 2079,
-            "flags": "private"
+            "name": "radio_color_focused_bg",
+            "order": 2079
         },
         {
             "type": "float",
-            "name": "ohos_id_size_focused_bg_radio",
-            "order": 2080,
-            "flags": "private"
+            "name": "radio_size_focused_bg",
+            "order": 2080
         },
         {
             "type": "float",
@@ -18299,15 +18287,13 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_ring_unchecked_radio",
-            "order": 3616,
-            "flags": "private"
+            "name": "radio_color_focus_ring_unchecked",
+            "order": 3616
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_bg_unchecked_radio",
-            "order": 3617,
-            "flags": "private"
+            "name": "radio_color_focus_bg_unchecked",
+            "order": 3617
         },
         {
             "type": "string",
@@ -23186,8 +23172,7 @@
         {
             "type": "float",
             "name": "radio_hover_bg_size",
-            "order": 4591,
-            "flags": "private"
+            "order": 4591
         },
         {
             "type": "float",
@@ -26350,6 +26335,31 @@
             "type": "float",
             "name": "select_normal_border_width",
             "order": 5221
+        },
+        {
+            "type": "color",
+            "name": "app_theme_focus_color",
+            "order": 5222
+        },
+        {
+            "type": "float",
+            "name": "searchkeyboard_control_default_focus",
+            "order": 5223
+        },
+        {
+            "type": "color",
+            "name": "toolBarDialog_backboard_focused_bg_color",
+            "order": 5224
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_margin",
+            "order": 5225
+        },
+        {
+            "type": "float",
+            "name": "textfield_hover_press_bg_color_enabled",
+            "order": 5226
         }
     ]
 }
