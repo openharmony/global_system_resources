@@ -24778,43 +24778,47 @@
         },
         {
             "type": "float",
-            "name": "chip_normal_text_padding_left",
+            "name": "chip_normal_text_padding",
             "order": 4907
         },
         {
             "type": "float",
             "name": "chip_normal_text_padding_right",
-            "order": 4908
+            "order": 4908,
+            "flag": "private"
         },
         {
             "type": "float",
-            "name": "chip_small_text_padding_left",
+            "name": "chip_small_text_padding",
             "order": 4909
         },
         {
             "type": "float",
             "name": "chip_small_text_padding_right",
-            "order": 4910
+            "order": 4910,
+            "flag": "private"
         },
         {
             "type": "float",
-            "name": "chip_normal_text_margin_left",
+            "name": "chip_normal_text_margin",
             "order": 4911
         },
         {
             "type": "float",
             "name": "chip_normal_text_margin_right",
-            "order": 4912
+            "order": 4912,
+            "flag": "private"
         },
         {
             "type": "float",
-            "name": "chip_small_text_margin_left",
+            "name": "chip_small_text_margin",
             "order": 4913
         },
         {
             "type": "float",
             "name": "chip_small_text_margin_right",
-            "order": 4914
+            "order": 4914,
+            "flag": "private"
         },
         {
             "type": "float",
@@ -24828,13 +24832,14 @@
         },
         {
             "type": "float",
-            "name": "chip_normal_border_width",
+            "name": "chip_border_width",
             "order": 4917
         },
         {
             "type": "float",
             "name": "chip_small_border_width",
-            "order": 4918
+            "order": 4918,
+            "flag": "private"
         },
         {
             "type": "float",
@@ -24853,13 +24858,14 @@
         },
         {
             "type": "float",
-            "name": "chip_focused_btn_scale_x",
+            "name": "chip_focused_btn_scale",
             "order": 4922
         },
         {
             "type": "float",
             "name": "chip_focused_btn_scale_y",
-            "order": 4923
+            "order": 4923,
+            "flag": "private"
         },
         {
             "type": "float",
@@ -24918,33 +24924,37 @@
         },
         {
             "type": "float",
-            "name": "chip_normal_suffix_icon_size_width",
+            "name": "chip_normal_icon_size",
             "order": 4935
         },
         {
             "type": "float",
-            "name": "chip_small_suffix_icon_size_width",
+            "name": "chip_small_icon_size",
             "order": 4936
         },
         {
             "type": "float",
             "name": "chip_normal_suffix_icon_size_height",
-            "order": 4937
+            "order": 4937,
+            "flag": "private"
         },
         {
             "type": "float",
             "name": "chip_small_suffix_icon_size_height",
-            "order": 4938
+            "order": 4938,
+            "flag": "private"
         },
         {
             "type": "float",
             "name": "chip_normal_suffix_icon_size_default",
-            "order": 4939
+            "order": 4939,
+            "flag": "private"
         },
         {
             "type": "float",
             "name": "chip_small_suffix_icon_size_default",
-            "order": 4940
+            "order": 4940,
+            "flag": "private"
         },
         {
             "type": "float",
