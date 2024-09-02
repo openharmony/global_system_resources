@@ -431,6 +431,26 @@
         {
             "name": "app_theme_focus_color",
             "value": "#ff007dff"
+        },
+        {
+            "name": "toast_border_color",
+            "value": "$color:toast_outer_border_color"
+        },
+        {
+            "name": "toast_default_bg_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "toast_color_text_primary_contrary",
+            "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
+            "name": "toast_color_instant_tip_bg",
+            "value": "$color:ohos_id_color_instant_tip_bg"
+        },
+        {
+            "name": "toast_font_primary",
+            "value": "$color:font_primary"
         }
     ]
   }

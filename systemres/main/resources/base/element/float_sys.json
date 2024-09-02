@@ -571,6 +571,58 @@
         {
             "name": "app_theme_focus_box_glow",
             "value": "0.0"
+        },
+        {
+            "name": "toast_border_width",
+            "value": "$float:toast_outer_border_width"
+        },
+        {
+            "name": "toast_shadow_default",
+            "value": "2.0"
+        },
+        {
+            "name": "toast_bg_theme_color_mode",
+            "value": "0.0"
+        },
+        {
+            "name": "toast_text_font_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "toast_border_radius",
+            "value": "$float:toast_border_radius_old"
+        },
+        {
+            "name": "toast_padding_horizontal",
+            "value": "$float:toast_padding_old"
+        },
+        {
+            "name": "toast_padding_vertical",
+            "value": "$float:ohos_id_toast_padding_vertical"
+        },
+        {
+            "name": "toast_bottom",
+            "value": "$float:ohos_id_toast_bottom"
+        },
+        {
+            "name": "toast_border_radius_level9",
+            "value": "$float:toast_border_radius_new"
+        },
+        {
+            "name": "toast_padding_level8",
+            "value": "$float:toast_padding_new"
+        },
+        {
+            "name": "toast_padding_level4",
+            "value": "$float:padding_level4"
+        },
+        {
+            "name": "toast_Body_M",
+            "value": "$float:Body_M"
+        },
+        {
+            "name": "toast_border_enable",
+            "value": "$float:toast_double_border_enable"
         }
     ]
   }
