@@ -2327,6 +2327,14 @@
                 {
                     "name": "min_edge_antialiasing",
                     "value": "$float:ohos_min_edge_antialiasing"
+                },
+                {
+                    "name": "image_animator_corner_radius",
+                    "value": "$float:image_animator_corner_radius_card"
+                },
+                {
+                    "name": "image_animator_clip_edge",
+                    "value": "$float:image_animator_clip_edge"
                 }
             ]
         },
