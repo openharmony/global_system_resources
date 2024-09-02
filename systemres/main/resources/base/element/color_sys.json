@@ -306,7 +306,7 @@
         },
         {
             "name": "chip_focus_activated_bg",
-            "value": "#fac858"
+            "value": "$color:ohos_id_color_emphasize"
         },
         {
             "name": "chip_focus_text",
@@ -338,11 +338,11 @@
         },
         {
             "name": "chip_icon_focus_fill",
-            "value": "#ee6666"
+            "value": "$color:ohos_id_color_secondary"
         },
         {
             "name": "chip_icon_focus_activated",
-            "value": "#73c0de"
+            "value": "$color:ohos_id_color_text_primary_contrary"
         },
         {
             "name": "chip_focus_activated_fontcolor",
