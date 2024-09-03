@@ -10567,9 +10567,8 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_dot_swiper",
-            "order": 2078,
-            "flags": "private"
+            "name": "swiper_padding_dot",
+            "order": 2078
         },
         {
             "type": "color",
@@ -10704,15 +10703,13 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_select",
-            "order": 2104,
-            "flags": "private"
+            "name": "swiper_color_focused_select",
+            "order": 2104
         },
         {
             "type": "float",
-            "name": "ohos_id_scale_swiper_indicator",
-            "order": 2105,
-            "flags": "private"
+            "name": "swiper_scale_indicator",
+            "order": 2105
         },
         {
             "type": "media",
@@ -18243,21 +18240,18 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_unselected_dot_swiper",
-            "order": 3608,
-            "flags": "private"
+            "name": "swiper_color_focus_unselected_dot",
+            "order": 3608
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_bg_swiper",
-            "order": 3609,
-            "flags": "private"
+            "name": "swiper_color_focus_bg",
+            "order": 3609
         },
         {
             "type": "float",
-            "name": "ohos_id_height_bg_swiper",
-            "order": 3610,
-            "flags": "private"
+            "name": "swiper_height_bg",
+            "order": 3610
         },
         {
             "type": "color",

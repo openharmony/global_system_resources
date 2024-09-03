@@ -3689,6 +3689,38 @@
             "name": "ohos_swiper_pattern",
             "value": [
                 {
+                    "name": "indicator_scale_swiper",
+                    "value": "$float:swiper_scale_indicator"
+                },
+                {
+                    "name": "color_focus_unselected",
+                    "value": "$color:swiper_color_focus_unselected_dot"
+                },
+                {
+                    "name": "color_focus_bg",
+                    "value": "$color:swiper_color_focus_bg"
+                },
+                {
+                    "name": "indicator_bg_height",
+                    "value": "$float:swiper_height_bg"
+                },
+                {
+                    "name": "indicator_color_focused_selected",
+                    "value": "$color:swiper_color_focused_select"
+                },
+                {
+                    "name": "indicator_padding_dot",
+                    "value": "$float:swiper_padding_dot"
+                },
+                {
+                    "name": "indicator_focused_padding",
+                    "value": "$float:swiper_indicator_focused_padding"
+                },
+                {
+                    "name": "clip_bounds",
+                    "value": "$float:swiper_clip_bounds"
+                },
+                {
                     "name": "indicator_color_selected",
                     "value": "$color:ohos_id_color_emphasize"
                 },
