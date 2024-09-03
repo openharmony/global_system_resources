@@ -269,6 +269,38 @@
             "value": "-1.0vp"
         },
         {
+            "name": "sheet_corner_radius",
+            "value": "$float:ohos_id_corner_radius_panel"
+        },
+        {
+            "name": "sheet_title_text_font_size",
+            "value": "$float:ohos_id_text_size_headline8"
+        },
+        {
+            "name": "sheet_title_text_margin",
+            "value": "$float:ohos_id_elements_margin_horizontal_l"
+        },
+        {
+            "name": "sheet_panel_background_blur_style",
+            "value": "0"
+        },
+        {
+            "name": "sheet_height_percent_large_sys",
+            "value": "1.0"
+        },
+        {
+            "name": "sheet_height_percent_medium_sys",
+            "value": "0.6"
+        },
+        {
+            "name": "sheet_operation_height_sys",
+            "value": "56.0vp"
+        },
+        {
+            "name": "sheet_show_close_icon",
+            "value": "1"
+        },
+        {
             "name": "chip_normal_text_padding",
             "value": "16"
         },

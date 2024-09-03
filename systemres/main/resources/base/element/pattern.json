@@ -6769,19 +6769,19 @@
             "value": [
                 {
                     "name": "sheet_radius",
-                    "value": "$float:ohos_id_corner_radius_panel"
+                    "value": "$float:sheet_corner_radius"
                 },
                 {
                     "name": "title_text_font_size",
-                    "value": "$float:ohos_id_text_size_headline8"
+                    "value": "$float:sheet_title_text_font_size"
                 },
                 {
                     "name": "title_text_font_color",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:sheet_title_text_font_color"
                 },
                 {
                     "name": "title_text_margin",
-                    "value": "$float:ohos_id_elements_margin_horizontal_l"
+                    "value": "$float:sheet_title_text_margin"
                 },
                 {
                     "name": "subtitle_text_font_size",
@@ -6797,7 +6797,7 @@
                 },
                 {
                     "name": "sheet_background_color",
-                    "value": "$color:ohos_id_color_panel_bg"
+                    "value": "$color:sheet_panel_background_color"
                 },
                 {
                     "name": "drag_bar_color",
@@ -6825,7 +6825,7 @@
                 },
                 {
                     "name": "sheet_background_blur_style",
-                    "value": "0"
+                    "value": "$float:sheet_panel_background_blur_style"
                 },
                 {
                     "name": "sheet_normal_aging_scale",
@@ -6838,6 +6838,22 @@
                 {
                     "name": "close_icon_symbol_color",
                     "value": "$color:icon_primary"
+                },
+                {
+                    "name": "sheet_height_percent_large",
+                    "value": "$float:sheet_height_percent_large_sys"
+                },
+                {
+                    "name": "sheet_height_percent_medium",
+                    "value": "$float:sheet_height_percent_medium_sys"
+                },
+                {
+                    "name": "sheet_operation_height",
+                    "value": "$float:sheet_operation_height_sys"
+                },
+                {
+                    "name": "sheet_show_close_icon",
+                    "value": "$float:sheet_show_close_icon"
                 }
             ]
         },
