@@ -3281,23 +3281,23 @@
             "value": [
                 {
                     "name": "icon_color_active",
-                    "value": "$color:ohos_id_color_palette11"
+                    "value": "$color:rating_icon_color_active"
                 },
                 {
                     "name": "icon_color_inactive",
-                    "value": "$color:ohos_id_color_component_normal"
+                    "value": "$color:rating_icon_color_inactive"
                 },
                 {
                     "name": "bg_color_hovered",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:rating_bg_color_hovered"
                 },
                 {
                     "name": "bg_color_pressed",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:rating_bg_color_pressed"
                 },
                 {
                     "name": "hover_radius_size",
-                    "value": "$float:ohos_id_corner_radius_default_xs"
+                    "value": "$float:rating_hover_radius_size"
                 },
                 {
                     "name": "hover_animation_duration",
@@ -3329,11 +3329,11 @@
                 },
                 {
                     "name": "rating_big_width",
-                    "value": "$float:ohos_id_rating_big_width"
+                    "value": "$float:rating_big_width"
                 },
                 {
                     "name": "rating_big_height",
-                    "value": "$float:ohos_id_rating_big_height"
+                    "value": "$float:rating_big_height"
                 },
                 {
                     "name": "rating_mini_width",
@@ -3350,6 +3350,26 @@
                 {
                     "name": "rating_focus_border_width",
                     "value": "$float:ohos_id_rating_focus_border_width"
+                },
+                {
+                    "name": "rating_icon_sub_size",
+                    "value": "$float:rating_icon_sub_size"
+                },
+                {
+                    "name": "rating_icon_board_distance",
+                    "value": "$float:rating_icon_board_distance"
+                },
+                {
+                    "name": "rating_focus_bgcolor",
+                    "value": "$color:rating_focus_bgcolor"
+                },
+                {
+                    "name": "rating_focus_space",
+                    "value": "$float:rating_focus_space"
+                },
+                {
+                    "name": "rating_focus_blur_cancel_animation",
+                    "value": "$float:rating_focus_blur_cancel_animation"
                 }
             ]
         },

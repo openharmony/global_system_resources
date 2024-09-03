@@ -433,6 +433,26 @@
             "value": "#ff007dff"
         },
         {
+            "name": "rating_icon_color_active",
+            "value": "$color:ohos_id_color_palette11"
+        },
+        {
+            "name": "rating_icon_color_inactive",
+            "value": "$color:ohos_id_color_component_normal"
+        },
+        {
+            "name": "rating_bg_color_hovered",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "rating_bg_color_pressed",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "rating_focus_bgcolor",
+            "value": "#00000000"
+        },
+        {
             "name": "toast_border_color",
             "value": "$color:toast_outer_border_color"
         },
