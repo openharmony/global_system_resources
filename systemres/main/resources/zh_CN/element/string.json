@@ -967,6 +967,30 @@
         {
             "name": "ohos_desc_short_term_write_imagevideo",
             "value": "可申请此权限的特殊场景与功能：1.应用无法使用安全保存控件，例如H5网页应用等。2.存在连续多次保存图片/视频的场景，无法使用保存确认弹框，一次保存多个图片/视频。"
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_tittle",
+            "value": "长时间保持高音量可能损伤听力"
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_context",
+            "value": "为保护听力，音量已降低至安全范围。"
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_button",
+            "value": "恢复音量"
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_tittle",
+            "value": "提高音量到安全范围以上"
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_context",
+            "value": "长时间保持高音量可能会损伤听力。确定提高音量？"
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_button",
+            "value": "提高音量"
         }
     ]
 }
