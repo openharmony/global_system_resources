@@ -241,15 +241,15 @@
                 },
                 {
                     "name": "button_focus_border_color",
-                    "value": "$color:ohos_id_button_focus_border_color"
+                    "value": "$color:button_focus_border_color"
                 },
                 {
                     "name": "button_focus_border_width",
-                    "value": "$float:ohos_id_button_focus_border_width"
+                    "value": "$float:button_focus_border_width"
                 },
                 {
                     "name": "button_focus_effect_type",
-                    "value": "$float:ohos_id_button_focus_effect_type"
+                    "value": "$float:button_focus_effect_type"
                 }
             ]
         },
@@ -7791,15 +7791,15 @@
             "value": [
                 {
                     "name": "linear_focus_border_color",
-                    "value": "$color:ohos_id_linear_focus_border_color"
+                    "value": "$color:linear_focus_border_color"
                 },
                 {
                     "name": "linear_focus_border_width",
-                    "value": "$float:ohos_id_linear_focus_border_width"
+                    "value": "$float:linear_focus_border_width"
                 },
                 {
                     "name": "linear_focus_effect_type",
-                    "value": "$float:ohos_id_linear_focus_effect_type"
+                    "value": "$float:linear_focus_effect_type"
                 }
             ]
         },
@@ -7808,15 +7808,15 @@
             "value": [
                 {
                     "name": "stack_focus_border_color",
-                    "value": "$color:ohos_id_stack_focus_border_color"
+                    "value": "$color:stack_focus_border_color"
                 },
                 {
                     "name": "stack_focus_border_width",
-                    "value": "$float:ohos_id_stack_focus_border_width"
+                    "value": "$float:stack_focus_border_width"
                 },
                 {
                     "name": "stack_focus_effect_type",
-                    "value": "$float:ohos_id_stack_focus_effect_type"
+                    "value": "$float:stack_focus_effect_type"
                 }
             ]
         },
@@ -7834,6 +7834,10 @@
                 {
                     "name": "app_theme_focus_box_glow",
                     "value": "$float:app_theme_focus_box_glow"
+                },
+                {
+                    "name": "app_theme_focus_padding",
+                    "value": "$float:app_theme_focus_padding"
                 }
             ]
         }
