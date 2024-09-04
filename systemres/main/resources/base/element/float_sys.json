@@ -501,6 +501,22 @@
             "value": "$float:corner_radius_level8"
         },
         {
+            "name": "scroll_bar_activemagnify",
+            "value": "2.0"
+        },
+        {
+            "name": "scroll_bar_touchmagnify",
+            "value": "2.0"
+        },
+        {
+            "name": "scroll_bar_foreground_opacity",
+             "value": "$float:ohos_id_alpha_content_tertiary"
+        },
+        {
+            "name": "scroll_bar_margin",
+            "value": "$float:ohos_id_elements_margin_horizontal_s"
+        },
+        {
             "name": "slider_measure_content_outset_width",
             "value": "40.0vp"
         },
