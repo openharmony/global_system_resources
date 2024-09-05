@@ -2309,7 +2309,7 @@
             "value": [
                 {
                     "name": "focus_animation_color",
-                    "value": "$color:ohos_id_color_focused_outline"
+                    "value": "$color:focus_animation_color_sys"
                 }
             ]
         },
@@ -3955,7 +3955,7 @@
                 },
                 {
                     "name": "active_indicator_color",
-                    "value": "$color:ohos_id_color_subtab_line_on"
+                    "value": "$color:subtab_active_indicator_color"
                 },
                 {
                     "name": "focus_indicator_color",
@@ -3963,15 +3963,15 @@
                 },
                 {
                     "name": "focus_indicator_radius",
-                    "value": "$float:ohos_id_corner_radius_clicked"
+                    "value": "$float:tab_focus_indicator_radius_sys"
                 },
                 {
                     "name": "subtab_text_on_color",
-                    "value": "$color:ohos_id_color_subtab_text_on"
+                    "value": "$color:tab_subtab_text_on_color_sys"
                 },
                 {
                     "name": "subtab_text_off_color",
-                    "value": "$color:ohos_id_color_subtab_text_off"
+                    "value": "$color:tab_subtab_text_off_color_sys"
                 },
                 {
                     "name": "subtab_board_text_on_color",
@@ -3987,7 +3987,7 @@
                 },
                 {
                     "name": "subtab_horizontal_padding",
-                    "value": "$float:ohos_id_subtab_horizontal_padding"
+                    "value": "$float:subtab_item_horizontal_padding_sys"
                 },
                 {
                     "name": "subtab_landscape_horizontal_padding",
@@ -3995,27 +3995,55 @@
                 },
                 {
                     "name": "subtab_item_padding",
-                    "value": "$float:ohos_id_subtab_item_padding"
+                    "value": "$float:tab_subtab_item_padding_sys"
+                },
+                {
+                    "name": "subtab_item_Horizontal_padding",
+                    "value": "$float:tab_subtab_item_Horizontal_padding_sys"
+                },
+                {
+                    "name": "subtab_focused_style",
+                    "value": "$float:tab_subtab_focused_style"
+                },
+                {
+                    "name": "tab_bar_board_focus_padding",
+                    "value": "$float:tab_bar_board_focus_padding_sys"
+                },
+                {
+                    "name": "tab_bar_focus_padding",
+                    "value": "$float:tab_bar_focus_padding_sys"
+                },
+                {
+                    "name": "tab_bar_margin_width",
+                    "value": "$float:tab_bar_margin_width_sys"
+                },
+                {
+                    "name": "tab_bar_focused_color",
+                    "value": "$color:tab_bar_focused_color_sys"
+                },
+                {
+                    "name": "subtab_text_focused_color",
+                    "value": "$color:tab_subtab_text_focused_color_sys"
                 },
                 {
                     "name": "subtab_top_padding",
-                    "value": "$float:ohos_id_subtab_top_padding"
+                    "value": "$float:subtab_item_top_padding_sys"
                 },
                 {
                     "name": "subtab_bottom_padding",
-                    "value": "$float:ohos_id_subtab_bottom_padding"
+                    "value": "$float:subtab_item_bottom_padding_sys"
                 },
                 {
                     "name": "subtab_hover_color",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:tab_subtab_hover_color_sys"
                 },
                 {
                     "name": "subtab_press_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:tab_subtab_press_color_sys"
                 },
                 {
                     "name": "subtab_text_default_font_size",
-                    "value": "$float:ohos_id_text_size_body1"
+                    "value": "$float:tab_subtab_text_default_font_size_sys"
                 },
                 {
                     "name": "bottom_tab_horizontal_padding",
@@ -4067,7 +4095,7 @@
                 },
                 {
                     "name": "tab_bar_default_height",
-                    "value": "56.0vp"
+                    "value": "$float:tab_bar_default_height_sys"
                 },
                 {
                     "name": "bottom_tab_bar_default_height",
@@ -4091,7 +4119,7 @@
                 },
                 {
                     "name": "tab_bar_gradient_width",
-                    "value": "$float:ohos_id_tab_bar_gradient_width_default"
+                    "value": "$float:tab_bar_gradient_width_sys"
                 },
                 {
                     "name": "color_bottom_tab_sub_bg",
