@@ -245,6 +245,58 @@
             "value": "32.0vp"
         },
         {
+            "name": "tab_subtab_text_default_font_size_sys",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "tab_bar_default_height_sys",
+            "value": "56.0vp"
+        },
+        {
+            "name": "tab_bar_gradient_width_sys",
+            "value": "$float:ohos_id_tab_bar_gradient_width_default"
+        },
+        {
+            "name": "tab_focus_indicator_radius_sys",
+            "value": "$float:ohos_id_corner_radius_clicked"
+        },
+        {
+            "name": "tab_subtab_item_padding_sys",
+            "value": "$float:ohos_id_subtab_item_padding"
+        },
+        {
+            "name": "subtab_item_top_padding_sys",
+            "value": "$float:ohos_id_subtab_top_padding"
+        },
+        {
+            "name": "tab_subtab_item_Horizontal_padding_sys",
+            "value": "8.0vp"
+        },
+        {
+            "name": "subtab_item_bottom_padding_sys",
+            "value": "$float:ohos_id_subtab_bottom_padding"
+        },
+        {
+            "name": "tab_subtab_focused_style",
+            "value": "0"
+        },
+        {
+            "name": "tab_bar_board_focus_padding_sys",
+            "value": "0.0vp"
+        },
+        {
+            "name": "subtab_item_horizontal_padding_sys",
+            "value": "$float:ohos_id_subtab_horizontal_padding"
+        },
+        {
+            "name": "tab_bar_focus_padding_sys",
+            "value": "0.0vp"
+        },
+        {
+            "name": "tab_bar_margin_width_sys",
+            "value": "0.0vp"
+        },
+        {
             "name": "breakpoint_horizontal_s",
             "value": "600.0vp"
         },
@@ -269,36 +321,40 @@
             "value": "-1.0vp"
         },
         {
-            "name": "textpicker_selected_text_size",
-            "value": "$float:ohos_id_text_size_headline8"
+            "name": "popup_border_width",
+            "value": "0.0vp"
         },
         {
-            "name": "textpicker_text_size",
-            "value": "$float:ohos_id_text_size_sub_title2"
-        },
-        {
-            "name": "textpicker_disappear_text_size",
-            "value": "$float:ohos_id_text_size_sub_title3"
-        },
-        {
-            "name": "picker_focus_area_type",
-            "value": "0"
-        },
-        {
-            "name": "picker_selector_item_radius",
+            "name": "popup_target_space",
             "value": "8.0vp"
         },
         {
-            "name": "picker_selector_item_space",
-            "value": "4.0vp"
+            "name": "popup_corner_radius",
+            "value": "$float:popup_border_radius"
         },
         {
-            "name": "picker_selector_item_border_width",
+            "name": "popup_min_height",
             "value": "0.0vp"
         },
         {
-            "name": "picker_selector_item_focus_border_width",
-            "value": "0.0vp"
+            "name": "popup_max_columns",
+            "value": "0.0"
+        },
+        {
+            "name": "popup_horizontal_padding",
+            "value": "$float:ohos_id_elements_margin_horizontal_l"
+        },
+        {
+            "name": "popup_vertical_padding",
+            "value": "$float:ohos_id_elements_margin_vertical_m"
+        },
+        {
+            "name": "popup_text_font_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "popup_bg_theme_color_mode",
+            "value": "0.0"
         },
         {
             "name": "chip_normal_text_padding",
@@ -521,6 +577,38 @@
             "value": "0.0vp"
         },
         {
+            "name": "textpicker_selected_text_size",
+            "value": "$float:ohos_id_text_size_headline8"
+        },
+        {
+            "name": "textpicker_text_size",
+            "value": "$float:ohos_id_text_size_sub_title2"
+        },
+        {
+            "name": "textpicker_disappear_text_size",
+            "value": "$float:ohos_id_text_size_sub_title3"
+        },
+        {
+            "name": "picker_focus_area_type",
+            "value": "0"
+        },
+        {
+            "name": "picker_selector_item_radius",
+            "value": "8.0vp"
+        },
+        {
+            "name": "picker_selector_item_space",
+            "value": "4.0vp"
+        },
+        {
+            "name": "picker_selector_item_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "picker_selector_item_focus_border_width",
+            "value": "0.0vp"
+        },
+        {
             "name": "swiper_clip_bounds",
             "value": "1"
         },
@@ -529,8 +617,124 @@
             "value": "$float:corner_radius_level10"
         },
         {
+            "name": "menu_back_blur_with_color",
+            "value": "0.0"
+        },
+        {
+            "name": "menu_item_left_right_margin",
+            "value": "0.0vp"
+        },
+        {
+            "name": "menu_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "menu_item_top_bottom_margin",
+            "value": "0.0vp"
+        },
+        {
+            "name": "menu_target_security_space",
+            "value": "8.0vp"
+        },
+        {
+            "name": "menu_item_content_align",
+            "value": "4.0"
+        },
+        {
+            "name": "menu_item_focused_shadow_style",
+            "value": "6.0"
+        },
+        {
             "name": "inner_border_radius_token",
             "value": "$float:corner_radius_level8"
+        },
+        {
+            "name": "loading_progress_default_size",
+            "value": "0.0vp"
+        },
+        {
+            "name": "progress_text_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "capsule_progress_hover_effect_type",
+            "value": "2.0"
+        },
+        {
+            "name": "capsule_progress_focused_scale",
+            "value": "1.0"
+        },
+        {
+            "name": "capsule_progress_inprogress_border_color_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "progress_border_color_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "capsule_progress_inprogress_border_width",
+            "value": "$float:ohos_id_float_progress_border_width"
+        },
+        {
+            "name": "progress_border_width",
+            "value": "$float:ohos_id_float_progress_border_width"
+        },
+        {
+            "name": "capsule_progress_bg_inprogress_color_alpha",
+            "value": "$float:ohos_id_alpha_content_fourth"
+        },
+        {
+            "name": "capsule_progress_bg_alpha",
+            "value": "$float:ohos_id_alpha_content_fourth"
+        },
+        {
+            "name": "capsule_progress_bg_focused_color_alpha",
+            "value": "$float:ohos_id_alpha_content_fourth"
+        },
+        {
+            "name": "capsule_progress_focused_shadow_style",
+            "value": "6.0"
+        },
+        {
+            "name": "capsule_progress_select_focused_color_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "capsule_progress_default_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "progress_default_diameter",
+            "value": "$float:ohos_id_progress_default_diameter"
+        },
+        {
+            "name": "progress_text_size",
+            "value": "$float:ohos_id_text_size_button3"
+        },
+        {
+            "name": "ring_progress_default_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "progress_ring_thickness",
+            "value": "$float:ohos_id_progress_thickness"
+        },
+        {  
+            "name": "scroll_bar_activemagnify",
+            "value": "2.0"
+        },
+        {
+            "name": "scroll_bar_touchmagnify",
+            "value": "2.0"
+        },
+        {
+            "name": "scroll_bar_foreground_opacity",
+             "value": "$float:ohos_id_alpha_content_tertiary"
+        },
+        {
+            "name": "scroll_bar_margin",
+            "value": "$float:ohos_id_elements_margin_horizontal_s"
         },
         {
             "name": "slider_measure_content_outset_width",
@@ -563,6 +767,14 @@
         {
             "name": "qrcode_default_size",
             "value": "240.0vp"
+        },
+        {
+            "name": "image_animator_corner_radius_card",
+            "value": "0.0vp"
+        },
+        {
+            "name": "image_animator_clip_edge",
+            "value": "0.0"
         },
         {
             "name": "app_theme_focus_width",
@@ -651,6 +863,62 @@
         {
             "name": "toast_border_enable",
             "value": "$float:toast_double_border_enable"
+        },
+        {
+            "name": "segment_button_height",
+            "value": "28.0vp"
+        },
+        {
+            "name": "segment_min_button_height",
+            "value": "48.0vp"
+        },
+        {
+            "name": "segment_button_baseplate_padding",
+            "value": "2.0vp"
+        },
+        {
+            "name": "segment_button_text_u_d_padding",
+            "value": "4.0"
+        },
+        {
+            "name": "segment_button_text_capsule_u_d_padding",
+            "value": "6.0"
+        },
+        {
+            "name": "segment_button_text_l_r_padding",
+            "value": "8.0"
+        },
+        {
+            "name": "segment_button_min_font_size",
+            "value": "9.0fp"
+        },
+        {
+            "name": "segment_button_normal_border_radius",
+            "value": "2.0"
+        },
+        {
+            "name": "segment_marquee",
+            "value": "1.0"
+        },
+        {
+            "name": "segment_focus_control",
+            "value": "1.0"
+        },
+        {
+            "name": "segment_button_checked_text_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "segment_button_unselected_text_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "segment_button_background_blur_style",
+            "value": "0"
+        },
+        {
+            "name": "segment_button_shadow",
+            "value": "0"
         },
         {
             "name": "select_normal_text_primary_alpha",
@@ -783,6 +1051,34 @@
         {
             "name": "select_slide_more_offset",
             "value": "0"
+        },
+        {
+            "name": "button_focus_border_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "button_focus_effect_type",
+            "value": "0.0"
+        },
+        {
+            "name": "linear_focus_border_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "linear_focus_effect_type",
+            "value": "0.0"
+        },
+        {
+            "name": "stack_focus_border_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "stack_focus_effect_type",
+            "value": "0.0"
+        },
+        {
+            "name": "app_theme_focus_padding",
+            "value": "2.0vp"
         }
     ]
   }
