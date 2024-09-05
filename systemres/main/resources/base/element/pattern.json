@@ -1860,6 +1860,54 @@
                     "value": "$float:ohos_id_corner_radius_dialog"
                 },
                 {
+                    "name": "padding_top_title",
+                    "value": "$float:dialog_padding_top_title"
+                },
+                {
+                    "name": "button_type",
+                    "value": "$float:dialog_button_type"
+                },
+                {
+                    "name": "normal_button_text_font_size",
+                    "value": "$float:dialog_normal_button_text_font_size"
+                },
+                {
+                    "name": "padding_single_title",
+                    "value": "$float:dialog_padding_single_title"
+                },
+                {
+                    "name": "color_bg_with_blur",
+                    "value": "$color:dialog_color_bg_with_blur"
+                },
+                {
+                    "name": "shadow_dialog",
+                    "value": "$float:dialog_shadow"
+                },
+                {
+                    "name": "align_dialog",
+                    "value": "$float:dialog_align"
+                },
+                {
+                    "name": "dialog_ratio_height",
+                    "value": "$float:dialog_ratio_height"
+                },
+                {
+                    "name": "border_color",
+                    "value": "$color:dialog_color_border"
+                },
+                {
+                    "name": "border_width",
+                    "value": "$float:dialog_width_border"
+                },
+                {
+                    "name": "text_align_title",
+                    "value": "$float:dialog_text_align_title"
+                },
+                {
+                    "name": "text_align_content",
+                    "value": "$float:dialog_text_align_content"
+                },
+                {
                     "name": "dialog_container_radius",
                     "value": "$float:alert_container_shape"
                 },
