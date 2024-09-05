@@ -833,6 +833,62 @@
             "value": "$float:toast_double_border_enable"
         },
         {
+            "name": "segment_button_height",
+            "value": "28.0vp"
+        },
+        {
+            "name": "segment_min_button_height",
+            "value": "48.0vp"
+        },
+        {
+            "name": "segment_button_baseplate_padding",
+            "value": "2.0vp"
+        },
+        {
+            "name": "segment_button_text_u_d_padding",
+            "value": "4.0"
+        },
+        {
+            "name": "segment_button_text_capsule_u_d_padding",
+            "value": "6.0"
+        },
+        {
+            "name": "segment_button_text_l_r_padding",
+            "value": "8.0"
+        },
+        {
+            "name": "segment_button_min_font_size",
+            "value": "9.0fp"
+        },
+        {
+            "name": "segment_button_normal_border_radius",
+            "value": "2.0"
+        },
+        {
+            "name": "segment_marquee",
+            "value": "1.0"
+        },
+        {
+            "name": "segment_focus_control",
+            "value": "1.0"
+        },
+        {
+            "name": "segment_button_checked_text_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "segment_button_unselected_text_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "segment_button_background_blur_style",
+            "value": "0"
+        },
+        {
+            "name": "segment_button_shadow",
+            "value": "0"
+        },
+        {
             "name": "select_normal_text_primary_alpha",
             "value": "$float:ohos_id_alpha_content_primary"
         },
