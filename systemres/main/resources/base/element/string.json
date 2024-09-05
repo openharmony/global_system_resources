@@ -1079,6 +1079,30 @@
         {
             "name": "ohos_desc_short_term_write_imagevideo",
             "value": "This permission applies to the following scenarios: 1. The application, for example, an H5 web application, cannot use the SaveButton security component. 2. The application needs to save images or videos multiple times consecutively and cannot save all the images or videos at a time in a save confirmation dialog box."
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_tittle",
+            "value": "Keeping the volume high for long periods of time can damage hearing"
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_context",
+            "value": "To protect hearing, the volume has been lowered to a safe range."
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_button",
+            "value": "Restore the volume"
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_tittle",
+            "value": "Increase the volume above the safe range"
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_context",
+            "value": "Keeping the volume high for a long time may damage your hearing. Are you sure you want to increase the volume?"
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_button",
+            "value": "Turn up the volume"
         }
     ]
 }
