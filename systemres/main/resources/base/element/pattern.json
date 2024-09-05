@@ -1503,6 +1503,26 @@
                 {
                     "name": "checkbox_shadow_width",
                     "value": "$float:ohos_id_checkbox_shadow_width"
+                },
+                {
+                    "name": "color_focused_bg",
+                    "value": "$color:checkbox_color_focused_bg"
+                },
+                {
+                    "name": "size_focused_bg",
+                    "value": "$float:checkbox_size_focused_bg"
+                },
+                {
+                    "name": "focused_border_color",
+                    "value": "$color:checkbox_focused_border_color_unselected"
+                },
+                {
+                    "name": "focused_bg_color_unselected",
+                    "value": "$color:checkbox_focused_bg_color_unselected"
+                },
+                {
+                    "name": "round_size_focused_bg",
+                    "value": "$float:round_size_focused_bg_sys"
                 }
             ]
         },

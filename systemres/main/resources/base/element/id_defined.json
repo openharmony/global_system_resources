@@ -10385,27 +10385,23 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_size_focused_bg_checkbox",
-            "order": 2043,
-            "flags": "private"
+            "name": "checkbox_size_focused_bg",
+            "order": 2043
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_bg_checkbox",
-            "order": 2044,
-            "flags": "private"
+            "name": "checkbox_color_focused_bg",
+            "order": 2044
         },
         {
             "type": "color",
-            "name": "ohos_id_focused_border_color_unselected_checkbox",
-            "order": 2045,
-            "flags": "private"
+            "name": "checkbox_focused_border_color_unselected",
+            "order": 2045
         },
         {
             "type": "color",
-            "name": "ohos_id_focused_bg_color_unselected_checkbox",
-            "order": 2046,
-            "flags": "private"
+            "name": "checkbox_focused_bg_color_unselected",
+            "order": 2046
         },
         {
             "type": "float",
