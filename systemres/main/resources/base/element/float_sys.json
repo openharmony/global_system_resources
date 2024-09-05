@@ -501,6 +501,78 @@
             "value": "$float:corner_radius_level8"
         },
         {
+            "name": "loading_progress_default_size",
+            "value": "0.0vp"
+        },
+        {
+            "name": "progress_text_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "capsule_progress_hover_effect_type",
+            "value": "2.0"
+        },
+        {
+            "name": "capsule_progress_focused_scale",
+            "value": "1.0"
+        },
+        {
+            "name": "capsule_progress_inprogress_border_color_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "progress_border_color_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "capsule_progress_inprogress_border_width",
+            "value": "$float:ohos_id_float_progress_border_width"
+        },
+        {
+            "name": "progress_border_width",
+            "value": "$float:ohos_id_float_progress_border_width"
+        },
+        {
+            "name": "capsule_progress_bg_inprogress_color_alpha",
+            "value": "$float:ohos_id_alpha_content_fourth"
+        },
+        {
+            "name": "capsule_progress_bg_alpha",
+            "value": "$float:ohos_id_alpha_content_fourth"
+        },
+        {
+            "name": "capsule_progress_bg_focused_color_alpha",
+            "value": "$float:ohos_id_alpha_content_fourth"
+        },
+        {
+            "name": "capsule_progress_focused_shadow_style",
+            "value": "6.0"
+        },
+        {
+            "name": "capsule_progress_select_focused_color_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "capsule_progress_default_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "progress_default_diameter",
+            "value": "$float:ohos_id_progress_default_diameter"
+        },
+        {
+            "name": "progress_text_size",
+            "value": "$float:ohos_id_text_size_button3"
+        },
+        {
+            "name": "ring_progress_default_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "progress_ring_thickness",
+            "value": "$float:ohos_id_progress_thickness"
+        },
+        {  
             "name": "scroll_bar_activemagnify",
             "value": "2.0"
         },
