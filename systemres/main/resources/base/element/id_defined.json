@@ -10355,33 +10355,28 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_text_input",
-            "order": 2038,
-            "flags": "private"
+            "name": "text_input_border_color",
+            "order": 2038
         },
         {
             "type": "float",
-            "name": "ohos_id_width_border_text_input",
-            "order": 2039,
-            "flags": "private"
+            "name": "text_input_border_width",
+            "order": 2039
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_error_tips_text_input",
-            "order": 2040,
-            "flags": "private"
+            "name": "text_input_and_error_tips_spacing",
+            "order": 2040
         },
         {
             "type": "float",
-            "name": "ohos_id_width_border_error_text_input",
-            "order": 2041,
-            "flags": "private"
+            "name": "error_text_input_border_width",
+            "order": 2041
         },
         {
             "type": "float",
-            "name": "ohos_id_show_icon_text_input",
-            "order": 2042,
-            "flags": "private"
+            "name": "show_icon_text_input",
+            "order": 2042
         },
         {
             "type": "float",
