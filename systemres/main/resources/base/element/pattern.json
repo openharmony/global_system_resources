@@ -2971,11 +2971,43 @@
                 },
                 {
                     "name": "text_font_size",
-                    "value": "$float:ohos_id_text_size_body2"
+                    "value": "$float:popup_text_font_size"
                 },
                 {
                     "name": "text_color",
                     "value": "$color:ohos_id_color_text_primary_contrary"
+                },
+                {
+                    "name": "popup_default_bg_color",
+                    "value": "$color:popup_default_bg_color"
+                },
+                {
+                    "name": "popup_bg_theme_color_mode",
+                    "value": "$float:popup_bg_theme_color_mode"
+                },
+                {
+                    "name": "popup_border_color",
+                    "value": "$color:popup_border_color"
+                },
+                {
+                    "name": "popup_border_width",
+                    "value": "$float:popup_border_width"
+                },
+                {
+                    "name": "popup_target_space",
+                    "value": "$float:popup_target_space"
+                },
+                {
+                    "name": "popup_corner_radius",
+                    "value": "$float:popup_corner_radius"
+                },
+                {
+                    "name": "popup_min_height",
+                    "value": "$float:popup_min_height"
+                },
+                {
+                    "name": "popup_max_columns",
+                    "value": "$float:popup_max_columns"
                 },
                 {
                     "name": "popup_button_text_font_size",
@@ -2983,15 +3015,15 @@
                 },
                 {
                     "name": "popup_border_radius",
-                    "value": "$float:popup_border_radius"
+                    "value": "$float:popup_corner_radius"
                 },
                 {
                     "name": "popup_horizontal_padding",
-                    "value": "$float:ohos_id_elements_margin_horizontal_l"
+                    "value": "$float:popup_horizontal_padding"
                 },
                 {
                     "name": "popup_vertical_padding",
-                    "value": "$float:ohos_id_elements_margin_vertical_m"
+                    "value": "$float:popup_vertical_padding"
                 },
                 {
                     "name": "bg_color_hovered",
@@ -3039,7 +3071,7 @@
                 },
                 {
                     "name": "text_primary_color",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:popup_text_primary_color"
                 },
                 {
                     "name": "text_primary_activated_color",
