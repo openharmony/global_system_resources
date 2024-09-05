@@ -4111,6 +4111,17 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SHORT_TERM_WRITE_IMAGEVIDEO",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_short_term_write_imagevideo",
+                "description": "$string:ohos_desc_short_term_write_imagevideo"
             }
         ]
     }

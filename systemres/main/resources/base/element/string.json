@@ -835,6 +835,14 @@
         {
             "name" : "ohos_toolbar_more",
             "value" : "More"
+        },
+        {
+            "name": "ohos_lab_short_term_write_imagevideo",
+            "value": "Allows an application to save images and videos to the user's directory within up to 30 minutes after obtaining the permission."
+        },
+        {
+            "name": "ohos_desc_short_term_write_imagevideo",
+            "value": "This permission applies to the following scenarios: 1. The application, for example, an H5 web application, cannot use the SaveButton security component. 2. The application needs to save images or videos multiple times consecutively and cannot save all the images or videos at a time in a save confirmation dialog box."
         }
     ]
 }
