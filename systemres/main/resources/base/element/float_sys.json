@@ -321,6 +321,42 @@
             "value": "-1.0vp"
         },
         {
+            "name": "popup_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "popup_target_space",
+            "value": "8.0vp"
+        },
+        {
+            "name": "popup_corner_radius",
+            "value": "$float:popup_border_radius"
+        },
+        {
+            "name": "popup_min_height",
+            "value": "0.0vp"
+        },
+        {
+            "name": "popup_max_columns",
+            "value": "0.0"
+        },
+        {
+            "name": "popup_horizontal_padding",
+            "value": "$float:ohos_id_elements_margin_horizontal_l"
+        },
+        {
+            "name": "popup_vertical_padding",
+            "value": "$float:ohos_id_elements_margin_vertical_m"
+        },
+        {
+            "name": "popup_text_font_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "popup_bg_theme_color_mode",
+            "value": "0.0"
+        },
+        {
             "name": "chip_normal_text_padding",
             "value": "16"
         },
@@ -701,6 +737,14 @@
             "value": "240.0vp"
         },
         {
+            "name": "image_animator_corner_radius_card",
+            "value": "0.0vp"
+        },
+        {
+            "name": "image_animator_clip_edge",
+            "value": "0.0"
+        },
+        {
             "name": "app_theme_focus_width",
             "value": "2.0vp"
         },
@@ -799,6 +843,62 @@
         {
             "name": "switch_focus_box_padding",
             "value": "2.0vp"
+        },
+        {
+            "name": "segment_button_height",
+            "value": "28.0vp"
+        },
+        {
+            "name": "segment_min_button_height",
+            "value": "48.0vp"
+        },
+        {
+            "name": "segment_button_baseplate_padding",
+            "value": "2.0vp"
+        },
+        {
+            "name": "segment_button_text_u_d_padding",
+            "value": "4.0"
+        },
+        {
+            "name": "segment_button_text_capsule_u_d_padding",
+            "value": "6.0"
+        },
+        {
+            "name": "segment_button_text_l_r_padding",
+            "value": "8.0"
+        },
+        {
+            "name": "segment_button_min_font_size",
+            "value": "9.0fp"
+        },
+        {
+            "name": "segment_button_normal_border_radius",
+            "value": "2.0"
+        },
+        {
+            "name": "segment_marquee",
+            "value": "1.0"
+        },
+        {
+            "name": "segment_focus_control",
+            "value": "1.0"
+        },
+        {
+            "name": "segment_button_checked_text_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "segment_button_unselected_text_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "segment_button_background_blur_style",
+            "value": "0"
+        },
+        {
+            "name": "segment_button_shadow",
+            "value": "0"
         },
         {
             "name": "select_normal_text_primary_alpha",
