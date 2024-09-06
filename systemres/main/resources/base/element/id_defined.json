@@ -10319,27 +10319,23 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_width_border_dialog",
-            "order": 2032,
-            "flags": "private"
+            "name": "dialog_width_border",
+            "order": 2032
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_dialog",
-            "order": 2033,
-            "flags": "private"
+            "name": "dialog_color_border",
+            "order": 2033
         },
         {
             "type": "float",
-            "name": "ohos_id_text_align_dialog_title",
-            "order": 2034,
-            "flags": "private"
+            "name": "dialog_text_align_title",
+            "order": 2034
         },
         {
             "type": "float",
-            "name": "ohos_id_text_align_dialog_content",
-            "order": 2035,
-            "flags": "private"
+            "name": "dialog_text_align_content",
+            "order": 2035
         },
         {
             "type": "float",
@@ -10349,9 +10345,8 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_ratio_height_dialog",
-            "order": 2037,
-            "flags": "private"
+            "name": "dialog_ratio_height",
+            "order": 2037
         },
         {
             "type": "color",
@@ -10594,33 +10589,28 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_bg_with_blur_dialog",
-            "order": 2084,
-            "flags": "private"
+            "name": "dialog_color_bg_with_blur",
+            "order": 2084
         },
         {
             "type": "float",
-            "name": "ohos_id_align_dialog",
-            "order": 2085,
-            "flags": "private"
+            "name": "dialog_align",
+            "order": 2085
         },
         {
             "type": "float",
-            "name": "ohos_id_shadow_dialog",
-            "order": 2086,
-            "flags": "private"
+            "name": "dialog_shadow",
+            "order": 2086
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_top_title_dialog",
-            "order": 2087,
-            "flags": "private"
+            "name": "dialog_padding_top_title",
+            "order": 2087
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_single_title_dialog",
-            "order": 2088,
-            "flags": "private"
+            "name": "dialog_padding_single_title",
+            "order": 2088
         },
         {
             "type": "media",
@@ -10721,45 +10711,38 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_focused_bgcolor_switch_button_unselected",
-            "order": 2108,
-            "flags": "private"
+            "name": "switch_button_focused_bgcolor_unselected",
+            "order": 2108
         },
         {
             "type": "color",
-            "name": "ohos_id_focused_pointColor_switch_button_unselected",
-            "order": 2109,
-            "flags": "private"
+            "name": "switch_button_focused_pointColor_unselected",
+            "order": 2109
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_status_button_checked",
-            "order": 2110,
-            "flags": "private"
+            "name": "status_button_color_border_checked",
+            "order": 2110
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_status_button_unchecked",
-            "order": 2111,
-            "flags": "private"
+            "name": "status_button_color_border_unchecked",
+            "order": 2111
         },
         {
             "type": "color",
-            "name": "ohos_id_bgcolor_focus_status_button_unchecked",
-            "order": 2112,
-            "flags": "private"
+            "name": "status_button_bgcolor_focus_unchecked",
+            "order": 2112
         },
         {
             "type": "color",
-            "name": "ohos_id_bgcolor_focus_status_button_checked",
-            "order": 2113,
-            "flags": "private"
+            "name": "status_button_bgcolor_focus_checked",
+            "order": 2113
         },
         {
             "type": "color",
-            "name": "ohos_id_text_color_focus_status_button",
-            "order": 2114,
-            "flags": "private"
+            "name": "status_button_text_color_focus",
+            "order": 2114
         },
         {
             "type": "color",
@@ -18243,9 +18226,8 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_switch_unchecked_bgColor",
-            "order": 3611,
-            "flags": "private"
+            "name": "switch_unchecked_bgColor",
+            "order": 3611
         },
         {
             "type": "float",
@@ -25265,7 +25247,7 @@
         },
         {
             "type": "float",
-            "name": "image_animator_adapt_radius",
+            "name": "image_animator_clip_edge",
             "order": 5009
         },
         {
@@ -25340,7 +25322,7 @@
         },
         {
             "type": "float",
-            "name": "toggle_bgcolor_checked_focus_alpha",
+            "name": "status_button_bgcolor_checked_focus_alpha",
             "order": 5024
         },
         {
@@ -26377,6 +26359,36 @@
             "type": "float",
             "name": "menu_item_left_right_margin",
             "order": 5231
+        },
+        {
+            "type": "float",
+            "name": "switch_focus_box_padding",
+            "order": 5232
+        },
+        {
+            "type": "float",
+            "name": "dialog_button_type",
+            "order": 5233
+        },
+        {
+            "type": "float",
+            "name": "dialog_normal_button_text_font_size",
+            "order": 5234
+        },
+        {
+            "type": "float",
+            "name": "round_size_focused_bg_sys",
+            "order": 5235
+        },
+        {
+            "type": "float",
+            "name": "search_need_focus_box",
+            "order": 5236
+        },
+        {
+            "type": "float",
+            "name": "textinput_need_focus_glow",
+            "order": 5237
         }
     ]
 }

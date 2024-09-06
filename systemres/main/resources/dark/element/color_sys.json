@@ -153,6 +153,14 @@
             "value": "#26ffffff"
         },
         {
+            "name": "checkbox_focused_border_color_unselected",
+            "value": "#66ffffff"
+        },
+        {
+            "name": "checkbox_focused_bg_color_unselected",
+            "value": "#33000000"
+        },
+        {
             "name": "interactive_focus",
             "value": "$color:brand"
         },
@@ -233,12 +241,20 @@
             "value": "#2B0E0B"
         },
         {
-            "name": "checkbox_focused_border_color_unselected",
-            "value": "#66ffffff"
+            "name": "status_button_bgcolor_focus_unchecked",
+            "value": "#19ffffff"
         },
         {
-            "name": "checkbox_focused_bg_color_unselected",
-            "value": "#33000000"
+            "name": "status_button_bgcolor_focus_checked",
+            "value": "#ff006cde"
+        },
+        {
+            "name": "status_button_text_color_focus",
+            "value": "#dbffffff"
+        },
+        {
+            "name": "switch_button_focused_pointColor_unselected",
+            "value": "#ffe5e5e5"
         }
     ]
   }

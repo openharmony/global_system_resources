@@ -289,6 +289,14 @@
             "value": "$color:ohos_id_color_hover"
         },
         {
+            "name": "dialog_color_bg_with_blur",
+            "value": "#00ffffff"
+        },
+        {
+            "name": "dialog_color_border",
+            "value": "#ff000000"
+        },
+        {
             "name": "tab_subtab_press_color_sys",
             "value": "$color:ohos_id_color_click_effect"
         },
@@ -311,6 +319,26 @@
         {
             "name": "alert_divider_color",
             "value": "$color:comp_divider"
+        },
+        {
+            "name": "sheet_title_text_font_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "sheet_panel_background_color",
+            "value": "$color:ohos_id_color_panel_bg"
+        },
+        {
+            "name": "popup_default_bg_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "popup_border_color",
+            "value": "#FF000000"
+        },
+        {
+            "name": "popup_text_primary_color",
+            "value": "$color:ohos_id_color_text_primary"
         },
         {
             "name": "chip_border_color",
@@ -561,6 +589,50 @@
             "value": "$color:ohos_id_color_component_normal"
         },
         {
+            "name": "textpicker_selected_text_color",
+            "value": "$color:ohos_id_color_text_primary_activated"
+        },
+        {
+            "name": "textpicker_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "textpicker_disappear_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "picker_selector_item_hover_color",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "picker_selector_item_press_color",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "picker_selector_item_focus_text_color",
+            "value": "$color:ohos_id_picker_focus_option_text_color"
+        },
+        {
+            "name": "picker_select_divider_color",
+            "value": "$color:ohos_id_picker_select_divider_color"
+        },
+        {
+            "name": "picker_selector_item_border_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "picker_selector_item_focus_border_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "picker_selector_item_focus_bg_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "picker_selector_item_normal_bg_color",
+            "value": "#00000000"
+        },
+        {
             "name": "rating_bg_color_hovered",
             "value": "$color:ohos_id_color_hover"
         },
@@ -607,6 +679,86 @@
         {
             "name": "toast_font_primary",
             "value": "$color:font_primary"
+        },
+        {
+            "name": "switch_unchecked_pointColor",
+            "value": "$color:point_color_checked"
+        },
+        {
+            "name": "status_button_color_border_checked",
+            "value": "#ff000000"
+        },
+        {
+            "name": "status_button_color_border_unchecked",
+            "value": "#ff000000"
+        },
+        {
+            "name": "status_button_bgcolor_focus_unchecked",
+            "value": "#0c182431"
+        },
+        {
+            "name": "status_button_bgcolor_focus_checked",
+            "value": "#ff007dff"
+        },
+        {
+            "name": "status_button_text_color_focus",
+            "value": "#ff182431"
+        },
+        {
+            "name": "ohos_id_color_focus_board_switch",
+            "value": "#00000000"
+        },
+        {
+            "name": "switch_button_focused_bgcolor_unselected",
+            "value": "#337F7F7F"
+        },
+        {
+            "name": "switch_button_focused_pointColor_unselected",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "switch_unchecked_bgColor",
+            "value": "#337F7F7F"
+        },
+        {
+            "name": "point_color_checked",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "segment_button_checked_text_primary",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "segment_button_checked_foreground_contrary",
+            "value": "$color:ohos_id_color_foreground_contrary"
+        },
+        {
+            "name": "segment_button_unselected_text_primary",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "segment_button_backboard_primary",
+            "value": "$color:ohos_id_color_button_normal"
+        },
+        {
+            "name": "segment_button_color_hover",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "segment_button_color_Press",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "segment_button_focus_backboard_primary",
+            "value": "$color:ohos_id_color_focused_bg"
+        },
+        {
+            "name": "segment_button_focus_text_primary",
+            "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
+            "name": "toolBarDialog_backboard_focused_bg_color",
+            "value": "#00000000"
         },
         {
             "name": "select_normal_border_color",
