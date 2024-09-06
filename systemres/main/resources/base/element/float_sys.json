@@ -833,6 +833,58 @@
             "value": "1.0"
         },
         {
+            "name": "search_icon_size",
+            "value": "$float:ohos_id_search_icon_size"
+        },
+        {
+            "name": "search_icon_height",
+            "value": "$float:ohos_id_search_icon_height"
+        },
+        {
+            "name": "textfield_font_size",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "search_default_height",
+            "value": "$float:ohos_id_search_default_height"
+        },
+        {
+            "name": "textfield_border_radius",
+            "value": "$float:ohos_id_textfield_border_radius"
+        },
+        {
+            "name": "search_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "search_cancel_button_style_sys",
+            "value": "2.0"
+        },
+        {
+            "name": "search_need_focus_box",
+            "value": "0.0"
+        },
+        {
+            "name": "text_input_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "text_input_and_error_tips_spacing",
+            "value": "8.0vp"
+        },
+        {
+            "name": "error_text_input_border_width",
+            "value": "1.0vp"
+        },
+        {
+            "name": "show_icon_text_input",
+            "value": "1.0"
+        },
+        {
+            "name": "textfield_hover_press_bg_color_enabled",
+            "value": "0"
+        },
+        {
             "name": "qrcode_focused_padding",
             "value": "0.0vp"
         },
