@@ -231,6 +231,22 @@
         {
             "name": "comp_background_warning_secondary",
             "value": "#2B0E0B"
+        },
+        {
+            "name": "status_button_bgcolor_focus_unchecked",
+            "value": "#19ffffff"
+        },
+        {
+            "name": "status_button_bgcolor_focus_checked",
+            "value": "#ff006cde"
+        },
+        {
+            "name": "status_button_text_color_focus",
+            "value": "#dbffffff"
+        },
+        {
+            "name": "switch_button_focused_pointColor_unselected",
+            "value": "#ffe5e5e5"
         }
     ]
   }
