@@ -236,6 +236,22 @@
             "name": "alert_divider_color",
             "value": "$color:comp_divider"
         },
+	    {
+            "name": "button_border_color",
+            "value": "#ff000000"
+        },
+        {
+            "name": "small_button_border_color",
+            "value": "#ff000000"
+        },
+        {
+            "name": "text_button_focus_bg_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "normal_button_focus_bgcolor",
+            "value": "#00000000"
+        },
         {
             "name": "comp_background_warning_secondary",
             "value": "#2B0E0B"

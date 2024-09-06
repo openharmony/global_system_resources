@@ -320,6 +320,22 @@
             "name": "alert_divider_color",
             "value": "$color:comp_divider"
         },
+	    {
+            "name": "small_button_border_color",
+            "value": "#ff000000"
+        },
+        {
+            "name": "normal_button_focus_bgcolor",
+            "value": "#0c182431"
+        },
+        {
+            "name": "button_border_color",
+            "value": "#ff000000"
+        },
+        {
+            "name": "text_button_focus_bg_color",
+            "value": "#00ffffff"
+        },
         {
             "name": "sheet_title_text_font_color",
             "value": "$color:ohos_id_color_text_primary"
