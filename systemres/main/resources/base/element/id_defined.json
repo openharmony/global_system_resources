@@ -24931,11 +24931,12 @@
         {
             "type": "float",
             "name": "composeListItem_padding_right",
-            "order": 4947
+            "order": 4947,
+            "flag": "private"
         },
         {
             "type": "float",
-            "name": "composeListItem_padding_left",
+            "name": "composeListItem_padding",
             "order": 4948
         },
         {
@@ -24946,12 +24947,14 @@
         {
             "type": "float",
             "name": "composeListItem_normal_left_text_size",
-            "order": 4950
+            "order": 4950,
+            "flag": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_normal_right_text_size",
-            "order": 4951
+            "order": 4951,
+            "flag": "private"
         },
         {
             "type": "float",
@@ -24961,7 +24964,8 @@
         {
             "type": "float",
             "name": "composeListItem_focused_circular_bead",
-            "order": 4953
+            "order": 4953,
+            "flag": "private"
         },
         {
             "type": "float",
@@ -24986,12 +24990,14 @@
         {
             "type": "float",
             "name": "composeListItem_single_line_list_left_text_top",
-            "order": 4958
+            "order": 4958,
+            "flag": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_single_line_list_left_text_bottom",
-            "order": 4959
+            "order": 4959,
+            "flag": "private"
         },
         {
             "type": "float",
@@ -25016,32 +25022,38 @@
         {
             "type": "float",
             "name": "composeListItem_single_line_list_left_text_top1",
-            "order": 4964
+            "order": 4964,
+            "flag": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_single_line_list_left_text_top2",
-            "order": 4965
+            "order": 4965,
+            "flag": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_single_line_list_left_text_top3",
-            "order": 4966
+            "order": 4966,
+            "flag": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_single_line_list_left_text_bottom1",
-            "order": 4967
+            "order": 4967,
+            "flag": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_single_line_list_left_text_bottom2",
-            "order": 4968
+            "order": 4968,
+            "flag": "private"
         },
         {
             "type": "float",
             "name": "composeListItem_single_line_list_left_text_bottom3",
-            "order": 4969
+            "order": 4969,
+            "flag": "private"
         },
         {
             "type": "float",
@@ -25061,12 +25073,14 @@
         {
             "type": "color",
             "name": "composeListItem_color_hover",
-            "order": 4973
+            "order": 4973,
+            "flag": "private"
         },
         {
             "type": "color",
             "name": "composeListItem_color_press",
-            "order": 4974
+            "order": 4974,
+            "flag": "private"
         },
         {
             "type": "color",
@@ -25076,12 +25090,14 @@
         {
             "type": "color",
             "name": "composeListItem_normal_left_text_color",
-            "order": 4976
+            "order": 4976,
+            "flag": "private"
         },
         {
             "type": "color",
             "name": "composeListItem_normal_right_text_color",
-            "order": 4977
+            "order": 4977,
+            "flag": "private"
         },
         {
             "type": "color",
@@ -25110,23 +25126,26 @@
         },
         {
             "type": "color",
-            "name": "composeListItem_normal_left_secondary_text_color",
+            "name": "composeListItem_left_secondary_description_text_color",
             "order": 4983
         },
         {
             "type": "color",
             "name": "composeListItem_focused_left_secondary_text_color",
-            "order": 4984
+            "order": 4984,
+            "flag": "private"
         },
         {
             "type": "color",
             "name": "composeListItem_normal_left_description_text_color",
-            "order": 4985
+            "order": 4985,
+            "flag": "private"
         },
         {
             "type": "color",
             "name": "composeListItem_focused_left_description_text_color",
-            "order": 4986
+            "order": 4986,
+            "flag": "private"
         },
         {
             "type": "color",
@@ -25141,11 +25160,12 @@
         {
             "type": "float",
             "name": "composeListItem_app_icon_size",
-            "order": 4989
+            "order": 4989,
+            "flag": "private"
         },
         {
             "type": "float",
-            "name": "composeListItem_normal_radio",
+            "name": "composeListItem_radius",
             "order": 4990
         },
         {
