@@ -617,6 +617,38 @@
             "value": "0.0vp"
         },
         {
+            "name": "textpicker_selected_text_size",
+            "value": "$float:ohos_id_text_size_headline8"
+        },
+        {
+            "name": "textpicker_text_size",
+            "value": "$float:ohos_id_text_size_sub_title2"
+        },
+        {
+            "name": "textpicker_disappear_text_size",
+            "value": "$float:ohos_id_text_size_sub_title3"
+        },
+        {
+            "name": "picker_focus_area_type",
+            "value": "0"
+        },
+        {
+            "name": "picker_selector_item_radius",
+            "value": "8.0vp"
+        },
+        {
+            "name": "picker_selector_item_space",
+            "value": "4.0vp"
+        },
+        {
+            "name": "picker_selector_item_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "picker_selector_item_focus_border_width",
+            "value": "0.0vp"
+        },
+        {
             "name": "swiper_clip_bounds",
             "value": "1"
         },

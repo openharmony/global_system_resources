@@ -581,6 +581,50 @@
             "value": "$color:ohos_id_color_component_normal"
         },
         {
+            "name": "textpicker_selected_text_color",
+            "value": "$color:ohos_id_color_text_primary_activated"
+        },
+        {
+            "name": "textpicker_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "textpicker_disappear_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "picker_selector_item_hover_color",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "picker_selector_item_press_color",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "picker_selector_item_focus_text_color",
+            "value": "$color:ohos_id_picker_focus_option_text_color"
+        },
+        {
+            "name": "picker_select_divider_color",
+            "value": "$color:ohos_id_picker_select_divider_color"
+        },
+        {
+            "name": "picker_selector_item_border_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "picker_selector_item_focus_border_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "picker_selector_item_focus_bg_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "picker_selector_item_normal_bg_color",
+            "value": "#00000000"
+        },
+        {
             "name": "rating_bg_color_hovered",
             "value": "$color:ohos_id_color_hover"
         },
