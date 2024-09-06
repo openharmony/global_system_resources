@@ -193,7 +193,7 @@
                 },
                 {
                     "name": "border_color",
-                    "value": "$color:ohos_id_color_border_button"
+                    "value": "$color:button_border_color"
                 },
                 {
                     "name": "width_border_small",
@@ -213,7 +213,7 @@
                 },
                 {
                     "name": "focus_bg_text",
-                    "value": "$color:ohos_id_color_focus_bg_text_button"
+                    "value": "$color:text_button_focus_bg_color"
                 },
                 {
                     "name": "button_aging_big_font_size_scale",
@@ -250,6 +250,30 @@
                 {
                     "name": "button_focus_effect_type",
                     "value": "$float:button_focus_effect_type"
+                },
+                {
+                    "name": "color_border_small",
+                    "value": "$color:small_button_border_color"
+                },
+                {
+                    "name": "padding_text",
+                    "value": "$float:ohos_id_button_inner_padding"
+                },
+                {
+                    "name": "text_button_text_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "normal_button_text_focus_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "text_button_text_focus_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "normal_button_focus_bgcolor",
+                    "value": "$color:normal_button_focus_bgcolor"
                 }
             ]
         },

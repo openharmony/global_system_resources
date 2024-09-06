@@ -10263,7 +10263,7 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_button",
+            "name": "button_border_color",
             "order": 2021
         },
         {
@@ -10278,9 +10278,8 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_small_button",
-            "order": 2024,
-            "flags": "private"
+            "name": "small_button_border_color",
+            "order": 2024
         },
         {
             "type": "float",
@@ -10304,7 +10303,7 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_bg_text_button",
+            "name": "text_button_focus_bg_color",
             "order": 2029
         },
         {
@@ -18379,9 +18378,8 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_normal_button_focus_bgcolor",
-            "order": 3639,
-            "flags": "private"
+            "name": "normal_button_focus_bgcolor",
+            "order": 3639
         },
         {
             "type": "color",
