@@ -907,6 +907,22 @@
         {
             "name": "checkbox_color_focused_bg",
             "value": "#00000000"
+        },
+        {
+            "name": "password_normal_border_color",
+            "value": "#26000000"
+        },
+        {
+            "name": "password_focused_bg_color",
+            "value": "$color:ohos_id_color_text_field_sub_bg"
+        },
+        {
+            "name": "password_focused_icon_color",
+            "value": "$color:ohos_id_color_primary"
+        },
+        {
+            "name": "password_focused_font_color",
+            "value": "$color:ohos_id_color_text_hint"
         }
     ]
   }

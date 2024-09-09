@@ -26402,6 +26402,26 @@
             "type": "float",
             "name": "textinput_need_focus_glow",
             "order": 5237
+        },
+        {
+            "type": "color",
+            "name": "password_normal_border_color",
+            "order": 5238
+        },
+        {
+            "type": "color",
+            "name": "password_focused_bg_color",
+            "order": 5239
+        },
+        {
+            "type": "color",
+            "name": "password_focused_icon_color",
+            "order": 5240
+        },
+        {
+            "type": "color",
+            "name": "password_focused_font_color",
+            "order": 5241
         }
     ]
 }
