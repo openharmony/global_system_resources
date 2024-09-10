@@ -393,6 +393,10 @@
             "value": "56.0vp"
         },
         {
+            "name": "sheet_height_apply_full_screen",
+            "value": "0"
+        },
+        {
             "name": "sheet_show_close_icon",
             "value": "1"
         },
@@ -1174,6 +1178,58 @@
         },
         {
             "name": "checkbox_size_focused_bg",
+            "value": "2.0vp"
+        },
+        {
+            "name": "text_fadeout_width_sys",
+            "value": "16.0vp"
+        },
+        {
+            "name": "text_marquee_start_policy_sys",
+            "value": "0.0"
+        },
+        {
+            "name": "checkbox_focus_paint_padding_sys",
+            "value": "$float:ohos_id_checkbox_focus_paint_padding"
+        },
+        {
+            "name": "radio_focus_paint_padding_sys",
+            "value": "$float:ohos_id_radio_focus_paint_padding"
+        },
+        {
+            "name": "switch_focus_paint_padding_sys",
+            "value": "3.0vp"
+        },
+        {
+            "name": "menu_focus_style_type_sys",
+            "value": "0.0"
+        },
+        {
+            "name": "select_focus_style_type_sys",
+            "value": "0.0"
+        },
+        {
+            "name": "qrcode_focus_style_type_sys",
+            "value": "0.0"
+        },
+        {
+            "name": "textfield_focus_style_type_sys",
+            "value": "5.0"
+        },
+        {
+            "name": "swiper_focus_border_width_sys",
+            "value": "2.0vp"
+        },
+        {
+            "name": "rating_focus_border_width_sys",
+            "value": "$float:ohos_id_rating_focus_border_width"
+        },
+        {
+            "name": "tabs_active_indicator_width_sys",
+            "value": "$float:ohos_id_active_indicator_width"
+        },
+        {
+            "name": "picker_focus_padding_sys",
             "value": "2.0vp"
         }
     ]

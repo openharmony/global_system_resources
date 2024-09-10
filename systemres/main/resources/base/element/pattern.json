@@ -334,7 +334,7 @@
                 },
                 {
                     "name": "focus_paint_padding",
-                    "value": "3.0vp"
+                    "value": "switch_focus_paint_padding_sys"
                 },
                 {
                     "name": "hover_animation_duration",
@@ -447,6 +447,10 @@
                 {
                     "name": "switch_focus_box_padding",
                     "value": "$float:switch_focus_box_padding"
+                },
+                {
+                    "name": "switch_focus_color_sys",
+                    "value": "$color:switch_focus_color_sys"
                 }
             ]
         },
@@ -1404,7 +1408,7 @@
                 },
                 {
                     "name": "qrcode_focused_color",
-                    "value": "$color:ohos_id_color_focused_outline"
+                    "value": "$color:qrcode_focused_color_sys"
                 },
                 {
                     "name": "qrcode_type",
@@ -1413,6 +1417,10 @@
                 {
                     "name": "qrcode_size",
                     "value": "$float:ohos_id_qrcode_size"
+                },
+                {
+                    "name": "qrcode_focus_style_type",
+                    "value": "$float:qrcode_focus_style_type_sys"
                 }
             ]
         },
@@ -1478,7 +1486,7 @@
                 },
                 {
                     "name": "focus_paint_padding",
-                    "value": "$float:ohos_id_checkbox_focus_paint_padding"
+                    "value": "$float:checkbox_focus_paint_padding_sys"
                 },
                 {
                     "name": "focus_border_radius",
@@ -1583,6 +1591,10 @@
                 {
                     "name": "round_size_focused_bg",
                     "value": "$float:round_size_focused_bg_sys"
+                },
+                {
+                    "name": "checkbox_focus_color_sys",
+                    "value": "$color:checkbox_focus_color_sys"
                 }
             ]
         },
@@ -1611,7 +1623,7 @@
                 },
                 {
                     "name": "bg_focus_outline_color",
-                    "value": "$color:ohos_id_color_focused_outline"
+                    "value": "$color:radio_focus_color_sys"
                 },
                 {
                     "name": "hover_border_color",
@@ -1643,7 +1655,7 @@
                 },
                 {
                     "name": "focus_paint_padding",
-                    "value": "$float:ohos_id_radio_focus_paint_padding"
+                    "value": "$float:radio_focus_paint_padding_sys"
                 },
                 {
                     "name": "hover_animation_duration",
@@ -2985,7 +2997,7 @@
                 },
                 {
                     "name": "picker_focus_color",
-                    "value": "$color:ohos_id_picker_focus_color"
+                    "value": "$color:picker_focus_color_sys"
                 },
                 {
                     "name": "picker_focus_radius",
@@ -3118,6 +3130,10 @@
                 {
                     "name": "picker_selector_item_normal_bg_color",
                     "value": "$color:picker_selector_item_normal_bg_color"
+                },
+                {
+                    "name": "picker_focus_padding",
+                    "value": "$float:picker_focus_padding_sys"
                 }
             ]
         },
@@ -3625,7 +3641,7 @@
                 },
                 {
                     "name": "rating_focus_border_width",
-                    "value": "$float:ohos_id_rating_focus_border_width"
+                    "value": "$float:rating_focus_border_width_sys"
                 },
                 {
                     "name": "rating_icon_sub_size",
@@ -4066,7 +4082,7 @@
                 },
                 {
                     "name": "indicator_color_focused",
-                    "value": "$color:ohos_id_color_focused_outline"
+                    "value": "$color:swiper_indicator_color_focused_sys"
                 },
                 {
                     "name": "arrow_disabled_alpha",
@@ -4171,6 +4187,10 @@
                 {
                     "name": "container_color",
                     "value": "$color:ohos_id_swiper_container_color"
+                },
+                {
+                    "name": "swiper_focus_border_width",
+                    "value": "$float:swiper_focus_border_width_sys"
                 }
             ]
         },
@@ -4411,7 +4431,7 @@
                 },
                 {
                     "name": "active_indicator_width",
-                    "value": "$float:ohos_id_active_indicator_width"
+                    "value": "$float:tabs_active_indicator_width_sys"
                 },
                 {
                     "name": "active_indicator_min_width",
@@ -4509,6 +4529,14 @@
                 {
                     "name": "text_show_handle",
                     "value": "$string:ohos_textfield_show_handle"
+                },
+                {
+                    "name": "text_fadeout_width",
+                    "value": "$float:text_fadeout_width_sys"
+                },
+                {
+                    "name": "text_marquee_start_policy",
+                    "value": "$float:text_marquee_start_policy_sys"
                 }
             ]
         },
@@ -4906,6 +4934,10 @@
                 {
                     "name": "textfield_hover_press_bg_color_enabled",
                     "value": "$float:textfield_hover_press_bg_color_enabled"
+                },
+                {
+                    "name": "textfield_focus_style_type",
+                    "value": "$float:textfield_focus_style_type_sys"
                 }
             ]
         },
@@ -5955,6 +5987,14 @@
                 {
                     "name": "select_slide_more_offset",
                     "value": "$float:select_slide_more_offset"
+                },
+                {
+                    "name": "menu_focus_style_type",
+                    "value": "$float:menu_focus_style_type_sys"
+                },
+                {
+                    "name": "select_focus_style_type",
+                    "value": "$float:select_focus_style_type_sys"
                 }
             ]
         },
@@ -7466,6 +7506,10 @@
                 {
                     "name": "sheet_operation_height",
                     "value": "$float:sheet_operation_height_sys"
+                },
+                {
+                    "name": "sheet_height_apply_full_screen",
+                    "value": "$float:sheet_height_apply_full_screen"
                 },
                 {
                     "name": "sheet_show_close_icon",
