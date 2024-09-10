@@ -10567,9 +10567,8 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_text_fadeout_width",
-            "order": 2081,
-            "flags": "private"
+            "name": "text_fadeout_width_sys",
+            "order": 2081
         },
         {
             "type": "float",
@@ -26422,6 +26421,91 @@
             "type": "color",
             "name": "password_focused_font_color",
             "order": 5241
+        },
+        {
+            "type": "float",
+            "name": "checkbox_focus_paint_padding_sys",
+            "order": 5242
+        },
+        {
+            "type": "color",
+            "name": "checkbox_focus_color_sys",
+            "order": 5243
+        },
+        {
+            "type": "float",
+            "name": "radio_focus_paint_padding_sys",
+            "order": 5244
+        },
+        {
+            "type": "color",
+            "name": "radio_focus_color_sys",
+            "order": 5245
+        },
+        {
+            "type": "float",
+            "name": "switch_focus_paint_padding_sys",
+            "order": 5246
+        },
+        {
+            "type": "color",
+            "name": "switch_focus_color_sys",
+            "order": 5247
+        },
+        {
+            "type": "float",
+            "name": "menu_focus_style_type_sys",
+            "order": 5248
+        },
+        {
+            "type": "float",
+            "name": "select_focus_style_type_sys",
+            "order": 5249
+        },
+        {
+            "type": "color",
+            "name": "qrcode_focused_color_sys",
+            "order": 5250
+        },
+        {
+            "type": "float",
+            "name": "qrcode_focus_style_type_sys",
+            "order": 5251
+        },
+        {
+            "type": "float",
+            "name": "textfield_focus_style_type_sys",
+            "order": 5252
+        },
+        {
+            "type": "float",
+            "name": "swiper_focus_border_width_sys",
+            "order": 5253
+        },
+        {
+            "type": "color",
+            "name": "swiper_indicator_color_focused_sys",
+            "order": 5254
+        },
+        {
+            "type": "float",
+            "name": "rating_focus_border_width_sys",
+            "order": 5255
+        },
+        {
+            "type": "float",
+            "name": "tabs_active_indicator_width_sys",
+            "order": 5256
+        },
+        {
+            "type": "color",
+            "name": "picker_focus_color_sys",
+            "order": 5257
+        },
+        {
+            "type": "float",
+            "name": "picker_focus_padding_sys",
+            "order": 5258
         }
     ]
 }

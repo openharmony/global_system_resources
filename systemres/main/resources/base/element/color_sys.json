@@ -923,6 +923,30 @@
         {
             "name": "password_focused_font_color",
             "value": "$color:ohos_id_color_text_hint"
+        },
+        {
+            "name": "checkbox_focus_color_sys",
+            "value": "$color:ohos_id_color_text_primary_activated"
+        },
+        {
+            "name": "radio_focus_color_sys",
+            "value": "$color:ohos_id_color_focused_outline"
+        },
+        {
+            "name": "switch_focus_color_sys",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "qrcode_focused_color_sys",
+            "value": "$color:ohos_id_color_focused_outline"
+        },
+        {
+            "name": "swiper_indicator_color_focused_sys",
+            "value": "$color:ohos_id_color_focused_outline"
+        },
+        {
+            "name": "picker_focus_color_sys",
+            "value": "$color:ohos_id_picker_focus_color"
         }
     ]
   }
