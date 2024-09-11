@@ -5170,6 +5170,10 @@
                 {
                     "name": "toast_text_align",
                     "value": "$float:ohos_id_text_align"
+                },
+                {
+                    "name": "toast_limit_height_ratio",
+                    "value": "$float:ohos_id_toast_limit_height_ratio"
                 }
             ]
         },
