@@ -26511,6 +26511,16 @@
             "type": "float",
             "name": "sheet_height_apply_full_screen",
             "order": 5259
+        },
+        {
+            "type": "float",
+            "name": "textfield_independent_control_keyboard",
+            "order": 5260
+        },
+        {
+            "type": "float",
+            "name": "textfield_direction_keys_move_focus_out",
+            "order": 5261
         }
     ]
 }
