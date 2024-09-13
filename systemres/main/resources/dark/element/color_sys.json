@@ -249,8 +249,12 @@
             "value": "#00000000"
         },
         {
+            "name": "menu_item_focused_text_color",
+            "value": "#dbffffff"
+        },
+        {
             "name": "normal_button_focus_bgcolor",
-            "value": "#00000000"
+            "value": "$color:comp_background_tertiary"
         },
         {
             "name": "comp_background_warning_secondary",

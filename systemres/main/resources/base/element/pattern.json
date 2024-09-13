@@ -3662,6 +3662,10 @@
                 {
                     "name": "rating_focus_blur_cancel_animation",
                     "value": "$float:rating_focus_blur_cancel_animation"
+                },
+                {
+                    "name": "rating_apply_circle_radius",
+                    "value": "$float:rating_apply_circle_radius"
                 }
             ]
         },
@@ -4946,6 +4950,14 @@
                 {
                     "name": "direction_keys_move_focus_out",
                     "value": "$float:textfield_direction_keys_move_focus_out"
+                },
+                {
+                    "name": "text_input_need_focus_box",
+                    "value": "$float:text_input_need_focus_box_sys"
+                },
+                {
+                    "name": "text_input_focus_padding",
+                    "value": "$float:text_input_focus_padding_sys"
                 }
             ]
         },

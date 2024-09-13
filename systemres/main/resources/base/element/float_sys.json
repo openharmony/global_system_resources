@@ -833,6 +833,14 @@
             "value": "1.0vp"
         },
         {
+            "name": "text_input_need_focus_box_sys",
+            "value": "0.0"
+        },
+        {
+            "name": "text_input_focus_padding_sys",
+            "value": "2.0vp"
+        },
+        {
             "name": "show_icon_text_input",
             "value": "1.0"
         },
@@ -890,6 +898,10 @@
         },
         {
             "name": "rating_focus_blur_cancel_animation",
+            "value": "0.0"
+        },
+        {
+            "name": "rating_apply_circle_radius",
             "value": "0.0"
         },
         {
