@@ -3787,6 +3787,10 @@
                 {
                     "name": "swiper_animation_opacity",
                     "value": "$float:ohos_id_swiper_animation_opacity"
+                },
+                {
+                    "name": "swiper_velocity_coefficient_touch_pad",
+                    "value": "$float:swiper_velocity_coefficient_touch_pad"
                 }
             ]
         },
