@@ -4444,6 +4444,10 @@
                     "value": "$string:res_writting_tool_ability_name"
                 },
                 {
+                    "name": "textfield_writting_is_support",
+                    "value": "$string:res_writting_tool_is_support"
+                },
+                {
                     "name": "glass_material_outline_primary",
                     "value": "$color:glass_material_outline_primary"
                 },
@@ -6614,6 +6618,10 @@
                 {
                     "name": "rich_editor_writting_ability_name",
                     "value": "$string:res_writting_tool_ability_name"
+                },
+                {
+                    "name": "rich_editor_writting_is_support",
+                    "value": "$string:res_writting_tool_is_support"
                 },
                 {
                     "name": "drag_corner_radius",

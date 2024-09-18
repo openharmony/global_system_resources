@@ -25797,6 +25797,11 @@
             "type": "media",
             "name": "safe_volume_notification_icon",
             "order": 5109
+        },
+        {
+            "type": "string",
+            "name": "res_writting_tool_is_support",
+            "order": 5110
         }
     ]
 }
