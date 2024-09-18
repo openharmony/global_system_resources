@@ -291,6 +291,14 @@
         {
             "name": "window_radius_small",
             "value": "$float:corner_radius_level16"
-        }  
+        },
+        {
+            "name": "button_container_border_radius_small",
+            "value": "$float:corner_radius_level7"
+        },
+        {
+            "name": "button_container_border_radius_normal",
+            "value": "$float:corner_radius_level10"
+        }
     ]
   }
