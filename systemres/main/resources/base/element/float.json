@@ -3317,6 +3317,10 @@
             "value": "5"
         },
         {
+            "name": "dialog_divider_show",
+            "value": "1"
+        },
+        {
             "name": "button_aging_normal_padding",
             "value": "8.0vp"
         },
@@ -3327,10 +3331,6 @@
         {
             "name": "button_aging_text_max_lines",
             "value": "2.0"
-        },
-        {
-            "name": "dialog_divider_show",
-            "value": "1"
         },
         {
             "name": "ohos_id_dialog_alignment",
@@ -3439,10 +3439,6 @@
         {
             "name": "dialog_button_landscape_max_scale_aging",
             "value": "2.0"
-        },
-        {
-            "name": "option_min_height",
-            "value": "48.0vp"
         },
         {
             "name": "dialog_min_scale_aging",
