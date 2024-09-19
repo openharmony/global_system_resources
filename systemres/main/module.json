@@ -2105,15 +2105,6 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.CAMERA_BACKGROUND",
-                "grantMode": "system_grant",
-                "availableLevel": "system_core",
-                "since": 13,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
                 "name": "ohos.permission.RECEIVER_STARTUP_COMPLETED",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
