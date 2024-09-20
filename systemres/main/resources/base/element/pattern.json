@@ -3346,6 +3346,10 @@
                 {
                     "name": "rating_focus_border_width",
                     "value": "$float:ohos_id_rating_focus_border_width"
+                },
+                {
+                    "name": "rating_disable_alpha",
+                    "value": "$float:ohos_id_alpha_disabled"
                 }
             ]
         },
