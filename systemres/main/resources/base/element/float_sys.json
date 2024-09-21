@@ -790,7 +790,7 @@
         },
         {
             "name": "search_icon_size",
-            "value": "$float:ohos_id_search_icon_size"
+            "value": "16.0_fp"
         },
         {
             "name": "search_icon_height",
@@ -1247,6 +1247,10 @@
         {
             "name": "textfield_direction_keys_move_focus_out",
             "value": "0.0"
+        },
+        {
+            "name": "search_focus_glow_padding_sys",
+            "value": "1.0vp"
         }
     ]
   }

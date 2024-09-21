@@ -334,7 +334,7 @@
                 },
                 {
                     "name": "focus_paint_padding",
-                    "value": "switch_focus_paint_padding_sys"
+                    "value": "$float:switch_focus_paint_padding_sys"
                 },
                 {
                     "name": "hover_animation_duration",
@@ -3917,6 +3917,10 @@
                 {
                     "name": "search_need_focus_box",
                     "value": "$float:search_need_focus_box"
+                },
+                {
+                    "name": "search_focus_glow_padding",
+                    "value": "$float:search_focus_glow_padding_sys"
                 }
             ]
         },
