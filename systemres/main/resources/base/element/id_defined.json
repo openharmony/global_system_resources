@@ -25837,6 +25837,31 @@
             "type": "string",
             "name": "desc_developer_mode_tips",
             "order": 5117
+        },
+        {
+            "type": "float",
+            "name": "select_border_radius_default",
+            "order": 5118
+        },
+        {
+            "type": "float",
+            "name": "select_border_radius_normal",
+            "order": 5119
+        },
+        {
+            "type": "float",
+            "name": "select_border_radius_small",
+            "order": 5120
+        },
+        {
+            "type": "float",
+            "name": "chip_border_radius_normal",
+            "order": 5121
+        },
+        {
+            "type": "float",
+            "name": "chip_border_radius_small",
+            "order": 5122
         }
     ]
 }
