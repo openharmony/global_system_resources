@@ -101,16 +101,20 @@
             "value": "$float:corner_radius_level2"
         },
         {
-            "name": "bottom_tab_text_size_normal",
-            "value": "12.0vp"
-        },
-        {
             "name": "button_container_border_radius_small",
             "value": "$float:corner_radius_level4"
         },
         {
             "name": "button_container_border_radius_normal",
             "value": "$float:corner_radius_level4"
+        },
+        {
+            "name": "chip_border_radius_normal",
+            "value": "8.0vp"
+        },
+        {
+            "name": "chip_border_radius_small",
+            "value": "8.0vp"
         }
     ]
 }

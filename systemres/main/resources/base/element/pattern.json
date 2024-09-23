@@ -4970,7 +4970,7 @@
                 },
                 {
                     "name": "border_radius",
-                    "value": "$float:ohos_id_corner_radius_button"
+                    "value": "$float:select_border_radius_default"
                 },
                 {
                     "name": "menu_border_radius",
@@ -5138,11 +5138,11 @@
                 },
                 {
                     "name": "select_default_border_radius",
-                    "value": "$float:ohos_id_corner_radius_button"
+                    "value": "$float:select_border_radius_normal"
                 },
                 {
                     "name": "small_select_border_radius",
-                    "value": "$float:ohos_id_corner_radius_small_button"
+                    "value": "$float:select_border_radius_small"
                 },
                 {
                     "name": "select_default_bg_color",
