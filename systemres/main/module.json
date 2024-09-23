@@ -4320,6 +4320,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": true
+            },
+            {
+                "name": "ohos.permission.ACCESS_ANALYTICS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
