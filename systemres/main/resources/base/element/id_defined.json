@@ -24790,12 +24790,14 @@
         {
             "type": "float",
             "name": "chip_normal_focused_fontsize",
-            "order": 4920
+            "order": 4920,
+            "flag": "private"
         },
         {
             "type": "float",
             "name": "chip_small_focused_fontsize",
-            "order": 4921
+            "order": 4921,
+            "flag": "private"
         },
         {
             "type": "float",
@@ -24919,7 +24921,7 @@
         },
         {
             "type": "float",
-            "name": "chip_activated_fontweight",
+            "name": "chip_text_fontweight",
             "order": 4945
         },
         {
