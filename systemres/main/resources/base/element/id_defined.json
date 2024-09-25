@@ -24412,6 +24412,26 @@
             "type": "float",
             "name": "ohos_id_toast_limit_height_ratio",
             "order": 4845
+        },
+        {
+            "type": "float",
+            "name": "arc_button_height",
+            "order": 4846
+        },
+        {
+            "type": "float",
+            "name": "arc_button_auxiliary_circle_diameter",
+            "order": 4847
+        },
+        {
+            "type": "float",
+            "name": "arc_button_dial_circle_diameter",
+            "order": 4848
+        },
+        {
+            "type": "float",
+            "name": "arc_button_chamfer_radius",
+            "order": 4849
         }
     ]
 }
