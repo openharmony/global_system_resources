@@ -291,6 +291,30 @@
         {
             "name": "window_radius_small",
             "value": "$float:corner_radius_level16"
-        }  
+        },
+        {
+            "name": "button_container_border_radius_small",
+            "value": "$float:corner_radius_level7"
+        },
+        {
+            "name": "button_container_border_radius_normal",
+            "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "bottom_tab_text_size_normal",
+            "value": "10.0vp"
+        },
+        {
+            "name": "select_border_radius_default",
+            "value": "20.0vp"
+        },
+        {
+            "name": "select_border_radius_normal",
+            "value": "20.0vp"
+        },
+        {
+            "name": "select_border_radius_small",
+            "value": "14.0vp"
+        }
     ]
   }

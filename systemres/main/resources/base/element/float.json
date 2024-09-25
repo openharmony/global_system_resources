@@ -3549,8 +3549,20 @@
             "value": "1.45"
         },
         {
-            "name": "bottom_tab_text_size_normal",
-            "value": "10.0vp"
+            "name": "swiper_velocity_coefficient_touch_pad",
+            "value": "1.0"
+        },
+        {
+            "name": "chip_border_radius_normal",
+            "value": "18.0vp"
+        },
+        {
+            "name": "chip_border_radius_small",
+            "value": "14.0vp"
+        },
+        {
+            "name": "ohos_id_search_text_field_right_padding_without_button",
+            "value": "12.0vp"
         }
     ]
 }

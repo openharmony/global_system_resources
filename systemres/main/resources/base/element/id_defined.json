@@ -25807,6 +25807,66 @@
             "type": "float",
             "name": "bottom_tab_text_size_normal",
             "order": 5111
+        },
+        {
+            "type": "float",
+            "name": "button_container_border_radius_small",
+            "order": 5112
+        },
+        {
+            "type": "float",
+            "name": "button_container_border_radius_normal",
+            "order": 5113
+        },
+        {
+            "type": "float",
+            "name": "swiper_velocity_coefficient_touch_pad",
+            "order": 5114
+        },
+        {
+            "type": "string",
+            "name": "general_get_it",
+            "order": 5115
+        },
+        {
+            "type": "string",
+            "name": "lab_developer_mode_tips",
+            "order": 5116
+        },
+        {
+            "type": "string",
+            "name": "desc_developer_mode_tips",
+            "order": 5117
+        },
+        {
+            "type": "float",
+            "name": "select_border_radius_default",
+            "order": 5118
+        },
+        {
+            "type": "float",
+            "name": "select_border_radius_normal",
+            "order": 5119
+        },
+        {
+            "type": "float",
+            "name": "select_border_radius_small",
+            "order": 5120
+        },
+        {
+            "type": "float",
+            "name": "chip_border_radius_normal",
+            "order": 5121
+        },
+        {
+            "type": "float",
+            "name": "chip_border_radius_small",
+            "order": 5122
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_search_text_field_right_padding_without_button",
+            "order": 5123
         }
     ]
 }
