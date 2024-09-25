@@ -3569,6 +3569,10 @@
                 {
                     "name": "search_symbol_icon_color",
                     "value": "$color:font_secondary"
+                },
+                {
+                    "name": "search_text_field_right_padding_without_button",
+                    "value": "$float:ohos_id_search_text_field_right_padding_without_button"
                 }
             ]
         },
