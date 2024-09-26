@@ -1493,6 +1493,10 @@
                     "value": "$float:ohos_id_checkbox_focus_radius"
                 },
                 {
+                    "name": "focus_white_border_radius",
+                    "value": "$float:focus_white_border_radius_sys"
+                },
+                {
                     "name": "hover_animation_duration",
                     "value": "$float:ohos_id_hover_animation_duration_default"
                 },
@@ -7464,6 +7468,10 @@
                     "value": "$float:sheet_title_text_margin"
                 },
                 {
+                    "name": "title_text_horizontal_margin",
+                    "value": "$float:sheet_title_text_horizontal_margin"
+                },
+                {
                     "name": "subtitle_text_font_size",
                     "value": "$float:ohos_id_text_size_sub_title3"
                 },
@@ -7485,7 +7493,7 @@
                 },
                 {
                     "name": "sheet_type",
-                    "value": "$string:ohos_id_sheet_type"
+                    "value": "$string:sheet_type_sys"
                 },
                 {
                     "name": "sheet_bottom",

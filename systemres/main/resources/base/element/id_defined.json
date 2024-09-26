@@ -26532,6 +26532,21 @@
             "type": "float",
             "name": "search_focus_glow_padding_sys",
             "order": 5263
+        },
+        {
+            "type": "string",
+            "name": "sheet_type_sys",
+            "order": 5264
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_text_horizontal_margin",
+            "order": 5265
+        },
+        {
+            "type": "float",
+            "name": "focus_white_border_radius_sys",
+            "order": 5266
         }
     ]
 }
