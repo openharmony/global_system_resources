@@ -4404,6 +4404,18 @@
                     "value": "$color:icon_primary"
                 },
                 {
+                    "name": "textfield_writting_bundle_name",
+                    "value": "$string:res_writting_tool_bundle_name"
+                },
+                {
+                    "name": "textfield_writting_ability_name",
+                    "value": "$string:res_writting_tool_ability_name"
+                },
+                {
+                    "name": "textfield_writting_is_support",
+                    "value": "$string:res_writting_tool_is_support"
+                },
+                {
                     "name": "glass_material_outline_primary",
                     "value": "$color:glass_material_outline_primary"
                 },
@@ -4479,6 +4491,10 @@
                 {
                     "name": "camera_input",
                     "value": "$string:ohos_id_text_camera_input"
+                },
+                {
+                    "name": "ai_write_menu_name",
+                    "value": "$string:ai_write_menu_name"
                 },
                 {
                     "name": "text_overlay_menu_border_color",
@@ -5803,6 +5819,10 @@
                 {
                     "name": "ic_public_albums",
                     "value": "$media:ohos_ic_public_albums"
+                },
+                {
+                    "name": "ic_public_ai_write",
+                    "value": ""
                 }
             ]
         },
@@ -6538,6 +6558,18 @@
                 {
                     "name": "rich_editor_show_handle",
                     "value": "$string:ohos_textfield_show_handle"
+                },
+                {
+                    "name": "rich_editor_writting_bundle_name",
+                    "value": "$string:res_writting_tool_bundle_name"
+                },
+                {
+                    "name": "rich_editor_writting_ability_name",
+                    "value": "$string:res_writting_tool_ability_name"
+                },
+                {
+                    "name": "rich_editor_writting_is_support",
+                    "value": "$string:res_writting_tool_is_support"
                 },
                 {
                     "name": "drag_corner_radius",

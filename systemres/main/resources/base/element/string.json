@@ -653,6 +653,10 @@
             "value": "Photo input"
         },
         {
+            "name": "ai_write_menu_name",
+            "value": ""
+        },
+        {
             "name": "ohos_id_section_unfocus_effect_enable_default",
             "value": "0"
         },
@@ -835,6 +839,18 @@
         {
             "name" : "ohos_toolbar_more",
             "value" : "More"
+        },
+        {
+            "name": "res_writting_tool_bundle_name",
+            "value": "com.huawei.hmos.vassistant"
+        },
+        {
+            "name": "res_writting_tool_ability_name",
+            "value": "AiofficeAbility"
+        },
+        {
+            "name": "res_writting_tool_is_support",
+            "value": "false"
         },
         {
             "name": "ohos_lab_short_term_write_imagevideo",
