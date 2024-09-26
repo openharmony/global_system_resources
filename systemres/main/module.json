@@ -45,6 +45,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_LEARN_MORE_DIALOG",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.USE_BLUETOOTH",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
