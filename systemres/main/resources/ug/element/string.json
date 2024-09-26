@@ -161,8 +161,11 @@
             "value":"ئالاقىداش ئوقۇش"
         },
         {
-            "name":"ohos_lab_write_contacts",
-            "value":"ئالاقىداش قۇرۇش/ئۆزگەرتىش/ئۆچۈرۈش"
+            "name": "ohos_lab_write_contacts",
+            "value": "ئالاقىداش قۇرۇش/ئۆزگەرتىش/ئۆچۈرۈش",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name":"ohos_lab_write_whole_calendar",
@@ -217,8 +220,11 @@
             "value":"تاللاندى"
         },
         {
-            "name":"slider_accessibility_unselected",
-            "value":"تاللانمىدى"
+            "name": "slider_accessibility_unselected",
+            "value": "تاللانمىدى",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name":"slider_accessibility_unselectedDesc",
@@ -343,6 +349,48 @@
         {
             "name": "textfield_accessibility_clear",
             "value": "تازىلاش"
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_tittle",
+            "value": "بىخەتەر چەكتىن ئاشۇرۇپ ئۈنلۈكلىتەمسىز؟",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_context",
+            "value": "ئۇزاق ۋاقىت يۇقىرى ئاۋازدا ئاڭلاش قۇلاققا زىيانلىق، ئۈنلۈكلىتەمسىز؟",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_button",
+            "value": "ئەسلىگە كەلتۈرۈش",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_context",
+            "value": "ئاڭلاش سېزىمىنى قوغداش ئۈچۈن ئۈن بىخەتەر دائىرىگە تۆۋەنلىتىلدى.",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_tittle",
+            "value": "ئۈن تۆۋەنلىتىلدى",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_button",
+            "value": "ئۈنلۈكلىتىش",
+            "attr": {
+                "priority": "translate"
+            }
         }
     ]
 }

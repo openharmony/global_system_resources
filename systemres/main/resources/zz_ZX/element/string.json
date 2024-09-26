@@ -215,6 +215,30 @@
         {
             "name":"save_button_description_export_to_gallery",
             "value":"[TS_966648]_Export"
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"[TS_971305]_Volume automatically lowered"
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"[TS_971307]_Listening at high volumes for a long time can damage your hearing."
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"[TS_971308]_Restore volume"
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"[TS_971303]_Raise volume above safe level?"
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"[TS_971306]_Listening at high volumes for a long time can damage your hearing."
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"[TS_971304]_Raise volume"
         }
     ]
 }
