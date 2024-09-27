@@ -25757,6 +25757,51 @@
             "type": "string",
             "name": "ohos_desc_short_term_write_imagevideo",
             "order": 5101
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_dialog_mask_color_end_dark",
+            "order": 5102
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_notification_restore_volume_tittle",
+            "order": 5103
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_notification_restore_volume_context",
+            "order": 5104
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_notification_restore_volume_button",
+            "order": 5105
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_notification_increase_volume_tittle",
+            "order": 5106
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_notification_increase_volume_context",
+            "order": 5107
+        },
+        {
+            "type": "string",
+            "name": "ohos_id_notification_increase_volume_button",
+            "order": 5108
+        },
+        {
+            "type": "media",
+            "name": "safe_volume_notification_icon",
+            "order": 5109
+        },
+        {
+            "type": "string",
+            "name": "res_writting_tool_is_support",
+            "order": 5110
         }
     ]
 }
