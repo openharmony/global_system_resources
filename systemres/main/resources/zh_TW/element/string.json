@@ -161,8 +161,11 @@
             "value":"讀取聯絡人"
         },
         {
-            "name":"ohos_lab_write_contacts",
-            "value":"新建/修改/刪除聯絡人"
+            "name": "ohos_lab_write_contacts",
+            "value": "新增/修改/刪除聯絡人",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name":"ohos_lab_write_whole_calendar",
@@ -217,8 +220,11 @@
             "value":"已選中"
         },
         {
-            "name":"slider_accessibility_unselected",
-            "value":"未選取"
+            "name": "slider_accessibility_unselected",
+            "value": "未選取",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name":"slider_accessibility_unselectedDesc",
@@ -343,6 +349,48 @@
         {
             "name": "textfield_accessibility_clear",
             "value": "清除"
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_tittle",
+            "value": "將音量提高到安全範圍以上",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_context",
+            "value": "長時間保持高音量，可能會損傷聽力。確定提高音量？",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_button",
+            "value": "復原音量",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_context",
+            "value": "為保護聽力，音量已降低至安全範圍。",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "ohos_id_notification_restore_volume_tittle",
+            "value": "長時間保持高音量可能損傷聽力",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "ohos_id_notification_increase_volume_button",
+            "value": "提高音量",
+            "attr": {
+                "priority": "translate"
+            }
         }
     ]
 }

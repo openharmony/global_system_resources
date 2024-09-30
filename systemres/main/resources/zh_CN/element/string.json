@@ -138,7 +138,10 @@
         },
         {
             "name": "ohos_lab_write_contacts",
-            "value": "新建/修改/删除通讯录"
+            "value": "新建/修改/删除通讯录",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_desc_write_contacts",
@@ -742,7 +745,10 @@
         },
         {
             "name": "slider_accessibility_unselected",
-            "value": "未选中"
+            "value": "未选中",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "slider_accessibility_unselectedDesc",
@@ -970,27 +976,45 @@
         },
         {
             "name": "ohos_id_notification_restore_volume_tittle",
-            "value": "长时间保持高音量可能损伤听力"
+            "value": "长时间保持高音量可能损伤听力",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_id_notification_restore_volume_context",
-            "value": "为保护听力，音量已降低至安全范围。"
+            "value": "为保护听力，音量已降低至安全范围。",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_id_notification_restore_volume_button",
-            "value": "恢复音量"
+            "value": "恢复音量",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_id_notification_increase_volume_tittle",
-            "value": "提高音量到安全范围以上"
+            "value": "提高音量到安全范围以上",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_id_notification_increase_volume_context",
-            "value": "长时间保持高音量可能会损伤听力。确定提高音量？"
+            "value": "长时间保持高音量可能会损伤听力。",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_id_notification_increase_volume_button",
-            "value": "提高音量"
+            "value": "提高音量",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_get_it",

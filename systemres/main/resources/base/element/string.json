@@ -146,7 +146,10 @@
         },
         {
             "name": "ohos_lab_write_contacts",
-            "value": "Create, modify, and delete contacts"
+            "value": "Create, modify, and delete contacts",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name": "ohos_desc_write_contacts",
@@ -858,7 +861,10 @@
         },
         {
             "name": "slider_accessibility_unselected",
-            "value": "Not selected"
+            "value": "Not selected",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "slider_accessibility_unselectedDesc",
@@ -1086,27 +1092,45 @@
         },
         {
             "name": "ohos_id_notification_restore_volume_tittle",
-            "value": "Keeping the volume high for long periods of time can damage hearing"
+            "value": "Volume automatically lowered",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_id_notification_restore_volume_context",
-            "value": "To protect hearing, the volume has been lowered to a safe range."
+            "value": "Listening at high volumes for a long time can damage your hearing.",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_id_notification_restore_volume_button",
-            "value": "Restore the volume"
+            "value": "Restore volume",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_id_notification_increase_volume_tittle",
-            "value": "Increase the volume above the safe range"
+            "value": "Raise volume above safe level?",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_id_notification_increase_volume_context",
-            "value": "Keeping the volume high for a long time may damage your hearing. Are you sure you want to increase the volume?"
+            "value": "Listening at high volumes for a long time can damage your hearing.",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_id_notification_increase_volume_button",
-            "value": "Turn up the volume"
+            "value": "Raise volume",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_get_it",
