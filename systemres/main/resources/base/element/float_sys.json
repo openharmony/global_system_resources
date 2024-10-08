@@ -1275,6 +1275,54 @@
         {
             "name": "option_focus_style_type_sys",
             "value": "0.0"
+        },
+        {
+            "name": "dialog_title_font_weight",
+            "value": "4"
+        },
+        {
+            "name": "dialog_tip_image_size",
+            "value": "64.0vp"
+        },
+        {
+            "name": "dialog_tip_text_top_padding",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "dialog_content_font_weight",
+            "value": "3"
+        },
+        {
+            "name": "dialog_checkbox_top_padding",
+            "value": "8.0vp"
+        },
+        {
+            "name": "dialog_checkbox_bottom_padding",
+            "value": "8.0vp"
+        },
+        {
+            "name": "dialog_subtitle_font_size",
+            "value": "$float:Subtitle_S"
+        },
+        {
+            "name": "dialog_error_button_style",
+            "value": "$float:alert_button_style"
+        },
+        {
+            "name": "dialog_checkbox_end_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "dialog_checkbox_min_height",
+            "value": "48.0vp"
+        },
+        {
+            "name": "dialog_content_right_margin",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "dialog_scroll_right_margin",
+            "value": "$float:padding_level8"
         }
     ]
   }
