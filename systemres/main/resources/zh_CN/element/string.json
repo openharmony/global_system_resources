@@ -661,19 +661,31 @@
         },
         {
             "name": "ohos_grid_edit_title_edit",
-            "value": "编辑"
+            "value": "编辑",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_grid_edit_title_chanel",
-            "value": "频道"
+            "value": "频道",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_grid_edit_subtitle_sort",
-            "value": "长按拖动排序"
+            "value": "长按拖动排序",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_grid_edit_subtitle_add",
-            "value": "点击添加"
+            "value": "点击添加",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_network_not_connected",
@@ -709,15 +721,24 @@
         },
         {
             "name": "icon_save",
-            "value": "保存"
+            "value": "保存",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "icon_cancel",
-            "value": "取消"
+            "value": "取消",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "icon_back",
-            "value": "返回"
+            "value": "返回",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name" : "form_disable_time_limit",
@@ -736,8 +757,11 @@
             "value" : "不显示密码明文"
         },
         {
-            "name" : "ohos_toolbar_more",
-            "value" : "更多"
+            "name": "ohos_toolbar_more",
+            "value": "更多",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "slider_accessibility_selected",
