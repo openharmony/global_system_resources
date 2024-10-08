@@ -661,6 +661,10 @@
             "value": "2.0vp"
         },
         {
+            "name": "ohos_id_slider_crown_display_control_ratio",
+            "value": "2.1"
+        },
+        {
             "name": "ohos_id_text_overlay_outer_handle_diameter",
             "value": "14.0vp"
         },
@@ -3563,6 +3567,38 @@
         {
             "name": "ohos_id_search_text_field_right_padding_without_button",
             "value": "12.0vp"
+        },
+        {
+            "name": "swiper_slow_velocity_threshold",
+            "value": "3.38"
+        },
+        {
+            "name": "swiper_display_control_ratio_slow",
+            "value": "3.12"
+        },
+        {
+            "name": "swiper_display_control_ratio_fast",
+            "value": "2.74"
+        },
+        {
+            "name": "swiper_crown_sensitivity_low",
+            "value": "0.5"
+        },
+        {
+            "name": "swiper_crown_sensitivity_medium",
+            "value": "1.0"
+        },
+        {
+            "name": "swiper_crown_sensitivity_high",
+            "value": "2.0"
+        },
+        {
+            "name": "swiper_spring_velocity_threshold",
+            "value": "9.02"
+        },
+        {
+            "name": "swiper_crown_translocation_ratio",
+            "value": "0.6"
         }
     ]
 }
