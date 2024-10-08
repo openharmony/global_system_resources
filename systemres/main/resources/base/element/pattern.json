@@ -4203,6 +4203,10 @@
                 {
                     "name": "swiper_focus_border_width",
                     "value": "$float:swiper_focus_border_width_sys"
+                },
+                {
+                    "name": "swiper_focus_style_type",
+                    "value": "$float:swiper_focus_style_type_sys"
                 }
             ]
         },
@@ -6023,6 +6027,10 @@
                 {
                     "name": "select_focus_style_type",
                     "value": "$float:select_focus_style_type_sys"
+                },
+                {
+                    "name": "option_focus_style_type",
+                    "value": "$float:option_focus_style_type_sys"
                 }
             ]
         },
