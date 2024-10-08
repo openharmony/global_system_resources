@@ -97,32 +97,53 @@
             "value":"ཉེར་སྤྱོད་ཀྱིས་པར་རྒྱག་སའི་གནས་ཡུལ་ལ་ལྟ་སྤྱོད་བྱེད་ཆོག"
         },
         {
-            "name": "ohos_grid_edit_title_edit",
-            "value": "རྩོམ་སྒྲིག"
+            "name":"ohos_grid_edit_title_edit",
+            "value":"རྩོམ་སྒྲིག",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_grid_edit_title_chanel",
-            "value": "ཟློས་ལམ།"
+            "name":"ohos_grid_edit_title_chanel",
+            "value":"ཟློས་ལམ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_grid_edit_subtitle_sort",
-            "value": "ཡུན་རིང་མནན་ནས་དྲུད་དེ་གོ་རིམ་སྒྲིག་ཆོག"
+            "name":"ohos_grid_edit_subtitle_sort",
+            "value":"ཡུན་རིང་མནན་ནས་དྲུད་དེ་གོ་རིམ་སྒྲིག་ཆོག",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_grid_edit_subtitle_add",
-            "value": "བརྡབས་ནས་སྣོན་པ།"
+            "name":"ohos_grid_edit_subtitle_add",
+            "value":"བརྡབས་ནས་སྣོན་པ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"icon_back",
-            "value":"ཕྱིར་ལོག"
+            "value":"ཕྱིར་ལོག",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"icon_cancel",
-            "value":"འདོར་བ།"
+            "value":"འདོར་བ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"icon_save",
-            "value":"ཉར་ཚགས།"
+            "value":"ཉར་ཚགས།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ohos_id_text_camera_input",
@@ -145,8 +166,11 @@
             "value" : "དུས་ཚོད་ཚད་བཀག་ལ་སླེབས།"
         },
         {
-            "name" : "ohos_toolbar_more",
-            "value" : "དེ་ལས་མང་བ།"
+            "name":"ohos_toolbar_more",
+            "value":"དེ་ལས་མང་བ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_read_calendar",

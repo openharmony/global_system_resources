@@ -97,32 +97,53 @@
             "value":"允許應用程式存取拍攝位置"
         },
         {
-            "name": "ohos_grid_edit_title_edit",
-            "value": "編輯"
+            "name":"ohos_grid_edit_title_edit",
+            "value":"編輯",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_grid_edit_title_chanel",
-            "value": "頻道"
+            "name":"ohos_grid_edit_title_chanel",
+            "value":"頻道",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_grid_edit_subtitle_sort",
-            "value": "長按拖曳排序"
+            "name":"ohos_grid_edit_subtitle_sort",
+            "value":"長按拖曳排序",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_grid_edit_subtitle_add",
-            "value": "輕觸新增"
+            "name":"ohos_grid_edit_subtitle_add",
+            "value":"輕觸新增",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"icon_back",
-            "value":"返回"
+            "value":"返回",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"icon_cancel",
-            "value":"取消"
+            "value":"取消",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"icon_save",
-            "value":"儲存"
+            "value":"儲存",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ohos_id_text_camera_input",
@@ -145,8 +166,11 @@
             "value" : "時間限額"
         },
         {
-            "name" : "ohos_toolbar_more",
-            "value" : "更多"
+            "name":"ohos_toolbar_more",
+            "value":"更多",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_read_calendar",

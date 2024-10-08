@@ -97,32 +97,53 @@
             "value":"رەسىمگە قوشۇلغان ئورۇن ئۇچۇرى"
         },
         {
-            "name": "ohos_grid_edit_title_edit",
-            "value": "تەھرىرلەش"
+            "name":"ohos_grid_edit_title_edit",
+            "value":"تەھرىرلەش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_grid_edit_title_chanel",
-            "value": "قانال"
+            "name":"ohos_grid_edit_title_chanel",
+            "value":"قانال",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_grid_edit_subtitle_sort",
-            "value": "سۆرەپ رەتلەڭ"
+            "name":"ohos_grid_edit_subtitle_sort",
+            "value":"سۆرەپ رەتلەڭ",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_grid_edit_subtitle_add",
-            "value": "چېكىپ قوشۇڭ"
+            "name":"ohos_grid_edit_subtitle_add",
+            "value":"چېكىپ قوشۇڭ",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"icon_back",
-            "value":"قايتىش"
+            "value":"قايتىش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"icon_cancel",
-            "value":"بىكار قىلىش"
+            "value":"بىكار قىلىش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"icon_save",
-            "value":"ساقلاش"
+            "value":"ساقلاش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ohos_id_text_camera_input",
@@ -145,8 +166,11 @@
             "value" : "ۋاقىت توشتى"
         },
         {
-            "name" : "ohos_toolbar_more",
-            "value" : "باشقىلار"
+            "name":"ohos_toolbar_more",
+            "value":"باشقىلار",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_read_calendar",

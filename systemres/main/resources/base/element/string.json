@@ -725,19 +725,31 @@
         },
         {
             "name": "ohos_grid_edit_title_edit",
-            "value": "Edit"
+            "value": "Edit",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name": "ohos_grid_edit_title_chanel",
-            "value": "Categories"
+            "value": "Categories",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name": "ohos_grid_edit_subtitle_sort",
-            "value": "Drag to sort"
+            "value": "Drag to sort",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name": "ohos_grid_edit_subtitle_add",
-            "value": "Tap to add"
+            "value": "Tap to add",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name": "ohos_network_not_connected",
@@ -801,15 +813,24 @@
         },
         {
             "name": "icon_save",
-            "value": "Save"
+            "value": "Save",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "icon_cancel",
-            "value": "Cancel"
+            "value": "Cancel",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "icon_back",
-            "value": "Back"
+            "value": "Back",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "menu_normal_layout",
@@ -840,8 +861,11 @@
             "value" : "Don't show password"
         },
         {
-            "name" : "ohos_toolbar_more",
-            "value" : "More"
+            "name": "ohos_toolbar_more",
+            "value": "More",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name": "res_writting_tool_bundle_name",
