@@ -25867,6 +25867,41 @@
             "type": "float",
             "name": "ohos_id_search_text_field_right_padding_without_button",
             "order": 5123
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_scroll_able_pattern",
+            "order": 5124
+        },
+        {
+            "type": "float",
+            "name": "scroll_able_friction",
+            "order": 5125
+        },
+        {
+            "type": "float",
+            "name": "scroll_able_fling_velocity_scale",
+            "order": 5126
+        },
+        {
+            "type": "float",
+            "name": "scroll_able_spring_velocity_scale",
+            "order": 5127
+        },
+        {
+            "type": "float",
+            "name": "scroll_able_over_edge_following_ratio",
+            "order": 5128
+        },
+        {
+            "type": "float",
+            "name": "scroll_able_spring_response",
+            "order": 5129
+        },
+        {
+            "type": "float",
+            "name": "scroll_able_touch_pad_velocity_scale_rate",
+            "order": 5130
         }
     ]
 }
