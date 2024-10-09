@@ -5530,7 +5530,7 @@
                 },
                 {
                     "name": "container_modal_window_close",
-                    "value": "$media:ohos_container_modal_window_close"
+                    "value": "$media:container_modal_window_close"
                 },
                 {
                     "name": "container_modal_window_defocus_close",
@@ -5554,15 +5554,15 @@
                 },
                 {
                     "name": "container_modal_window_maximize",
-                    "value": "$media:ohos_container_modal_window_maximize"
+                    "value": "$media:container_modal_window_maximize"
                 },
                 {
                     "name": "container_modal_window_minimize",
-                    "value": "$media:ohos_container_modal_window_minimize"
+                    "value": "$media:container_modal_window_minimize"
                 },
                 {
                     "name": "container_modal_window_recover",
-                    "value": "$media:ohos_container_modal_window_recover"
+                    "value": "$media:container_modal_window_recover"
                 },
                 {
                     "name": "container_modal_window_split_left",
@@ -5825,14 +5825,6 @@
                     "value": "$media:ohos_ic_public_search_filled"
                 },
                 {
-                    "name": "ic_window_close",
-                    "value": "$media:ohos_ic_window_close"
-                },
-                {
-                    "name": "ic_window_max",
-                    "value": "$media:ohos_ic_window_max"
-                },
-                {
                     "name": "ic_window_menu_fullscreen",
                     "value": "$media:ohos_ic_window_menu_fullscreen"
                 },
@@ -5851,14 +5843,6 @@
                 {
                     "name": "ic_window_menu_screen_n",
                     "value": "$media:ohos_ic_window_menu_screen_n"
-                },
-                {
-                    "name": "ic_window_min",
-                    "value": "$media:ohos_ic_window_min"
-                },
-                {
-                    "name": "ic_window_restores",
-                    "value": "$media:ohos_ic_window_restores"
                 },
                 {
                     "name": "paste_button_line",
