@@ -2942,6 +2942,18 @@
                 {
                     "name": "picker_show_count_portrait",
                     "value": "$float:ohos_id_picker_show_count_portrait"
+                },
+                {
+                    "name": "picker_background_color",
+                    "value": "$color:ohos_id_picker_background_color"
+                },
+                {
+                    "name": "picker_crown_sensitivity",
+                    "value": "$float:ohos_id_picker_crown_sensitivity"
+                },
+                {
+                    "name": "picker_digital_circle",
+                    "value": "$float:picker_digital_circle"
                 }
             ]
         },
