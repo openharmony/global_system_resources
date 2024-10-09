@@ -3563,6 +3563,30 @@
         {
             "name": "ohos_id_search_text_field_right_padding_without_button",
             "value": "12.0vp"
+        },
+        {
+            "name": "scroll_able_friction",
+            "value": "0.75"
+        },
+        {
+            "name": "scroll_able_fling_velocity_scale",
+            "value": "1.5"
+        },
+        {
+            "name": "scroll_able_spring_velocity_scale",
+            "value": "1.5"
+        },
+        {
+            "name": "scroll_able_over_edge_following_ratio",
+            "value": "1.848"
+        },
+        {
+            "name": "scroll_able_spring_response",
+            "value": "0.417"
+        },
+        {
+            "name": "scroll_able_touch_pad_velocity_scale_rate",
+            "value": "1.0"
         }
     ]
 }

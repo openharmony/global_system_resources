@@ -7657,6 +7657,35 @@
                     "value": "$float:padding_level8" 
                 }
             ]
+        },
+        {
+            "name": "ohos_scroll_able_pattern",
+            "value": [
+                {
+                    "name": "scroll_able_friction",
+                    "value": "$float:scroll_able_friction"
+                },
+                {
+                    "name": "scroll_able_fling_velocity_scale",
+                    "value": "$float:scroll_able_fling_velocity_scale"
+                },
+                {
+                    "name": "scroll_able_spring_velocity_scale",
+                    "value": "$float:scroll_able_spring_velocity_scale" 
+                },
+                {
+                    "name": "scroll_able_over_edge_following_ratio",
+                    "value": "$float:scroll_able_over_edge_following_ratio" 
+                },
+                {
+                    "name": "scroll_able_spring_response",
+                    "value": "$float:scroll_able_spring_response" 
+                },
+                {
+                    "name": "scroll_able_touch_pad_velocity_scale_rate",
+                    "value": "$float:scroll_able_touch_pad_velocity_scale_rate" 
+                }
+            ]
         }
     ]
 }
