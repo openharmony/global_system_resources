@@ -25902,6 +25902,11 @@
             "type": "float",
             "name": "scroll_able_touch_pad_velocity_scale_rate",
             "order": 5130
+        },
+        {
+            "type": "string",
+            "name": "delete_used_for_accessibility_text",
+            "order": 5131
         }
     ]
 }
