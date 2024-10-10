@@ -26617,6 +26617,21 @@
             "type": "float",
             "name": "dialog_scroll_right_margin",
             "order": 5280
+        },
+        {
+            "type": "float",
+            "name": "text_button_font_size",
+            "order": 5281
+        },
+        {
+            "type": "float",
+            "name": "apply_text_font_size",
+            "order": 5282
+        },
+        {
+            "type": "float",
+            "name": "checkbox_default_round_padding_size",
+            "order": 5283
         }
     ]
 }
