@@ -2,87 +2,150 @@
     "string":[
         {
             "name":"ohos_id_text_location_button_description_current_position",
-            "value":"تۇرۇشلۇق ئورۇن"
+            "value":"تۇرۇشلۇق ئورۇن",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_save",
-            "value":"ساقلاش"
+            "value":"ساقلاش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_save_image",
-            "value":"رەسىم ساقلاش"
+            "value":"رەسىم ساقلاش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_download",
-            "value":"چۈشۈرۈش"
+            "value":"چۈشۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_save_file",
-            "value":"ھۆججەت ساقلاش"
+            "value":"ھۆججەت ساقلاش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_receive",
-            "value":"قوبۇللاش"
+            "value":"قوبۇللاش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_save_to_gallery",
-            "value":"ئامبارغا ساقلاش"
+            "value":"ئامبارغا ساقلاش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_add_location",
-            "value":"ئورۇن قوشۇش"
+            "value":"ئورۇن قوشۇش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_paste_button_description_paste",
-            "value":"چاپلاش"
+            "value":"چاپلاش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_download_and_share",
-            "value":"چۈشۈرۈش ۋە ئورتاقلىشىش"
+            "value":"چۈشۈرۈش ۋە ئورتاقلىشىش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_select_location",
-            "value":"ئورۇن تاللاش"
+            "value":"ئورۇن تاللاش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_continue_to_receive",
-            "value":"قوبۇللاش"
+            "value":"قوبۇللاش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_send_current_location",
-            "value":"ئورۇن يوللاش"
+            "value":"ئورۇن يوللاش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_download_file",
-            "value":"ھۆججەت چۈشۈرۈش"
+            "value":"ھۆججەت چۈشۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_locating",
-            "value":"ئورۇن بەلگىلەش"
+            "value":"ئورۇن بەلگىلەش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_share_location",
-            "value":"ئورۇن ئورتاقلىشىش"
+            "value":"ئورۇن ئورتاقلىشىش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_send_location",
-            "value":"ئورۇن يوللاش"
+            "value":"ئورۇن يوللاش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_current_location",
-            "value":"نۆۋەتتىكى ئورۇن"
+            "value":"نۆۋەتتىكى ئورۇن",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_punch_in",
-            "value":"يوقلىما"
+            "value":"يوقلىما",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_relocation",
-            "value":"قايتا ئورۇن بەلگىلەش"
+            "value":"قايتا ئورۇن بەلگىلەش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_location",
-            "value":"ئورۇن"
+            "value":"ئورۇن",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name": "ohos_add_form_to_desktop",
@@ -201,15 +264,24 @@
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
-            "value":"تېز ساقلاش"
+            "value":"تېز ساقلاش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
-            "value":"قايتا ساقلاش"
+            "value":"قايتا ساقلاش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"save_button_description_export_to_gallery",
-            "value":"چىقىرىش"
+            "value":"چىقىرىش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_mon",
