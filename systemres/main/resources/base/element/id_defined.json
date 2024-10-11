@@ -25907,6 +25907,26 @@
             "type": "string",
             "name": "delete_used_for_accessibility_text",
             "order": 5131
+        },
+        {
+            "type": "float",
+            "name": "subheader_single_title_height",
+            "order": 5132
+        },
+        {
+            "type": "float",
+            "name": "subheader_single_subtitle_height",
+            "order": 5133
+        },
+        {
+            "type": "float",
+            "name": "subheader_double_height",
+            "order": 5134
+        },
+        {
+            "type": "float",
+            "name": "subheader_title_font_weight",
+            "order": 5135
         }
     ]
 }
