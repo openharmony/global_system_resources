@@ -4095,6 +4095,10 @@
                     "value": "$float:ohos_id_text_font_size"
                 },
                 {
+                    "name": "text_caret_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
                     "name": "bg_color_selected",
                     "value": "$color:ohos_id_color_text_highlight_bg"
                 },
