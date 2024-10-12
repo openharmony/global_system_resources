@@ -863,6 +863,50 @@
         {
             "name": "ohos_desc_short_term_write_imagevideo",
             "value": "可申请此权限的特殊场景与功能：1.应用无法使用安全保存控件，例如H5网页应用等。2.存在连续多次保存图片/视频的场景，无法使用保存确认弹框，一次保存多个图片/视频。"
+        },
+        {
+            "name": "slider_accessibility_selected",
+            "value": "已选中"
+        },
+        {
+            "name": "slider_accessibility_unselected",
+            "value": "未选中"
+        },
+        {
+            "name": "slider_accessibility_unselectedDesc",
+            "value": "单指双击即可选中"
+        },
+        {
+            "name": "slider_accessibility_disabledDesc",
+            "value": "不可用"
+        },
+        {
+            "name": "calendar_picker_mon",
+            "value": "星期一"
+        },
+        {
+            "name": "calendar_picker_tue",
+            "value": "星期二"
+        },
+        {
+            "name": "calendar_picker_wed",
+            "value": "星期三"
+        },
+        {
+            "name": "calendar_picker_thu",
+            "value": "星期四"
+        },
+        {
+            "name": "calendar_picker_fri",
+            "value": "星期五"
+        },
+        {
+            "name": "calendar_picker_sat",
+            "value": "星期六"
+        },
+        {
+            "name": "calendar_picker_sun",
+            "value": "星期日"
         }
     ]
 }

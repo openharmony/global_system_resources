@@ -165,6 +165,50 @@
             "value":"[TS_915235]_Allows an application to add, modify, and delete the whole calendar events."
         },
         {
+            "name":"calendar_picker_mon",
+            "value":"[TS_966545]_Monday"
+        },
+        {
+            "name":"calendar_picker_tue",
+            "value":"[TS_966542]_Tuesday"
+        },
+        {
+            "name":"calendar_picker_wed",
+            "value":"[TS_966547]_Wednesday"
+        },
+        {
+            "name":"calendar_picker_thu",
+            "value":"[TS_966544]_Thursday"
+        },
+        {
+            "name":"calendar_picker_fri",
+            "value":"[TS_966546]_Friday"
+        },
+        {
+            "name":"calendar_picker_sat",
+            "value":"[TS_966543]_Saturday"
+        },
+        {
+            "name":"calendar_picker_sun",
+            "value":"[TS_966548]_Sunday"
+        }, 
+        {
+            "name":"slider_accessibility_selected",
+            "value":"[TS_959500]_Selected"
+        },
+        {
+            "name":"slider_accessibility_unselected",
+            "value":"[TS_959502]_Not selected"
+        },
+        {
+            "name":"slider_accessibility_unselectedDesc",
+            "value":"[TS_959501]_Double-tap to select"
+        },
+        {
+            "name":"slider_accessibility_disabledDesc",
+            "value":"[TS_959503]_Not available"
+        },
+        {
             "name":"save_button_description_quick_save_to_gallery",
             "value":"[TS_966649]_Save to Gallery"
         },
