@@ -274,6 +274,14 @@
                 {
                     "name": "normal_button_focus_bgcolor",
                     "value": "$color:normal_button_focus_bgcolor"
+                },
+                {
+                    "name": "text_button_font_size",
+                    "value": "$float:text_button_font_size"
+                },
+                {
+                    "name": "apply_text_font_size",
+                    "value": "$float:apply_text_font_size"
                 }
             ]
         },
@@ -1554,6 +1562,10 @@
                 },
                 {
                     "name": "checkbox_default_padding_size",
+                    "value": "2.0vp"
+                },
+                {
+                    "name": "checkbox_default_round_padding_size",
                     "value": "2.0vp"
                 },
                 {
