@@ -524,100 +524,172 @@
             "value": "Allows an application to get the installed bundle list."
         },
         {
-            "name": "ohos_id_text_location_button_description_current_location",
-            "value": "Current location"
+            "name":"ohos_id_text_location_button_description_current_location",
+            "value":"Current location",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_add_location",
-            "value": "Add location"
+            "name":"ohos_id_text_location_button_description_add_location",
+            "value":"Add location",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_select_location",
-            "value": "Select location"
+            "name":"ohos_id_text_location_button_description_select_location",
+            "value":"Select location",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_share_location",
-            "value": "Share location"
+            "name":"ohos_id_text_location_button_description_share_location",
+            "value":"Share location",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_send_location",
-            "value": "Send location"
+            "name":"ohos_id_text_location_button_description_send_location",
+            "value":"Send location",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_locating",
-            "value": "Locate"
+            "name":"ohos_id_text_location_button_description_locating",
+            "value":"Locate",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_location",
-            "value": "Location"
+            "name":"ohos_id_text_location_button_description_location",
+            "value":"Location",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_send_current_location",
-            "value": "Send current location"
+            "name":"ohos_id_text_location_button_description_send_current_location",
+            "value":"Send current location",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_relocation",
-            "value": "Get location"
+            "name":"ohos_id_text_location_button_description_relocation",
+            "value":"Get location",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_punch_in",
-            "value": "Clock in/out from current location"
+            "name":"ohos_id_text_location_button_description_punch_in",
+            "value":"Clock in/out from current location",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_current_position",
-            "value": "Current location"
+            "name":"ohos_id_text_location_button_description_current_position",
+            "value":"Current location",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_paste_button_description_paste",
-            "value": "Paste"
+            "name":"ohos_id_text_paste_button_description_paste",
+            "value":"Paste",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_download",
-            "value": "Download"
+            "name":"ohos_id_text_save_button_description_download",
+            "value":"Download",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_download_file",
-            "value": "Download file"
+            "name":"ohos_id_text_save_button_description_download_file",
+            "value":"Download file",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_save",
-            "value": "Save"
+            "name":"ohos_id_text_save_button_description_save",
+            "value":"Save",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_save_image",
-            "value": "Save image"
+            "name":"ohos_id_text_save_button_description_save_image",
+            "value":"Save image",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_save_file",
-            "value": "Save file"
+            "name":"ohos_id_text_save_button_description_save_file",
+            "value":"Save file",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_download_and_share",
-            "value": "Download & share"
+            "name":"ohos_id_text_save_button_description_download_and_share",
+            "value":"Download & share",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_receive",
-            "value": "Save"
+            "name":"ohos_id_text_save_button_description_receive",
+            "value":"Save",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_continue_to_receive",
-            "value": "Save"
+            "name":"ohos_id_text_save_button_description_continue_to_receive",
+            "value":"Save",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_save_to_gallery",
-            "value": "Save to Gallery"
+            "name":"ohos_id_text_save_button_description_save_to_gallery",
+            "value":"Save to Gallery",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"save_button_description_export_to_gallery",
-            "value":"Export"
+            "value":"Export",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
-            "value":"Save to Gallery"
+            "value":"Save to Gallery",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
-            "value":"Save"
+            "value":"Save",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "ohos_drawable_descriptor_path",

@@ -2,87 +2,150 @@
     "string":[
         {
             "name":"ohos_id_text_location_button_description_current_position",
-            "value":"所在位置"
+            "value":"所在位置",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_save",
-            "value":"儲存"
+            "value":"儲存",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_save_image",
-            "value":"儲存圖片"
+            "value":"儲存圖片",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_download",
-            "value":"下載"
+            "value":"下載",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_save_file",
-            "value":"儲存檔案"
+            "value":"儲存檔案",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_receive",
-            "value":"接收"
+            "value":"接收",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_save_to_gallery",
-            "value":"儲存至圖片庫"
+            "value":"儲存至圖片庫",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_add_location",
-            "value":"新增位置"
+            "value":"新增位置",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_paste_button_description_paste",
-            "value":"貼上"
+            "value":"貼上",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_download_and_share",
-            "value":"下載分享"
+            "value":"下載分享",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_select_location",
-            "value":"選取位置"
+            "value":"選取位置",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_continue_to_receive",
-            "value":"繼續接收"
+            "value":"繼續接收",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_send_current_location",
-            "value":"傳送即時位置"
+            "value":"傳送即時位置",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_save_button_description_download_file",
-            "value":"下載檔案"
+            "value":"下載檔案",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_locating",
-            "value":"定位"
+            "value":"定位",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_share_location",
-            "value":"分享位置"
+            "value":"分享位置",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_send_location",
-            "value":"傳送位置"
+            "value":"傳送位置",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_current_location",
-            "value":"目前位置"
+            "value":"目前位置",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_punch_in",
-            "value":"打卡定位"
+            "value":"打卡定位",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_relocation",
-            "value":"重新定位"
+            "value":"重新定位",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_text_location_button_description_location",
-            "value":"位置"
+            "value":"位置",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name": "ohos_add_form_to_desktop",
@@ -201,15 +264,24 @@
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
-            "value":"快速儲存圖片"
+            "value":"快速儲存圖片",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
-            "value":"重新儲存"
+            "value":"重新儲存",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"save_button_description_export_to_gallery",
-            "value":"匯出"
+            "value":"匯出",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_mon",

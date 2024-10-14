@@ -516,100 +516,172 @@
             "value": "允许应用读取已安装应用列表。"
         },
         {
-            "name": "ohos_id_text_location_button_description_current_location",
-            "value": "当前位置"
+            "name":"ohos_id_text_location_button_description_current_location",
+            "value":"当前位置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_add_location",
-            "value": "添加位置"
+            "name":"ohos_id_text_location_button_description_add_location",
+            "value":"添加位置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_select_location",
-            "value": "选择位置"
+            "name":"ohos_id_text_location_button_description_select_location",
+            "value":"选择位置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_share_location",
-            "value": "共享位置"
+            "name":"ohos_id_text_location_button_description_share_location",
+            "value":"共享位置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_send_location",
-            "value": "发送位置"
+            "name":"ohos_id_text_location_button_description_send_location",
+            "value":"发送位置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_locating",
-            "value": "定位"
+            "name":"ohos_id_text_location_button_description_locating",
+            "value":"定位",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_location",
-            "value": "位置"
+            "name":"ohos_id_text_location_button_description_location",
+            "value":"位置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_send_current_location",
-            "value": "发送实时位置"
+            "name":"ohos_id_text_location_button_description_send_current_location",
+            "value":"发送实时位置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_relocation",
-            "value": "重新定位"
+            "name":"ohos_id_text_location_button_description_relocation",
+            "value":"重新定位",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_punch_in",
-            "value": "打卡定位"
+            "name":"ohos_id_text_location_button_description_punch_in",
+            "value":"打卡定位",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_location_button_description_current_position",
-            "value": "所在位置"
+            "name":"ohos_id_text_location_button_description_current_position",
+            "value":"所在位置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_paste_button_description_paste",
-            "value": "粘贴"
+            "name":"ohos_id_text_paste_button_description_paste",
+            "value":"粘贴",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_download",
-            "value": "下载"
+            "name":"ohos_id_text_save_button_description_download",
+            "value":"下载",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_download_file",
-            "value": "下载文件"
+            "name":"ohos_id_text_save_button_description_download_file",
+            "value":"下载文件",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_save",
-            "value": "保存"
+            "name":"ohos_id_text_save_button_description_save",
+            "value":"保存",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_save_image",
-            "value": "保存图片"
+            "name":"ohos_id_text_save_button_description_save_image",
+            "value":"保存图片",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_save_file",
-            "value": "保存文件"
+            "name":"ohos_id_text_save_button_description_save_file",
+            "value":"保存文件",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_download_and_share",
-            "value": "下载分享"
+            "name":"ohos_id_text_save_button_description_download_and_share",
+            "value":"下载分享",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_receive",
-            "value": "接收"
+            "name":"ohos_id_text_save_button_description_receive",
+            "value":"接收",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_continue_to_receive",
-            "value": "继续接收"
+            "name":"ohos_id_text_save_button_description_continue_to_receive",
+            "value":"继续接收",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_id_text_save_button_description_save_to_gallery",
-            "value": "保存至图库"
+            "name":"ohos_id_text_save_button_description_save_to_gallery",
+            "value":"保存至图库",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "save_button_description_export_to_gallery",
-            "value": "导出"
+            "name":"save_button_description_export_to_gallery",
+            "value":"导出",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "save_button_description_quick_save_to_gallery",
-            "value": "快速保存图片"
+            "name":"save_button_description_quick_save_to_gallery",
+            "value":"快速保存图片",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "save_button_description_quick_resave_to_gallery",
-            "value": "重新保存"
+            "name":"save_button_description_quick_resave_to_gallery",
+            "value":"重新保存",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "ohos_lab_access_bluetooth",
