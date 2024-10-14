@@ -1171,6 +1171,26 @@
         {
             "name": "delete_used_for_accessibility_text",
             "value": "Delete"
+        },
+        {
+            "name": "request_agent_download_success",
+            "value": "Download success"
+        },
+        {
+            "name": "request_agent_download_fail",
+            "value": "Download fail"
+        },
+        {
+            "name": "request_agent_upload_file",
+            "value": "Upload file"
+        },
+        {
+            "name": "request_agent_upload_success",
+            "value": "Upload success"
+        },
+        {
+            "name": "request_agent_upload_fail",
+            "value": "upload fail"
         }
     ]
 }

@@ -1055,6 +1055,26 @@
         {
             "name": "delete_used_for_accessibility_text",
             "value": "删除"
+        },
+        {
+            "name": "request_agent_download_success",
+            "value": "下载成功"
+        },
+        {
+            "name": "request_agent_download_fail",
+            "value": "下载失败"
+        },
+        {
+            "name": "request_agent_upload_file",
+            "value": "上传文件"
+        },
+        {
+            "name": "request_agent_upload_success",
+            "value": "上传成功"
+        },
+        {
+            "name": "request_agent_upload_fail",
+            "value": "上传失败"
         }
     ]
 }
