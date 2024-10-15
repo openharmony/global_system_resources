@@ -25947,6 +25947,31 @@
             "type": "color",
             "name": "navigation_divider_dark_blue_active",
             "order": 5139
+        },
+        {
+            "type": "string",
+            "name": "request_agent_download_success",
+            "order": 5140
+        },
+        {
+            "type": "string",
+            "name": "request_agent_download_fail",
+            "order": 5141
+        },
+        {
+            "type": "string",
+            "name": "request_agent_upload_file",
+            "order": 5142
+        },
+        {
+            "type": "string",
+            "name": "request_agent_upload_success",
+            "order": 5143
+        },
+        {
+            "type": "string",
+            "name": "request_agent_upload_fail",
+            "order": 5144
         }
     ]
 }
