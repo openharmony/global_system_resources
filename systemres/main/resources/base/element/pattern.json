@@ -4400,6 +4400,30 @@
                     "value": "$string:textfield_accessibility_hide_password"
                 },
                 {
+                    "name": "textfield_show_password",
+                    "value": "$string:textfield_show_password"
+                },
+                {
+                    "name": "textfield_hide_password",
+                    "value": "$string:textfield_hide_password"
+                },
+                {
+                    "name": "textfield_show_password_button",
+                    "value": "$string:textfield_show_password_button"
+                },
+                {
+                    "name": "textfield_hide_password_button",
+                    "value": "$string:textfield_hide_password_button"
+                },
+                {
+                    "name": "textfield_has_showed_password",
+                    "value": "$string:textfield_has_showed_password"
+                },
+                {
+                    "name": "textfield_has_hidden_password",
+                    "value": "$string:textfield_has_hidden_password"
+                },
+                {
                     "name": "textfield_symbol_color",
                     "value": "$color:icon_primary"
                 },
