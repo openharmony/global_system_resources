@@ -975,6 +975,50 @@
         {
             "name": "ohos_desc_short_term_write_imagevideo",
             "value": "This permission applies to the following scenarios: 1. The application, for example, an H5 web application, cannot use the SaveButton security component. 2. The application needs to save images or videos multiple times consecutively and cannot save all the images or videos at a time in a save confirmation dialog box."
+        },
+        {
+            "name": "slider_accessibility_selected",
+            "value": "Selected"
+        },
+        {
+            "name": "slider_accessibility_unselected",
+            "value": "Not selected"
+        },
+        {
+            "name": "slider_accessibility_unselectedDesc",
+            "value": "Double-tap to select"
+        },
+        {
+            "name": "slider_accessibility_disabledDesc",
+            "value": "Not available"
+        },
+        {
+            "name": "calendar_picker_mon",
+            "value": "Monday"
+        },
+        {
+            "name": "calendar_picker_tue",
+            "value": "Tuesday"
+        },
+        {
+            "name": "calendar_picker_wed",
+            "value": "Wednesday"
+        },
+        {
+            "name": "calendar_picker_thu",
+            "value": "Thursday"
+        },
+        {
+            "name": "calendar_picker_fri",
+            "value": "Friday"
+        },
+        {
+            "name": "calendar_picker_sat",
+            "value": "Saturday"
+        },
+        {
+            "name": "calendar_picker_sun",
+            "value": "Sunday"
         }
     ]
 }

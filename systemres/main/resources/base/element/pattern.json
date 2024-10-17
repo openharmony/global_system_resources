@@ -979,6 +979,34 @@
                 {
                     "name": "calendar_picker_dialog_divider_transparent",
                     "value": "$string:ohos_id_calendar_picker_dialog_divider_transparent"
+                },
+                {
+                    "name": "calendar_picker_mon",
+                    "value": "$string:calendar_picker_mon"
+                },
+                {
+                    "name": "calendar_picker_tue",
+                    "value": "$string:calendar_picker_tue"
+                },
+                {
+                    "name": "calendar_picker_wed",
+                    "value": "$string:calendar_picker_wed"
+                },
+                {
+                    "name": "calendar_picker_thu",
+                    "value": "$string:calendar_picker_thu"
+                },
+                {
+                    "name": "calendar_picker_fri",
+                    "value": "$string:calendar_picker_fri"
+                },
+                {
+                    "name": "calendar_picker_sat",
+                    "value": "$string:calendar_picker_sat"
+                },
+                {
+                    "name": "calendar_picker_sun",
+                    "value": "$string:calendar_picker_sun"
                 }
             ]
         },
@@ -5400,6 +5428,22 @@
                 {
                     "name": "tip_text_padding_size",
                     "value": "$float:ohos_id_tip_text_padding_size"
+                },
+                {
+                    "name": "slider_accessibility_selected",
+                    "value": "$string:slider_accessibility_selected"
+                },
+                {
+                    "name": "slider_accessibility_unselected",
+                    "value": "$string:slider_accessibility_unselected"
+                },
+                {
+                    "name": "slider_accessibility_unselectedDesc",
+                    "value": "$string:slider_accessibility_unselectedDesc"
+                },
+                {
+                    "name": "slider_accessibility_disabledDesc",
+                    "value": "$string:slider_accessibility_disabledDesc"
                 }
             ]
         },
