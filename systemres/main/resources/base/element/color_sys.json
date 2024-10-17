@@ -955,6 +955,10 @@
         {
             "name": "searchkeyboard_primary_control_color",
             "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "searchkeyboard_focus_bg",
+            "value": "$color:ohos_id_color_button_normal"
         }
     ]
   }
