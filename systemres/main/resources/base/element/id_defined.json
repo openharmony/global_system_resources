@@ -25972,6 +25972,11 @@
             "type": "string",
             "name": "request_agent_upload_fail",
             "order": 5144
+        },
+        {
+            "type": "float",
+            "name": "subheader_title_font_size",
+            "order": 5145
         }
     ]
 }
