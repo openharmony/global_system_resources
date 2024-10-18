@@ -26105,6 +26105,26 @@
             "type": "float",
             "name": "toast_align",
             "order": 5174
+        },
+        {
+            "type": "float",
+            "name": "text_align",
+            "order": 5175
+        },
+        {
+            "type": "float",
+            "name": "line_spacing",
+            "order": 5176
+        },
+        {
+            "type": "float",
+            "name": "font_weight",
+            "order": 5177
+        },
+        {
+            "type": "float",
+            "name": "text_align_error",
+            "order": 5178
         }
     ]
 }
