@@ -1728,7 +1728,7 @@
                 },
                 {
                     "name": "bg_color",
-                    "value": "$color:dataPanel_color_subheading_separator"
+                    "value": "$color:ohos_id_color_subheading_separator"
                 },
                 {
                     "name": "data_panel_color_1_start",
@@ -6496,7 +6496,7 @@
                 },
                 {
                     "name": "side_bar_background_color",
-                    "value": "$color:color_sidebarcontainer_sub_bg"
+                    "value": "$color:ohos_id_color_text_field_sub_bg"
                 },
                 {
                     "name": "control_button_radius",
@@ -6573,10 +6573,6 @@
                 {
                     "name": "control_button_height_small",
                     "value": "$float:control_button_height_small"
-                },
-                {
-                    "name": "side_bar_width",
-                    "value": "$float:sidebarcontainer_width"
                 }
             ]
         },
