@@ -4847,11 +4847,11 @@
                 },
                 {
                     "name": "toast_padding_level8",
-                    "value": "$float:toast_padding_new"
+                    "value": "$float:ohos_id_toast_padding_level8"
                 },
                 {
                     "name": "toast_padding_level4",
-                    "value": "$float:padding_level4"
+                    "value": "$float:toast_padding_level4"
                 },
                 {
                     "name": "toast_Body_M",
@@ -4892,6 +4892,26 @@
                 {
                     "name": "toast_inner_border_color",
                     "value": "$color:toast_inner_border_color"
+                },
+                {
+                    "name": "toast_limit_height_ratio",
+                    "value": "$float:toast_limit_height_ratio"
+                },
+                {
+                    "name": "toast_text_align",
+                    "value": "$float:toast_text_align"
+                },
+                {
+                    "name": "toast_default_bg_color",
+                    "value": "$color:toast_default_bg_color"
+                },
+                {
+                    "name": "toast_bg_theme_color_mode",
+                    "value": "$float:toast_bg_theme_color_mode"
+                },
+                {
+                    "name": "toast_align",
+                    "value": "$float:toast_align"
                 }
             ]
         },
