@@ -26031,6 +26031,26 @@
             "type": "float",
             "name": "picker_digital_circle",
             "order": 5156
+        },
+        {
+            "type": "float",
+            "name": "arc_button_height",
+            "order": 5157
+        },
+        {
+            "type": "float",
+            "name": "arc_button_auxiliary_circle_diameter",
+            "order": 5158
+        },
+        {
+            "type": "float",
+            "name": "arc_button_dial_circle_diameter",
+            "order": 5159
+        },
+        {
+            "type": "float",
+            "name": "arc_button_chamfer_radius",
+            "order": 5160
         }
     ]
 }
