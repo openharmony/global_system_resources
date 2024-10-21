@@ -6953,6 +6953,30 @@
                 {
                     "name": "limit_value_min_font_size",
                     "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "indicator_width_ratio",
+                    "value": "$float:indicator_width_ratio"
+                },
+                {
+                    "name": "indicator_height_ratio",
+                    "value": "$float:indicator_height_ratio"
+                },
+                {
+                    "name": "indicator_corner_radius_ratio",
+                    "value": "$float:indicator_corner_radius_ratio"
+                },
+                {
+                    "name": "indicator_border_ratio",
+                    "value": "$float:indicator_border_ratio"
+                },
+                {
+                    "name": "track_thickness",
+                    "value": "$float:track_thickness"
+                },
+                {
+                    "name": "interval_ratio",
+                    "value": "$float:interval_ratio"
                 }
             ]
         },
