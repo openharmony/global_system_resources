@@ -331,6 +331,22 @@
         {
             "name": "arc_button_chamfer_radius",
             "value": "8vp"
+        },
+        {
+            "name": "scroll_bar_normal_start_angle",
+            "value": "-30.0"
+        },
+        {
+            "name": "scroll_bar_active_start_angle",
+            "value": "-60.0"
+        },
+        {
+            "name": "scroll_bar_normal_max_offset_angle",
+            "value": "60.0"
+        },
+        {
+            "name": "scroll_bar_active_max_offset_angle",
+            "value": "120.0"
         }
     ]
   }
