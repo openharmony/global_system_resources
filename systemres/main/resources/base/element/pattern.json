@@ -200,6 +200,10 @@
                     "value": "$float:ohos_id_width_border_small_button"
                 },
                 {
+                    "name": "color_border_small",
+                    "value": "$color:ohos_id_color_border_small_button"
+                },
+                {
                     "name": "shadow_default",
                     "value": "$float:ohos_id_shadow_default_button"
                 },
@@ -212,8 +216,32 @@
                     "value": "$float:ohos_id_scale_focus_button"
                 },
                 {
+                    "name": "emphasize_focus_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
+                    "name": "padding_text",
+                    "value": "$float:ohos_id_button_inner_padding"
+                },
+                {
                     "name": "focus_bg_text",
                     "value": "$color:ohos_id_color_focus_bg_text_button"
+                },
+                {
+                    "name": "text_button_text_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "emphasize_button_text_focus_color",
+                    "value": "$color:ohos_id_color_foreground_contrary"
+                },
+                {
+                    "name": "normal_button_text_focus_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
+                },
+                {
+                    "name": "text_button_text_focus_color",
+                    "value": "$color:ohos_id_color_text_primary_activated"
                 },
                 {
                     "name": "button_aging_big_font_size_scale",
