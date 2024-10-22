@@ -4265,6 +4265,18 @@
                 {
                     "name": "interactive_disable",
                     "value": "$float:interactive_disable"
+                },
+                {
+                    "name": "text_line_spacing",
+                    "value": "$float:line_spacing"
+                },
+                {
+                    "name": "text_font_weight",
+                    "value": "$float:font_weight"
+                },
+                {
+                    "name": "text_align",
+                    "value": "$float:text_align"
                 }
             ]
         },
@@ -4542,6 +4554,10 @@
                 {
                     "name": "textfield_error_font_weight",
                     "value": "$float:ohos_id_textfield_error_font_weight"
+                },
+                {
+                    "name": "textfield_error_text_align",
+                    "value": "$float:text_align_error"
                 },
                 {
                     "name": "textfield_count_font_weight",
