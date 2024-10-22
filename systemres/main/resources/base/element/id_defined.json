@@ -23131,7 +23131,7 @@
         },
         {
             "type": "float",
-            "name": "toast_padding_new",
+            "name": "ohos_id_toast_padding_level8",
             "order": 4580
         },
         {
@@ -26075,6 +26075,36 @@
             "type": "float",
             "name": "scroll_bar_normal_background_width",
             "order": 5168
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_level4",
+            "order": 5169
+        },
+        {
+            "type": "float",
+            "name": "toast_limit_height_ratio",
+            "order": 5170
+        },
+        {
+            "type": "float",
+            "name": "toast_text_align",
+            "order": 5171
+        },
+        {
+            "type": "color",
+            "name": "toast_default_bg_color",
+            "order": 5172
+        },
+        {
+            "type": "float",
+            "name": "toast_bg_theme_color_mode",
+            "order": 5173
+        },
+        {
+            "type": "float",
+            "name": "toast_align",
+            "order": 5174
         }
     ]
 }
