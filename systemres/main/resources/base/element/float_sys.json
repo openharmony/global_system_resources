@@ -351,6 +351,174 @@
         {
             "name": "toast_bg_theme_color_mode",
             "value": "0.0"
+        },
+        {
+            "name": "radio_container_focus_size",
+            "value": "0.0vp"
+        },
+        {
+            "name": "radio_container_hover_size",
+            "value": "2.0vp"
+        },
+        {
+            "name": "swiper_indicator_scale",
+            "value": "1.33"
+        },
+        {
+            "name": "swiper_indicator_container_height",
+            "value": "12.0vp"
+        },
+        {
+            "name": "swiper_indicator_dot_padding",
+            "value": "12.0vp"
+        },
+        {
+            "name": "swiper_indicator_focus_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "swiper_clip_bounds",
+            "value": "1"
+        },
+        {
+            "name": "alertdialog_title_padding_top",
+            "value": "16.0vp"
+        },
+        {
+            "name": "alertdialog_padding_single_title",
+            "value": "0.0vp"
+        },
+        {
+            "name": "alertdialog_align",
+            "value": "3.0"
+        },
+        {
+            "name": "alertdialog_button_type",
+            "value": "0"
+        },
+        {
+            "name": "alertdialog_normal_button_text_font_size",
+            "value": "16.0fp"
+        },
+        {
+            "name": "alertdialog_text_align_title",
+            "value": "0"
+        },
+        {
+            "name": "alertdialog_text_align_content",
+            "value": "0"
+        },
+        {
+            "name": "alertdialog_container_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "alertdialog_ratio_height",
+            "value": "0.9"
+        },
+        {
+            "name": "loading_progress_default_size",
+            "value": "0.0vp"
+        },
+        {
+            "name": "progress_text_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "capsule_progress_hover_effect_type",
+            "value": "2.0"
+        },
+        {
+            "name": "capsule_progress_focused_scale",
+            "value": "1.0"
+        },
+        {
+            "name": "capsule_progress_inprogress_border_color_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "progress_border_color_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "capsule_progress_inprogress_border_width",
+            "value": "$float:ohos_id_float_progress_border_width"
+        },
+        {
+            "name": "progress_border_width",
+            "value": "$float:ohos_id_float_progress_border_width"
+        },
+        {
+            "name": "capsule_progress_bg_inprogress_color_alpha",
+            "value": "$float:ohos_id_alpha_content_fourth"
+        },
+        {
+            "name": "capsule_progress_bg_alpha",
+            "value": "$float:ohos_id_alpha_content_fourth"
+        },
+        {
+            "name": "capsule_progress_bg_focused_color_alpha",
+            "value": "$float:ohos_id_alpha_content_fourth"
+        },
+        {
+            "name": "capsule_progress_focused_shadow_style",
+            "value": "6.0"
+        },
+        {
+            "name": "capsule_progress_select_focused_color_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "capsule_progress_default_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "progress_default_diameter",
+            "value": "$float:ohos_id_progress_default_diameter"
+        },
+        {
+            "name": "progress_text_size",
+            "value": "$float:ohos_id_text_size_button3"
+        },
+        {
+            "name": "ring_progress_default_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "progress_ring_thickness",
+            "value": "$float:ohos_id_progress_thickness"
+        },
+        {
+            "name": "scroll_bar_active_magnify",
+            "value": "2.0"
+        },
+        {
+            "name": "scroll_bar_touch_magnify",
+            "value": "2.0"
+        },
+        {
+            "name": "scroll_bar_foreground_opacity",
+             "value": "$float:ohos_id_alpha_content_tertiary"
+        },
+        {
+            "name": "scroll_bar_elements_margin_end",
+            "value": "$float:ohos_id_elements_margin_horizontal_s"
+        },
+        {
+            "name": "qrcode_focused_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "qrcode_default_size",
+            "value": "240.0vp"
+        },
+        {
+            "name": "app_theme_focus_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "app_theme_focus_box_glow",
+            "value": "0.0"
         }
     ]
   }
