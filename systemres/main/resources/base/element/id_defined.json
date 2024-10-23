@@ -10319,27 +10319,23 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_width_border_dialog",
-            "order": 2032,
-            "flags": "private"
+            "name": "alertdialog_container_border_width",
+            "order": 2032
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_dialog",
-            "order": 2033,
-            "flags": "private"
+            "name": "alertdialog_container_border_color",
+            "order": 2033
         },
         {
             "type": "float",
-            "name": "ohos_id_text_align_dialog_title",
-            "order": 2034,
-            "flags": "private"
+            "name": "alertdialog_text_align_title",
+            "order": 2034
         },
         {
             "type": "float",
-            "name": "ohos_id_text_align_dialog_content",
-            "order": 2035,
-            "flags": "private"
+            "name": "alertdialog_text_align_content",
+            "order": 2035
         },
         {
             "type": "float",
@@ -10349,9 +10345,8 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_ratio_height_dialog",
-            "order": 2037,
-            "flags": "private"
+            "name": "alertdialog_ratio_height",
+            "order": 2037
         },
         {
             "type": "color",
@@ -10409,9 +10404,8 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_device_columns_dialog",
-            "order": 2047,
-            "flags": "private"
+            "name": "alertdialog_normal_button_text_font_size",
+            "order": 2047
         },
         {
             "type": "float",
@@ -10577,21 +10571,18 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_dot_swiper",
-            "order": 2078,
-            "flags": "private"
+            "name": "swiper_indicator_dot_padding",
+            "order": 2078
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_bg_radio",
-            "order": 2079,
-            "flags": "private"
+            "name": "radio_container_focus_color",
+            "order": 2079
         },
         {
             "type": "float",
-            "name": "ohos_id_size_focused_bg_radio",
-            "order": 2080,
-            "flags": "private"
+            "name": "radio_container_focus_size",
+            "order": 2080
         },
         {
             "type": "float",
@@ -10611,33 +10602,28 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_bg_with_blur_dialog",
-            "order": 2084,
-            "flags": "private"
+            "name": "alertdialog_container_color_blur",
+            "order": 2084
         },
         {
             "type": "float",
-            "name": "ohos_id_align_dialog",
-            "order": 2085,
-            "flags": "private"
+            "name": "alertdialog_align",
+            "order": 2085
         },
         {
             "type": "float",
-            "name": "ohos_id_shadow_dialog",
-            "order": 2086,
-            "flags": "private"
+            "name": "alertdialog_button_type",
+            "order": 2086
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_top_title_dialog",
-            "order": 2087,
-            "flags": "private"
+            "name": "alertdialog_title_padding_top",
+            "order": 2087
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_single_title_dialog",
-            "order": 2088,
-            "flags": "private"
+            "name": "alertdialog_padding_single_title",
+            "order": 2088
         },
         {
             "type": "media",
@@ -10716,15 +10702,13 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_select",
-            "order": 2104,
-            "flags": "private"
+            "name": "swiper_indicator_selected_focus_color",
+            "order": 2104
         },
         {
             "type": "float",
-            "name": "ohos_id_scale_swiper_indicator",
-            "order": 2105,
-            "flags": "private"
+            "name": "swiper_indicator_scale",
+            "order": 2105
         },
         {
             "type": "media",
@@ -18255,21 +18239,18 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_unselected_dot_swiper",
-            "order": 3608,
-            "flags": "private"
+            "name": "swiper_indicator_unselected_focus_color",
+            "order": 3608
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_bg_swiper",
-            "order": 3609,
-            "flags": "private"
+            "name": "swiper_indicator_container_focus_color",
+            "order": 3609
         },
         {
             "type": "float",
-            "name": "ohos_id_height_bg_swiper",
-            "order": 3610,
-            "flags": "private"
+            "name": "swiper_indicator_container_height",
+            "order": 3610
         },
         {
             "type": "color",
@@ -18299,15 +18280,13 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_ring_unchecked_radio",
-            "order": 3616,
-            "flags": "private"
+            "name": "radio_ring_focus_color_unchecked",
+            "order": 3616
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_bg_unchecked_radio",
-            "order": 3617,
-            "flags": "private"
+            "name": "radio_container_focus_color_unchecked",
+            "order": 3617
         },
         {
             "type": "string",
@@ -26155,6 +26134,261 @@
             "type": "float",
             "name": "interval_ratio",
             "order": 5184
+        },
+        {
+            "type": "color",
+            "name": "ring_progress_fg_color_begin",
+            "order": 5185
+        },
+        {
+            "type": "color",
+            "name": "scrollbar_color_foreground",
+            "order": 5186
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_active_magnify",
+            "order": 5187
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_touch_magnify",
+            "order": 5188
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_foreground_opacity",
+             "order": 5189
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_elements_margin_end",
+            "order": 5190
+        },
+        {
+            "type": "float",
+            "name": "qrcode_focused_padding",
+            "order": 5191
+        },
+        {
+            "type": "float",
+            "name": "qrcode_default_size",
+            "order": 5192
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_width",
+            "order": 5193
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_app_theme_pattern",
+            "order": 5194
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_box_glow",
+            "order": 5195
+        },
+        {
+            "type": "color",
+            "name": "app_theme_focus_color",
+            "order": 5196
+        },
+        {
+            "type": "float",
+            "name": "radio_container_hover_size",
+            "order": 5197
+        },
+        {
+            "type": "float",
+            "name": "swiper_indicator_focus_padding",
+            "order": 5198
+        },
+        {
+            "type": "float",
+            "name": "swiper_clip_bounds",
+            "order": 5199
+        },
+        {
+            "type": "color",
+            "name": "alertdialog_divider_color",
+            "order": 5200
+        },
+        {
+            "type": "float",
+            "name": "loading_progress_default_size",
+            "order": 5201
+        },
+        {
+            "type": "float",
+            "name": "progress_text_margin",
+            "order": 5202
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_hover_effect_type",
+            "order": 5203
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_focused_scale",
+            "order": 5204
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_inprogress_border_color_alpha",
+            "order": 5205
+        },
+        {
+            "type": "float",
+            "name": "progress_border_color_alpha",
+            "order": 5206
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_inprogress_border_width",
+            "order": 5207
+        },
+        {
+            "type": "float",
+            "name": "progress_border_width",
+            "order": 5208
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_bg_inprogress_color_alpha",
+            "order": 5209
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_bg_alpha",
+            "order": 5210
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_bg_focused_color_alpha",
+            "order": 5211
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_focused_shadow_style",
+            "order": 5212
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_select_focused_color_alpha",
+            "order": 5213
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_default_alpha",
+            "order": 5214
+        },
+        {
+            "type": "float",
+            "name": "progress_default_diameter",
+            "order": 5215
+        },
+        {
+            "type": "float",
+            "name": "progress_text_size",
+            "order": 5216
+        },
+        {
+            "type": "float",
+            "name": "ring_progress_default_padding",
+            "order": 5217
+        },
+        {
+            "type": "float",
+            "name": "progress_ring_thickness",
+            "order": 5218
+        },
+        {
+            "type": "color",
+            "name": "progress_track_color",
+            "order": 5219
+        },
+        {
+            "type": "color",
+            "name": "progress_track_selected_color",
+            "order": 5220
+        },
+        {
+            "type": "color",
+            "name": "fg_progress_color",
+            "order": 5221
+        },
+        {
+            "type": "color",
+            "name": "loading_progress_focused_color",
+            "order": 5222
+        },
+        {
+            "type": "color",
+            "name": "progress_hover_blend_color",
+            "order": 5223
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_inprogress_border_color",
+            "order": 5224
+        },
+        {
+            "type": "color",
+            "name": "progress_border_color",
+            "order": 5225
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_bg_inprogress_color",
+            "order": 5226
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_bg_color",
+            "order": 5227
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_bg_focused_color",
+            "order": 5228
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_text_focused_color",
+            "order": 5229
+        },
+        {
+            "type": "color",
+            "name": "progress_text_color",
+            "order": 5230
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_select_focused_color",
+            "order": 5231
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_select_color",
+            "order": 5232
+        },
+        {
+            "type": "color",
+            "name": "progress_click_effect",
+            "order": 5233
+        },
+        {
+            "type": "color",
+            "name": "ring_progress_bg_color",
+            "order": 5234
+        },
+        {
+            "type": "color",
+            "name": "ring_progress_fg_color_end",
+            "order": 5235
         }
     ]
 }
