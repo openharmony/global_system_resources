@@ -1360,6 +1360,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.READ_DFX_XPOWER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.WRITE_HIVIEW_SYSTEM",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -4152,6 +4161,15 @@
             },
             {
                 "name": "ohos.permission.COLLECT_ACCESSORY_LOG",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 12,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_ETHERNET_LOCAL_MAC",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 12,
