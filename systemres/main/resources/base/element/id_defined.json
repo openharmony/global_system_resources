@@ -26125,6 +26125,36 @@
             "type": "float",
             "name": "text_align_error",
             "order": 5178
+        },
+        {
+            "type": "float",
+            "name": "indicator_width_ratio",
+            "order": 5179
+        },
+        {
+            "type": "float",
+            "name": "indicator_height_ratio",
+            "order": 5180
+        },
+        {
+            "type": "float",
+            "name": "indicator_corner_radius_ratio",
+            "order": 5181
+        },
+        {
+            "type": "float",
+            "name": "indicator_border_ratio",
+            "order": 5182
+        },
+        {
+            "type": "float",
+            "name": "track_thickness",
+            "order": 5183
+        },
+        {
+            "type": "float",
+            "name": "interval_ratio",
+            "order": 5184
         }
     ]
 }
