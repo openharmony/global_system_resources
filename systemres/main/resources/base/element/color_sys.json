@@ -399,6 +399,18 @@
         {
             "name": "app_theme_focus_color",
             "value": "#ff007dff"
+        },
+        {
+            "name": "popup_default_bg_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "popup_border_color",
+            "value": "#FF000000"
+        },
+        {
+            "name": "popup_text_primary_color",
+            "value": "$color:ohos_id_color_text_primary"
         }
     ]
   }
