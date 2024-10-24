@@ -1535,6 +1535,26 @@
                 {
                     "name": "checkbox_hover_padding_size",
                     "value": "$float:checkbox_hover_padding_size"
+                },
+                {
+                    "name": "color_focused_bg",
+                    "value": "$color:checkbox_container_focus_color"
+                },
+                {
+                    "name": "size_focused_bg",
+                    "value": "$float:checkbox_container_focus_size"
+                },
+                {
+                    "name": "focused_border_color",
+                    "value": "$color:checkbox_focus_border_color"
+                },
+                {
+                    "name": "focused_bg_color_unselected",
+                    "value": "$color:checkbox_container_focus_color_unselected"
+                },
+                {
+                    "name": "round_size_focused_bg",
+                    "value": "$float:checkbox_round_container_focus_size"
                 }
             ]
         },
@@ -3505,23 +3525,23 @@
             "value": [
                 {
                     "name": "icon_color_active",
-                    "value": "$color:ohos_id_color_palette11"
+                    "value": "$color:rating_icon_active_color"
                 },
                 {
                     "name": "icon_color_inactive",
-                    "value": "$color:ohos_id_color_component_normal"
+                    "value": "$color:rating_icon_inactive_color"
                 },
                 {
                     "name": "bg_color_hovered",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:rating_container_hover_color"
                 },
                 {
                     "name": "bg_color_pressed",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:rating_container_press_color"
                 },
                 {
                     "name": "hover_radius_size",
-                    "value": "$float:ohos_id_corner_radius_default_xs"
+                    "value": "$float:rating_hover_radius_size"
                 },
                 {
                     "name": "hover_animation_duration",
@@ -3553,11 +3573,11 @@
                 },
                 {
                     "name": "rating_big_width",
-                    "value": "$float:ohos_id_rating_big_width"
+                    "value": "$float:rating_big_width"
                 },
                 {
                     "name": "rating_big_height",
-                    "value": "$float:ohos_id_rating_big_height"
+                    "value": "$float:rating_big_height"
                 },
                 {
                     "name": "rating_mini_width",
@@ -3578,6 +3598,30 @@
                 {
                     "name": "rating_disable_alpha",
                     "value": "$float:ohos_id_alpha_disabled"
+                },
+                {
+                    "name": "rating_icon_board_distance",
+                    "value": "$float:rating_icon_board_distance"
+                },
+                {
+                    "name": "rating_focus_bgcolor",
+                    "value": "$color:rating_container_focus_color"
+                },
+                {
+                    "name": "rating_focus_space",
+                    "value": "$float:rating_focus_space"
+                },
+                {
+                    "name": "rating_focus_blur_cancel_animation",
+                    "value": "$float:rating_focus_blur_cancel_animation"
+                },
+                {
+                    "name": "rating_unlit_star_focus_color",
+                    "value": "$color:rating_unlit_star_focus_color"
+                },
+                {
+                    "name": "rating_apply_circle_radius",
+                    "value": "$float:rating_apply_circle_radius"
                 }
             ]
         },
