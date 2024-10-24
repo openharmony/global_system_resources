@@ -409,8 +409,44 @@
             "value": "#FF000000"
         },
         {
+            "name": "checkbox_focus_border_color",
+            "value": "#66182431"
+        },
+        {
+            "name": "checkbox_container_focus_color_unselected",
+            "value": "#33ffffff"
+        },
+        {
+            "name": "checkbox_container_focus_color",
+            "value": "#00000000"
+        },
+        {
             "name": "popup_text_primary_color",
             "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "rating_icon_active_color",
+            "value": "$color:ohos_id_color_palette11"
+        },
+        {
+            "name": "rating_icon_inactive_color",
+            "value": "$color:ohos_id_color_component_normal"
+        },
+        {
+            "name": "rating_container_hover_color",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "rating_container_press_color",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "rating_container_focus_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "rating_unlit_star_focus_color",
+            "value": "$color:rating_icon_inactive_color"
         }
     ]
   }
