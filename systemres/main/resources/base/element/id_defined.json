@@ -25992,6 +25992,16 @@
             "type": "float",
             "name": "window_close_radius",
             "order": 5148
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_custom_screen_capture",
+            "order": 5149
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_custom_screen_capture",
+            "order": 5150
         }
     ]
 }
