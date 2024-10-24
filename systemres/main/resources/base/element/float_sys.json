@@ -519,6 +519,42 @@
         {
             "name": "app_theme_focus_box_glow",
             "value": "0.0"
+        },
+        {
+            "name": "popup_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "popup_target_space",
+            "value": "8.0vp"
+        },
+        {
+            "name": "popup_corner_radius",
+            "value": "$float:popup_border_radius"
+        },
+        {
+            "name": "popup_min_height",
+            "value": "0.0vp"
+        },
+        {
+            "name": "popup_max_columns",
+            "value": "0.0"
+        },
+        {
+            "name": "popup_horizontal_padding",
+            "value": "$float:ohos_id_elements_margin_horizontal_l"
+        },
+        {
+            "name": "popup_vertical_padding",
+            "value": "$float:ohos_id_elements_margin_vertical_m"
+        },
+        {
+            "name": "popup_text_font_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "popup_container_theme_color_mode",
+            "value": "0.0"
         }
     ]
   }
