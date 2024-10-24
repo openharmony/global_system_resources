@@ -26389,6 +26389,66 @@
             "type": "color",
             "name": "ring_progress_fg_color_end",
             "order": 5235
+        },
+        {
+            "type": "color",
+            "name": "popup_container_default_color",
+            "order": 5236
+        },
+        {
+            "type": "color",
+            "name": "popup_border_color",
+            "order": 5237
+        },
+        {
+            "type": "color",
+            "name": "popup_text_primary_color",
+            "order": 5238
+        },
+        {
+            "type": "float",
+            "name": "popup_border_width",
+            "order": 5239
+        },
+        {
+            "type": "float",
+            "name": "popup_target_space",
+            "order": 5240
+        },
+        {
+            "type": "float",
+            "name": "popup_corner_radius",
+            "order": 5241
+        },
+        {
+            "type": "float",
+            "name": "popup_min_height",
+            "order": 5242
+        },
+        {
+            "type": "float",
+            "name": "popup_max_columns",
+            "order": 5243
+        },
+        {
+            "type": "float",
+            "name": "popup_horizontal_padding",
+            "order": 5244
+        },
+        {
+            "type": "float",
+            "name": "popup_vertical_padding",
+            "order": 5245
+        },
+        {
+            "type": "float",
+            "name": "popup_text_font_size",
+            "order": 5246
+        },
+        {
+            "type": "float",
+            "name": "popup_container_theme_color_mode",
+            "order": 5247
         }
     ]
 }
