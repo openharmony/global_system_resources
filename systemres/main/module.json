@@ -4394,6 +4394,15 @@
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_custom_screen_capture",
                 "description": "$string:ohos_desc_custom_screen_capture"  
+            },
+            {
+                "name": "ohos.permission.USER_AUTH_FROM_BACKGROUND",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
