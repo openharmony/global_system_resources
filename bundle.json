@@ -52,7 +52,8 @@
         },
         "build": {
             "sub_component": [
-              "//base/global/system_resources/systemres:systemres_hap"
+              "//base/global/system_resources/systemres:systemres_hap",
+              "//base/global/system_resources:ohos_fonts"
             ],
             "inner_kits": [],
             "test": []
