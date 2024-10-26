@@ -26642,6 +26642,11 @@
             "type": "color",
             "name": "searchkeyboard_focus_bg",
             "order": 5285
+        },
+        {
+            "type": "float",
+            "name": "error_password_border_alpha",
+            "order": 5286
         }
     ]
 }
