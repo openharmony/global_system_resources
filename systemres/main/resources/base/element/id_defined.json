@@ -10350,33 +10350,28 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_text_input",
-            "order": 2038,
-            "flags": "private"
+            "name": "text_input_border_color",
+            "order": 2038
         },
         {
             "type": "float",
-            "name": "ohos_id_width_border_text_input",
-            "order": 2039,
-            "flags": "private"
+            "name": "text_input_border_width",
+            "order": 2039
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_error_tips_text_input",
-            "order": 2040,
-            "flags": "private"
+            "name": "text_input_error_tips_space",
+            "order": 2040
         },
         {
             "type": "float",
-            "name": "ohos_id_width_border_error_text_input",
-            "order": 2041,
-            "flags": "private"
+            "name": "text_input_error_border_width",
+            "order": 2041
         },
         {
             "type": "float",
-            "name": "ohos_id_show_icon_text_input",
-            "order": 2042,
-            "flags": "private"
+            "name": "text_input_show_icon",
+            "order": 2042
         },
         {
             "type": "float",
@@ -10762,51 +10757,43 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_menu",
-            "order": 2115,
-            "flags": "private"
+            "name": "menu_border_color",
+            "order": 2115
         },
         {
             "type": "float",
-            "name": "ohos_id_width_border_menu",
-            "order": 2116,
-            "flags": "private"
+            "name": "menu_border_width",
+            "order": 2116
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_bg_menu_item",
-            "order": 2117,
-            "flags": "private"
+            "name": "menu_item_focused_bg_color",
+            "order": 2117
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_text_menu_item",
-            "order": 2118,
-            "flags": "private"
+            "name": "menu_item_focused_text_color",
+            "order": 2118
         },
         {
             "type": "float",
-            "name": "ohos_id_menu_item_top_bottom_margin",
-            "order": 2119,
-            "flags": "private"
+            "name": "menu_item_top_bottom_margin",
+            "order": 2119
         },
         {
             "type": "float",
-            "name": "ohos_id_shadow_focused_menu_item",
-            "order": 2120,
-            "flags": "private"
+            "name": "menu_item_focused_shadow_style",
+            "order": 2120
         },
         {
             "type": "float",
-            "name": "ohos_id_target_security_space_menu",
-            "order": 2121,
-            "flags": "private"
+            "name": "menu_target_security_space",
+            "order": 2121
         },
         {
             "type": "float",
-            "name": "ohos_id_content_align_menu_item",
-            "order": 2122,
-            "flags": "private"
+            "name": "menu_item_content_align",
+            "order": 2122
         },
         {
             "type": "symbol",
@@ -26513,6 +26500,61 @@
             "type": "float",
             "name": "rating_apply_circle_radius",
             "order": 5261
+        },
+        {
+            "type": "float",
+            "name": "menu_back_blur_with_color",
+            "order": 5229
+        },
+        {
+            "type": "color",
+            "name": "menu_back_blur_color",
+            "order": 5230
+        },
+        {
+            "type": "float",
+            "name": "menu_item_left_right_margin",
+            "order": 5231
+        },
+        {
+            "type": "float",
+            "name": "menu_divider_start_margin",
+            "order": 5286
+        },
+        {
+            "type": "float",
+            "name": "menu_divider_end_margin",
+            "order": 5287
+        },
+        {
+            "type": "float",
+            "name": "menu_default_show_divider",
+            "order": 5288
+        },
+        {
+            "type": "float",
+            "name": "menu_need_focus",
+            "order": 5289
+        },
+        {
+            "type": "float",
+            "name": "search_need_focus_box",
+            "order": 5236
+        },
+        {
+            "type": "float",
+            "name": "textinput_need_focus_glow",
+            "order": 5237
+        },
+        {
+            "type": "float",
+            "name": "search_focus_padding",
+            "order": 5263
+        },
+        {
+            "type": "float",
+            "name": "text_input_error_password_border_alpha",
+            "order": 5286
         }
     ]
 }

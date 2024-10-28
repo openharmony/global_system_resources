@@ -447,6 +447,78 @@
         {
             "name": "rating_unlit_star_focus_color",
             "value": "$color:rating_icon_inactive_color"
+        },
+        {
+            "name": "menu_back_blur_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "menu_border_color",
+            "value": "#ff000000"
+        },
+        {
+            "name": "menu_item_focused_bg_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "menu_item_focused_text_color",
+            "value": "#ff182431"
+        },
+        {
+            "name": "search_icon_color",
+            "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "search_symbol_icon_color",
+            "value": "$color:font_secondary"
+        },
+        {
+            "name": "search_text_focus_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "search_container_focus_color",
+            "value": "$color:ohos_id_color_text_field_sub_bg"
+        },
+        {
+            "name": "search_icon_focus_color",
+            "value": "$color:ohos_id_color_secondary"
+        },
+        {
+            "name": "search_hover_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "search_press_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "textfield_bg_color",
+            "value": "$color:ohos_id_color_text_field_sub_bg"
+        },
+        {
+            "name": "search_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "textfield_cursor_color",
+            "value": "$color:ohos_id_color_text_primary_activated"
+        },
+        {
+            "name": "search_placeholder_color",
+            "value": "$color:ohos_id_color_text_secondary"
+        },
+        {
+            "name": "search_border_color",
+            "value": "#26FFFFFF"
+        },
+        {
+            "name": "search_placeholder_focus_color",
+            "value": "$color:ohos_id_color_text_hint"
+        },
+        {
+            "name": "text_input_border_color",
+            "value": "#ff000000"
         }
     ]
   }
