@@ -1958,54 +1958,6 @@
                     "value": "$float:ohos_id_corner_radius_dialog"
                 },
                 {
-                    "name": "padding_top_title",
-                    "value": "$float:dialog_padding_top_title"
-                },
-                {
-                    "name": "button_type",
-                    "value": "$float:dialog_button_type"
-                },
-                {
-                    "name": "normal_button_text_font_size",
-                    "value": "$float:dialog_normal_button_text_font_size"
-                },
-                {
-                    "name": "padding_single_title",
-                    "value": "$float:dialog_padding_single_title"
-                },
-                {
-                    "name": "color_bg_with_blur",
-                    "value": "$color:dialog_color_bg_with_blur"
-                },
-                {
-                    "name": "shadow_dialog",
-                    "value": "$float:dialog_shadow"
-                },
-                {
-                    "name": "align_dialog",
-                    "value": "$float:dialog_align"
-                },
-                {
-                    "name": "dialog_ratio_height",
-                    "value": "$float:dialog_ratio_height"
-                },
-                {
-                    "name": "border_color",
-                    "value": "$color:dialog_color_border"
-                },
-                {
-                    "name": "border_width",
-                    "value": "$float:dialog_width_border"
-                },
-                {
-                    "name": "text_align_title",
-                    "value": "$float:dialog_text_align_title"
-                },
-                {
-                    "name": "text_align_content",
-                    "value": "$float:dialog_text_align_content"
-                },
-                {
                     "name": "dialog_container_radius",
                     "value": "$float:alert_container_shape"
                 },
@@ -2927,11 +2879,11 @@
             "value": [
                 {
                     "name": "selected_text_color",
-                    "value": "$color:textpicker_selected_text_color"
+                    "value": "$color:ohos_id_color_text_primary_activated"
                 },
                 {
                     "name": "selected_text_size",
-                    "value": "$float:textpicker_selected_text_size"
+                    "value": "$float:ohos_id_text_size_dialog_tittle"
                 },
                 {
                     "name": "focus_text_color",
@@ -2939,19 +2891,19 @@
                 },
                 {
                     "name": "text_color",
-                    "value": "$color:textpicker_text_color"
+                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "text_size",
-                    "value": "$float:textpicker_text_size"
+                    "value": "$float:ohos_id_text_size_sub_title2"
                 },
                 {
                     "name": "disappear_text_color",
-                    "value": "$color:textpicker_disappear_text_color"
+                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "disappear_text_size",
-                    "value": "$float:textpicker_disappear_text_size"
+                    "value": "$float:ohos_id_text_size_sub_title3"
                 },
                 {
                     "name": "title_text_color",
@@ -2971,11 +2923,11 @@
                 },
                 {
                     "name": "bg_color_pressed",
-                    "value": "$color:picker_selector_item_press_color"
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
                     "name": "bg_color_hovered",
-                    "value": "$color:picker_selector_item_hover_color"
+                    "value": "$color:ohos_id_color_hover"
                 },
                 {
                     "name": "padding_horizontal",
@@ -3019,7 +2971,7 @@
                 },
                 {
                     "name": "picker_focus_option_text_color",
-                    "value": "$color:picker_selector_item_focus_text_color"
+                    "value": "$color:ohos_id_picker_focus_option_text_color"
                 },
                 {
                     "name": "picker_focus_option_weight",
@@ -3139,7 +3091,7 @@
                 },
                 {
                     "name": "picker_select_divider_color",
-                    "value": "$color:picker_select_divider_color"
+                    "value": "$color:ohos_id_picker_select_divider_color"
                 },
                 {
                     "name": "picker_select_gradient_height",
@@ -7463,15 +7415,15 @@
                 },
                 {
                     "name": "title_text_font_size",
-                    "value": "$float:sheet_title_text_font_size"
+                    "value": "$float:ohos_id_text_size_headline8"
                 },
                 {
                     "name": "title_text_font_color",
-                    "value": "$color:sheet_title_text_font_color"
+                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "title_text_margin",
-                    "value": "$float:sheet_title_text_margin"
+                    "value": "$float:ohos_id_elements_margin_horizontal_l"
                 },
                 {
                     "name": "subtitle_text_font_size",
@@ -7487,7 +7439,7 @@
                 },
                 {
                     "name": "sheet_background_color",
-                    "value": "$color:sheet_panel_background_color"
+                    "value": "$color:ohos_id_color_panel_bg"
                 },
                 {
                     "name": "drag_bar_color",
@@ -7515,7 +7467,7 @@
                 },
                 {
                     "name": "sheet_background_blur_style",
-                    "value": "$float:sheet_panel_background_blur_style"
+                    "value": "0"
                 },
                 {
                     "name": "sheet_normal_aging_scale",
