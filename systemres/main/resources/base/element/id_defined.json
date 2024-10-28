@@ -26504,57 +26504,172 @@
         {
             "type": "float",
             "name": "menu_back_blur_with_color",
-            "order": 5229
+            "order": 5262
         },
         {
             "type": "color",
             "name": "menu_back_blur_color",
-            "order": 5230
-        },
-        {
-            "type": "float",
-            "name": "menu_item_left_right_margin",
-            "order": 5231
-        },
-        {
-            "type": "float",
-            "name": "menu_divider_start_margin",
-            "order": 5286
-        },
-        {
-            "type": "float",
-            "name": "menu_divider_end_margin",
-            "order": 5287
-        },
-        {
-            "type": "float",
-            "name": "menu_default_show_divider",
-            "order": 5288
-        },
-        {
-            "type": "float",
-            "name": "menu_need_focus",
-            "order": 5289
-        },
-        {
-            "type": "float",
-            "name": "search_need_focus_box",
-            "order": 5236
-        },
-        {
-            "type": "float",
-            "name": "textinput_need_focus_glow",
-            "order": 5237
-        },
-        {
-            "type": "float",
-            "name": "search_focus_padding",
             "order": 5263
         },
         {
             "type": "float",
+            "name": "menu_item_left_right_margin",
+            "order": 5264
+        },
+        {
+            "type": "float",
+            "name": "menu_divider_start_margin",
+            "order": 5265
+        },
+        {
+            "type": "float",
+            "name": "menu_divider_end_margin",
+            "order": 5266
+        },
+        {
+            "type": "float",
+            "name": "menu_default_show_divider",
+            "order": 5267
+        },
+        {
+            "type": "float",
+            "name": "menu_need_focus",
+            "order": 5268
+        },
+        {
+            "type": "float",
+            "name": "search_need_focus_box",
+            "order": 5269
+        },
+        {
+            "type": "float",
+            "name": "textinput_need_focus_glow",
+            "order": 5270
+        },
+        {
+            "type": "float",
+            "name": "search_focus_padding",
+            "order": 5271
+        },
+        {
+            "type": "float",
             "name": "text_input_error_password_border_alpha",
+            "order": 5272
+        },
+        {
+            "type": "color",
+            "name": "search_icon_color",
+            "order": 5273
+        },
+        {
+            "type": "color",
+            "name": "search_symbol_icon_color",
+            "order": 5274
+        },
+        {
+            "type": "color",
+            "name": "search_text_focus_color",
+            "order": 5275
+        },
+        {
+            "type": "color",
+            "name": "search_container_focus_color",
+            "order": 5276
+        },
+        {
+            "type": "color",
+            "name": "search_icon_focus_color",
+            "order": 5277
+        },
+        {
+            "type": "color",
+            "name": "search_hover_color",
+            "order": 5278
+        },
+        {
+            "type": "color",
+            "name": "search_press_color",
+            "order": 5279
+        },
+        {
+            "type": "color",
+            "name": "textfield_bg_color",
+            "order": 5280
+        },
+        {
+            "type": "color",
+            "name": "search_text_color",
+            "order": 5281
+        },
+        {
+            "type": "color",
+            "name": "textfield_cursor_color",
+            "order": 5282
+        },
+        {
+            "type": "color",
+            "name": "search_placeholder_color",
+            "order": 5283
+        },
+        {
+            "type": "color",
+            "name": "search_border_color",
+            "order": 5284
+        },
+        {
+            "type": "color",
+            "name": "search_placeholder_focus_color",
+            "order": 5285
+        },
+        {
+            "type": "float",
+            "name": "search_icon_size",
             "order": 5286
+        },
+        {
+            "type": "float",
+            "name": "search_icon_height",
+            "order": 5287
+        },
+        {
+            "type": "float",
+            "name": "textfield_font_size",
+            "order": 5288
+        },
+        {
+            "type": "float",
+            "name": "search_default_height",
+            "order": 5289
+        },
+        {
+            "type": "float",
+            "name": "textfield_border_radius",
+            "order": 5290
+        },
+        {
+            "type": "float",
+            "name": "search_border_width",
+            "order": 5291
+        },
+        {
+            "type": "float",
+            "name": "search_cancel_button_style",
+            "order": 5292
+        },
+        {
+            "type": "float",
+            "name": "textfield_hover_press_bg_color_enabled",
+            "order": 5293
+        },
+        {
+            "type": "float",
+            "name": "text_input_need_focus_box",
+            "order": 5294
+        },
+        {
+            "type": "float",
+            "name": "text_input_focus_padding",
+            "order": 5295
         }
     ]
 }
