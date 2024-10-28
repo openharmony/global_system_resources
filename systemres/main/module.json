@@ -4178,6 +4178,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_ANALYTICS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.GET_ETHERNET_LOCAL_MAC",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
