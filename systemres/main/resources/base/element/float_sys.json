@@ -389,7 +389,7 @@
             "value": "$float:ohos_id_text_size_sub_title3"
         },
         {
-            "name": "picker_focus_area_type",
+            "name": "picker_area_focus_type",
             "value": "0"
         },
         {
@@ -405,7 +405,7 @@
             "value": "0.0vp"
         },
         {
-            "name": "picker_selector_item_focus_border_width",
+            "name": "picker_selector_item_border_focus_width",
             "value": "0.0vp"
         },
         {
@@ -735,6 +735,14 @@
         {
             "name": "text_input_focus_padding",
             "value": "2.0vp"
+        },
+        {
+            "name": "text_button_font_size",
+            "value": "18.0fp"
+        },
+        {
+            "name": "apply_text_font_size",
+            "value": "0.0"
         }
     ]
   }

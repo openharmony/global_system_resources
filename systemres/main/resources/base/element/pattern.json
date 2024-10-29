@@ -213,7 +213,7 @@
                 },
                 {
                     "name": "focus_bg_text",
-                    "value": "$color:text_button_focus_bg_color"
+                    "value": "$color:text_button_container_focus_color"
                 },
                 {
                     "name": "button_aging_big_font_size_scale",
@@ -249,7 +249,7 @@
                 },
                 {
                     "name": "color_border_small",
-                    "value": "$color:small_button_border_color"
+                    "value": "$color:button_small_border_color"
                 },
                 {
                     "name": "padding_text",
@@ -269,7 +269,15 @@
                 },
                 {
                     "name": "normal_button_focus_bgcolor",
-                    "value": "$color:normal_button_focus_bgcolor"
+                    "value": "$color:normal_button_container_focus_color"
+                },
+                {
+                    "name": "text_button_font_size",
+                    "value": "$float:text_button_font_size"
+                },
+                {
+                    "name": "apply_text_font_size",
+                    "value": "$float:apply_text_font_size"
                 }
             ]
         },
@@ -2995,7 +3003,7 @@
                 },
                 {
                     "name": "picker_focus_option_text_color",
-                    "value": "$color:picker_selector_item_focus_text_color"
+                    "value": "$color:picker_selector_item_text_focus_color"
                 },
                 {
                     "name": "picker_focus_option_weight",
@@ -3151,7 +3159,7 @@
                 },
                 {
                     "name": "picker_focus_area_type",
-                    "value": "$float:picker_focus_area_type"
+                    "value": "$float:picker_area_focus_type"
                 },
                 {
                     "name": "picker_selector_item_radius",
@@ -3167,11 +3175,11 @@
                 },
                 {
                     "name": "picker_selector_item_focus_border_width",
-                    "value": "$float:picker_selector_item_focus_border_width"
+                    "value": "$float:picker_selector_item_border_focus_width"
                 },
                 {
                     "name": "picker_selector_item_focus_border_color",
-                    "value": "$color:picker_selector_item_focus_border_color"
+                    "value": "$color:picker_selector_item_border_focus_color"
                 },
                 {
                     "name": "picker_selector_item_border_color",
@@ -3179,11 +3187,11 @@
                 },
                 {
                     "name": "picker_selector_item_focus_bg_color",
-                    "value": "$color:picker_selector_item_focus_bg_color"
+                    "value": "$color:picker_selector_item_container_focus_color"
                 },
                 {
                     "name": "picker_selector_item_normal_bg_color",
-                    "value": "$color:picker_selector_item_normal_bg_color"
+                    "value": "$color:picker_selector_item_container_normal_color"
                 }
             ]
         },
