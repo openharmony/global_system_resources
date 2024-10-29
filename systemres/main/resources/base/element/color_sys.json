@@ -212,6 +212,22 @@
             "name": "alert_divider_color",
             "value": "$color:comp_divider"
         },
+	    {
+            "name": "button_small_border_color",
+            "value": "#ff000000"
+        },
+        {
+            "name": "normal_button_container_focus_color",
+            "value": "#0c182431"
+        },
+        {
+            "name": "button_border_color",
+            "value": "#ff000000"
+        },
+        {
+            "name": "text_button_container_focus_color",
+            "value": "#00ffffff"
+        },
         {
             "name": "titlebar_title_tertiary_color",
             "value": "$color:font_primary"
@@ -519,6 +535,50 @@
         {
             "name": "text_input_border_color",
             "value": "#ff000000"
+        },
+        {
+            "name": "textpicker_selected_text_color",
+            "value": "$color:ohos_id_color_text_primary_activated"
+        },
+        {
+            "name": "textpicker_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "textpicker_disappear_text_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "picker_selector_item_hover_color",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "picker_selector_item_press_color",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "picker_selector_item_text_focus_color",
+            "value": "$color:ohos_id_picker_focus_option_text_color"
+        },
+        {
+            "name": "picker_select_divider_color",
+            "value": "$color:ohos_id_picker_select_divider_color"
+        },
+        {
+            "name": "picker_selector_item_border_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "picker_selector_item_border_focus_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "picker_selector_item_container_focus_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "picker_selector_item_container_normal_color",
+            "value": "#00000000"
         }
     ]
   }
