@@ -10708,9 +10708,8 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_board_switch",
-            "order": 2107,
-            "flags": "private"
+            "name": "switch_container_focus_color",
+            "order": 2107
         },
         {
             "type": "color",
@@ -10726,33 +10725,28 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_status_button_checked",
-            "order": 2110,
-            "flags": "private"
+            "name": "status_button_color_border_checked",
+            "order": 2110
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_status_button_unchecked",
-            "order": 2111,
-            "flags": "private"
+            "name": "status_button_color_border_unchecked",
+            "order": 2111
         },
         {
             "type": "color",
-            "name": "ohos_id_bgcolor_focus_status_button_unchecked",
-            "order": 2112,
-            "flags": "private"
+            "name": "status_button_container_focus_unchecked",
+            "order": 2112
         },
         {
             "type": "color",
-            "name": "ohos_id_bgcolor_focus_status_button_checked",
-            "order": 2113,
-            "flags": "private"
+            "name": "status_button_container_focus_checked",
+            "order": 2113
         },
         {
             "type": "color",
-            "name": "ohos_id_text_color_focus_status_button",
-            "order": 2114,
-            "flags": "private"
+            "name": "status_button_text_color_focus",
+            "order": 2114
         },
         {
             "type": "color",
@@ -26773,6 +26767,196 @@
             "type": "float",
             "name": "picker_selector_item_border_focus_width",
             "order": 5316
+        },
+        {
+            "type": "float",
+            "name": "status_button_bgcolor_checked_focus_alpha",
+            "order": 5317
+        },
+        {
+            "type": "float",
+            "name": "image_animator_corner_radius_card",
+            "order": 5318
+        },
+        {
+            "type": "float",
+            "name": "image_animator_clip_edge",
+            "order": 5319
+        },
+        {
+            "type": "color",
+            "name": "switch_unchecked_point_color",
+            "order": 5320
+        },
+        {
+            "type": "float",
+            "name": "switch_different_point_color",
+            "order": 5321
+        },
+        {
+            "type": "float",
+            "name": "switch_focus_box_padding",
+            "order": 5322
+        },
+        {
+            "type": "color",
+            "name": "slider_color_foreground",
+            "order": 5323
+        },
+        {
+            "type": "color",
+            "name": "slider_outset_and_none_track_color",
+            "order": 5324
+        },
+        {
+            "type": "color",
+            "name": "slider_color_emphasize",
+            "order": 5325
+        },
+        {
+            "type": "color",
+            "name": "slider_color_foreground_contrary",
+            "order": 5326
+        },
+        {
+            "type": "color",
+            "name": "slider_hover_color",
+            "order": 5327
+        },
+        {
+            "type": "color",
+            "name": "slider_color_click_effect",
+            "order": 5328
+        },
+        {
+            "type": "color",
+            "name": "slider_block_shadow_color",
+            "order": 5329
+        },
+        {
+            "type": "float",
+            "name": "slider_measure_content_outset_width",
+            "order": 5330
+        },
+        {
+            "type": "float",
+            "name": "slider_normal_alpha",
+            "order": 5331
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_block_size",
+            "order": 5332
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_hot_block_shadow_width",
+            "order": 5333
+        },
+        {
+            "type": "float",
+            "name": "slider_control_focus_frame",
+            "order": 5334
+        },
+        {
+            "type": "float",
+            "name": "slider_scale_value",
+            "order": 5335
+        },
+        {
+            "type": "color",
+            "name": "toast_border_color",
+            "order": 5336
+        },
+        {
+            "type": "float",
+            "name": "toast_border_enable",
+            "order": 5337
+        },
+        {
+            "type": "color",
+            "name": "toast_color_text_primary_contrary",
+            "order": 5338
+        },
+        {
+            "type": "color",
+            "name": "toast_container_color",
+            "order": 5339
+        },
+        {
+            "type": "color",
+            "name": "toast_font_primary",
+            "order": 5340
+        },
+        {
+            "type": "float",
+            "name": "toast_border_width",
+            "order": 5341
+        },
+        {
+            "type": "float",
+            "name": "toast_shadow_default",
+            "order": 5342
+        },
+        {
+            "type": "float",
+            "name": "toast_Body_M",
+            "order": 5343
+        },
+        {
+            "type": "float",
+            "name": "toast_text_font_size",
+            "order": 5344
+        },
+        {
+            "type": "float",
+            "name": "toast_border_radius",
+            "order": 5345
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_horizontal",
+            "order": 5346
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_vertical",
+            "order": 5347
+        },
+        {
+            "type": "float",
+            "name": "toast_bottom",
+            "order": 5348
+        },
+        {
+            "type": "float",
+            "name": "toast_border_radius_level9",
+            "order": 5349
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_horizontal_api_twelve",
+            "order": 5350
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_vertical_api_twelve",
+            "order": 5351
+        },
+        {
+            "type": "color",
+            "name": "switch_container_unselected_focus_color",
+            "order": 5352
+        },
+        {
+            "type": "color",
+            "name": "switch_point_unselected_focus_color",
+            "order": 5353
+        },
+        {
+            "type": "color",
+            "name": "switch_container_unchecked_color",
+            "order": 5354
         }
     ]
 }

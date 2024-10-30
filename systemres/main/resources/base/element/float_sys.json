@@ -349,10 +349,6 @@
             "value": "120.0"
         },
         {
-            "name": "toast_bg_theme_color_mode",
-            "value": "0.0"
-        },
-        {
             "name": "radio_container_focus_size",
             "value": "0.0vp"
         },
@@ -543,6 +539,14 @@
         {
             "name": "qrcode_default_size",
             "value": "240.0vp"
+        },
+        {
+            "name": "image_animator_corner_radius_card",
+            "value": "0.0vp"
+        },
+        {
+            "name": "image_animator_clip_edge",
+            "value": "0.0"
         },
         {
             "name": "app_theme_focus_width",
@@ -743,6 +747,94 @@
         {
             "name": "apply_text_font_size",
             "value": "0.0"
+        },
+        {
+            "name": "status_button_bgcolor_checked_focus_alpha",
+            "value": "$float:ohos_id_alpha_highlight_bg"
+        },
+        {
+            "name": "switch_different_point_color",
+            "value": "0.0"
+        },
+        {
+            "name": "switch_focus_box_padding",
+            "value": "2.0vp"
+        },
+        {
+            "name": "slider_measure_content_outset_width",
+            "value": "40.0vp"
+        },
+        {
+            "name": "slider_normal_alpha",
+            "value": "0.1"
+        },
+        {
+            "name": "slider_outset_block_size",
+            "value": "$float:ohos_id_outset_block_size"
+        },
+        {
+            "name": "slider_outset_hot_block_shadow_width",
+            "value": "$float:ohos_id_slider_outset_hot_block_shadow_width"
+        },
+        {
+            "name": "slider_control_focus_frame",
+            "value": "0.0"
+        },
+        {
+            "name": "slider_scale_value",
+            "value": "1.0"
+        },
+        {
+            "name": "toast_border_width",
+            "value": "$float:toast_outer_border_width"
+        },
+        {
+            "name": "toast_shadow_default",
+            "value": "2.0"
+        },
+        {
+            "name": "toast_bg_theme_color_mode",
+            "value": "0.0"
+        },
+        {
+            "name": "toast_text_font_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "toast_border_radius",
+            "value": "$float:toast_border_radius_old"
+        },
+        {
+            "name": "toast_padding_horizontal",
+            "value": "$float:toast_padding_old"
+        },
+        {
+            "name": "toast_padding_vertical",
+            "value": "$float:ohos_id_toast_padding_vertical"
+        },
+        {
+            "name": "toast_bottom",
+            "value": "$float:ohos_id_toast_bottom"
+        },
+        {
+            "name": "toast_border_radius_level9",
+            "value": "$float:toast_border_radius_new"
+        },
+        {
+            "name": "toast_padding_horizontal_api_twelve",
+            "value": "$float:ohos_id_toast_padding_level8"
+        },
+        {
+            "name": "toast_padding_vertical_api_twelve",
+            "value": "$float:toast_padding_level4"
+        },
+        {
+            "name": "toast_Body_M",
+            "value": "$float:Body_M"
+        },
+        {
+            "name": "toast_border_enable",
+            "value": "$float:toast_double_border_enable"
         }
     ]
   }

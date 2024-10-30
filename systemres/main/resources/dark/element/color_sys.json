@@ -275,6 +275,22 @@
         {
             "name": "menu_item_focused_text_color",
             "value": "#dbffffff"
+        },
+        {
+            "name": "status_button_container_focus_unchecked",
+            "value": "#19ffffff"
+        },
+        {
+            "name": "status_button_container_focus_checked",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "status_button_text_color_focus",
+            "value": "#dbffffff"
+        },
+        {
+            "name": "switch_point_unselected_focus_color",
+            "value": "#ffe5e5e5"
         }
     ]
   }
