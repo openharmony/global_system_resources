@@ -297,10 +297,6 @@
             "value": "#FF0A59F7"
         },
         {
-            "name": "toast_default_bg_color",
-            "value": "#00000000"
-        },
-        {
             "name": "radio_container_focus_color",
             "value": "#00ffffff"
         },
@@ -579,6 +575,94 @@
         {
             "name": "picker_selector_item_container_normal_color",
             "value": "#00000000"
+        },
+        {
+            "name": "switch_unchecked_point_color",
+            "value": "$color:point_color_checked"
+        },
+        {
+            "name": "status_button_color_border_checked",
+            "value": "#ff000000"
+        },
+        {
+            "name": "status_button_color_border_unchecked",
+            "value": "#ff000000"
+        },
+        {
+            "name": "status_button_container_focus_unchecked",
+            "value": "#0c182431"
+        },
+        {
+            "name": "status_button_container_focus_checked",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "status_button_text_color_focus",
+            "value": "#ff182431"
+        },
+        {
+            "name": "switch_container_focus_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "switch_container_unselected_focus_color",
+            "value": "#337F7F7F"
+        },
+        {
+            "name": "switch_point_unselected_focus_color",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "switch_container_unchecked_color",
+            "value": "#337F7F7F"
+        },
+        {
+            "name": "slider_color_foreground",
+            "value": "$color:ohos_id_color_foreground"
+        },
+        {
+            "name": "slider_outset_and_none_track_color",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "slider_color_emphasize",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "slider_color_foreground_contrary",
+            "value": "$color:ohos_id_color_foreground_contrary"
+        },
+        {
+            "name": "slider_hover_color",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "slider_color_click_effect",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "slider_block_shadow_color",
+            "value": "#26000000"
+        },
+        {
+            "name": "toast_border_color",
+            "value": "$color:toast_outer_border_color"
+        },
+        {
+            "name": "toast_default_bg_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "toast_color_text_primary_contrary",
+            "value": "$color:ohos_id_color_text_primary_contrary"
+        },
+        {
+            "name": "toast_container_color",
+            "value": "$color:ohos_id_color_instant_tip_bg"
+        },
+        {
+            "name": "toast_font_primary",
+            "value": "$color:font_primary"
         }
     ]
   }
