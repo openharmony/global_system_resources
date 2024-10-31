@@ -835,6 +835,146 @@
         {
             "name": "toast_border_enable",
             "value": "$float:toast_double_border_enable"
+        },
+        {
+            "name": "sheet_title_text_font_size",
+            "value": "$float:ohos_id_text_size_headline8"
+        },
+        {
+            "name": "sheet_title_text_margin",
+            "value": "$float:ohos_id_elements_margin_horizontal_l"
+        },
+        {
+            "name": "sheet_panel_background_blur_style",
+            "value": "0"
+        },
+        {
+            "name": "sheet_height_percent_large",
+            "value": "1.0"
+        },
+        {
+            "name": "sheet_height_percent_medium",
+            "value": "0.6"
+        },
+        {
+            "name": "sheet_operation_height",
+            "value": "56.0vp"
+        },
+        {
+            "name": "sheet_show_close_icon",
+            "value": "1"
+        },
+        {
+            "name": "sheet_height_apply_full_screen",
+            "value": "0"
+        },
+        {
+            "name": "sheet_title_text_horizontal_margin",
+            "value": "$float:ohos_id_elements_margin_horizontal_l"
+        },
+        {
+            "name": "tab_subtab_text_default_size",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "tab_bar_default_height",
+            "value": "56.0vp"
+        },
+        {
+            "name": "tab_bar_gradient_width",
+            "value": "$float:ohos_id_tab_bar_gradient_width_default"
+        },
+        {
+            "name": "tab_focus_indicator_radius",
+            "value": "$float:ohos_id_corner_radius_clicked"
+        },
+        {
+            "name": "tab_subtab_item_padding",
+            "value": "$float:ohos_id_subtab_item_padding"
+        },
+        {
+            "name": "tab_subtab_item_top_padding",
+            "value": "$float:ohos_id_subtab_top_padding"
+        },
+        {
+            "name": "tab_subtab_item_Horizontal_padding",
+            "value": "8.0vp"
+        },
+        {
+            "name": "tab_subtab_item_bottom_padding",
+            "value": "$float:ohos_id_subtab_bottom_padding"
+        },
+        {
+            "name": "tab_subtab_focused_style",
+            "value": "0"
+        },
+        {
+            "name": "tab_bar_board_focus_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "tab_subtab_item_horizontal_padding",
+            "value": "$float:ohos_id_subtab_horizontal_padding"
+        },
+        {
+            "name": "tab_bar_focus_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "tab_bar_margin_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "text_fadeout_width_sys",
+            "value": "16.0vp"
+        },
+        {
+            "name": "text_marquee_start_policy",
+            "value": "0.0"
+        },
+        {
+            "name": "checkbox_focus_paint_padding",
+            "value": "$float:ohos_id_checkbox_focus_paint_padding"
+        },
+        {
+            "name": "radio_focus_paint_padding",
+            "value": "$float:ohos_id_radio_focus_paint_padding"
+        },
+        {
+            "name": "switch_focus_paint_padding",
+            "value": "3.0vp"
+        },
+        {
+            "name": "menu_focus_style_type",
+            "value": "0.0"
+        },
+        {
+            "name": "select_focus_style_type",
+            "value": "0.0"
+        },
+        {
+            "name": "qrcode_focus_style_type",
+            "value": "0.0"
+        },
+        {
+            "name": "textfield_focus_style_type",
+            "value": "5.0"
+        },
+        {
+            "name": "swiper_focus_border_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "rating_focus_border_width",
+            "value": "$float:ohos_id_rating_focus_border_width"
+        },
+        {
+            "name": "tabs_active_indicator_width",
+            "value": "$float:ohos_id_active_indicator_width"
+        },
+        {
+            "name": "picker_focus_padding",
+            "value": "2.0vp"
         }
     ]
   }

@@ -10576,9 +10576,8 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_text_fadeout_width",
-            "order": 2081,
-            "flags": "private"
+            "name": "text_fadeout_width_sys",
+            "order": 2081
         },
         {
             "type": "float",
@@ -26957,6 +26956,261 @@
             "type": "color",
             "name": "switch_container_unchecked_color",
             "order": 5354
+        },
+        {
+            "type": "color",
+            "name": "sheet_title_text_font_color",
+            "order": 5355
+        },
+        {
+            "type": "color",
+            "name": "sheet_panel_background_color",
+            "order": 5356
+        },
+        {
+            "type": "color",
+            "name": "focus_animation_color",
+            "order": 5357
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_select_text_color",
+            "order": 5358
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_text_color",
+            "order": 5359
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_container_hover_color",
+            "order": 5360
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_container_press_color",
+            "order": 5361
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_active_indicator_color",
+            "order": 5362
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_text_focus_color",
+            "order": 5363
+        },
+        {
+            "type": "color",
+            "name": "tab_bar_focused_color",
+            "order": 5364
+        },
+        {
+            "type": "color",
+            "name": "checkbox_focus_color",
+            "order": 5365
+        },
+        {
+            "type": "color",
+            "name": "radio_focus_color",
+            "order": 5366
+        },
+        {
+            "type": "color",
+            "name": "switch_focus_color",
+            "order": 5367
+        },
+        {
+            "type": "color",
+            "name": "qrcode_focused_color",
+            "order": 5368
+        },
+        {
+            "type": "color",
+            "name": "swiper_indicator_color_focused",
+            "order": 5369
+        },
+        {
+            "type": "color",
+            "name": "picker_focus_color",
+            "order": 5370
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_text_font_size",
+            "order": 5371
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_text_margin",
+            "order": 5372
+        },
+        {
+            "type": "float",
+            "name": "sheet_panel_background_blur_style",
+            "order": 5373
+        },
+        {
+            "type": "float",
+            "name": "sheet_height_percent_large",
+            "order": 5374
+        },
+        {
+            "type": "float",
+            "name": "sheet_height_percent_medium",
+            "order": 5375
+        },
+        {
+            "type": "float",
+            "name": "sheet_operation_height",
+            "order": 5376
+        },
+        {
+            "type": "float",
+            "name": "sheet_show_close_icon",
+            "order": 5377
+        },
+        {
+            "type": "float",
+            "name": "sheet_height_apply_full_screen",
+            "order": 5378
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_text_horizontal_margin",
+            "order": 5379
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_text_default_size",
+            "order": 5380
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_default_height",
+            "order": 5381
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_gradient_width",
+            "order": 5382
+        },
+        {
+            "type": "float",
+            "name": "tab_focus_indicator_radius",
+            "order": 5383
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_item_padding",
+            "order": 5384
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_item_top_padding",
+            "order": 5385
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_item_Horizontal_padding",
+            "order": 5386
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_item_bottom_padding",
+            "order": 5387
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_focused_style",
+            "order": 5388
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_board_focus_padding",
+            "order": 5389
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_item_horizontal_padding",
+            "order": 5390
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_focus_padding",
+            "order": 5391
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_margin_width",
+            "order": 5392
+        },
+        {
+            "type": "float",
+            "name": "text_marquee_start_policy",
+            "order": 5393
+        },
+        {
+            "type": "float",
+            "name": "checkbox_focus_paint_padding",
+            "order": 5394
+        },
+        {
+            "type": "float",
+            "name": "radio_focus_paint_padding",
+            "order": 5395
+        },
+        {
+            "type": "float",
+            "name": "switch_focus_paint_padding",
+            "order": 5396
+        },
+        {
+            "type": "float",
+            "name": "menu_focus_style_type",
+            "order": 5397
+        },
+        {
+            "type": "float",
+            "name": "select_focus_style_type",
+            "order": 5398
+        },
+        {
+            "type": "float",
+            "name": "qrcode_focus_style_type",
+            "order": 5399
+        },
+        {
+            "type": "float",
+            "name": "textfield_focus_style_type",
+            "order": 5400
+        },
+        {
+            "type": "float",
+            "name": "swiper_focus_border_width",
+            "order": 5401
+        },
+        {
+            "type": "float",
+            "name": "rating_focus_border_width",
+            "order": 5402
+        },
+        {
+            "type": "float",
+            "name": "tabs_active_indicator_width",
+            "order": 5403
+        },
+        {
+            "type": "float",
+            "name": "picker_focus_padding",
+            "order": 5404
+        },
+        {
+            "type": "string",
+            "name": "sheet_type",
+            "order": 5405
         }
     ]
 }
