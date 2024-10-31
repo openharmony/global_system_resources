@@ -25925,6 +25925,160 @@
             "type": "string",
             "name": "delete_used_for_accessibility_text",
             "order": 5131
+        },
+        {
+            "type": "float",
+            "name": "subheader_single_title_height",
+            "order": 5132,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "subheader_single_subtitle_height",
+            "order": 5133,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "subheader_double_height",
+            "order": 5134,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "subheader_title_font_weight",
+            "order": 5135,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "navigation_drag_bar_item_default",
+            "order": 5136,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "navigation_drag_bar_active",
+            "order": 5137,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "navigation_divider_light_blue_active",
+            "order": 5138,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "navigation_divider_dark_blue_active",
+            "order": 5139,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "request_agent_download_success",
+            "order": 5140,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "request_agent_download_fail",
+            "order": 5141,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "request_agent_upload_file",
+            "order": 5142,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "request_agent_upload_success",
+            "order": 5143,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "request_agent_upload_fail",
+            "order": 5144,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "subheader_title_font_size",
+            "order": 5145,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "window_close_icon_width",
+            "order": 5146,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_text_horizontal_margin",
+            "order": 5147,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "window_close_radius",
+            "order": 5148,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_custom_screen_capture",
+            "order": 5149,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_custom_screen_capture",
+            "order": 5150,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_window_radius",
+            "order": 5151
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_window_saturation",
+            "order": 5152
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_window_brightness",
+            "order": 5153
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_window_radius_dark",
+            "order": 5154
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_window_saturation_dark",
+            "order": 5155
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_blur_style_component_ultra_thick_window_brightness_dark",
+            "order": 5156
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_ultra_thick_window_color",
+            "order": 5157
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_blur_style_component_ultra_thick_window_color_dark",
+            "order": 5158
         }
     ]
 }
