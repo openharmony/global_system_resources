@@ -1118,15 +1118,24 @@
         },
         {
             "name": "general_get_it",
-            "value": "知道了"
+            "value": "知道了",
+            "attr":{
+                "priority": "translate"
+            }
         },
         {
             "name": "lab_developer_mode_tips",
-            "value": "需要启动开发者模式"
+            "value": "需要启动开发者模式",
+            "attr":{
+                "priority": "translate"
+            }
         },
         {
             "name": "desc_developer_mode_tips",
-            "value": "需要在开发者模式下运行"
+            "value": "需要在开发者模式下运行。",
+            "attr":{
+                "priority": "translate"
+            }
         },
         {
             "name": "delete_used_for_accessibility_text",

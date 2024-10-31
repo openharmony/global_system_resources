@@ -491,6 +491,27 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name": "general_get_it",
+            "value": "知道了",
+            "attr":{
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "desc_developer_mode_tips",
+            "value": "需要在開發人員模式下執行。",
+            "attr":{
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "lab_developer_mode_tips",
+            "value": "需要啟動開發人員模式",
+            "attr":{
+                "priority": "translate"
+            }
         }
     ]
 }
