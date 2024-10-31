@@ -663,6 +663,70 @@
         {
             "name": "toast_font_primary",
             "value": "$color:font_primary"
+        },
+        {
+            "name": "sheet_title_text_font_color",
+            "value": "$color:ohos_id_color_text_primary"
+        },
+        {
+            "name": "sheet_panel_background_color",
+            "value": "$color:ohos_id_color_panel_bg"
+        },
+        {
+            "name": "focus_animation_color",
+            "value": "$color:ohos_id_color_focused_outline"
+        },
+        {
+            "name": "tab_subtab_select_text_color",
+            "value": "$color:ohos_id_color_subtab_text_on"
+        },
+        {
+            "name": "tab_subtab_text_color",
+            "value": "$color:ohos_id_color_subtab_text_off"
+        },
+        {
+            "name": "tab_subtab_container_hover_color",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "tab_subtab_container_press_color",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "tab_subtab_active_indicator_color",
+            "value": "$color:ohos_id_color_subtab_line_on"
+        },
+        {
+            "name": "tab_subtab_text_focus_color",
+            "value": "$color:ohos_id_color_subtab_text_off"
+        },
+        {
+            "name": "tab_bar_focused_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "checkbox_focus_color",
+            "value": "$color:ohos_id_color_text_primary_activated"
+        },
+        {
+            "name": "radio_focus_color",
+            "value": "$color:ohos_id_color_focused_outline"
+        },
+        {
+            "name": "switch_focus_color",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "qrcode_focused_color",
+            "value": "$color:ohos_id_color_focused_outline"
+        },
+        {
+            "name": "swiper_indicator_color_focused",
+            "value": "$color:ohos_id_color_focused_outline"
+        },
+        {
+            "name": "picker_focus_color",
+            "value": "$color:ohos_id_picker_focus_color"
         }
     ]
   }
