@@ -1230,15 +1230,24 @@
         },
         {
             "name": "general_get_it",
-            "value": "OK"
+            "value": "OK",
+            "attr":{
+                "priority": "translate"
+            }
         },
         {
             "name": "lab_developer_mode_tips",
-            "value": "Need to open developer mode"
+            "value": "Enable developer options first",
+            "attr":{
+                "priority": "translate"
+            }
         },
         {
             "name": "desc_developer_mode_tips",
-            "value": "need to run in developer mode"
+            "value": "Developer options needs to be enabled to run this.",
+            "attr":{
+                "priority": "translate"
+            }
         },
         {
             "name": "delete_used_for_accessibility_text",
