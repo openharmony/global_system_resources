@@ -1203,6 +1203,134 @@
         {
             "name": "dialog_scroll_right_margin",
             "value": "$float:padding_level8"
+        },
+        {
+            "name": "select_normal_text_primary_alpha",
+            "value": "$float:ohos_id_alpha_content_primary"
+        },
+        {
+            "name": "select_disabled_color_alpha",
+            "value": "$float:ohos_id_alpha_disabled"
+        },
+        {
+            "name": "menu_normal_text_size",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "select_normal_text_font_size",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "select_option_border_selected_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "select_min_width",
+            "value": "66.0vp"
+        },
+        {
+            "name": "normal_select_min_width",
+            "value": "68.0vp"
+        },
+        {
+            "name": "small_select_min_width",
+            "value": "56.0vp"
+        },
+        {
+            "name": "select_normal_content_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "select_left_right_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "menu_normal_out_padding",
+            "value": "4.0vp"
+        },
+        {
+            "name": "option_normal_width",
+            "value": "156.0vp"
+        },
+        {
+            "name": "inner_border_radius",
+            "value": "$float:ohos_id_corner_radius_default_m"
+        },
+        {
+            "name": "menu_text_tertiary_alpha",
+            "value": "$float:ohos_id_alpha_content_tertiary"
+        },
+        {
+            "name": "select_text_size",
+            "value": "$float:ohos_id_text_size_body1"
+        },
+        {
+            "name": "menu_is_blend_bg_color",
+            "value": "0"
+        },
+        {
+            "name": "select_option_focus_box_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "select_option_apply_focus_style",
+            "value": "0"
+        },
+        {
+            "name": "select_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "select_normal_shadow",
+            "value": "6.0"
+        },
+        {
+            "name": "select_focus_shadow",
+            "value": "6.0"
+        },
+        {
+            "name": "select_focus_scale",
+            "value": "1.0"
+        },
+        {
+            "name": "menu_normal_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "menu_container_normal_blur_type",
+            "value": "12.0"
+        },
+        {
+            "name": "select_option_normal_top_bottom_margin",
+            "value": "0.0vp"
+        },
+        {
+            "name": "select_option_content_normal_align",
+            "value": "4.0"
+        },
+        {
+            "name": "select_option_content_normal_left_right_padding",
+            "value": "0.0vp"
+        },
+        {
+            "name": "select_option_focus_left_right_margin",
+            "value": "0.0vp"
+        },
+        {
+            "name": "select_option_focus_shadow",
+            "value": "6.0"
+        },
+        {
+            "name": "select_slide_more_offset",
+            "value": "0"
+        },
+        {
+            "name": "textfield_independent_control_keyboard",
+            "value": "0.0"
+        },
+        {
+            "name": "textfield_direction_keys_move_focus_out",
+            "value": "0.0"
         }
     ]
   }

@@ -27706,6 +27706,266 @@
             "type": "float",
             "name": "dialog_scroll_right_margin",
             "order": 5504
+        },
+        {
+            "type": "float",
+            "name": "select_normal_text_primary_alpha",
+            "order": 5505
+        },
+        {
+            "type": "float",
+            "name": "select_disabled_color_alpha",
+            "order": 5506
+        },
+        {
+            "type": "float",
+            "name": "menu_normal_text_size",
+            "order": 5507
+        },
+        {
+            "type": "float",
+            "name": "select_normal_text_font_size",
+            "order": 5508
+        },
+        {
+            "type": "float",
+            "name": "select_option_border_selected_width",
+            "order": 5509
+        },
+        {
+            "type": "float",
+            "name": "select_min_width",
+            "order": 5510
+        },
+        {
+            "type": "float",
+            "name": "normal_select_min_width",
+            "order": 5511
+        },
+        {
+            "type": "float",
+            "name": "small_select_min_width",
+            "order": 5512
+        },
+        {
+            "type": "float",
+            "name": "select_normal_content_margin",
+            "order": 5513
+        },
+        {
+            "type": "float",
+            "name": "select_left_right_margin",
+            "order": 5514
+        },
+        {
+            "type": "float",
+            "name": "menu_normal_out_padding",
+            "order": 5515
+        },
+        {
+            "type": "float",
+            "name": "option_normal_width",
+            "order": 5516
+        },
+        {
+            "type": "color",
+            "name": "select_option_container_focus_color",
+            "order": 5517
+        },
+        {
+            "type": "float",
+            "name": "inner_border_radius",
+            "order": 5518
+        },
+        {
+            "type": "float",
+            "name": "menu_text_tertiary_alpha",
+            "order": 5519
+        },
+        {
+            "type": "float",
+            "name": "select_text_size",
+            "order": 5520
+        },
+        {
+            "type": "float",
+            "name": "menu_is_blend_bg_color",
+            "order": 5521
+        },
+        {
+            "type": "float",
+            "name": "select_option_focus_box_padding",
+            "order": 5522
+        },
+        {
+            "type": "float",
+            "name": "select_option_apply_focus_style",
+            "order": 5523
+        },
+        {
+            "type": "float",
+            "name": "select_border_width",
+            "order": 5524
+        },
+        {
+            "type": "float",
+            "name": "select_normal_shadow",
+            "order": 5525
+        },
+        {
+            "type": "float",
+            "name": "select_focus_shadow",
+            "order": 5526
+        },
+        {
+            "type": "float",
+            "name": "select_focus_scale",
+            "order": 5527
+        },
+        {
+            "type": "float",
+            "name": "menu_normal_border_width",
+            "order": 5528
+        },
+        {
+            "type": "float",
+            "name": "menu_container_normal_blur_type",
+            "order": 5529
+        },
+        {
+            "type": "float",
+            "name": "select_option_normal_top_bottom_margin",
+            "order": 5530
+        },
+        {
+            "type": "float",
+            "name": "select_option_content_normal_align",
+            "order": 5531
+        },
+        {
+            "type": "float",
+            "name": "select_option_content_normal_left_right_padding",
+            "order": 5532
+        },
+        {
+            "type": "float",
+            "name": "select_option_focus_left_right_margin",
+            "order": 5533
+        },
+        {
+            "type": "float",
+            "name": "select_option_focus_shadow",
+            "order": 5534
+        },
+        {
+            "type": "float",
+            "name": "select_slide_more_offset",
+            "order": 5535
+        },
+        {
+            "type": "color",
+            "name": "select_border_normal_color",
+            "order": 5536
+        },
+        {
+            "type": "color",
+            "name": "select_normal_icon_color",
+            "order": 5537
+        },
+        {
+            "type": "color",
+            "name": "select_normal_font_color",
+            "order": 5538
+        },
+        {
+            "type": "color",
+            "name": "select_option_hovered_bg_color",
+            "order": 5539
+        },
+        {
+            "type": "color",
+            "name": "select_option_clicked_bg_color",
+            "order": 5540
+        },
+        {
+            "type": "color",
+            "name": "select_menu_container_normal_color",
+            "order": 5541
+        },
+        {
+            "type": "color",
+            "name": "menu_text_normal_color",
+            "order": 5542
+        },
+        {
+            "type": "color",
+            "name": "select_normal_bg_color",
+            "order": 5543
+        },
+        {
+            "type": "color",
+            "name": "select_option_border_selected_color",
+            "order": 5544
+        },
+        {
+            "type": "color",
+            "name": "select_selected_color",
+            "order": 5545
+        },
+        {
+            "type": "color",
+            "name": "text_color_selected",
+            "order": 5546
+        },
+		{
+            "type": "color",
+            "name": "select_font_color",
+            "order": 5547
+        },
+        {
+            "type": "color",
+            "name": "select_bg_color_selected",
+            "order": 5548
+        },
+        {
+            "type": "color",
+            "name": "select_text_focus_color",
+            "order": 5549
+        },
+        {
+            "type": "color",
+            "name": "select_focus_text_color",
+            "order": 5550
+        },
+        {
+            "type": "color",
+            "name": "select_focus_icon_color",
+            "order": 5551
+        },
+        {
+            "type": "color",
+            "name": "select_container_focus_color",
+            "order": 5552
+        },
+        {
+            "type": "color",
+            "name": "select_option_focus_font_color",
+            "order": 5553
+        },
+        {
+            "type": "color",
+            "name": "menu_normal_border_color",
+            "order": 5554
+        },
+        {
+            "type": "float",
+            "name": "textfield_independent_control_keyboard",
+            "order": 5555
+        },
+        {
+            "type": "float",
+            "name": "textfield_direction_keys_move_focus_out",
+            "order": 5556
         }
     ]
 }
