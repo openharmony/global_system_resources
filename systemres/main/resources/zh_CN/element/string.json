@@ -987,8 +987,11 @@
             "value": "今天"
         },
         {
-            "name": "pass_point",
-            "value": "已连接圆点"
+            "name":"pass_point",
+            "value":"已连接圆点%d",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "general_paste",
