@@ -1258,23 +1258,38 @@
         },
         {
             "name": "request_agent_download_success",
-            "value": "Download success"
+            "value": "Download successful",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "request_agent_download_fail",
-            "value": "Download fail"
+            "value": "Download failed",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "request_agent_upload_file",
-            "value": "Upload file"
+            "value": "Uploading file… (%d)",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "request_agent_upload_success",
-            "value": "Upload success"
+            "value": "Upload successful",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "request_agent_upload_fail",
-            "value": "upload fail"
+            "value": "Upload failed",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_lab_custom_screen_capture",

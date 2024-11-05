@@ -519,6 +519,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name": "request_agent_upload_success",
+            "value": "يۈكلەندى",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_upload_fail",
+            "value": "يۈكلەنمىدى",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_download_fail",
+            "value": "چۈشمىدى",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_download_success",
+            "value": "چۈشتى",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_upload_file",
+            "value": "ھۆججەت يۈكلەش ‎%d",
+            "attr": {
+                "priority": "translate"
+            }
         }
     ]
 }

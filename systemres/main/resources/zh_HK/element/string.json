@@ -519,6 +519,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name": "request_agent_upload_success",
+            "value": "上載成功",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_upload_fail",
+            "value": "無法上載",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_download_fail",
+            "value": "無法下載",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_download_success",
+            "value": "下載成功",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_upload_file",
+            "value": "上載檔案 %d",
+            "attr": {
+                "priority": "translate"
+            }
         }
     ]
 }
