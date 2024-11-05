@@ -1099,8 +1099,11 @@
             "value": "today"
         },
         {
-            "name": "pass_point",
-            "value": "Dots have been connected"
+            "name":"pass_point",
+            "value":"Connected to dot %d",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "general_paste",
