@@ -519,6 +519,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name": "request_agent_upload_success",
+            "value": "ཡར་སྐྱེལ་ཐུབ་སོང་།",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_upload_fail",
+            "value": "ཡར་སྐྱེལ་མ་ཐུབ།",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_download_fail",
+            "value": "ཕབ་ལེན་བྱེད་མ་ཐུབ།",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_download_success",
+            "value": "ཕབ་ལེན་བྱེད་ཐུབ་སོང་།",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "request_agent_upload_file",
+            "value": "ཡིག་ཆ་ཡར་སྐྱེལ། %d",
+            "attr": {
+                "priority": "translate"
+            }
         }
     ]
 }

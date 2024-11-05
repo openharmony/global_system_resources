@@ -1146,23 +1146,38 @@
         },
         {
             "name": "request_agent_download_success",
-            "value": "下载成功"
+            "value": "下载成功",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "request_agent_download_fail",
-            "value": "下载失败"
+            "value": "下载失败",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "request_agent_upload_file",
-            "value": "上传文件"
+            "value": "上传文件 %d",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "request_agent_upload_success",
-            "value": "上传成功"
+            "value": "上传成功",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "request_agent_upload_fail",
-            "value": "上传失败"
+            "value": "上传失败",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_lab_custom_screen_capture",

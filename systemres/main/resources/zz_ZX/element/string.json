@@ -259,6 +259,26 @@
         {
             "name":"pass_point",
             "value":"[TS_960036]_Connected to dot %d"
+        },
+        {
+            "name": "request_agent_upload_success",
+            "value": "[TS_980589]_Upload successful"
+        },
+        {
+            "name": "request_agent_upload_fail",
+            "value": "[TS_980585]_Upload failed"
+        },
+        {
+            "name": "request_agent_download_fail",
+            "value": "[TS_980590]_Download failed"
+        },
+        {
+            "name": "request_agent_download_success",
+            "value": "[TS_980588]_Download successful"
+        },
+        {
+            "name": "request_agent_upload_file",
+            "value": "[TS_980587]_Uploading file… (%d)"
         }
     ]
 }
