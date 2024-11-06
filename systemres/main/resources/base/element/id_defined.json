@@ -26042,6 +26042,46 @@
             "type": "color",
             "name": "ohos_id_blur_style_component_ultra_thick_window_color_dark",
             "order": 5158
+        },
+        {
+            "type": "float",
+            "name": "account_main_title_font_size",
+            "order": 5159
+        },
+        {
+            "type": "float",
+            "name": "account_sub_title_font_size",
+            "order": 5160
+        },
+        {
+            "type": "float",
+            "name": "account_sub_head_height",
+            "order": 5161
+        },
+        {
+            "type": "float",
+            "name": "account_button_max_size",
+            "order": 5162
+        },
+        {
+            "type": "float",
+            "name": "account_list_item_height",
+            "order": 5163
+        },
+        {
+            "type": "float",
+            "name": "account_list_corner_radius",
+            "order": 5164
+        },
+        {
+            "type": "float",
+            "name": "account_list_item_corner_radius",
+            "order": 5165
+        },
+        {
+            "type": "float",
+            "name": "account_page_padding",
+            "order": 5166
         }
     ]
 }
