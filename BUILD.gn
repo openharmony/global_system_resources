@@ -21,7 +21,7 @@ foreach(font, sys_fonts_list) {
     source = font.font_path
     module_install_dir = "fonts"
     subsystem_name = "global"
-    part_name = "ace_engine"
+    part_name = "system_resources"
   }
   dep_list += [ font_name ]
 }
