@@ -4439,6 +4439,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_APP_KEEP_ALIVE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 14,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
