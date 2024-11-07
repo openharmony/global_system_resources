@@ -347,6 +347,13 @@
         {
             "name":"slider_accessibility_disabledDesc",
             "value":"སྤྱོད་མི་ཐུབ།"
-        }    
+        },
+        {
+            "name":"pass_point",
+            "value":"སྒོར་ཚེག་ %d ལ་སྦྲེལ་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        }
     ]
 }

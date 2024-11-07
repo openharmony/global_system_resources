@@ -347,6 +347,13 @@
         {
             "name":"slider_accessibility_disabledDesc",
             "value":"不可用"
+        },
+        {
+            "name":"pass_point",
+            "value":"已連接圓點%d",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

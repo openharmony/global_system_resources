@@ -921,6 +921,13 @@
             "value": "Show lunar calendar"
         },
         {
+            "name":"pass_point",
+            "value":"Connected to dot %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name": "general_paste",
             "value": "Paste"
         },
