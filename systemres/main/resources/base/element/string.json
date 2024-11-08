@@ -1298,6 +1298,10 @@
         {
             "name": "ohos_desc_custom_screen_capture",
             "value": "With this permission, the application can perform operations such as taking screenshots and recording on-screen information. Currently, this permission is available only for applications running on tablets and 2-in-1 devices"
+        },
+        {
+            "name": "request_agent_download_file",
+            "value": "Downloading file… (%s)"
         }
     ]
 }
