@@ -6308,15 +6308,19 @@
                     "value": "$color:slider_block_shadow_color"
                 },
                 {
-                    "name": "control_focus_frame",
+                    "name": "show_focus_frame",
                     "value": "$float:slider_control_focus_frame"
                 },
                 {
-                    "name": "scale_value",
+                    "name": "focused_scale_value",
                     "value": "$float:slider_scale_value"
                 },
                 {
-                    "name": "outset_and_none_track_color",
+                    "name": "outset_mode_selected_track_color",
+                    "value": "$color:slider_outset_and_none_track_color"
+                },
+                {
+                    "name": "none_mode_selected_track_color",
                     "value": "$color:slider_outset_and_none_track_color"
                 },
                 {
