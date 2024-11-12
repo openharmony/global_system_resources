@@ -26087,6 +26087,16 @@
             "type": "string",
             "name": "request_agent_download_file",
             "order": 5167
+        },
+        {
+            "type": "color",
+            "name": "container_modal_button_normal_baseboard",
+            "order": 5168
+        },
+        {
+            "type": "color",
+            "name": "container_modal_button_hover_baseboard",
+            "order": 5169
         }
     ]
 }
