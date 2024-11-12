@@ -809,6 +809,13 @@
             "value": "显示农历"
         },
         {
+            "name":"pass_point",
+            "value":"已连接圆点%d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name": "general_paste",
             "value": "粘贴"
         },
