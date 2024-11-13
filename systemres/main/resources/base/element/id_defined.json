@@ -26097,6 +26097,16 @@
             "type": "color",
             "name": "container_modal_button_hover_baseboard",
             "order": 5169
+        },
+        {
+            "type": "float",
+            "name": "textfield_inline_padding_left",
+            "order": 5170
+        },
+        {
+            "type": "float",
+            "name": "textfield_inline_padding_right",
+            "order": 5171
         }
     ]
 }
