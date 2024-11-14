@@ -4530,6 +4530,14 @@
                 {
                     "name": "textfield_accessibility_clear",
                     "value": "$string:textfield_accessibility_clear"
+                },
+                {
+                    "name": "inline_padding_left",
+                    "value": "$float:textfield_inline_padding_left"
+                },
+                {
+                    "name": "inline_padding_right",
+                    "value": "$float:textfield_inline_padding_right"
                 }
             ]
         },
