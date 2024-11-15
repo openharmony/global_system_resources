@@ -2448,8 +2448,7 @@
             {
                 "name": "ohos.permission.FILE_GUARD_MANAGER",
                 "grantMode": "system_grant",
-                "availableLevel": "system_core",
-                "availableType": "MDM",
+                "availableLevel": "system_basic",
                 "since": 10,
                 "deprecated": "",
                 "provisionEnable": true,
@@ -2458,8 +2457,7 @@
             {
                 "name": "ohos.permission.SET_FILE_GUARD_POLICY",
                 "grantMode": "system_grant",
-                "availableLevel": "system_core",
-                "availableType": "MDM",
+                "availableLevel": "system_basic",
                 "since": 10,
                 "deprecated": "",
                 "provisionEnable": true,
