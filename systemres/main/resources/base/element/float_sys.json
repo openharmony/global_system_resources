@@ -674,7 +674,7 @@
         },
         {
             "name": "search_icon_size",
-            "value": "16.0_fp"
+            "value": "$float:ohos_id_search_icon_size"
         },
         {
             "name": "search_icon_height",
@@ -897,7 +897,7 @@
             "value": "$float:ohos_id_subtab_top_padding"
         },
         {
-            "name": "tab_subtab_item_Horizontal_padding",
+            "name": "tab_subtab_item_horizontal_padding",
             "value": "8.0vp"
         },
         {
@@ -913,7 +913,7 @@
             "value": "0.0vp"
         },
         {
-            "name": "tab_subtab_item_horizontal_padding",
+            "name": "tab_subbar_item_horizontal_padding",
             "value": "$float:ohos_id_subtab_horizontal_padding"
         },
         {
@@ -986,7 +986,7 @@
         },
         {
             "name": "segment_button_baseplate_padding",
-            "value": "2.0vp"
+            "value": "2.0"
         },
         {
             "name": "segment_button_text_u_d_padding",

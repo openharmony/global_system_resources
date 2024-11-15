@@ -27114,7 +27114,7 @@
         },
         {
             "type": "float",
-            "name": "tab_subtab_item_Horizontal_padding",
+            "name": "tab_subtab_item_horizontal_padding",
             "order": 5386
         },
         {
@@ -27134,7 +27134,7 @@
         },
         {
             "type": "float",
-            "name": "tab_subtab_item_horizontal_padding",
+            "name": "tab_subbar_item_horizontal_padding",
             "order": 5390
         },
         {
@@ -27966,6 +27966,16 @@
             "type": "float",
             "name": "textfield_direction_keys_move_focus_out",
             "order": 5556
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_primary_control_color",
+            "order": 5557
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_focus_bg",
+            "order": 5558
         }
     ]
 }

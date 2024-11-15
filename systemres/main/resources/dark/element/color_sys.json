@@ -234,11 +234,11 @@
         },
         {
             "name": "radio_ring_focus_color_unchecked",
-            "value": "#33000000"
+            "value": "#66ffffff"
         },
         {
             "name": "radio_container_focus_color_unchecked",
-            "value": "#66ffffff"
+            "value": "#33000000"
         },
         {
             "name": "swiper_indicator_unselected_focus_color",
@@ -258,7 +258,7 @@
         },
         {
             "name": "normal_button_container_focus_color",
-            "value": "#00000000"
+            "value": "$color:comp_background_tertiary"
         },
         {
             "name": "swiper_indicator_selected_focus_color",
