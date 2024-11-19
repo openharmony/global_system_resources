@@ -1267,6 +1267,150 @@
         {
             "name": "request_agent_upload_fail",
             "value": "upload fail"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item",
+            "value": "%s, added to the Edit Sort area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item_desc",
+            "value": "Double-tap and hold to drag and sort"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item_delete",
+            "value": "%s, moves out of the edit sort area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_start",
+            "value": "Lifted, %s"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_moving",
+            "value": "Row %1$d, column %2$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_stop",
+            "value": "Placed, row %1$d, column %2$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_add_item_add",
+            "value": "Added to the edit sort area, row %1$d, column %2$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_add_item_long_press_gesture",
+            "value": "Entered edit state"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_add_item",
+            "value": "%s, added to the edit sort area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_add_item_desc",
+            "value": "Double-tap and hold to enter the editing mode"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_add_item_add_icon_desc",
+            "value": "Double-tap to add to the edit sorting area"
+        },
+        {
+            "name": "subheader_accessibility_title",
+            "value": "title"
+        },
+        {
+            "name": "selecttitlebar_accessibility_message_desc",
+            "value": "%s new message"
+        },
+        {
+            "name": "treeview_accessibility_expand_node",
+            "value": "expand"
+        },
+        {
+            "name": "treeview_accessibility_fold_node",
+            "value": "fold"
+        },
+        {
+            "name": "treeview_accessibility_expanded_node",
+            "value": "expanded"
+        },
+        {
+            "name": "treeview_accessibility_folded_node",
+            "value": "folded"
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "Double-tap to select it, and double-tap to drag it up and down"
+        },
+        {
+            "name": "treeview_accessibility_select_node",
+            "value": "Checked, %s"
+        },
+        {
+            "name": "treeview_accessibility_lift_node",
+            "value": "%s, lifted"
+        },
+        {
+            "name": "treeview_accessibility_move_node_parent",
+            "value": "Item %d"
+        },
+        {
+            "name": "treeview_accessibility_place_node_parent",
+            "value": "Placed, item %d"
+        },
+        {
+            "name": "treeview_accessibility_move_node_child",
+            "value": "To %2$d of %1$s"
+        },
+        {
+            "name": "treeview_accessibility_place_node_child",
+            "value": "Item %2$d where %1$s has been placed"
+        },
+        {
+            "name": "filter_accessibility_selected",
+            "value": "Selected"
+        },
+        {
+            "name": "filter_accessibility_unselected",
+            "value": "Unselected"
+        },
+        {
+            "name": "filter_accessibility_expand",
+            "value": "Expand"
+        },
+        {
+            "name": "filter_accessibility_expanded",
+            "value": "Expanded"
+        },
+        {
+            "name": "filter_accessibility_collapse",
+            "value": "Collapse"
+        },
+        {
+            "name": "filter_accessibility_collapsed",
+            "value": "Collapsed"
+        },
+        {
+            "name": "filter_accessibility_filters",
+            "value": "Filters"
+        },
+        {
+            "name": "filter_accessibility_select_desc",
+            "value": "Double-tap to select it"
+        },
+        {
+            "name": "filter_accessibility_unselect_desc",
+            "value": "Double-tap to deselect it"
+        },
+        {
+            "name": "filter_accessibility_expand_desc",
+            "value": "Double-tap to expand"
+        },
+        {
+            "name": "advanced_dialog_accessibility_checkbox",
+            "value": "checkbox"
+        },
+        {
+            "name": "advanced_dialog_accessibility_cancel_checked_desc",
+            "value": "Double-tap to deselect it"
         }
     ]
 }
