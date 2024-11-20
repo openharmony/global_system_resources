@@ -4466,6 +4466,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_APP_INSTALL_DIR",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 14,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.READ_APP_LOCK",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
