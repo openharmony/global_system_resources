@@ -26122,6 +26122,16 @@
             "type": "string",
             "name": "notification_screen_recording_title",
             "order": 5174
+        },
+        {
+            "type": "float",
+            "name": "account_list_item_single_min_height",
+            "order": 5175
+        },
+        {
+            "type": "float",
+            "name": "account_list_item_double_min_height",
+            "order": 5176
         }
     ]
 }

@@ -43,6 +43,26 @@
         {
             "name": "window_close_radius",
             "value": "$float:corner_radius_level4"
+        },
+        {
+            "name": "titlebar_title_tertiary_size",
+            "value": "$float:Title_S"
+        },
+        {
+            "name": "titlebar_title_margin_left",
+            "value": "$float:padding_level12"
+        },
+        {
+            "name": "titlebar_title_margin_right",
+            "value": "$float:padding_level12"
+        },
+        {
+            "name": "titlebar_icon_background_shape",
+            "value": "$float:corner_radius_level4"
+        },
+        {
+            "name": "titlebar_icon_background_space_horizontal",
+            "value": "$float:padding_level4"
         }
     ]
   }
