@@ -1369,6 +1369,10 @@
                 {
                     "name": "qrcode_size",
                     "value": "$float:ohos_id_qrcode_size"
+                },
+                {
+                    "name": "default_size",
+                    "value": "$float:qrcode_default_size"
                 }
             ]
         },
