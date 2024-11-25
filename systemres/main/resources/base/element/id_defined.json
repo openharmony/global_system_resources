@@ -26122,6 +26122,186 @@
             "type": "float",
             "name": "qrcode_default_size",
             "order": 5174
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_edit_item",
+            "order": 5175
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_edit_item_desc",
+            "order": 5176
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_edit_item_delete",
+            "order": 5177
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_start",
+            "order": 5178
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_moving",
+            "order": 5179
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_stop",
+            "order": 5180
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_add_item_add",
+            "order": 5181
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_add_item_long_press_gesture",
+            "order": 5182
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_add_item",
+            "order": 5183
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_add_item_desc",
+            "order": 5184
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_add_item_add_icon_desc",
+            "order": 5185
+        },
+        {
+            "type": "string",
+            "name": "subheader_accessibility_title",
+            "order": 5186
+        },
+        {
+            "type": "string",
+            "name": "selecttitlebar_accessibility_message_desc",
+            "order": 5187
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_expand_node",
+            "order": 5188
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_fold_node",
+            "order": 5189
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_expanded_node",
+            "order": 5190
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_folded_node",
+            "order": 5191
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_node_desc",
+            "order": 5192
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_select_node",
+            "order": 5193
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_lift_node",
+            "order": 5194
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_move_node_parent",
+            "order": 5195
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_place_node_parent",
+            "order": 5196
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_move_node_child",
+            "order": 5197
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_place_node_child",
+            "order": 5198
+        },
+        {
+            "type": "string",
+            "name": "filter_accessibility_selected",
+            "order": 5199
+        },
+        {
+            "type": "string",
+            "name": "filter_accessibility_unselected",
+            "order": 5200
+        },
+        {
+            "type": "string",
+            "name": "filter_accessibility_expand",
+            "order": 5201
+        },
+        {
+            "type": "string",
+            "name": "filter_accessibility_expanded",
+            "order": 5202
+        },
+        {
+            "type": "string",
+            "name": "filter_accessibility_collapse",
+            "order": 5203
+        },
+        {
+            "type": "string",
+            "name": "filter_accessibility_collapsed",
+            "order": 5204
+        },
+        {
+            "type": "string",
+            "name": "filter_accessibility_filters",
+            "order": 5205
+        },
+        {
+            "type": "string",
+            "name": "filter_accessibility_select_desc",
+            "order": 5206
+        },
+        {
+            "type": "string",
+            "name": "filter_accessibility_unselect_desc",
+            "order": 5207
+        },
+        {
+            "type": "string",
+            "name": "filter_accessibility_expand_desc",
+            "order": 5208
+        },
+        {
+            "type": "string",
+            "name": "advanced_dialog_accessibility_checkbox",
+            "order": 5209
+        },
+        {
+            "type": "string",
+            "name": "advanced_dialog_accessibility_cancel_checked_desc",
+            "order": 5210
         }
     ]
 }
