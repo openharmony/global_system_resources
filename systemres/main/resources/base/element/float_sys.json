@@ -327,6 +327,10 @@
         {
             "name": "window_close_radius",
             "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "qrcode_default_size",
+            "value": "240.0vp"
         }
     ]
   }

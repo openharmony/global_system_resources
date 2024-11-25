@@ -26117,6 +26117,11 @@
             "type": "string",
             "name": "menu_focus_directional_key_enable_default",
             "order": 5173
+        },
+        {
+            "type": "float",
+            "name": "qrcode_default_size",
+            "order": 5174
         }
     ]
 }
