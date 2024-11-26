@@ -1146,7 +1146,10 @@
         },
         {
             "name": "delete_used_for_accessibility_text",
-            "value": "删除"
+            "value": "删除",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "request_agent_download_success",

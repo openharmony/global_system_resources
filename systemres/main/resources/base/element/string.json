@@ -1262,7 +1262,10 @@
         },
         {
             "name": "delete_used_for_accessibility_text",
-            "value": "Delete"
+            "value": "Delete",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "request_agent_download_success",
