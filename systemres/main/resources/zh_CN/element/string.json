@@ -1194,6 +1194,150 @@
         {
             "name": "request_agent_download_file",
             "value": "下载文件 %s"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item",
+            "value": "%s，已加入编辑排序区"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item_desc",
+            "value": "单指双击并长按即可拖动排序"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item_delete",
+            "value": "%s，移出编辑排序区"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_start",
+            "value": "已托起，%s"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_moving",
+            "value": "第%1$d行，第%2$d列"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_stop",
+            "value": "已放置，第%1$d行，第%2$d列"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_add_item_add",
+            "value": "已加入编辑排序区，第%1$d行，第%2$d列"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_add_item_long_press_gesture",
+            "value": "已进入编辑态"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_add_item",
+            "value": "%s，添加到编辑排序区"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_add_item_desc",
+            "value": "单指双击并长按即可进入编辑态"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_add_item_add_icon_desc",
+            "value": "单指双击即可添加到编辑排序区"
+        },
+        {
+            "name": "subheader_accessibility_title",
+            "value": "标题"
+        },
+        {
+            "name": "selecttitlebar_accessibility_message_desc",
+            "value": "%s条新消息"
+        },
+        {
+            "name": "treeview_accessibility_expand_node",
+            "value": "展开"
+        },
+        {
+            "name": "treeview_accessibility_fold_node",
+            "value": "收起"
+        },
+        {
+            "name": "treeview_accessibility_expanded_node",
+            "value": "已展开"
+        },
+        {
+            "name": "treeview_accessibility_folded_node",
+            "value": "已收起"
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "单指双击即可选中，双击并按住即可上下拖动"
+        },
+        {
+            "name": "treeview_accessibility_select_node",
+            "value": "已选中，%s"
+        },
+        {
+            "name": "treeview_accessibility_lift_node",
+            "value": "%s,已托起"
+        },
+        {
+            "name": "treeview_accessibility_move_node_parent",
+            "value": "第%d项"
+        },
+        {
+            "name": "treeview_accessibility_place_node_parent",
+            "value": "已放置，第%d项"
+        },
+        {
+            "name": "treeview_accessibility_move_node_child",
+            "value": "托至%1$s的第%2$d项"
+        },
+        {
+            "name": "treeview_accessibility_place_node_child",
+            "value": "已放置%1$s的第%2$d项"
+        },
+        {
+            "name": "filter_accessibility_selected",
+            "value": "已选中"
+        },
+        {
+            "name": "filter_accessibility_unselected",
+            "value": "未选中"
+        },
+        {
+            "name": "filter_accessibility_expand",
+            "value": "展开"
+        },
+        {
+            "name": "filter_accessibility_expanded",
+            "value": "已展开"
+        },
+        {
+            "name": "filter_accessibility_collapse",
+            "value": "收起"
+        },
+        {
+            "name": "filter_accessibility_collapsed",
+            "value": "已收起"
+        },
+        {
+            "name": "filter_accessibility_filters",
+            "value": "筛选器"
+        },
+        {
+            "name": "filter_accessibility_select_desc",
+            "value": "单指双击即可选中"
+        },
+        {
+            "name": "filter_accessibility_unselect_desc",
+            "value": "单指双击即可取消选中"
+        },
+        {
+            "name": "filter_accessibility_expand_desc",
+            "value": "单指双击即可展开"
+        },
+        {
+            "name": "advanced_dialog_accessibility_checkbox",
+            "value": "复选框"
+        },
+        {
+            "name": "advanced_dialog_accessibility_cancel_checked_desc",
+            "value": "单指双击即可取消选中"
         }
     ]
 }
