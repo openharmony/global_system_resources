@@ -3843,6 +3843,38 @@
                 {
                     "name": "swiper_velocity_coefficient_touch_pad",
                     "value": "$float:swiper_velocity_coefficient_touch_pad"
+                },
+                {
+                    "name": "swiper_slow_velocity_threshold",
+                    "value": "$float:swiper_slow_velocity_threshold"
+                },
+                {
+                    "name": "swiper_display_control_ratio_slow",
+                    "value": "$float:swiper_display_control_ratio_slow"
+                },
+                {
+                    "name": "swiper_display_control_ratio_fast",
+                    "value": "$float:swiper_display_control_ratio_fast"
+                },
+                {
+                    "name": "swiper_crown_sensitivity_low",
+                    "value": "$float:swiper_crown_sensitivity_low"
+                },
+                {
+                    "name": "swiper_crown_sensitivity_medium",
+                    "value": "$float:swiper_crown_sensitivity_medium"
+                },
+                {
+                    "name": "swiper_crown_sensitivity_high",
+                    "value": "$float:swiper_crown_sensitivity_high"
+                },
+                {
+                    "name": "swiper_spring_velocity_threshold",
+                    "value": "$float:swiper_spring_velocity_threshold"
+                },
+                {
+                    "name": "swiper_crown_translocation_ratio",
+                    "value": "$float:swiper_crown_translocation_ratio"
                 }
             ]
         },
@@ -5544,6 +5576,10 @@
                 {
                     "name": "slider_accessibility_disabledDesc",
                     "value": "$string:slider_accessibility_disabledDesc"
+                },
+                {
+                    "name": "crown_display_control_ratio",
+                    "value": "$float:ohos_id_slider_crown_display_control_ratio"
                 }
             ]
         },
