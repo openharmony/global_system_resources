@@ -5548,6 +5548,14 @@
                 {
                     "name": "slider_accessibility_disabledDesc",
                     "value": "$string:slider_accessibility_disabledDesc"
+                },
+                {
+                    "name": "slider_pixels_per_inch",
+                    "value": "$float:slider_pixels_per_inch"
+                },
+                {
+                    "name": "slider_tip_delay_time",
+                    "value": "$float:slider_tip_delay_time"
                 }
             ]
         },

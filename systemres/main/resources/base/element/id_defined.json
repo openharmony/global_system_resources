@@ -26132,6 +26132,16 @@
             "type": "float",
             "name": "account_list_item_double_min_height",
             "order": 5176
+        },
+        {
+            "type": "float",
+            "name": "slider_pixels_per_inch",
+            "order": 5177
+        },
+        {
+            "type": "float",
+            "name": "slider_tip_delay_time",
+            "order": 5178
         }
     ]
 }
