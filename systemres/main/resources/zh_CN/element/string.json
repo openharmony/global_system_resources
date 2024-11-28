@@ -685,7 +685,10 @@
         },
         {
             "name":"save_button_description_save_all",
-            "value":"全部保存"
+            "value":"全部保存",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "ohos_lab_access_bluetooth",
