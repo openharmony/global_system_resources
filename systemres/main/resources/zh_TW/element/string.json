@@ -549,6 +549,13 @@
             }
         },
         {
+            "name": "notification_screen_recording_title",
+            "value": "%s 正在使用螢幕",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
             "name": "request_agent_upload_file",
             "value": "上傳檔案 %d",
             "attr": {
