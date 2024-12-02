@@ -26294,6 +26294,51 @@
             "type": "string",
             "name": "advanced_dialog_accessibility_cancel_checked_desc",
             "order": 5210
+        },
+        {
+            "type": "float",
+            "name": "ohos_id_slider_crown_display_control_ratio",
+            "order": 5211
+        },
+        {
+            "type": "float",
+            "name": "swiper_slow_velocity_threshold",
+            "order": 5212
+        },
+        {
+            "type": "float",
+            "name": "swiper_display_control_ratio_slow",
+            "order": 5213
+        },
+        {
+            "type": "float",
+            "name": "swiper_display_control_ratio_fast",
+            "order": 5214
+        },
+        {
+            "type": "float",
+            "name": "swiper_crown_sensitivity_low",
+            "order": 5215
+        },
+        {
+            "type": "float",
+            "name": "swiper_crown_sensitivity_medium",
+            "order": 5216
+        },
+        {
+            "type": "float",
+            "name": "swiper_crown_sensitivity_high",
+            "order": 5217
+        },
+        {
+            "type": "float",
+            "name": "swiper_spring_velocity_threshold",
+            "order": 5218
+        },
+        {
+            "type": "float",
+            "name": "swiper_crown_translocation_ratio",
+            "order": 5219
         }
     ]
 }
