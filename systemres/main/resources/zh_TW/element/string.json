@@ -568,6 +568,13 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name": "request_agent_download_file",
+            "value": "下載檔案 %s",
+            "attr": {
+                "priority": "translate"
+            }
         }
     ]
 }

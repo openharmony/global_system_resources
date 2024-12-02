@@ -1196,7 +1196,10 @@
         },
         {
             "name": "request_agent_download_file",
-            "value": "下载文件 %s"
+            "value": "下载文件 %s",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "notification_screen_recording_title",
