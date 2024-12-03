@@ -1315,47 +1315,47 @@
             "value": "Downloading file… (%s)"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_edit_item",
+            "name": "gridobjectsortcomponent_accessibility_selected_item",
             "value": "%s, added to the Edit Sort area"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_edit_item_desc",
+            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
             "value": "Double-tap and hold to drag and sort"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_edit_item_delete",
+            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
             "value": "%s, moves out of the edit sort area"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_start",
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
             "value": "Lifted, %s"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_moving",
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
             "value": "Row %1$d, column %2$d"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_stop",
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
             "value": "Placed, row %1$d, column %2$d"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_add_item_add",
-            "value": "Added to the edit sort area, row %1$d, column %2$d"
+            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value": "%1$s, added to the edit sort area, row %2$d, column %3$d"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_add_item_long_press_gesture",
+            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
             "value": "Entered edit state"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_add_item",
-            "value": "%s, added to the edit sort area"
+            "name": "gridobjectsortcomponent_accessibility_unselected_item",
+            "value": "%s, not added to the editing sorting area"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_add_item_desc",
+            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
             "value": "Double-tap and hold to enter the editing mode"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_add_item_add_icon_desc",
+            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
             "value": "Double-tap to add to the edit sorting area"
         },
         {
@@ -1457,6 +1457,22 @@
         {
             "name": "advanced_dialog_accessibility_cancel_checked_desc",
             "value": "Double-tap to deselect it"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_button",
+            "value": "%s，added to the edit sort area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
+            "value": "edit"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_deleted",
+            "value": "%s,move out of the edit sort area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_illegal_area",
+            "value": "Illegal_area"
         }
     ]
 }
