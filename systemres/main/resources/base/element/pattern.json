@@ -2449,6 +2449,38 @@
                 {
                     "name": "toolbar_item_active_text_color",
                     "value": "$color:ohos_id_color_toolbar_text_actived"
+                },               
+                {
+                    "name": "toolbar_item_focus_border_size_api_sixteen",
+                    "value": "$float:outline_extra_larger"
+                },
+                {
+                    "name": "toolbar_item_focus_color_api_sixteen",
+                    "value": "$color:interactive_focus"
+                },
+                {
+                    "name": "toolbar_item_font_size_api_sixteen",
+                    "value": "$float:Caption_M"
+                },
+                {
+                    "name": "toolbar_item_font_color_api_sixteen",
+                    "value": "$color:font_tertiary"
+                },
+                {
+                    "name": "toolbar_item_icon_color_api_sixteen",
+                    "value": "$color:icon_tertiary"
+                },
+                {
+                    "name": "toolbar_item_active_icon_color_api_sixteen",
+                    "value": "$color:icon_emphasize"
+                },
+                {
+                    "name": "toolbar_item_active_text_color_api_sixteen",
+                    "value": "$color:font_emphasize"
+                },
+                {
+                    "name": "toolbar_item_bg_button_border_radius_api_sixteen",
+                    "value": "$float:corner_radius_level6"
                 },
                 {
                     "name": "divider_shadow_enable",
