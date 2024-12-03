@@ -26142,6 +26142,31 @@
             "type": "float",
             "name": "slider_tip_delay_time",
             "order": 5178
+        },
+        {
+            "type": "string",
+            "name": "general_window_top_left_screen",
+            "order": 5179
+        },
+        {
+            "type": "string",
+            "name": "general_window_top_right_screen",
+            "order": 5180
+        },
+		{
+            "type": "string",
+            "name": "general_window_waterfall_mode",
+            "order": 5181
+        },
+        {
+            "type": "string",
+            "name": "general_window_top_screen",
+            "order": 5182
+        },
+        {
+            "type": "string",
+            "name": "general_window_bottom_screen",
+            "order": 5183
         }
     ]
 }
