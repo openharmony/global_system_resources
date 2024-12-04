@@ -26117,57 +26117,57 @@
         },
         {
             "type": "string",
-            "name": "gridobjectsortcomponent_accessibility_edit_item",
+            "name": "gridobjectsortcomponent_accessibility_selected_item",
             "order": 5175
         },
         {
             "type": "string",
-            "name": "gridobjectsortcomponent_accessibility_edit_item_desc",
+            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
             "order": 5176
         },
         {
             "type": "string",
-            "name": "gridobjectsortcomponent_accessibility_edit_item_delete",
+            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
             "order": 5177
         },
         {
             "type": "string",
-            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_start",
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
             "order": 5178
         },
         {
             "type": "string",
-            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_moving",
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
             "order": 5179
         },
         {
             "type": "string",
-            "name": "gridobjectsortcomponent_accessibility_edit_item_drag_stop",
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
             "order": 5180
         },
         {
             "type": "string",
-            "name": "gridobjectsortcomponent_accessibility_add_item_add",
+            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
             "order": 5181
         },
         {
             "type": "string",
-            "name": "gridobjectsortcomponent_accessibility_add_item_long_press_gesture",
+            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
             "order": 5182
         },
         {
             "type": "string",
-            "name": "gridobjectsortcomponent_accessibility_add_item",
+            "name": "gridobjectsortcomponent_accessibility_unselected_item",
             "order": 5183
         },
         {
             "type": "string",
-            "name": "gridobjectsortcomponent_accessibility_add_item_desc",
+            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
             "order": 5184
         },
         {
             "type": "string",
-            "name": "gridobjectsortcomponent_accessibility_add_item_add_icon_desc",
+            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
             "order": 5185
         },
         {
@@ -26339,6 +26339,26 @@
             "type": "float",
             "name": "swiper_crown_translocation_ratio",
             "order": 5219
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_unselected_button",
+            "order": 5220
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
+            "order": 5221
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_deleted",
+            "order": 5222
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_illegal_area",
+            "order": 5223
         }
     ]
 }
