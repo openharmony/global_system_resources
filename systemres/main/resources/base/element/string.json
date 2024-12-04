@@ -1312,7 +1312,10 @@
         },
         {
             "name": "request_agent_download_file",
-            "value": "Downloading file… (%s)"
+            "value": "Downloading file… (%s)",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "notification_screen_recording_title",
