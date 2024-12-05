@@ -3132,6 +3132,10 @@
                 {
                     "name": "popup_expand_display",
                     "value": "$string:ohos_id_expand_display"
+                },
+                {
+                    "name": "popup_default_shadow_style",
+                    "value": "$float:popup_default_shadow_style"
                 }
             ]
         },
@@ -4840,6 +4844,10 @@
                 {
                     "name": "toast_inner_border_color",
                     "value": "$color:toast_inner_border_color"
+                },
+                {
+                    "name": "toast_default_shadow_style",
+                    "value": "$float:toast_default_shadow_style"
                 }
             ]
         },
@@ -5435,6 +5443,10 @@
                 {
                     "name": "menu_focus_directional_key_enable",
                     "value": "$string:menu_focus_directional_key_enable_default"
+                },
+                {
+                    "name": "menu_default_shadow_style",
+                    "value": "$float:menu_default_shadow_style"
                 }
             ]
         },

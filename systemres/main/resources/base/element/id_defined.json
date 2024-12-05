@@ -26359,6 +26359,21 @@
             "type": "string",
             "name": "gridobjectsortcomponent_accessibility_illegal_area",
             "order": 5223
+        },
+        {
+            "type": "float",
+            "name": "toast_default_shadow_style",
+            "order": 5224
+        },
+        {
+            "type": "float",
+            "name": "popup_default_shadow_style",
+            "order": 5225
+        },
+        {
+            "type": "float",
+            "name": "menu_default_shadow_style",
+            "order": 5226
         }
     ]
 }
