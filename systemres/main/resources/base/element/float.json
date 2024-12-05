@@ -2325,6 +2325,14 @@
             "value": "2.0vp"
         },
         {
+            "name": "little_badge_size",
+            "value": "6.0vp"
+        },
+        {
+            "name": "numerical_badge_padding",
+            "value": "6.0vp"
+        },
+        {
             "name": "ohos_id_piece_height",
             "value": "28.0vp"
         },
@@ -3755,6 +3763,34 @@
         {
             "name": "component_ultra_thick",
             "value": "12"
+        },
+        {
+            "name": "button_icon_size",
+            "value": "16.0vp"
+        },
+        {
+            "name": "container_height",
+            "value": "28.0vp"
+        },
+        {
+            "name": "border_width",
+            "value": "1.0vp"
+        },
+        {
+            "name": "button_size",
+            "value": "24.0vp"
+        },
+        {
+            "name": "button_container_margin",
+            "value": "1.0vp"
+        },
+        {
+            "name": "container_radius",
+            "value": "14.0vp"
+        },
+        {
+            "name": "side_length",
+            "value":"288.0vp"
         }
     ]
 }
