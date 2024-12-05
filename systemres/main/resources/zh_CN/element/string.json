@@ -914,6 +914,13 @@
         {
             "name": "calendar_picker_sun",
             "value": "星期日"
+        },
+        {
+            "name": "delete_used_for_accessibility_text",
+            "value": "删除",
+            "attr": {
+                "priority": "translate"
+            }
         }
     ]
 }
