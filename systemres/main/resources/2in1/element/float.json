@@ -307,6 +307,18 @@
         {
             "name": "menu_item_vertical_padding_token",
             "value": "4.0vp"
+        },
+        {
+            "name": "toast_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_s"
+        },
+        {
+            "name": "popup_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_s"
+        },
+        {
+            "name": "menu_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_s"
         }
     ]
 }
