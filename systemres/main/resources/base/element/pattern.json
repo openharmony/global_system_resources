@@ -6758,6 +6758,10 @@
                 {
                     "name": "interactive_disable",
                     "value": "$float:interactive_disable"
+                },
+                {
+                    "name": "tips_text_color",
+                    "value": "$color:ohos_id_color_text_hint"
                 }
             ]
         },
