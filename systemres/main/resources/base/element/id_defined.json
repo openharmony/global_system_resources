@@ -26374,6 +26374,31 @@
             "type": "float",
             "name": "menu_default_shadow_style",
             "order": 5226
+        },
+        {
+            "type": "float",
+            "name": "text_overlay_menu_show_shortcut",
+            "order": 5227
+        },
+        {
+            "type": "string",
+            "name": "text_overlay_menu_copy",
+            "order": 5228
+        },
+        {
+            "type": "string",
+            "name": "text_overlay_menu_paste",
+            "order": 5229
+        },
+        {
+            "type": "string",
+            "name": "text_overlay_menu_select_all",
+            "order": 5230
+        },
+        {
+            "type": "string",
+            "name": "text_overlay_menu_cut",
+            "order": 5231
         }
     ]
 }
