@@ -26167,6 +26167,26 @@
             "type": "string",
             "name": "general_window_bottom_screen",
             "order": 5183
+        },
+        {
+            "type": "float",
+            "name": "titlebar_main_title_text_font_size",
+            "order": 5184
+        },
+        {
+            "type": "float",
+            "name": "titlebar_main_title_text_font_size_min",
+            "order": 5185
+        },
+        {
+            "type": "float",
+            "name": "titlebar_backbutton_margin_left",
+            "order": 5186
+        },
+        {
+            "type": "float",
+            "name": "titlebar_menu_margin_right",
+            "order": 5187
         }
     ]
 }

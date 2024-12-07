@@ -177,8 +177,16 @@
             "value": "$float:margin_left"
         },
         {
+            "name": "titlebar_backbutton_margin_left",
+            "value": "$float:padding_level8"
+        },
+        {
             "name": "titlebar_title_margin_right",
             "value": "$float:margin_right"
+        },
+        {
+            "name": "titlebar_menu_margin_right",
+            "value": "$float:padding_level8"
         },
         {
             "name": "titlebar_icon_width",
@@ -327,6 +335,14 @@
         {
             "name": "window_close_radius",
             "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "titlebar_main_title_text_font_size_min",
+            "value": "$float:ohos_id_text_size_headline8"
+        },
+        {
+            "name": "titlebar_main_title_text_font_size",
+            "value": "$float:ohos_id_text_size_headline7"
         }
     ]
   }

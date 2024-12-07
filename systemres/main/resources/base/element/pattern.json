@@ -2372,11 +2372,11 @@
                 },
                 {
                     "name": "title_text_font_size",
-                    "value": "$float:ohos_id_text_size_headline7"
+                    "value": "$float:titlebar_main_title_text_font_size"
                 },
                 {
                     "name": "title_text_font_size_min",
-                    "value": "$float:ohos_id_text_size_headline8"
+                    "value": "$float:titlebar_main_title_text_font_size_min"
                 },
                 {
                     "name": "title_text_font_size_big",
@@ -2559,8 +2559,16 @@
                     "value": "$float:titlebar_title_margin_left"
                 },
                 {
+                    "name": "backbutton_margin_left",
+                    "value": "$float:titlebar_backbutton_margin_left"
+                },
+                {
                     "name": "title_margin_right",
                     "value": "$float:titlebar_title_margin_right"
+                },
+                {
+                    "name": "menu_margin_right",
+                    "value": "$float:titlebar_menu_margin_right"
                 },
                 {
                     "name": "title_primary_size",
