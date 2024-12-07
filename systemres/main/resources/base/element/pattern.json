@@ -4241,6 +4241,10 @@
                 {
                     "name": "interactive_disable",
                     "value": "$float:interactive_disable"
+                },
+                {
+                    "name": "text_menu_search_is_support",
+                    "value": "$string:res_menu_search_is_support"
                 }
             ]
         },
@@ -4626,6 +4630,10 @@
                 {
                     "name": "inline_padding_right",
                     "value": "$float:textfield_inline_padding_right"
+                },
+                {
+                    "name": "textfield_menu_search_is_support",
+                    "value": "$string:res_menu_search_is_support"
                 }
             ]
         },
