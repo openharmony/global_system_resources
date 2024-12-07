@@ -4153,7 +4153,7 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
-            },    
+            },
             {
                 "name": "ohos.permission.ACCESS_MULTICORE_HYBRID_ABILITY",
                 "grantMode": "system_grant",
@@ -4462,7 +4462,16 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_custom_screen_capture",
-                "description": "$string:ohos_desc_custom_screen_capture"  
+                "description": "$string:ohos_desc_custom_screen_capture"
+            },
+            {
+                "name": "ohos.permission.ENABLE_EXPERIENCE_HBM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             },
             {
                 "name": "ohos.permission.CALLED_UIEXTENSION_ON_LOCK_SCREEN",
@@ -4473,7 +4482,7 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
-            {   
+            {
                 "name": "ohos.permission.SET_PAC_URL",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
