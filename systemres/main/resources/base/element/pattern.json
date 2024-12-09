@@ -2465,6 +2465,38 @@
                 {
                     "name": "toolbar_item_active_text_color",
                     "value": "$color:ohos_id_color_toolbar_text_actived"
+                },               
+                {
+                    "name": "toolbar_item_focus_border_size_api_sixteen",
+                    "value": "$float:outline_extra_larger"
+                },
+                {
+                    "name": "toolbar_item_focus_color_api_sixteen",
+                    "value": "$color:interactive_focus"
+                },
+                {
+                    "name": "toolbar_item_font_size_api_sixteen",
+                    "value": "$float:Caption_M"
+                },
+                {
+                    "name": "toolbar_item_font_color_api_sixteen",
+                    "value": "$color:font_tertiary"
+                },
+                {
+                    "name": "toolbar_item_icon_color_api_sixteen",
+                    "value": "$color:icon_tertiary"
+                },
+                {
+                    "name": "toolbar_item_active_icon_color_api_sixteen",
+                    "value": "$color:icon_emphasize"
+                },
+                {
+                    "name": "toolbar_item_active_text_color_api_sixteen",
+                    "value": "$color:font_emphasize"
+                },
+                {
+                    "name": "toolbar_item_bg_button_border_radius_api_sixteen",
+                    "value": "$float:corner_radius_level6"
                 },
                 {
                     "name": "divider_shadow_enable",
@@ -3132,6 +3164,10 @@
                 {
                     "name": "popup_expand_display",
                     "value": "$string:ohos_id_expand_display"
+                },
+                {
+                    "name": "popup_default_shadow_style",
+                    "value": "$float:popup_default_shadow_style"
                 }
             ]
         },
@@ -4205,6 +4241,10 @@
                 {
                     "name": "interactive_disable",
                     "value": "$float:interactive_disable"
+                },
+                {
+                    "name": "text_menu_search_is_support",
+                    "value": "$string:res_menu_search_is_support"
                 }
             ]
         },
@@ -4590,6 +4630,10 @@
                 {
                     "name": "inline_padding_right",
                     "value": "$float:textfield_inline_padding_right"
+                },
+                {
+                    "name": "textfield_menu_search_is_support",
+                    "value": "$string:res_menu_search_is_support"
                 }
             ]
         },
@@ -4719,6 +4763,26 @@
                 {
                     "name": "text_overlay_menu_button_padding_bottom",
                     "value": "$float:ohos_id_text_overlay_menu_button_padding_bottom"
+                },
+                {
+                    "name": "text_overlay_menu_show_shortcut",
+                    "value": "$float:text_overlay_menu_show_shortcut"
+                },
+                {
+                    "name": "text_overlay_menu_copy",
+                    "value": "$string:text_overlay_menu_copy"
+                },
+                {
+                    "name": "text_overlay_menu_paste",
+                    "value": "$string:text_overlay_menu_paste"
+                },
+                {
+                    "name": "text_overlay_menu_select_all",
+                    "value": "$string:text_overlay_menu_select_all"
+                },
+                {
+                    "name": "text_overlay_menu_cut",
+                    "value": "$string:text_overlay_menu_cut"
                 }
             ]
         },
@@ -4840,6 +4904,10 @@
                 {
                     "name": "toast_inner_border_color",
                     "value": "$color:toast_inner_border_color"
+                },
+                {
+                    "name": "toast_default_shadow_style",
+                    "value": "$float:toast_default_shadow_style"
                 }
             ]
         },
@@ -5435,6 +5503,10 @@
                 {
                     "name": "menu_focus_directional_key_enable",
                     "value": "$string:menu_focus_directional_key_enable_default"
+                },
+                {
+                    "name": "menu_default_shadow_style",
+                    "value": "$float:menu_default_shadow_style"
                 }
             ]
         },
