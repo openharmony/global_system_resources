@@ -3911,6 +3911,14 @@
                 {
                     "name": "swiper_crown_translocation_ratio",
                     "value": "$float:swiper_crown_translocation_ratio"
+                },
+                {
+                    "name": "swiper_left_arrow_button",
+                    "value": "$string:swiper_left_arrow_button"
+                },
+                {
+                    "name": "swiper_right_arrow_button",
+                    "value": "$string:swiper_right_arrow_button"
                 }
             ]
         },
