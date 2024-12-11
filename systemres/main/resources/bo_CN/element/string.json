@@ -575,6 +575,41 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"general_next_month",
+            "value":"ཟླ་བ་རྗེས་མ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_year",
+            "value":"ལོ་རྗེས་མ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_month",
+            "value":"ཟླ་བ་གོང་མ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_today",
+            "value":"དེ་རིང་།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_year",
+            "value":"ལོ་གོང་མ།",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
