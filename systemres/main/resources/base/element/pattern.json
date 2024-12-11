@@ -4089,6 +4089,22 @@
                 {
                     "name": "text_show_handle",
                     "value": "$string:ohos_textfield_show_handle"
+                },
+                {
+                    "name": "font_emphasize",
+                    "value": "$color:font_emphasize"
+                },
+                {
+                    "name": "interactive_pressed",
+                    "value": "$color:interactive_pressed"
+                },
+                {
+                    "name": "interactive_hover",
+                    "value": "$color:interactive_hover"
+                },
+                {
+                    "name": "interactive_disable",
+                    "value": "$float:interactive_disable"
                 }
             ]
         },
@@ -6618,6 +6634,22 @@
                 {
                     "name": "menu_icon_color",
                     "value":"$color:ohos_id_color_primary"
+                },
+                {
+                    "name": "font_emphasize",
+                    "value": "$color:font_emphasize"
+                },
+                {
+                    "name": "interactive_pressed",
+                    "value": "$color:interactive_pressed"
+                },
+                {
+                    "name": "interactive_hover",
+                    "value": "$color:interactive_hover"
+                },
+                {
+                    "name": "interactive_disable",
+                    "value": "$float:interactive_disable"
                 }
             ]
         },
