@@ -13,6 +13,7 @@
 
 declare_args() {
   system_resources_support_ext = false
+  system_resources_font_feature_product = "default"
 }
 
 certificate_profile_path =
@@ -24,61 +25,145 @@ sys_fonts_list = [
   {
     font_name = "HarmonyOS_Sans"
     font_path = "fonts/HarmonyOS_Sans.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HarmonyOS_Sans_Italic"
     font_path = "fonts/HarmonyOS_Sans_Italic.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HarmonyOS_Sans_Condensed"
     font_path = "fonts/HarmonyOS_Sans_Condensed.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HarmonyOS_Sans_Condensed_Italic"
     font_path = "fonts/HarmonyOS_Sans_Condensed_Italic.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HarmonyOS_Sans_Naskh_Arabic"
     font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HarmonyOS_Sans_Naskh_Arabic_UI"
     font_path = "fonts/HarmonyOS_Sans_Naskh_Arabic_UI.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HarmonyOS_Sans_SC"
     font_path = "fonts/HarmonyOS_Sans_SC.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HarmonyOS_Sans_TC"
     font_path = "fonts/HarmonyOS_Sans_TC.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HarmonyOS_Sans_Digit"
     font_path = "fonts/HarmonyOS_Sans_Digit.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HarmonyOS_Sans_Digit_Medium"
     font_path = "fonts/HarmonyOS_Sans_Digit_Medium.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HMOSColorEmojiCompat"
     font_path = "fonts/HMOSColorEmojiCompat.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HMOSColorEmojiFlags"
     font_path = "fonts/HMOSColorEmojiFlags.ttf"
+    support_devices = [
+      "default",
+      "watch",
+    ]
+    alias_name = ""
   },
   {
     font_name = "HMSymbolVF"
     font_path = "fonts/HMSymbolVF.ttf"
+    support_devices = [ "default" ]
+    alias_name = ""
   },
   {
     font_name = "hm_symbol_config"
     font_path = "fonts/hm_symbol_config.json"
+    support_devices = [ "default" ]
+    alias_name = ""
   },
   {
     font_name = "hm_symbol_config_next"
     font_path = "fonts/hm_symbol_config_next.json"
+    support_devices = [ "default" ]
+    alias_name = ""
+  },
+  {
+    font_name = "HMSymbolVF_watch"
+    font_path = "fonts/HMSymbolVF_watch.ttf"
+    support_devices = [ "watch" ]
+    alias_name = "HMSymbolVF.ttf"
+  },
+  {
+    font_name = "hm_symbol_config_watch"
+    font_path = "fonts/hm_symbol_config_watch.json"
+    support_devices = [ "watch" ]
+    alias_name = "hm_symbol_config.json"
+  },
+  {
+    font_name = "hm_symbol_config_next_watch"
+    font_path = "fonts/hm_symbol_config_next_watch.json"
+    support_devices = [ "watch" ]
+    alias_name = "hm_symbol_config_next.json"
   },
 ]

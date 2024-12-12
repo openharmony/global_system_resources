@@ -3911,6 +3911,14 @@
                 {
                     "name": "swiper_crown_translocation_ratio",
                     "value": "$float:swiper_crown_translocation_ratio"
+                },
+                {
+                    "name": "swiper_left_arrow_button",
+                    "value": "$string:swiper_left_arrow_button"
+                },
+                {
+                    "name": "swiper_right_arrow_button",
+                    "value": "$string:swiper_right_arrow_button"
                 }
             ]
         },
@@ -4241,6 +4249,10 @@
                 {
                     "name": "interactive_disable",
                     "value": "$float:interactive_disable"
+                },
+                {
+                    "name": "text_menu_search_is_support",
+                    "value": "$string:res_menu_search_is_support"
                 }
             ]
         },
@@ -4626,6 +4638,10 @@
                 {
                     "name": "inline_padding_right",
                     "value": "$float:textfield_inline_padding_right"
+                },
+                {
+                    "name": "textfield_menu_search_is_support",
+                    "value": "$string:res_menu_search_is_support"
                 }
             ]
         },
@@ -4755,6 +4771,26 @@
                 {
                     "name": "text_overlay_menu_button_padding_bottom",
                     "value": "$float:ohos_id_text_overlay_menu_button_padding_bottom"
+                },
+                {
+                    "name": "text_overlay_menu_show_shortcut",
+                    "value": "$float:text_overlay_menu_show_shortcut"
+                },
+                {
+                    "name": "text_overlay_menu_copy",
+                    "value": "$string:text_overlay_menu_copy"
+                },
+                {
+                    "name": "text_overlay_menu_paste",
+                    "value": "$string:text_overlay_menu_paste"
+                },
+                {
+                    "name": "text_overlay_menu_select_all",
+                    "value": "$string:text_overlay_menu_select_all"
+                },
+                {
+                    "name": "text_overlay_menu_cut",
+                    "value": "$string:text_overlay_menu_cut"
                 }
             ]
         },
