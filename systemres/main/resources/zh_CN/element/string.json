@@ -971,24 +971,39 @@
             "value": "日"
         },
         {
-            "name": "general_pre_month",
-            "value": "上一月"
+            "name":"general_pre_month",
+            "value":"上一月",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_pre_year",
-            "value": "上一年"
+            "name":"general_pre_year",
+            "value":"上一年",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_next_year",
-            "value": "下一年"
+            "name":"general_next_year",
+            "value":"下一年",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_next_month",
-            "value": "下一月"
+            "name":"general_next_month",
+            "value":"下一月",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_today",
-            "value": "今天"
+            "name":"general_today",
+            "value":"今天",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"pass_point",

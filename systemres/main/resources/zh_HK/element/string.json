@@ -575,6 +575,41 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"general_next_month",
+            "value":"下一個月",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_year",
+            "value":"下一年",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_month",
+            "value":"上一個月",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_today",
+            "value":"今日",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_year",
+            "value":"上一年",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

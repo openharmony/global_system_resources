@@ -1087,24 +1087,39 @@
             "value": "day"
         },
         {
-            "name": "general_pre_month",
-            "value": "prev month"
+            "name":"general_pre_month",
+            "value":"Previous month",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_pre_year",
-            "value": "prev year"
+            "name":"general_pre_year",
+            "value":"Previous year",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_next_year",
-            "value": "next year"
+            "name":"general_next_year",
+            "value":"Next year",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_next_month",
-            "value": "next month"
+            "name":"general_next_month",
+            "value":"Next month",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_today",
-            "value": "today"
+            "name":"general_today",
+            "value":"Today",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"pass_point",
