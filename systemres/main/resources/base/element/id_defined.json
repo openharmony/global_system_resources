@@ -26414,6 +26414,26 @@
             "type": "string",
             "name": "swiper_right_arrow_button",
             "order": 5234
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_app_theme_pattern",
+            "order": 5235
+        },
+        {
+            "type": "color",
+            "name": "app_theme_focus_color",
+            "order": 5236
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_width",
+            "order": 5237
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_box_glow",
+            "order": 5238
         }
     ]
 }
