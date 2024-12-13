@@ -1,0 +1,32 @@
+{
+    "string":[
+        {
+            "name":"request_agent_upload_success",
+            "value":"ატვირთვა წარმატებით შესრულდა",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"ატვირთვა ვერ მოხერხდა",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"ჩამოტვირთვა ვერ მოხერხდა",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"ჩამოტვირთვა წარმატებით შესრულდა",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}
