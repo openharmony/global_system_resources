@@ -1015,6 +1015,10 @@
                 {
                     "name": "calendar_picker_sun",
                     "value": "$string:calendar_picker_sun"
+                },
+                {
+                    "name": "calendar_picker_dialog_background_blur_style",
+                    "value": "$float:component_ultra_thick"
                 }
             ]
         },
@@ -2258,6 +2262,10 @@
                 {
                     "name": "dialog_inner_border_color",
                     "value": "$color:dialog_inner_border_color"
+                },
+                {
+                    "name":"dialog_background_blur_style",
+                    "value":"$float:component_ultra_thick"
                 }
             ]
         },
@@ -3168,6 +3176,10 @@
                 {
                     "name": "popup_default_shadow_style",
                     "value": "$float:popup_default_shadow_style"
+                },
+                {
+                    "name": "popup_background_blur_style",
+                    "value": "$float:component_ultra_thick"
                 }
             ]
         },
@@ -4916,6 +4928,10 @@
                 {
                     "name": "toast_default_shadow_style",
                     "value": "$float:toast_default_shadow_style"
+                },
+                {
+                    "name": "toast_background_blur_style",
+                    "value": "$float:component_ultra_thick"
                 }
             ]
         },
@@ -5515,6 +5531,10 @@
                 {
                     "name": "menu_default_shadow_style",
                     "value": "$float:menu_default_shadow_style"
+                },
+                {
+                    "name": "menu_background_blur_style",
+                    "value": "$float:component_ultra_thick"
                 }
             ]
         },
