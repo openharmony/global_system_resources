@@ -693,7 +693,10 @@
         },
         {
             "name":"save_button_description_save_all",
-            "value":"Save all"
+            "value":"Save all",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "ohos_drawable_descriptor_path",
