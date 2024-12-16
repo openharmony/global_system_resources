@@ -1,0 +1,32 @@
+{
+    "string":[
+        {
+            "name":"request_agent_upload_success",
+            "value":"Вивантаження завершено",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Не вдалося вивантажити",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Не вдалося завантажити",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Завантаження завершено",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

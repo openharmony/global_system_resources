@@ -1,0 +1,32 @@
+{
+    "string":[
+        {
+            "name":"request_agent_upload_success",
+            "value":"Przekazywanie powiodło się",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Przekazywanie nie powiodło się",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Pobieranie nie powiodło się",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Pobrano pomyślnie",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

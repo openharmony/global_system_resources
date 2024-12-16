@@ -1,0 +1,32 @@
+{
+    "string":[
+        {
+            "name":"request_agent_upload_success",
+            "value":"Nahrávanie bolo úspešné",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Nahrávanie zlyhalo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Sťahovanie zlyhalo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Sťahovanie bolo úspešné",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

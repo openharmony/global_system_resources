@@ -1,0 +1,32 @@
+{
+    "string":[
+        {
+            "name":"request_agent_upload_success",
+            "value":"Augšupielāde veiksmīgi pabeigta",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Augšupielāde neizdevās",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Lejupielāde neizdevās",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Lejupielāde veiksmīgi pabeigta",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

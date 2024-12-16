@@ -1,0 +1,32 @@
+{
+    "string":[
+        {
+            "name":"request_agent_upload_success",
+            "value":"Hochladen erfolgreich",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Hochladen fehlgeschlagen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Download fehlgeschlagen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Download erfolgreich",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

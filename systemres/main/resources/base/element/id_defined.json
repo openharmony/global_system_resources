@@ -26414,6 +26414,56 @@
             "type": "string",
             "name": "swiper_right_arrow_button",
             "order": 5234
+        },
+        {
+            "type": "float",
+            "name": "component_ultra_thick",
+            "order": 5235
+        },
+        {
+            "type": "float",
+            "name": "button_icon_size",
+            "order": 5236
+        },
+        {
+            "type": "float",
+            "name": "container_height",
+            "order": 5237
+        },
+        {
+            "type": "float",
+            "name": "border_width",
+            "order": 5238
+        },
+        {
+            "type": "float",
+            "name": "button_size",
+            "order": 5239
+        },
+        {
+            "type": "float",
+            "name": "button_container_margin",
+            "order": 5240
+        },
+        {
+            "type": "float",
+            "name": "side_length",
+            "order": 5241
+        },
+        {
+            "type": "float",
+            "name": "little_badge_size",
+            "order": 5242
+        },
+        {
+            "type": "float",
+            "name": "numerical_badge_padding",
+            "order": 5243
+        },
+        {
+            "type": "float",
+            "name": "container_radius",
+            "order": 5244
         }
     ]
 }
