@@ -4211,8 +4211,8 @@
             {
                 "name": "ohos.permission.SET_TELEPHONY_ESIM_STATE_OPEN",
                 "grantMode": "system_grant",
-                "availableLevel": "normal",
-                "since": 13,
+                "availableLevel": "system_basic",
+                "since": 14,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
