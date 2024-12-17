@@ -685,7 +685,10 @@
         },
         {
             "name":"save_button_description_save_all",
-            "value":"全部保存"
+            "value":"全部保存",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "ohos_lab_access_bluetooth",
@@ -1239,6 +1242,106 @@
         {
             "name": "general_window_bottom_screen",
             "value": "窗口显示在屏幕下方"
+        },
+        {
+            "name": "filter_accessibility_selected",
+            "value": "已选中"
+        },
+        {
+            "name": "filter_accessibility_unselected",
+            "value": "未选中"
+        },
+        {
+            "name": "filter_accessibility_expand",
+            "value": "展开"
+        },
+        {
+            "name": "filter_accessibility_expanded",
+            "value": "已展开"
+        },
+        {
+            "name": "filter_accessibility_collapse",
+            "value": "收起"
+        },
+        {
+            "name": "filter_accessibility_collapsed",
+            "value": "已收起"
+        },
+        {
+            "name": "filter_accessibility_filters",
+            "value": "筛选器"
+        },
+        {
+            "name": "filter_accessibility_select_desc",
+            "value": "单指双击即可选中"
+        },
+        {
+            "name": "filter_accessibility_unselect_desc",
+            "value": "单指双击即可取消选中"
+        },
+        {
+            "name": "filter_accessibility_expand_desc",
+            "value": "单指双击即可展开"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item",
+            "value": "%s，已加入常驻内容区"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value": "单指双击并长按即可拖动排序"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value": "%s，移出常驻内容区"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value": "%s，已托起"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value": "第%1$d行，第%2$d列"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value": "已放置，第%1$d行，第%2$d列"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value": "%1$s，已加入常驻内容区，第%2$d行，第%3$d列"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value": "已进入编辑态"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item",
+            "value": "%s，未加入常驻内容区"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value": "单指双击并长按即可进入编辑态"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value": "单指双击即可加入，双击并长按即可进入编辑态"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_button",
+            "value": "%s，添加到常驻内容区"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
+            "value": "编辑"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_deleted",
+            "value": "%s,已移出常驻内容区"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_illegal_area",
+            "value": "非放置区"
         }
     ]
 }
