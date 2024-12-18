@@ -26347,6 +26347,66 @@
             "type": "string",
             "name": "gridobjectsortcomponent_accessibility_illegal_area",
             "order": 5219
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_expand_node",
+            "order": 5220
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_fold_node",
+            "order": 5221
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_expanded_node",
+            "order": 5222
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_folded_node",
+            "order": 5223
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_node_desc",
+            "order": 5224
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_select_node",
+            "order": 5225
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_lift_node",
+            "order": 5226
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_move_node_parent",
+            "order": 5227
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_place_node_parent",
+            "order": 5228
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_move_node_child",
+            "order": 5229
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_place_node_child",
+            "order": 5230
+        },
+        {
+            "type": "string",
+            "name": "treeview_accessibility_implement_node",
+            "order": 5231
         }
     ]
 }
