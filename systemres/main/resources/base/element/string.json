@@ -693,7 +693,10 @@
         },
         {
             "name":"save_button_description_save_all",
-            "value":"Save all"
+            "value":"Save all",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "ohos_drawable_descriptor_path",
@@ -1355,6 +1358,154 @@
         {
             "name": "general_window_bottom_screen",
             "value": "Show on bottom"
+        },
+        {
+            "name": "filter_accessibility_selected",
+            "value": "Selected"
+        },
+        {
+            "name": "filter_accessibility_unselected",
+            "value": "Unselected"
+        },
+        {
+            "name": "filter_accessibility_expand",
+            "value": "Expand"
+        },
+        {
+            "name": "filter_accessibility_expanded",
+            "value": "Expanded"
+        },
+        {
+            "name": "filter_accessibility_collapse",
+            "value": "Collapse"
+        },
+        {
+            "name": "filter_accessibility_collapsed",
+            "value": "Collapsed"
+        },
+        {
+            "name": "filter_accessibility_filters",
+            "value": "Filters"
+        },
+        {
+            "name": "filter_accessibility_select_desc",
+            "value": "Double-tap to select it"
+        },
+        {
+            "name": "filter_accessibility_unselect_desc",
+            "value": "Double-tap to deselect it"
+        },
+        {
+            "name": "filter_accessibility_expand_desc",
+            "value": "Double-tap to expand"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item",
+            "value": "%s, added to the resident content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value": "Double-tap and hold to drag and sort"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value": "%s, moves out of the resident content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value": "%s,lifted"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value": "Row %1$d, column %2$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value": "Placed, row %1$d, column %2$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value": "%1$s, added to the resident content area, row %2$d, column %3$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value": "Entered edit state"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item",
+            "value": "%s, not added to the resident content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value": "Double-tap and hold to enter the editing mode"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value": "Double-tap to join.Double-click and hold to enter the editing state."
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_button",
+            "value": "%s，added to the resident content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
+            "value": "edit"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_deleted",
+            "value": "%s,move out of the resident content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_illegal_area",
+            "value": "Illegal area"
+        },
+        {
+            "name": "treeview_accessibility_expand_node",
+            "value": "expand"
+        },
+        {
+            "name": "treeview_accessibility_fold_node",
+            "value": "fold"
+        },
+        {
+            "name": "treeview_accessibility_expanded_node",
+            "value": "expanded"
+        },
+        {
+            "name": "treeview_accessibility_folded_node",
+            "value": "folded"
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "Double-click to select, double-click and hold to drag and sort"
+        },
+        {
+            "name": "treeview_accessibility_select_node",
+            "value": "Checked, %s"
+        },
+        {
+            "name": "treeview_accessibility_lift_node",
+            "value": "%s, lifted"
+        },
+        {
+            "name": "treeview_accessibility_move_node_parent",
+            "value": "Item %d"
+        },
+        {
+            "name": "treeview_accessibility_place_node_parent",
+            "value": "Placed, item %d"
+        },
+        {
+            "name": "treeview_accessibility_move_node_child",
+            "value": "To %2$d of %1$s"
+        },
+        {
+            "name": "treeview_accessibility_place_node_child",
+            "value": "Item %2$d where %1$s has been placed"
+        },
+        {
+            "name": "treeview_accessibility_implement_node",
+            "value": "Double-click with one finger to excute"
         }
     ]
 }
