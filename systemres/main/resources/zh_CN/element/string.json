@@ -1390,6 +1390,25 @@
         {
             "name": "treeview_accessibility_implement_node",
             "value": "单指双击即可执行"
+        },
+        {
+            "name": "selecttitlebar_accessibility_message_desc",
+            "value": "%s条新消息"
+        },
+        {
+            "type": "string",
+            "name": "subheader_accessibility_title",
+            "order": 5220
+        },
+        {
+            "type": "string",
+            "name": "advanced_dialog_accessibility_checkbox",
+            "order": 5221
+        },
+        {
+            "type": "string",
+            "name": "advanced_dialog_accessibility_cancel_checked_desc",
+            "order": 5222
         }
     ]
 }
