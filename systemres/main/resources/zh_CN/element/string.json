@@ -1396,19 +1396,16 @@
             "value": "%s条新消息"
         },
         {
-            "type": "string",
             "name": "subheader_accessibility_title",
-            "order": 5220
+            "value": "标题"
         },
         {
-            "type": "string",
             "name": "advanced_dialog_accessibility_checkbox",
-            "order": 5221
+            "value": "复选框"
         },
         {
-            "type": "string",
             "name": "advanced_dialog_accessibility_cancel_checked_desc",
-            "order": 5222
+            "value": "单指双击即可取消选中"
         }
     ]
 }
