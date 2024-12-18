@@ -1342,6 +1342,54 @@
         {
             "name": "gridobjectsortcomponent_accessibility_illegal_area",
             "value": "非放置区"
+        },
+        {
+            "name": "treeview_accessibility_expand_node",
+            "value": "展开"
+        },
+        {
+            "name": "treeview_accessibility_fold_node",
+            "value": "收起"
+        },
+        {
+            "name": "treeview_accessibility_expanded_node",
+            "value": "已展开"
+        },
+        {
+            "name": "treeview_accessibility_folded_node",
+            "value": "已收起"
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "单指双击即可选中，双击并长按即可拖动排序"
+        },
+        {
+            "name": "treeview_accessibility_select_node",
+            "value": "已选中，%s"
+        },
+        {
+            "name": "treeview_accessibility_lift_node",
+            "value": "%s,已托起"
+        },
+        {
+            "name": "treeview_accessibility_move_node_parent",
+            "value": "第%d项"
+        },
+        {
+            "name": "treeview_accessibility_place_node_parent",
+            "value": "已放置，第%d项"
+        },
+        {
+            "name": "treeview_accessibility_move_node_child",
+            "value": "托至%1$s的第%2$d项"
+        },
+        {
+            "name": "treeview_accessibility_place_node_child",
+            "value": "已放置%1$s的第%2$d项"
+        },
+        {
+            "name": "treeview_accessibility_implement_node",
+            "value": "单指双击即可执行"
         }
     ]
 }

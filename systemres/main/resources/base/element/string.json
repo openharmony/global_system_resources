@@ -1458,6 +1458,54 @@
         {
             "name": "gridobjectsortcomponent_accessibility_illegal_area",
             "value": "Illegal area"
+        },
+        {
+            "name": "treeview_accessibility_expand_node",
+            "value": "expand"
+        },
+        {
+            "name": "treeview_accessibility_fold_node",
+            "value": "fold"
+        },
+        {
+            "name": "treeview_accessibility_expanded_node",
+            "value": "expanded"
+        },
+        {
+            "name": "treeview_accessibility_folded_node",
+            "value": "folded"
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "Double-click to select, double-click and hold to drag and sort"
+        },
+        {
+            "name": "treeview_accessibility_select_node",
+            "value": "Checked, %s"
+        },
+        {
+            "name": "treeview_accessibility_lift_node",
+            "value": "%s, lifted"
+        },
+        {
+            "name": "treeview_accessibility_move_node_parent",
+            "value": "Item %d"
+        },
+        {
+            "name": "treeview_accessibility_place_node_parent",
+            "value": "Placed, item %d"
+        },
+        {
+            "name": "treeview_accessibility_move_node_child",
+            "value": "To %2$d of %1$s"
+        },
+        {
+            "name": "treeview_accessibility_place_node_child",
+            "value": "Item %2$d where %1$s has been placed"
+        },
+        {
+            "name": "treeview_accessibility_implement_node",
+            "value": "Double-click with one finger to excute"
         }
     ]
 }
