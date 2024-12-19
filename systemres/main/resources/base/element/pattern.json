@@ -4287,6 +4287,58 @@
                 {
                     "name": "swiper_focus_style_type",
                     "value": "$float:swiper_focus_style_type_sys"
+                },
+                {
+                    "name": "swiper_slow_velocity_threshold",
+                    "value": "$float:swiper_slow_velocity_threshold"
+                },
+                {
+                    "name": "swiper_display_control_ratio_slow",
+                    "value": "$float:swiper_display_control_ratio_slow"
+                },
+                {
+                    "name": "swiper_display_control_ratio_fast",
+                    "value": "$float:swiper_display_control_ratio_fast"
+                },
+                {
+                    "name": "swiper_crown_sensitivity_low",
+                    "value": "$float:swiper_crown_sensitivity_low"
+                },
+                {
+                    "name": "swiper_crown_sensitivity_medium",
+                    "value": "$float:swiper_crown_sensitivity_medium"
+                },
+                {
+                    "name": "swiper_crown_sensitivity_high",
+                    "value": "$float:swiper_crown_sensitivity_high"
+                },
+                {
+                    "name": "swiper_spring_velocity_threshold",
+                    "value": "$float:swiper_spring_velocity_threshold"
+                },
+                {
+                    "name": "swiper_crown_translocation_ratio",
+                    "value": "$float:swiper_crown_translocation_ratio"
+                },
+                {
+                    "name": "dot_active_color",
+                    "value": "$color:ohos_id_swiper_dot_active_color"
+                },
+                {
+                    "name": "dot_color",
+                    "value": "$color:ohos_id_swiper_dot_color"
+                },
+                {
+                    "name": "mask_color_start",
+                    "value": "$color:ohos_id_swiper_mask_color_start"
+                },
+                {
+                    "name": "mask_color_end",
+                    "value": "$color:ohos_id_swiper_mask_color_end"
+                },
+                {
+                    "name": "container_color",
+                    "value": "$color:ohos_id_swiper_container_color"
                 }
             ]
         },
@@ -6348,6 +6400,10 @@
                 {
                     "name": "slider_tip_delay_time",
                     "value": "$float:slider_tip_delay_time"
+                },
+                {
+                    "name": "crown_display_control_ratio",
+                    "value": "$float:ohos_id_slider_crown_display_control_ratio"
                 }
             ]
         },
