@@ -231,6 +231,66 @@
         {
             "name": "navigation_divider_dark_blue_active",
             "value": "#FF5291FF"
+        },
+        {
+            "name": "radio_ring_focus_color_unchecked",
+            "value": "#66ffffff"
+        },
+        {
+            "name": "radio_container_focus_color_unchecked",
+            "value": "#33000000"
+        },
+        {
+            "name": "swiper_indicator_unselected_focus_color",
+            "value": "$color:ohos_id_color_component_normal"
+        },
+	    {
+            "name": "button_border_color",
+            "value": "#ff000000"
+        },
+        {
+            "name": "button_small_border_color",
+            "value": "#ff000000"
+        },
+        {
+            "name": "text_button_container_focus_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "normal_button_container_focus_color",
+            "value": "$color:comp_background_tertiary"
+        },
+        {
+            "name": "swiper_indicator_selected_focus_color",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "checkbox_focus_border_color",
+            "value": "#66ffffff"
+        },
+        {
+            "name": "checkbox_container_focus_color_unselected",
+            "value": "#33000000"
+        },
+        {
+            "name": "menu_item_focused_text_color",
+            "value": "#dbffffff"
+        },
+        {
+            "name": "status_button_container_focus_unchecked",
+            "value": "#19ffffff"
+        },
+        {
+            "name": "status_button_container_focus_checked",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "status_button_text_color_focus",
+            "value": "#dbffffff"
+        },
+        {
+            "name": "switch_point_unselected_focus_color",
+            "value": "#ffe5e5e5"
         }
     ]
   }
