@@ -1107,6 +1107,10 @@
                 {
                     "name": "general_today",
                     "value": "$string:general_today"
+                },
+                {
+                    "name": "calendar_picker_dialog_background_blur_style",
+                    "value": "$float:calendar_picker_dialog_background_blur_style"
                 }
             ]
         },
@@ -2438,6 +2442,10 @@
                 {
                     "name": "text_align_content",
                     "value": "$float:alertdialog_text_align_content"
+                },
+                {
+                    "name":"dialog_background_blur_style",
+                    "value":"$float:dialog_background_blur_style"
                 }
             ]
         },
@@ -3408,6 +3416,10 @@
                 {
                     "name": "popup_default_shadow_style",
                     "value": "$float:popup_default_shadow_style"
+                },
+                {
+                    "name": "popup_background_blur_style",
+                    "value": "$float:popup_background_blur_style"
                 }
             ]
         },
@@ -5420,6 +5432,10 @@
                 {
                     "name": "toast_default_shadow_style",
                     "value": "$float:toast_default_shadow_style"
+                },
+                {
+                    "name": "toast_background_blur_style",
+                    "value": "$float:toast_background_blur_style"
                 }
             ]
         },
@@ -6247,6 +6263,10 @@
                 {
                     "name": "menu_default_shadow_style",
                     "value": "$float:menu_default_shadow_style"
+                },
+                {
+                    "name": "menu_background_blur_style",
+                    "value": "$float:menu_background_blur_style"
                 }
             ]
         },
