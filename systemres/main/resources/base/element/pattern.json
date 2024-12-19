@@ -4705,6 +4705,10 @@
                 {
                     "name": "text_marquee_start_policy",
                     "value": "$float:text_marquee_start_policy"
+                },
+                {
+                    "name": "text_menu_search_is_support",
+                    "value": "$string:res_menu_search_is_support"
                 }
             ]
         },
@@ -5142,6 +5146,10 @@
                 {
                     "name": "direction_keys_move_focus_out",
                     "value": "$float:textfield_direction_keys_move_focus_out"
+                },
+                {
+                    "name": "textfield_menu_search_is_support",
+                    "value": "$string:res_menu_search_is_support"
                 }
             ]
         },
