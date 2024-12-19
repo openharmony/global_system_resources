@@ -10263,7 +10263,7 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_button",
+            "name": "button_border_color",
             "order": 2021
         },
         {
@@ -10278,9 +10278,8 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_small_button",
-            "order": 2024,
-            "flags": "private"
+            "name": "button_small_border_color",
+            "order": 2024
         },
         {
             "type": "float",
@@ -10304,7 +10303,7 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_bg_text_button",
+            "name": "text_button_container_focus_color",
             "order": 2029
         },
         {
@@ -10319,27 +10318,23 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_width_border_dialog",
-            "order": 2032,
-            "flags": "private"
+            "name": "alertdialog_container_border_width",
+            "order": 2032
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_dialog",
-            "order": 2033,
-            "flags": "private"
+            "name": "alertdialog_container_border_color",
+            "order": 2033
         },
         {
             "type": "float",
-            "name": "ohos_id_text_align_dialog_title",
-            "order": 2034,
-            "flags": "private"
+            "name": "alertdialog_text_align_title",
+            "order": 2034
         },
         {
             "type": "float",
-            "name": "ohos_id_text_align_dialog_content",
-            "order": 2035,
-            "flags": "private"
+            "name": "alertdialog_text_align_content",
+            "order": 2035
         },
         {
             "type": "float",
@@ -10349,69 +10344,58 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_ratio_height_dialog",
-            "order": 2037,
-            "flags": "private"
+            "name": "alertdialog_ratio_height",
+            "order": 2037
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_text_input",
-            "order": 2038,
-            "flags": "private"
+            "name": "text_input_border_color",
+            "order": 2038
         },
         {
             "type": "float",
-            "name": "ohos_id_width_border_text_input",
-            "order": 2039,
-            "flags": "private"
+            "name": "text_input_border_width",
+            "order": 2039
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_error_tips_text_input",
-            "order": 2040,
-            "flags": "private"
+            "name": "text_input_error_tips_space",
+            "order": 2040
         },
         {
             "type": "float",
-            "name": "ohos_id_width_border_error_text_input",
-            "order": 2041,
-            "flags": "private"
+            "name": "text_input_error_border_width",
+            "order": 2041
         },
         {
             "type": "float",
-            "name": "ohos_id_show_icon_text_input",
-            "order": 2042,
-            "flags": "private"
+            "name": "text_input_show_icon",
+            "order": 2042
         },
         {
             "type": "float",
-            "name": "ohos_id_size_focused_bg_checkbox",
-            "order": 2043,
-            "flags": "private"
+            "name": "checkbox_container_focus_size",
+            "order": 2043
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_bg_checkbox",
-            "order": 2044,
-            "flags": "private"
+            "name": "checkbox_container_focus_color",
+            "order": 2044
         },
         {
             "type": "color",
-            "name": "ohos_id_focused_border_color_unselected_checkbox",
-            "order": 2045,
-            "flags": "private"
+            "name": "checkbox_focus_border_color",
+            "order": 2045
         },
         {
             "type": "color",
-            "name": "ohos_id_focused_bg_color_unselected_checkbox",
-            "order": 2046,
-            "flags": "private"
+            "name": "checkbox_container_focus_color_unselected",
+            "order": 2046
         },
         {
             "type": "float",
-            "name": "ohos_id_device_columns_dialog",
-            "order": 2047,
-            "flags": "private"
+            "name": "alertdialog_normal_button_text_font_size",
+            "order": 2047
         },
         {
             "type": "float",
@@ -10577,27 +10561,23 @@
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_dot_swiper",
-            "order": 2078,
-            "flags": "private"
+            "name": "swiper_indicator_dot_padding",
+            "order": 2078
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_bg_radio",
-            "order": 2079,
-            "flags": "private"
+            "name": "radio_container_focus_color",
+            "order": 2079
         },
         {
             "type": "float",
-            "name": "ohos_id_size_focused_bg_radio",
-            "order": 2080,
-            "flags": "private"
+            "name": "radio_container_focus_size",
+            "order": 2080
         },
         {
             "type": "float",
-            "name": "ohos_id_text_fadeout_width",
-            "order": 2081,
-            "flags": "private"
+            "name": "text_fadeout_width_sys",
+            "order": 2081
         },
         {
             "type": "float",
@@ -10611,33 +10591,28 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_bg_with_blur_dialog",
-            "order": 2084,
-            "flags": "private"
+            "name": "alertdialog_container_color_blur",
+            "order": 2084
         },
         {
             "type": "float",
-            "name": "ohos_id_align_dialog",
-            "order": 2085,
-            "flags": "private"
+            "name": "alertdialog_align",
+            "order": 2085
         },
         {
             "type": "float",
-            "name": "ohos_id_shadow_dialog",
-            "order": 2086,
-            "flags": "private"
+            "name": "alertdialog_button_type",
+            "order": 2086
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_top_title_dialog",
-            "order": 2087,
-            "flags": "private"
+            "name": "alertdialog_title_padding_top",
+            "order": 2087
         },
         {
             "type": "float",
-            "name": "ohos_id_padding_single_title_dialog",
-            "order": 2088,
-            "flags": "private"
+            "name": "alertdialog_padding_single_title",
+            "order": 2088
         },
         {
             "type": "media",
@@ -10716,15 +10691,13 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_select",
-            "order": 2104,
-            "flags": "private"
+            "name": "swiper_indicator_selected_focus_color",
+            "order": 2104
         },
         {
             "type": "float",
-            "name": "ohos_id_scale_swiper_indicator",
-            "order": 2105,
-            "flags": "private"
+            "name": "swiper_indicator_scale",
+            "order": 2105
         },
         {
             "type": "media",
@@ -10734,9 +10707,8 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_board_switch",
-            "order": 2107,
-            "flags": "private"
+            "name": "switch_container_focus_color",
+            "order": 2107
         },
         {
             "type": "color",
@@ -10752,81 +10724,68 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_status_button_checked",
-            "order": 2110,
-            "flags": "private"
+            "name": "status_button_color_border_checked",
+            "order": 2110
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_status_button_unchecked",
-            "order": 2111,
-            "flags": "private"
+            "name": "status_button_color_border_unchecked",
+            "order": 2111
         },
         {
             "type": "color",
-            "name": "ohos_id_bgcolor_focus_status_button_unchecked",
-            "order": 2112,
-            "flags": "private"
+            "name": "status_button_container_focus_unchecked",
+            "order": 2112
         },
         {
             "type": "color",
-            "name": "ohos_id_bgcolor_focus_status_button_checked",
-            "order": 2113,
-            "flags": "private"
+            "name": "status_button_container_focus_checked",
+            "order": 2113
         },
         {
             "type": "color",
-            "name": "ohos_id_text_color_focus_status_button",
-            "order": 2114,
-            "flags": "private"
+            "name": "status_button_text_color_focus",
+            "order": 2114
         },
         {
             "type": "color",
-            "name": "ohos_id_color_border_menu",
-            "order": 2115,
-            "flags": "private"
+            "name": "menu_border_color",
+            "order": 2115
         },
         {
             "type": "float",
-            "name": "ohos_id_width_border_menu",
-            "order": 2116,
-            "flags": "private"
+            "name": "menu_border_width",
+            "order": 2116
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_bg_menu_item",
-            "order": 2117,
-            "flags": "private"
+            "name": "menu_item_focused_bg_color",
+            "order": 2117
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focused_text_menu_item",
-            "order": 2118,
-            "flags": "private"
+            "name": "menu_item_focused_text_color",
+            "order": 2118
         },
         {
             "type": "float",
-            "name": "ohos_id_menu_item_top_bottom_margin",
-            "order": 2119,
-            "flags": "private"
+            "name": "menu_item_top_bottom_margin",
+            "order": 2119
         },
         {
             "type": "float",
-            "name": "ohos_id_shadow_focused_menu_item",
-            "order": 2120,
-            "flags": "private"
+            "name": "menu_item_focused_shadow_style",
+            "order": 2120
         },
         {
             "type": "float",
-            "name": "ohos_id_target_security_space_menu",
-            "order": 2121,
-            "flags": "private"
+            "name": "menu_target_security_space",
+            "order": 2121
         },
         {
             "type": "float",
-            "name": "ohos_id_content_align_menu_item",
-            "order": 2122,
-            "flags": "private"
+            "name": "menu_item_content_align",
+            "order": 2122
         },
         {
             "type": "symbol",
@@ -18255,21 +18214,18 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_unselected_dot_swiper",
-            "order": 3608,
-            "flags": "private"
+            "name": "swiper_indicator_unselected_focus_color",
+            "order": 3608
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_bg_swiper",
-            "order": 3609,
-            "flags": "private"
+            "name": "swiper_indicator_container_focus_color",
+            "order": 3609
         },
         {
             "type": "float",
-            "name": "ohos_id_height_bg_swiper",
-            "order": 3610,
-            "flags": "private"
+            "name": "swiper_indicator_container_height",
+            "order": 3610
         },
         {
             "type": "color",
@@ -18299,15 +18255,13 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_ring_unchecked_radio",
-            "order": 3616,
-            "flags": "private"
+            "name": "radio_ring_focus_color_unchecked",
+            "order": 3616
         },
         {
             "type": "color",
-            "name": "ohos_id_color_focus_bg_unchecked_radio",
-            "order": 3617,
-            "flags": "private"
+            "name": "radio_container_focus_color_unchecked",
+            "order": 3617
         },
         {
             "type": "string",
@@ -18417,9 +18371,8 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_normal_button_focus_bgcolor",
-            "order": 3639,
-            "flags": "private"
+            "name": "normal_button_container_focus_color",
+            "order": 3639
         },
         {
             "type": "color",
@@ -22113,9 +22066,9 @@
             "order": 4377
         },
         {
-            "type" : "string",
-            "name" : "form_disable_time_limit",
-            "order" : 4378
+            "type": "string",
+            "name": "form_disable_time_limit",
+            "order": 4378
         },
         {
             "type": "float",
@@ -22146,9 +22099,9 @@
             "type": "media",
             "name": "clone_app_badge_5",
             "order": 4384
-	},
-	{
-	    "type": "color",
+        },
+        {
+            "type": "color",
             "name": "dataPanel_color_subheading_separator",
             "order": 4385
         },
@@ -26153,7 +26106,7 @@
             "name": "general_window_top_right_screen",
             "order": 5180
         },
-		{
+        {
             "type": "string",
             "name": "general_window_waterfall_mode",
             "order": 5181
@@ -26523,6 +26476,1966 @@
             "name": "placeholder_5251",
             "order": 5251,
             "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "ring_progress_fg_color_begin",
+            "order": 5252
+        },
+        {
+            "type": "color",
+            "name": "scrollbar_color_foreground",
+            "order": 5253
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_active_magnify",
+            "order": 5254
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_touch_magnify",
+            "order": 5255
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_foreground_opacity",
+            "order": 5256
+        },
+        {
+            "type": "float",
+            "name": "scroll_bar_elements_margin_end",
+            "order": 5257
+        },
+        {
+            "type": "float",
+            "name": "qrcode_focused_padding",
+            "order": 5258
+        },
+        {
+            "type": "float",
+            "name": "qrcode_default_size",
+            "order": 5259
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_width",
+            "order": 5260
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_app_theme_pattern",
+            "order": 5261
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_box_glow",
+            "order": 5262
+        },
+        {
+            "type": "color",
+            "name": "app_theme_focus_color",
+            "order": 5263
+        },
+        {
+            "type": "float",
+            "name": "radio_container_hover_size",
+            "order": 5264
+        },
+        {
+            "type": "float",
+            "name": "swiper_indicator_focus_padding",
+            "order": 5265
+        },
+        {
+            "type": "float",
+            "name": "swiper_clip_bounds",
+            "order": 5266
+        },
+        {
+            "type": "color",
+            "name": "alertdialog_divider_color",
+            "order": 5267
+        },
+        {
+            "type": "float",
+            "name": "loading_progress_default_size",
+            "order": 5268
+        },
+        {
+            "type": "float",
+            "name": "progress_text_margin",
+            "order": 5269
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_hover_effect_type",
+            "order": 5270
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_focused_scale",
+            "order": 5271
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_inprogress_border_color_alpha",
+            "order": 5272
+        },
+        {
+            "type": "float",
+            "name": "progress_border_color_alpha",
+            "order": 5273
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_inprogress_border_width",
+            "order": 5274
+        },
+        {
+            "type": "float",
+            "name": "progress_border_width",
+            "order": 5275
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_bg_inprogress_color_alpha",
+            "order": 5276
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_bg_alpha",
+            "order": 5277
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_bg_focused_color_alpha",
+            "order": 5278
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_focused_shadow_style",
+            "order": 5279
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_select_focused_color_alpha",
+            "order": 5280
+        },
+        {
+            "type": "float",
+            "name": "capsule_progress_default_alpha",
+            "order": 5281
+        },
+        {
+            "type": "float",
+            "name": "progress_default_diameter",
+            "order": 5282
+        },
+        {
+            "type": "float",
+            "name": "progress_text_size",
+            "order": 5283
+        },
+        {
+            "type": "float",
+            "name": "ring_progress_default_padding",
+            "order": 5284
+        },
+        {
+            "type": "float",
+            "name": "progress_ring_thickness",
+            "order": 5285
+        },
+        {
+            "type": "color",
+            "name": "progress_track_color",
+            "order": 5286
+        },
+        {
+            "type": "color",
+            "name": "progress_track_selected_color",
+            "order": 5287
+        },
+        {
+            "type": "color",
+            "name": "fg_progress_color",
+            "order": 5288
+        },
+        {
+            "type": "color",
+            "name": "loading_progress_focused_color",
+            "order": 5289
+        },
+        {
+            "type": "color",
+            "name": "progress_hover_blend_color",
+            "order": 5290
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_inprogress_border_color",
+            "order": 5291
+        },
+        {
+            "type": "color",
+            "name": "progress_border_color",
+            "order": 5292
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_bg_inprogress_color",
+            "order": 5293
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_bg_color",
+            "order": 5294
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_bg_focused_color",
+            "order": 5295
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_text_focused_color",
+            "order": 5296
+        },
+        {
+            "type": "color",
+            "name": "progress_text_color",
+            "order": 5297
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_select_focused_color",
+            "order": 5298
+        },
+        {
+            "type": "color",
+            "name": "capsule_progress_select_color",
+            "order": 5299
+        },
+        {
+            "type": "color",
+            "name": "progress_click_effect",
+            "order": 5300
+        },
+        {
+            "type": "color",
+            "name": "ring_progress_bg_color",
+            "order": 5301
+        },
+        {
+            "type": "color",
+            "name": "ring_progress_fg_color_end",
+            "order": 5302
+        },
+        {
+            "type": "color",
+            "name": "popup_container_default_color",
+            "order": 5303
+        },
+        {
+            "type": "color",
+            "name": "popup_border_color",
+            "order": 5304
+        },
+        {
+            "type": "color",
+            "name": "popup_text_primary_color",
+            "order": 5305
+        },
+        {
+            "type": "float",
+            "name": "popup_border_width",
+            "order": 5306
+        },
+        {
+            "type": "float",
+            "name": "popup_target_space",
+            "order": 5307
+        },
+        {
+            "type": "float",
+            "name": "popup_corner_radius",
+            "order": 5308
+        },
+        {
+            "type": "float",
+            "name": "popup_min_height",
+            "order": 5309
+        },
+        {
+            "type": "float",
+            "name": "popup_max_columns",
+            "order": 5310
+        },
+        {
+            "type": "float",
+            "name": "popup_horizontal_padding",
+            "order": 5311
+        },
+        {
+            "type": "float",
+            "name": "popup_vertical_padding",
+            "order": 5312
+        },
+        {
+            "type": "float",
+            "name": "popup_text_font_size",
+            "order": 5313
+        },
+        {
+            "type": "float",
+            "name": "popup_container_theme_color_mode",
+            "order": 5314
+        },
+        {
+            "type": "float",
+            "name": "checkbox_round_container_focus_size",
+            "order": 5315
+        },
+        {
+            "type": "color",
+            "name": "rating_icon_active_color",
+            "order": 5316
+        },
+        {
+            "type": "color",
+            "name": "rating_icon_inactive_color",
+            "order": 5317
+        },
+        {
+            "type": "color",
+            "name": "rating_container_hover_color",
+            "order": 5318
+        },
+        {
+            "type": "color",
+            "name": "rating_container_press_color",
+            "order": 5319
+        },
+        {
+            "type": "color",
+            "name": "rating_container_focus_color",
+            "order": 5320
+        },
+        {
+            "type": "color",
+            "name": "rating_unlit_star_focus_color",
+            "order": 5321
+        },
+        {
+            "type": "float",
+            "name": "rating_hover_radius_size",
+            "order": 5322
+        },
+        {
+            "type": "float",
+            "name": "rating_icon_board_distance",
+            "order": 5323
+        },
+        {
+            "type": "float",
+            "name": "rating_big_width",
+            "order": 5324
+        },
+        {
+            "type": "float",
+            "name": "rating_big_height",
+            "order": 5325
+        },
+        {
+            "type": "float",
+            "name": "rating_focus_space",
+            "order": 5326
+        },
+        {
+            "type": "float",
+            "name": "rating_focus_blur_cancel_animation",
+            "order": 5327
+        },
+        {
+            "type": "float",
+            "name": "rating_apply_circle_radius",
+            "order": 5328
+        },
+        {
+            "type": "float",
+            "name": "menu_back_blur_with_color",
+            "order": 5329
+        },
+        {
+            "type": "color",
+            "name": "menu_back_blur_color",
+            "order": 5330
+        },
+        {
+            "type": "float",
+            "name": "menu_item_left_right_margin",
+            "order": 5331
+        },
+        {
+            "type": "float",
+            "name": "menu_divider_start_margin",
+            "order": 5332
+        },
+        {
+            "type": "float",
+            "name": "menu_divider_end_margin",
+            "order": 5333
+        },
+        {
+            "type": "float",
+            "name": "menu_default_show_divider",
+            "order": 5334
+        },
+        {
+            "type": "float",
+            "name": "menu_need_focus",
+            "order": 5335
+        },
+        {
+            "type": "float",
+            "name": "search_need_focus_box",
+            "order": 5336
+        },
+        {
+            "type": "float",
+            "name": "textinput_need_focus_glow",
+            "order": 5337
+        },
+        {
+            "type": "float",
+            "name": "search_focus_padding",
+            "order": 5338
+        },
+        {
+            "type": "float",
+            "name": "text_input_error_password_border_alpha",
+            "order": 5339
+        },
+        {
+            "type": "color",
+            "name": "search_icon_color",
+            "order": 5340
+        },
+        {
+            "type": "color",
+            "name": "search_symbol_icon_color",
+            "order": 5341
+        },
+        {
+            "type": "color",
+            "name": "search_text_focus_color",
+            "order": 5342
+        },
+        {
+            "type": "color",
+            "name": "search_container_focus_color",
+            "order": 5343
+        },
+        {
+            "type": "color",
+            "name": "search_icon_focus_color",
+            "order": 5344
+        },
+        {
+            "type": "color",
+            "name": "search_hover_color",
+            "order": 5345
+        },
+        {
+            "type": "color",
+            "name": "search_press_color",
+            "order": 5346
+        },
+        {
+            "type": "color",
+            "name": "textfield_bg_color",
+            "order": 5347
+        },
+        {
+            "type": "color",
+            "name": "search_text_color",
+            "order": 5348
+        },
+        {
+            "type": "color",
+            "name": "textfield_cursor_color",
+            "order": 5349
+        },
+        {
+            "type": "color",
+            "name": "search_placeholder_color",
+            "order": 5350
+        },
+        {
+            "type": "color",
+            "name": "search_border_color",
+            "order": 5351
+        },
+        {
+            "type": "color",
+            "name": "search_placeholder_focus_color",
+            "order": 5352
+        },
+        {
+            "type": "float",
+            "name": "search_icon_size",
+            "order": 5353
+        },
+        {
+            "type": "float",
+            "name": "search_icon_height",
+            "order": 5354
+        },
+        {
+            "type": "float",
+            "name": "textfield_font_size",
+            "order": 5355
+        },
+        {
+            "type": "float",
+            "name": "search_default_height",
+            "order": 5356
+        },
+        {
+            "type": "float",
+            "name": "textfield_border_radius",
+            "order": 5357
+        },
+        {
+            "type": "float",
+            "name": "search_border_width",
+            "order": 5358
+        },
+        {
+            "type": "float",
+            "name": "search_cancel_button_style",
+            "order": 5359
+        },
+        {
+            "type": "float",
+            "name": "textfield_hover_press_bg_color_enabled",
+            "order": 5360
+        },
+        {
+            "type": "float",
+            "name": "text_input_need_focus_box",
+            "order": 5361
+        },
+        {
+            "type": "float",
+            "name": "text_input_focus_padding",
+            "order": 5362
+        },
+        {
+            "type": "float",
+            "name": "text_button_font_size",
+            "order": 5363
+        },
+        {
+            "type": "float",
+            "name": "apply_text_font_size",
+            "order": 5364
+        },
+        {
+            "type": "color",
+            "name": "textpicker_selected_text_color",
+            "order": 5365
+        },
+        {
+            "type": "color",
+            "name": "textpicker_text_color",
+            "order": 5366
+        },
+        {
+            "type": "color",
+            "name": "textpicker_disappear_text_color",
+            "order": 5367
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_hover_color",
+            "order": 5368
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_press_color",
+            "order": 5369
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_text_focus_color",
+            "order": 5370
+        },
+        {
+            "type": "color",
+            "name": "picker_select_divider_color",
+            "order": 5371
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_border_color",
+            "order": 5372
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_border_focus_color",
+            "order": 5373
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_container_focus_color",
+            "order": 5374
+        },
+        {
+            "type": "color",
+            "name": "picker_selector_item_container_normal_color",
+            "order": 5375
+        },
+        {
+            "type": "float",
+            "name": "textpicker_selected_text_size",
+            "order": 5376
+        },
+        {
+            "type": "float",
+            "name": "textpicker_text_size",
+            "order": 5377
+        },
+        {
+            "type": "float",
+            "name": "textpicker_disappear_text_size",
+            "order": 5378
+        },
+        {
+            "type": "float",
+            "name": "picker_area_focus_type",
+            "order": 5379
+        },
+        {
+            "type": "float",
+            "name": "picker_selector_item_radius",
+            "order": 5380
+        },
+        {
+            "type": "float",
+            "name": "picker_selector_item_space",
+            "order": 5381
+        },
+        {
+            "type": "float",
+            "name": "picker_selector_item_border_width",
+            "order": 5382
+        },
+        {
+            "type": "float",
+            "name": "picker_selector_item_border_focus_width",
+            "order": 5383
+        },
+        {
+            "type": "float",
+            "name": "status_button_bgcolor_checked_focus_alpha",
+            "order": 5384
+        },
+        {
+            "type": "float",
+            "name": "image_animator_corner_radius_card",
+            "order": 5385
+        },
+        {
+            "type": "float",
+            "name": "image_animator_clip_edge",
+            "order": 5386
+        },
+        {
+            "type": "color",
+            "name": "switch_unchecked_point_color",
+            "order": 5387
+        },
+        {
+            "type": "float",
+            "name": "switch_different_point_color",
+            "order": 5388
+        },
+        {
+            "type": "float",
+            "name": "switch_focus_box_padding",
+            "order": 5389
+        },
+        {
+            "type": "color",
+            "name": "slider_color_foreground",
+            "order": 5390
+        },
+        {
+            "type": "color",
+            "name": "slider_outset_and_none_track_color",
+            "order": 5391
+        },
+        {
+            "type": "color",
+            "name": "slider_color_emphasize",
+            "order": 5392
+        },
+        {
+            "type": "color",
+            "name": "slider_color_foreground_contrary",
+            "order": 5393
+        },
+        {
+            "type": "color",
+            "name": "slider_hover_color",
+            "order": 5394
+        },
+        {
+            "type": "color",
+            "name": "slider_color_click_effect",
+            "order": 5395
+        },
+        {
+            "type": "color",
+            "name": "slider_block_shadow_color",
+            "order": 5396
+        },
+        {
+            "type": "float",
+            "name": "slider_measure_content_outset_width",
+            "order": 5397
+        },
+        {
+            "type": "float",
+            "name": "slider_normal_alpha",
+            "order": 5398
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_block_size",
+            "order": 5399
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_hot_block_shadow_width",
+            "order": 5400
+        },
+        {
+            "type": "float",
+            "name": "slider_control_focus_frame",
+            "order": 5401
+        },
+        {
+            "type": "float",
+            "name": "slider_scale_value",
+            "order": 5402
+        },
+        {
+            "type": "color",
+            "name": "toast_border_color",
+            "order": 5403
+        },
+        {
+            "type": "float",
+            "name": "toast_border_enable",
+            "order": 5404
+        },
+        {
+            "type": "color",
+            "name": "toast_color_text_primary_contrary",
+            "order": 5405
+        },
+        {
+            "type": "color",
+            "name": "toast_container_color",
+            "order": 5406
+        },
+        {
+            "type": "color",
+            "name": "toast_font_primary",
+            "order": 5407
+        },
+        {
+            "type": "float",
+            "name": "toast_border_width",
+            "order": 5408
+        },
+        {
+            "type": "float",
+            "name": "toast_shadow_default",
+            "order": 5409
+        },
+        {
+            "type": "float",
+            "name": "toast_Body_M",
+            "order": 5410
+        },
+        {
+            "type": "float",
+            "name": "toast_text_font_size",
+            "order": 5411
+        },
+        {
+            "type": "float",
+            "name": "toast_border_radius",
+            "order": 5412
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_horizontal",
+            "order": 5413
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_vertical",
+            "order": 5414
+        },
+        {
+            "type": "float",
+            "name": "toast_bottom",
+            "order": 5415
+        },
+        {
+            "type": "float",
+            "name": "toast_border_radius_level9",
+            "order": 5416
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_horizontal_api_twelve",
+            "order": 5417
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_vertical_api_twelve",
+            "order": 5418
+        },
+        {
+            "type": "color",
+            "name": "switch_container_unselected_focus_color",
+            "order": 5419
+        },
+        {
+            "type": "color",
+            "name": "switch_point_unselected_focus_color",
+            "order": 5420
+        },
+        {
+            "type": "color",
+            "name": "switch_container_unchecked_color",
+            "order": 5421
+        },
+        {
+            "type": "color",
+            "name": "sheet_title_text_font_color",
+            "order": 5422
+        },
+        {
+            "type": "color",
+            "name": "sheet_panel_background_color",
+            "order": 5423
+        },
+        {
+            "type": "color",
+            "name": "focus_animation_color",
+            "order": 5424
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_select_text_color",
+            "order": 5425
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_text_color",
+            "order": 5426
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_container_hover_color",
+            "order": 5427
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_container_press_color",
+            "order": 5428
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_active_indicator_color",
+            "order": 5429
+        },
+        {
+            "type": "color",
+            "name": "tab_subtab_text_focus_color",
+            "order": 5430
+        },
+        {
+            "type": "color",
+            "name": "tab_bar_focused_color",
+            "order": 5431
+        },
+        {
+            "type": "color",
+            "name": "checkbox_focus_color",
+            "order": 5432
+        },
+        {
+            "type": "color",
+            "name": "radio_focus_color",
+            "order": 5433
+        },
+        {
+            "type": "color",
+            "name": "switch_focus_color",
+            "order": 5434
+        },
+        {
+            "type": "color",
+            "name": "qrcode_focused_color",
+            "order": 5435
+        },
+        {
+            "type": "color",
+            "name": "swiper_indicator_color_focused",
+            "order": 5436
+        },
+        {
+            "type": "color",
+            "name": "picker_focus_color",
+            "order": 5437
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_text_font_size",
+            "order": 5438
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_text_margin",
+            "order": 5439
+        },
+        {
+            "type": "float",
+            "name": "sheet_panel_background_blur_style",
+            "order": 5440
+        },
+        {
+            "type": "float",
+            "name": "sheet_height_percent_large",
+            "order": 5441
+        },
+        {
+            "type": "float",
+            "name": "sheet_height_percent_medium",
+            "order": 5442
+        },
+        {
+            "type": "float",
+            "name": "sheet_operation_height",
+            "order": 5443
+        },
+        {
+            "type": "float",
+            "name": "sheet_show_close_icon",
+            "order": 5444
+        },
+        {
+            "type": "float",
+            "name": "sheet_height_apply_full_screen",
+            "order": 5445
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_text_default_size",
+            "order": 5446
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_default_height",
+            "order": 5447
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_gradient_width",
+            "order": 5448
+        },
+        {
+            "type": "float",
+            "name": "tab_focus_indicator_radius",
+            "order": 5449
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_item_padding",
+            "order": 5450
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_item_top_padding",
+            "order": 5451
+        },
+        {
+            "type": "float",
+            "name": "tab_subbar_item_horizontal_padding",
+            "order": 5452
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_item_bottom_padding",
+            "order": 5453
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_focused_style",
+            "order": 5454
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_board_focus_padding",
+            "order": 5455
+        },
+        {
+            "type": "float",
+            "name": "tab_subtab_item_horizontal_padding",
+            "order": 5456
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_focus_padding",
+            "order": 5457
+        },
+        {
+            "type": "float",
+            "name": "tab_bar_margin_width",
+            "order": 5458
+        },
+        {
+            "type": "float",
+            "name": "text_marquee_start_policy",
+            "order": 5459
+        },
+        {
+            "type": "float",
+            "name": "checkbox_focus_paint_padding",
+            "order": 5460
+        },
+        {
+            "type": "float",
+            "name": "radio_focus_paint_padding",
+            "order": 5461
+        },
+        {
+            "type": "float",
+            "name": "switch_focus_paint_padding",
+            "order": 5462
+        },
+        {
+            "type": "float",
+            "name": "menu_focus_style_type",
+            "order": 5463
+        },
+        {
+            "type": "float",
+            "name": "select_focus_style_type",
+            "order": 5464
+        },
+        {
+            "type": "float",
+            "name": "qrcode_focus_style_type",
+            "order": 5465
+        },
+        {
+            "type": "float",
+            "name": "textfield_focus_style_type",
+            "order": 5466
+        },
+        {
+            "type": "float",
+            "name": "swiper_focus_border_width",
+            "order": 5467
+        },
+        {
+            "type": "float",
+            "name": "rating_focus_border_width",
+            "order": 5468
+        },
+        {
+            "type": "float",
+            "name": "tabs_active_indicator_width",
+            "order": 5469
+        },
+        {
+            "type": "float",
+            "name": "picker_focus_padding",
+            "order": 5470
+        },
+        {
+            "type": "string",
+            "name": "sheet_type",
+            "order": 5471
+        },
+        {
+            "type": "float",
+            "name": "segment_button_height",
+            "order": 5472
+        },
+        {
+            "type": "float",
+            "name": "segment_min_button_height",
+            "order": 5473
+        },
+        {
+            "type": "float",
+            "name": "segment_button_baseplate_padding",
+            "order": 5474
+        },
+        {
+            "type": "float",
+            "name": "segment_button_text_u_d_padding",
+            "order": 5475
+        },
+        {
+            "type": "float",
+            "name": "segment_button_text_capsule_u_d_padding",
+            "order": 5476
+        },
+        {
+            "type": "float",
+            "name": "segment_button_text_l_r_padding",
+            "order": 5477
+        },
+        {
+            "type": "float",
+            "name": "segment_button_min_font_size",
+            "order": 5478
+        },
+        {
+            "type": "float",
+            "name": "segment_button_normal_border_radius",
+            "order": 5479
+        },
+        {
+            "type": "float",
+            "name": "segment_marquee",
+            "order": 5480
+        },
+        {
+            "type": "float",
+            "name": "segment_focus_control",
+            "order": 5481
+        },
+        {
+            "type": "float",
+            "name": "segment_button_checked_text_size",
+            "order": 5482
+        },
+        {
+            "type": "float",
+            "name": "segment_button_unselected_text_size",
+            "order": 5483
+        },
+        {
+            "type": "float",
+            "name": "segment_button_background_blur_style",
+            "order": 5484
+        },
+        {
+            "type": "float",
+            "name": "segment_button_shadow",
+            "order": 5485
+        },
+        {
+            "type": "color",
+            "name": "segment_button_checked_text_color",
+            "order": 5486
+        },
+        {
+            "type": "color",
+            "name": "segment_button_checked_foreground_color",
+            "order": 5487
+        },
+        {
+            "type": "color",
+            "name": "segment_button_unselected_text_color",
+            "order": 5488
+        },
+        {
+            "type": "color",
+            "name": "segment_button_backboard_color",
+            "order": 5489
+        },
+        {
+            "type": "color",
+            "name": "segment_button_hover_color",
+            "order": 5490
+        },
+        {
+            "type": "color",
+            "name": "segment_button_press_color",
+            "order": 5491
+        },
+        {
+            "type": "color",
+            "name": "segment_button_focus_backboard_primary",
+            "order": 5492
+        },
+        {
+            "type": "color",
+            "name": "segment_button_focus_text_primary",
+            "order": 5493
+        },
+        {
+            "type": "color",
+            "name": "toolBarDialog_container_focus_color",
+            "order": 5494
+        },
+        {
+            "type": "float",
+            "name": "chip_normal_text_padding",
+            "order": 5495
+        },
+        {
+            "type": "float",
+            "name": "chip_small_text_padding",
+            "order": 5496
+        },
+        {
+            "type": "float",
+            "name": "chip_normal_text_margin",
+            "order": 5497
+        },
+        {
+            "type": "float",
+            "name": "chip_small_text_margin",
+            "order": 5498
+        },
+        {
+            "type": "float",
+            "name": "chip_normal_height",
+            "order": 5499
+        },
+        {
+            "type": "float",
+            "name": "chip_small_height",
+            "order": 5500
+        },
+        {
+            "type": "float",
+            "name": "chip_border_width",
+            "order": 5501
+        },
+        {
+            "type": "float",
+            "name": "chip_normal_shadow_style",
+            "order": 5502
+        },
+        {
+            "type": "float",
+            "name": "chip_small_shadow_style",
+            "order": 5503
+        },
+        {
+            "type": "float",
+            "name": "chip_focused_btn_scale",
+            "order": 5504
+        },
+        {
+            "type": "float",
+            "name": "chip_normal_icon_size",
+            "order": 5505
+        },
+        {
+            "type": "float",
+            "name": "chip_small_icon_size",
+            "order": 5506
+        },
+        {
+            "type": "float",
+            "name": "chip_normal_radius",
+            "order": 5507
+        },
+        {
+            "type": "float",
+            "name": "chip_small_radius",
+            "order": 5508
+        },
+        {
+            "type": "float",
+            "name": "chip_normal_font_size",
+            "order": 5509
+        },
+        {
+            "type": "float",
+            "name": "chip_small_font_size",
+            "order": 5510
+        },
+        {
+            "type": "float",
+            "name": "chip_text_font_weight",
+            "order": 5511
+        },
+        {
+            "type": "float",
+            "name": "chip_show_close_icon_margin",
+            "order": 5512
+        },
+        {
+            "type": "color",
+            "name": "chip_border_color",
+            "order": 5513
+        },
+        {
+            "type": "color",
+            "name": "chip_activated_border_color",
+            "order": 5514
+        },
+        {
+            "type": "color",
+            "name": "chip_container_activated_color",
+            "order": 5515
+        },
+        {
+            "type": "color",
+            "name": "chip_activated_fontcolor",
+            "order": 5516
+        },
+        {
+            "type": "color",
+            "name": "chip_hover_color",
+            "order": 5517
+        },
+        {
+            "type": "color",
+            "name": "chip_focus_color",
+            "order": 5518
+        },
+        {
+            "type": "color",
+            "name": "chip_container_activated_focus_color",
+            "order": 5519
+        },
+        {
+            "type": "color",
+            "name": "chip_focus_text",
+            "order": 5520
+        },
+        {
+            "type": "color",
+            "name": "chip_focus_icon",
+            "order": 5521
+        },
+        {
+            "type": "color",
+            "name": "chip_background_color",
+            "order": 5522
+        },
+        {
+            "type": "color",
+            "name": "chip_font_color",
+            "order": 5523
+        },
+        {
+            "type": "color",
+            "name": "chip_press_color",
+            "order": 5524
+        },
+        {
+            "type": "color",
+            "name": "chip_usually_icon_color",
+            "order": 5525
+        },
+        {
+            "type": "color",
+            "name": "chip_active_icon_color",
+            "order": 5526
+        },
+        {
+            "type": "color",
+            "name": "chip_icon_focus_fill",
+            "order": 5527
+        },
+        {
+            "type": "color",
+            "name": "chip_icon_activated_focus_color",
+            "order": 5528
+        },
+        {
+            "type": "color",
+            "name": "chip_activated_focus_font_color",
+            "order": 5529
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_padding",
+            "order": 5530
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_radius",
+            "order": 5531
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_stroke_normal_thickness",
+            "order": 5532
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_normal_shadow_attribute",
+            "order": 5533
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_focused_left_text_size",
+            "order": 5534
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_focused_right_text_size",
+            "order": 5535
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_focus_magnification",
+            "order": 5536
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_focus_shadow_attribute",
+            "order": 5537
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_marqueeOptions_right",
+            "order": 5538
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_maxLines_right",
+            "order": 5539
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_system_icon_line_height",
+            "order": 5540
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_right_textOverflow",
+            "order": 5541
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_focus_dynamic_effect",
+            "order": 5542
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_left_secondary_tertiary_text_size",
+            "order": 5543
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_container_normal_color",
+            "order": 5544
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_stroke_normal_color",
+            "order": 5545
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_left_text_focus_color",
+            "order": 5546
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_right_icon_normal_color",
+            "order": 5547
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_container_focus_color",
+            "order": 5548
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_right_text_focus_color",
+            "order": 5549
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_right_icon_focus_color",
+            "order": 5550
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_left_secondary_text_focus_color",
+            "order": 5551
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_badge_color",
+            "order": 5552
+        },
+        {
+            "type": "color",
+            "name": "composeListItem_icon_normal_color",
+            "order": 5553
+        },
+        {
+            "type": "float",
+            "name": "searchkeyboard_control_default_focus",
+            "order": 5554
+        },
+        {
+            "type": "color",
+            "name": "password_border_normal_color",
+            "order": 5555
+        },
+        {
+            "type": "color",
+            "name": "password_container_focus_color",
+            "order": 5556
+        },
+        {
+            "type": "color",
+            "name": "password_icon_focus_color",
+            "order": 5557
+        },
+        {
+            "type": "color",
+            "name": "password_font_focus_color",
+            "order": 5558
+        },
+        {
+            "type": "string",
+            "name": "dialog_title_font_weight",
+            "order": 5559
+        },
+        {
+            "type": "float",
+            "name": "dialog_tip_image_size",
+            "order": 5560
+        },
+        {
+            "type": "float",
+            "name": "dialog_tip_text_top_padding",
+            "order": 5561
+        },
+        {
+            "type": "string",
+            "name": "dialog_content_font_weight",
+            "order": 5562
+        },
+        {
+            "type": "float",
+            "name": "dialog_checkbox_top_padding",
+            "order": 5563
+        },
+        {
+            "type": "float",
+            "name": "dialog_checkbox_bottom_padding",
+            "order": 5564
+        },
+        {
+            "type": "float",
+            "name": "dialog_subtitle_font_size",
+            "order": 5565
+        },
+        {
+            "type": "float",
+            "name": "dialog_error_button_style",
+            "order": 5566
+        },
+        {
+            "type": "float",
+            "name": "dialog_checkbox_end_margin",
+            "order": 5567
+        },
+        {
+            "type": "float",
+            "name": "dialog_checkbox_min_height",
+            "order": 5568
+        },
+        {
+            "type": "float",
+            "name": "dialog_content_right_margin",
+            "order": 5569
+        },
+        {
+            "type": "float",
+            "name": "dialog_scroll_right_margin",
+            "order": 5570
+        },
+        {
+            "type": "float",
+            "name": "select_normal_text_primary_alpha",
+            "order": 5571
+        },
+        {
+            "type": "float",
+            "name": "select_disabled_color_alpha",
+            "order": 5572
+        },
+        {
+            "type": "float",
+            "name": "menu_normal_text_size",
+            "order": 5573
+        },
+        {
+            "type": "float",
+            "name": "select_normal_text_font_size",
+            "order": 5574
+        },
+        {
+            "type": "float",
+            "name": "select_option_border_selected_width",
+            "order": 5575
+        },
+        {
+            "type": "float",
+            "name": "select_min_width",
+            "order": 5576
+        },
+        {
+            "type": "float",
+            "name": "normal_select_min_width",
+            "order": 5577
+        },
+        {
+            "type": "float",
+            "name": "small_select_min_width",
+            "order": 5578
+        },
+        {
+            "type": "float",
+            "name": "select_normal_content_margin",
+            "order": 5579
+        },
+        {
+            "type": "float",
+            "name": "select_left_right_margin",
+            "order": 5580
+        },
+        {
+            "type": "float",
+            "name": "menu_normal_out_padding",
+            "order": 5581
+        },
+        {
+            "type": "float",
+            "name": "option_normal_width",
+            "order": 5582
+        },
+        {
+            "type": "color",
+            "name": "select_option_container_focus_color",
+            "order": 5583
+        },
+        {
+            "type": "float",
+            "name": "inner_border_radius",
+            "order": 5584
+        },
+        {
+            "type": "float",
+            "name": "menu_text_tertiary_alpha",
+            "order": 5585
+        },
+        {
+            "type": "float",
+            "name": "select_text_size",
+            "order": 5586
+        },
+        {
+            "type": "float",
+            "name": "menu_is_blend_bg_color",
+            "order": 5587
+        },
+        {
+            "type": "float",
+            "name": "select_option_focus_box_padding",
+            "order": 5588
+        },
+        {
+            "type": "float",
+            "name": "select_option_apply_focus_style",
+            "order": 5589
+        },
+        {
+            "type": "float",
+            "name": "select_border_width",
+            "order": 5590
+        },
+        {
+            "type": "float",
+            "name": "select_normal_shadow",
+            "order": 5591
+        },
+        {
+            "type": "float",
+            "name": "select_focus_shadow",
+            "order": 5592
+        },
+        {
+            "type": "float",
+            "name": "select_focus_scale",
+            "order": 5593
+        },
+        {
+            "type": "float",
+            "name": "menu_normal_border_width",
+            "order": 5594
+        },
+        {
+            "type": "float",
+            "name": "menu_container_normal_blur_type",
+            "order": 5595
+        },
+        {
+            "type": "float",
+            "name": "select_option_normal_top_bottom_margin",
+            "order": 5596
+        },
+        {
+            "type": "float",
+            "name": "select_option_content_normal_align",
+            "order": 5597
+        },
+        {
+            "type": "float",
+            "name": "select_option_content_normal_left_right_padding",
+            "order": 5598
+        },
+        {
+            "type": "float",
+            "name": "select_option_focus_left_right_margin",
+            "order": 5599
+        },
+        {
+            "type": "float",
+            "name": "select_option_focus_shadow",
+            "order": 5600
+        },
+        {
+            "type": "float",
+            "name": "select_slide_more_offset",
+            "order": 5601
+        },
+        {
+            "type": "color",
+            "name": "select_border_normal_color",
+            "order": 5602
+        },
+        {
+            "type": "color",
+            "name": "select_normal_icon_color",
+            "order": 5603
+        },
+        {
+            "type": "color",
+            "name": "select_normal_font_color",
+            "order": 5604
+        },
+        {
+            "type": "color",
+            "name": "select_option_hovered_bg_color",
+            "order": 5605
+        },
+        {
+            "type": "color",
+            "name": "select_option_clicked_bg_color",
+            "order": 5606
+        },
+        {
+            "type": "color",
+            "name": "select_menu_container_normal_color",
+            "order": 5607
+        },
+        {
+            "type": "color",
+            "name": "menu_text_normal_color",
+            "order": 5608
+        },
+        {
+            "type": "color",
+            "name": "select_normal_bg_color",
+            "order": 5609
+        },
+        {
+            "type": "color",
+            "name": "select_option_border_selected_color",
+            "order": 5610
+        },
+        {
+            "type": "color",
+            "name": "select_selected_color",
+            "order": 5611
+        },
+        {
+            "type": "color",
+            "name": "text_color_selected",
+            "order": 5612
+        },
+        {
+            "type": "color",
+            "name": "select_font_color",
+            "order": 5613
+        },
+        {
+            "type": "color",
+            "name": "select_bg_color_selected",
+            "order": 5614
+        },
+        {
+            "type": "color",
+            "name": "select_text_focus_color",
+            "order": 5615
+        },
+        {
+            "type": "color",
+            "name": "select_focus_text_color",
+            "order": 5616
+        },
+        {
+            "type": "color",
+            "name": "select_focus_icon_color",
+            "order": 5617
+        },
+        {
+            "type": "color",
+            "name": "select_container_focus_color",
+            "order": 5618
+        },
+        {
+            "type": "color",
+            "name": "select_option_focus_font_color",
+            "order": 5619
+        },
+        {
+            "type": "color",
+            "name": "menu_normal_border_color",
+            "order": 5620
+        },
+        {
+            "type": "float",
+            "name": "textfield_independent_control_keyboard",
+            "order": 5621
+        },
+        {
+            "type": "float",
+            "name": "textfield_direction_keys_move_focus_out",
+            "order": 5622
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_primary_control_color",
+            "order": 5623
+        },
+        {
+            "type": "color",
+            "name": "searchkeyboard_focus_bg",
+            "order": 5624
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_font_weight",
+            "order": 5625
+        },
+        {
+            "type": "float",
+            "name": "sheet_drag_bar_height",
+            "order": 5626
+        },
+        {
+            "type": "float",
+            "name": "sheet_double_title_top_padding",
+            "order": 5627
+        },
+        {
+            "type": "float",
+            "name": "sheet_double_title_bottom_padding",
+            "order": 5628
+        },
+        {
+            "type": "float",
+            "name": "sheet_title_area_margin",
+            "order": 5629
+        },
+        {
+            "type": "float",
+            "name": "toast_panel_background_blur_style",
+            "order": 5630
+        },
+        {
+            "type": "float",
+            "name": "dialog_panel_background_blur_style",
+            "order": 5631
+        },
+        {
+            "type": "float",
+            "name": "dialog_tip_image_radius",
+            "order": 5632
+        },
+        {
+            "type": "float",
+            "name": "bubble_min_mum_height",
+            "order": 5633
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_AppIcon_ItemLength",
+            "order": 5634
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_Image_Radius",
+            "order": 5635
+        },
+        {
+            "type": "float",
+            "name": "composeListItem_arrow_margin",
+            "order": 5636
+        },
+        {
+            "type": "float",
+            "name": "dialog_button_font_max_size",
+            "order": 5637
+        },
+        {
+            "type": "float",
+            "name": "dialog_button_font_min_size",
+            "order": 5638
+        },
+        {
+            "type": "color",
+            "name": "toast_default_bg_color",
+            "order": 5639
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_level4",
+            "order": 5640
+        },
+        {
+            "type": "float",
+            "name": "toast_padding_level8",
+            "order": 5641
+        },
+        {
+            "type": "float",
+            "name": "swiper_focus_style_type_sys",
+            "order": 5642
+        },
+        {
+            "type": "float",
+            "name": "option_focus_style_type_sys",
+            "order": 5643
         }
     ]
 }
