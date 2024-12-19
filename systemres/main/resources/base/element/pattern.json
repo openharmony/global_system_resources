@@ -3404,6 +3404,10 @@
                 {
                     "name": "popup_expand_display",
                     "value": "$string:ohos_id_expand_display"
+                },
+                {
+                    "name": "popup_default_shadow_style",
+                    "value": "$float:popup_default_shadow_style"
                 }
             ]
         },
@@ -5412,6 +5416,10 @@
                 {
                     "name": "toast_default_bg_color",
                     "value": "$color:toast_default_bg_color"
+                },
+                {
+                    "name": "toast_default_shadow_style",
+                    "value": "$float:toast_default_shadow_style"
                 }
             ]
         },
@@ -6235,6 +6243,10 @@
                 {
                     "name": "select_slide_more_offset",
                     "value": "$float:select_slide_more_offset"
+                },
+                {
+                    "name": "menu_default_shadow_style",
+                    "value": "$float:menu_default_shadow_style"
                 }
             ]
         },
