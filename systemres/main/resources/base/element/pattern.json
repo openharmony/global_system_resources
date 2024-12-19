@@ -530,6 +530,14 @@
                 {
                     "name": "badge_show_message",
                     "value": "$float:ohos_id_badge_show_message"
+                },
+                {
+                    "name": "little_badge_size",
+                    "value": "$float:little_badge_size"
+                },
+                {
+                    "name": "numerical_badge_padding",
+                    "value": "$float:numerical_badge_padding"
                 }
             ]
         },
@@ -7476,6 +7484,30 @@
                 {
                     "name": "corner_radius_subtab",
                     "value": "$float:ohos_id_corner_radius_subtab"
+                },
+                {
+                    "name": "button_icon_size",
+                    "value": "$float:button_icon_size"
+                },
+                {
+                    "name": "container_height",
+                    "value": "$float:container_height"
+                },
+                {
+                    "name": "border_width",
+                    "value": "$float:border_width"
+                },
+                {
+                    "name": "button_size",
+                    "value": "$float:button_size"
+                },
+                {
+                    "name": "button_container_margin",
+                    "value": "$float:button_container_margin"
+                },
+                {
+                    "name": "container_radius",
+                    "value": "$float:container_radius"
                 }
             ]
         },
@@ -7724,6 +7756,10 @@
                 {
                     "name": "pass_point",
                     "value": "$string:pass_point"
+                },
+                {
+                    "name": "side_length",
+                    "value": "$float:side_length"
                 }
             ]
         },
