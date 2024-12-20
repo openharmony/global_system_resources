@@ -7959,8 +7959,8 @@
             "name": "ohos_app_theme_pattern",
             "value": [
                 {
-                    "name": "app_theme_focus_color",
-                    "value": "$color:app_theme_focus_color"
+                    "name": "app_theme_focus_padding",
+                    "value": "$float:app_theme_focus_padding"
                 },
                 {
                     "name": "app_theme_focus_width",
