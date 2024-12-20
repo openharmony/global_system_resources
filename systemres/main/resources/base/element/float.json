@@ -3731,6 +3731,18 @@
         {
             "name": "swiper_crown_translocation_ratio",
             "value": "0.6"
+        },
+        {
+            "name": "toast_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_m"
+        },
+        {
+            "name": "popup_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_m"
+        },
+        {
+            "name": "menu_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_m"
         }
     ]
 }
