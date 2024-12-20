@@ -1026,6 +1026,13 @@
         {
             "name": "calendar_picker_sun",
             "value": "Sunday"
+        },
+        {
+            "name": "delete_used_for_accessibility_text",
+            "value": "Delete",
+            "attr": {
+                "priority": "translate"
+            }
         }
     ]
 }
