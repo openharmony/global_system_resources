@@ -28600,6 +28600,56 @@
             "type": "float",
             "name": "menu_default_shadow_style",
             "order": 5671
+        },
+        {
+            "type": "float",
+            "name": "calendar_picker_dialog_background_blur_style",
+            "order": 5672
+        },
+        {
+            "type": "float",
+            "name": "dialog_background_blur_style",
+            "order": 5673
+        },
+        {
+            "type": "float",
+            "name": "popup_background_blur_style",
+            "order": 5674
+        },
+        {
+            "type": "float",
+            "name": "toast_background_blur_style",
+            "order": 5675
+        },
+        {
+            "type": "float",
+            "name": "menu_background_blur_style",
+            "order": 5676
+        },
+        {
+            "type": "float",
+            "name": "background_blur_component_ultra_thin",
+            "order": 5677
+        },
+        {
+            "type": "float",
+            "name": "background_blur_component_thin",
+            "order": 5678
+        },
+        {
+            "type": "float",
+            "name": "background_blur_component_regular",
+            "order": 5679
+        },
+        {
+            "type": "float",
+            "name": "background_blur_component_thick",
+            "order": 5680
+        },
+        {
+            "type": "float",
+            "name": "background_blur_component_ultra_thick",
+            "order": 5681
         }
     ]
 }

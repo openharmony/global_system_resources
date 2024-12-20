@@ -3743,6 +3743,26 @@
         {
             "name": "menu_default_shadow_style",
             "value": "$float:ohos_id_default_shadow_m"
+        },
+        {
+            "name": "background_blur_component_ultra_thin",
+            "value": "8"
+        },
+        {
+            "name": "background_blur_component_thin",
+            "value": "9"
+        },
+        {
+            "name": "background_blur_component_regular",
+            "value": "10"
+        },
+        {
+            "name": "background_blur_component_thick",
+            "value": "11"
+        },
+        {
+            "name": "background_blur_component_ultra_thick",
+            "value": "12"
         }
     ]
 }

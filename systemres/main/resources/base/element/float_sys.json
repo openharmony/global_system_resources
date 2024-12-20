@@ -1383,6 +1383,26 @@
         {
             "name": "option_focus_style_type_sys",
             "value": "0.0"
+        },
+        {
+            "name": "calendar_picker_dialog_background_blur_style",
+            "value": "$float:background_blur_component_ultra_thick"
+        },
+        {
+            "name": "dialog_background_blur_style",
+            "value": "$float:background_blur_component_ultra_thick"
+        },
+        {
+            "name": "popup_background_blur_style",
+            "value": "$float:background_blur_component_ultra_thick"
+        },
+        {
+            "name": "toast_background_blur_style",
+            "value": "$float:background_blur_component_ultra_thick"
+        },
+        {
+            "name": "menu_background_blur_style",
+            "value": "$float:background_blur_component_ultra_thick"
         }
     ]
 }
