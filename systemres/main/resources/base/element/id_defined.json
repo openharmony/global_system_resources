@@ -5938,7 +5938,7 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_picker_focus_option_text_color",
+            "name": "picker_focus_option_text_color",
             "order": 1158
         },
         {
@@ -6033,7 +6033,7 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_picker_select_option_back_color",
+            "name": "picker_select_option_back_color",
             "order": 1177
         },
         {
@@ -10713,14 +10713,12 @@
         {
             "type": "color",
             "name": "ohos_id_focused_bgcolor_switch_button_unselected",
-            "order": 2108,
-            "flags": "private"
+            "order": 2108
         },
         {
             "type": "color",
             "name": "ohos_id_focused_pointColor_switch_button_unselected",
-            "order": 2109,
-            "flags": "private"
+            "order": 2109
         },
         {
             "type": "color",
@@ -18230,8 +18228,7 @@
         {
             "type": "color",
             "name": "ohos_id_switch_unchecked_bgColor",
-            "order": 3611,
-            "flags": "private"
+            "order": 3611
         },
         {
             "type": "float",
@@ -23110,116 +23107,97 @@
         {
             "type": "color",
             "name": "point_color_checked",
-            "order": 4585,
-            "flags": "private"
+            "order": 4585
         },
         {
             "type": "float",
             "name": "checkbox_default_size_twelve",
-            "order": 4586,
-            "flags": "private"
+            "order": 4586
         },
         {
             "type": "float",
             "name": "checkbox_default_padding_size",
-            "order": 4587,
-            "flags": "private"
+            "order": 4587
         },
         {
             "type": "float",
             "name": "checkbox_hover_padding_size",
-            "order": 4588,
-            "flags": "private"
+            "order": 4588
         },
         {
             "type": "float",
             "name": "radio_container_size",
-            "order": 4589,
-            "flags": "private"
+            "order": 4589
         },
         {
             "type": "float",
             "name": "radio_horizontal_padding",
-            "order": 4590,
-            "flags": "private"
+            "order": 4590
         },
         {
             "type": "float",
             "name": "radio_hover_bg_size",
-            "order": 4591,
-            "flags": "private"
+            "order": 4591
         },
         {
             "type": "float",
             "name": "radio_circle_dial",
-            "order": 4592,
-            "flags": "private"
+            "order": 4592
         },
         {
             "type": "string",
             "name": "qrcode_expiration_prompt",
-            "order": 4593,
-            "flags": "private"
+            "order": 4593
         },
         {
             "type": "pattern",
             "name": "arc_list_item_pattern",
-            "order": 4594,
-            "flags": "private"
+            "order": 4594
         },
         {
             "type": "pattern",
             "name": "arc_list_pattern",
-            "order": 4595,
-            "flags": "private"
+            "order": 4595
         },
         {
             "type": "color",
             "name": "popup_background_color_api_twelve",
-            "order": 4596,
-            "flags": "private"
+            "order": 4596
         },
         {
             "type": "color",
             "name": "indexer_bar_color",
-            "order": 4597,
-            "flags": "private"
+            "order": 4597
         },
         {
             "type": "float",
             "name": "indexer_popup_text_size",
-            "order": 4598,
-            "flags": "private"
+            "order": 4598
         },
         {
             "type": "color",
             "name": "indexer_text_color_active",
-            "order": 4599,
-            "flags": "private"
+            "order": 4599
         },
         {
             "type": "color",
             "name": "indexer_text_color",
-            "order": 4600,
-            "flags": "private"
+            "order": 4600
         },
         {
             "type": "color",
             "name": "indexer_popup_bg_color",
-            "order": 4601,
-            "flags": "private"
+            "order": 4601
         },
         {
             "type": "color",
             "name": "indexer_pressed_bg_color",
-            "order": 4602,
-            "flags": "private"
+            "order": 4602
         },
         {
             "type": "color",
             "name": "indexer_selected_bg_color",
-            "order": 4603,
-            "flags": "private"
+            "order": 4603
         },
         {
             "type": "float",
@@ -28426,146 +28404,122 @@
         {
             "type": "float",
             "name": "scroll_bar_active_background_width",
-            "order": 5644,
-            "flags": "private"
+            "order": 5644
         },
         {
             "type": "float",
             "name": "scroll_bar_normal_scroll_bar_width",
-            "order": 5645,
-            "flags": "private"
+            "order": 5645
         },
         {
             "type": "float",
             "name": "scroll_bar_active_scroll_bar_width",
-            "order": 5646,
-            "flags": "private"
+            "order": 5646
         },
         {
             "type": "float",
             "name": "scroll_bar_normal_start_angle",
-            "order": 5647,
-            "flags": "private"
+            "order": 5647
         },
         {
             "type": "float",
             "name": "scroll_bar_active_start_angle",
-            "order": 5648,
-            "flags": "private"
+            "order": 5648
         },
         {
             "type": "float",
             "name": "scroll_bar_normal_max_offset_angle",
-            "order": 5649,
-            "flags": "private"
+            "order": 5649
         },
         {
             "type": "float",
             "name": "scroll_bar_active_max_offset_angle",
-            "order": 5650,
-            "flags": "private"
+            "order": 5650
         },
         {
             "type": "float",
             "name": "scroll_bar_normal_background_width",
-            "order": 5651,
-            "flags": "private"
+            "order": 5651
         },
         {
             "type": "float",
             "name": "arc_button_height",
-            "order": 5652,
-            "flags": "private"
+            "order": 5652
         },
         {
             "type": "float",
             "name": "arc_button_auxiliary_circle_diameter",
-            "order": 5653,
-            "flags": "private"
+            "order": 5653
         },
         {
             "type": "float",
             "name": "arc_button_dial_circle_diameter",
-            "order": 5654,
-            "flags": "private"
+            "order": 5654
         },
         {
             "type": "float",
             "name": "arc_button_chamfer_radius",
-            "order": 5655,
-            "flags": "private"
+            "order": 5655
         },
         {
-            "type": "float",
+            "type": "color",
             "name": "picker_background_color",
-            "order": 5656,
-            "flags": "private"
+            "order": 5656
         },
         {
             "type": "float",
             "name": "picker_crown_sensitivity",
-            "order": 5657,
-            "flags": "private"
+            "order": 5657
         },
         {
             "type": "float",
             "name": "picker_digital_circle",
-            "order": 5658,
-            "flags": "private"
+            "order": 5658
         },
         {
             "type": "float",
             "name": "ohos_id_slider_crown_display_control_ratio",
-            "order": 5659,
-            "flags": "private"
+            "order": 5659
         },
         {
             "type": "float",
             "name": "swiper_slow_velocity_threshold",
-            "order": 5660,
-            "flags": "private"
+            "order": 5660
         },
         {
             "type": "float",
             "name": "swiper_display_control_ratio_slow",
-            "order": 5661,
-            "flags": "private"
+            "order": 5661
         },
         {
             "type": "float",
             "name": "swiper_display_control_ratio_fast",
-            "order": 5662,
-            "flags": "private"
+            "order": 5662
         },
         {
             "type": "float",
             "name": "swiper_crown_sensitivity_low",
-            "order": 5663,
-            "flags": "private"
+            "order": 5663
         },
         {
             "type": "float",
             "name": "swiper_crown_sensitivity_medium",
-            "order": 5664,
-            "flags": "private"
+            "order": 5664
         },
         {
             "type": "float",
             "name": "swiper_crown_sensitivity_high",
-            "order": 5665,
-            "flags": "private"
+            "order": 5665
         },
         {
             "type": "float",
             "name": "swiper_spring_velocity_threshold",
-            "order": 5666,
-            "flags": "private"
+            "order": 5666
         },
         {
             "type": "float",
             "name": "swiper_crown_translocation_ratio",
-            "order": 5667,
-            "flags": "private"
+            "order": 5667
         },
         {
             "type": "string",

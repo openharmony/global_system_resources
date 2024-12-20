@@ -1411,6 +1411,38 @@
         {
             "name": "window_shadow_config_s",
             "value": "$float:ohos_id_default_shadow_none"
+        },
+        {
+            "name": "scroll_bar_normal_start_angle",
+            "value": "-30.0"
+        },
+        {
+            "name": "scroll_bar_active_start_angle",
+            "value": "-60.0"
+        },
+        {
+            "name": "scroll_bar_normal_max_offset_angle",
+            "value": "60.0"
+        },
+        {
+            "name": "scroll_bar_active_max_offset_angle",
+            "value": "120.0"
+        },
+        {
+            "name": "arc_button_height",
+            "value": "48vp"
+        },
+        {
+            "name": "arc_button_auxiliary_circle_diameter",
+            "value": "660vp"
+        },
+        {
+            "name": "arc_button_dial_circle_diameter",
+            "value": "233vp"
+        },
+        {
+            "name": "arc_button_chamfer_radius",
+            "value": "8vp"
         }
     ]
 }
