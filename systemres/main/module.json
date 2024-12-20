@@ -54,6 +54,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.USE_MESSAGES_PICKER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.USE_CALL_LOG_PICKER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.USE_BLUETOOTH",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
