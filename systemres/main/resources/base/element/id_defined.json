@@ -26383,27 +26383,23 @@
         },
         {
             "type": "float",
-            "name": "placeholder_5236",
-            "order": 5236,
-            "flags": "private"
+            "name": "text_align",
+            "order": 5236
         },
         {
             "type": "float",
-            "name": "placeholder_5237",
-            "order": 5237,
-            "flags": "private"
+            "name": "line_spacing",
+            "order": 5237
         },
         {
             "type": "float",
-            "name": "placeholder_5238",
-            "order": 5238,
-            "flags": "private"
+            "name": "font_weight",
+            "order": 5238
         },
         {
             "type": "float",
-            "name": "placeholder_5239",
-            "order": 5239,
-            "flags": "private"
+            "name": "text_align_error",
+            "order": 5239
         },
         {
             "type": "float",
@@ -26413,63 +26409,53 @@
         },
         {
             "type": "float",
-            "name": "placeholder_5241",
-            "order": 5241,
-            "flags": "private"
+            "name": "toast_limit_height_ratio",
+            "order": 5241
         },
         {
             "type": "float",
-            "name": "placeholder_5242",
-            "order": 5242,
-            "flags": "private"
+            "name": "toast_text_align",
+            "order": 5242
         },
         {
             "type": "float",
-            "name": "placeholder_5243",
-            "order": 5243,
-            "flags": "private"
-        },
-        {
-            "type": "color",
-            "name": "placeholder_5244",
-            "order": 5244,
-            "flags": "private"
+            "name": "toast_bg_theme_color_mode",
+            "order": 5243
         },
         {
             "type": "float",
-            "name": "placeholder_5245",
-            "order": 5245,
-            "flags": "private"
+            "name": "toast_align",
+            "order": 5244
         },
         {
             "type": "float",
-            "name": "placeholder_5246",
-            "order": 5246,
-            "flags": "private"
+            "name": "indicator_width_ratio",
+            "order": 5245
         },
         {
             "type": "float",
-            "name": "placeholder_5247",
-            "order": 5247,
-            "flags": "private"
+            "name": "indicator_height_ratio",
+            "order": 5246
         },
         {
             "type": "float",
-            "name": "placeholder_5248",
-            "order": 5248,
-            "flags": "private"
+            "name": "indicator_corner_radius_ratio",
+            "order": 5247
         },
         {
             "type": "float",
-            "name": "placeholder_5249",
-            "order": 5249,
-            "flags": "private"
+            "name": "indicator_border_ratio",
+            "order": 5248
         },
         {
-            "type": "color",
-            "name": "placeholder_5250",
-            "order": 5250,
-            "flags": "private"
+            "type": "float",
+            "name": "track_thickness",
+            "order": 5249
+        },
+        {
+            "type": "float",
+            "name": "interval_ratio",
+            "order": 5250
         },
         {
             "type": "float",

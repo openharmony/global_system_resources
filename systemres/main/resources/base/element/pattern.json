@@ -4733,6 +4733,18 @@
                 {
                     "name": "text_menu_search_is_support",
                     "value": "$string:res_menu_search_is_support"
+                },
+                {
+                    "name": "text_line_spacing",
+                    "value": "$float:line_spacing"
+                },
+                {
+                    "name": "text_font_weight",
+                    "value": "$float:font_weight"
+                },
+                {
+                    "name": "text_align",
+                    "value": "$float:text_align"
                 }
             ]
         },
@@ -5174,6 +5186,10 @@
                 {
                     "name": "textfield_menu_search_is_support",
                     "value": "$string:res_menu_search_is_support"
+                },
+                {
+                    "name": "textfield_error_text_align",
+                    "value": "$float:text_align_error"
                 }
             ]
         },
@@ -5444,6 +5460,22 @@
                 {
                     "name": "toast_background_blur_style",
                     "value": "$float:toast_background_blur_style"
+                },
+                {
+                    "name": "toast_limit_height_ratio",
+                    "value": "$float:toast_limit_height_ratio"
+                },
+                {
+                    "name": "toast_text_align",
+                    "value": "$float:toast_text_align"
+                },
+                {
+                    "name": "toast_bg_theme_color_mode",
+                    "value": "$float:toast_bg_theme_color_mode"
+                },
+                {
+                    "name": "toast_align",
+                    "value": "$float:toast_align"
                 }
             ]
         },
@@ -7777,6 +7809,30 @@
                 {
                     "name": "limit_value_min_font_size",
                     "value": "$float:ohos_id_text_size_caption"
+                },
+                {
+                    "name": "indicator_width_ratio",
+                    "value": "$float:indicator_width_ratio"
+                },
+                {
+                    "name": "indicator_height_ratio",
+                    "value": "$float:indicator_height_ratio"
+                },
+                {
+                    "name": "indicator_corner_radius_ratio",
+                    "value": "$float:indicator_corner_radius_ratio"
+                },
+                {
+                    "name": "indicator_border_ratio",
+                    "value": "$float:indicator_border_ratio"
+                },
+                {
+                    "name": "track_thickness",
+                    "value": "$float:track_thickness"
+                },
+                {
+                    "name": "interval_ratio",
+                    "value": "$float:interval_ratio"
                 }
             ]
         },
