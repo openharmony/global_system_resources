@@ -451,45 +451,45 @@
             "value": "全部清除"
         },
         {
-            "name": "ohos_id_notification_increase_volume_tittle",
-            "value": "提高音量至安全範圍以上",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"提高音量至安全範圍以上",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_increase_volume_context",
-            "value": "長時間保持高音量可能會損傷聽力。",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"長時間保持高音量可能會損傷聽力。",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_restore_volume_button",
-            "value": "恢復音量",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"恢復音量",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_restore_volume_context",
-            "value": "為保護聽力，音量已降低至安全範圍。",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"為保護聽力，音量已降低至安全範圍。",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_restore_volume_tittle",
-            "value": "長時間維持高音量可能會損傷聽力",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"長時間維持高音量可能會損傷聽力",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_increase_volume_button",
-            "value": "提高音量",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"提高音量",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -607,6 +607,13 @@
         {
             "name":"general_pre_year",
             "value":"上一年",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_save_all",
+            "value":"全部儲存",
             "attr":{
                 "priority":"translate"
             }
