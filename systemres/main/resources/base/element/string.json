@@ -1336,6 +1336,13 @@
             }
         },
         {
+            "name":"ohos_app_has_locked",
+            "value":"This app is locked",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name": "notification_screen_recording_title",
             "value": "%s is recording the screen"
         },
