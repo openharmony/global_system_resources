@@ -28691,6 +28691,31 @@
             "type": "float",
             "name": "window_shadow_config_s",
             "order": 5692
+        },
+        {
+            "type": "float",
+            "name": "text_overlay_menu_show_shortcut",
+            "order": 5693
+        },
+        {
+            "type": "string",
+            "name": "text_overlay_menu_copy",
+            "order": 5694
+        },
+        {
+            "type": "string",
+            "name": "text_overlay_menu_paste",
+            "order": 5695
+        },
+        {
+            "type": "string",
+            "name": "text_overlay_menu_select_all",
+            "order": 5696
+        },
+        {
+            "type": "string",
+            "name": "text_overlay_menu_cut",
+            "order": 5697
         }
     ]
 }
