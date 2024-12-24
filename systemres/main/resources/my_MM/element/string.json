@@ -41,6 +41,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"အပ်လုဒ် အောင်မြင်ပါသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"အပ်လုဒ် မအောင်မြင်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"ဒေါင်းလုဒ် မအောင်မြင်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"ဒေါင်းလုဒ် အောင်မြင်ပါသည်",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
