@@ -4313,6 +4313,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_UDMF_APP_SHARE_OPTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 14,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_PASTEBOARD_APP_SHARE_OPTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 14,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.kernel.ALLOW_EXECUTABLE_FORT_MEMORY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
