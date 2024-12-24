@@ -1220,6 +1220,13 @@
             }
         },
         {
+            "name":"ohos_app_has_locked",
+            "value":"应用已上锁",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name": "notification_screen_recording_title",
             "value": "%s 正在使用屏幕"
         },
