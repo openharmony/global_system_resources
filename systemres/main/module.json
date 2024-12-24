@@ -4697,6 +4697,33 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.WATCH_READ_EMERGENCY_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.WATCH_WRITE_EMERGENCY_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.WATCH_START_SOS_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
