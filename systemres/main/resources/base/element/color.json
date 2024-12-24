@@ -953,7 +953,7 @@
             "value": "#00000000"
         },
         {
-            "name": "ohos_id_picker_focus_option_text_color",
+            "name": "picker_focus_option_text_color",
             "value": "#ff007dff"
         },
         {
@@ -969,7 +969,7 @@
             "value": "#ff0a59f7"
         },
         {
-            "name": "ohos_id_picker_select_option_back_color",
+            "name": "picker_select_option_back_color",
             "value": "#00000000"
         },
         {
@@ -987,6 +987,10 @@
         {
             "name": "ohos_id_picker_press_color",
             "value": "#19000000"
+        },
+        {
+            "name": "picker_background_color",
+            "value": "#ff000000"
         },
         {
             "name": "ohos_id_checkbox_shadow_color",
@@ -1517,10 +1521,6 @@
             "value": "#0C000000"
         },
         {
-            "name": "point_color_checked",
-            "value": "#ffffffff"
-        },
-        {
             "name": "ohos_id_swiper_dot_active_color",
             "value": "#FF5EA1FF"
         },
@@ -1539,6 +1539,38 @@
         {
             "name": "ohos_id_swiper_container_color",
             "value": "#FF404040"
+        },
+        {
+            "name": "point_color_checked",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "popup_background_color_api_twelve",
+            "value": "#66808080"
+        },
+        {
+            "name": "indexer_bar_color",
+            "value": "#ff262626"
+        },
+        {
+            "name": "indexer_text_color_active",
+            "value": "#ff007dff"
+        },
+        {
+            "name": "indexer_text_color",
+            "value": "#99182431"
+        },
+        {
+            "name": "indexer_popup_bg_color",
+            "value": "#ffffffff"
+        },
+        {
+            "name": "indexer_pressed_bg_color",
+            "value": "#19182431"
+        },
+        {
+            "name": "indexer_selected_bg_color",
+            "value": "#33007dff"
         }
     ]
 }
