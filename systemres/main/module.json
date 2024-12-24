@@ -4663,6 +4663,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SEND_REMOTE_MESSAGE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_DOMAIN_ACCOUNTS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
