@@ -79,6 +79,22 @@
         {
             "name": "titlebar_main_title_text_font_size",
             "value": "$float:Title_S"
+        },
+        {
+            "name": "popup_background_blur_style",
+            "value": "$float:background_blur_component_regular"
+        },
+        {
+            "name": "toast_background_blur_style",
+            "value": "$float:background_blur_component_regular"
+        },
+        {
+            "name": "menu_background_blur_style",
+            "value": "$float:background_blur_component_regular"
+        },
+        {
+            "name": "window_shadow_config_s",
+            "value": "$float:ohos_id_floating_shadow_s"
         }
     ]
 }

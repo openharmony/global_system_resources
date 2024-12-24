@@ -637,6 +637,14 @@
             "value": "2.0vp"
         },
         {
+            "name": "picker_crown_sensitivity",
+            "value": "1"
+        },
+        {
+            "name": "picker_digital_circle",
+            "value": "0"
+        },
+        {
             "name": "ohos_id_datapanel_circle_thickness",
             "value": "24.0vp"
         },
@@ -2325,6 +2333,14 @@
             "value": "2.0vp"
         },
         {
+            "name": "little_badge_size",
+            "value": "6.0vp"
+        },
+        {
+            "name": "numerical_badge_padding",
+            "value": "6.0vp"
+        },
+        {
             "name": "ohos_id_piece_height",
             "value": "28.0vp"
         },
@@ -3731,6 +3747,158 @@
         {
             "name": "swiper_crown_translocation_ratio",
             "value": "0.6"
+        },
+        {
+            "name": "toast_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_m"
+        },
+        {
+            "name": "popup_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_m"
+        },
+        {
+            "name": "menu_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_m"
+        },
+        {
+            "name": "background_blur_component_ultra_thin",
+            "value": "8"
+        },
+        {
+            "name": "background_blur_component_thin",
+            "value": "9"
+        },
+        {
+            "name": "background_blur_component_regular",
+            "value": "10"
+        },
+        {
+            "name": "background_blur_component_thick",
+            "value": "11"
+        },
+        {
+            "name": "background_blur_component_ultra_thick",
+            "value": "12"
+        },
+        {
+            "name": "button_icon_size",
+            "value": "16.0vp"
+        },
+        {
+            "name": "container_height",
+            "value": "28.0vp"
+        },
+        {
+            "name": "border_width",
+            "value": "1.0vp"
+        },
+        {
+            "name": "button_size",
+            "value": "24.0vp"
+        },
+        {
+            "name": "button_container_margin",
+            "value": "1.0vp"
+        },
+        {
+            "name": "container_radius",
+            "value": "14.0vp"
+        },
+        {
+            "name": "side_length",
+            "value":"288.0vp"
+        },
+        {
+            "name": "line_spacing",
+            "value": "0.0vp"
+        },
+        {
+            "name": "font_weight",
+            "value": "10.0"
+        },
+        {
+            "name": "text_align",
+            "value": "0.0"
+        },
+        {
+            "name": "text_align_error",
+            "value": "0.0"
+        },
+        {
+            "name": "toast_limit_height_ratio",
+            "value": "0.65"
+        },
+        {
+            "name": "toast_text_align",
+            "value": "0.0"
+        },
+        {
+            "name": "toast_align",
+            "value": "-1.0"
+        },
+        {
+            "name": "track_thickness",
+            "value": "4.0vp"
+        },
+        {
+            "name": "indicator_width_ratio",
+            "value": "0.135"
+        },
+        {
+            "name": "indicator_height_ratio",
+            "value": "0.087"
+        },
+        {
+            "name": "indicator_corner_radius_ratio",
+            "value": "0.01"
+        },
+        {
+            "name": "indicator_border_ratio",
+            "value": "0.06"
+        },
+        {
+            "name": "interval_ratio",
+            "value": "0.008"
+        },
+        {
+            "name": "toast_bg_theme_color_mode",
+            "value": "0.0"
+        },
+        {
+            "name": "text_overlay_menu_show_shortcut",
+            "value": "0.0"
+        },
+        {
+            "name": "indexer_popup_text_size",
+            "value": "24.0vp"
+        },
+        {
+            "name": "radio_container_size",
+            "value": "24.0vp"
+        },
+        {
+            "name": "radio_horizontal_padding",
+            "value": "2.0vp"
+        },
+        {
+            "name": "radio_hover_bg_size",
+            "value": "2.0vp"
+        },
+        {
+            "name": "checkbox_default_size_twelve",
+            "value": "24.0vp"
+        },
+        {
+            "name": "checkbox_default_padding_size",
+            "value": "2.0vp"
+        },
+        {
+            "name": "checkbox_hover_padding_size",
+            "value": "2.0vp"
+        },
+        {
+            "name": "radio_circle_dial",
+            "value": "0.0"
         }
     ]
 }

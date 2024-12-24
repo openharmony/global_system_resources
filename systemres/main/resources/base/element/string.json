@@ -1216,45 +1216,45 @@
             "value": "This permission applies to the following scenarios: 1. The application, for example, an H5 web application, cannot use the SaveButton security component. 2. The application needs to save images or videos multiple times consecutively and cannot save all the images or videos at a time in a save confirmation dialog box."
         },
         {
-            "name": "ohos_id_notification_restore_volume_tittle",
-            "value": "Volume automatically lowered",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"Volume automatically lowered",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_restore_volume_context",
-            "value": "Listening at high volumes for a long time can damage your hearing.",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"Listening at high volumes for a long time can damage your hearing.",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_restore_volume_button",
-            "value": "Restore volume",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"Restore volume",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_increase_volume_tittle",
-            "value": "Raise volume above safe level?",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"Raise volume above safe level?",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_increase_volume_context",
-            "value": "Listening at high volumes for a long time can damage your hearing.",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"Listening at high volumes for a long time can damage your hearing.",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_increase_volume_button",
-            "value": "Raise volume",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"Raise volume",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -1333,6 +1333,13 @@
             "value": "Downloading file… (%s)",
             "attr": {
                 "priority": "translate"
+            }
+        },
+        {
+            "name":"ohos_app_has_locked",
+            "value":"This app is locked",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
@@ -1522,6 +1529,26 @@
         {
             "name": "advanced_dialog_accessibility_cancel_checked_desc",
             "value": "Double-tap to deselect it"
+        },
+        {
+            "name": "res_menu_search_is_support",
+            "value": "0"
+        },
+        {
+            "name": "text_overlay_menu_copy",
+            "value": "Ctrl+C"
+        },
+        {
+            "name": "text_overlay_menu_paste",
+            "value": "Ctrl+V"
+        },
+        {
+            "name": "text_overlay_menu_select_all",
+            "value": "Ctrl+A"
+        },
+        {
+            "name": "text_overlay_menu_cut",
+            "value": "Ctrl+X"
         }
     ]
 }
