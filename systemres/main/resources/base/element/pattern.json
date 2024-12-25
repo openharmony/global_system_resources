@@ -7026,15 +7026,15 @@
             "value": [
                 {
                     "name": "default_text_color",
-                    "value": "$color:indexer_text_color"
+                    "value": "$color:ohos_id_color_text_secondary"
                 },
                 {
                     "name": "selected_text_color",
-                    "value": "$color:indexer_text_color_active"
+                    "value": "$color:ohos_id_color_text_primary_activated"
                 },
                 {
                     "name": "popup_text_color",
-                    "value": "$color:indexer_text_color_active"
+                    "value": "$color:ohos_id_color_text_primary_activated"
                 },
                 {
                     "name": "popup_text_size",
@@ -7050,7 +7050,7 @@
                 },
                 {
                     "name": "selected_background_color",
-                    "value": "$color:indexer_selected_bg_color"
+                    "value": "$color:ohos_id_color_text_highlight_bg"
                 },
                 {
                     "name": "selected_background_color_opacity",
@@ -7058,7 +7058,7 @@
                 },
                 {
                     "name": "popup_background_color",
-                    "value": "$color:indexer_popup_bg_color"
+                    "value": "$color:ohos_id_color_card_bg"
                 },
                 {
                     "name": "popup_separator_color",
@@ -7102,11 +7102,11 @@
                 },
                 {
                     "name": "pressed_bg_area_color",
-                    "value": "$color:indexer_pressed_bg_color"
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
                     "name": "slip_pressed_background_color",
-                    "value": "$color:indexer_pressed_bg_color"
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
                     "name": "popup_clicked_bg_area_color",
