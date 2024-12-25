@@ -4304,6 +4304,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.WINDOW_TOPMOST",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.INSTALL_INTERNALTESTING_BUNDLE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
