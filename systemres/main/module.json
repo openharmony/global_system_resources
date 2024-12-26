@@ -1991,6 +1991,15 @@
                 "description": "$string:ohos_desc_read_document"
             },
             {
+                "name": "ohos.permission.ACCESS_CONFIDENTIAL_COMPUTING_ZONE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.WRITE_IMAGEVIDEO",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",
