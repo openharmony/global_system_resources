@@ -4448,6 +4448,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.NDK_START_SELF_UI_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
