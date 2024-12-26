@@ -28695,6 +28695,11 @@
             "type": "string",
             "name": "decrease_used_for_accessibility_text",
             "order": 5702
-        }     
+        },
+        {
+            "type": "color",
+            "name": "subtab_board_text_on_color",
+            "order": 5703
+        }
     ]
 }
