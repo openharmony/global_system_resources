@@ -2701,6 +2701,30 @@
                 {
                     "name": "titlebar_breakpoint_horizontal_m",
                     "value": "$float:breakpoint_horizontal_m"
+                },
+                {
+                    "name": "drag_bar_default_color",
+                    "value": "$color:icon"
+                },
+                {
+                    "name": "drag_bar_item_default_color",
+                    "value": "$color:navigation_drag_bar_item_default"
+                },
+                {
+                    "name": "drag_bar_active_color",
+                    "value": "$color:navigation_drag_bar_active"
+                },
+                {
+                    "name": "drag_bar_item_active_color",
+                    "value": "$color:icon_emphasize"
+                },
+                {
+                    "name": "divider_light_blue",
+                    "value": "$color:navigation_divider_light_blue_active"
+                },
+                {
+                    "name": "divider_dark_blue",
+                    "value": "$color:navigation_divider_dark_blue_active"
                 }
             ]
         },
