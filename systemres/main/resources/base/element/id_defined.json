@@ -28710,6 +28710,16 @@
             "type": "media",
             "name": "app_lock_picture",
             "order": 5705
+        },
+        {
+            "type": "string",
+            "name": "prev_arrow_accessibility_text",
+            "order": 5706
+        },
+        {
+            "type": "string",
+            "name": "next_arrow_accessibility_text",
+            "order": 5707
         }
     ]
 }
