@@ -4304,6 +4304,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.WINDOW_TOPMOST",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.INSTALL_INTERNALTESTING_BUNDLE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
@@ -4323,6 +4332,24 @@
             },
             {
                 "name": "ohos.permission.MANAGE_PASTEBOARD_APP_SHARE_OPTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 14,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.kernel.DISABLE_CODE_MEMORY_PROTECTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 14,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.kernel.ALLOW_WRITABLE_CODE_MEMORY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 14,
