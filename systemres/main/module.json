@@ -4672,6 +4672,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CAPTURE_PLAYBACK",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.EXEMPT_CAPTURE_SCREEN_AUTHORIZE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
