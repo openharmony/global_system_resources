@@ -4573,6 +4573,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_APP_SINGLE_PERMISSION_MANAGEMENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.kernel.DISABLE_CODE_MEMORY_PROTECTION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
