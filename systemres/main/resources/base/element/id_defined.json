@@ -28850,6 +28850,26 @@
             "type": "string",
             "name": "reduce_counter_double_click_description",
             "order": 5733
-        }
+        },
+        {
+            "type": "float",
+            "name": "radio_hot_zone_size",
+            "order": 5734
+        },
+        {
+            "type": "float",
+            "name": "checkbox_hot_zone_size",
+            "order": 5735
+        },
+        {
+            "type": "float",
+            "name": "toggle_hot_zone_height",
+            "order": 5736
+        },
+        {
+            "type": "float",
+            "name": "toggle_hot_zone_width",
+            "order": 5737
+         }
     ]
 }
