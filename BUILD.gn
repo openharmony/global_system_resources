@@ -16,14 +16,26 @@ import("systemres.gni")
 dep_list = []
 
 foreach(font, sys_fonts_list) {
-  font_name = font.font_name
-  ohos_prebuilt_etc(font_name) {
-    source = font.font_path
-    module_install_dir = "fonts"
-    subsystem_name = "global"
-    part_name = "system_resources"
+  isLoadFont = false
+  foreach(device, font.support_devices) {
+    if (system_resources_font_feature_product == device) {
+      isLoadFont = true
+    }
   }
-  dep_list += [ font_name ]
+
+  if (isLoadFont) {
+    font_name = font.font_name
+    ohos_prebuilt_etc(font_name) {
+      source = font.font_path
+      if (font.alias_name != "") {
+        output = font.alias_name
+      }
+      module_install_dir = "fonts"
+      subsystem_name = "global"
+      part_name = "system_resources"
+    }
+    dep_list += [ font_name ]
+  }
 }
 
 group("ohos_fonts") {
