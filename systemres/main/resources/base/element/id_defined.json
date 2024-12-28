@@ -28700,6 +28700,11 @@
             "type": "color",
             "name": "subtab_board_text_on_color",
             "order": 5703
+        },
+        {
+            "type": "float",
+            "name": "page_transition_amplitude_ratio",
+            "order": 5704
         }
     ]
 }
