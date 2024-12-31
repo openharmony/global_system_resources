@@ -921,6 +921,14 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name": "ohos_lab_custom_screen_capture",
+            "value": "允许运用获取屏幕图像"
+        },
+        {
+            "name": "ohos_desc_custom_screen_capture",
+            "value": "应用获取此权限后，可进行截屏、录屏等操作。当前仅平板、2in1设备应用可申请此权限"
         }
     ]
 }
