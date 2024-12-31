@@ -849,6 +849,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.PLUGIN_UPDATE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.RECEIVE_UPDATE_MESSAGE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -4772,15 +4781,6 @@
             },
             {
                 "name": "ohos.permission.WATCH_START_SOS_SERVICE",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": 16,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
-                "name": "ohos.permission.PLUGIN_UPDATE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 16,
