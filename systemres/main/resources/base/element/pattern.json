@@ -4453,6 +4453,14 @@
                 {
                     "name": "container_color",
                     "value": "$color:ohos_id_swiper_container_color"
+                },
+                {
+                    "name": "prev_arrow_accessibility_text",
+                    "value": "$string:prev_arrow_accessibility_text"
+                },
+                {
+                    "name": "next_arrow_accessibility_text",
+                    "value": "$string:next_arrow_accessibility_text"
                 }
             ]
         },
