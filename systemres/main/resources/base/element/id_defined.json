@@ -28720,6 +28720,21 @@
             "type": "string",
             "name": "next_arrow_accessibility_text",
             "order": 5707
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "order": 5708
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_complete_button",
+            "order": 5709
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "order": 5710
         }
     ]
 }
