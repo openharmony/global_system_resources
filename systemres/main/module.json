@@ -1787,6 +1787,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.PERSONAL_MANAGE_RESTRICTIONS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.START_PROVISIONING_MESSAGE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.NFC_TAG",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
