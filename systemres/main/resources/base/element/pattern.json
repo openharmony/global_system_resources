@@ -7147,6 +7147,22 @@
                 {
                     "name": "indexer_bar_color",
                     "value": "$color:indexer_bar_color"
+                },
+                {
+                    "name": "filter_accessibility_expand",
+                    "value": "$string:filter_accessibility_expand"
+                },
+                {
+                    "name": "filter_accessibility_expanded",
+                    "value": "$string:filter_accessibility_expanded"
+                },
+                {
+                    "name": "filter_accessibility_collapse",
+                    "value": "$string:filter_accessibility_collapse"
+                },
+                {
+                    "name": "filter_accessibility_collapsed",
+                    "value": "$string:filter_accessibility_collapsed"
                 }
             ]
         },
