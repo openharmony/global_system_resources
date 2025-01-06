@@ -28825,6 +28825,31 @@
             "type": "string",
             "name": "temporarily_disable_shutdown_findee_text",
             "order": 5728
+        },
+        {
+            "type": "string",
+            "name": "year_resource_text",
+            "order": 5729
+        },
+        {
+            "type": "string",
+            "name": "month_resource_text",
+            "order": 5730
+        },
+        {
+            "type": "string",
+            "name": "day_resource_text",
+            "order": 5731
+        },
+        {
+            "type": "string",
+            "name": "increase_counter_double_click_description",
+            "order": 5732
+        },
+        {
+            "type": "string",
+            "name": "reduce_counter_double_click_description",
+            "order": 5733
         }
     ]
 }
