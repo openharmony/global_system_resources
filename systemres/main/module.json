@@ -1991,6 +1991,15 @@
                 "description": "$string:ohos_desc_read_document"
             },
             {
+                "name": "ohos.permission.ACCESS_CONFIDENTIAL_COMPUTING_ZONE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.WRITE_IMAGEVIDEO",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",
@@ -4564,6 +4573,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_APP_SINGLE_PERMISSION_MANAGEMENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.kernel.DISABLE_CODE_MEMORY_PROTECTION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -4663,6 +4681,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CAPTURE_PLAYBACK",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.EXEMPT_CAPTURE_SCREEN_AUTHORIZE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
@@ -4717,6 +4744,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.NDK_START_SELF_UI_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.WATCH_READ_EMERGENCY_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -4739,6 +4775,15 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.PRELOAD_FILE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false

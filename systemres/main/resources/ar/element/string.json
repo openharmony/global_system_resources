@@ -41,6 +41,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"تم الرفع بنجاح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"تعذر الرفع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"تعذر التنزيل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"تم التنزيل بنجاح",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

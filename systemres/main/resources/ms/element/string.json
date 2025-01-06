@@ -41,6 +41,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"Muat naik berjaya",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Muat naik gagal",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Muat turun gagal",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Muat turun berjaya",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

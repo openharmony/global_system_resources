@@ -41,6 +41,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"Otpremanje je uspešno",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Otpremanje nije uspelo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Preuzimanje nije uspelo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Preuzimanje je uspešno",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

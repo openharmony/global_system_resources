@@ -370,7 +370,7 @@
         },
         {
             "name": "textpicker_selected_text_size",
-            "value": "$float:ohos_id_text_size_headline8"
+            "value": "$float:ohos_id_text_size_dialog_tittle"
         },
         {
             "name": "textpicker_text_size",
@@ -1443,6 +1443,42 @@
         {
             "name": "arc_button_chamfer_radius",
             "value": "8vp"
+        },
+        {
+            "name": "segment_button_v2_singleline_selected_height",
+            "value": "36vp"
+        },
+        {
+            "name": "segment_button_v2_singleline_background_height",
+            "value": "40vp"
+        },
+        {
+            "name": "segment_button_v2_doubleline_selected_height",
+            "value": "60vp"
+        },
+        {
+            "name": "segment_button_v2_doubleline_background_height",
+            "value": "64vp"
+        },
+        {
+            "name": "segment_button_v2_multi_singleline_height",
+            "value": "40vp"
+        },
+        {
+            "name": "segment_button_v2_multi_doubleline_height",
+            "value": "64vp"
+        },
+        {
+            "name": "segment_button_v2_selected_corner_radius",
+            "value": "$float:corner_radius_level9"
+        },
+        {
+            "name": "segment_button_v2_background_corner_radius",
+            "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "segment_button_v2_multi_corner_radius",
+            "value": "$float:corner_radius_level10"
         }
     ]
 }

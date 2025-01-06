@@ -41,6 +41,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"ההעלאה הצליחה",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"ההעלאה נכשלה",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"ההורדה נכשלה",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"ההורדה הצליחה",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

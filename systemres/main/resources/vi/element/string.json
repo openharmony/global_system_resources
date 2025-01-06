@@ -41,6 +41,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"Tải lên thành công",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Tải lên không thành công",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Tải xuống không thành công",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Tải xuống thành công",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

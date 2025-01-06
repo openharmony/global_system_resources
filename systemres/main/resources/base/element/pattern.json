@@ -4453,6 +4453,14 @@
                 {
                     "name": "container_color",
                     "value": "$color:ohos_id_swiper_container_color"
+                },
+                {
+                    "name": "prev_arrow_accessibility_text",
+                    "value": "$string:prev_arrow_accessibility_text"
+                },
+                {
+                    "name": "next_arrow_accessibility_text",
+                    "value": "$string:next_arrow_accessibility_text"
                 }
             ]
         },
@@ -4485,7 +4493,7 @@
                 },
                 {
                     "name": "subtab_board_text_on_color",
-                    "value": "$color:font_on_primary"
+                    "value": "$color:subtab_board_text_on_color"
                 },
                 {
                     "name": "subtab_indicator_height",
@@ -7007,6 +7015,10 @@
                     "value": "$media:ohos_ic_public_albums"
                 },
                 {
+                    "name": "app_lock_picture",
+                    "value": "$media:app_lock_picture"
+                },
+                {
                     "name": "ic_public_ai_write",
                     "value": "$media:ic_public_ai_write"
                 }
@@ -7026,15 +7038,15 @@
             "value": [
                 {
                     "name": "default_text_color",
-                    "value": "$color:indexer_text_color"
+                    "value": "$color:ohos_id_color_text_secondary"
                 },
                 {
                     "name": "selected_text_color",
-                    "value": "$color:indexer_text_color_active"
+                    "value": "$color:ohos_id_color_text_primary_activated"
                 },
                 {
                     "name": "popup_text_color",
-                    "value": "$color:indexer_text_color_active"
+                    "value": "$color:ohos_id_color_text_primary_activated"
                 },
                 {
                     "name": "popup_text_size",
@@ -7050,7 +7062,7 @@
                 },
                 {
                     "name": "selected_background_color",
-                    "value": "$color:indexer_selected_bg_color"
+                    "value": "$color:ohos_id_color_text_highlight_bg"
                 },
                 {
                     "name": "selected_background_color_opacity",
@@ -7058,7 +7070,7 @@
                 },
                 {
                     "name": "popup_background_color",
-                    "value": "$color:indexer_popup_bg_color"
+                    "value": "$color:ohos_id_color_card_bg"
                 },
                 {
                     "name": "popup_separator_color",
@@ -7102,11 +7114,11 @@
                 },
                 {
                     "name": "pressed_bg_area_color",
-                    "value": "$color:indexer_pressed_bg_color"
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
                     "name": "slip_pressed_background_color",
-                    "value": "$color:indexer_pressed_bg_color"
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
                     "name": "popup_clicked_bg_area_color",

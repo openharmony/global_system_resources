@@ -1351,6 +1351,18 @@
             "value": "非放置区"
         },
         {
+            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value": "单指双击即可加入"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_complete_button",
+            "value": "完成"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value": "常驻内容区，无内容，可点击下方内容进行添加"
+        },
+        {
             "name": "treeview_accessibility_expand_node",
             "value": "展开"
         },
@@ -1413,6 +1425,30 @@
         {
             "name": "advanced_dialog_accessibility_cancel_checked_desc",
             "value": "单指双击即可取消选中"
+        },
+        {
+            "name": "increase_used_for_accessibility_text",
+            "value": "增加" 
+        },
+        {
+            "name": "reduce_used_for_accessibility_text",
+            "value": "减少"
+        },
+        {
+            "name": "gain_used_for_accessibility_text",
+            "value": "增"
+        },
+        {
+            "name": "decrease_used_for_accessibility_text",
+            "value": "减"
+        },
+        {
+            "name": "prev_arrow_accessibility_text",
+            "value": "上一页"
+        },
+        {
+            "name": "next_arrow_accessibility_text",
+            "value": "下一页"
         }
     ]
 }
