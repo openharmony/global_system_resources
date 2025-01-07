@@ -1483,6 +1483,22 @@
         {
             "name": "segment_button_v2_multi_corner_radius",
             "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "radio_hot_zone_size",
+            "value": "48.0vp"
+        },
+        {
+            "name": "checkbox_hot_zone_size",
+            "value": "48.0vp"
+        },
+        {
+            "name": "toggle_hot_zone_height",
+            "value": "48.0vp"
+        },
+        {
+            "name": "toggle_hot_zone_width",
+            "value": "48.0vp"
         }
     ]
 }
