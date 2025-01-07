@@ -97,6 +97,10 @@
             "value": "$color:white"
         },
         {
+            "name": "comp_background_primary_contrary_secondary",
+            "value": "#FFFFFFFF"
+        },
+        {
             "name": "comp_background_gray",
             "value": "$color:gray_01"
         },
@@ -979,6 +983,30 @@
         {
             "name": "subtab_board_text_on_color",
             "value": "$color:font_on"
+        },
+        {
+            "name": "segment_button_v2_tab_button_background",
+            "value": "$color:comp_background_tertiary"
+        },
+        {
+            "name": "segment_button_v2_tab_selected_item_background",
+            "value": "$color:comp_background_primary_contrary_secondary"
+        },
+        {
+            "name": "segment_button_v2_capsule_button_background",
+            "value": "$color:comp_background_tertiary"
+        },
+        {
+            "name": "segment_button_v2_capsule_selected_item_background",
+            "value": "$color:comp_background_emphasize"
+        },
+        {
+            "name": "segment_button_v2_multi_capsule_button_background",
+            "value": "$color:comp_background_tertiary"
+        },
+        {
+            "name": "segment_button_v2_multi_capsule_selected_item_background",
+            "value": "$color:comp_background_emphasize"
         }
     ]
   }

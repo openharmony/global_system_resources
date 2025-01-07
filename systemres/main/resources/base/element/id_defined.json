@@ -28710,6 +28710,146 @@
             "type": "media",
             "name": "app_lock_picture",
             "order": 5705
+        },
+        {
+            "type": "string",
+            "name": "prev_arrow_accessibility_text",
+            "order": 5706
+        },
+        {
+            "type": "string",
+            "name": "next_arrow_accessibility_text",
+            "order": 5707
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "order": 5708
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_complete_button",
+            "order": 5709
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "order": 5710
+        },
+        {
+            "type": "color",
+            "name": "comp_background_primary_contrary_secondary",
+            "order": 5711
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_tab_button_background",
+            "order": 5712
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_tab_selected_item_background",
+            "order": 5713
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_capsule_button_background",
+            "order": 5714
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_capsule_selected_item_background",
+            "order": 5715
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_multi_capsule_button_background",
+            "order": 5716
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_multi_capsule_selected_item_background",
+            "order": 5717
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_singleline_selected_height",
+            "order": 5718
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_singleline_background_height",
+            "order": 5719
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_doubleline_selected_height",
+            "order": 5720
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_doubleline_background_height",
+            "order": 5721
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_multi_singleline_height",
+            "order": 5722
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_multi_doubleline_height",
+            "order": 5723
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_selected_corner_radius",
+            "order": 5724
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_background_corner_radius",
+            "order": 5725
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_multi_corner_radius",
+            "order": 5726
+        },
+        {
+            "type": "float",
+            "name": "search_symbol_icon_height",
+            "order": 5727
+        },
+        {
+            "type": "string",
+            "name": "temporarily_disable_shutdown_findee_text",
+            "order": 5728
+        },
+        {
+            "type": "string",
+            "name": "year_resource_text",
+            "order": 5729
+        },
+        {
+            "type": "string",
+            "name": "month_resource_text",
+            "order": 5730
+        },
+        {
+            "type": "string",
+            "name": "day_resource_text",
+            "order": 5731
+        },
+        {
+            "type": "string",
+            "name": "increase_counter_double_click_description",
+            "order": 5732
+        },
+        {
+            "type": "string",
+            "name": "reduce_counter_double_click_description",
+            "order": 5733
         }
     ]
 }

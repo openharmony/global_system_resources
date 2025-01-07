@@ -4105,6 +4105,10 @@
                     "value": "$color:search_symbol_icon_color"
                 },
                 {
+                    "name": "search_symbol_icon_height",
+                    "value": "$float:search_symbol_icon_height"
+                },
+                {
                     "name": "search_text_field_right_padding_without_button",
                     "value": "$float:ohos_id_search_text_field_right_padding_without_button"
                 },
@@ -4453,6 +4457,14 @@
                 {
                     "name": "container_color",
                     "value": "$color:ohos_id_swiper_container_color"
+                },
+                {
+                    "name": "prev_arrow_accessibility_text",
+                    "value": "$string:prev_arrow_accessibility_text"
+                },
+                {
+                    "name": "next_arrow_accessibility_text",
+                    "value": "$string:next_arrow_accessibility_text"
                 }
             ]
         },
@@ -7135,6 +7147,22 @@
                 {
                     "name": "indexer_bar_color",
                     "value": "$color:indexer_bar_color"
+                },
+                {
+                    "name": "filter_accessibility_expand",
+                    "value": "$string:filter_accessibility_expand"
+                },
+                {
+                    "name": "filter_accessibility_expanded",
+                    "value": "$string:filter_accessibility_expanded"
+                },
+                {
+                    "name": "filter_accessibility_collapse",
+                    "value": "$string:filter_accessibility_collapse"
+                },
+                {
+                    "name": "filter_accessibility_collapsed",
+                    "value": "$string:filter_accessibility_collapsed"
                 }
             ]
         },
