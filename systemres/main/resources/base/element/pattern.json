@@ -455,6 +455,14 @@
                 {
                     "name": "switch_focus_color_sys",
                     "value": "$color:switch_focus_color"
+                },
+                {
+                    "name": "toggle_hotzone_width",
+                    "value": "$float:toggle_hot_zone_width"
+                },
+                {
+                    "name": "toggle_hotzone_height",
+                    "value": "$float:toggle_hot_zone_height"
                 }
             ]
         },
@@ -1701,6 +1709,10 @@
                 {
                     "name": "checkbox_hover_padding_size",
                     "value": "$float:checkbox_hover_padding_size"
+                },
+                {
+                    "name": "checkbox_hotzone_size",
+                    "value": "$float:checkbox_hot_zone_size"
                 }
             ]
         },
@@ -1846,6 +1858,10 @@
                 {
                     "name": "radio_circle_dial",
                     "value": "$float:radio_circle_dial"
+                },
+                {
+                    "name": "radio_hotzone_size",
+                    "value": "$float:radio_hot_zone_size"
                 }
             ]
         },
