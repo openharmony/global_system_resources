@@ -28853,22 +28853,22 @@
         },
         {
             "type": "float",
-            "name": "radio_hot_zone_size",
+            "name": "radio_hotzone_padding",
             "order": 5734
         },
         {
             "type": "float",
-            "name": "checkbox_hot_zone_size",
+            "name": "checkbox_hotzone_padding",
             "order": 5735
         },
         {
             "type": "float",
-            "name": "toggle_hot_zone_height",
+            "name": "switch_hotzone_horizontal_padding",
             "order": 5736
         },
         {
             "type": "float",
-            "name": "toggle_hot_zone_width",
+            "name": "switch_hotzone_vertical_padding",
             "order": 5737
         },
         {
@@ -28900,6 +28900,21 @@
             "type": "float",
             "name": "menu_padding_interval",
             "order": 5743
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_block_hot_region_size",
+            "order": 5744
+        },
+		{
+            "type": "float",
+            "name": "slider_inset_block_hot_region_size",
+            "order": 5745
+        },
+        {
+            "type": "float",
+            "name": "slider_none_block_hot_region_size",
+            "order": 5746
         }
     ]
 }
