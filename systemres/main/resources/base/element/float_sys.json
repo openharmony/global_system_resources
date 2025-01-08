@@ -725,6 +725,10 @@
             "value": "1.0vp"
         },
         {
+            "name": "search_symbol_icon_height",
+            "value": "16.0fp"
+        },
+        {
             "name": "text_input_error_password_border_alpha",
             "value": "0.6"
         },
@@ -1479,6 +1483,22 @@
         {
             "name": "segment_button_v2_multi_corner_radius",
             "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "radio_hot_zone_size",
+            "value": "48.0vp"
+        },
+        {
+            "name": "checkbox_hot_zone_size",
+            "value": "48.0vp"
+        },
+        {
+            "name": "toggle_hot_zone_height",
+            "value": "48.0vp"
+        },
+        {
+            "name": "toggle_hot_zone_width",
+            "value": "48.0vp"
         }
     ]
 }

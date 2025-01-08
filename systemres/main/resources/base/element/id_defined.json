@@ -28815,6 +28815,76 @@
             "type": "float",
             "name": "segment_button_v2_multi_corner_radius",
             "order": 5726
+        },
+        {
+            "type": "float",
+            "name": "search_symbol_icon_height",
+            "order": 5727
+        },
+        {
+            "type": "string",
+            "name": "temporarily_disable_shutdown_findee_text",
+            "order": 5728
+        },
+        {
+            "type": "string",
+            "name": "year_resource_text",
+            "order": 5729
+        },
+        {
+            "type": "string",
+            "name": "month_resource_text",
+            "order": 5730
+        },
+        {
+            "type": "string",
+            "name": "day_resource_text",
+            "order": 5731
+        },
+        {
+            "type": "string",
+            "name": "increase_counter_double_click_description",
+            "order": 5732
+        },
+        {
+            "type": "string",
+            "name": "reduce_counter_double_click_description",
+            "order": 5733
+        },
+        {
+            "type": "float",
+            "name": "radio_hot_zone_size",
+            "order": 5734
+        },
+        {
+            "type": "float",
+            "name": "checkbox_hot_zone_size",
+            "order": 5735
+        },
+        {
+            "type": "float",
+            "name": "toggle_hot_zone_height",
+            "order": 5736
+        },
+        {
+            "type": "float",
+            "name": "toggle_hot_zone_width",
+            "order": 5737
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_screen_t",
+            "order": 5738
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_screen_b",
+            "order": 5739
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_waterfall",
+            "order": 5740
         }
     ]
 }
