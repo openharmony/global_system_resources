@@ -1,0 +1,74 @@
+{
+    "string":[
+        {
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"Kas suurendada helitugevust üle ohutu taseme?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"Pikaajaline kõrge helitugevusega kuulamine võib teie kuulmist kahjustada.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"Taasta helitugevus",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"Pikaajaline kõrge helitugevusega kuulamine võib teie kuulmist kahjustada.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"Helitugevust vähendati automaatselt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"Suurenda helitugevust",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"Üleslaadimine õnnestus",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Üleslaadimine nurjus",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Allalaadimine nurjus",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Allalaadimine õnnestus",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

@@ -249,6 +249,10 @@
             "value":"[TS_975136]_OK"
         },
         {
+            "name":"ohos_app_has_locked",
+            "value":"[TS_1010722]_This app is locked"
+        },
+        {
             "name":"desc_developer_mode_tips",
             "value":"[TS_975137]_Developer options needs to be enabled to run this."
         },
@@ -282,7 +286,11 @@
         },
         {
             "name": "request_agent_upload_file",
-            "value": "[TS_980587]_Uploading file… (%d)"
+            "value": "[TS_980587]_Uploading file… (%s)"
+        },
+        {
+            "name":"save_button_description_save_all",
+            "value":"[TS_998287]_Save all"
         },
         {
             "name": "delete_used_for_accessibility_text",
@@ -291,6 +299,46 @@
         {
             "name": "request_agent_download_file",
             "value": "[TS_995264]_Downloading file… (%s)"
+        },
+        {
+            "name":"general_next_month",
+            "value":"[TS_960032]_Next month"
+        },
+        {
+            "name":"general_next_year",
+            "value":"[TS_960034]_Next year"
+        },
+        {
+            "name":"general_pre_month",
+            "value":"[TS_960055]_Previous month"
+        },
+        {
+            "name":"general_today",
+            "value":"[TS_960041]_Today"
+        },
+        {
+            "name":"general_pre_year",
+            "value":"[TS_960051]_Previous year"
+        },
+        {
+            "name":"general_window_bottom_screen",
+            "value":"[TS_1004178]_Show on bottom"
+        },
+        {
+            "name":"general_window_top_screen",
+            "value":"[TS_1004181]_Show on top"
+        },
+        {
+            "name":"general_window_top_right_screen",
+            "value":"[TS_1004182]_Show on right (Upper)"
+        },
+        {
+            "name":"general_window_top_left_screen",
+            "value":"[TS_1004179]_Show on left (Upper)"
+        },
+        {
+            "name":"general_window_waterfall_mode",
+            "value":"[TS_1004180]_Waterfall view"
         }
     ]
 }

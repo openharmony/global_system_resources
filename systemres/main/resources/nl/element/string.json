@@ -1,0 +1,74 @@
+{
+    "string":[
+        {
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"Volume verhogen tot boven veilig niveau?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"Langdurig luisteren met een hoog volume kan uw gehoor beschadigen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"Volume herstellen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"Langdurig luisteren met een hoog volume kan uw gehoor beschadigen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"Volume automatisch verlaagd",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"Volume verhogen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"Uploaden gelukt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Uploaden mislukt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Downloaden mislukt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Downloaden gelukt",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

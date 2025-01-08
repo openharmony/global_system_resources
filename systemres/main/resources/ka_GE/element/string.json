@@ -1,0 +1,74 @@
+{
+    "string":[
+        {
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"გსურთ ხმის აწევა უსაფრთხო დონეზე მაღლა?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"მაღალ ხმაზე დიდი ხნით მოსმენამ შეიძლება სმენა დაგიზიანოთ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"ხმის სიმაღლის აღდგენა",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"მაღალ ხმაზე დიდი ხნით მოსმენამ შეიძლება სმენა დაგიზიანოთ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"ხმა ავტომატურად დაიწია",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"ხმის აწევა",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"ატვირთვა წარმატებით შესრულდა",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"ატვირთვა ვერ მოხერხდა",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"ჩამოტვირთვა ვერ მოხერხდა",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"ჩამოტვირთვა წარმატებით შესრულდა",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

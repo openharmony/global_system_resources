@@ -259,6 +259,13 @@
             }
         },
         {
+            "name":"ohos_app_has_locked",
+            "value":"應用程式已上鎖",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_lab_write_whole_calendar",
             "value":"新增/修改/刪除全部日曆"
         },
@@ -451,45 +458,45 @@
             "value": "清除"
         },
         {
-            "name": "ohos_id_notification_increase_volume_tittle",
-            "value": "將音量提高到安全範圍以上",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"將音量提高到安全範圍以上",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_increase_volume_context",
-            "value": "長時間保持高音量可能會損傷聽力。",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"長時間保持高音量可能會損傷聽力。",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_restore_volume_button",
-            "value": "復原音量",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"復原音量",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_restore_volume_context",
-            "value": "為保護聽力，音量已降低至安全範圍。",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"為保護聽力，音量已降低至安全範圍。",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_restore_volume_tittle",
-            "value": "長時間保持高音量可能損傷聽力",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"長時間保持高音量可能損傷聽力",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_increase_volume_button",
-            "value": "提高音量",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"提高音量",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -557,7 +564,7 @@
         },
         {
             "name": "request_agent_upload_file",
-            "value": "上傳檔案 %d",
+            "value": "上傳檔案 %s",
             "attr": {
                 "priority": "translate"
             }
@@ -575,6 +582,68 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"general_next_month",
+            "value":"下個月",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_year",
+            "value":"下一年",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_month",
+            "value":"上個月",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_today",
+            "value":"今天",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_year",
+            "value":"上一年",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_save_all",
+            "value":"全部儲存",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_bottom_screen",
+            "value":"視窗顯示在螢幕下方"
+        },
+        {
+            "name":"general_window_top_screen",
+            "value":"視窗顯示在螢幕上方"
+        },
+        {
+            "name":"general_window_top_right_screen",
+            "value":"視窗顯示在上螢幕右側"
+        },
+        {
+            "name":"general_window_top_left_screen",
+            "value":"視窗顯示在上螢幕左側"
+        },
+        {
+            "name":"general_window_waterfall_mode",
+            "value":"進入瀑布模式"
         }
     ]
 }

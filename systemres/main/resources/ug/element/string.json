@@ -451,6 +451,13 @@
             "value": "تازىلاش"
         },
         {
+            "name":"ohos_app_has_locked",
+            "value":"ئەپ قۇلۇپلاق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name": "ohos_id_notification_increase_volume_tittle",
             "value": "بىخەتەر چەكتىن ئاشۇرۇپ ئۈنلۈكلىتەمسىز؟",
             "attr": {
@@ -557,7 +564,7 @@
         },
         {
             "name": "request_agent_upload_file",
-            "value": "ھۆججەت يۈكلەش ‎%d",
+            "value": "ھۆججەت يۈكلەش ‎%s",
             "attr": {
                 "priority": "translate"
             }
@@ -575,6 +582,68 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"general_next_month",
+            "value":"كېيىنكى ئاي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_year",
+            "value":"كېيىنكى يىل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_month",
+            "value":"ئالدىنقى ئاي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_today",
+            "value":"بۈگۈن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_year",
+            "value":"ئالدىنقى يىل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_save_all",
+            "value":"ھەممىنى ساقلاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_bottom_screen",
+            "value":"ئېكران ئاستىدا كۆرسىتىش"
+        },
+        {
+            "name":"general_window_top_screen",
+            "value":"ئېكران ئۈستىدە كۆرسىتىش"
+        },
+        {
+            "name":"general_window_top_right_screen",
+            "value":"سول ئۈستىدە كۆرسىتىش"
+        },
+        {
+            "name":"general_window_top_left_screen",
+            "value":"ئوڭ ئۈستىدە كۆرسىتىش"
+        },
+        {
+            "name":"general_window_waterfall_mode",
+            "value":"شارقىراتما ھالەتكە كىرىش"
         }
     ]
 }

@@ -1,0 +1,74 @@
+{
+    "string":[
+        {
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"Збільшити гучність до рівня, вищого за безпечний?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"Тривале прослуховування на великій гучності може пошкодити слух.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"Відновити гучність",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"Тривале прослуховування на великій гучності може пошкодити слух.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"Гучність автоматично знижено",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"Збільшити гучність",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"Вивантаження завершено",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Не вдалося вивантажити",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Не вдалося завантажити",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Завантаження завершено",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

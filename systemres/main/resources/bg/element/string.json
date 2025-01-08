@@ -1,0 +1,74 @@
+{
+    "string":[
+        {
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"Увеличаване на силата на звука над безопасното ниво?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"Слушането с висока сила на звука продължително време може да увреди слуха ви.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"Възстановяване на силата на звука",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"Слушането с висока сила на звука продължително време може да увреди слуха ви.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"Силата на звука е намалена автоматично",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"Увеличаване на силата на звука",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"Успешно качване",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Неуспешно качване",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Неуспешно изтегляне",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Успешно изтегляне",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

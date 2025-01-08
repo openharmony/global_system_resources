@@ -693,7 +693,10 @@
         },
         {
             "name":"save_button_description_save_all",
-            "value":"Save all"
+            "value":"Save all",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "ohos_drawable_descriptor_path",
@@ -1087,24 +1090,39 @@
             "value": "day"
         },
         {
-            "name": "general_pre_month",
-            "value": "prev month"
+            "name":"general_pre_month",
+            "value":"Previous month",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_pre_year",
-            "value": "prev year"
+            "name":"general_pre_year",
+            "value":"Previous year",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_next_year",
-            "value": "next year"
+            "name":"general_next_year",
+            "value":"Next year",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_next_month",
-            "value": "next month"
+            "name":"general_next_month",
+            "value":"Next month",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_today",
-            "value": "today"
+            "name":"general_today",
+            "value":"Today",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"pass_point",
@@ -1198,45 +1216,45 @@
             "value": "This permission applies to the following scenarios: 1. The application, for example, an H5 web application, cannot use the SaveButton security component. 2. The application needs to save images or videos multiple times consecutively and cannot save all the images or videos at a time in a save confirmation dialog box."
         },
         {
-            "name": "ohos_id_notification_restore_volume_tittle",
-            "value": "Volume automatically lowered",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"Volume automatically lowered",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_restore_volume_context",
-            "value": "Listening at high volumes for a long time can damage your hearing.",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"Listening at high volumes for a long time can damage your hearing.",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_restore_volume_button",
-            "value": "Restore volume",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"Restore volume",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_increase_volume_tittle",
-            "value": "Raise volume above safe level?",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"Raise volume above safe level?",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_increase_volume_context",
-            "value": "Listening at high volumes for a long time can damage your hearing.",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"Listening at high volumes for a long time can damage your hearing.",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_notification_increase_volume_button",
-            "value": "Raise volume",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"Raise volume",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -1283,7 +1301,7 @@
         },
         {
             "name": "request_agent_upload_file",
-            "value": "Uploading file… (%d)",
+            "value": "Uploading file… (%s)",
             "attr": {
                 "priority": "translate"
             }
@@ -1318,20 +1336,27 @@
             }
         },
         {
+            "name":"ohos_app_has_locked",
+            "value":"This app is locked",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name": "notification_screen_recording_title",
             "value": "%s is recording the screen"
         },
         {
             "name": "general_window_top_left_screen",
-            "value": "Show on top left"
+            "value": "Show on left (Upper)"
         },
         {
             "name": "general_window_top_right_screen",
-            "value": "Show on top right"
+            "value": "Show on right (Upper)"
         },
         {
             "name": "general_window_waterfall_mode",
-            "value": "Enter Waterfall Mode"
+            "value": "Waterfall view"
         },
         {
             "name": "general_window_top_screen",
@@ -1340,6 +1365,250 @@
         {
             "name": "general_window_bottom_screen",
             "value": "Show on bottom"
+        },
+        {
+            "name": "filter_accessibility_selected",
+            "value": "Selected"
+        },
+        {
+            "name": "filter_accessibility_unselected",
+            "value": "Not selected"
+        },
+        {
+            "name": "filter_accessibility_expand",
+            "value": "Expand"
+        },
+        {
+            "name": "filter_accessibility_expanded",
+            "value": "Expanded"
+        },
+        {
+            "name": "filter_accessibility_collapse",
+            "value": "Collapse"
+        },
+        {
+            "name": "filter_accessibility_collapsed",
+            "value": "Collapsed"
+        },
+        {
+            "name": "filter_accessibility_filters",
+            "value": "Filter"
+        },
+        {
+            "name": "filter_accessibility_select_desc",
+            "value": "Double-tap to select"
+        },
+        {
+            "name": "filter_accessibility_unselect_desc",
+            "value": "Double-tap to deselect"
+        },
+        {
+            "name": "filter_accessibility_expand_desc",
+            "value": "Double-tap to expand"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item",
+            "value": "%s, added to the resident content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value": "Double-tap and hold to drag and sort"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value": "%s, moves out of the resident content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value": "%s,lifted"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value": "Row %1$d, column %2$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value": "Placed, row %1$d, column %2$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value": "%1$s, added to the resident content area, row %2$d, column %3$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value": "Entered edit state"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item",
+            "value": "%s, not added to the resident content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value": "Double-tap and hold to enter the editing mode"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value": "Double-tap to join.Double-click and hold to enter the editing state."
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_button",
+            "value": "%s，added to the resident content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
+            "value": "edit"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_deleted",
+            "value": "%s,move out of the resident content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_illegal_area",
+            "value": "Illegal area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value": "double click with one finger to join"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_complete_button",
+            "value": "complete"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value": "there is no content in the resident content area, you can click the content below to add content"
+        },
+        {
+            "name": "treeview_accessibility_expand_node",
+            "value": "expand"
+        },
+        {
+            "name": "treeview_accessibility_fold_node",
+            "value": "fold"
+        },
+        {
+            "name": "treeview_accessibility_expanded_node",
+            "value": "expanded"
+        },
+        {
+            "name": "treeview_accessibility_folded_node",
+            "value": "folded"
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "Double-click to select, double-click and hold to drag and sort"
+        },
+        {
+            "name": "treeview_accessibility_select_node",
+            "value": "Checked, %s"
+        },
+        {
+            "name": "treeview_accessibility_lift_node",
+            "value": "%s, lifted"
+        },
+        {
+            "name": "treeview_accessibility_move_node_parent",
+            "value": "Item %d"
+        },
+        {
+            "name": "treeview_accessibility_place_node_parent",
+            "value": "Placed, item %d"
+        },
+        {
+            "name": "treeview_accessibility_move_node_child",
+            "value": "To %2$d of %1$s"
+        },
+        {
+            "name": "treeview_accessibility_place_node_child",
+            "value": "Item %2$d where %1$s has been placed"
+        },
+        {
+            "name": "treeview_accessibility_implement_node",
+            "value": "Double-click with one finger to excute"
+        },
+        {
+            "name": "selecttitlebar_accessibility_message_desc",
+            "value": "%s new message"
+        },
+        {
+            "name": "subheader_accessibility_title",
+            "value": "title"
+        },
+        {
+            "name": "advanced_dialog_accessibility_checkbox",
+            "value": "checkbox"
+        },
+        {
+            "name": "advanced_dialog_accessibility_cancel_checked_desc",
+            "value": "Double-tap to deselect it"
+        },
+        {
+            "name": "res_menu_search_is_support",
+            "value": "0"
+        },
+        {
+            "name": "text_overlay_menu_copy",
+            "value": "Ctrl+C"
+        },
+        {
+            "name": "text_overlay_menu_paste",
+            "value": "Ctrl+V"
+        },
+        {
+            "name": "text_overlay_menu_select_all",
+            "value": "Ctrl+A"
+        },
+        {
+            "name": "text_overlay_menu_cut",
+            "value": "Ctrl+X"
+        },
+        {
+            "name": "increase_used_for_accessibility_text",
+            "value": "increase"
+        },
+        {
+            "name": "reduce_used_for_accessibility_text",
+            "value": "reduce"
+        },
+        {
+            "name": "gain_used_for_accessibility_text",
+            "value": "gain"
+        },
+        {
+            "name": "decrease_used_for_accessibility_text",
+            "value": "decrease"
+        },
+        {
+            "name": "prev_arrow_accessibility_text",
+            "value": "prev page"
+        },
+        {
+            "name": "next_arrow_accessibility_text",
+            "value": "next page"
+        },
+        {
+            "name": "temporarily_disable_shutdown_findee_text",
+            "value": "Used to temporarily disable the Find function after shutdown"
+        },
+        {
+            "name": "year_resource_text",
+            "value": "year"
+        },
+        {
+            "name": "month_resource_text",
+            "value": "month"
+        },
+        {
+            "name": "day_resource_text",
+            "value": "day"
+        },
+        {
+            "name": "increase_counter_double_click_description",
+            "value": "Double-click with one finger to excute，Double-click and hold on can last increase"
+        },
+        {
+            "name": "reduce_counter_double_click_description",
+            "value": "Double-click with one finger to excute，Double-click and hold on can last reduce"
         }
     ]
 }

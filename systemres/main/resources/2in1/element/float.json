@@ -85,7 +85,7 @@
             "value": "1"
         },
         {
-            "name": "toast_padding_new",
+            "name": "toast_padding_level8",
             "value": "8.0vp"
         },
         {
@@ -315,6 +315,18 @@
         {
             "name": "menu_item_vertical_padding_token",
             "value": "4.0vp"
+        },
+        {
+            "name": "ohos_id_dialog_background_shadow_on",
+            "value": "$float:ohos_id_floating_shadow_m"
+        },
+        {
+            "name": "ohos_id_dialog_background_shadow_off",
+            "value": "$float:ohos_id_floating_shadow_s"
+        },
+        {
+            "name": "text_overlay_menu_show_shortcut",
+            "value": "1.0"
         }
     ]
 }
