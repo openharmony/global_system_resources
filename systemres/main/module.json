@@ -4843,6 +4843,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.VIRTUAL_KEYBOARD_WINDOW",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.GET_ANIM_POLICY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
