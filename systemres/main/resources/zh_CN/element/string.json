@@ -1416,7 +1416,10 @@
         },
         {
             "name": "subheader_accessibility_title",
-            "value": "标题"
+            "value": "标题",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "advanced_dialog_accessibility_checkbox",

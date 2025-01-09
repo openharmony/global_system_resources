@@ -1532,7 +1532,10 @@
         },
         {
             "name": "subheader_accessibility_title",
-            "value": "title"
+            "value": "title",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "advanced_dialog_accessibility_checkbox",
