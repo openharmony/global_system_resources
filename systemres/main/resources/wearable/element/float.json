@@ -283,6 +283,22 @@
         {
             "name": "radio_circle_dial",
             "value": "1.0"
+        },
+        {
+            "name": "checkbox_hotzone_padding",
+            "value": "12.0vp"
+        },
+        {
+            "name": "radio_hotzone_padding",
+            "value": "12.0vp"
+        },
+        {
+            "name": "switch_hotzone_horizontal_padding",
+            "value": "7.0vp"
+        },
+        {
+            "name": "switch_hotzone_vertical_padding",
+            "value": "12.0vp"
         }
     ]
 }
