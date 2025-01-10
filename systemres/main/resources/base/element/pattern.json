@@ -370,11 +370,11 @@
                 },
                 {
                     "name": "switch_hotzone_horizontal_padding",
-                    "value": "$float:ohos_id_switch_hotzone_horizontal_padding"
+                    "value": "$float:switch_hotzone_horizontal_padding"
                 },
                 {
                     "name": "switch_hotzone_vertical_padding",
-                    "value": "$float:ohos_id_switch_hotzone_vertical_padding"
+                    "value": "$float:switch_hotzone_vertical_padding"
                 },
                 {
                     "name": "switch_aspect_ratio",
@@ -455,14 +455,6 @@
                 {
                     "name": "switch_focus_color_sys",
                     "value": "$color:switch_focus_color"
-                },
-                {
-                    "name": "toggle_hotzone_width",
-                    "value": "$float:toggle_hot_zone_width"
-                },
-                {
-                    "name": "toggle_hotzone_height",
-                    "value": "$float:toggle_hot_zone_height"
                 }
             ]
         },
@@ -1644,7 +1636,7 @@
                 },
                 {
                     "name": "checkbox_hotzone_padding",
-                    "value": "$float:ohos_id_checkbox_hotzone_padding"
+                    "value": "$float:checkbox_hotzone_padding"
                 },
                 {
                     "name": "checkbox_default_size",
@@ -1709,10 +1701,6 @@
                 {
                     "name": "checkbox_hover_padding_size",
                     "value": "$float:checkbox_hover_padding_size"
-                },
-                {
-                    "name": "checkbox_hotzone_size",
-                    "value": "$float:checkbox_hot_zone_size"
                 }
             ]
         },
@@ -1805,7 +1793,7 @@
                 },
                 {
                     "name": "radio_hotzone_padding",
-                    "value": "$float:ohos_id_radio_hotzone_padding"
+                    "value": "$float:radio_hotzone_padding"
                 },
                 {
                     "name": "radio_default_size",
@@ -1858,10 +1846,6 @@
                 {
                     "name": "radio_circle_dial",
                     "value": "$float:radio_circle_dial"
-                },
-                {
-                    "name": "radio_hotzone_size",
-                    "value": "$float:radio_hot_zone_size"
                 }
             ]
         },
@@ -6445,6 +6429,14 @@
                 {
                     "name": "menu_background_blur_style",
                     "value": "$float:menu_background_blur_style"
+                },
+                {
+                    "name": "menu_item_hor_interval",
+                    "value": "$float:menu_item_hor_interval"
+                },
+                {
+                    "name": "menu_padding_interval",
+                    "value": "$float:menu_padding_interval"
                 }
             ]
         },
@@ -6553,11 +6545,11 @@
                 },
                 {
                     "name": "outset_block_hot_region_size",
-                    "value": "$float:ohos_id_outset_block_hot_region_size"
+                    "value": "$float:slider_outset_block_hot_region_size"
                 },
                 {
                     "name": "none_block_hot_region_size",
-                    "value": "$float:ohos_id_none_block_hot_region_size"
+                    "value": "$float:slider_none_block_hot_region_size"
                 },
                 {
                     "name": "block_color",
@@ -6581,7 +6573,7 @@
                 },
                 {
                     "name": "inset_block_hot_region_size",
-                    "value": "$float:ohos_id_inset_block_hot_region_size"
+                    "value": "$float:slider_inset_block_hot_region_size"
                 },
                 {
                     "name": "marker_size",
