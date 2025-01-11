@@ -5,7 +5,10 @@
             "value": [
                 {
                     "quantity": "other",
-                    "value": "%d条新消息"
+                    "value": "%d条新消息",
+                    "attr":{
+                        "priority":"translate"
+                    }
                 }
             ]
         }
