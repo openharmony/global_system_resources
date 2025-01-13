@@ -4859,6 +4859,24 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_DLP_HIDE_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.DLP_GET_HIDE_STATUS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
