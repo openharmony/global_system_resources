@@ -4,15 +4,8 @@
             "name": "selecttitlebar_accessibility_message_desc",
             "value": [
                 {
-                    "quantity": "one",
-                    "value": "%d new message",
-                    "attr":{
-                        "priority":"translate"
-                    }
-                },
-                {
                     "quantity": "other",
-                    "value": "%d new messages",
+                    "value":"%d 則新訊息",
                     "attr":{
                         "priority":"translate"
                     }
