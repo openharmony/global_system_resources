@@ -1539,11 +1539,17 @@
         },
         {
             "name": "advanced_dialog_accessibility_checkbox",
-            "value": "checkbox"
+            "value": "Checkbox",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "advanced_dialog_accessibility_cancel_checked_desc",
-            "value": "Double-tap to deselect it"
+            "value": "Double-tap to deselect",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "res_menu_translate_is_support",

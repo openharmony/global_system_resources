@@ -651,6 +651,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name": "advanced_dialog_accessibility_checkbox",
+            "value": "複選框",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "advanced_dialog_accessibility_cancel_checked_desc",
+            "value": "單指輕觸兩下即可取消選取",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
