@@ -3154,6 +3154,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CHECK_SANDBOX_POLICY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_ACCOUNT_KIT_SERVICE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
