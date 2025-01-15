@@ -28920,6 +28920,11 @@
             "type": "string",
             "name": "res_menu_translate_is_support",
             "order": 5747
+        },
+        {
+            "type": "float",
+            "name": "arclist_velocity_scale",
+            "order": 5748
         }
     ]
 }
