@@ -1457,6 +1457,10 @@
                 {
                     "name": "list_fadeout_enable",
                     "value": "$string:ohos_id_list_fadeout_enable_default"
+                },
+                {
+                    "name": "arclist_velocity_scale",
+                    "value": "$float:arclist_velocity_scale"
                 }
             ]
         },
