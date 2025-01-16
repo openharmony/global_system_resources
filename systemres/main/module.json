@@ -3284,6 +3284,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.REGISTER_FINDNETWORK_ACCESSORY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_PROTOCOL_DFX_DATA",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
