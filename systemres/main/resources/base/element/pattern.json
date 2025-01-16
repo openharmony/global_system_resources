@@ -455,6 +455,14 @@
                 {
                     "name": "switch_focus_color_sys",
                     "value": "$color:switch_focus_color"
+                },
+                {
+                    "name": "switch_hotzone_horizontal_size",
+                    "value": "$float:switch_hotzone_horizontal_size"
+                },
+                {
+                    "name": "switch_hotzone_vertical_size",
+                    "value": "$float:switch_hotzone_vertical_size"
                 }
             ]
         },
