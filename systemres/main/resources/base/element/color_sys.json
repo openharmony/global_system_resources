@@ -786,7 +786,7 @@
         },
         {
             "name": "chip_hover_color",
-            "value": "#19000000"
+            "value": "$color:ohos_id_color_hover"
         },
         {
             "name": "chip_focus_color",
@@ -814,7 +814,7 @@
         },
         {
             "name": "chip_press_color",
-            "value": "#19000000"
+            "value": "$color:ohos_id_color_click_effect"
         },
         {
             "name": "chip_usually_icon_color",
