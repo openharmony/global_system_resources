@@ -28853,22 +28853,22 @@
         },
         {
             "type": "float",
-            "name": "radio_hot_zone_size",
+            "name": "radio_hotzone_padding",
             "order": 5734
         },
         {
             "type": "float",
-            "name": "checkbox_hot_zone_size",
+            "name": "checkbox_hotzone_padding",
             "order": 5735
         },
         {
             "type": "float",
-            "name": "toggle_hot_zone_height",
+            "name": "switch_hotzone_horizontal_padding",
             "order": 5736
         },
         {
             "type": "float",
-            "name": "toggle_hot_zone_width",
+            "name": "switch_hotzone_vertical_padding",
             "order": 5737
         },
         {
@@ -28885,6 +28885,46 @@
             "type": "media",
             "name": "ohos_ic_window_menu_waterfall",
             "order": 5740
+        },
+        {
+            "type": "plural",
+            "name": "selecttitlebar_accessibility_message_desc_new",
+            "order": 5741
+        },
+        {
+            "type": "float",
+            "name": "menu_item_hor_interval",
+            "order": 5742
+        },
+        {
+            "type": "float",
+            "name": "menu_padding_interval",
+            "order": 5743
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_block_hot_region_size",
+            "order": 5744
+        },
+		{
+            "type": "float",
+            "name": "slider_inset_block_hot_region_size",
+            "order": 5745
+        },
+        {
+            "type": "float",
+            "name": "slider_none_block_hot_region_size",
+            "order": 5746
+        },
+        {
+            "type": "string",
+            "name": "res_menu_translate_is_support",
+            "order": 5747
+        },
+        {
+            "type": "float",
+            "name": "arclist_velocity_scale",
+            "order": 5748
         }
     ]
 }

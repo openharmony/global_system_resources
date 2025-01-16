@@ -54,7 +54,7 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.USE_MESSAGES_PICKER",
+                "name": "ohos.permission.USE_FRAUD_MESSAGES_PICKER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 16,
@@ -63,7 +63,7 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.USE_CALL_LOG_PICKER",
+                "name": "ohos.permission.USE_FRAUD_CALL_LOG_PICKER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 16,
@@ -1364,6 +1364,15 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 8,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_ENTERPRISE_WIFI_CONNECTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -3145,6 +3154,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CHECK_SANDBOX_POLICY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_ACCOUNT_KIT_SERVICE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -4782,7 +4800,7 @@
             {
                 "name": "ohos.permission.STORAGE_MANAGER_CRYPT",
                 "grantMode": "system_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "system_core",
                 "since": 12,
                 "deprecated": "",
                 "provisionEnable": true,
@@ -4838,6 +4856,60 @@
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
                 "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.VIRTUAL_KEYBOARD_WINDOW",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_ABILITY_INSTANCE_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_ANIM_POLICY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_DLP_HIDE_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.DLP_GET_HIDE_STATUS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_FAMILY_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false

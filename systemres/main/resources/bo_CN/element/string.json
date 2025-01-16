@@ -644,6 +644,27 @@
         {
             "name":"general_window_waterfall_mode",
             "value":"རྦབ་ཆུའི་རྣམ་པར་འཛུལ་བ།"
+        },
+        {
+            "name":"subheader_accessibility_title",
+            "value":"ཁ་བྱང་།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "advanced_dialog_accessibility_checkbox",
+            "value": "མང་འདེམས་སྒྲོམ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "advanced_dialog_accessibility_cancel_checked_desc",
+            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཚེ་བདམས་པ་འདོར་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

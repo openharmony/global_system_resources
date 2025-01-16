@@ -1416,15 +1416,24 @@
         },
         {
             "name": "subheader_accessibility_title",
-            "value": "标题"
+            "value": "标题",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "advanced_dialog_accessibility_checkbox",
-            "value": "复选框"
+            "value": "复选框",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "advanced_dialog_accessibility_cancel_checked_desc",
-            "value": "单指双击即可取消选中"
+            "value": "单指双击即可取消选中",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "increase_used_for_accessibility_text",

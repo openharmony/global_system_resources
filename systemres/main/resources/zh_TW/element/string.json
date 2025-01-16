@@ -644,6 +644,27 @@
         {
             "name":"general_window_waterfall_mode",
             "value":"進入瀑布模式"
+        },
+        {
+            "name":"subheader_accessibility_title",
+            "value":"標題",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "advanced_dialog_accessibility_checkbox",
+            "value": "核取方塊",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "advanced_dialog_accessibility_cancel_checked_desc",
+            "value": "單指輕觸兩下即可取消選取",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

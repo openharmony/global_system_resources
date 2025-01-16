@@ -1446,7 +1446,7 @@
         },
         {
             "name": "arc_button_chamfer_radius",
-            "value": "8vp"
+            "value": "3vp"
         },
         {
             "name": "segment_button_v2_singleline_selected_height",
@@ -1485,20 +1485,40 @@
             "value": "$float:corner_radius_level10"
         },
         {
-            "name": "radio_hot_zone_size",
-            "value": "48.0vp"
+            "name": "radio_hotzone_padding",
+            "value": "14.0vp"
         },
         {
-            "name": "checkbox_hot_zone_size",
-            "value": "48.0vp"
+            "name": "checkbox_hotzone_padding",
+            "value": "14.0vp"
         },
         {
-            "name": "toggle_hot_zone_height",
-            "value": "48.0vp"
+            "name": "switch_hotzone_horizontal_padding",
+            "value": "6.0vp"
+        },
+		{
+            "name": "switch_hotzone_vertical_padding",
+            "value": "14.0vp"
+        },
+		{
+            "name": "menu_item_hor_interval",
+            "value": "$float:padding_level6"
         },
         {
-            "name": "toggle_hot_zone_width",
-            "value": "48.0vp"
+            "name": "menu_padding_interval",
+            "value": "$float:padding_level2"
+		},
+        {
+            "name": "slider_outset_block_hot_region_size",
+            "value": "40.0vp"
+        },
+        {
+            "name": "slider_none_block_hot_region_size",
+            "value": "40.0vp"
+        },
+        {
+            "name": "slider_inset_block_hot_region_size",
+            "value": "32.0vp"
         }
     ]
 }
