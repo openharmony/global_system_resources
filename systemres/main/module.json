@@ -4870,6 +4870,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SET_ABILITY_INSTANCE_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.GET_ANIM_POLICY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
