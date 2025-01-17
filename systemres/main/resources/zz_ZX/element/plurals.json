@@ -1,0 +1,33 @@
+{
+    "plural":[
+        {
+            "name":"selecttitlebar_accessibility_message_desc_new",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1022269]_%d new message"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1022272]_%d new messages"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1022271]_%d new messages"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1022274]_%d new messages"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1022270]_%d new messages"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1022273]_%d new messages"
+                }
+            ]
+        }
+    ]
+}
