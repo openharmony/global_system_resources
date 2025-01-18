@@ -28925,6 +28925,16 @@
             "type": "float",
             "name": "arclist_velocity_scale",
             "order": 5748
+        },
+        {
+            "type": "float",
+            "name": "switch_hotzone_horizontal_size",
+            "order": 5749
+        },
+        {
+            "type": "float",
+            "name": "switch_hotzone_vertical_size",
+            "order": 5750
         }
     ]
 }
