@@ -28935,6 +28935,16 @@
             "type": "float",
             "name": "switch_hotzone_vertical_size",
             "order": 5750
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_navigation_active_by_tab_key",
+            "order": 5751
+        },
+        {
+            "type": "float",
+            "name": "app_theme_focus_navigation_always_handle_click",
+            "order": 5752
         }
     ]
 }
