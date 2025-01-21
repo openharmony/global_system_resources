@@ -1717,6 +1717,10 @@
                 {
                     "name": "checkbox_hover_padding_size",
                     "value": "$float:checkbox_hover_padding_size"
+                },
+                {
+                    "name": "radio_circle_dial",
+                    "value": "$float:radio_circle_dial"
                 }
             ]
         },
@@ -7086,7 +7090,7 @@
                 },
                 {
                     "name": "popup_text_size",
-                    "value": "$float:indexer_popup_text_size"
+                    "value": "$float:ohos_id_text_size_headline7"
                 },
                 {
                     "name": "popup_selected_text_color",
