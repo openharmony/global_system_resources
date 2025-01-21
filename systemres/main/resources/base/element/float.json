@@ -3618,7 +3618,7 @@
         },
         {
             "name": "scroll_able_over_edge_following_ratio",
-            "value": "5.0"
+            "value": "1.848"
         },
         {
             "name": "scroll_able_spring_response",
@@ -3907,6 +3907,10 @@
         {
             "name": "arclist_velocity_scale",
             "value": "0.6"
+        },
+        {
+            "name": "scroll_able_over_edge_following_ratio_api_sixteen",
+            "value": "5.0"
         }
     ]
 }
