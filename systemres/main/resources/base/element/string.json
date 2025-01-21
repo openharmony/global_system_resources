@@ -1368,43 +1368,73 @@
         },
         {
             "name": "filter_accessibility_selected",
-            "value": "Selected"
+            "value": "Selected",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "filter_accessibility_unselected",
-            "value": "Not selected"
+            "value": "Not selected",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "filter_accessibility_expand",
-            "value": "Expand"
+            "value": "Expand",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "filter_accessibility_expanded",
-            "value": "Expanded"
+            "value": "Expanded",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "filter_accessibility_collapse",
-            "value": "Collapse"
+            "value": "Collapse",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "filter_accessibility_collapsed",
-            "value": "Collapsed"
+            "value": "Collapsed",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "filter_accessibility_filters",
-            "value": "Filter"
+            "value": "Filter",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "filter_accessibility_select_desc",
-            "value": "Double-tap to select"
+            "value": "Double-tap to select",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "filter_accessibility_unselect_desc",
-            "value": "Double-tap to deselect"
+            "value": "Double-tap to deselect",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "filter_accessibility_expand_desc",
-            "value": "Double-tap to expand"
+            "value": "Double-tap to expand",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_selected_item",
