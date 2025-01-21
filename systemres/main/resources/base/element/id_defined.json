@@ -26073,6 +26073,215 @@
             "type": "color",
             "name": "ohos_id_blur_style_component_ultra_thick_window_color_dark",
             "order": 5158
+        },
+        {
+            "type": "float",
+            "name": "account_main_title_font_size",
+            "order": 5159,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "account_sub_title_font_size",
+            "order": 5160,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "account_sub_head_height",
+            "order": 5161,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "account_button_max_size",
+            "order": 5162,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "account_list_item_height",
+            "order": 5163,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "account_list_corner_radius",
+            "order": 5164,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "account_list_item_corner_radius",
+            "order": 5165,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "account_page_padding",
+            "order": 5166,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "request_agent_download_file",
+            "order": 5167,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "container_modal_button_normal_baseboard",
+            "order": 5168,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "container_modal_button_hover_baseboard",
+            "order": 5169,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "textfield_inline_padding_left",
+            "order": 5170,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "textfield_inline_padding_right",
+            "order": 5171,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "save_button_description_save_all",
+            "order": 5172,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "menu_focus_directional_key_enable_default",
+            "order": 5173,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "notification_screen_recording_title",
+            "order": 5174,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "account_list_item_single_min_height",
+            "order": 5175,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "account_list_item_double_min_height",
+            "order": 5176,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_pixels_per_inch",
+            "order": 5177,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_tip_delay_time",
+            "order": 5178,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_window_top_left_screen",
+            "order": 5179,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_window_top_right_screen",
+            "order": 5180,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_window_waterfall_mode",
+            "order": 5181,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_window_top_screen",
+            "order": 5182,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_window_bottom_screen",
+            "order": 5183,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "titlebar_main_title_text_font_size",
+            "order": 5184,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "titlebar_main_title_text_font_size_min",
+            "order": 5185,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "titlebar_backbutton_margin_left",
+            "order": 5186,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "titlebar_menu_margin_right",
+            "order": 5187,
+            "flags": "private"
+        },
+        {
+            "type": "symbol",
+            "name": "earphone_16661_left",
+            "order": 5188
+        },
+        {
+            "type": "symbol",
+            "name": "earphone_16661_right",
+            "order": 5189
+        },
+        {
+            "type": "symbol",
+            "name": "earphone_16661",
+            "order": 5190
+        },
+        {
+            "type": "symbol",
+            "name": "earphone_16661_left_fill",
+            "order": 5191
+        },
+        {
+            "type": "symbol",
+            "name": "earphone_16661_right_fill",
+            "order": 5192
+        },
+        {
+            "type": "symbol",
+            "name": "earphone_16661_fill",
+            "order": 5193
+        },
+        {
+            "type": "symbol",
+            "name": "earphone_case_16661",
+            "order": 5194
         }
     ]
 }
