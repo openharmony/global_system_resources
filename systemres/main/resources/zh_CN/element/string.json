@@ -929,6 +929,26 @@
         {
             "name": "ohos_desc_custom_screen_capture",
             "value": "应用获取此权限后，可进行截屏、录屏等操作。当前仅平板、2in1设备应用可申请此权限"
+        },
+        {
+            "name": "general_window_top_left_screen",
+            "value": "窗口显示在上屏左侧"
+        },
+        {
+            "name": "general_window_top_right_screen",
+            "value": "窗口显示在上屏右侧"
+        },
+		{
+            "name": "general_window_waterfall_mode",
+            "value": "进入瀑布模式"
+        },
+        {
+            "name": "general_window_top_screen",
+            "value": "窗口显示在屏幕上方"
+        },
+        {
+            "name": "general_window_bottom_screen",
+            "value": "窗口显示在屏幕下方"
         }
     ]
 }
