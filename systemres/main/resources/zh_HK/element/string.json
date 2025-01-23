@@ -735,6 +735,26 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name": "open_beauty",
+            "value": "啟用美顏"
+        },
+        {
+            "name": "close_beauty",
+            "value": "停用美顏"
+        },
+        {
+            "name": "title_adjust_beauty",
+            "value": "視像美顏調節"
+        },
+        {
+            "name": "summary_closed_beauty",
+            "value": "已停用視像通話美顏。"
+        },
+        {
+            "name": "summary_opened_beauty",
+            "value": "已啟用美顏，視像通話時生效。"
         }
     ]
 }

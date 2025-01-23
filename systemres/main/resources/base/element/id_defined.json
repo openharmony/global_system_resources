@@ -29015,6 +29015,36 @@
             "type": "float",
             "name": "scroll_able_over_edge_following_ratio_api_sixteen",
             "order": 5766
+        },
+        {
+            "type": "string",
+            "name": "open_beauty",
+            "order": 5767
+        },
+        {
+            "type": "string",
+            "name": "close_beauty",
+            "order": 5768
+        },
+        {
+            "type": "string",
+            "name": "title_adjust_beauty",
+            "order": 5769
+        },
+        {
+            "type": "string",
+            "name": "summary_closed_beauty",
+            "order": 5770
+        },
+        {
+            "type": "string",
+            "name": "summary_opened_beauty",
+            "order": 5771
+        },
+        {
+            "type": "media",
+            "name": "ic_public_camera_beauty",
+            "order": 5772
         }
     ]
 }
