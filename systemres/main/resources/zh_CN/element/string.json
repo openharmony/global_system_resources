@@ -1322,123 +1322,213 @@
         },
         {
             "name": "gridobjectsortcomponent_accessibility_selected_item",
-            "value": "%s，已加入常驻内容区"
+            "value": "%s，已加入常驻内容区",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
-            "value": "单指双击并长按即可拖动排序"
+            "value": "单指双击并长按即可拖动排序",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
-            "value": "%s，移出常驻内容区"
+            "value": "%s，移出常驻内容区",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
-            "value": "%s，已托起"
+            "value": "%s，已托起",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
-            "value": "第%1$d行，第%2$d列"
+            "value": "第 %1$d 行，第 %2$d 列",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
-            "value": "已放置，第%1$d行，第%2$d列"
+            "value": "已放置，第 %1$d 行，第 %2$d 列",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
-            "value": "%1$s，已加入常驻内容区，第%2$d行，第%3$d列"
+            "value": "%1$s，已加入常驻内容区，第 %2$d 行，第 %3$d 列",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
-            "value": "已进入编辑态"
+            "value": "已进入编辑态",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_unselected_item",
-            "value": "%s，未加入常驻内容区"
+            "value": "%s，未加入常驻内容区",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
-            "value": "单指双击并长按即可进入编辑态"
+            "value": "单指双击并长按即可进入编辑态",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
-            "value": "单指双击即可加入，双击并长按即可进入编辑态"
+            "value": "单指双击即可加入，双击并长按即可进入编辑态",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_unselected_button",
-            "value": "%s，添加到常驻内容区"
+            "value": "%s，添加至常驻内容区",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_header_edit_button",
-            "value": "编辑"
+            "value": "编辑",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_deleted",
-            "value": "%s,已移出常驻内容区"
+            "value": "%s，已移出常驻内容区",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_illegal_area",
-            "value": "非放置区"
+            "value": "非放置区",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
-            "value": "单指双击即可加入"
+            "value": "单指双击即可加入",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_complete_button",
-            "value": "完成"
+            "value": "完成",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
-            "value": "常驻内容区，无内容，可点击下方内容进行添加"
-        },
-        {
-            "name": "treeview_accessibility_expand_node",
-            "value": "展开"
-        },
-        {
-            "name": "treeview_accessibility_fold_node",
-            "value": "收起"
-        },
-        {
-            "name": "treeview_accessibility_expanded_node",
-            "value": "已展开"
-        },
-        {
-            "name": "treeview_accessibility_folded_node",
-            "value": "已收起"
-        },
-        {
-            "name": "treeview_accessibility_node_desc",
-            "value": "单指双击即可选中，双击并长按即可拖动排序"
-        },
-        {
-            "name": "treeview_accessibility_select_node",
-            "value": "已选中，%s"
-        },
-        {
-            "name": "treeview_accessibility_lift_node",
-            "value": "%s,已托起"
-        },
-        {
-            "name": "treeview_accessibility_move_node_parent",
-            "value": "第%d项"
+            "value": "常驻内容区，无内容，可点击下方内容进行添加",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "treeview_accessibility_place_node_parent",
-            "value": "已放置，第%d项"
+            "value": "已放置，第 %d 项",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_folded_node",
+            "value": "已收起",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "treeview_accessibility_move_node_child",
-            "value": "托至%1$s的第%2$d项"
+            "value": "托至 %1$s 的第 %2$d 项",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "treeview_accessibility_place_node_child",
-            "value": "已放置%1$s的第%2$d项"
+            "name": "treeview_accessibility_expanded_node",
+            "value": "已展开",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_fold_node",
+            "value": "收起",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "treeview_accessibility_implement_node",
-            "value": "单指双击即可执行"
+            "value": "单指双击即可执行",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_select_node",
+            "value": "已选中，%s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_lift_node",
+            "value": "%s，已托起",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "单指双击即可选中，双击并长按即可拖动排序",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_move_node_parent",
+            "value": "第 %d 项",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_expand_node",
+            "value": "展开",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_place_node_child",
+            "value": "已放置 %1$s 的第 %2$d 项",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "selecttitlebar_accessibility_message_desc",

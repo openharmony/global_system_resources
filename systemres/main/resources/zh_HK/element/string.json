@@ -737,6 +737,216 @@
             }
         },
         {
+            "name": "gridobjectsortcomponent_accessibility_selected_item",
+            "value": "%s，已加入固定內容區",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value": "單指輕觸兩下並長按即可拖動排序",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value": "%s，移出固定內容區",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value": "%s，已托起",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value": "第 %1$d 列，第 %2$d 欄",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value": "已放置，第 %1$d 列，第 %2$d 欄",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value": "%1$s，已加入固定內容區，第 %2$d 列，第 %3$d 欄",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value": "已進入編輯狀態",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item",
+            "value": "%s，未加入固定內容區",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value": "單指輕觸兩下並長按即可進入編輯狀態",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value": "單指輕觸兩下即可加入，輕觸兩下並長按即可進入編輯狀態",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_button",
+            "value": "%s，新增至固定內容區",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
+            "value": "編輯",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_deleted",
+            "value": "%s，已移出常駐內容區",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_illegal_area",
+            "value": "非放置區",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value": "單指輕觸兩下即可加入",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_complete_button",
+            "value": "完成",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value": "固定內容區，無內容，可輕觸下方內容新增",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_place_node_parent",
+            "value": "已放置，第 %d 項",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_folded_node",
+            "value": "已收起",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_move_node_child",
+            "value": "托至%1$s 的第 %2$d 項",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_expanded_node",
+            "value": "已展開",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_fold_node",
+            "value": "收起",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_implement_node",
+            "value": "單指輕觸兩下即可執行",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_select_node",
+            "value": "已選擇，%s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_lift_node",
+            "value": "%s，已托起",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "單指輕觸兩下即可選取，輕觸兩下並長按即可拖動排序",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_move_node_parent",
+            "value": "第 %d 項",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_expand_node",
+            "value": "展開",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_place_node_child",
+            "value": "已放置至%1$s 的第 %2$d 項",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name": "open_beauty",
             "value": "啟用美顏"
         },

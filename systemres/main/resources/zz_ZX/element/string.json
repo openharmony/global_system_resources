@@ -391,6 +391,126 @@
         {
             "name":"filter_accessibility_expand_desc",
             "value":"[TS_1009668]_Double-tap to expand"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item",
+            "value": "[TS_1010008]_%s, added to the pinned content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value": "[TS_1010007]_Double tap and hold, then drag to sort"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value": "[TS_1010012]_%s, move out of the pinned content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value": "[TS_1010009]_%s, dragging"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value": "[TS_1010018]_Row %1$d, column %2$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value": "[TS_1010017]_Placed, row %1$d, column %2$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value": "[TS_1010020]_%1$s, added to the pinned content area, row %2$d, column %3$d"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value": "[TS_1010013]_Entered editing mode"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item",
+            "value": "[TS_1010011]_%s, not added to the pinned content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value": "[TS_1010019]_Double tap and hold to enter editing mode"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value": "[TS_1010016]_Double tap to add, double tap and hold to enter editing mode"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_button",
+            "value": "[TS_1010014]_%s, add to the pinned content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
+            "value": "[TS_1010021]_Edit"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_deleted",
+            "value": "[TS_1010015]_%s, moved out of the pinned content area"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_illegal_area",
+            "value": "[TS_1010010]_Cannot place here"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value": "[TS_1017993]_Double tap to add"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_complete_button",
+            "value": "[TS_1017992]_Done"
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value": "[TS_1017994]_Pinned content area, no content, tap items below to add them"
+        },
+        {
+            "name": "treeview_accessibility_place_node_parent",
+            "value": "[TS_1010348]_ Placed, item %d"
+        },
+        {
+            "name": "treeview_accessibility_folded_node",
+            "value": "[TS_1010349]_ Collapsed"
+        },
+        {
+            "name": "treeview_accessibility_move_node_child",
+            "value": "[TS_1010350]_Drag to item %2$d of %1$s"
+        },
+        {
+            "name": "treeview_accessibility_expanded_node",
+            "value": "[TS_1010351]_Expanded"
+        },
+        {
+            "name": "treeview_accessibility_fold_node",
+            "value": "[TS_1010352]_Collapse"
+        },
+        {
+            "name": "treeview_accessibility_implement_node",
+            "value": "[TS_1010353]_Double-tap to activatet"
+        },
+        {
+            "name": "treeview_accessibility_select_node",
+            "value": "[TS_1010354]_Selected %s"
+        },
+        {
+            "name": "treeview_accessibility_lift_node",
+            "value": "[TS_1010355]_ %s, dragging"
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "[TS_1010356]_Double tap to select, double tap and hold, then drag to change order"
+        },
+        {
+            "name": "treeview_accessibility_move_node_parent",
+            "value": "[TS_1010357]_ Item %d"
+        },
+        {
+            "name": "treeview_accessibility_expand_node",
+            "value": "[TS_1010358]_Expand"
+        },
+        {
+            "name": "treeview_accessibility_place_node_child",
+            "value": "[TS_1010359]_Placed, item %2$d of %1$s"
         }
     ]
 }

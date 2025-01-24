@@ -737,6 +737,216 @@
             }
         },
         {
+            "name": "gridobjectsortcomponent_accessibility_selected_item",
+            "value": "%s، دائىملىق مەزمۇن قاتارىغا قوشۇلدى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value": "بىر بارماقتا قوش بېسىپ قويۇپ بەرمەي سۆرەپ رەتلەشكە بولىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value": "%s، دائىملىق مەزمۇن قاتارىدىن چىقىرىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value": "%s، سۆرەلدى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value": "%1$d-قۇر، %2$d-رەت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value": "1$d-قۇر، %2$d-رەت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value": "%1$s، دائىملىق مەزمۇن قاتارىغا قوشۇلدى، %2$d-قۇر، %3$d-رەت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value": "تەھرىرلەش ھالىتىگە كىردى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item",
+            "value": "%s، دائىملىق مەزمۇن قاتارىغا قوشمىغان",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value": "بىر بارماقتا قوش بېسىپ تۇرسىڭىز تەھرىرلەش ھالىتىگە كىرىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value": "بىر بارماقتا قوش بېسىپ قوشىسىز. قوش بېسىپ تۇرسىڭىز تەھرىرلەش ھالىتىگە كىرىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_button",
+            "value": "%s، دائىملىق مەزمۇن قاتارىغا قوشۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
+            "value": "تەھرىرلەش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_deleted",
+            "value": "%s، دائىملىق مەزمۇن قاتارىدىن چىقىرىلدى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_illegal_area",
+            "value": "قويۇلىدىغان رايون ئەمەس",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value": "بىر بارماقتا قوش بېسىپ قوشىسىز",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_complete_button",
+            "value": "پۈتتى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value": "دائىملىق مەزمۇن رايونى، مەزمۇن يوق، تۆۋەندىن مەزمۇن چېكىپ قوشسىڭىز بولىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_place_node_parent",
+            "value": "قويۇلدى، %d-نەرسە",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_folded_node",
+            "value": "يىغىلدى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_move_node_child",
+            "value": "%1$s دىكى %2$d-ئورۇنغا سۆرەش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_expanded_node",
+            "value": "يېيىلدى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_fold_node",
+            "value": " يىغىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_implement_node",
+            "value": "قوش چەكسىڭىز يۈرگۈزۈلىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_select_node",
+            "value": " نۆۋەتتە %s تاللاندى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_lift_node",
+            "value": "‏%s سۆرەلدى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "بىر بارماقتا قوش چەكسىڭىز تاللىنىدۇ، قوش چېكىپ قويۇپ بەرمەي سۆرەپ رەتلەشكە بولىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_move_node_parent",
+            "value": "%d-نەرسە",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_expand_node",
+            "value": " يېيىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_place_node_child",
+            "value": "‏%1$s دىكى %2$d-ئورۇنغا قويۇلدى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name": "open_beauty",
             "value": "گۈزەللەشتۈرۈشنى ئېچىش"
         },

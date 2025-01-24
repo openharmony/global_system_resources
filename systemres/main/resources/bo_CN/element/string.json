@@ -737,6 +737,216 @@
             }
         },
         {
+            "name": "gridobjectsortcomponent_accessibility_selected_item",
+            "value": "%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་ཞུགས་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་རྗེས་ཡུན་རིང་མནན་ཚེ་དྲུད་དེ་གོ་རིམ་བསྒྲིག་ཆོག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value": "%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་ལས་ཕྱིར་འབུད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value": "%s དྲུད་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value": "འཕྲེད་སྟར་ཨང་ %1$d གཞུང་སྟར་ཨང་ %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value": "འཕྲེད་སྟར་ཨང་ %1$d གཞུང་སྟར་ཨང་ %2$d ལ་བཞག་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value": "%1$s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་ཞུགས་ཟིན། འཕྲེད་སྟར་ཨང་ %2$d གཞུང་སྟར་ཨང་ %3$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value": "རྩོམ་སྒྲིག་གི་རྣམ་པར་འཛུལ་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_item",
+            "value": "%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་ཞུགས་མེད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ཡུན་རིང་མནན་ཚེ་རྩོམ་སྒྲིག་རྣམ་པར་འཛུལ་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ཞུགས་ཐུབ། ཉིས་རྡེབ་བྱས་ཏེ་ཡུན་རིང་མནན་ཚེ་རྩོམ་སྒྲིག་རྣམ་པར་འཛུལ་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_unselected_button",
+            "value": "%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་སྣོན་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
+            "value": "རྩོམ་སྒྲིག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_deleted",
+            "value": "%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་ལས་ཕྱིར་བུད་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_illegal_area",
+            "value": "འཇོག་ཁུལ་མིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ཞུགས་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_complete_button",
+            "value": "ལེགས་འགྲུབ་བྱུང་།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value": "རྒྱུན་སྡོད་ནང་དོན་ཁུལ། ནང་དོན་མེད། གཤམ་གྱི་ནང་དོན་ལ་བརྡབས་ནས་བསྣན་ཆོག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_place_node_parent",
+            "value": "བཞག་ཟིན། རྣམ་གྲངས་ཨང་ %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_folded_node",
+            "value": "སྡུད་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_move_node_child",
+            "value": "༼%1$s༽ཡི་རྣམ་གྲངས་ཨང་ %2$d ལ་དྲུད་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_expanded_node",
+            "value": "རྒྱ་སྐྱེད་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_fold_node",
+            "value": "སྡུད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_implement_node",
+            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ནས་མུ་མཐུད་ལག་ལེན་བསྟར་ཆོག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_select_node",
+            "value": "%s བདམས་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_lift_node",
+            "value": "%s དྲུད་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་འདེམས་ཐུབ། ཉིས་རྡེབ་བྱས་རྗེས་ཡུན་རིང་མནན་ཚེ་དྲུད་དེ་གོ་རིམ་སྒྲིག་ཆོག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_move_node_parent",
+            "value": "རྣམ་གྲངས་ཨང་ %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_expand_node",
+            "value": "འགྲེམ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "treeview_accessibility_place_node_child",
+            "value": "༼%1$s༽ཡི་རྣམ་གྲངས་ཨང་ %2$d ལ་བཞག་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name": "open_beauty",
             "value": "མཛེས་བཟོ་ཁ་འབྱེད།"
         },
