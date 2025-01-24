@@ -2079,7 +2079,7 @@
             "value": [
                 {
                     "name": "radius",
-                    "value": "$float:ohos_id_corner_radius_dialog"
+                    "value": "$float:corner_radius_level12"
                 },
                 {
                     "name": "dialog_container_radius",
@@ -2087,7 +2087,7 @@
                 },
                 {
                     "name": "bg_color",
-                    "value": "$color:ohos_id_color_dialog_bg"
+                    "value": "$color:comp_background_primary"
                 },
                 {
                     "name": "bg_color_version_twelve",
@@ -2119,15 +2119,15 @@
                 },
                 {
                     "name": "title_text_color",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "subtitle_text_color",
-                    "value": "$color:ohos_id_color_text_secondary"
+                    "value": "$color:font_secondary"
                 },
                 {
                     "name": "title_text_font_size",
-                    "value": "$float:ohos_id_text_size_dialog_tittle"
+                    "value": "$float:Title_S"
                 },
                 {
                     "name": "title_text_font_size_min",
@@ -2139,15 +2139,15 @@
                 },
                 {
                     "name": "content_text_color",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "content_text_font_size",
-                    "value": "$float:ohos_id_text_size_body1"
+                    "value": "$float:Body_L"
                 },
                 {
                     "name": "button_bg_color",
-                    "value": "$color:ohos_id_color_dialog_bg"
+                    "value": "$color:comp_background_primary"
                 },
                 {
                     "name": "button_bg_color_clicked",
@@ -2167,7 +2167,7 @@
                 },
                 {
                     "name": "button_text_font_size",
-                    "value": "$float:ohos_id_text_size_button1"
+                    "value": "$float:Body_L"
                 },
                 {
                     "name": "dialog_divider_length",
@@ -2183,19 +2183,19 @@
                 },
                 {
                     "name": "default_dialog_margin_bottom",
-                    "value": "$float:ohos_id_dialog_margin_bottom"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "button_default_font_color",
-                    "value": "$color:ohos_id_color_activated"
+                    "value": "$color:font_emphasize"
                 },
                 {
                     "name": "button_bg_highlight_color",
-                    "value": "$color:ohos_id_color_activated"
+                    "value": "$color:comp_background_emphasize"
                 },
                 {
                     "name": "subtitle_text_font_size",
-                    "value": "$float:ohos_id_text_size_body2"
+                    "value": "$float:Body_M"
                 },
                 {
                     "name": "attribute_alpha_content_primary",
@@ -2211,31 +2211,31 @@
                 },
                 {
                     "name": "button_padding_bottom",
-                    "value": "$float:ohos_id_dialog_button_padding_bottom"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "single_button_padding_start",
-                    "value": "$float:ohos_id_dialog_single_button_padding_start"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "single_button_padding_end",
-                    "value": "$float:ohos_id_dialog_single_button_padding_end"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "muti_button_padding_start",
-                    "value": "$float:ohos_id_dialog_muti_button_padding_start"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "muti_button_padding_end",
-                    "value": "$float:ohos_id_dialog_muti_button_padding_end"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "muti_button_padding_horizontal",
-                    "value": "$float:ohos_id_dialog_muti_button_padding_horizontal"
+                    "value": "$float:padding_level4"
                 },
                 {
                     "name": "muti_button_padding_vertical",
-                    "value": "$float:ohos_id_dialog_muti_button_padding_vertical"
+                    "value": "$float:padding_level2"
                 },
                 {
                     "name": "button_default_bg_color",
@@ -2255,7 +2255,7 @@
                 },
                 {
                     "name": "dialog_button_spacing_vertical",
-                    "value": "$float:ohos_id_dialog_padding_mid"
+                    "value": "$float:padding_level4"
                 },
                 {
                     "name": "dialog_frame_start",
@@ -2311,71 +2311,71 @@
                 },
                 {
                     "name": "dialog_divider_padding_horizon",
-                    "value": "$float:ohos_id_dialog_divider_padding_horizon"
+                    "value": "$float:padding_level2"
                 },
                 {
                     "name": "dialog_divider_padding_vertical",
-                    "value": "$float:ohos_id_dialog_divider_padding_vertical"
+                    "value": "$float:padding_level3"
                 },
                 {
                     "name": "dialog_dimension_bottom",
-                    "value": "$float:ohos_id_dialog_margin_bottom"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "dialog_dimension_start",
-                    "value": "$float:ohos_id_dialog_margin_start"
+                    "value": "$float:padding_level6"
                 },
                 {
                     "name": "dialog_dimension_end",
-                    "value": "$float:ohos_id_dialog_margin_end"
+                    "value": "$float:padding_level6"
                 },
                 {
                     "name": "dialog_padding_actions_left",
-                    "value": "$float:ohos_id_dialog_padding_actions_left"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "dialog_padding_actions_top",
-                    "value": "$float:ohos_id_dialog_padding_actions_top"
+                    "value": "$float:padding_level4"
                 },
                 {
                     "name": "dialog_padding_actions_right",
-                    "value": "$float:ohos_id_dialog_padding_actions_right"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "dialog_padding_actions_bottom",
-                    "value": "$float:ohos_id_dialog_padding_actions_bottom"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "dialog_padding_left",
-                    "value": "$float:ohos_id_dialog_padding_left_adjust"
+                    "value": "$float:padding_level12"
                 },
                 {
                     "name": "dialog_padding_top",
-                    "value": "$float:ohos_id_dialog_padding_left_adjust"
+                    "value": "$float:padding_level12"
                 },
                 {
                     "name": "dialog_padding_right",
-                    "value": "$float:ohos_id_dialog_padding_left_adjust"
+                    "value": "$float:padding_level12"
                 },
                 {
                     "name": "dialog_padding_bottom",
-                    "value": "$float:ohos_id_dialog_padding_left_adjust"
+                    "value": "$float:padding_level12"
                 },
                 {
                     "name": "dialog_padding_left_adjust",
-                    "value": "$float:ohos_id_dialog_padding_left_adjust"
+                    "value": "$float:padding_level12"
                 },
                 {
                     "name": "dialog_padding_top_adjust",
-                    "value": "$float:ohos_id_dialog_padding_left_adjust"
+                    "value": "$float:padding_level12"
                 },
                 {
                     "name": "dialog_padding_right_adjust",
-                    "value": "$float:ohos_id_dialog_padding_left_adjust"
+                    "value": "$float:padding_level12"
                 },
                 {
                     "name": "dialog_padding_bottom_adjust",
-                    "value": "$float:ohos_id_dialog_padding_bottom_adjust"
+                    "value": "$float:padding_level0"
                 },
                 {
                     "name": "button_color_clicked",
@@ -2383,7 +2383,7 @@
                 },
                 {
                     "name": "button_title_padding_vertical",
-                    "value": "$float:ohos_id_button_title_padding_vertical"
+                    "value": "$float:padding_level7"
                 },
                 {
                     "name": "dialog_title_text_max_lines",
@@ -2399,7 +2399,7 @@
                 },
                 {
                     "name": "dialog_buttonwithcontent_padding",
-                    "value": "$float:ohos_id_dialog_buttonwithcontent_padding"
+                    "value": "$float:padding_level4"
                 },
                 {
                     "name": "dialog_alignment",
@@ -3385,7 +3385,7 @@
                 },
                 {
                     "name": "text_color",
-                    "value": "$color:ohos_id_color_text_primary_contrary"
+                    "value": "$color:comp_background_primary_contrary"
                 },
                 {
                     "name": "popup_default_bg_color",
@@ -3425,7 +3425,7 @@
                 },
                 {
                     "name": "popup_button_text_font_size",
-                    "value": "$float:ohos_id_text_size_button2"
+                    "value": "$float:Body_M"
                 },
                 {
                     "name": "popup_border_radius",
@@ -3489,7 +3489,7 @@
                 },
                 {
                     "name": "text_primary_activated_color",
-                    "value": "$color:ohos_id_color_text_primary_activated"
+                    "value": "$color:font_emphasize"
                 },
                 {
                     "name": "text_secondary_color",
@@ -5485,7 +5485,7 @@
                 },
                 {
                     "name": "text_color_blur_style",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "toast_background_blur_style",
@@ -5533,7 +5533,7 @@
                 },
                 {
                     "name": "toast_margin",
-                    "value": "$float:ohos_id_toast_margin"
+                    "value": "$float:padding_level0"
                 },
                 {
                     "name": "toast_text_min_font_size",
@@ -5868,7 +5868,7 @@
                 },
                 {
                     "name": "line_color",
-                    "value": "$color:ohos_id_color_list_separator"
+                    "value": "$color:comp_divider"
                 },
                 {
                     "name": "text_font_size",
@@ -5876,7 +5876,7 @@
                 },
                 {
                     "name": "small_text_font_size",
-                    "value": "$float:ohos_id_text_size_body2"
+                    "value": "$float:Body_M"
                 },
                 {
                     "name": "menu_back_blur_with_color",
@@ -5936,7 +5936,7 @@
                 },
                 {
                     "name": "menu_border_radius",
-                    "value": "$float:ohos_id_corner_radius_card"
+                    "value": "$float:corner_radius_level12"
                 },
                 {
                     "name": "inner_border_radius",
@@ -5944,7 +5944,7 @@
                 },
                 {
                     "name": "menu_icon_color",
-                    "value": "$color:ohos_id_color_primary"
+                    "value": "$color:icon_primary"
                 },
                 {
                     "name": "select_icon_color",
@@ -5976,15 +5976,15 @@
                 },
                 {
                     "name": "menu_text_secondary_alpha",
-                    "value": "$float:ohos_id_alpha_content_secondary"
+                    "value": "$float:alpha_secondary"
                 },
                 {
                     "name": "menu_icon_padding",
-                    "value": "$float:ohos_id_text_paragraph_margin_m"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "icon_content_padding",
-                    "value": "$float:ohos_id_text_paragraph_margin_s"
+                    "value": "$float:padding_level4"
                 },
                 {
                     "name": "divider_padding_vertical",
@@ -6012,7 +6012,7 @@
                 },
                 {
                     "name": "content_spinner_padding",
-                    "value": "8.0vp"
+                    "value": "$float:padding_level4"
                 },
                 {
                     "name": "menu_animation_offset",
@@ -6072,23 +6072,23 @@
                 },
                 {
                     "name": "default_padding_start",
-                    "value": "$float:ohos_id_default_padding_start"
+                    "value": "$float:padding_level6"
                 },
                 {
                     "name": "default_padding_end",
-                    "value": "$float:ohos_id_default_padding_end"
+                    "value": "$float:padding_level6"
                 },
                 {
                     "name": "default_padding_top",
-                    "value": "$float:ohos_id_default_padding_top"
+                    "value": "$float:padding_level6"
                 },
                 {
                     "name": "default_padding_bottom_fixed",
-                    "value": "$float:ohos_id_default_padding_bottom_fixed"
+                    "value": "$float:padding_level12"
                 },
                 {
                     "name": "bg_color_selected_alpha",
-                    "value": "$float:ohos_id_alpha_highlight_bg"
+                    "value": "$float:alpha_fourth"
                 },
                 {
                     "name": "preview_menu_mask_color",
@@ -6256,11 +6256,11 @@
                 },
                 {
                     "name": "menu_large_margin",
-                    "value": "$float:ohos_id_elements_margin_horizontal_l"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "menu_medium_margin",
-                    "value": "$float:ohos_id_elements_margin_horizontal_m"
+                    "value": "$float:padding_level4"
                 },
                 {
                     "name": "menu_item_child_min_height",

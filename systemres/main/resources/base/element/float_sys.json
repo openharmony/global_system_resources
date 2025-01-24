@@ -574,11 +574,11 @@
         },
         {
             "name": "popup_horizontal_padding",
-            "value": "$float:ohos_id_elements_margin_horizontal_l"
+            "value": "$float:padding_level8"
         },
         {
             "name": "popup_vertical_padding",
-            "value": "$float:ohos_id_elements_margin_vertical_m"
+            "value": "$float:padding_level4"
         },
         {
             "name": "popup_text_font_size",
@@ -794,7 +794,7 @@
         },
         {
             "name": "toast_text_font_size",
-            "value": "$float:ohos_id_text_size_body2"
+            "value": "$float:Body_M"
         },
         {
             "name": "toast_border_radius",
@@ -806,7 +806,7 @@
         },
         {
             "name": "toast_padding_vertical",
-            "value": "$float:ohos_id_toast_padding_vertical"
+            "value": "$float:padding_level4"
         },
         {
             "name": "toast_bottom",
@@ -1238,19 +1238,19 @@
         },
         {
             "name": "select_normal_text_primary_alpha",
-            "value": "$float:ohos_id_alpha_content_primary"
+            "value": "$float:alpha_primary"
         },
         {
             "name": "select_disabled_color_alpha",
-            "value": "$float:ohos_id_alpha_disabled"
+            "value": "$float:interactive_disable"
         },
         {
             "name": "menu_normal_text_size",
-            "value": "$float:ohos_id_text_size_body1"
+            "value": "$float:Body_L"
         },
         {
             "name": "select_normal_text_font_size",
-            "value": "$float:ohos_id_text_size_body1"
+            "value": "$float:Body_L"
         },
         {
             "name": "select_option_border_selected_width",
@@ -1270,7 +1270,7 @@
         },
         {
             "name": "select_normal_content_margin",
-            "value": "8.0vp"
+            "value": "$float:padding_level4"
         },
         {
             "name": "select_left_right_margin",
@@ -1278,7 +1278,7 @@
         },
         {
             "name": "menu_normal_out_padding",
-            "value": "4.0vp"
+            "value": "$float:padding_level2"
         },
         {
             "name": "option_normal_width",
@@ -1286,7 +1286,7 @@
         },
         {
             "name": "inner_border_radius",
-            "value": "$float:ohos_id_corner_radius_default_m"
+            "value": "$float:corner_radius_level9"
         },
         {
             "name": "menu_text_tertiary_alpha",
