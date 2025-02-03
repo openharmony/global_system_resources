@@ -29045,6 +29045,31 @@
             "type": "media",
             "name": "ic_public_camera_beauty",
             "order": 5772
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_track_thickness",
+            "order": 5773
+        },
+        {
+            "type": "float",
+            "name": "slider_inset_track_thickness",
+            "order": 5774
+        },
+        {
+            "type": "float",
+            "name": "slider_none_track_thickness",
+            "order": 5775
+        },
+        {
+            "type": "float",
+            "name": "slider_inset_hot_block_shadow_width",
+            "order": 5776
+        },
+        {
+            "type": "float",
+            "name": "slider_inset_block_size",
+            "order": 5777
         }
     ]
 }
