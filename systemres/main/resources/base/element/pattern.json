@@ -2697,6 +2697,22 @@
                     "value": "$float:ohos_id_alpha_disabled"
                 },
                 {
+                    "name": "toolbar_item_icon_color_api_sixteen",
+                    "value": "$color:icon_tertiary"
+                },
+                {
+                    "name": "toolbar_item_active_icon_color_api_sixteen",
+                    "value": "$color:icon_emphasize"
+                },
+                {
+                    "name": "toolbar_item_active_text_color_api_sixteen",
+                    "value": "$color:font_emphasize"
+                },
+                {
+                    "name": "toolbar_item_bg_button_border_radius_api_sixteen",
+                    "value": "$float:corner_radius_level6"
+                },
+                {
                     "name": "toolbar_bg_color",
                     "value": "$color:ohos_id_color_toolbar_sub_bg"
                 },
