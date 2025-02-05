@@ -4968,6 +4968,15 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
+            {
+                "name": "ohos.permission.ACCESS_FUSION_AWARENESS_DATA",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
             {   
                 "name": "ohos.permission.SET_PAC_URL",
                 "grantMode": "system_grant",
