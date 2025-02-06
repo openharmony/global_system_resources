@@ -1535,6 +1535,18 @@
         {
             "name": "app_theme_focus_navigation_always_handle_click",
             "value": "1.0"
+        },
+        {
+            "name": "slider_outset_track_thickness",
+            "value": "4.0vp"
+        },
+        {
+            "name": "slider_inset_track_thickness",
+            "value": "20.0vp"
+        },
+        {
+            "name": "slider_none_track_thickness",
+            "value": "4.0vp"
         }
     ]
 }
