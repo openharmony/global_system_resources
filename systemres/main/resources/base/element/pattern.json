@@ -2737,6 +2737,22 @@
                     "value": "$color:ohos_id_color_toolbar_text_actived"
                 },
                 {
+                    "name": "toolbar_item_focus_border_size_api_sixteen",
+                    "value": "$float:outline_extra_larger"
+                },
+                {
+                    "name": "toolbar_item_focus_color_api_sixteen",
+                    "value": "$color:interactive_focus"
+                },
+                {
+                    "name": "toolbar_item_font_size_api_sixteen",
+                    "value": "$float:Caption_M"
+                },
+                {
+                    "name": "toolbar_item_font_color_api_sixteen",
+                    "value": "$color:font_tertiary"
+                },
+                {
                     "name": "divider_shadow_enable",
                     "value": "$string:ohos_id_divider_shadow_enable_default"
                 },
