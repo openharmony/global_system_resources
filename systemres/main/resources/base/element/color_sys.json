@@ -482,7 +482,7 @@
         },
         {
             "name": "search_icon_color",
-            "value": "$color:ohos_id_color_secondary"
+            "value": "$color:font_secondary"
         },
         {
             "name": "search_symbol_icon_color",
@@ -510,19 +510,19 @@
         },
         {
             "name": "textfield_bg_color",
-            "value": "$color:ohos_id_color_text_field_sub_bg"
+            "value": "$color:comp_background_tertiary"
         },
         {
             "name": "search_text_color",
-            "value": "$color:ohos_id_color_text_primary"
+            "value": "$color:font_primary"
         },
         {
             "name": "textfield_cursor_color",
-            "value": "$color:ohos_id_color_text_primary_activated"
+            "value": "$color:font_emphasize"
         },
         {
             "name": "search_placeholder_color",
-            "value": "$color:ohos_id_color_text_secondary"
+            "value": "$color:font_secondary"
         },
         {
             "name": "search_border_color",
