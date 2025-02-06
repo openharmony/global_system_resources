@@ -361,6 +361,26 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"general_window_bottom_screen",
+            "value":"視窗顯示在屏幕下方"
+        },
+        {
+            "name":"general_window_top_screen",
+            "value":"視窗顯示在屏幕上方"
+        },
+        {
+            "name":"general_window_top_right_screen",
+            "value":"視窗顯示在上屏幕右側"
+        },
+        {
+            "name":"general_window_top_left_screen",
+            "value":"視窗顯示在上屏幕左側"
+        },
+        {
+            "name":"general_window_waterfall_mode",
+            "value":"進入瀑布模式"
         }
     ]
 }
