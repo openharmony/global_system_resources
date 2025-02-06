@@ -95,6 +95,70 @@
         {
             "name": "window_shadow_config_s",
             "value": "$float:ohos_id_floating_shadow_s"
+        },
+        {
+            "name": "checkbox_hotzone_padding",
+            "value": "14.0vp"
+        },
+        {
+            "name": "radio_hotzone_padding",
+            "value": "14.0vp"
+        },
+        {
+            "name": "slider_outset_track_thickness",
+            "value": "4.0vp"
+        },
+        {
+            "name": "slider_outset_block_hot_region_size",
+            "value": "40.0vp"
+        },
+        {
+            "name": "slider_outset_hot_block_shadow_width",
+            "value": "$float:ohos_id_slider_outset_hot_block_shadow_width"
+        },
+        {
+            "name": "slider_outset_block_size",
+            "value": "$float:ohos_id_outset_block_size"
+        },
+        {
+            "name": "slider_inset_track_thickness",
+            "value": "20.0vp"
+        },
+        {
+            "name": "slider_inset_block_hot_region_size",
+            "value": "32.0vp"
+        },
+        {
+            "name": "slider_inset_hot_block_shadow_width",
+            "value": "6.0vp"
+        },
+        {
+            "name": "slider_inset_block_size",
+            "value": "12.0vp"
+        },
+        {
+            "name": "slider_none_track_thickness",
+            "value": "4.0vp"
+        },
+        {
+            "name": "slider_none_block_hot_region_size",
+            "value": "40.0vp"
+        },
+        {
+            "name": "switch_hotzone_horizontal_padding",
+            "value": "6.0vp"
+        },
+        {
+            "name": "switch_hotzone_vertical_padding",
+            "value": "14.0vp"
+        },
+        {
+            "name": "switch_hotzone_horizontal_size",
+            "value": "6.0vp"
+        },
+        {
+            "name": "switch_hotzone_vertical_size",
+            "value": "14.0vp"
         }
     ]
 }
