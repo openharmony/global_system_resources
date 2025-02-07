@@ -3911,6 +3911,14 @@
         {
             "name": "scroll_able_over_edge_following_ratio_api_sixteen",
             "value": "5.0"
-        }
+        },
+        {
+            "name": "menu_item_hor_interval",
+            "value": "$float:padding_level6"
+        },
+        {
+            "name": "menu_padding_interval",
+            "value": "$float:padding_level2"
+		}
     ]
 }
