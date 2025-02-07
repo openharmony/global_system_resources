@@ -29080,6 +29080,26 @@
             "type": "color",
             "name": "arc_scroll_bar_background_color",
             "order": 5779
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_moveto_t",
+            "order": 5780
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_moveto_b",
+            "order": 5781
+        },
+        {
+            "type": "string",
+            "name": "general_window_moveto_top_screen",
+            "order": 5782
+        },
+        {
+            "type": "string",
+            "name": "general_window_moveto_bottom_screen",
+            "order": 5783
         }
     ]
 }
