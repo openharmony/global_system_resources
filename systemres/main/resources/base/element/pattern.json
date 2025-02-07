@@ -4026,6 +4026,14 @@
                 {
                     "name": "scroll_bar_active_max_offset_angle",
                     "value": "$float:scroll_bar_active_max_offset_angle"
+                },
+                {
+                    "name": "arc_scroll_bar_foreground_opacity",
+                    "value": "$float:arc_scroll_bar_foreground_opacity"
+                },
+                {
+                    "name": "arc_scroll_bar_background_color",
+                    "value": "$color:arc_scroll_bar_background_color"
                 }
             ]
         },

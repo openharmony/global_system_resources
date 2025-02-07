@@ -29070,6 +29070,16 @@
             "type": "float",
             "name": "slider_inset_block_size",
             "order": 5777
+        },
+        {
+            "type": "float",
+            "name": "arc_scroll_bar_foreground_opacity",
+            "order": 5778
+        },
+        {
+            "type": "color",
+            "name": "arc_scroll_bar_background_color",
+            "order": 5779
         }
     ]
 }
