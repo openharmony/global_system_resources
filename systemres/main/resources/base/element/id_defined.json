@@ -30115,6 +30115,26 @@
             "type": "symbol",
             "name": "full_screen",
             "order": 5986
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_moveto_t",
+            "order": 5987
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_moveto_b",
+            "order": 5988
+        },
+        {
+            "type": "string",
+            "name": "general_window_moveto_top_screen",
+            "order": 5989
+        },
+        {
+            "type": "string",
+            "name": "general_window_moveto_bottom_screen",
+            "order": 5990
         }
     ]
 }
