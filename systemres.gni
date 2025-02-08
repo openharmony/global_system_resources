@@ -155,12 +155,6 @@ sys_fonts_list = [
     alias_name = "HMSymbolVF.ttf"
   },
   {
-    font_name = "hm_symbol_config_watch"
-    font_path = "fonts/hm_symbol_config_watch.json"
-    support_devices = [ "watch" ]
-    alias_name = "hm_symbol_config.json"
-  },
-  {
     font_name = "hm_symbol_config_next_watch"
     font_path = "fonts/hm_symbol_config_next_watch.json"
     support_devices = [ "watch" ]
