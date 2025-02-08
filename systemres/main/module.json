@@ -2063,6 +2063,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SYNC_ASSET_BETWEEN_TRUSTED_ACCOUNT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.WRITE_IMAGEVIDEO",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",
