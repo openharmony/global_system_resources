@@ -7239,6 +7239,10 @@
                 {
                     "name": "filter_accessibility_collapsed",
                     "value": "$string:filter_accessibility_collapsed"
+                },
+                {
+                    "name": "selected_background_color_arc",
+                    "value": "$color:ohos_id_color_text_highlight_bg_arc"
                 }
             ]
         },
