@@ -4471,8 +4471,24 @@
                     "value": "$float:swiper_slow_velocity_threshold"
                 },
                 {
+                    "name": "swiper_medium_velocity_threshold",
+                    "value": "$float:swiper_medium_velocity_threshold"
+                },
+                {
+                    "name": "swiper_fast_velocity_threshold",
+                    "value": "$float:swiper_fast_velocity_threshold"
+                },
+                {
+                    "name": "swiper_display_control_ratio_very_slow",
+                    "value": "$float:swiper_display_control_ratio_very_slow"
+                },
+                {
                     "name": "swiper_display_control_ratio_slow",
                     "value": "$float:swiper_display_control_ratio_slow"
+                },
+                {
+                    "name": "swiper_display_control_ratio_medium",
+                    "value": "$float:swiper_display_control_ratio_medium"
                 },
                 {
                     "name": "swiper_display_control_ratio_fast",

@@ -10,11 +10,27 @@
         },
         {
             "name": "swiper_slow_velocity_threshold",
-            "value": "3.38"
+            "value": "0.68"
+        },
+        {
+            "name": "swiper_medium_velocity_threshold",
+            "value": "2.03"
+        },
+        {
+            "name": "swiper_fast_velocity_threshold",
+            "value": "5.41"
+        },
+        {
+            "name": "swiper_display_control_ratio_very_slow",
+            "value": "3.62"
         },
         {
             "name": "swiper_display_control_ratio_slow",
-            "value": "3.12"
+            "value": "2.59"
+        },
+        {
+            "name": "swiper_display_control_ratio_medium",
+            "value": "3.48"
         },
         {
             "name": "swiper_display_control_ratio_fast",

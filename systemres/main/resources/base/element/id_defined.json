@@ -30140,6 +30140,26 @@
             "type": "color",
             "name": "ohos_id_color_text_highlight_bg_arc",
             "order": 5991
+        },
+        {
+            "type": "float",
+            "name": "swiper_medium_velocity_threshold",
+            "order": 5992
+        },
+        {
+            "type": "float",
+            "name": "swiper_fast_velocity_threshold",
+            "order": 5993
+        },
+        {
+            "type": "float",
+            "name": "swiper_display_control_ratio_very_slow",
+            "order": 5994
+        },
+        {
+            "type": "float",
+            "name": "swiper_display_control_ratio_medium",
+            "order": 5995
         }
     ]
 }
