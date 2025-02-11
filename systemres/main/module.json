@@ -409,6 +409,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.START_DESKTOP_UI_COMPONENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.AGENT_REQUIRE_FORM",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
