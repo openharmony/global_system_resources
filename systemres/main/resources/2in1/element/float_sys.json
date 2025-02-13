@@ -1,0 +1,32 @@
+{
+    "float": [
+        {
+            "name": "window_shadow_config",
+            "value": "$float:ohos_id_floating_shadow_m"
+        },
+        {
+            "name": "window_outline_width",
+            "value": "$float:outline_small"
+        },
+        {
+            "name": "window_border_width",
+            "value": "$float:border_small"
+        } ,
+        {
+            "name": "window_radius_small",
+            "value": "$float:corner_radius_level8"
+        },
+        {
+            "name": "window_close_icon_width",
+            "value": "24.0vp"
+        },
+        {
+            "name": "sheet_title_text_horizontal_margin",
+            "value": "$float:padding_level12"
+        },
+        {
+            "name": "window_close_radius",
+            "value": "$float:corner_radius_level4"
+        } 
+    ]
+  }
