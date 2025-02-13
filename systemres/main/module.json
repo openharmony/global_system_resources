@@ -4459,6 +4459,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.PRELOAD_FILE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.STORAGE_MANAGER_CRYPT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
