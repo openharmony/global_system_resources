@@ -4639,6 +4639,26 @@
                 {
                     "name": "text_overlay_menu_button_padding_bottom",
                     "value": "$float:ohos_id_text_overlay_menu_button_padding_bottom"
+                },
+                {
+                    "name": "text_overlay_menu_show_shortcut",
+                    "value": "$float:text_overlay_menu_show_shortcut"
+                },
+                {
+                    "name": "text_overlay_menu_copy",
+                    "value": "$string:text_overlay_menu_copy"
+                },
+                {
+                    "name": "text_overlay_menu_paste",
+                    "value": "$string:text_overlay_menu_paste"
+                },
+                {
+                    "name": "text_overlay_menu_select_all",
+                    "value": "$string:text_overlay_menu_select_all"
+                },
+                {
+                    "name": "text_overlay_menu_cut",
+                    "value": "$string:text_overlay_menu_cut"
                 }
             ]
         },
