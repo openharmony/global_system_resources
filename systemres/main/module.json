@@ -4468,6 +4468,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SET_ABILITY_INSTANCE_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.STORAGE_MANAGER_CRYPT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
