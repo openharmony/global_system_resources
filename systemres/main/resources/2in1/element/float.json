@@ -31,6 +31,14 @@
         {
             "name": "ohos_id_blur_style_component_ultra_thick_window_radius_dark",
             "value": "80.0"
+        },
+        {
+            "name": "button_container_border_radius_small",
+            "value": "$float:corner_radius_level4"
+        },
+        {
+            "name": "button_container_border_radius_normal",
+            "value": "$float:corner_radius_level4"
         }
     ]
 }

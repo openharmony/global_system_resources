@@ -266,6 +266,14 @@
                 {
                     "name": "button_aging_text_max_lines",
                     "value": "$float:button_aging_text_max_lines"
+                },
+                {
+                    "name": "button_border_radius_small",
+                    "value": "$float:button_container_border_radius_small"
+                },
+                {
+                    "name": "button_border_radius_normal",
+                    "value": "$float:button_container_border_radius_normal"
                 }
             ]
         },
