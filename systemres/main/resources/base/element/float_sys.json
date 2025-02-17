@@ -271,6 +271,14 @@
         {
             "name": "inner_border_radius_token",
             "value": "$float:corner_radius_level8"
-        }  
+        },
+        {
+            "name": "button_container_border_radius_small",
+            "value": "$float:corner_radius_level7"
+        },
+        {
+            "name": "button_container_border_radius_normal",
+            "value": "$float:corner_radius_level10"
+        }
     ]
-  }
+}
