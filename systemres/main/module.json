@@ -4499,6 +4499,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.EXEMPT_CAPTURE_SCREEN_AUTHORIZE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
