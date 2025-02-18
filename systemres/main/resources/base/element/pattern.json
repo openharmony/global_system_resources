@@ -6801,7 +6801,7 @@
             "value": [
                 {
                     "name": "sheet_radius",
-                    "value": "$float:ohos_id_corner_radius_panel"
+                    "value": "$float:window_radius_small"
                 },
                 {
                     "name": "title_text_font_size",
@@ -6849,7 +6849,7 @@
                 },
                 {
                     "name": "close_icon_color",
-                    "value": "$color:ohos_id_color_button_normal"
+                    "value": "$color:button_background_color_transparent"
                 },
                 {
                     "name": "close_icon_image_color",
@@ -6870,6 +6870,38 @@
                 {
                     "name": "close_icon_symbol_color",
                     "value": "$color:icon_primary"
+                },
+                {
+                    "name": "sheet_shadow_config",
+                    "value": "$float:window_shadow_config"
+                },
+                {
+                    "name": "sheet_outline_border_width",
+                    "value": "$float:window_outline_width"
+                },
+                {
+                    "name": "sheet_inner_border_width",
+                    "value": "$float:window_border_width"
+                },
+                {
+                    "name": "sheet_outline_border_color",
+                    "value": "$color:window_outline_color"
+                },
+                {
+                    "name": "sheet_inner_border_color",
+                    "value": "$color:window_border_color"
+                },
+                {
+                    "name": "close_icon_width",
+                    "value": "$float:window_close_icon_width"
+                },
+                {
+                    "name": "title_text_horizontal_margin",
+                    "value": "$float:sheet_title_text_horizontal_margin"
+                },
+                {
+                    "name": "close_icon_radius",
+                    "value": "$float:window_close_radius"
                 }
             ]
         },
