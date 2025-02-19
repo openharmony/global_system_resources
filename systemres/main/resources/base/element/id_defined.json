@@ -30325,6 +30325,11 @@
             "type": "float",
             "name": "popup_button_border_radius",
             "order": 6028
+        },
+        {
+            "type": "string",
+            "name": "off_used_for_accessibility_text",
+            "order": 6029
         }
     ]
 }
