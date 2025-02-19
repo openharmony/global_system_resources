@@ -4065,6 +4065,22 @@
                     "value": "$color:ohos_id_color_list_separator"
                 },
                 {
+                    "name": "search_divider_color_API16",
+                    "value": "$color:comp_background_tertiary"
+                },
+                {
+                    "name": "search_button_space_API16",
+                    "value": "$float:ohos_id_search_text_field_padding_left"
+                },
+                {
+                    "name": "search_button_text_padding_API16",
+                    "value": "$float:ohos_id_search_icon_left_space"
+                },
+                {
+                    "name": "search_font_size_API16",
+                    "value": "$float:Body_M"
+                },
+                {
                     "name": "search_button_text_color",
                     "value": "$color:ohos_id_color_text_primary_activated"
                 },
