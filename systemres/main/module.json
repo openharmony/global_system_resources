@@ -3371,6 +3371,15 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
+			{
+                "name": "ohos.permission.MANAGE_SHUTDOWN_FINDNETWORK",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
             {
                 "name": "ohos.permission.ACCESS_PROTOCOL_DFX_DATA",
                 "grantMode": "system_grant",
@@ -4591,6 +4600,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_VIRTUAL_KEYBOARD",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 14,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.USER_AUTH_FROM_BACKGROUND",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -4598,7 +4616,7 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
-            }
+            },
         ]
     }
 }
