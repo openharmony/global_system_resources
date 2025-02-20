@@ -63,6 +63,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.USE_FRAUD_MESSAGES_PICKER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.USE_FRAUD_CALL_LOG_PICKER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.USE_BLUETOOTH",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
@@ -4514,6 +4532,33 @@
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
                 "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CALLED_TRANSITION_ON_LOCK_SCREEN",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": true
+            },
+            {
+                "name": "ohos.permission.CALLED_BELOW_LOCK_SCREEN",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": true
+            },
+            {
+                "name": "ohos.permission.MANAGE_APP_KEEP_ALIVE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 14,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false

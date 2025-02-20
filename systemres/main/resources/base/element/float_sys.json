@@ -279,6 +279,34 @@
         {
             "name": "button_container_border_radius_normal",
             "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "window_shadow_config",
+            "value": "$float:ohos_id_default_shadow_none"
+        },
+        {
+            "name": "window_outline_width",
+            "value": "$float:outline_none"
+        },
+        {
+            "name": "window_border_width",
+            "value": "$float:border_none"
+        },
+        {
+            "name": "window_radius_small",
+            "value": "$float:corner_radius_level16"
+        },
+        {
+            "name": "window_close_icon_width",
+            "value": "18.0vp"
+        },
+        {
+            "name": "sheet_title_text_horizontal_margin",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "window_close_radius",
+            "value": "$float:corner_radius_level10"
         }
     ]
 }
