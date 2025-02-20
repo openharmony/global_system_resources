@@ -4600,6 +4600,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.READ_WRITE_USER_FILE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.READ_WRITE_USB_DEV",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_VIRTUAL_KEYBOARD",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
