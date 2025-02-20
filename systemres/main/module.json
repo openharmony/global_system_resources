@@ -4364,6 +4364,42 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ENTERPRISE_RECOVERY_KEY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_RECOVERY_KEY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 14,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.UTILIZE_RECOVERY_KEY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 14,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_RECOVERY_KEY_BRIEF_INFORMATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 14,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_APP_INSTALL_DIR",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
