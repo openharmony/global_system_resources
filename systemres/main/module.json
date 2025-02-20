@@ -4537,6 +4537,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.INPUT_KEYBOARD_CONTROLLER",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 15,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.CALLED_TRANSITION_ON_LOCK_SCREEN",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
