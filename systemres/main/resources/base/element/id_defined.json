@@ -30330,6 +30330,36 @@
             "type": "string",
             "name": "off_used_for_accessibility_text",
             "order": 6029
+        },
+        {
+            "type": "string",
+            "name": "camera_device_eject_lab",
+            "order": 6030
+        },
+        {
+            "type": "string",
+            "name": "camera_device_eject_desc",
+            "order": 6031
+        },
+        {
+            "type": "string",
+            "name": "camera_device_block_confirm",
+            "order": 6032
+        },
+        {
+            "type": "string",
+            "name": "camera_device_block_lab",
+            "order": 6033
+        },
+        {
+            "type": "string",
+            "name": "camera_device_block_desc",
+            "order": 6034
+        },
+        {
+            "type": "string",
+            "name": "camera_use_continue",
+            "order": 6035
         }
     ]
 }
