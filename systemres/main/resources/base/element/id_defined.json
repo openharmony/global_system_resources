@@ -28829,17 +28829,20 @@
         {
             "type": "string",
             "name": "year_resource_text",
-            "order": 5729
+            "order": 5729,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "month_resource_text",
-            "order": 5730
+            "order": 5730,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "day_resource_text",
-            "order": 5731
+            "order": 5731,
+            "flags": "private"
         },
         {
             "type": "string",
@@ -28949,62 +28952,74 @@
         {
             "type": "string",
             "name": "january_counter_accessibility_text",
-            "order": 5753
+            "order": 5753,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "february_counter_accessibility_text",
-            "order": 5754
+            "order": 5754,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "march_counter_accessibility_text",
-            "order": 5755
+            "order": 5755,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "april_counter_accessibility_text",
-            "order": 5756
+            "order": 5756,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "may_counter_accessibility_text",
-            "order": 5757
+            "order": 5757,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "june_counter_accessibility_text",
-            "order": 5758
+            "order": 5758,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "july_counter_accessibility_text",
-            "order": 5759
+            "order": 5759,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "august_counter_accessibility_text",
-            "order": 5760
+            "order": 5760,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "september_counter_accessibility_text",
-            "order": 5761
+            "order": 5761,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "october_counter_accessibility_text",
-            "order": 5762
+            "order": 5762,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "november_counter_accessibility_text",
-            "order": 5763
+            "order": 5763,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "december_counter_accessibility_text",
-            "order": 5764
+            "order": 5764,
+            "flags": "private"
         },
         {
             "type": "string",
