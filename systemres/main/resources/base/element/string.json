@@ -1950,6 +1950,30 @@
         {
             "name": "off_used_for_accessibility_text",
             "value": "off"
+        },
+        {
+            "name": "camera_device_eject_lab",
+            "value": "Unable to pop out camera"
+        },
+        {
+            "name": "camera_device_eject_desc",
+            "value": "Remove any obstructions and try again."
+        },
+        {
+            "name": "camera_device_block_confirm",
+            "value": "OK"
+        },
+        {
+            "name": "camera_device_block_lab",
+            "value": "Camera error"
+        },
+        {
+            "name": "camera_device_block_desc",
+            "value": "Restart the Camera app to fix this issue. If the image is still out of focus, contact customer service."
+        },
+        {
+            "name": "camera_use_continue",
+            "value": "Continue"
         }
     ]
 }

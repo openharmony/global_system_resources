@@ -973,6 +973,30 @@
         {
             "name":"general_window_moveto_bottom_screen",
             "value":"視窗移動至下屏幕"
+        },
+        {
+            "name": "camera_device_eject_lab",
+            "value": "鏡頭無法彈出"
+        },
+        {
+            "name": "camera_device_eject_desc",
+            "value": "請檢視鏡頭是否被阻擋或有異物進入檢查無誤後輕觸按鈕以繼續使用。"
+        },
+        {
+            "name": "camera_device_block_confirm",
+            "value": "知道了"
+        },
+        {
+            "name": "camera_device_block_lab",
+            "value": "鏡頭可能存在異常"
+        },
+        {
+            "name": "camera_device_block_desc",
+            "value": "請重新啟動相機。如果畫面仍然無法對焦，請前往服務中心維修。"
+        },
+        {
+            "name": "camera_use_continue",
+            "value": "繼續"
         }
     ]
 }
