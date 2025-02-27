@@ -5111,6 +5111,33 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_DEVAUTH_CRED_MGR",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_DEVAUTH_CRED_PRIVILEGE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_DEVAUTH_CRED_AUTH",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
