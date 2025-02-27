@@ -1914,6 +1914,18 @@
         {
             "name": "camera_use_continue",
             "value": "Continue"
+        },
+        {
+            "name": "request_agent_download_complete",
+            "value": "Download complete"
+        },
+        {
+            "name": "request_agent_upload_complete",
+            "value": "Upload complete"
+        },
+        {
+            "name": "request_agent_task_count",
+            "value": "%d succeeded, %d failed"
         }
     ]
 }

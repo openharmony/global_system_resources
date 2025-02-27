@@ -30385,6 +30385,21 @@
             "type": "float",
             "name": "toast_top_new",
             "order": 6037
+        },
+        {
+            "type": "string",
+            "name": "request_agent_download_complete",
+            "order": 6038
+        },
+        {
+            "type": "string",
+            "name": "request_agent_upload_complete",
+            "order": 6039
+        },
+        {
+            "type": "string",
+            "name": "request_agent_task_count",
+            "order": 6040
         }
     ]
 }
