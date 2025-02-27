@@ -30375,6 +30375,16 @@
             "type": "string",
             "name": "camera_use_continue",
             "order": 6035
+        },
+        {
+            "type": "float",
+            "name": "toast_top",
+            "order": 6036
+        },
+        {
+            "type": "float",
+            "name": "toast_top_new",
+            "order": 6037
         }
     ]
 }
