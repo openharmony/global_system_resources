@@ -1774,6 +1774,18 @@
         {
             "name": "camera_use_continue",
             "value": "继续"
+        },
+        {
+            "name": "request_agent_download_complete",
+            "value": "下载完成"
+        },
+        {
+            "name": "request_agent_upload_complete",
+            "value": "上传完成"
+        },
+        {
+            "name": "request_agent_task_count",
+            "value": "%d 成功, %d 失败"
         }
     ]
 }
