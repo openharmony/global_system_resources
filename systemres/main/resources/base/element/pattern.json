@@ -4141,6 +4141,10 @@
                 {
                     "name": "interactive_disable",
                     "value": "$float:interactive_disable"
+                },
+                {
+                    "name": "menu_translate_is_support",
+                    "value": "$string:res_menu_translate_is_support"
                 }
             ]
         },
@@ -4518,6 +4522,10 @@
                 {
                     "name": "textfield_accessibility_clear",
                     "value": "$string:textfield_accessibility_clear"
+                },
+                {
+                    "name": "menu_translate_is_support",
+                    "value": "$string:res_menu_translate_is_support"
                 }
             ]
         },

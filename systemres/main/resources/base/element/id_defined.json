@@ -29290,6 +29290,305 @@
             "type": "string",
             "name": "text_overlay_menu_cut",
             "order": 5697
-        }        
+        },
+        {
+            "type": "string",
+            "name": "ohos_app_has_locked",
+            "order": 5698,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "increase_used_for_accessibility_text",
+            "order": 5699,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "reduce_used_for_accessibility_text",
+            "order": 5700,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "gain_used_for_accessibility_text",
+            "order": 5701,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "decrease_used_for_accessibility_text",
+            "order": 5702,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "subtab_board_text_on_color",
+            "order": 5703,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "page_transition_amplitude_ratio",
+            "order": 5704,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "app_lock_picture",
+            "order": 5705,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "prev_arrow_accessibility_text",
+            "order": 5706,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "next_arrow_accessibility_text",
+            "order": 5707,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "order": 5708,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_complete_button",
+            "order": 5709,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "order": 5710,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "comp_background_primary_contrary_secondary",
+            "order": 5711,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_tab_button_background",
+            "order": 5712,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_tab_selected_item_background",
+            "order": 5713,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_capsule_button_background",
+            "order": 5714,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_capsule_selected_item_background",
+            "order": 5715,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_multi_capsule_button_background",
+            "order": 5716,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "segment_button_v2_multi_capsule_selected_item_background",
+            "order": 5717,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_singleline_selected_height",
+            "order": 5718,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_singleline_background_height",
+            "order": 5719,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_doubleline_selected_height",
+            "order": 5720,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_doubleline_background_height",
+            "order": 5721,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_multi_singleline_height",
+            "order": 5722,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_multi_doubleline_height",
+            "order": 5723,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_selected_corner_radius",
+            "order": 5724,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_background_corner_radius",
+            "order": 5725,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "segment_button_v2_multi_corner_radius",
+            "order": 5726,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "search_symbol_icon_height",
+            "order": 5727,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "temporarily_disable_shutdown_findee_text",
+            "order": 5728,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "year_resource_text",
+            "order": 5729,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "month_resource_text",
+            "order": 5730,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "day_resource_text",
+            "order": 5731,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "increase_counter_double_click_description",
+            "order": 5732,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "reduce_counter_double_click_description",
+            "order": 5733,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "radio_hotzone_padding",
+            "order": 5734,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "checkbox_hotzone_padding",
+            "order": 5735,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "switch_hotzone_horizontal_padding",
+            "order": 5736,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "switch_hotzone_vertical_padding",
+            "order": 5737,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_screen_t",
+            "order": 5738,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_screen_b",
+            "order": 5739,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_waterfall",
+            "order": 5740,
+            "flags": "private"
+        },
+        {
+            "type": "plural",
+            "name": "selecttitlebar_accessibility_message_desc",
+            "order": 5741,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "menu_item_hor_interval",
+            "order": 5742,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "menu_padding_interval",
+            "order": 5743,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_outset_block_hot_region_size",
+            "order": 5744,
+            "flags": "private"
+        },
+		{
+            "type": "float",
+            "name": "slider_inset_block_hot_region_size",
+            "order": 5745,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_none_block_hot_region_size",
+            "order": 5746,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "res_menu_translate_is_support",
+            "order": 5747
+        }
     ]
 }
