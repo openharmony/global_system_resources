@@ -28689,12 +28689,14 @@
         {
             "type": "string",
             "name": "gain_used_for_accessibility_text",
-            "order": 5701
+            "order": 5701,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "decrease_used_for_accessibility_text",
-            "order": 5702
+            "order": 5702,
+            "flags": "private"
         },
         {
             "type": "color",
