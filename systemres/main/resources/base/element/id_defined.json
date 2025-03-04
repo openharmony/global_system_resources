@@ -30402,6 +30402,11 @@
             "type": "string",
             "name": "request_agent_task_count",
             "order": 6040
+        },
+        {
+            "type": "color",
+            "name": "indicator_border_color",
+            "order": 6041
         }
     ]
 }
