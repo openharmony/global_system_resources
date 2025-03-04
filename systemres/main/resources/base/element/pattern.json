@@ -7222,7 +7222,7 @@
             "value": [
                 {
                     "name": "default_text_color",
-                    "value": "$color:font_secondary"
+                    "value": "$color:font_normal"
                 },
                 {
                     "name": "selected_text_color",
@@ -7230,7 +7230,7 @@
                 },
                 {
                     "name": "popup_text_color",
-                    "value": "$color:font_emphasize"
+                    "value": "$color:popup_text_color_normal"
                 },
                 {
                     "name": "popup_text_size",
