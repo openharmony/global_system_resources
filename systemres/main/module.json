@@ -5183,6 +5183,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_TRUST_LIST_OOBE_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
