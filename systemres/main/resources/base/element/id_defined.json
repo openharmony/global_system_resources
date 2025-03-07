@@ -30447,6 +30447,21 @@
             "type": "color",
             "name": "popup_text_color_normal",
             "order": 6049
+        },
+        {
+            "type": "float",
+            "name": "Caption_L_VP",
+            "order": 6050
+        },
+        {
+            "type": "float",
+            "name": "Caption_M_VP",
+            "order": 6051
+        },
+        {
+            "type": "float",
+            "name": "Caption_S_VP",
+            "order": 6052
         }
     ]
 }
