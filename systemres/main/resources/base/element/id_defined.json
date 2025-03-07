@@ -30407,6 +30407,36 @@
             "type": "color",
             "name": "indicator_border_color",
             "order": 6041
+        },
+        {
+            "type": "string",
+            "name": "tips_double_border_enable_default",
+            "order": 6042
+        },
+        {
+            "type": "color",
+            "name": "tips_outer_border_color",
+            "order": 6043
+        },
+        {
+            "type": "color",
+            "name": "tips_outer_border_color_dark",
+            "order": 6044
+        },
+        {
+            "type": "color",
+            "name": "tips_inner_border_color",
+            "order": 6045
+        },
+        {
+            "type": "float",
+            "name": "tips_outer_border_width",
+            "order": 6046
+        },
+        {
+            "type": "float",
+            "name": "tips_inner_border_width",
+            "order": 6047
         }
     ]
 }
