@@ -1778,6 +1778,20 @@
         {
             "name": "request_agent_task_count",
             "value": "%d 成功, %d 失败"
+        },
+        {
+            "name": "arkui_app_bar_service_panel",
+            "value": "服务面板",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "arkui_app_bar_close",
+            "value": "关闭",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

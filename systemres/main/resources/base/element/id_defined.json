@@ -30462,6 +30462,16 @@
             "type": "float",
             "name": "Caption_S_VP",
             "order": 6052
+        },
+        {
+            "type": "string",
+            "name": "arkui_app_bar_service_panel",
+            "order": 6053
+        },
+        {
+            "type": "string",
+            "name": "arkui_app_bar_close",
+            "order": 6054
         }
     ]
 }
