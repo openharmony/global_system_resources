@@ -937,6 +937,30 @@
         {
             "name": "ohos_desc_custom_screen_capture",
             "value": "应用获取此权限后，可进行截屏、录屏等操作。当前仅平板、2in1设备应用可申请此权限"
+        },
+        {
+            "name": "camera_device_eject_lab",
+            "value": "摄像头无法弹出"
+        },
+        {
+            "name": "camera_device_eject_desc",
+            "value": "请查看摄像头是否被阻挡或有异物进入，检查无误后点击按钮继续使用。"
+        },
+        {
+            "name": "camera_device_block_confirm",
+            "value": "知道了"
+        },
+        {
+            "name": "camera_device_block_lab",
+            "value": "摄像头可能存在异常"
+        },
+        {
+            "name": "camera_device_block_desc",
+            "value": "请重启相机，若画面仍然无法对焦，请前往服务网点维修。"
+        },
+        {
+            "name": "camera_use_continue",
+            "value": "继续"
         }
     ]
 }
