@@ -5026,7 +5026,8 @@
                 "name": "ohos.permission.ACCESS_ACCOUNT_RECOMMENDATION_DATA",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": 18,
+                "availableType": "SYSTEM",
+                "since": 16,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
