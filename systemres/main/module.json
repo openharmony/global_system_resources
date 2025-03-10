@@ -5061,6 +5061,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.UPDATE_FONT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_DISK_PHY_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
