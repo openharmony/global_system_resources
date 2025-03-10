@@ -1859,6 +1859,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.GET_EDM_CONFIG",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.PERSONAL_MANAGE_RESTRICTIONS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
