@@ -30472,6 +30472,31 @@
             "type": "string",
             "name": "arkui_app_bar_close",
             "order": 6054
+        },
+        {
+            "type": "float",
+            "name": "sheet_close_icon_button_width",
+            "order": 6055
+        },
+        {
+            "type": "float",
+            "name": "sheet_landscape_default_width",
+            "order": 6056
+        },
+        {
+            "type": "float",
+            "name": "sheet_height_default_mode",
+            "order": 6057
+        },
+        {
+            "type": "float",
+            "name": "sheet_close_icon_button_style",
+            "order": 6058
+        },
+        {
+            "type": "color",
+            "name": "sheet_mask_color",
+            "order": 6059
         }
     ]
 }
