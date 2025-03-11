@@ -30407,6 +30407,71 @@
             "type": "color",
             "name": "indicator_border_color",
             "order": 6041
+        },
+        {
+            "type": "string",
+            "name": "tips_double_border_enable_default",
+            "order": 6042
+        },
+        {
+            "type": "color",
+            "name": "tips_outer_border_color",
+            "order": 6043
+        },
+        {
+            "type": "color",
+            "name": "tips_outer_border_color_dark",
+            "order": 6044
+        },
+        {
+            "type": "color",
+            "name": "tips_inner_border_color",
+            "order": 6045
+        },
+        {
+            "type": "float",
+            "name": "tips_outer_border_width",
+            "order": 6046
+        },
+        {
+            "type": "float",
+            "name": "tips_inner_border_width",
+            "order": 6047
+        },
+        {
+            "type": "color",
+            "name": "font_normal",
+            "order": 6048
+        },
+        {
+            "type": "color",
+            "name": "popup_text_color_normal",
+            "order": 6049
+        },
+        {
+            "type": "float",
+            "name": "Caption_L_VP",
+            "order": 6050
+        },
+        {
+            "type": "float",
+            "name": "Caption_M_VP",
+            "order": 6051
+        },
+        {
+            "type": "float",
+            "name": "Caption_S_VP",
+            "order": 6052
+        },
+        {
+            "type": "string",
+            "name": "arkui_app_bar_service_panel",
+            "order": 6053
+        },
+        {
+            "type": "string",
+            "name": "arkui_app_bar_close",
+            "order": 6054
         }
     ]
 }

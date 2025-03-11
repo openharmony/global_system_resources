@@ -1538,7 +1538,7 @@
         },
         {
             "name": "toast_top_new",
-            "value": "72.0vp"
+            "value": "0.0vp"
         },
         {
             "name": "ohos_id_toast_bottom",
@@ -3301,6 +3301,18 @@
             "value": "8.0fp"
         },
         {
+            "name": "Caption_L_VP",
+            "value": "12.0vp"
+        },
+        {
+            "name": "Caption_M_VP",
+            "value": "10.0vp"
+        },
+        {
+            "name": "Caption_S_VP",
+            "value": "8.0vp"
+        },
+        {
             "name": "alignment_start",
             "value": "0.0"
         },
@@ -3539,6 +3551,14 @@
         {
             "name": "popup_inner_border_width",
             "value": "0.8vp"
+        },
+        {
+            "name": "tips_outer_border_width",
+            "value": "1.0vp"
+        },
+        {
+            "name": "tips_inner_border_width",
+            "value": "1.0vp"
         },
         {
             "name": "popup_border_radius",

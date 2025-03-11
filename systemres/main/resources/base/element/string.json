@@ -803,6 +803,10 @@
             "value": "0"
         },
         {
+            "name": "tips_double_border_enable_default",
+            "value": "1"
+        },
+        {
             "name": "ohos_grid_edit_title_edit",
             "value": "Edit",
             "attr": {
@@ -1918,6 +1922,20 @@
         {
             "name": "request_agent_task_count",
             "value": "%d succeeded, %d failed"
+        },
+        {
+            "name": "arkui_app_bar_service_panel",
+            "value": "Service panel",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "arkui_app_bar_close",
+            "value": "Close",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

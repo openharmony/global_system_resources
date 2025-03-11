@@ -3556,6 +3556,30 @@
                     "value": "$float:popup_inner_border_width"
                 },
                 {
+                    "name": "tips_double_border_enable",
+                    "value": "$string:tips_double_border_enable_default"
+                },
+                {
+                    "name": "tips_outer_border_color",
+                    "value": "$color:tips_outer_border_color"
+                },
+                {
+                    "name": "tips_outer_border_color_dark",
+                    "value": "$color:tips_outer_border_color_dark"
+                },
+                {
+                    "name": "tips_outer_border_width",
+                    "value": "$float:tips_outer_border_width"
+                },
+                {
+                    "name": "tips_inner_border_color",
+                    "value": "$color:tips_inner_border_color"
+                },
+                {
+                    "name": "tips_inner_border_width",
+                    "value": "$float:tips_inner_border_width"
+                },
+                {
                     "name": "text_primary_color",
                     "value": "$color:popup_text_primary_color"
                 },
@@ -4693,7 +4717,7 @@
                 },
                 {
                     "name": "bottom_tab_horizontal_text_size",
-                    "value": "$float:Caption_L"
+                    "value": "$float:Caption_L_VP"
                 },
                 {
                     "name": "default_tab_bar_name",
@@ -7198,7 +7222,7 @@
             "value": [
                 {
                     "name": "default_text_color",
-                    "value": "$color:font_secondary"
+                    "value": "$color:font_normal"
                 },
                 {
                     "name": "selected_text_color",
@@ -7206,7 +7230,7 @@
                 },
                 {
                     "name": "popup_text_color",
-                    "value": "$color:font_emphasize"
+                    "value": "$color:popup_text_color_normal"
                 },
                 {
                     "name": "popup_text_size",
