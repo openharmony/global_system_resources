@@ -167,6 +167,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name": "prev_arrow_accessibility_text",
+            "value": "Anterior",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "next_arrow_accessibility_text",
+            "value": "Avançar",
+            "attr": {
+                "priority": "translate"
+            }
         }
     ]
 }
