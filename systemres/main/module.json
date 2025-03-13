@@ -5223,6 +5223,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.FOWNER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.READ_DLP_HIDE_SWITCH",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
