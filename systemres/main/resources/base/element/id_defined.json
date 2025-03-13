@@ -31042,6 +31042,270 @@
             "type": "string",
             "name": "general_window_moveto_bottom_screen",
             "order": 5990
+        },
+        {
+            "type": "color",
+            "name": "ohos_id_color_text_highlight_bg_arc",
+            "order": 5991,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "swiper_medium_velocity_threshold",
+            "order": 5992,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "swiper_fast_velocity_threshold",
+            "order": 5993,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "swiper_display_control_ratio_very_slow",
+            "order": 5994,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "swiper_display_control_ratio_medium",
+            "order": 5995,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ohos_ic_window_menu_back",
+            "order": 5996,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "First_counter_accessibility_text",
+            "order": 5997,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Second_counter_accessibility_text",
+            "order": 5998,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Third_counter_accessibility_text",
+            "order": 5999,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Fourth_counter_accessibility_text",
+            "order": 6000,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Fifth_counter_accessibility_text",
+            "order": 6001,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Sixth_counter_accessibility_text",
+            "order": 6002,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Seventh_counter_accessibility_text",
+            "order": 6003,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Eighth_counter_accessibility_text",
+            "order": 6004,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Ninth_counter_accessibility_text",
+            "order": 6005,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Tenth_counter_accessibility_text",
+            "order": 6006,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Eleventh_counter_accessibility_text",
+            "order": 6007,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Twelfth_counter_accessibility_text",
+            "order": 6008,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Thirteenth_counter_accessibility_text",
+            "order": 6009,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Fourteenth_counter_accessibility_text",
+            "order": 6010,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Fifteenth_counter_accessibility_text",
+            "order": 6011,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Sixteenth_counter_accessibility_text",
+            "order": 6012,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Seventeenth_counter_accessibility_text",
+            "order": 6013,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Eighteenth_counter_accessibility_text",
+            "order": 6014,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Nineteenth_counter_accessibility_text",
+            "order": 6015,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Twentieth_counter_accessibility_text",
+            "order": 6016,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "TwentyFirst_counter_accessibility_text",
+            "order": 6017,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "TwentySecond_counter_accessibility_text",
+            "order": 6018,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "TwentyThird_counter_accessibility_text",
+            "order": 6019,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "TwentyFourth_counter_accessibility_text",
+            "order": 6020,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "TwentyFifth_counter_accessibility_text",
+            "order": 6021,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "TwentySixth_counter_accessibility_text",
+            "order": 6022,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "TwentySeventh_counter_accessibility_text",
+            "order": 6023,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "TwentyEighth_counter_accessibility_text",
+            "order": 6024,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "TwentyNinth_counter_accessibility_text",
+            "order": 6025,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "Thirtieth_counter_accessibility_text",
+            "order": 6026,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "ThirtyFirst_counter_accessibility_text",
+            "order": 6027,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "popup_button_border_radius",
+            "order": 6028,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "off_used_for_accessibility_text",
+            "order": 6029,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "camera_device_eject_lab",
+            "order": 6030
+        },
+        {
+            "type": "string",
+            "name": "camera_device_eject_desc",
+            "order": 6031
+        },
+        {
+            "type": "string",
+            "name": "camera_device_block_confirm",
+            "order": 6032
+        },
+        {
+            "type": "string",
+            "name": "camera_device_block_lab",
+            "order": 6033
+        },
+        {
+            "type": "string",
+            "name": "camera_device_block_desc",
+            "order": 6034
+        },
+        {
+            "type": "string",
+            "name": "camera_use_continue",
+            "order": 6035
         }
     ]
 }
