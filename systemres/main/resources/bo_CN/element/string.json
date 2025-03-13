@@ -1149,6 +1149,13 @@
         {
             "name": "input_counter_double_click_description",
             "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ནང་དོན་འཇུག་ཐུབ།"
-        }
+        },
+        {
+            "name":"off_used_for_accessibility_text",
+            "value":"ཁ་རྒྱག",
+            "attr":{
+                "priority":"translate"
+            }
+        }        
     ]
 }
