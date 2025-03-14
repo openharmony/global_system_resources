@@ -1019,6 +1019,42 @@
         {
             "name": "popup_text_color_normal",
             "value": "$color:font_emphasize"
+        },
+        {
+            "name": "popup_primary_button_background_color_sys",
+            "value": "$color:popup_primary_button_background_color"
+        },
+        {
+            "name": "popup_secondary_button_background_color_sys",
+            "value": "$color:popup_secondary_button_background_color"
+        },
+        {
+            "name": "popup_primary_button_font_color_sys",
+            "value": "$color:popup_primary_button_font_color"
+        },
+        {
+            "name": "popup_secondary_button_shadow_color_sys",
+            "value": "$color:popup_secondary_button_shadow_color"
+        },
+        {
+            "name": "popup_secondary_button_begin_gredient_color_sys",
+            "value": "$color:popup_secondary_button_begin_gredient_color"
+        },
+        {
+            "name": "popup_secondary_button_end_gredient_color_sys",
+            "value": "$color:popup_secondary_button_end_gredient_color"
+        },
+        {
+            "name": "popup_secondary_button_font_color_sys",
+            "value": "$color:popup_secondary_button_font_color"
+        },
+        {
+            "name": "popup_inner_border_begin_gredient_color_sys",
+            "value": "$color:popup_inner_border_begin_gredient_color"
+        },
+        {
+            "name": "popup_inner_border_end_gredient_color_sys",
+            "value": "$color:popup_inner_border_end_gredient_color"
         }
     ]
   }

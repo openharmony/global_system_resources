@@ -32382,6 +32382,276 @@
             "type": "symbol",
             "name": "car_suv",
             "order": 6436
+        },
+        {
+            "type": "color",
+            "name": "popup_secondary_button_font_color_sys",
+            "order": 6437
+        },
+        {
+            "type": "color",
+            "name": "popup_secondary_button_font_color",
+            "order": 6438
+        },
+        {
+            "type": "float",
+            "name": "popup_button_type",
+            "order": 6439
+        },
+        {
+            "type": "float",
+            "name": "button_type_normal",
+            "order": 6440
+        },
+        {
+            "type": "float",
+            "name": "button_type_capsule",
+            "order": 6441
+        },
+        {
+            "type": "float",
+            "name": "button_type_circle",
+            "order": 6442
+        },
+        {
+            "type": "float",
+            "name": "button_type_text",
+            "order": 6443
+        },
+        {
+            "type": "float",
+            "name": "button_type_arc",
+            "order": 6444
+        },
+        {
+            "type": "float",
+            "name": "button_type_download",
+            "order": 6445
+        },
+        {
+            "type": "float",
+            "name": "button_type_icon",
+            "order": 6446
+        },
+        {
+            "type": "float",
+            "name": "button_type_custom",
+            "order": 6447
+        },
+        {
+            "type": "float",
+            "name": "button_type_rounded_rectangle",
+            "order": 6448
+        },
+        {
+            "type": "color",
+            "name": "popup_primary_button_background_color_sys",
+            "order": 6449
+        },
+        {
+            "type": "color",
+            "name": "popup_primary_button_background_color",
+            "order": 6450
+        },
+        {
+            "type": "color",
+            "name": "popup_secondary_button_background_color_sys",
+            "order": 6451
+        },
+        {
+            "type": "color",
+            "name": "popup_secondary_button_background_color",
+            "order": 6452
+        },
+        {
+            "type": "color",
+            "name": "popup_primary_button_font_color_sys",
+            "order": 6453
+        },
+        {
+            "type": "color",
+            "name": "popup_primary_button_font_color",
+            "order": 6454
+        },
+        {
+            "type": "color",
+            "name": "popup_secondary_button_shadow_color_sys",
+            "order": 6455
+        },
+        {
+            "type": "color",
+            "name": "popup_secondary_button_shadow_color",
+            "order": 6456
+        },
+        {
+            "type": "float",
+            "name": "popup_secondary_button_shadow_radius_sys",
+            "order": 6457
+        },
+        {
+            "type": "float",
+            "name": "popup_secondary_button_shadow_radius",
+            "order": 6458
+        },
+        {
+            "type": "float",
+            "name": "popup_secondary_button_shadow_offset_X_sys",
+            "order": 6459
+        },
+        {
+            "type": "float",
+            "name": "popup_secondary_button_shadow_offset_X",
+            "order": 6460
+        },
+        {
+            "type": "float",
+            "name": "popup_secondary_button_shadow_offset_Y_sys",
+            "order": 6461
+        },
+        {
+            "type": "float",
+            "name": "popup_secondary_button_shadow_offset_Y",
+            "order": 6462
+        },
+        {
+            "type": "float",
+            "name": "popup_button_border_width_sys",
+            "order": 6463
+        },
+        {
+            "type": "float",
+            "name": "popup_button_border_width",
+            "order": 6464
+        },
+        {
+            "type": "float",
+            "name": "popup_button_space_sys",
+            "order": 6465
+        },
+        {
+            "type": "float",
+            "name": "popup_button_space",
+            "order": 6466
+        },
+        {
+            "type": "color",
+            "name": "popup_secondary_button_begin_gredient_color_sys",
+            "order": 6467
+        },
+        {
+            "type": "color",
+            "name": "popup_secondary_button_begin_gredient_color",
+            "order": 6468
+        },
+        {
+            "type": "color",
+            "name": "popup_secondary_button_end_gredient_color_sys",
+            "order": 6469
+        },
+        {
+            "type": "color",
+            "name": "popup_secondary_button_end_gredient_color",
+            "order": 6470
+        },
+        {
+            "type": "float",
+            "name": "popup_button_top_margin_sys",
+            "order": 6471
+        },
+        {
+            "type": "float",
+            "name": "popup_button_top_margin",
+            "order": 6472
+        },
+        {
+            "type": "float",
+            "name": "popup_button_bottom_margin_sys",
+            "order": 6473
+        },
+        {
+            "type": "float",
+            "name": "popup_button_bottom_margin",
+            "order": 6474
+        },
+        {
+            "type": "float",
+            "name": "popup_button_height_sys",
+            "order": 6475
+        },
+        {
+            "type": "float",
+            "name": "popup_button_height",
+            "order": 6476
+        },
+        {
+            "type": "float",
+            "name": "popup_button_text_font_weight_sys",
+            "order": 6477
+        },
+        {
+            "type": "float",
+            "name": "popup_button_left_margin_sys",
+            "order": 6478
+        },
+        {
+            "type": "float",
+            "name": "popup_button_left_margin",
+            "order": 6479
+        },
+        {
+            "type": "float",
+            "name": "popup_button_right_margin_sys",
+            "order": 6480
+        },
+        {
+            "type": "float",
+            "name": "popup_button_right_margin",
+            "order": 6481
+        },
+        {
+            "type": "float",
+            "name": "popup_button_text_font_weight",
+            "order": 6482
+        },
+        {
+            "type": "color",
+            "name": "popup_inner_border_begin_gredient_color_sys",
+            "order": 6483
+        },
+        {
+            "type": "color",
+            "name": "popup_inner_border_begin_gredient_color",
+            "order": 6484
+        },
+        {
+            "type": "color",
+            "name": "popup_inner_border_end_gredient_color_sys",
+            "order": 6485
+        },
+        {
+            "type": "color",
+            "name": "popup_inner_border_end_gredient_color",
+            "order": 6486
+        },
+        {
+            "type": "float",
+            "name": "popup_button_flex_grow_sys",
+            "order": 6487
+        },
+        {
+            "type": "float",
+            "name": "popup_button_flex_grow",
+            "order": 6488
+        },
+        {
+            "type": "float",
+            "name": "popup_double_button_is_same_style_sys",
+            "order": 6489
+        },
+        {
+            "type": "float",
+            "name": "popup_double_button_is_same_style",
+            "order": 6490
         }
     ]
 }
