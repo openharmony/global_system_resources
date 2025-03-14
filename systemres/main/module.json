@@ -5214,6 +5214,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_APN_SETTING",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 16,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_TRUST_LIST_OOBE_MANAGER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
