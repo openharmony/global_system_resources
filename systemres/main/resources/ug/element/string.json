@@ -766,21 +766,21 @@
         },
         {
             "name":"gridobjectsortcomponent_accessibility_selected_item_drag_moving",
-            "value":"%1d−قۇر،d-رەت",
+            "value":"%1$d-قۇر، %2$d-رەت",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"gridobjectsortcomponent_accessibility_selected_item_drag_stop",
-            "value":"قويۇلدى، %1d−قۇر،d-رەت",
+            "value":"قويۇلدى، %1$d-قۇر، %2$d-رەت",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"gridobjectsortcomponent_accessibility_unselected_item_add",
-            "value":"‏%1s،دائىملىقمەزمۇنقاتارىغاقوشۇلدى،d-قۇر، %3$d-رەت",
+            "value":"‏%1$s، دائىملىق مەزمۇن قاتارىغا قوشۇلدى، %2$d-قۇر، %3$d-رەت",
             "attr":{
                 "priority":"translate"
             }
@@ -878,7 +878,7 @@
         },
         {
             "name":"treeview_accessibility_move_node_child",
-            "value":"‏%1sدىكىd-ئورۇنغا سۆرەش",
+            "value":"‏%1$s دىكى %2$d-ئورۇنغا سۆرەش",
             "attr":{
                 "priority":"translate"
             }
@@ -941,7 +941,7 @@
         },
         {
             "name":"treeview_accessibility_place_node_child",
-            "value":"‏%1sدىكىd-ئورۇنغا قويۇلدى",
+            "value":"‏%1$s دىكى %2$d-ئورۇنغا قويۇلدى",
             "attr":{
                 "priority":"translate"
             }
