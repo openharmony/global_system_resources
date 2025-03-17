@@ -3094,15 +3094,6 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.CONNECT_UI_EXTENSION_ABILITY",
-                "grantMode": "system_grant",
-                "availableLevel": "system_core",
-                "since": 11,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
                 "name": "ohos.permission.READ_WRITE_DOWNLOAD_DIRECTORY",
                 "grantMode": "user_grant",
                 "availableLevel": "normal",
