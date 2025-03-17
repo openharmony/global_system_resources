@@ -1149,6 +1149,13 @@
         {
             "name": "input_counter_double_click_description",
             "value": "單指輕觸兩下即可輸入內容"
+        },
+        {
+            "name":"off_used_for_accessibility_text",
+            "value":"關閉",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

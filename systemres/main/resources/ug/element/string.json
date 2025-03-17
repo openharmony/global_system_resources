@@ -1149,6 +1149,13 @@
         {
             "name": "input_counter_double_click_description",
             "value": "بىر بارماقتا قوش چېكىپ مەزمۇن كىرگۈزىسىز"
-        }
+        },
+        {
+            "name":"off_used_for_accessibility_text",
+            "value":"يېپىش",
+            "attr":{
+                "priority":"translate"
+            }
+        }        
     ]
 }

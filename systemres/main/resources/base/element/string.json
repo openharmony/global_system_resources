@@ -1884,8 +1884,11 @@
             "value": "Thirty-first"
         },
         {
-            "name": "off_used_for_accessibility_text",
-            "value": "off"
+            "name":"off_used_for_accessibility_text",
+            "value":"Close",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "camera_device_eject_lab",
