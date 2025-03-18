@@ -482,7 +482,7 @@
         },
         {
             "name": "font_emphasize",
-            "value": "#266EFB"
+            "value": "#5291FF"
         },
         {
             "name": "comp_background_tertiary",
@@ -490,7 +490,7 @@
         },
         {
             "name": "font_on_primary",
-            "value": "#E6FFFFFF"
+            "value": "#E5000000"
         },
         {
             "name": "warning",
@@ -502,15 +502,15 @@
         },
         {
             "name": "icon_fourth",
-            "value": "#99F1F3F5"
+            "value": "#33FFFFFF"
         },
         {
             "name": "icon_on_primary",
-            "value": "#F1F3F5"
+            "value": "#E5000000"
         },
         {
             "name": "background_emphasize",
-            "value": "#266EFB"
+            "value": "$color:brand"
         },
         {
             "name": "subtab_board_text_on_color",
@@ -519,6 +519,34 @@
         {
             "name": "comp_background_secondary",
             "value": "#33F1F3F5"
+        },
+        {
+            "name": "icon_sub_emphasize",
+            "value": "#665291FF"
+        },
+        {
+            "name": "icon_on_secondary",
+            "value": "#99000000"
+        },
+        {
+            "name": "icon_on_tertiary",
+            "value": "#66000000"
+        },
+        {
+            "name": "icon_on_fourth",
+            "value": "#33000000"
+        },
+        {
+            "name": "font_on_secondary",
+            "value": "#99000000"
+        },
+        {
+            "name": "font_on_tertiary",
+            "value": "#66000000"
+        },
+        {
+            "name": "font_on_fourth",
+            "value": "#33000000"
         }
     ]
 }
