@@ -6613,6 +6613,10 @@
                 {
                     "name": "menu_padding_interval",
                     "value": "$float:menu_padding_interval"
+                },
+                {
+                    "name": "menu_haptic_feedback",
+                    "value": "$string:menu_haptic_feedback"
                 }
             ]
         },
