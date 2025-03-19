@@ -30507,6 +30507,16 @@
             "type": "float",
             "name": "app_theme_drag_pan_distance_mouse",
             "order": 6061
+        },
+        {
+            "type": "string",
+            "name": "sheet_close",
+            "order": 6062
+        },
+        {
+            "type": "string",
+            "name": "navigation_back",
+            "order": 6063
         }
     ]
 }
