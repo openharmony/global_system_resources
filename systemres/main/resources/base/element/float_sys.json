@@ -897,7 +897,7 @@
             "value": "40.0vp"
         },
         {
-            "name": "sheet_landscape_default_width",
+            "name": "sheet_center_default_width",
             "value": "480.0vp"
         },
         {
@@ -909,8 +909,8 @@
             "value": "1"
         },
         {
-            "name": "sheet_title_column_end_margin",
-            "value": "0.0vp"
+            "name": "sheet_close_icon_title_space",
+            "value": "$float:padding_level4"
         },
         {
             "name": "tab_subtab_text_default_size",
