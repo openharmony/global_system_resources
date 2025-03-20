@@ -4009,6 +4009,10 @@
                 {
                     "name": "textfield_font_weight",
                     "value": "$float:ohos_id_textfield_font_weight"
+                },
+                {
+                    "name": "prompt_text",
+                    "value": "$string:last_updated_time"
                 }
             ]
         },
