@@ -1151,6 +1151,20 @@
             "value": "單指輕觸兩下即可輸入內容"
         },
         {
+            "name":"arkui_app_bar_close",
+            "value":"關閉",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_service_panel",
+            "value":"服務面板",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"off_used_for_accessibility_text",
             "value":"關閉",
             "attr":{
