@@ -3095,6 +3095,10 @@
                 {
                     "name": "navigation_general_more",
                     "value": "$string:general_more"
+                },
+                {
+                    "name": "navigation_back",
+                    "value": "$string:navigation_back"
                 }
             ]
         },
@@ -4372,6 +4376,22 @@
                 {
                     "name": "control_padding",
                     "value": "$float:ohos_id_stepper_control_padding"
+                },
+                {
+                    "name": "stepper_back",
+                    "value": "$string:stepper_back"
+                },
+                {
+                    "name": "stepper_skip",
+                    "value": "$string:general_skip"
+                },
+                {
+                    "name": "stepper_start",
+                    "value": "$string:general_start"
+                },
+                {
+                    "name": "stepper_next",
+                    "value": "$string:stepper_next"
                 }
             ]
         },
@@ -8356,6 +8376,10 @@
                 {
                     "name": "sheet_close_icon_title_space",
                     "value": "$float:sheet_close_icon_title_space"
+                },
+                {
+                    "name": "sheet_close",
+                    "value": "$string:sheet_close"
                 }
             ]
         },
