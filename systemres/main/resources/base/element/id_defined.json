@@ -32652,6 +32652,21 @@
             "type": "float",
             "name": "popup_double_button_is_same_style",
             "order": 6490
+        },
+        {
+            "type": "color",
+            "name": "scroll_bar_foreground_hover_blend_color",
+            "order": 6491
+        },
+        {
+            "type": "color",
+            "name": "scroll_bar_foreground_pressed_blend_color",
+            "order": 6492
+        },
+        {
+            "type": "float",
+            "name": "Title_extra_S",
+            "order": 6493
         }
     ]
 }
