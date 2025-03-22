@@ -278,6 +278,14 @@
                 {
                     "name": "apply_text_font_size",
                     "value": "$float:apply_text_font_size"
+                },
+                {
+                    "name": "common_cancel_text",
+                    "value":"$string:general_cancel"
+                },
+                {
+                    "name": "textoverlay_paste",
+                    "value":"$string:general_paste"
                 }
             ]
         },
@@ -463,6 +471,14 @@
                 {
                     "name": "switch_hotzone_vertical_size",
                     "value": "$float:switch_hotzone_vertical_size"
+                },
+                {
+                    "name": "switch_on_text",
+                    "value":"$string:general_open"
+                },
+                {
+                    "name": "switch_off_text",
+                    "value":"$string:general_close"
                 }
             ]
         },
@@ -2520,6 +2536,14 @@
                 {
                     "name":"dialog_background_blur_style",
                     "value":"$float:dialog_background_blur_style"
+                },
+                {
+                    "name":"common_cancel_text",
+                    "value":"$string:general_cancel"
+                },
+                {
+                    "name":"common_ok_text",
+                    "value":"$string:general_confirm"
                 }
             ]
         },
