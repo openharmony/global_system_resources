@@ -3955,6 +3955,94 @@
         {
             "name": "popup_button_border_radius",
             "value": "14.0vp"
+        },
+        {
+            "name": "button_type_normal",
+            "value": "0"
+        },
+        {
+            "name": "button_type_capsule",
+            "value": "1"
+        },
+        {
+            "name": "button_type_circle",
+            "value": "2"
+        },
+        {
+            "name": "button_type_text",
+            "value": "3"
+        },
+        {
+            "name": "button_type_arc",
+            "value": "4"
+        },
+        {
+            "name": "button_type_download",
+            "value": "5"
+        },
+        {
+            "name": "button_type_icon",
+            "value": "6"
+        },
+        {
+            "name": "button_type_custom",
+            "value": "7"
+        },
+        {
+            "name": "button_type_rounded_rectangle",
+            "value": "8"
+        },
+        {
+            "name": "popup_secondary_button_shadow_radius",
+            "value": "0.0f"
+        },
+        {
+            "name": "popup_secondary_button_shadow_offset_X",
+            "value": "0.0f"
+        },
+        {
+            "name": "popup_secondary_button_shadow_offset_Y",
+            "value": "0.0f"
+        },
+        {
+            "name": "popup_button_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "popup_button_space",
+            "value": "0.0vp"
+        },
+        {
+            "name": "popup_button_top_margin",
+            "value": "0.0vp"
+        },
+        {
+            "name": "popup_button_bottom_margin",
+            "value": "4.0vp"
+        },
+        {
+            "name": "popup_button_height",
+            "value": "40.0vp"
+        },
+        {
+            "name": "popup_button_left_margin",
+            "value": "0.0vp"
+        },
+        {
+            "name": "popup_button_right_margin",
+            "value": "4.0vp"
+        },
+        {
+            "name": "popup_button_text_font_weight",
+            "value": "14"
+        },
+        {
+            "name": "popup_button_flex_grow",
+            "value": "0"
+        },
+        {
+            "name": "popup_double_button_is_same_style",
+            "value": "1"
         }
     ]
 }
