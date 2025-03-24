@@ -547,6 +547,14 @@
         {
             "name": "font_on_fourth",
             "value": "#33000000"
+        },
+        {
+            "name": "scroll_bar_foreground_hover_blend_color",
+            "value": "$color:interactive_hover"
+        },
+        {
+            "name": "scroll_bar_foreground_pressed_blend_color",
+            "value": "$color:interactive_pressed"
         }
     ]
 }

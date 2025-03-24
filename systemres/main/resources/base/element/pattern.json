@@ -4206,6 +4206,14 @@
                 {
                     "name": "arc_scroll_bar_background_color",
                     "value": "$color:arc_scroll_bar_background_color"
+                },
+                {
+                    "name": "scroll_bar_foreground_hover_blend_color",
+                    "value": "$color:scroll_bar_foreground_hover_blend_color"
+                },
+                {
+                    "name": "scroll_bar_foreground_pressed_blend_color",
+                    "value": "$color:scroll_bar_foreground_pressed_blend_color"
                 }
             ]
         },
