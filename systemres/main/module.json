@@ -3058,6 +3058,14 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
+			{
+                "name": "ohos.permission.MANAGE_APP_UNINSTALL",
+                "grantMode": "system_grant",
+                "since": 18,
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
             {
                 "name": "ohos.permission.RECEIVE_APP_INSTALL_INFO_CHANGE",
                 "grantMode": "system_grant",
