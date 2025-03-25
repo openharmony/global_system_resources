@@ -57,7 +57,7 @@
                 "name": "ohos.permission.WRITE_PROTECTION_ADVICE_POLICY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": 18,
+                "since": 17,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -66,7 +66,7 @@
                 "name": "ohos.permission.READ_PROTECTION_ADVICE_POLICY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": 18,
+                "since": 17,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -5298,6 +5298,15 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CHANGE_DEFAULT_APPLICATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 17,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
