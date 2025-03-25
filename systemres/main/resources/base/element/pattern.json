@@ -5741,6 +5741,34 @@
                 {
                     "name": "text_overlay_menu_enable",
                     "value": "$float:text_overlay_menu_enable"
+                },
+                {
+                    "name": "text_overlay_menu_cut_label",
+                    "value": "$string:general_cut"
+                },
+                {
+                    "name": "text_overlay_menu_copy_label",
+                    "value": "$string:general_copy"
+                },
+                {
+                    "name": "text_overlay_menu_paste_label",
+                    "value": "$string:general_paste"
+                },
+                {
+                    "name": "text_overlay_menu_select_all_label",
+                    "value": "$string:general_select_all"
+                },
+                {
+                    "name": "text_overlay_menu_translate_label",
+                    "value": "$string:general_translate"
+                },
+                {
+                    "name": "text_overlay_menu_share_label",
+                    "value": "$string:general_share"
+                },
+                {
+                    "name": "text_overlay_menu_search_label",
+                    "value": "$string:general_search"
                 }
             ]
         },
