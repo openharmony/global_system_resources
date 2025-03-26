@@ -5294,6 +5294,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CUSTOM_SANDBOX",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.CHANGE_DEFAULT_APPLICATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
