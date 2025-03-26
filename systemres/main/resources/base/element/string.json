@@ -987,19 +987,31 @@
         },
         {
             "name": "general_confirm",
-            "value": "OK"
+            "value": "OK",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_last_step",
-            "value": "Previous"
+            "value": "Previous",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_next_step",
-            "value": "Next"
+            "value": "Next",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "last_updated_time",
-            "value": "Last updated: %s"
+            "value": "Last updated: %s",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_refresh",
@@ -1007,23 +1019,38 @@
         },
         {
             "name": "general_copy",
-            "value": "Copy"
+            "value": "Copy",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_cut",
-            "value": "Cut"
+            "value": "Cut",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_select_all",
-            "value": "Select all"
+            "value": "Select all",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_translate",
-            "value": "Translate"
+            "value": "Translate",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_share",
-            "value": "Share"
+            "value": "Share",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_search",
@@ -1031,19 +1058,31 @@
         },
         {
             "name": "general_open",
-            "value": "On"
+            "value": "On",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_close",
-            "value": "Off"
+            "value": "Off",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_start",
-            "value": "Start"
+            "value": "Start",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_skip",
-            "value": "Skip"
+            "value": "Skip",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_maximized_display",
@@ -1067,7 +1106,10 @@
         },
         {
             "name": "general_window_right_screen",
-            "value": "Show on right"
+            "value": "Show on right",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_text_clock_week",
@@ -1075,7 +1117,10 @@
         },
         {
             "name": "general_display_lunar_calendar",
-            "value": "Show lunar calendar"
+            "value": "Show lunar calendar",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_calendar_week",
@@ -1137,19 +1182,31 @@
         },
         {
             "name": "general_paste",
-            "value": "Paste"
+            "value": "Paste",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_cancel",
-            "value": "Cancel"
+            "value": "Cancel",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_more",
-            "value": "More"
+            "value": "More",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "stepper_back",
-            "value": "Back"
+            "value": "Back",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "calendar_picker_mon",
@@ -1181,7 +1238,10 @@
         },
         {
             "name": "stepper_next",
-            "value": "Next"
+            "value": "Next",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "textfield_show_password",
@@ -1942,11 +2002,17 @@
         },
         {
             "name": "sheet_close",
-            "value": "Close"
+            "value": "Close",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "navigation_back",
-            "value": "Back"
+            "value": "Back",
+            "attr": {
+                "priority": "translate"
+            }
         }
     ]
 }
