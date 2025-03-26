@@ -336,39 +336,66 @@
         },
         {
             "name": "general_confirm",
-            "value": "جەزملەش"
+            "value": "جەزملەش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_last_step",
-            "value": "ئالدىنقى"
+            "value": "ئالدىنقى",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_next_step",
-            "value": "كېيىنكى"
+            "value": "كېيىنكى",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "last_updated_time",
-            "value": "يېڭىلانغان ۋاقىت: %s"
+            "value": "يېڭىلانغان ۋاقىت: %s",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_copy",
-            "value": "كۆچۈرۈش"
+            "value": "كۆچۈرۈش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_cut",
-            "value": "كېسىش"
+            "value": "كېسىش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_select_all",
-            "value": "ھەممىنى تاللاش"
+            "value": "ھەممىنى تاللاش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_translate",
-            "value": "تەرجىمە"
+            "value": "تەرجىمە",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_share",
-            "value": "ئورتاقلىشىش"
+            "value": "ئورتاقلىشىش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_search",
@@ -376,19 +403,31 @@
         },
         {
             "name": "general_open",
-            "value": "ئوچۇق"
+            "value": "ئوچۇق",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_close",
-            "value": "ئېتىك"
+            "value": "ئېتىك",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_start",
-            "value": "باشلاش"
+            "value": "باشلاش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_skip",
-            "value": "ئاتلاش"
+            "value": "ئاتلاش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_window_left_screen",
@@ -396,31 +435,52 @@
         },
         {
             "name": "general_window_right_screen",
-            "value": "ئوڭدا كۆرسىتىش"
+            "value": "ئوڭدا كۆرسىتىش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_display_lunar_calendar",
-            "value": "دېھقانلار كالېندارى كۆرسىتىش"
+            "value": "دېھقانلار كالېندارى كۆرسىتىش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_paste",
-            "value": "چاپلاش"
+            "value": "چاپلاش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_cancel",
-            "value": "بىكار قىلىش"
+            "value": "بىكار قىلىش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_more",
-            "value": "كۆپرەك"
+            "value": "كۆپرەك",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "stepper_back",
-            "value": "قايتىش"
+            "value": "قايتىش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "stepper_next",
-            "value": "كېيىنكى"
+            "value": "كېيىنكى",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "textfield_show_password",
@@ -1170,6 +1230,20 @@
             "attr":{
                 "priority":"translate"
             }
-        }        
+        },
+        {
+            "name": "navigation_back",
+            "value": "قايتىش",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "sheet_close",
+            "value": "ئېتىش",
+            "attr": {
+                "priority": "translate"
+            }
+        }  
     ]
 }

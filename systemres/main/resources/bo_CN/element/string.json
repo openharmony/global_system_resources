@@ -343,39 +343,66 @@
         },
         {
             "name": "general_confirm",
-            "value": "གཏན་འཁེལ།"
+            "value": "གཏན་འཁེལ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_last_step",
-            "value": "གོམ་རིམ་གོང་མ།"
+            "value": "གོམ་རིམ་གོང་མ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_next_step",
-            "value": "དེ་རྗེས།"
+            "value": "གོམ་རིམ་ཕྱི་མ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "last_updated_time",
-            "value": "ཐེངས་སྔོན་མའི་གསར་སྒྱུར་དུས་ཚོད། : %s"
+            "value": "ཐེངས་སྔོན་མའི་གསར་སྒྱུར་དུས་ཚོད། %s",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_copy",
-            "value": "འདྲ་བཤུས།"
+            "value": "འདྲ་བཤུ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_cut",
-            "value": "དྲས་གཏུབ།"
+            "value": "དྲས་གཏུབ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_select_all",
-            "value": "ཡོངས་འདེམས།"
+            "value": "ཡོངས་འདེམས།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_translate",
-            "value": "ཡིག་སྒྱུར།"
+            "value": "ཡིག་སྒྱུར།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_share",
-            "value": "མཉམ་སྤྱོད།"
+            "value": "མཉམ་སྤྱོད།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_search",
@@ -383,19 +410,31 @@
         },
         {
             "name": "general_open",
-            "value": "ཕྱེ།"
+            "value": "ཕྱེ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_close",
-            "value": "ཁ་རྒྱག"
+            "value": "ཁ་རྒྱག",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_start",
-            "value": "འགོ་ཚུགས།"
+            "value": "འགོ་རྩོམ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_skip",
-            "value": "མཆོང་བ།"
+            "value": "མཆོང་བ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_window_left_screen",
@@ -403,31 +442,52 @@
         },
         {
             "name": "general_window_right_screen",
-            "value": "སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་གཡས་སུ་མངོན་སྟོན་བྱེད།"
+            "value": "གཡས་སུ་མངོན་སྟོན།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_display_lunar_calendar",
-            "value": "ལུགས་རྙིང་ལོ་ཐོ་མངོན་སྟོན།"
+            "value": "ལུགས་རྙིང་ལོ་ཐོ་མངོན་སྟོན།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_paste",
-            "value": "སྦྱར་བ།"
+            "value": "སྦྱར་བ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_cancel",
-            "value": "འདོར་བ།"
+            "value": "འདོར་བ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_more",
-            "value": "དེ་ལས་མང་བ།"
+            "value": "དེ་ལས་མང་བ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "stepper_back",
-            "value": "ཕྱིར་ལོག"
+            "value": "ཕྱིར་ལོག",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "stepper_next",
-            "value": "གོམ་རིམ་རྗེས་མ།"
+            "value": "གོམ་རིམ་ཕྱི་མ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "textfield_show_password",
@@ -1170,6 +1230,20 @@
             "attr":{
                 "priority":"translate"
             }
-        }        
+        },
+        {
+            "name": "navigation_back",
+            "value": "ཕྱིར་ལོག",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "sheet_close",
+            "value": "ཁ་རྒྱག",
+            "attr": {
+                "priority": "translate"
+            }
+        }   
     ]
 }
