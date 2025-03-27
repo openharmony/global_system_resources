@@ -5248,6 +5248,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SEND_NOTIFICATION_CROSS_USER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
