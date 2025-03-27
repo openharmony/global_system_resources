@@ -3416,6 +3416,18 @@
                 {
                     "name": "picker_digital_circle",
                     "value": "$float:picker_digital_circle"
+                },
+                {
+                    "name": "picker_dialog_lunar_switch",
+                    "value": "$string:general_display_lunar_calendar"
+                },
+                {
+                    "name": "picker_dialog_previous_button",
+                    "value": "$string:general_last_step"
+                },
+                {
+                    "name": "picker_dialog_next_button",
+                    "value": "$string:general_next_step"
                 }
             ]
         },
