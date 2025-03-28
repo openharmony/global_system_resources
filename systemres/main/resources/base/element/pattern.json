@@ -4595,6 +4595,14 @@
                     "value": "$float:swiper_crown_translocation_ratio"
                 },
                 {
+                    "name": "swiper_fling_animation_stiffness",
+                    "value": "$float:swiper_fling_animation_stiffness"
+                },
+                {
+                    "name": "swiper_fling_animation_damping",
+                    "value": "$float:swiper_fling_animation_damping"
+                },
+                {
                     "name": "dot_active_color",
                     "value": "$color:ohos_id_swiper_dot_active_color"
                 },
