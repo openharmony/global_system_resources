@@ -32672,6 +32672,21 @@
             "type": "float",
             "name": "text_overlay_menu_enable",
             "order": 6494
+        },
+        {
+            "type": "float",
+            "name": "picker_use_selected_background_style",
+            "order": 6495
+        },
+        {
+            "type": "color",
+            "name": "picker_selected_background_color",
+            "order": 6496
+        },
+        {
+            "type": "float",
+            "name": "picker_selected_border_radius",
+            "order": 6497
         }
     ]
 }
