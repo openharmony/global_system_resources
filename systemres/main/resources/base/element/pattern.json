@@ -9437,6 +9437,27 @@
                     "value": "$float:app_theme_drag_pan_distance_mouse"
                 }
             ]
+        },
+        {
+            "name": "ohos_text_clock_pattern",
+            "value": [
+                {
+                    "name": "general_text_clock_week",
+                    "value": "$string:general_text_clock_week"
+                },
+                {
+                    "name": "general_year",
+                    "value": "$string:general_year"
+                },
+                {
+                    "name": "general_month",
+                    "value": "$string:general_month"
+                },
+                {
+                    "name": "general_day",
+                    "value": "$string:general_day"
+                }
+            ]
         }
     ]
 }
