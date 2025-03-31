@@ -5321,6 +5321,33 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.READ_DHA",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.WRITE_DHA",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.NOTIFY_DHA",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.SEND_NOTIFICATION_CROSS_USER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
