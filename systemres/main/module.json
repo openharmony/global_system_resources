@@ -5330,6 +5330,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_CALENDARDATA_FOR_BROKER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 17,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_SCREEN_TIME_GUARD",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
