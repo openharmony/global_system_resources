@@ -33,18 +33,6 @@
             "value": "#4DFFFFFF"
         },
         {
-            "name": "font_primary",
-            "value": "#E5FFFFFF"
-        },
-        {
-            "name": "font_secondary",
-            "value": "#99FFFFFF"
-        },
-        {
-            "name": "font_tertiary",
-            "value": "#66FFFFFF"
-        },
-        {
             "name": "slider_hover_color",
             "value": "#19FFFFFF"
         },
@@ -206,7 +194,7 @@
         },
         {
             "name": "capsule_progress_bg_focused_color",
-            "value": "$color:interactive_focus"
+            "value": "#858688"
         },
         {
             "name": "capsule_progress_bg_color",
@@ -218,11 +206,11 @@
         },
         {
             "name": "capsule_progress_select_focused_color",
-            "value": "#7FFFFFFF"
+            "value": "#33FFFFFF"
         },
         {
             "name": "fg_progress_color",
-            "value": "$color:ohos_id_color_progress"
+            "value": "$color:gray_02"
         },
         {
             "name": "loading_progress_focused_color",
@@ -434,7 +422,7 @@
         },
         {
             "name": "segment_button_backboard_color",
-            "value": "#33F1F3F5"
+            "value": "#59F1F3F5"
         },
         {
             "name": "segment_button_hover_color",
@@ -454,7 +442,7 @@
         },
         {
             "name": "segment_button_focus_backboard_primary",
-            "value": "#7FFFFFFF"
+            "value": "#4DFFFFFF"
         },
         {
             "name": "segment_button_focus_text_primary",
@@ -482,7 +470,7 @@
         },
         {
             "name": "font_emphasize",
-            "value": "#5291FF"
+            "value": "#266EFB"
         },
         {
             "name": "comp_background_tertiary",
@@ -490,7 +478,7 @@
         },
         {
             "name": "font_on_primary",
-            "value": "#E5000000"
+            "value": "#E6FFFFFF"
         },
         {
             "name": "warning",
@@ -502,15 +490,15 @@
         },
         {
             "name": "icon_fourth",
-            "value": "#33FFFFFF"
+            "value": "#99F1F3F5"
         },
         {
             "name": "icon_on_primary",
-            "value": "#E5000000"
+            "value": "#F1F3F5"
         },
         {
             "name": "background_emphasize",
-            "value": "$color:brand"
+            "value": "#266EFB"
         },
         {
             "name": "subtab_board_text_on_color",
@@ -519,34 +507,6 @@
         {
             "name": "comp_background_secondary",
             "value": "#33F1F3F5"
-        },
-        {
-            "name": "icon_sub_emphasize",
-            "value": "#665291FF"
-        },
-        {
-            "name": "icon_on_secondary",
-            "value": "#99000000"
-        },
-        {
-            "name": "icon_on_tertiary",
-            "value": "#66000000"
-        },
-        {
-            "name": "icon_on_fourth",
-            "value": "#33000000"
-        },
-        {
-            "name": "font_on_secondary",
-            "value": "#99000000"
-        },
-        {
-            "name": "font_on_tertiary",
-            "value": "#66000000"
-        },
-        {
-            "name": "font_on_fourth",
-            "value": "#33000000"
         },
         {
             "name": "scroll_bar_foreground_hover_blend_color",
