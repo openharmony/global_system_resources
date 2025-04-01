@@ -4292,6 +4292,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.RECEIVE_BMS_BROKER_MESSAGES",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+	        {
                 "name": "ohos.permission.ACCESS_FUSION_MANAGER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
