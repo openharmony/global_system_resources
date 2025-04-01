@@ -5609,6 +5609,10 @@
                 {
                     "name": "text_overlay_menu_cut",
                     "value": "$string:text_overlay_menu_cut"
+                },
+                {
+                    "name": "text_overlay_menu_enable",
+                    "value": "$float:text_overlay_menu_enable"
                 }
             ]
         },

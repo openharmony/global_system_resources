@@ -27,6 +27,10 @@
         {
             "name": "menu_padding_interval",
             "value": "$float:padding_level2"
-		}
+		},
+        {
+            "name": "text_overlay_menu_enable",
+            "value": "1.0"
+        }
     ]
 }
