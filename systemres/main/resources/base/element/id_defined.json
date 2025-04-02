@@ -32692,6 +32692,16 @@
             "type": "pattern",
             "name": "ohos_text_clock_pattern",
             "order": 6498
+        },
+        {
+            "type": "float",
+            "name": "refresh_over_edge_following_ratio",
+            "order": 6499
+        },
+        {
+            "type": "float",
+            "name": "refresh_over_edge_following_ratio_api_twenty",
+            "order": 6500
         }
     ]
 }
