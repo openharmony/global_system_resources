@@ -4145,6 +4145,14 @@
                 {
                     "name": "prompt_text",
                     "value": "$string:last_updated_time"
+                },
+                {
+                    "name": "refresh_over_edge_following_ratio",
+                    "value": "$float:refresh_over_edge_following_ratio"
+                },
+                {
+                    "name": "refresh_over_edge_following_ratio_api_twenty",
+                    "value": "$float:refresh_over_edge_following_ratio_api_twenty"
                 }
             ]
         },
