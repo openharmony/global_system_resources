@@ -33105,6 +33105,16 @@
             "type": "float",
             "name": "text_overlay_menu_enable",
             "order": 6494
+        },
+        {
+            "type": "float",
+            "name": "swiper_fling_animation_stiffness",
+            "order": 6495
+        },
+        {
+            "type": "float",
+            "name": "swiper_fling_animation_damping",
+            "order": 6496
         }
     ]
 }
