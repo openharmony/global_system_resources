@@ -33115,6 +33115,28 @@
             "type": "float",
             "name": "swiper_fling_animation_damping",
             "order": 6496
+        },
+        {
+            "type": "color",
+            "name": "font_emphasize_contrary",
+            "order": 6497,
+            "flags": "private"
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_text_clock_pattern",
+            "order": 6498,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "refresh_over_edge_following_ratio",
+            "order": 6499
+        },
+        {
+            "type": "float",
+            "name": "refresh_over_edge_following_ratio_api_eighteen",
+            "order": 6500
         }
     ]
 }
