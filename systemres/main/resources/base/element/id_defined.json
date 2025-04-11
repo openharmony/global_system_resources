@@ -32702,6 +32702,11 @@
             "type": "float",
             "name": "refresh_over_edge_following_ratio_api_twenty",
             "order": 6500
+        },
+        {
+            "type": "string",
+            "name": "arkui_app_bar_provide_service",
+            "order": 6501
         }
     ]
 }
