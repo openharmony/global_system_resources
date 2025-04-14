@@ -5124,33 +5124,6 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.INSTALL_PLUGIN_BUNDLE",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": 18,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
-                "name": "ohos.permission.UNINSTALL_PLUGIN_BUNDLE",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": 18,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
-                "name": "ohos.permission.kernel.SUPPORT_PLUGIN",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": 18,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
                 "name": "ohos.permission.ANTIFRAUD_DETECT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
