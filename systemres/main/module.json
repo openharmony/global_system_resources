@@ -1020,6 +1020,7 @@
                 "name": "ohos.permission.GET_BUNDLE_INFO_PRIVILEGED",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
+                "availableType": "ENTERPRISE_NORMAL",
                 "since": 7,
                 "deprecated": "",
                 "provisionEnable": true,
