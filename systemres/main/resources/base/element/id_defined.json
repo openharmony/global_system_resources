@@ -32676,7 +32676,8 @@
         {
             "type": "float",
             "name": "picker_use_selected_background_style",
-            "order": 6495
+            "order": 6495,
+            "flags":"private"
         },
         {
             "type": "color",
