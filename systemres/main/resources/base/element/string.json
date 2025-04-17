@@ -2001,6 +2001,13 @@
             }
         },
         {
+            "name": "arkui_app_bar_maximize",
+            "value": "Maximize",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name": "sheet_close",
             "value": "Close",
             "attr": {
