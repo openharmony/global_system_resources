@@ -32707,6 +32707,11 @@
             "type": "string",
             "name": "arkui_app_bar_provide_service",
             "order": 6501
+        },
+        {
+            "type": "string",
+            "name": "form_disable_app_locked",
+            "order": 6502
         }
     ]
 }
