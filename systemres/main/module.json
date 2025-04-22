@@ -5400,6 +5400,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_MEDIALIB_RESTORE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 17,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
