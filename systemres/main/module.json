@@ -5400,6 +5400,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CUSTOMIZE_SAVE_BUTTON",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
