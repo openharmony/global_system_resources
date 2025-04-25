@@ -30381,12 +30381,14 @@
         {
             "type": "float",
             "name": "toast_top",
-            "order": 6036
+            "order": 6036,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "toast_top_new",
-            "order": 6037
+            "order": 6037,
+            "flags": "private"
         },
         {
             "type": "string",
