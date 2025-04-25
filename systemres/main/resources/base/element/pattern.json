@@ -5813,6 +5813,14 @@
                 {
                     "name": "text_overlay_menu_search_label",
                     "value": "$string:general_search"
+                },
+                {
+                    "name": "text_overlay_menu_more_accessibility_text",
+                    "value": "$string:text_overlay_menu_more_accessibility_text"
+                },
+                {
+                    "name": "text_overlay_menu_back_accessibility_text",
+                    "value": "$string:text_overlay_menu_back_accessibility_text"
                 }
             ]
         },
