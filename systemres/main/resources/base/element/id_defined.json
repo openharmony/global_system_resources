@@ -24312,7 +24312,8 @@
         {
             "type": "string",
             "name": "general_refresh",
-            "order": 4826
+            "order": 4826,
+            "flags": "private"
         },
         {
             "type": "string",
@@ -24367,22 +24368,26 @@
         {
             "type": "string",
             "name": "general_maximized_display",
-            "order": 4837
+            "order": 4837,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "general_exit_maximized_display",
-            "order": 4838
+            "order": 4838,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "general_full_screen_display",
-            "order": 4839
+            "order": 4839,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "general_exit_full_screen_display",
-            "order": 4840
+            "order": 4840,
+            "flags": "private"
         },
         {
             "type": "string",
@@ -24397,7 +24402,8 @@
         {
             "type": "string",
             "name": "general_text_clock_week",
-            "order": 4843
+            "order": 4843,
+            "flags": "private"
         },
         {
             "type": "string",
@@ -24407,22 +24413,26 @@
         {
             "type": "string",
             "name": "general_calendar_week",
-            "order": 4845
+            "order": 4845,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "general_year",
-            "order": 4846
+            "order": 4846,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "general_month",
-            "order": 4847
+            "order": 4847,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "general_day",
-            "order": 4848
+            "order": 4848,
+            "flags": "private"
         },
         {
             "type": "string",
