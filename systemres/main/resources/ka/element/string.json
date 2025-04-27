@@ -216,6 +216,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"წარმატებული: %1$d, წარუმატებელი: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"ჩამოტვირთვა დასრულდა (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

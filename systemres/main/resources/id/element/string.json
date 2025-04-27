@@ -216,6 +216,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Berhasil: %1$d, Gagal: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Pengunduhan selesai (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

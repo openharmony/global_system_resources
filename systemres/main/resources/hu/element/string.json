@@ -300,6 +300,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Sikeres: %1$d, sikertelen: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"A letöltés befejeződött (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

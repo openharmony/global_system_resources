@@ -300,6 +300,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"সফল: %1$dটি, ব্যর্থ: %2$dটি",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"ডাউনলোড সম্পন্ন হয়েছে (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -300,6 +300,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Завершено: %1$d, не завершено: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Завантаження завершено (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

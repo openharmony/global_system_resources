@@ -300,6 +300,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Επιτυχημένες: %1$d, Αποτυχημένες: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Η λήψη ολοκληρώθηκε (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

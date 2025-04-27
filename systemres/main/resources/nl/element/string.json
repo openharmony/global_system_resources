@@ -300,6 +300,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Voltooid: %1$d, Mislukt: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Download voltooid (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

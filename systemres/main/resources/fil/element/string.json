@@ -216,6 +216,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Matagumpay: %1$d, Nabigo: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Tapos na ang download (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

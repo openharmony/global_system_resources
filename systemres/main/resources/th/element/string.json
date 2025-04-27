@@ -300,6 +300,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"สำเร็จ: %1$d, ล้มเหลว: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"การดาวน์โหลดเสร็จสมบูรณ์ (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

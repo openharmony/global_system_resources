@@ -307,6 +307,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"成功：%1$d、失敗：%2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"ダウンロード完了（%s）",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

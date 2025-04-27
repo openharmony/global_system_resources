@@ -314,6 +314,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"اكتمل تنزيل:‏ %1$d، وتعذر تنزيل:‏ %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"اكتمل التنزيل (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

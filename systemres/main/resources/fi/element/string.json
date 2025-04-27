@@ -300,6 +300,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Onnistui: %1$d, epäonnistui: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Lataus valmis (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
