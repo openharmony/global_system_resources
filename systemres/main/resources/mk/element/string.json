@@ -300,6 +300,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Успешно: %1$d, неуспешно: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Преземањето заврши (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

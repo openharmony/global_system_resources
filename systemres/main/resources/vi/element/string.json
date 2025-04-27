@@ -307,6 +307,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Thành công: %1$d, Không thành công: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Tải xuống hoàn tất (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

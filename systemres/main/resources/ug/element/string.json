@@ -1251,6 +1251,20 @@
             "attr": {
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"بولغان: %1$d، بولمىغان: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"چۈشۈپ بولدى (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

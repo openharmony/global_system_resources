@@ -1251,6 +1251,20 @@
             "attr":{
                 "priority":"translate"
            }
-        } 
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"%1$d གྲུབ། %2$d མ་གྲུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"ཕབ་ལེན་བྱས་ཚར་བ། %s",
+            "attr":{
+                "priority":"translate"
+            }
+        }
     ]
 }

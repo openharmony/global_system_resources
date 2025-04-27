@@ -307,6 +307,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Succès : %1$d, échec : %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Téléchargement terminé (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

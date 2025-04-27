@@ -216,6 +216,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"အောင်မြင်မှု- %1$d၊ မအောင်မြင်မှု- %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"ဒေါင်းလုဒ် ပြီးဆုံးပါပြီ (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

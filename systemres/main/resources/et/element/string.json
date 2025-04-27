@@ -300,6 +300,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Õnnestus: %1$d, nurjus: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Allalaadimine on lõpetatud (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -300,6 +300,20 @@
             "attr": {
                 "priority": "translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Úspěšně: %1$d, Neúspěšně: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Stahování dokončeno (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

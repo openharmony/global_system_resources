@@ -314,6 +314,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Выполнено: %1$d. Сбой: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Загрузка завершена (%s)",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

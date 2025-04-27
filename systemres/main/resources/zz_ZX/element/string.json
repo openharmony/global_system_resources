@@ -799,6 +799,14 @@
         {
             "name":"arkui_app_bar_maximize",
             "value":"[TS_1064031]_Maximize"
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"[TS_1045860]_Successful: %1$d, Failed: %2$d"
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"[TS_1045861]_Download complete (%s)"
         }
   ]
 }
