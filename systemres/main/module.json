@@ -5375,15 +5375,6 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.MANAGE_SCREEN_TIME_GUARD",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": 20,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
                 "name": "ohos.permission.SANDBOX_ACCESS_MANAGER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
