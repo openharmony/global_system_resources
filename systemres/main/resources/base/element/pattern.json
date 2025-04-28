@@ -1363,7 +1363,7 @@
                 },
                 {
                     "name": "item_normal_color",
-                    "value": "$color:comp_background_primary"
+                    "value": "$color:ohos_id_color_list_card_bg"
                 },
                 {
                     "name": "item_margin_left",
@@ -1375,19 +1375,19 @@
                 },
                 {
                     "name": "item_border_radius",
-                    "value": "$float:corner_radius_level12"
+                    "value": "$float:ohos_id_corner_radius_default_l"
                 },
                 {
                     "name": "item_focus_color",
-                    "value": "$color:interactive_focus"
+                    "value": "$color:ohos_id_color_focused_outline"
                 },
                 {
                     "name": "item_hover_color",
-                    "value": "$color:interactive_hover"
+                    "value": "$color:ohos_id_color_hover"
                 },
                 {
                     "name": "item_press_color",
-                    "value": "$color:interactive_click"
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
                     "name": "item_disabled_alpha",
@@ -1395,7 +1395,7 @@
                 },
                 {
                     "name": "item_select_color",
-                    "value": "$color:comp_background_emphasize"
+                    "value": "$color:ohos_id_color_emphasize"
                 },
                 {
                     "name": "item_selected_alpha",
@@ -3972,7 +3972,7 @@
                 },
                 {
                     "name": "text_color",
-                    "value": "$color:font_secondary"
+                    "value": "$color:ohos_id_color_text_secondary"
                 },
                 {
                     "name": "progress_color",
@@ -4388,15 +4388,15 @@
             "value": [
                 {
                     "name": "indicator_color_selected",
-                    "value": "$color:comp_background_emphasize"
+                    "value": "$color:ohos_id_color_emphasize"
                 },
                 {
                     "name": "indicator_color",
-                    "value": "$color:comp_background_secondary"
+                    "value": "$color:ohos_id_color_component_normal"
                 },
                 {
                     "name": "indicator_hotzone_color",
-                    "value": "$color:interactive_click"
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
                     "name": "indicator_text_color",
@@ -4404,7 +4404,7 @@
                 },
                 {
                     "name": "indicator_text_color_focused",
-                    "value": "$color:interactive_focus"
+                    "value": "$color:ohos_id_color_focused_bg"
                 },
                 {
                     "name": "indicator_text_font_size",
@@ -4432,11 +4432,11 @@
                 },
                 {
                     "name": "arrow_color_boardColor_hover",
-                    "value": "$color:interactive_hover"
+                    "value": "$color:ohos_id_color_hover"
                 },
                 {
                     "name": "arrow_color_boardColor_click",
-                    "value": "$color:interactive_click"
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
                     "name": "arrow_color_primary",
@@ -4448,7 +4448,7 @@
                 },
                 {
                     "name": "arrow_color_component_normal",
-                    "value": "$color:comp_background_secondary"
+                    "value": "$color:ohos_id_color_component_normal"
                 },
                 {
                     "name": "arrow_horizontal_margin",
@@ -4777,7 +4777,7 @@
                 },
                 {
                     "name": "divider_color",
-                    "value": "$color:comp_divider"
+                    "value": "$color:ohos_id_color_list_separator"
                 },
                 {
                     "name": "tab_bar_shadow_margin",
@@ -4797,11 +4797,11 @@
                 },
                 {
                     "name": "bottom_tab_icon",
-                    "value": "$color:icon_emphasize"
+                    "value": "$color:ohos_id_color_bottom_tab_icon"
                 },
                 {
                     "name": "bottom_tab_icon_off",
-                    "value": "$color:font_fourth"
+                    "value": "$color:ohos_id_color_bottom_tab_icon_off"
                 },
                 {
                     "name": "bottom_tab_symbol",
@@ -4809,7 +4809,7 @@
                 },
                 {
                     "name": "bottom_tab_symbol_off",
-                    "value": "$color:icon_tertiary"
+                    "value": "$color:ohos_fa_icon_tertiary"
                 },
                 {
                     "name": "tab_bar_column_gutter",
@@ -6827,19 +6827,19 @@
                 },
                 {
                     "name": "grid_item_press_color",
-                    "value": "$color:interactive_click"
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
                     "name": "grid_item_hover_color",
-                    "value": "$color:interactive_hover"
+                    "value": "$color:ohos_id_color_hover"
                 },
                 {
                     "name": "grid_item_focus_border_radius",
-                    "value": "$float:corner_radius_level4"
+                    "value": "$float:ohos_id_corner_radius_clicked"
                 },
                 {
                     "name": "grid_item_focus_color",
-                    "value": "$color:interactive_focus"
+                    "value": "$color:ohos_id_color_focused_outline"
                 }
             ]
         },
@@ -7246,7 +7246,7 @@
                 },
                 {
                     "name": "selected_text_color",
-                    "value": "$color:font_emphasize"
+                    "value": "$color:ohos_id_color_text_primary_activated"
                 },
                 {
                     "name": "popup_text_color",
@@ -7258,15 +7258,15 @@
                 },
                 {
                     "name": "popup_selected_text_color",
-                    "value": "$color:font_primary"
+                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "popup_unselected_text_color",
-                    "value": "$color:font_primary"
+                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "selected_background_color",
-                    "value": "$color:comp_emphasize_secondary"
+                    "value": "$color:ohos_id_color_text_highlight_bg"
                 },
                 {
                     "name": "selected_background_color_opacity",
@@ -7278,7 +7278,7 @@
                 },
                 {
                     "name": "popup_separator_color",
-                    "value": "$color:comp_divider"
+                    "value": "$color:ohos_id_color_list_separator"
                 },
                 {
                     "name": "popup_area_size",
@@ -7286,7 +7286,7 @@
                 },
                 {
                     "name": "hover_radius_size",
-                    "value": "$float:corner_radius_level2"
+                    "value": "$float:ohos_id_corner_radius_default_xs"
                 },
                 {
                     "name": "hover_bg_area_size",
@@ -7294,7 +7294,7 @@
                 },
                 {
                     "name": "hover_bg_area_color",
-                    "value": "$color:interactive_hover"
+                    "value": "$color:ohos_id_color_hover"
                 },
                 {
                     "name": "hover_text_size",
@@ -7306,11 +7306,11 @@
                 },
                 {
                     "name": "slip_hover_background_color",
-                    "value": "$color:interactive_hover"
+                    "value": "$color:ohos_id_color_hover"
                 },
                 {
                     "name": "focus_bg_outline_color",
-                    "value": "$color:interactive_focus"
+                    "value": "$color:ohos_id_color_focused_outline"
                 },
                 {
                     "name": "focus_bg_outline_size",
@@ -7318,19 +7318,19 @@
                 },
                 {
                     "name": "pressed_bg_area_color",
-                    "value": "$color:interactive_click"
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
                     "name": "slip_pressed_background_color",
-                    "value": "$color:interactive_click"
+                    "value": "$color:ohos_id_color_click_effect"
                 },
                 {
                     "name": "popup_clicked_bg_area_color",
-                    "value": "$color:comp_background_tertiary"
+                    "value": "$color:ohos_id_color_button_normal"
                 },
                 {
                     "name": "popup_title_color",
-                    "value": "$color:comp_background_tertiary"
+                    "value": "$color:ohos_id_color_button_normal"
                 },
                 {
                     "name": "popup_unclicked_bg_area_color",
