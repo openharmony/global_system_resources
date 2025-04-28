@@ -1841,7 +1841,7 @@
                 },
                 {
                     "name": "text_color",
-                    "value": "#99ffffff"
+                    "value": "#E5FFFFFF"
                 },
                 {
                     "name": "bg_color_selected",
@@ -1849,15 +1849,15 @@
                 },
                 {
                     "name": "bg_color_hovered",
-                    "value": "#4dffffff"
+                    "value": "#19FFFFFF"
                 },
                 {
                     "name": "bg_color_pressed",
-                    "value": "#19ffffff"
+                    "value": "#4DFFFFFF"
                 },
                 {
                     "name": "bg_color_focused",
-                    "value": "#7FFFFFFF"
+                    "value": "$color:textfield_bg_color"
                 },
                 {
                     "name": "tips_text_color_focused",
@@ -2053,7 +2053,7 @@
                 },
                 {
                     "name": "textfield_border_radius",
-                    "value": "20.0vp"
+                    "value": "24.0vp"
                 },
                 {
                     "name": "textfield_disable_opacity_ratio",
