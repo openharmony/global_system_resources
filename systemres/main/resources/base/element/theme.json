@@ -270,6 +270,26 @@
                 {
                     "name": "text_clock_pattern",
                     "value": "$pattern:ohos_text_clock_pattern"
+                },
+                {
+                    "name":"security_component_pattern",
+                    "value":"$pattern:ohos_security_component_pattern"
+                },
+                {
+                    "name":"rich_editor_pattern",
+                    "value":"$pattern:ohos_rich_editor_pattern"
+                },
+                {
+                    "name":"hyperlink_pattern",
+                    "value":"$pattern:ohos_hyperlink_pattern"
+                },
+                {
+                    "name":"linear_indicator_pattern",
+                    "value":"$pattern:ohos_linear_indicator_pattern"
+                },
+                {
+                    "name":"scrollable_pattern",
+                    "value":"$pattern:ohos_scrollable_pattern"
                 }
             ]
         }
