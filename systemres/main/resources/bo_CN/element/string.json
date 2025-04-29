@@ -149,7 +149,10 @@
         },
         {
             "name": "ohos_add_form_to_desktop",
-            "value": "ཅོག་ངོས་ཐོག་ཏུ་སྣོན་པ།"
+            "value": "ཅོག་ངོས་ཐོག་སྣོན་པ།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name":"ohos_id_input_method_settings",
@@ -229,8 +232,11 @@
             "value" : "གསང་ཨང་གསལ་ཡིག་མི་མངོན།"
         },
         {
-            "name" : "form_disable_time_limit",
-            "value" : "དུས་ཚོད་ཚད་བཀག་ལ་སླེབས།"
+            "name": "form_disable_time_limit",
+            "value": "དུས་ཚོད་ཀྱི་བཅད་གྲངས་ལ་སླེབས།",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name":"ohos_toolbar_more",
@@ -1262,6 +1268,13 @@
         {
             "name":"request_agent_download_complete",
             "value":"ཕབ་ལེན་བྱས་ཚར་བ། %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_app_locked",
+            "value":"ཉེར་སྤྱོད་ལ་སྒོ་ལྕགས་བརྒྱབ་ཟིན།",
             "attr":{
                 "priority":"translate"
             }

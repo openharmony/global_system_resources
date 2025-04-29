@@ -807,6 +807,10 @@
         {
             "name":"request_agent_download_complete",
             "value":"[TS_1045861]_Download complete (%s)"
+        },
+        {
+            "name": "form_disable_app_locked",
+            "value": "[TS_1063977]_App is locked"
         }
   ]
 }
