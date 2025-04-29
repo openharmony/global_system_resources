@@ -30489,27 +30489,32 @@
         {
             "type": "float",
             "name": "sheet_close_icon_button_width",
-            "order": 6055
+            "order": 6055,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "sheet_landscape_default_width",
-            "order": 6056
+            "order": 6056,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "sheet_height_default_mode",
-            "order": 6057
+            "order": 6057,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "sheet_close_icon_button_style",
-            "order": 6058
+            "order": 6058,
+            "flags": "private"
         },
         {
             "type": "color",
             "name": "sheet_mask_color",
-            "order": 6059
+            "order": 6059,
+            "flags": "private"
         },
         {
             "type": "float",
