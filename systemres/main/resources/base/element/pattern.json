@@ -8247,7 +8247,7 @@
                 },
                 {
                     "name": "mask_color",
-                    "value": "$color:sheet_mask_color"
+                    "value": "$color:ohos_id_color_mask_thin"
                 },
                 {
                     "name": "close_icon_color",
@@ -8352,22 +8352,6 @@
                 {
                     "name": "sheet_shadow_config_s",
                     "value": "$float:window_shadow_config_s"
-                },
-                {
-                    "name": "sheet_close_icon_button_width",
-                    "value": "$float:sheet_close_icon_button_width"
-                },
-                {
-                    "name": "sheet_landscape_default_width",
-                    "value": "$float:sheet_landscape_default_width"
-                },
-                {
-                    "name": "sheet_height_default_mode",
-                    "value": "$float:sheet_height_default_mode"
-                },
-                {
-                    "name": "sheet_close_icon_button_style",
-                    "value": "$float:sheet_close_icon_button_style"
                 }
             ]
         },
