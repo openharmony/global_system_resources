@@ -149,7 +149,10 @@
         },
         {
             "name": "ohos_add_form_to_desktop",
-            "value": "ئۈستەليۈزىگە قوشۇش"
+            "value": "ئۈستەليۈزىگە قوشۇش",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name":"ohos_id_input_method_settings",
@@ -229,8 +232,11 @@
             "value" : "پارول يوشۇرۇش"
         },
         {
-            "name" : "form_disable_time_limit",
-            "value" : "ۋاقىت توشتى"
+            "name": "form_disable_time_limit",
+            "value": "ۋاقىت توشتى",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name":"ohos_toolbar_more",
@@ -1264,6 +1270,13 @@
             "value":"چۈشۈپ بولدى (%s)",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name": "form_disable_app_locked",
+            "value": "ئەپ قۇلۇپلاق",
+            "attr": {
+                "priority": "translate"
             }
         }
     ]

@@ -149,7 +149,10 @@
         },
         {
             "name": "ohos_add_form_to_desktop",
-            "value": "新增至桌面"
+            "value": "新增至桌面",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name":"ohos_id_input_method_settings",
@@ -229,8 +232,11 @@
             "value" : "不顯示密碼明文"
         },
         {
-            "name" : "form_disable_time_limit",
-            "value" : "時間限額"
+            "name": "form_disable_time_limit",
+            "value": "已達時間限額",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name":"ohos_toolbar_more",
@@ -1264,6 +1270,13 @@
             "value":"下載完成 %s",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name": "form_disable_app_locked",
+            "value": "應用程式已上鎖",
+            "attr": {
+                "priority": "translate"
             }
         }
     ]

@@ -800,7 +800,10 @@
         },
         {
             "name": "ohos_add_form_to_desktop",
-            "value": "添加至桌面"
+            "value": "添加至桌面",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "icon_save",
@@ -824,8 +827,11 @@
             }
         },
         {
-            "name" : "form_disable_time_limit",
-            "value" : "时间限额"
+            "name": "form_disable_time_limit",
+            "value": "已达时间限额",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name" : "textfield_accessibility_property_clear",
@@ -1881,8 +1887,11 @@
             }
         },
         {
-            "name" : "form_disable_app_locked",
-            "value" : "应用已上锁"
+            "name": "form_disable_app_locked",
+            "value": "应用已上锁",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name" : "text_overlay_menu_more_accessibility_text",

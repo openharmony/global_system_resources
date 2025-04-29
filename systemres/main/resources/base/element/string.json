@@ -880,7 +880,10 @@
         },
         {
             "name": "ohos_add_form_to_desktop",
-            "value": "Add to home screen"
+            "value": "Add to home screen",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "ohos_id_menu_has_filter",
@@ -932,8 +935,11 @@
             "value": "0"
         },
         {
-            "name" : "form_disable_time_limit",
-            "value" : "Time's up"
+            "name": "form_disable_time_limit",
+            "value": "Time's up",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name" : "textfield_accessibility_property_clear",
@@ -2025,8 +2031,11 @@
             }
         },
         {
-            "name" : "form_disable_app_locked",
-            "value" : "this app is locked"
+            "name": "form_disable_app_locked",
+            "value": "App is locked",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name" : "text_overlay_menu_more_accessibility_text",
