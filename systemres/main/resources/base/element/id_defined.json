@@ -28826,7 +28826,8 @@
         {
             "type": "string",
             "name": "temporarily_disable_shutdown_findee_text",
-            "order": 5728
+            "order": 5728,
+            "flags": "private"
         },
         {
             "type": "string",
