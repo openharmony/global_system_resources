@@ -32703,6 +32703,11 @@
             "type": "pattern",
             "name": "ohos_corner_mark_pattern",
             "order": 6500
+        },
+        {
+            "type": "float",
+            "name": "menu_word_break",
+            "order": 6501
         }
     ]
 }

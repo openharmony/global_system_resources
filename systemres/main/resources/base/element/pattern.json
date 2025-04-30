@@ -6805,6 +6805,10 @@
                 {
                     "name": "menu_haptic_feedback",
                     "value": "$string:menu_haptic_feedback"
+                },
+                {
+                    "name": "menu_word_break",
+                    "value": "$float:menu_word_break"
                 }
             ]
         },
