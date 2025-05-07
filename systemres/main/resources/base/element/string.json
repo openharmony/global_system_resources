@@ -1978,7 +1978,7 @@
         },
         {
             "name": "request_agent_download_complete",
-            "value": "Download complete"
+            "value": "Download complete %s"
         },
         {
             "name": "request_agent_upload_complete",
@@ -1986,7 +1986,7 @@
         },
         {
             "name": "request_agent_task_count",
-            "value": "%d succeeded, %d failed"
+            "value": "%1$d succeeded, %2$d failed"
         },
         {
             "name": "arkui_app_bar_service_panel",
