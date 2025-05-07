@@ -1900,6 +1900,41 @@
         {
             "name" : "text_overlay_menu_back_accessibility_text",
             "value" : "返回，"
+        },
+        {
+            "name": "pc_title_bar_close",
+            "value": "关闭",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "pc_title_bar_maximize",
+            "value": "最大化",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "pc_title_bar_minimize",
+            "value": "最小化",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "pc_title_bar_restore",
+            "value": "退出最大化",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "pc_title_bar_restored",
+            "value": "已退出最大化",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
