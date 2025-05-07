@@ -1088,7 +1088,21 @@
             }
         },
         {
+            "name": "text_overlay_menu_more_accessibility_text",
+            "value": "更多",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
             "name": "stepper_back",
+            "value": "返回",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name": "text_overlay_menu_back_accessibility_text",
             "value": "返回",
             "attr": {
                 "priority": "translate"
@@ -1892,14 +1906,6 @@
             "attr": {
                 "priority": "translate"
             }
-        },
-        {
-            "name" : "text_overlay_menu_more_accessibility_text",
-            "value" : "更多，"
-        },
-        {
-            "name" : "text_overlay_menu_back_accessibility_text",
-            "value" : "返回，"
         },
         {
             "name": "pc_title_bar_close",
