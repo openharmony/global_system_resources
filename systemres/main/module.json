@@ -5366,6 +5366,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.UNLOCK_DEVELOPER_MODE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_CALENDARDATA_FOR_BROKER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
