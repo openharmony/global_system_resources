@@ -32738,6 +32738,31 @@
             "type": "color",
             "name": "container_modal_special_background",
             "order": 6507
+        },
+        {
+            "type": "string",
+            "name": "pc_title_bar_close",
+            "order": 6508
+        },
+        {
+            "type": "string",
+            "name": "pc_title_bar_maximize",
+            "order": 6509
+        },
+        {
+            "type": "string",
+            "name": "pc_title_bar_minimize",
+            "order": 6510
+        },
+        {
+            "type": "string",
+            "name": "pc_title_bar_restore",
+            "order": 6511
+        },
+        {
+            "type": "string",
+            "name": "pc_title_bar_restored",
+            "order": 6512
         }
     ]
 }
