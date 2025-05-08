@@ -5620,6 +5620,14 @@
                 {
                     "name": "textfield_error_text_align",
                     "value": "$float:text_align_error"
+                },
+                {
+                    "name": "auto_fill_icon_primary_color",
+                    "value": "$color:icon_primary"
+                },
+                {
+                    "name": "auto_fill_icon_emphasize_color",
+                    "value": "$color:icon_emphasize"
                 }
             ]
         },
