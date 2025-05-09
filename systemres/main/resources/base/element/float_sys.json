@@ -1623,6 +1623,18 @@
         {
             "name": "popup_double_button_is_same_style_sys",
             "value": "$float:popup_double_button_is_same_style"
+        },
+        {
+            "name": "menu_animation_duration",
+            "value": "0"
+        },
+        {
+            "name": "menu_animation_scale",
+            "value": "0.6"
+        },
+        {
+            "name": "menu_animation_offset",
+            "value": "30.0px"
         }
     ]
 }

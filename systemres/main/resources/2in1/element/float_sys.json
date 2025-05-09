@@ -171,6 +171,18 @@
         {
             "name": "menu_padding_interval",
             "value": "$float:padding_level2"
-		}
+        },
+        {
+            "name": "menu_animation_duration",
+            "value": "100"
+        },
+        {
+            "name": "menu_animation_scale",
+            "value": "0.9"
+        },
+        {
+            "name": "menu_animation_offset",
+            "value": "0.0px"
+        }
     ]
 }

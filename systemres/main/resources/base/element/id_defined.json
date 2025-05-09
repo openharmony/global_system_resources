@@ -32860,6 +32860,26 @@
             "type": "string",
             "name": "general_ai_menu_url",
             "order": 6527
+        },
+        {
+            "type": "float",
+            "name": "menu_animation_duration",
+            "order": 6528
+        },
+        {
+            "type": "float",
+            "name": "menu_animation_scale",
+            "order": 6529
+        },
+        {
+            "type": "float",
+            "name": "menu_animation_offset",
+            "order": 6530
+        },
+        {
+            "type": "string",
+            "name": "menu_animation_curve",
+            "order": 6531
         }
     ]
 }
