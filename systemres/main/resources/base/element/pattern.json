@@ -3402,6 +3402,14 @@
                     "value": "$color:picker_selector_item_container_normal_color"
                 },
                 {
+                    "name": "picker_selected_background_color",
+                    "value": "$color:picker_selected_background_color"
+                },
+                {
+                    "name": "picker_selected_border_radius",
+                    "value": "$float:picker_selected_border_radius"
+                },
+                {
                     "name": "picker_focus_padding",
                     "value": "$float:picker_focus_padding"
                 },
