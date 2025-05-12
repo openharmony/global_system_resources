@@ -3061,7 +3061,7 @@
 			{
                 "name": "ohos.permission.MANAGE_APP_UNINSTALL",
                 "grantMode": "system_grant",
-                "since": 18,
+                "since": 19,
                 "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -5366,6 +5366,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.UNLOCK_DEVELOPER_MODE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 18,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_CALENDARDATA_FOR_BROKER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
@@ -5384,10 +5393,28 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CUSTOMIZE_SAVE_BUTTON",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_MEDIALIB_RESTORE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 17,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESSIBILITY_EXTENSION_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -5400,8 +5427,8 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
-              },
-              {
+            },
+            {
                 "name": "ohos.permission.WRITE_PARENT_CONTROL_DATA",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -5409,7 +5436,7 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
-              }
+            }
         ]
     }
 }

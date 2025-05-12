@@ -1978,7 +1978,7 @@
         },
         {
             "name": "request_agent_download_complete",
-            "value": "Download complete"
+            "value": "Download complete %s"
         },
         {
             "name": "request_agent_upload_complete",
@@ -1986,7 +1986,7 @@
         },
         {
             "name": "request_agent_task_count",
-            "value": "%d succeeded, %d failed"
+            "value": "%1$d succeeded, %2$d failed"
         },
         {
             "name": "arkui_app_bar_service_panel",
@@ -2044,6 +2044,41 @@
         {
             "name" : "text_overlay_menu_back_accessibility_text",
             "value" : "back,"
+        },
+        {
+            "name": "pc_title_bar_close",
+            "value": "Close",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "pc_title_bar_maximize",
+            "value": "Maximize",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "pc_title_bar_minimize",
+            "value": "Minimize",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "pc_title_bar_restore",
+            "value": "Restore",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "pc_title_bar_restored",
+            "value": "Restored",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
