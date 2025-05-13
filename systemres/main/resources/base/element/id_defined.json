@@ -32773,6 +32773,71 @@
             "type": "float",
             "name": "picker_selected_border_radius",
             "order": 6514
+        },
+        {
+            "type": "color",
+            "name": "ai_intelligent_gradient_color1",
+            "order": 6515
+        },
+        {
+            "type": "color",
+            "name": "ai_intelligent_gradient_color2",
+            "order": 6516
+        },
+        {
+            "type": "color",
+            "name": "ai_intelligent_gradient_color3",
+            "order": 6517
+        },
+        {
+            "type": "color",
+            "name": "ai_intelligent_gradient_color4",
+            "order": 6518
+        },
+        {
+            "type": "float",
+            "name": "ai_intelligent_gradient_scalar1",
+            "order": 6519
+        },
+        {
+            "type": "float",
+            "name": "ai_intelligent_gradient_scalar2",
+            "order": 6520
+        },
+        {
+            "type": "float",
+            "name": "ai_intelligent_gradient_scalar3",
+            "order": 6521
+        },
+        {
+            "type": "float",
+            "name": "ai_intelligent_gradient_scalar4",
+            "order": 6522
+        },
+        {
+            "type": "string",
+            "name": "general_ai_menu_address",
+            "order": 6523
+        },
+        {
+            "type": "string",
+            "name": "general_ai_menu_date",
+            "order": 6524
+        },
+        {
+            "type": "string",
+            "name": "general_ai_menu_email",
+            "order": 6525
+        },
+        {
+            "type": "string",
+            "name": "general_ai_menu_phone_number",
+            "order": 6526
+        },
+        {
+            "type": "string",
+            "name": "general_ai_menu_url",
+            "order": 6527
         }
     ]
 }
