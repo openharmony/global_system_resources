@@ -5454,6 +5454,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.NETWORK_SIMULATE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
