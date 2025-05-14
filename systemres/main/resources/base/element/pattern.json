@@ -4254,7 +4254,7 @@
                 },
                 {
                     "name": "text_font_size",
-                    "value": "$float:Body_L"
+                    "value": "$float:ohos_id_text_size_body1"
                 },
                 {
                     "name": "search_touch_color",
@@ -5082,7 +5082,7 @@
                 },
                 {
                     "name": "text_font_size",
-                    "value": "$float:Body_L"
+                    "value": "$float:ohos_id_text_font_size"
                 },
                 {
                     "name": "text_caret_color",
@@ -5155,7 +5155,7 @@
             "value": [
                 {
                     "name": "text_font_size",
-                    "value": "$float:textfield_font_size"
+                    "value": "$float:ohos_id_text_size_body1"
                 },
                 {
                     "name": "bg_color",
@@ -5211,7 +5211,7 @@
                 },
                 {
                     "name": "error_text_font_size",
-                    "value": "$float:Body_S"
+                    "value": "$float:ohos_id_text_size_body3"
                 },
                 {
                     "name": "count_text_color",
@@ -5219,7 +5219,7 @@
                 },
                 {
                     "name": "count_text_font_size",
-                    "value": "$float:Caption_M"
+                    "value": "$float:ohos_id_text_size_caption1"
                 },
                 {
                     "name": "count_text_max_font_scale",
@@ -5239,7 +5239,7 @@
                 },
                 {
                     "name": "count_outer_text_font_size",
-                    "value": "$float:Body_S"
+                    "value": "$float:ohos_id_text_size_body3"
                 },
                 {
                     "name": "over_outer_text_color",
@@ -5247,7 +5247,7 @@
                 },
                 {
                     "name": "over_outer_text_font_size",
-                    "value": "$float:Body_S"
+                    "value": "$float:ohos_id_text_size_body3"
                 },
                 {
                     "name": "over_count_text_color",
@@ -5255,7 +5255,7 @@
                 },
                 {
                     "name": "over_count_text_font_size",
-                    "value": "$float:Caption_M"
+                    "value": "$float:ohos_id_text_size_caption1"
                 },
                 {
                     "name": "over_count_text_max_font_scale",
@@ -5644,7 +5644,7 @@
                 },
                 {
                     "name": "text_font_size",
-                    "value": "$float:Body_M"
+                    "value": "$float:ohos_id_text_size_button2"
                 },
                 {
                     "name": "text_color",
