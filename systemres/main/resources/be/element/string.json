@@ -1,0 +1,46 @@
+{
+    "string":[
+        {
+            "name":"request_agent_upload_success",
+            "value":"Запампавана",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Не ўдалося запампаваць",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Не ўдалося спампаваць",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Спампавана",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Паспяхова: %1$d, няўдала: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Спампоўванне завершана (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

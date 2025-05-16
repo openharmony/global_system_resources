@@ -1,0 +1,46 @@
+{
+    "string":[
+        {
+            "name":"request_agent_upload_success",
+            "value":"Жүктеп салу сәтті болды",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Жүктеп салу сәтсіз аяқталды",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Жүктеп алу сәтсіз болды",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Жүктеп алу сәтті аяқталды",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Сәтті: %1$d, сәтсіз: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Жүктеп алу аяқталды (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}
