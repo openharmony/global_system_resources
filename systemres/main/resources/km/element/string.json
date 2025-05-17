@@ -1,0 +1,46 @@
+{
+    "string":[
+        {
+            "name":"request_agent_upload_success",
+            "value":"ការទាញបញ្ចូលទទួលបានជោគជ័យ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"ការទាញបញ្ចូលបានបរាជ័យ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"ការទាញយកមិនបានសម្រេច",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"ការទាញយកបានជោគជ័យ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"ជោគជ័យ៖ %1$d, មិនបានសម្រេច៖ %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"ការទាញយកបានបញ្ចប់ (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

@@ -1834,7 +1834,10 @@
         },
         {
             "name": "request_agent_download_complete",
-            "value": "下载完成 %s"
+            "value": "下载完成 %s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "request_agent_upload_complete",
@@ -1842,7 +1845,10 @@
         },
         {
             "name": "request_agent_task_count",
-            "value": "%1$d 成功, %2$d 失败"
+            "value": "%1$d 成功，%2$d 失败",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "arkui_app_bar_service_panel",

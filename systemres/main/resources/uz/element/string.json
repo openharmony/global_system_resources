@@ -1,0 +1,46 @@
+{
+    "string":[
+        {
+            "name":"request_agent_upload_success",
+            "value":"Yuklandi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"Yuklanmadi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"Yuklab olinmadi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"Yuklab olindi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Bajarildi: %1$d, bajarilmadi: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Yuklab olindi (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}
