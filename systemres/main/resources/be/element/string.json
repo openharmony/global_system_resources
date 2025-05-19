@@ -1,6 +1,83 @@
 {
     "string":[
         {
+            "name":"ohos_id_text_save_button_description_save_image",
+            "value":"Захаваць выяву",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_save_all",
+            "value":"Захаваць усе",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download",
+            "value":"Спампаваць",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_receive",
+            "value":"Захаваць",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_quick_save_to_gallery",
+            "value":"Захаваць у Галерэі",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download_file",
+            "value":"Спампаваць файл",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save",
+            "value":"Захаваць",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save_file",
+            "value":"Захаваць файл",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_paste_button_description_paste",
+            "value":"Уставіць",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_continue_to_receive",
+            "value":"Захаваць",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_export_to_gallery",
+            "value":"Экспартаваць",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"Запампавана",
             "attr":{
@@ -10,6 +87,13 @@
         {
             "name":"request_agent_upload_fail",
             "value":"Не ўдалося запампаваць",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save_to_gallery",
+            "value":"Захаваць у Галерэі",
             "attr":{
                 "priority":"translate"
             }
@@ -38,6 +122,20 @@
         {
             "name":"request_agent_download_complete",
             "value":"Спампоўванне завершана (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_quick_resave_to_gallery",
+            "value":"Захаваць",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download_and_share",
+            "value":"Спампаваць і падзяліцца",
             "attr":{
                 "priority":"translate"
             }

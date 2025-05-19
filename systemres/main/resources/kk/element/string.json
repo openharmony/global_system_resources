@@ -1,6 +1,83 @@
 {
     "string":[
         {
+            "name":"ohos_id_text_save_button_description_save_image",
+            "value":"Кескінді сақтау",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_save_all",
+            "value":"Барлығын сақтау",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download",
+            "value":"Жүктеп алу",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_receive",
+            "value":"Сақтау",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_quick_save_to_gallery",
+            "value":"Галереяға сақтау",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download_file",
+            "value":"Файлды жүктеп алу",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save",
+            "value":"Сақтау",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save_file",
+            "value":"Файлды сақтау",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_paste_button_description_paste",
+            "value":"Қою",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_continue_to_receive",
+            "value":"Сақтау",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_export_to_gallery",
+            "value":"Экспорттау",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"Жүктеп салу сәтті болды",
             "attr":{
@@ -10,6 +87,13 @@
         {
             "name":"request_agent_upload_fail",
             "value":"Жүктеп салу сәтсіз аяқталды",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save_to_gallery",
+            "value":"Галереяға сақтау",
             "attr":{
                 "priority":"translate"
             }
@@ -38,6 +122,20 @@
         {
             "name":"request_agent_download_complete",
             "value":"Жүктеп алу аяқталды (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_quick_resave_to_gallery",
+            "value":"Сақтау",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download_and_share",
+            "value":"Жүктеп алу және бөлісу",
             "attr":{
                 "priority":"translate"
             }

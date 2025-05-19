@@ -1,6 +1,83 @@
 {
     "string":[
         {
+            "name":"ohos_id_text_save_button_description_save_image",
+            "value":"រក្សាទុករូបភាព",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_save_all",
+            "value":"រក្សាទុកទាំងអស់",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download",
+            "value":"ទាញយក",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_receive",
+            "value":"រក្សាទុក",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_quick_save_to_gallery",
+            "value":"រក្សាទុកទៅក្នុង​វិចិត្រសាល",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download_file",
+            "value":"ទាញយកឯកសារ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save",
+            "value":"រក្សាទុក",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save_file",
+            "value":"រក្សាទុក​ឯកសារ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_paste_button_description_paste",
+            "value":"បិទភ្ជាប់",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_continue_to_receive",
+            "value":"រក្សាទុក",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_export_to_gallery",
+            "value":"នាំចេញ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"ការទាញបញ្ចូលទទួលបានជោគជ័យ",
             "attr":{
@@ -10,6 +87,13 @@
         {
             "name":"request_agent_upload_fail",
             "value":"ការទាញបញ្ចូលបានបរាជ័យ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save_to_gallery",
+            "value":"រក្សាទុកទៅក្នុង​វិចិត្រសាល",
             "attr":{
                 "priority":"translate"
             }
@@ -38,6 +122,20 @@
         {
             "name":"request_agent_download_complete",
             "value":"ការទាញយកបានបញ្ចប់ (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_quick_resave_to_gallery",
+            "value":"រក្សាទុក",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download_and_share",
+            "value":"ទាញយក និងចែករំលែក",
             "attr":{
                 "priority":"translate"
             }
