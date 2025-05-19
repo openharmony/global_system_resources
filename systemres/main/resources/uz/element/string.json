@@ -1,6 +1,83 @@
 {
     "string":[
         {
+            "name":"ohos_id_text_save_button_description_save_image",
+            "value":"Rasmni saqlash",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_save_all",
+            "value":"Hammasini saqlash",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download",
+            "value":"Yuklab olish",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_receive",
+            "value":"Saqlash",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_quick_save_to_gallery",
+            "value":"Galereyaga saqlash",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download_file",
+            "value":"Faylni yuklab olish",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save",
+            "value":"Saqlash",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save_file",
+            "value":"Faylni saqlash",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_paste_button_description_paste",
+            "value":"Joylash",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_continue_to_receive",
+            "value":"Saqlash",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_export_to_gallery",
+            "value":"Eksport qilish",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"Yuklandi",
             "attr":{
@@ -10,6 +87,13 @@
         {
             "name":"request_agent_upload_fail",
             "value":"Yuklanmadi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_save_to_gallery",
+            "value":"Galereyaga saqlash",
             "attr":{
                 "priority":"translate"
             }
@@ -38,6 +122,20 @@
         {
             "name":"request_agent_download_complete",
             "value":"Yuklab olindi (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_button_description_quick_resave_to_gallery",
+            "value":"Saqlash",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_save_button_description_download_and_share",
+            "value":"Yuklab olish va ulashish",
             "attr":{
                 "priority":"translate"
             }
