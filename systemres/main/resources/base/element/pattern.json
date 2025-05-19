@@ -6400,7 +6400,7 @@
                 },
                 {
                     "name": "menu_animation_offset",
-                    "value": "30.0px"
+                    "value": "$float:menu_animation_offset"
                 },
                 {
                     "name": "spinner_width",
@@ -6853,6 +6853,18 @@
                 {
                     "name": "menu_haptic_feedback",
                     "value": "$string:menu_haptic_feedback"
+                },
+                {
+                    "name": "menu_animation_duration",
+                    "value": "$float:menu_animation_duration"
+                },
+                {
+                    "name": "menu_animation_scale",
+                    "value": "$float:menu_animation_scale"
+                },
+                {
+                    "name": "menu_animation_curve",
+                    "value": "$string:menu_animation_curve"
                 }
             ]
         },
