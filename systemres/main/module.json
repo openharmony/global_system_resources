@@ -5552,6 +5552,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SUPPORT_APP_SERVICE_EXTENSION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.GET_ABILITY_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
