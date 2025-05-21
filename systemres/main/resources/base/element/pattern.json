@@ -6339,6 +6339,18 @@
                     "value": "$color:select_font_color"
                 },
                 {
+                    "name": "select_check_mark_color",
+                    "value": "$color:icon_primary"
+                },
+                {
+                    "name": "select_check_mark_font_weight",
+                    "value": "$float:select_check_mark_font_weight"
+                },
+                {
+                    "name": "select_check_mark_font_size",
+                    "value": "24.0vp"
+                },
+                {
                     "name": "focus_bg_outline_color",
                     "value": "$color:ohos_id_color_activated"
                 },
