@@ -1919,6 +1919,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.GET_ENTERPRISE_CONFIG",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.RECEIVE_ENTERPRISE_POLICY_EVENT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
