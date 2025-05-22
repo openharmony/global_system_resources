@@ -1973,6 +1973,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.NFC_NOTIFICATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.PERMISSION_USED_STATS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
