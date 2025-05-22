@@ -59,6 +59,14 @@
         {
             "name": "menu_animation_curve",
             "value": "smooth"
+        },
+        {
+            "name": "treeview_accessibility_implement_node",
+            "value": "Double-click to activate"
+        },
+        {
+            "name": "treeview_accessibility_node_desc",
+            "value": "Double click to select, double click and hold, then drag to change order"
         }
     ]  
 }
