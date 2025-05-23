@@ -5595,6 +5595,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_FIDO2_ONLINEAUTH",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
