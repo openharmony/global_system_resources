@@ -32911,6 +32911,36 @@
             "type": "float",
             "name": "select_check_mark_font_weight",
             "order": 6535
+        },
+        {
+            "type": "string",
+            "name": "general_ai_preview_menu_address_open_map_app",
+            "order": 6536
+        },
+        {
+            "type": "string",
+            "name": "general_ai_preview_menu_url_open_browser_app",
+            "order": 6537
+        },
+        {
+            "type": "string",
+            "name": "general_ai_preview_menu_date_install_calendar_app",
+            "order": 6538
+        },
+        {
+            "type": "string",
+            "name": "general_ai_preview_menu_address_install_map_app",
+            "order": 6539
+        },
+        {
+            "type": "string",
+            "name": "general_ai_preview_menu_display_failed",
+            "order": 6540
+        },
+        {
+            "type": "media",
+            "name": "ic_person_fill",
+            "order": 6541
         }
     ]
 }

@@ -5849,6 +5849,34 @@
                 {
                     "name": "ai_intelligent_gradient_scalar4",
                     "value": "$float:ai_intelligent_gradient_scalar4"
+                },
+                {
+                    "name": "general_ai_preview_menu_address_open_map_app",
+                    "value": "$string:general_ai_preview_menu_address_open_map_app"
+                },
+                {
+                    "name": "general_ai_preview_menu_url_open_browser_app",
+                    "value": "$string:general_ai_preview_menu_url_open_browser_app"
+                },
+                {
+                    "name": "general_ai_preview_menu_date_install_calendar_app",
+                    "value": "$string:general_ai_preview_menu_date_install_calendar_app"
+                },
+                {
+                    "name": "general_ai_preview_menu_address_install_map_app",
+                    "value": "$string:general_ai_preview_menu_address_install_map_app"
+                },
+                {
+                    "name": "general_ai_preview_menu_display_failed",
+                    "value": "$string:general_ai_preview_menu_display_failed"
+                },
+                {
+                    "name": "general_ai_preview_menu_display_failed_font_size",
+                    "value": "$float:Body_M"
+                },
+                {
+                    "name": "general_ai_preview_menu_display_failed_font_color",
+                    "value": "$color:font_secondary"
                 }
             ]
         },
@@ -7477,6 +7505,10 @@
                 {
                     "name": "ic_time_limit_picture",
                     "value": "$media:ic_time_limit_picture"
+                },
+                {
+                    "name": "ic_person_fill",
+                    "value": "$media:ic_person_fill"
                 }
             ]
         },
