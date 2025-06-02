@@ -26,11 +26,15 @@
         },
         {
             "name": "interactive_pressed",
-            "value": "#66FFFFFF"
+            "value": "#26FFFFFF"
         },
         {
             "name": "interactive_focus",
-            "value": "#4DFFFFFF"
+            "value": "#FF317AF7"
+        },
+        {
+            "name": "interactive_active",
+            "value": "#FFFFFFFF"
         },
         {
             "name": "slider_hover_color",
@@ -470,7 +474,7 @@
         },
         {
             "name": "font_emphasize",
-            "value": "#266EFB"
+            "value": "#FF5291FF"
         },
         {
             "name": "font_emphasize_contrary",
@@ -478,11 +482,11 @@
         },
         {
             "name": "comp_background_tertiary",
-            "value": "#33F1F3F5"
+            "value": "#19FFFFFF"
         },
         {
             "name": "font_on_primary",
-            "value": "#E6FFFFFF"
+            "value": "#FFFFFFFF"
         },
         {
             "name": "warning",
@@ -490,15 +494,23 @@
         },
         {
             "name": "comp_background_emphasize",
-            "value": "#266EFB"
+            "value": "#FF317AF7"
+        },
+        {
+            "name": "comp_emphasize_secondary",
+            "value": "#33317AF7"
+        },
+        {
+            "name": "comp_emphasize_tertiary",
+            "value": "#19317AF7"
         },
         {
             "name": "icon_fourth",
-            "value": "#99F1F3F5"
+            "value": "#33FFFFFF"
         },
         {
             "name": "icon_on_primary",
-            "value": "#F1F3F5"
+            "value": "#FFFFFFFF"
         },
         {
             "name": "background_emphasize",
@@ -510,7 +522,11 @@
         },
         {
             "name": "comp_background_secondary",
-            "value": "#33F1F3F5"
+            "value": "#19FFFFFF"
+        },
+        {
+            "name": "comp_background_primary_contrary",
+            "value": "#FFE5E5E5"
         },
         {
             "name": "scroll_bar_foreground_hover_blend_color",
