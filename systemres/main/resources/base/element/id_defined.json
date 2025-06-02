@@ -32941,6 +32941,26 @@
             "type": "media",
             "name": "ic_person_fill",
             "order": 6541
+        },
+        {
+            "type": "float",
+            "name": "sheet_subtitle_text_font_size",
+            "order": 6542
+        },
+        {
+            "type": "float",
+            "name": "sheet_subtitle_text_margin",
+            "order": 6543
+        },
+        {
+            "type": "float",
+            "name": "sheet_operation_area_height_double",
+            "order": 6544
+        },
+        {
+            "type": "float",
+            "name": "sheet_big_window_min_height",
+            "order": 6545
         }
     ]
 }

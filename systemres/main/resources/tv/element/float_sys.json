@@ -50,7 +50,7 @@
         },
         {
             "name": "sheet_panel_background_blur_style",
-            "value": "0"
+            "value": "12"
         },
         {
             "name": "sheet_height_apply_full_screen",
@@ -70,15 +70,15 @@
         },
         {
             "name": "sheet_operation_height",
-            "value": "56.0vp"
+            "value": "86.0vp"
         },
         {
             "name": "sheet_title_text_font_size",
-            "value": "20.0fp"
+            "value": "32.0fp"
         },
         {
             "name": "sheet_title_text_horizontal_margin",
-            "value": "24vp"
+            "value": "32.0vp"
         },
         {
             "name": "sheet_title_font_weight",
@@ -90,11 +90,27 @@
         },
         {
             "name": "sheet_double_title_top_padding",
-            "value": "16vp"
+            "value": "26.0vp"
         },
         {
             "name": "sheet_double_title_bottom_padding",
-            "value": "2.0vp"
+            "value": "0.0vp"
+        },
+        {
+            "name": "sheet_subtitle_text_font_size",
+            "value": "22.0vp"
+        },
+        {
+            "name": "sheet_subtitle_text_margin",
+            "value": "5.0vp"
+        },
+        {
+            "name": "sheet_operation_area_height_double",
+            "value": "112.0vp"
+        },
+        {
+            "name": "sheet_big_window_min_height",
+            "value": "426.0vp"
         },
         {
             "name": "popup_border_width",
@@ -718,11 +734,15 @@
         },
         {
             "name": "window_radius_small",
-            "value": "16vp"
+            "value": "32.0vp"
         },
         {
             "name": "window_outline_width",
             "value": "0.5vp"
+        },
+        {
+            "name": "window_border_width",
+            "value": "1.0vp"
         },
         {
             "name": "window_shadow_config",
@@ -730,23 +750,27 @@
         },
         {
             "name": "sheet_title_text_margin",
-            "value": "24vp"
+            "value": "32.0vp"
         },
         {
             "name": "window_close_icon_width",
-            "value": "20vp"
+            "value": "32.0vp"
         },
         {
             "name": "sheet_title_area_margin",
-            "value": "-18vp"
+            "value": "-16vp"
         },
         {
             "name": "sheet_close_icon_button_width",
-            "value": "36.0vp"
+            "value": "54.0vp"
+        },
+        {
+            "name": "window_close_radius",
+            "value": "27.0vp"
         },
         {
             "name": "sheet_center_default_width",
-            "value": "420.0vp"
+            "value": "568.0vp"
         },
         {
             "name": "sheet_height_default_mode",

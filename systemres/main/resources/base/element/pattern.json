@@ -8507,7 +8507,7 @@
                 },
                 {
                     "name": "subtitle_text_font_size",
-                    "value": "$float:ohos_id_text_size_sub_title3"
+                    "value": "$float:sheet_subtitle_text_font_size"
                 },
                 {
                     "name": "subtitle_text_font_color",
@@ -8515,7 +8515,15 @@
                 },
                 {
                     "name": "subtitle_text_margin",
-                    "value": "$float:ohos_id_text_margin_vertical"
+                    "value": "$float:sheet_subtitle_text_margin"
+                },
+                {
+                    "name": "operation_area_height_double",
+                    "value": "$float:sheet_operation_area_height_double"
+                },
+                {
+                    "name": "big_window_min_height",
+                    "value": "$float:sheet_big_window_min_height"
                 },
                 {
                     "name": "sheet_background_color",
