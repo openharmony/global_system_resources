@@ -69,7 +69,7 @@
                 },
                 {
                     "name": "button_radius",
-                    "value": "20.0vp"
+                    "value": "27.0vp"
                 },
                 {
                     "name": "button_bg_color",
@@ -89,7 +89,7 @@
                 },
                 {
                     "name": "button_font_size",
-                    "value": "18.0fp"
+                    "value": "24.0fp"
                 },
                 {
                     "name": "button_font_weight",
@@ -97,11 +97,11 @@
                 },
                 {
                     "name": "button_min_width",
-                    "value": "1.0vp"
+                    "value": "165.0vp"
                 },
                 {
                     "name": "button_height",
-                    "value": "40.0vp"
+                    "value": "54.0vp"
                 },
                 {
                     "name": "button_download_height",
@@ -109,11 +109,11 @@
                 },
                 {
                     "name": "button_horizontal_padding",
-                    "value": "12.0vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "button_vertical_padding",
-                    "value": "$float:ohos_id_button_vertical_padding"
+                    "value": "11.0vp"
                 },
                 {
                     "name": "button_min_font_size",
@@ -165,7 +165,7 @@
                 },
                 {
                     "name": "small_button_horizontal_padding",
-                    "value": "12.0vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "bg_color_normal",
@@ -177,11 +177,11 @@
                 },
                 {
                     "name": "small_button_font_size",
-                    "value": "14.0fp"
+                    "value": "18.0fp"
                 },
                 {
                     "name": "small_button_height",
-                    "value": "28.0vp"
+                    "value": "38.0vp"
                 },
                 {
                     "name": "role_warning",
@@ -189,19 +189,19 @@
                 },
                 {
                     "name": "border_width",
-                    "value": "0.5vp"
+                    "value": "1.0vp"
                 },
                 {
                     "name": "border_color",
-                    "value": "#26FFFFFF"
+                    "value": "#1AFFFFFF"
                 },
                 {
                     "name": "width_border_small",
-                    "value": "0.5vp"
+                    "value": "1.0vp"
                 },
                 {
                     "name": "color_border_small",
-                    "value": "#26FFFFFF"
+                    "value": "#1AFFFFFF"
                 },
                 {
                     "name": "shadow_default",
@@ -301,7 +301,7 @@
                 },
                 {
                     "name": "text_button_font_size",
-                    "value": "16.0fp"
+                    "value": "22.0fp"
                 },
                 {
                     "name": "apply_text_font_size",
@@ -870,15 +870,15 @@
             "value": [
                 {
                     "name": "radius",
-                    "value": "16.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_container_radius",
-                    "value": "16.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "bg_color",
-                    "value": "#3C3C3C"
+                    "value": "#E62E3033"
                 },
                 {
                     "name": "bg_color_version_twelve",
@@ -886,7 +886,7 @@
                 },
                 {
                     "name": "dialog_container_max_width",
-                    "value": "346vp"
+                    "value": "460.0vp"
                 },
                 {
                     "name": "dialog_container_margin_left",
@@ -914,15 +914,15 @@
                 },
                 {
                     "name": "title_text_font_size",
-                    "value": "$float:ohos_id_text_size_dialog_tittle"
+                    "value": "32.0fp"
                 },
                 {
                     "name": "title_text_font_size_min",
-                    "value": "24.0vp"
+                    "value": "32.0fp"
                 },
                 {
                     "name": "content_text_font_size_min",
-                    "value": "$float:ohos_id_text_size_body1"
+                    "value": "22.0fp"
                 },
                 {
                     "name": "content_text_color",
@@ -930,11 +930,11 @@
                 },
                 {
                     "name": "content_text_font_size",
-                    "value": "16.0fp"
+                    "value": "22.0fp"
                 },
                 {
                     "name": "button_bg_color",
-                    "value": "#3C3C3C"
+                    "value": "#1AFFFFFF"
                 },
                 {
                     "name": "button_bg_color_clicked",
@@ -942,7 +942,7 @@
                 },
                 {
                     "name": "common_button_bg_color",
-                    "value": "$color:ohos_id_color_button_normal"
+                    "value": "#1AFFFFFF"
                 },
                 {
                     "name": "first_button_bg_color",
@@ -954,7 +954,7 @@
                 },
                 {
                     "name": "button_text_font_size",
-                    "value": "$float:ohos_id_text_size_button1"
+                    "value": "22.0fp"
                 },
                 {
                     "name": "dialog_divider_length",
@@ -966,7 +966,7 @@
                 },
                 {
                     "name": "default_padding_bottom_fixed",
-                    "value": "24.0vp"
+                    "value": "8.0vp"
                 },
                 {
                     "name": "default_dialog_margin_bottom",
@@ -982,7 +982,7 @@
                 },
                 {
                     "name": "subtitle_text_font_size",
-                    "value": "$float:ohos_id_text_size_body2"
+                    "value": "22.0fp"
                 },
                 {
                     "name": "attribute_alpha_content_primary",
@@ -998,31 +998,31 @@
                 },
                 {
                     "name": "button_padding_bottom",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "single_button_padding_start",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "single_button_padding_end",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "muti_button_padding_start",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "muti_button_padding_end",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "muti_button_padding_horizontal",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "muti_button_padding_vertical",
-                    "value": "12.0vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "button_default_bg_color",
@@ -1038,7 +1038,7 @@
                 },
                 {
                     "name": "dialog_button_spacing_vertical",
-                    "value": "8.0vp"
+                    "value": "11.0vp"
                 },
                 {
                     "name": "dialog_frame_start",
@@ -1130,35 +1130,35 @@
                 },
                 {
                     "name": "dialog_padding_left",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_padding_top",
-                    "value": "24.0vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "dialog_padding_right",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_padding_bottom",
-                    "value": "24.0vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "dialog_padding_left_adjust",
-                    "value": "24.0vp"
+                    "value": "30.0vp"
                 },
                 {
                     "name": "dialog_padding_top_adjust",
-                    "value": "24.0vp"
+                    "value": "0.0vp"
                 },
                 {
                     "name": "dialog_padding_right_adjust",
-                    "value": "24.0vp"
+                    "value": "30.0vp"
                 },
                 {
                     "name": "dialog_padding_bottom_adjust",
-                    "value": "$float:ohos_id_dialog_padding_bottom_adjust"
+                    "value": "0.0vp"
                 },
                 {
                     "name": "button_color_clicked",
@@ -1166,7 +1166,7 @@
                 },
                 {
                     "name": "button_title_padding_vertical",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_title_text_max_lines",
@@ -1186,7 +1186,7 @@
                 },
                 {
                     "name": "dialog_buttonwithcontent_padding",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_alignment",
@@ -1266,7 +1266,7 @@
                 },
                 {
                     "name": "padding_top_title",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "button_type",
@@ -1274,11 +1274,11 @@
                 },
                 {
                     "name": "normal_button_text_font_size",
-                    "value": "18.0fp"
+                    "value": "24.0fp"
                 },
                 {
                     "name": "padding_single_title",
-                    "value": "48.0vp"
+                    "value": "64.0vp"
                 },
                 {
                     "name": "color_bg_with_blur",
@@ -1290,7 +1290,7 @@
                 },
                 {
                     "name": "dialog_ratio_height",
-                    "value": "0.8"
+                    "value": "1"
                 },
                 {
                     "name": "border_color",
@@ -1298,7 +1298,7 @@
                 },
                 {
                     "name": "border_width",
-                    "value": "0.5vp"
+                    "value": "1vp"
                 },
                 {
                     "name": "text_align_title",
@@ -1315,6 +1315,26 @@
                 {
                     "name": "common_ok_text",
                     "value": "$string:general_confirm"
+                },
+                {
+                    "name": "dialog_min_button_width",
+                    "value": "182.0vp"
+                },
+                {
+                    "name": "dialog_max_button_width",
+                    "value": "396.0vp"
+                },
+                {
+                    "name": "dialog_button_height",
+                    "value": "54.0vp"
+                },
+                {
+                    "name": "dialog_content_top_padding",
+                    "value": "32.0vp"
+                },
+                {
+                    "name": "dialog_button_border_radius",
+                    "value": "32.0vp"
                 }
             ]
         },
@@ -1524,6 +1544,14 @@
                 {
                     "name": "popup_double_button_is_same_style",
                     "value": "$float:popup_double_button_is_same_style_sys"
+                },
+                {
+                    "name": "popup_arrow_height",
+                    "value": "10.0vp"
+                },
+                {
+                    "name": "popup_arrow_width",
+                    "value": "22.0vp"
                 }
             ]
         },
@@ -2355,7 +2383,7 @@
             "value": [
                 {
                     "name": "bg_color",
-                    "value": "#3C3C3C"
+                    "value": "#E62E3033"
                 },
                 {
                     "name": "bg_color_select_button",
@@ -2403,7 +2431,7 @@
                 },
                 {
                     "name": "menu_border_width",
-                    "value": "0.5vp"
+                    "value": "1.0vp"
                 },
                 {
                     "name": "menu_border_color",
@@ -2415,15 +2443,15 @@
                 },
                 {
                     "name": "menu_item_left_right_margin",
-                    "value": "6.0vp"
+                    "value": "1.0vp"
                 },
                 {
                     "name": "menu_target_security_space",
-                    "value": "24.0vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "menu_item_content_align",
-                    "value": "1.0"
+                    "value": "4.0"
                 },
                 {
                     "name": "menu_item_focused_bg_color",
@@ -2439,11 +2467,11 @@
                 },
                 {
                     "name": "menu_text_font_size",
-                    "value": "20.0fp"
+                    "value": "24.0fp"
                 },
                 {
                     "name": "menu_title_text_font_size",
-                    "value": "24.0vp"
+                    "value": "26.0fp"
                 },
                 {
                     "name": "border_radius",
@@ -2451,7 +2479,7 @@
                 },
                 {
                     "name": "menu_border_radius",
-                    "value": "24.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "inner_border_radius",
@@ -2499,7 +2527,7 @@
                 },
                 {
                     "name": "icon_content_padding",
-                    "value": "0.0vp"
+                    "value": "10.0vp"
                 },
                 {
                     "name": "divider_padding_vertical",
@@ -2551,7 +2579,7 @@
                 },
                 {
                     "name": "default_divider_width",
-                    "value": "1.0px"
+                    "value": "1.0vp"
                 },
                 {
                     "name": "select_min_width",
@@ -2746,10 +2774,6 @@
                     "value": "$string:ohos_id_menu_double_border_enable_default"
                 },
                 {
-                    "name": "menu_item_child_min_height",
-                    "value": "40vp"
-                },
-                {
                     "name": "menu_item_vertical_padding",
                     "value": "$float:menu_item_vertical_padding_token"
                 },
@@ -2763,7 +2787,7 @@
                 },
                 {
                     "name": "inner_border_radius_new",
-                    "value": "12.0vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "menu_text_color",
@@ -2771,7 +2795,7 @@
                 },
                 {
                     "name": "menu_outer_border_width",
-                    "value": "$float:ohos_id_menu_outer_border_width"
+                    "value": "0.0vp"
                 },
                 {
                     "name": "menu_outer_border_radius",
@@ -2783,7 +2807,7 @@
                 },
                 {
                     "name": "menu_inner_border_width",
-                    "value": "$float:ohos_id_menu_inner_border_width"
+                    "value": "0.0vp"
                 },
                 {
                     "name": "menu_inner_border_radius",
@@ -2839,11 +2863,11 @@
                 },
                 {
                     "name": "menu_divider_start_margin",
-                    "value": "12.0vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "menu_divider_end_margin",
-                    "value": "12.0vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "menu_focus_style_type",
@@ -2887,15 +2911,15 @@
                 },
                 {
                     "name": "menu_normal_border_width",
-                    "value": "$float:menu_normal_border_width"
+                    "value": "0.0vp"
                 },
                 {
                     "name": "menu_normal_border_color",
-                    "value": "#26FFFFFF"
+                    "value": "#1AFFFFFF"
                 },
                 {
                     "name": "menu_normal_back_ground_blur_type",
-                    "value": "0.0"
+                    "value": "12.0"
                 },
                 {
                     "name": "option_normal_top_bottom_margin",
@@ -2979,7 +3003,7 @@
                 },
                 {
                     "name": "menu_padding_interval",
-                    "value": "10.0vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "menu_haptic_feedback",

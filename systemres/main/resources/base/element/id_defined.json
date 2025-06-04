@@ -32961,6 +32961,21 @@
             "type": "float",
             "name": "sheet_big_window_min_height",
             "order": 6545
+        },
+        {  
+            "type": "float",
+            "name": "popup_arrow_height",
+            "order": 6546
+        },
+        {  
+            "type": "float",
+            "name": "popup_arrow_width",
+            "order": 6547
+        },
+        {  
+            "type": "float",
+            "name": "dialog_button_border_radius",
+            "order": 6548
         }
     ]
 }

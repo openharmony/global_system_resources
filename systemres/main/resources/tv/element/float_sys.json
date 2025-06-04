@@ -38,14 +38,10 @@
         },
         {
             "name": "dialog_background_blur_style",
-            "value": "0"
+            "value": "12"
         },
         {
             "name": "toast_panel_background_blur_style",
-            "value": "0"
-        },
-        {
-            "name": "toast_background_blur_style",
             "value": "0"
         },
         {
@@ -114,23 +110,23 @@
         },
         {
             "name": "popup_border_width",
-            "value": "0.5vp"
+            "value": "0.0vp"
         },
         {
             "name": "popup_target_space",
-            "value": "12.0vp"
+            "value": "16.0vp"
         },
         {
             "name": "popup_corner_radius",
-            "value": "12.0vp"
+            "value": "16.0vp"
         },
         {
             "name": "popup_min_height",
-            "value": "36.0vp"
+            "value": "64.0vp"
         },
         {
             "name": "bubble_min_mum_height",
-            "value": "36.0vp"
+            "value": "64.0vp"
         },
         {
             "name": "popup_max_columns",
@@ -138,15 +134,15 @@
         },
         {
             "name": "popup_horizontal_padding",
-            "value": "12.0vp"
+            "value": "16.0vp"
         },
         {
             "name": "popup_vertical_padding",
-            "value": "8.0vp"
+            "value": "17.0vp"
         },
         {
             "name": "popup_text_font_size",
-            "value": "14.0fp"
+            "value": "22.0fp"
         },
         {
             "name": "popup_container_theme_color_mode",
@@ -394,11 +390,11 @@
         },
         {
             "name": "toast_border_width",
-            "value": "0.0"
+            "value": "1.0vp"
         },
         {
             "name": "toast_inner_border_width",
-            "value": "2.0"
+            "value": "1.0vp"
         },
         {
             "name": "toast_shadow_default",
@@ -410,35 +406,35 @@
         },
         {
             "name": "toast_padding_vertical_api_twelve",
-            "value": "12.0vp"
+            "value": "16vp"
         },
         {
             "name": "toast_padding_horizontal_api_twelve",
-            "value": "24.0vp"
+            "value": "22.0vp"
         },
         {
             "name": "toast_padding_horizontal",
-            "value": "24.0vp"
+            "value": "22.0vp"
         },
         {
             "name": "toast_padding_vertical",
-            "value": "12.0vp"
+            "value": "16vp"
         },
         {
             "name": "toast_border_radius_level9",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "toast_border_radius",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "toast_Body_M",
-            "value": "16.0fp"
+            "value": "22.0fp"
         },
         {
             "name": "toast_text_font_size",
-            "value": "16.0fp"
+            "value": "22.0fp"
         },
         {
             "name": "toast_bg_theme_color_mode",
@@ -634,11 +630,11 @@
         },
         {
             "name": "alert_title_padding_bottom",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "alert_button_top_padding",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "dialog_subtitle_font_size",
@@ -651,6 +647,10 @@
         {
             "name": "dialog_tip_image_size",
             "value": "70.0vp"
+        },
+        {
+            "name": "alertdialog_title_padding_top",
+            "value": "32.0vp"
         },
         {
             "name": "dialog_tip_text_top_padding",
@@ -682,11 +682,11 @@
         },
         {
             "name": "alert_button_horizontal_space",
-            "value": "12.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "alert_button_vertical_space",
-            "value": "12.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "alert_divider_width",
@@ -694,31 +694,31 @@
         },
         {
             "name": "alert_button_bottom_padding_horizontal",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "alert_button_bottom_padding_vertical",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "alert_right_padding_horizontal",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "alert_left_padding_horizontal",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "alert_right_padding_vertical",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "alert_left_padding_vertical",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "alert_title_padding_top",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "dialog_checkbox_min_height",
@@ -787,6 +787,26 @@
         {
             "name": "ohos_id_progress_button_download_height",
             "value": "40.0vp"
+        },
+        {
+            "name": "alertdialog_normal_button_text_font_size",
+            "value": "24.0fp"
+        },
+        {
+            "name": "button_container_border_radius_small",
+            "value": "$float:corner_radius_level10"
+        },
+        {
+            "name": "button_container_border_radius_normal",
+            "value": "27.0vp"
+        },
+        {
+            "name": "menu_item_vertical_padding_token",
+            "value": "16.0vp"
+        },
+        {
+            "name": "menu_border_radius_token",
+            "value": "$float:corner_radius_level16"
         },
         {
             "name": "alpha_primary",

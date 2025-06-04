@@ -202,7 +202,7 @@
         },
         {
             "name": "ohos_id_toast_content_min_height",
-            "value": "47.0vp"
+            "value": "64.0vp"
         },
         {
             "name": "ohos_id_subtab_line_gap",
@@ -278,11 +278,11 @@
         },
         {
             "name": "toast_padding_level8",
-            "value": "24.0vp"
+            "value": "22.0vp"
         },
         {
             "name": "toast_padding_level4",
-            "value": "12.0vp"
+            "value": "10.0vp"
         },
         {
             "name": "toast_default_shadow_style",
@@ -351,6 +351,10 @@
         {
             "name": "Caption_M",
             "value": "14.0fp"
+        },
+        {
+            "name": "menu_item_group_title_text_font_size_token",
+            "value": "18.0vp"
         }
     ]
 }
