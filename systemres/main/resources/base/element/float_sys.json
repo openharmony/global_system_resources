@@ -917,6 +917,22 @@
             "value": "$float:padding_level4"
         },
         {
+            "name": "sheet_subtitle_text_font_size",
+            "value": "$float:ohos_id_text_size_sub_title3"
+        },
+        {
+            "name": "sheet_subtitle_text_margin",
+            "value": "$float:ohos_id_text_margin_vertical"
+        },
+        {
+            "name": "sheet_operation_area_height_double",
+            "value": "72.0vp"
+        },
+        {
+            "name": "sheet_big_window_min_height",
+            "value": "320.0vp"
+        },
+        {
             "name": "tab_subtab_text_default_size",
             "value": "$float:ohos_id_text_size_body1"
         },
