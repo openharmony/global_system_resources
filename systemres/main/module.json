@@ -5617,10 +5617,10 @@
             {
                 "name": "ohos.permission.ACCESS_FIDO2_ONLINEAUTH",
                 "grantMode": "system_grant",
-                "availableLevel": "normal",
+                "availableLevel": "system_basic",
                 "since": 20,
                 "deprecated": "",
-                "provisionEnable": false,
+                "provisionEnable": true,
                 "distributedSceneEnable": false
             },
             {
