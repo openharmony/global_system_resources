@@ -2548,6 +2548,26 @@
                 {
                     "name":"common_ok_text",
                     "value":"$string:general_confirm"
+                },
+                {
+                    "name": "dialog_min_button_width",
+                    "value": "104.0vp"
+                },
+                {
+                    "name": "dialog_max_button_width",
+                    "value": "260.0vp"
+                },
+                {
+                    "name": "dialog_button_height",
+                    "value": "0.0vp"
+                },
+                {
+                    "name": "dialog_content_top_padding",
+                    "value": "24.0vp"
+                },
+                {
+                    "name": "dialog_button_border_radius",
+                    "value": "20.0vp"
                 }
             ]
         },
@@ -3698,6 +3718,14 @@
                 {
                     "name": "popup_double_button_is_same_style",
                     "value": "$float:popup_double_button_is_same_style_sys"
+                },
+                {
+                    "name": "popup_arrow_height",
+                    "value": "8.0vp"
+                },
+                {
+                    "name": "popup_arrow_width",
+                    "value": "16.0vp"
                 }
             ]
         },
