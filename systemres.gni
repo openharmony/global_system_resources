@@ -160,4 +160,10 @@ sys_fonts_list = [
     support_devices = [ "watch" ]
     alias_name = "hm_symbol_config_next.json"
   },
+  {
+    font_name = "HarmonyOS_Sans_Notdef"
+    font_path = "fonts/HarmonyOS_Sans_Notdef.ttf"
+    support_devices = [ "default" ]
+    alias_name = ""
+  },
 ]
