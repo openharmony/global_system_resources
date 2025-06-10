@@ -32981,6 +32981,16 @@
             "type": "color",
             "name": "comp_background_float",
             "order": 6549
+        },
+        {
+            "type": "float",
+            "name": "textfield_container_border_radius_size",
+            "order": 6550
+        },
+        {
+            "type": "float",
+            "name": "textfield_container_padding_horizontal",
+            "order": 6551
         }
     ]
 }
