@@ -5299,7 +5299,7 @@
                 },
                 {
                     "name": "border_radius_size",
-                    "value": "$float:corner_radius_level6"
+                    "value": "$float:textfield_container_border_radius_size"
                 },
                 {
                     "name": "typing_text_color",
@@ -5379,7 +5379,7 @@
                 },
                 {
                     "name": "textfield_padding_horizontal",
-                    "value": "$float:padding_level8"
+                    "value": "$float:textfield_container_padding_horizontal"
                 },
                 {
                     "name": "textfield_underline_padding_horizontal",
