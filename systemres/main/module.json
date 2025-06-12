@@ -5543,6 +5543,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SET_NET_EXT_ATTRIBUTE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.RESTORE_APP",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -5723,7 +5732,7 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.SET_NET_EXT_ATTRIBUTE",
+                "name": "ohos.permission.THEME_SKIN",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 20,
