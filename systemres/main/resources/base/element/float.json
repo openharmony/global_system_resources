@@ -4070,11 +4070,11 @@
         },
         {
             "name": "textfield_container_border_radius_size",
-            "value": "corner_radius_level6"
+            "value": "$float:corner_radius_level6"
         },
         {
             "name": "textfield_container_padding_horizontal",
-            "value": "padding_level8"
+            "value": "$float:padding_level8"
         }
     ]
 }
