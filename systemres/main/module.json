@@ -5813,15 +5813,6 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.ENTERPRISE_SPACE_FILE_TRANSFER_DATA_ACCESS",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": 20,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
                 "name": "ohos.permission.ACCESS_DFX_LOG_DIR",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
