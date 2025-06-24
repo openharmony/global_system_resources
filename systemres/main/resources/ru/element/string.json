@@ -65,9 +65,9 @@
         },
         {
             "name":"request_agent_download_success",
-            "value":"Загрузка завершена",
+            "value":"Загружено",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -324,7 +324,7 @@
         },
         {
             "name":"request_agent_download_complete",
-            "value":"Загрузка завершена (%s)",
+            "value":"Загружено (%s)",
             "attr":{
                 "priority":"LT"
             }
