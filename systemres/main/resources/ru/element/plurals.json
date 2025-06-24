@@ -1,0 +1,37 @@
+{
+    "plural":[
+        {
+            "name":"selecttitlebar_accessibility_message_desc_new",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d новое сообщение",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d новых сообщения",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"few",
+                    "value":"%d новых сообщения",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"many",
+                    "value":"%d новых сообщений",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

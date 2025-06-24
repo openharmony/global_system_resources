@@ -319,19 +319,1300 @@
             "name":"request_agent_task_count",
             "value":"اكتمل تنزيل:‏ %1$d، وتعذر تنزيل:‏ %2$d",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_complete",
             "value":"اكتمل التنزيل (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_input_method_settings",
             "value":"المزيد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_current_position",
+            "value":"الموقع الحالي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_toolbar_more",
+            "value":"المزيد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_share",
+            "value":"مشاركة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_file",
+            "value":"جارٍ تنزيل ملف… (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pass_point",
+            "value":"تم التوصيل بالنقطة %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_lift_node",
+            "value":"%s، سحب",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_screen",
+            "value":"إظهار في الأعلى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value":"تم وضعه في الصف %1$d العمود %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"summary_closed_beauty",
+            "value":"تم إغلاق وضع التجميل.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_move_node_child",
+            "value":"اسحب إلى العنصر %2$d من %1$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_place_node_parent",
+            "value":"تم الوضع، العنصر %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_subtitle_sort",
+            "value":"اسحب للترتيب",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_subtitle_add",
+            "value":"انقر للإضافة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pc_title_bar_close",
+            "value":"إغلاق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sixth_counter_accessibility_text",
+            "value":"السادس",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_complete_button",
+            "value":"تم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"increase_used_for_accessibility_text",
+            "value":"زيادة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_title",
+            "value":"يقوم \"%s\" بتسجيل الشاشة حاليًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_folded_node",
+            "value":"تم الطي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sixteenth_counter_accessibility_text",
+            "value":"السادس عشر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"input_counter_double_click_description",
+            "value":"انقر مرتين لإدخال محتوى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_cancel",
+            "value":"إلغاء",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFirst_counter_accessibility_text",
+            "value":"الحادي والعشرون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expand",
+            "value":"توسيع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_hide_password",
+            "value":"عدم إظهار كلمة المرور",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_tue",
+            "value":"الثلاثاء",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expanded",
+            "value":"تم التوسيع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_close",
+            "value":"إغلاق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_write_menu_name",
+            "value":"كاتب Celia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_send_current_location",
+            "value":"إرسال الموقع الحالي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_move_node_parent",
+            "value":"العنصر %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySecond_counter_accessibility_text",
+            "value":"الثاني والعشرون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_filters",
+            "value":"أدوات التصفية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Tenth_counter_accessibility_text",
+            "value":"العاشر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"subheader_accessibility_title",
+            "value":"العنوان",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_calendar",
+            "value":"تعديل التقويم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"summary_opened_beauty",
+            "value":"تم تشغيل وضع التجميل.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_add_form_to_desktop",
+            "value":"إضافة إلى الشاشة الرئيسية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_showed_password",
+            "value":"تم إظهار كلمة المرور",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_item",
+            "value":"%s، لم يُضف إلى منطقة المحتوى المُثبت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Ninth_counter_accessibility_text",
+            "value":"التاسع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_title_chanel",
+            "value":"الفئات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_node_desc",
+            "value":"انقر مرتين للتحديد، انقر مرتين ثم مطولاً، ثم اسحب لتغيير الترتيب",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_eject_lab",
+            "value":"يتعذر إخراج الكاميرا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_right_screen",
+            "value":"إظهار على اليمين",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thirtieth_counter_accessibility_text",
+            "value":"الثلاثون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reduce_counter_double_click_description",
+            "value":"انقر مرتين للتنشيط، وانقر مرتين ثم مطولاً للإنقاص المتكرر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"increase_counter_double_click_description",
+            "value":"انقر مرتين للتنشيط، وانقر مرتين ثم مطولاً للزيادة المتكررة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_moveto_top_screen",
+            "value":"نقل للأعلى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_provide_service",
+            "value":"الخدمة مقدمة من %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_contacts",
+            "value":"إنشاء جهات اتصال وتعديلها وحذفها",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value":"انقر مرتين ثم مطولاً للدخول إلى وضع التعديل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_left_screen",
+            "value":"إظهار على اليسار (في الأعلى)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expand_desc",
+            "value":"انقر مرتين للتوسيع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_implement_node",
+            "value":"انقر نقرًا مزدوجًا للتفعيل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value":"الصف %1$d، العمود %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"title_adjust_beauty",
+            "value":"وضع التجميل لمكالمات الفيديو",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_month",
+            "value":"الشهر السابق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_sun",
+            "value":"الأحد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_expand_node",
+            "value":"توسيع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_property_clear",
+            "value":"المسح، زر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fifth_counter_accessibility_text",
+            "value":"الخامس",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thirteenth_counter_accessibility_text",
+            "value":"الثالث عشر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Third_counter_accessibility_text",
+            "value":"الثالث",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value":"منطقة المحتوى المُثبت، لا يوجد محتوى، انقر على العناصر أدناه لإضافتها",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_whole_calendar",
+            "value":"إنشاء جميع بيانات التقويم وتعديلها وحذفها",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_today",
+            "value":"اليوم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_fold_node",
+            "value":"طي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_year",
+            "value":"السنة السابقة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value":"انقر مرتين ثم مطولاً، ثم اسحب للفرز",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFourth_counter_accessibility_text",
+            "value":"الرابع والعشرون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Second_counter_accessibility_text",
+            "value":"الثاني",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_moveto_bottom_screen",
+            "value":"نقل للأسفل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_show_password_button",
+            "value":"إظهار كلمة المرور، زر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pc_title_bar_minimize",
+            "value":"تصغير",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_select_location",
+            "value":"تحديد الموقع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eighteenth_counter_accessibility_text",
+            "value":"الثامن عشر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_step",
+            "value":"التالي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"advanced_dialog_accessibility_cancel_checked_desc",
+            "value":"انقر مرتين لإلغاء التحديد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Twentieth_counter_accessibility_text",
+            "value":"العشرون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_place_node_child",
+            "value":"تم الوضع، العنصر %2$d من %1$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"First_counter_accessibility_text",
+            "value":"الأول",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_media_location",
+            "value":"معلومات الموقع الموسومة في الصور",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_header_edit_button",
+            "value":"تحرير",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_collapse",
+            "value":"طي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reduce_used_for_accessibility_text",
+            "value":"إنقاص",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_lab",
+            "value":"مشكلة في الكاميرا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_hide_password_button",
+            "value":"إخفاء كلمة المرور، زر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_locating",
+            "value":"تحديد الموقع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_share_location",
+            "value":"مشاركة الموقع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_send_location",
+            "value":"إرسال الموقع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_selected",
+            "value":"تم التحديد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_relocation",
+            "value":"تحديد الموقع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_location",
+            "value":"الموقع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fourteenth_counter_accessibility_text",
+            "value":"الرابع عشر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_waterfall_mode",
+            "value":"عرض الشلالات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_mon",
+            "value":"الاثنين",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fifteenth_counter_accessibility_text",
+            "value":"الخامس عشر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_url",
+            "value":"فتح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_save",
+            "value":"حفظ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eighth_counter_accessibility_text",
+            "value":"الثامن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"advanced_dialog_accessibility_checkbox",
+            "value":"خانة الاختيار",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_calendar",
+            "value":"الوصول إلى التقويم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_bottom_screen",
+            "value":"إظهار في الأسفل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_collapsed",
+            "value":"تم الطي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyThird_counter_accessibility_text",
+            "value":"الثالث والعشرون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_month",
+            "value":"الشهر القادم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_button",
+            "value":"%s، إضافة إلى منطقة المحتوى المُثبت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_get_it",
+            "value":"حسنًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_wed",
+            "value":"الأربعاء",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_overlay_menu_back_accessibility_text",
+            "value":"رجوع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pc_title_bar_maximize",
+            "value":"تكبير",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_year",
+            "value":"السنة القادمة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_clear",
+            "value":"مسح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFifth_counter_accessibility_text",
+            "value":"الخامس والعشرون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_disabledDesc",
+            "value":"لا يوجد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"open_beauty",
+            "value":"تشغيل وضع التجميل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close_beauty",
+            "value":"إيقاف وضع التجميل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_show_password",
+            "value":"إظهار كلمة المرور",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_camera_input",
+            "value":"إدخال صورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_use_continue",
+            "value":"متابعة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_sat",
+            "value":"السبت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Seventeenth_counter_accessibility_text",
+            "value":"السابع عشر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Nineteenth_counter_accessibility_text",
+            "value":"التاسع عشر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Seventh_counter_accessibility_text",
+            "value":"السابع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_address",
+            "value":"معرفة الاتجاهات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_right_screen",
+            "value":"إظهار على اليمين (في الأعلى)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_deleted",
+            "value":"%s، تم نقله خارج منطقة المحتوى المُثبت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eleventh_counter_accessibility_text",
+            "value":"الحادي عشر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_current_location",
+            "value":"الموقع الحالي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_date",
+            "value":"إنشاء حدث في التقويم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_contacts",
+            "value":"قراءة جهات الاتصال",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_eject_desc",
+            "value":"أزِل أي عوائق وأعد المحاولة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pc_title_bar_restore",
+            "value":"استعادة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_back",
+            "value":"رجوع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_translate",
+            "value":"ترجمة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ThirtyFirst_counter_accessibility_text",
+            "value":"الحادي والثلاثون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_select_desc",
+            "value":"انقر مرتين للتحديد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_thu",
+            "value":"الخميس",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_show_password",
+            "value":"إظهار كلمة المرور",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_expanded_node",
+            "value":"تم التوسيع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_service_panel",
+            "value":"لوحة الخدمات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value":"%1$s، تمت إضافته إلى منطقة المحتوى المُثبت، الصف %2$d، العمود %3$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_unselectedDesc",
+            "value":"انقر مرتين للتحديد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value":"انقر مرتين للإضافة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_selected",
+            "value":"تم التحديد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyNinth_counter_accessibility_text",
+            "value":"التاسع والعشرون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_whole_calendar",
+            "value":"قراءة جميع بيانات التقويم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_left_screen",
+            "value":"إظهار على اليسار",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_select_node",
+            "value":"تم تحديد %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_unselect_desc",
+            "value":"انقر مرتين لإلغاء التحديد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value":"انقر مرتين للإضافة، انقر مرتين ثم مطولاً للدخول إلى وضع التعديل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_hide_password",
+            "value":"إخفاء كلمة المرور",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_unselected",
+            "value":"غير محدد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_used_for_accessibility_text",
+            "value":"حذف",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_add_location",
+            "value":"إضافة الموقع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fourth_counter_accessibility_text",
+            "value":"الرابع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pc_title_bar_restored",
+            "value":"تمت استعادة النافذة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value":"تم الدخول إلى وضع التعديل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_search",
+            "value":"بحث",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value":"%s، سحب",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_confirm",
+            "value":"حسنًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySixth_counter_accessibility_text",
+            "value":"السادس والعشرون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_phone_number",
+            "value":"مكالمة هاتفية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desc_developer_mode_tips",
+            "value":"تحتاج إلى تشغيل خيارات المطوّر لتشغيل هذا.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"lab_developer_mode_tips",
+            "value":"مطلوب أولًا تشغيل خيارات المطوّر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_illegal_area",
+            "value":"لا يمكن وضعه هنا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_email",
+            "value":"إنشاء رسالة بريد إلكتروني",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySeventh_counter_accessibility_text",
+            "value":"السابع والعشرون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_desc",
+            "value":"أعد تشغيل تطبيق الكاميرا لإصلاح هذه المشكلة. إذا كانت الصورة لا تزال خارج نطاق التركيز، فاتصل بخدمة العملاء.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_unselected",
+            "value":"غير محدد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_last_step",
+            "value":"السابق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyEighth_counter_accessibility_text",
+            "value":"الثامن والعشرون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_app_locked",
+            "value":"التطبيق مقفل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value":"%s، النقل خارج منطقة المحتوى المُثبت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_punch_in",
+            "value":"تسجيل الحضور/الانصراف من الموقع الحالي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_fri",
+            "value":"الجمعة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item",
+            "value":"%s، تمت إضافته إلى منطقة المحتوى المُثبت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_time_limit",
+            "value":"انتهى الوقت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Twelfth_counter_accessibility_text",
+            "value":"الثاني عشر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_title_edit",
+            "value":"تعديل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_file",
+            "value":"جارٍ رفع ملف… (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_hidden_password",
+            "value":"تم إخفاء كلمة المرور",
             "attr":{
                 "priority":"translate"
             }

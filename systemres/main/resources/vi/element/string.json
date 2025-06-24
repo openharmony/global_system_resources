@@ -312,19 +312,1307 @@
             "name":"request_agent_task_count",
             "value":"Thành công: %1$d, Không thành công: %2$d",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_complete",
             "value":"Tải xuống hoàn tất (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_input_method_settings",
             "value":"Thêm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_current_position",
+            "value":"Vị trí hiện tại",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_toolbar_more",
+            "value":"Thêm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_share",
+            "value":"Chia sẻ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_file",
+            "value":"Đang tải tệp tin xuống… (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pass_point",
+            "value":"Đã kết nối với dấu chấm %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_lift_node",
+            "value":"%s, đang kéo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_screen",
+            "value":"Hiển thị ở trên cùng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value":"Đã đặt, hàng %1$d, cột %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"summary_closed_beauty",
+            "value":"Chế độ Làm đẹp đã tắt.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_move_node_child",
+            "value":"Kéo đến mục %2$d trên %1$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_place_node_parent",
+            "value":"Đã đặt, mục %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_subtitle_sort",
+            "value":"Kéo để sắp xếp",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_subtitle_add",
+            "value":"Chạm để thêm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pc_title_bar_close",
+            "value":"Đóng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sixth_counter_accessibility_text",
+            "value":"Ngày mồng sáu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_complete_button",
+            "value":"Xong",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"increase_used_for_accessibility_text",
+            "value":"Tăng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_title",
+            "value":"%s đang quay phim màn hình",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_folded_node",
+            "value":"Đã thu gọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sixteenth_counter_accessibility_text",
+            "value":"Ngày mười sáu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"input_counter_double_click_description",
+            "value":"Chạm đúp để nhập nội dung",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_cancel",
+            "value":"Hủy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFirst_counter_accessibility_text",
+            "value":"Ngày hai mươi mốt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expand",
+            "value":"Mở rộng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_hide_password",
+            "value":"Không hiển thị mật khẩu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_tue",
+            "value":"Thứ Ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expanded",
+            "value":"Đã mở rộng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_close",
+            "value":"Đóng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_write_menu_name",
+            "value":"Trình soạn thảo Celia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_send_current_location",
+            "value":"Gửi vị trí hiện tại",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_move_node_parent",
+            "value":"Mục %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"off_used_for_accessibility_text",
+            "value":"Đóng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySecond_counter_accessibility_text",
+            "value":"Ngày hai mươi hai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_filters",
+            "value":"Bộ lọc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Tenth_counter_accessibility_text",
+            "value":"Ngày mồng mười",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"subheader_accessibility_title",
+            "value":"Tiêu đề",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_calendar",
+            "value":"Sửa Lịch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"summary_opened_beauty",
+            "value":"Chế độ Làm đẹp đang bật.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_add_form_to_desktop",
+            "value":"Thêm vào màn hình chính",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_showed_password",
+            "value":"Đã hiện mật khẩu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_item",
+            "value":"%s, chưa thêm vào khu vực nội dung được ghim",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Ninth_counter_accessibility_text",
+            "value":"Ngày mồng chín",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_title_chanel",
+            "value":"Danh mục",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_node_desc",
+            "value":"Chạm đúp để chọn, chạm đúp và giữ, sau đó kéo để thay đổi thứ tự",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_eject_lab",
+            "value":"Không bật được máy ảnh ra",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_right_screen",
+            "value":"Hiển thị bên phải",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thirtieth_counter_accessibility_text",
+            "value":"Ngày ba mươi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reduce_counter_double_click_description",
+            "value":"Chạm đúp để kích hoạt, chạm đúp và giữ để giảm liên tục",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"increase_counter_double_click_description",
+            "value":"Chạm đúp để kích hoạt, chạm đúp và giữ để tăng liên tục",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_moveto_top_screen",
+            "value":"Di chuyển lên trên cùng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_provide_service",
+            "value":"Dịch vụ được cung cấp bởi %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_contacts",
+            "value":"Tạo, sửa và xóa danh bạ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value":"Chạm đúp và giữ để vào chế độ chỉnh sửa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_left_screen",
+            "value":"Hiển thị bên trái (Phía trên)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expand_desc",
+            "value":"Chạm đúp để mở rộng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_implement_node",
+            "value":"Chạm hai lần để kích hoạt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value":"Hàng %1$d, cột %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"title_adjust_beauty",
+            "value":"Chế độ Làm đẹp cho cuộc gọi video",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_month",
+            "value":"Tháng trước",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_sun",
+            "value":"Chủ Nhật",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_expand_node",
+            "value":"Mở rộng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_property_clear",
+            "value":"Nút xóa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fifth_counter_accessibility_text",
+            "value":"Ngày mồng năm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thirteenth_counter_accessibility_text",
+            "value":"Ngày mười ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Third_counter_accessibility_text",
+            "value":"Ngày mồng ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value":"Khu vực nội dung được ghim, không có nội dung, chạm vào các mục bên dưới để thêm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_whole_calendar",
+            "value":"Tạo, sửa đổi và xóa tất cả dữ liệu lịch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_today",
+            "value":"Hôm nay",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_fold_node",
+            "value":"Thu gọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_year",
+            "value":"Năm trước",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value":"Chạm đúp và giữ, sau đó kéo để sắp xếp",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFourth_counter_accessibility_text",
+            "value":"Ngày hai mươi bốn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Second_counter_accessibility_text",
+            "value":"Ngày mồng hai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_moveto_bottom_screen",
+            "value":"Di chuyển xuống dưới cùng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_show_password_button",
+            "value":"Nút hiển thị mật khẩu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pc_title_bar_minimize",
+            "value":"Thu nhỏ cực tiểu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_select_location",
+            "value":"Chọn vị trí",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eighteenth_counter_accessibility_text",
+            "value":"Ngày mười tám",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_step",
+            "value":"Tiếp",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"advanced_dialog_accessibility_cancel_checked_desc",
+            "value":"Chạm đúp để bỏ chọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Twentieth_counter_accessibility_text",
+            "value":"Ngày hai mươi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_place_node_child",
+            "value":"Đã đặt, mục %2$d trên %1$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"First_counter_accessibility_text",
+            "value":"Ngày mồng một",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_media_location",
+            "value":"Thông tin vị trí được gắn thẻ vào hình ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_header_edit_button",
+            "value":"Chỉnh sửa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_collapse",
+            "value":"Thu gọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reduce_used_for_accessibility_text",
+            "value":"Giảm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_lab",
+            "value":"Lỗi máy ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_hide_password_button",
+            "value":"Nút ẩn mật khẩu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_locating",
+            "value":"Định vị",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_share_location",
+            "value":"Chia sẻ vị trí",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_send_location",
+            "value":"Gửi vị trí",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_selected",
+            "value":"Đã chọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_relocation",
+            "value":"Nhận vị trí",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_location",
+            "value":"Vị trí",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fourteenth_counter_accessibility_text",
+            "value":"Ngày mười bốn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_waterfall_mode",
+            "value":"Chế độ xem thác nước",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_mon",
+            "value":"Thứ Hai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fifteenth_counter_accessibility_text",
+            "value":"Ngày mười lăm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_url",
+            "value":"Mở",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_save",
+            "value":"Lưu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eighth_counter_accessibility_text",
+            "value":"Ngày mồng tám",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"advanced_dialog_accessibility_checkbox",
+            "value":"Hộp kiểm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_calendar",
+            "value":"Truy cập lịch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_bottom_screen",
+            "value":"Hiển thị ở dưới cùng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_collapsed",
+            "value":"Đã thu gọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyThird_counter_accessibility_text",
+            "value":"Ngày hai mươi ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_month",
+            "value":"Tháng tiếp theo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_button",
+            "value":"%s, thêm vào khu vực nội dung được ghim",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_get_it",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_wed",
+            "value":"Thứ Tư",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_overlay_menu_back_accessibility_text",
+            "value":"Quay lại",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pc_title_bar_maximize",
+            "value":"Phóng to tối đa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_year",
+            "value":"Năm tiếp theo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_clear",
+            "value":"Xóa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFifth_counter_accessibility_text",
+            "value":"Ngày hai mươi lăm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_disabledDesc",
+            "value":"Không khả dụng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"open_beauty",
+            "value":"Bật chế độ Làm đẹp",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close_beauty",
+            "value":"Tắt chế độ Làm đẹp",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_show_password",
+            "value":"Hiển thị mật khẩu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_camera_input",
+            "value":"Nhập từ ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_use_continue",
+            "value":"Tiếp tục",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_sat",
+            "value":"Thứ Bảy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Seventeenth_counter_accessibility_text",
+            "value":"Ngày mười bảy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Nineteenth_counter_accessibility_text",
+            "value":"Ngày mười chín",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Seventh_counter_accessibility_text",
+            "value":"Ngày mồng bảy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_address",
+            "value":"Nhận chỉ đường",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_right_screen",
+            "value":"Hiển thị bên phải (Phía trên)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_deleted",
+            "value":"%s, đã di chuyển ra khỏi khu vực nội dung được ghim",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eleventh_counter_accessibility_text",
+            "value":"Ngày mười một",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_current_location",
+            "value":"Vị trí hiện tại",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_date",
+            "value":"Tạo sự kiện trên lịch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_contacts",
+            "value":"Đọc danh bạ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_eject_desc",
+            "value":"Hãy loại bỏ mọi vật cản và thử lại.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pc_title_bar_restore",
+            "value":"Khôi phục",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_back",
+            "value":"Trở lại",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_translate",
+            "value":"Dịch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ThirtyFirst_counter_accessibility_text",
+            "value":"Ngày ba mươi mốt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_select_desc",
+            "value":"Chạm đúp để chọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_thu",
+            "value":"Thứ Năm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_show_password",
+            "value":"Hiện mật khẩu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_expanded_node",
+            "value":"Đã mở rộng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_service_panel",
+            "value":"Bảng điều khiển dịch vụ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value":"%1$s, đã thêm vào khu vực nội dung được ghim, hàng %2$d, cột %3$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_unselectedDesc",
+            "value":"Chạm đúp để chọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value":"Chạm đúp để thêm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_selected",
+            "value":"Đã chọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyNinth_counter_accessibility_text",
+            "value":"Ngày hai mươi chín",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_whole_calendar",
+            "value":"Đọc tất cả dữ liệu lịch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_left_screen",
+            "value":"Hiển thị bên trái",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_select_node",
+            "value":"Đã chọn %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_unselect_desc",
+            "value":"Chạm đúp để bỏ chọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value":"Chạm đúp để thêm, chạm đúp và giữ để vào chế độ chỉnh sửa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_hide_password",
+            "value":"Ẩn mật khẩu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_unselected",
+            "value":"Chưa chọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_used_for_accessibility_text",
+            "value":"Xóa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_add_location",
+            "value":"Thêm vị trí",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fourth_counter_accessibility_text",
+            "value":"Ngày mồng bốn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pc_title_bar_restored",
+            "value":"Đã khôi phục cửa sổ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value":"Đã vào chế độ chỉnh sửa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_search",
+            "value":"Tìm kiếm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value":"%s, đang kéo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_confirm",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySixth_counter_accessibility_text",
+            "value":"Ngày hai mươi sáu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_phone_number",
+            "value":"Gọi điện",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desc_developer_mode_tips",
+            "value":"Cần phải bật tùy chọn nhà phát triển để chạy tính năng này.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"lab_developer_mode_tips",
+            "value":"Trước tiên, hãy bật tùy chọn nhà phát triển",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_illegal_area",
+            "value":"Không được đặt ở đây",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_email",
+            "value":"Soạn email",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySeventh_counter_accessibility_text",
+            "value":"Ngày hai mươi bảy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_desc",
+            "value":"Khởi động lại ứng dụng Máy ảnh để khắc phục vấn đề này. Nếu hình ảnh vẫn không rõ nét, hãy liên hệ với bộ phận dịch vụ khách hàng.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_unselected",
+            "value":"Chưa chọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_last_step",
+            "value":"Trước",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyEighth_counter_accessibility_text",
+            "value":"Ngày hai mươi tám",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_app_locked",
+            "value":"Ứng dụng đã bị khóa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value":"%s, di chuyển ra khỏi khu vực nội dung được ghim",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_punch_in",
+            "value":"Đánh dấu vào/ra từ vị trí hiện tại",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_fri",
+            "value":"Thứ Sáu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item",
+            "value":"%s, đã thêm vào khu vực nội dung được ghim",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_time_limit",
+            "value":"Hết thời gian",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Twelfth_counter_accessibility_text",
+            "value":"Ngày mười hai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_title_edit",
+            "value":"Sửa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_file",
+            "value":"Đang tải tệp tin lên… (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_hidden_password",
+            "value":"Đã ẩn mật khẩu",
             "attr":{
                 "priority":"translate"
             }
