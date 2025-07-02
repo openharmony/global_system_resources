@@ -32996,6 +32996,16 @@
             "type": "string",
             "name": "arkui_app_bar_privacy_authorize",
             "order": 6552
+        },
+        {
+            "type": "string",
+            "name": "notification_screen_recording_privacy_on",
+            "order": 6553
+        },
+        {
+            "type": "string",
+            "name": "notification_screen_recording_privacy_off",
+            "order": 6554
         }
     ]
 }
