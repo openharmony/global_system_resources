@@ -5912,6 +5912,33 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.kernel.NET_RAW",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.kernel.DEBUGGER",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.kernel.ALLOW_DEBUG",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.READ_LOCAL_DEVICE_NAME",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
