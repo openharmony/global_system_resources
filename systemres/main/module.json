@@ -5903,6 +5903,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.atomicService.MANAGE_STORAGE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.TRIGGER_LOCAL_WANTAGENT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
