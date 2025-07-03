@@ -5919,6 +5919,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_WINDOW_TRANSPARENT",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
