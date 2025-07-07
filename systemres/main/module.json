@@ -5936,7 +5936,8 @@
                 "since": 20,
                 "deprecated": "",
                 "provisionEnable": false,
-                "distributedSceneEnable": false
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
             },
             {
                 "name": "ohos.permission.kernel.LOAD_INDEPENDENT_LIBRARY",
@@ -5945,7 +5946,8 @@
                 "since": 20,
                 "deprecated": "",
                 "provisionEnable": true,
-                "distributedSceneEnable": false
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
             }
         ]
     }
