@@ -4666,6 +4666,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_FILE_ENCRYPTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.GRANT_SHORT_TERM_WRITE_MEDIAVIDEO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
