@@ -5946,6 +5946,26 @@
                 "deprecated": "",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.kernel.IGNORE_LIBRARY_VALIDATION",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
+            },
+            {
+                "name": "ohos.permission.kernel.LOAD_INDEPENDENT_LIBRARY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
             }
         ]
     }
