@@ -56,7 +56,11 @@
               "//base/global/system_resources/systemres:systemres_hap",
               "//base/global/system_resources:ohos_fonts"
             ],
-            "inner_kits": [],
+            "inner_kits": [
+                {
+                    "name":"//base/global/system_resources:ohos_fonts"
+                }
+            ],
             "test": []
         }
     }

@@ -38,15 +38,14 @@ foreach(font, sys_fonts_list) {
   }
 }
 
-group("ohos_fonts") {
+ohos_shared_headers("ohos_fonts") {
   deps = []
   foreach(dep, dep_list) {
     deps += [ ":${dep}" ]
   }
-
-  if (system_resources_support_ext) {
-    deps += [ "${systemres_ext_path}:ohos_fonts_ext" ]
-  }
+  include_dirs = []
+  subsystem_name = "global"
+  part_name = "system_resources"
 }
 
 ohos_copy("copy_preview_fonts") {
@@ -57,6 +56,22 @@ ohos_copy("copy_preview_fonts") {
   outputs =
       [ target_out_dir + "/previewer/common/bin/fonts/{{source_file_part}}" ]
   module_source_dir = target_out_dir + "/previewer/common/bin/"
+  module_install_name = ""
+  subsystem_name = "global"
+  part_name = "system_resources"
+}
+
+ohos_copy("copy_preview_fonts_ext") {
+  sources = [
+    "${fontconfig_path}",
+    "${fontconfig_ohos_path}",
+  ]
+  foreach(font, sys_fonts_list) {
+    sources += [ font.font_path ]
+  }
+  outputs =
+      [ target_out_dir + "/previewer/resources/fonts/{{source_file_part}}" ]
+  module_source_dir = target_out_dir + "/previewer/resources"
   module_install_name = ""
   subsystem_name = "global"
   part_name = "system_resources"
