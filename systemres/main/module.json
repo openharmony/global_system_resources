@@ -5946,7 +5946,8 @@
                 "since": 20,
                 "deprecated": "",
                 "provisionEnable": false,
-                "distributedSceneEnable": false
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
             },
             {
                 "name": "ohos.permission.kernel.DEBUGGER",
@@ -5955,7 +5956,8 @@
                 "since": 20,
                 "deprecated": "",
                 "provisionEnable": false,
-                "distributedSceneEnable": false
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
             },
             {
                 "name": "ohos.permission.kernel.ALLOW_DEBUG",
@@ -5964,7 +5966,8 @@
                 "since": 20,
                 "deprecated": "",
                 "provisionEnable": false,
-                "distributedSceneEnable": false
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
             },
             {
                 "name": "ohos.permission.READ_LOCAL_DEVICE_NAME",
