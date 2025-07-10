@@ -6003,6 +6003,24 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false,
                 "isKernelEffect": true
+            },
+            {
+                "name": "ohos.permission.GET_SCREEN_CONTENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SIMULATE_USER_INPUT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
