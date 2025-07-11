@@ -5373,6 +5373,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_NET_TRACE_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_TRUST_LIST_OOBE_MANAGER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
