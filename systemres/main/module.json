@@ -876,6 +876,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.KEEP_BACKGROUND_RUNNING_SYSTEM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.UPDATE_CONFIGURATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
