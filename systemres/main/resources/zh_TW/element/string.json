@@ -1306,6 +1306,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"notification_screen_recording_privacy_off",
+            "value":"隱私保護已停用，輕觸查看更多",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_privacy_on",
+            "value":"隱私保護中，輕觸查看更多",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

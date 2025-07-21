@@ -1623,6 +1623,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"notification_screen_recording_privacy_off",
+            "value":"حماية الخصوصية موقوفة. التفاصيل>>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_privacy_on",
+            "value":"حماية الخصوصية نشطة. التفاصيل>>",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
