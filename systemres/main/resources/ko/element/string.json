@@ -1623,6 +1623,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"notification_screen_recording_privacy_off",
+            "value":"개인 정보 보호가 종료되었습니다. 상세정보>>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_privacy_on",
+            "value":"개인 정보 보호가 활성화되었습니다. 상세정보>>",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

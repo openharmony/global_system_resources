@@ -1623,6 +1623,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"notification_screen_recording_privacy_off",
+            "value":"Đã tắt tính năng bảo vệ quyền riêng tư. Chi tiết >>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_privacy_on",
+            "value":"Tính năng bảo vệ quyền riêng tư đang hoạt động. Chi tiết >>",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

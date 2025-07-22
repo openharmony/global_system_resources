@@ -2098,12 +2098,18 @@
             "value": "Preview display failed"
         },
         {
-            "name": "notification_screen_recording_privacy_on",
-            "value": "Privacy protection, click to see more"
+            "name":"notification_screen_recording_privacy_on",
+            "value":"Privacy protection active. Details>>",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "notification_screen_recording_privacy_off",
-            "value": "Privacy protection is closed, click to see more"
+            "name":"notification_screen_recording_privacy_off",
+            "value":"Privacy protection disabled. Details>>",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "general_ai_ask_celia",

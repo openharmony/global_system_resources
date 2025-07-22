@@ -1623,6 +1623,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"notification_screen_recording_privacy_off",
+            "value":"Protección de la privacidad deshabilitada. Detalles>>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_privacy_on",
+            "value":"Protección de la privacidad activa. Detalles>>",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
