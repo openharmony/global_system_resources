@@ -20,6 +20,10 @@ certificate_profile_path =
     "//vendor/tools/hap_sign_conf/global/system_resources/SystemResources.p7b"
 
 systemres_ext_path = "//vendor/${product_company}/base/global/system_resources"
+fontconfig_path =
+    "//third_party/skia/src/ports/skia_ohos/config/fontconfig.json"
+fontconfig_ohos_path =
+    "//third_party/skia/src/ports/skia_ohos/config/fontconfig_ohos.json"
 
 sys_fonts_list = [
   {
