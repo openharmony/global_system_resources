@@ -310,7 +310,7 @@
         },
         {
             "name": "loading_progress_default_size",
-            "value": "48.0vp"
+            "value": "64.0vp"
         },
         {
             "name": "capsule_progress_hover_effect_type",
@@ -638,7 +638,7 @@
         },
         {
             "name": "dialog_subtitle_font_size",
-            "value": "16.0fp"
+            "value": "22.0fp"
         },
         {
             "name": "dialog_tip_image_radius",
@@ -646,7 +646,7 @@
         },
         {
             "name": "dialog_tip_image_size",
-            "value": "70.0vp"
+            "value": "86.0vp"
         },
         {
             "name": "alertdialog_title_padding_top",
@@ -658,7 +658,7 @@
         },
         {
             "name": "dialog_checkbox_top_padding",
-            "value": "12.0vp"
+            "value": "10.0vp"
         },
         {
             "name": "dialog_checkbox_bottom_padding",
@@ -670,23 +670,23 @@
         },
         {
             "name": "dialog_checkbox_end_margin",
-            "value": "12.0vp"
+            "value": "10.0vp"
         },
         {
             "name": "dialog_button_font_max_size",
-            "value": "18.0vp"
+            "value": "24.0vp"
         },
         {
             "name": "dialog_button_font_min_size",
-            "value": "16.0vp"
+            "value": "22.0vp"
         },
         {
             "name": "alert_button_horizontal_space",
-            "value": "32.0vp"
+            "value": "16.0vp"
         },
         {
             "name": "alert_button_vertical_space",
-            "value": "32.0vp"
+            "value": "16.0vp"
         },
         {
             "name": "alert_divider_width",
@@ -721,16 +721,32 @@
             "value": "32.0vp"
         },
         {
+            "name": "alert_content_default_padding",
+            "value": "32.0vp"
+        },
+        {
             "name": "dialog_checkbox_min_height",
             "value": "0.0vp"
         },
         {
             "name": "dialog_content_right_margin",
-            "value": "22.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "dialog_scroll_right_margin",
-            "value": "22.0vp"
+            "value": "32.0vp"
+        },
+        {
+            "name": "dialog_content_font_size",
+            "value": "$float:Body_M"
+        },
+        {
+            "name": "swiper_indicator_container_height",
+            "value": "16.0vp"
+        },
+        {
+            "name": "swiper_indicator_dot_padding",
+            "value": "10.0vp"
         },
         {
             "name": "window_radius_small",

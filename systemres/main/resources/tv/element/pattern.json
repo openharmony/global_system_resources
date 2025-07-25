@@ -1560,11 +1560,11 @@
             "value": [
                 {
                     "name": "indicator_color_selected",
-                    "value": "#F1F3F5"
+                    "value": "$color:comp_focused_primary"
                 },
                 {
                     "name": "indicator_color",
-                    "value": "$color:ohos_id_color_component_normal"
+                    "value": "$color:comp_background_secondary"
                 },
                 {
                     "name": "indicator_hotzone_color",
@@ -1572,7 +1572,7 @@
                 },
                 {
                     "name": "indicator_text_color",
-                    "value": "#99ffffff"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "indicator_text_color_focused",
@@ -1580,23 +1580,23 @@
                 },
                 {
                     "name": "indicator_text_font_size",
-                    "value": "$float:ohos_id_text_size_body2"
+                    "value": "$float:Body_M"
                 },
                 {
                     "name": "indicator_text_font_color",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "indicator_color_hover",
-                    "value": "#4dffffff"
+                    "value": "$color:interactive_hover"
                 },
                 {
                     "name": "indicator_color_pressed",
-                    "value": "#26FFFFFF"
+                    "value": "$color:interactive_pressed"
                 },
                 {
                     "name": "indicator_color_focused",
-                    "value": "#F1F3F5"
+                    "value": "$color:comp_background_focus"
                 },
                 {
                     "name": "arrow_disabled_alpha",
@@ -1632,11 +1632,11 @@
                 },
                 {
                     "name": "swiper_indicator_size",
-                    "value": "6.0vp"
+                    "value": "8.0vp"
                 },
                 {
                     "name": "swiper_indicator_selected_size",
-                    "value": "12.0vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "swiper_indicator_mask",
@@ -1644,7 +1644,7 @@
                 },
                 {
                     "name": "swiper_indicator_point_padding",
-                    "value": "8.0vp"
+                    "value": "10.0vp"
                 },
                 {
                     "name": "swiper_indicator_start_end_padding",
@@ -1668,7 +1668,7 @@
                 },
                 {
                     "name": "swiper_indicator_hotzone_size",
-                    "value": "32.0vp"
+                    "value": "44.0vp"
                 },
                 {
                     "name": "swiper_indicator_disabled",
@@ -1861,7 +1861,7 @@
                 },
                 {
                     "name": "cursor_color",
-                    "value": "#e5ffffff"
+                    "value": "$color:textfield_cursor_color"
                 },
                 {
                     "name": "error_text_border_color",
@@ -2037,7 +2037,7 @@
                 },
                 {
                     "name": "textfield_font_weight",
-                    "value": "13.0"
+                    "value": "$float:ohos_id_textfield_font_weight"
                 },
                 {
                     "name": "textfield_border_radius",
