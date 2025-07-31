@@ -222,7 +222,7 @@
         },
         {
             "name": "textfield_font_size",
-            "value": "18.0fp"
+            "value": "24.0fp"
         },
         {
             "name": "textfield_hover_press_bg_color_enabled",
@@ -230,7 +230,11 @@
         },
         {
             "name": "search_default_height",
-            "value": "48.0vp"
+            "value": "54.0vp"
+        },
+        {
+            "name": "ohos_id_search_text_field_border_radius",
+            "value": "27.0vp"
         },
         {
             "name": "search_focus_padding",
@@ -238,19 +242,19 @@
         },
         {
             "name": "textfield_border_radius",
-            "value": "24.0vp"
+            "value": "27.0vp"
         },
         {
             "name": "search_border_width",
-            "value": "0.5vp"
+            "value": "1.0vp"
         },
         {
             "name": "search_icon_size",
-            "value": "20.0vp"
+            "value": "22.0vp"
         },
         {
             "name": "search_icon_height",
-            "value": "20.0vp"
+            "value": "22.0vp"
         },
         {
             "name": "search_cancel_button_style",
@@ -262,7 +266,7 @@
         },
         {
             "name": "search_symbol_icon_height",
-            "value": "20.0fp"
+            "value": "22.0fp"
         },
         {
             "name": "app_theme_focus_width",
