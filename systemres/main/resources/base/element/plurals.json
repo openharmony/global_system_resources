@@ -18,6 +18,32 @@
                     }
                 }
             ]
-        }
+        },
+       {
+           "name": "textfield_counter_content_part_one",
+           "value": [
+               {
+                   "quantity": "one",
+                   "value": "%d character entered,"
+               },
+               {
+                   "quantity": "other",
+                   "value": "%d characters entered,"
+               }
+           ]
+       },
+       {
+           "name": "textfield_counter_content_part_two",
+           "value": [
+               {
+                   "quantity": "one",
+                   "value": "limit is %d character."
+               },
+               {
+                   "quantity": "other",
+                   "value": "limit is %d characters."
+               }
+           ]
+         }
     ]
 }
