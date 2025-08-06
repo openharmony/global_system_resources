@@ -6124,6 +6124,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MEMOSPACE_SYNC",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
