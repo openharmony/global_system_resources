@@ -1937,12 +1937,8 @@
             "value": "Download complete %s"
         },
         {
-            "name": "request_agent_upload_complete",
-            "value": "Upload complete"
-        },
-        {
             "name": "request_agent_task_count",
-            "value": "%1$d succeeded, %2$d failed"
+            "value": "Successful: %1$d, Failed: %2$d"
         },
         {
             "name": "arkui_app_bar_service_panel",
