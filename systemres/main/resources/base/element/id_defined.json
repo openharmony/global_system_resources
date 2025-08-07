@@ -32749,7 +32749,8 @@
         {
             "type": "string",
             "name": "form_disable_app_locked",
-            "order": 6502
+            "order": 6502,
+            "flags": "private"
         },
         {
             "type": "string",
