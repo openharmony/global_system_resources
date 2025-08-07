@@ -33015,8 +33015,8 @@
             "order": 6555
         },
         {
-            "type": "string",
-            "name": "textfield_counter_content",
+            "type": "plural",
+            "name": "textfield_counter_content_part_one",
             "order": 6556
         },
         {
@@ -33068,6 +33068,11 @@
             "type": "float",
             "name": "subheader_titles_space",
             "order": 6566
+        },
+        {
+            "type": "plural",
+            "name": "textfield_counter_content_part_two",
+            "order": 6567
         }
     ]
 }
