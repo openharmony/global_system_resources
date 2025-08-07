@@ -32779,27 +32779,32 @@
         {
             "type": "string",
             "name": "pc_title_bar_close",
-            "order": 6508
+            "order": 6508,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "pc_title_bar_maximize",
-            "order": 6509
+            "order": 6509,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "pc_title_bar_minimize",
-            "order": 6510
+            "order": 6510,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "pc_title_bar_restore",
-            "order": 6511
+            "order": 6511,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "pc_title_bar_restored",
-            "order": 6512
+            "order": 6512,
+            "flags": "private"
         },
         {
             "type": "color",
