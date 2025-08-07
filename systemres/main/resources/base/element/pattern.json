@@ -2134,10 +2134,6 @@
                     "value": "$float:ohos_id_dialog_background_shadow_off"
                 },
                 {
-                    "name": "dialog_background_blur_style",
-                    "value": "$float:dialog_panel_background_blur_style"
-                },
-                {
                     "name": "title_text_color",
                     "value": "$color:ohos_id_color_text_primary"
                 },
@@ -2548,26 +2544,6 @@
                 {
                     "name":"common_ok_text",
                     "value":"$string:general_confirm"
-                },
-                {
-                    "name": "dialog_min_button_width",
-                    "value": "104.0vp"
-                },
-                {
-                    "name": "dialog_max_button_width",
-                    "value": "260.0vp"
-                },
-                {
-                    "name": "dialog_button_height",
-                    "value": "0.0vp"
-                },
-                {
-                    "name": "dialog_content_top_padding",
-                    "value": "24.0vp"
-                },
-                {
-                    "name": "dialog_button_border_radius",
-                    "value": "20.0vp"
                 }
             ]
         },
@@ -3243,7 +3219,7 @@
                 },
                 {
                     "name": "picker_focus_option_text_color",
-                    "value": "$color:picker_selector_item_text_focus_color"
+                    "value": "$color:picker_focus_option_text_color"
                 },
                 {
                     "name": "picker_focus_option_weight",
@@ -5928,10 +5904,6 @@
                     "value": "$color:ohos_id_color_text_primary"
                 },
                 {
-                    "name": "toast_background_blur_style",
-                    "value": "$float:toast_panel_background_blur_style"
-                },
-                {
                     "name": "bg_color",
                     "value": "$color:toast_container_color"
                 },
@@ -7053,7 +7025,7 @@
                 },
                 {
                     "name": "block_color",
-                    "value": "$color:slider_color_foreground_contrary"
+                    "value": "$color:point_color_checked"
                 },
                 {
                     "name": "outset_track_thickness",
@@ -9547,10 +9519,6 @@
         {
             "name": "ohos_app_theme_pattern",
             "value": [
-                {
-                    "name": "app_theme_focus_color",
-                    "value": "$color:app_theme_focus_color"
-                },
                 {
                     "name": "app_theme_focus_width",
                     "value": "$float:app_theme_focus_width"

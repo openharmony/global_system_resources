@@ -28650,7 +28650,8 @@
         {
             "type": "float",
             "name": "app_theme_focus_padding",
-            "order": 5691
+            "order": 5691,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -28712,7 +28713,8 @@
         {
             "type": "color",
             "name": "subtab_board_text_on_color",
-            "order": 5703
+            "order": 5703,
+            "flags": "private"
         },
         {
             "type": "float",
@@ -32967,17 +32969,20 @@
         {  
             "type": "float",
             "name": "popup_arrow_height",
-            "order": 6546
+            "order": 6546,
+            "flags": "private"
         },
         {  
             "type": "float",
             "name": "popup_arrow_width",
-            "order": 6547
+            "order": 6547,
+            "flags": "private"
         },
         {  
             "type": "float",
             "name": "dialog_button_border_radius",
-            "order": 6548
+            "order": 6548,
+            "flags": "private"
         },
         {
             "type": "color",
