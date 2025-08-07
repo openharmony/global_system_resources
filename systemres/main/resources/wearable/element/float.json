@@ -185,7 +185,7 @@
             "value": "0.009"
         },
         {
-            "name": "indexer_popup_text_size",
+            "name": "ohos_id_text_size_headline7",
             "value": "19.0vp"
         },
         {
@@ -383,18 +383,42 @@
         {
             "name": "menu_padding_interval",
             "value": "$float:padding_level2"
-		},
+        },
+        {
+            "name": "checkbox_hotzone_padding",
+            "value": "12.0vp"
+        },
+        {
+            "name": "radio_hotzone_padding",
+            "value": "12.0vp"
+        },
+        {
+            "name": "switch_hotzone_horizontal_padding",
+            "value": "7.0vp"
+        },
+        {
+            "name": "switch_hotzone_vertical_padding",
+            "value": "12.0vp"
+        },
+        {
+            "name": "switch_hotzone_horizontal_size",
+            "value": "7.0vp"
+        },
+        {
+            "name": "switch_hotzone_vertical_size",
+            "value": "12.0vp"
+        },
         {
             "name": "ohos_id_scroll_bar_shape_mode",
             "value": "2.0"
-		},
+        },
         {
             "name": "scroll_able_over_edge_following_ratio",
             "value": "10.0"
         },
         {
             "name": "text_overlay_menu_enable",
-            "value": "0.0"
+            "value": "1.0"
         },
         {
             "name": "textfield_border_radius",
