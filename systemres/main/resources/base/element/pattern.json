@@ -8319,19 +8319,19 @@
                 },
                 {
                     "name": "text_color_disabled_alpha",
-                    "value": "$float:interactive_disable"
+                    "value": "$float:ohos_id_alpha_disabled"
                 },
                 {
                     "name": "caret_color",
-                    "value": "$color:comp_background_emphasize"
+                    "value": "$color:ohos_id_color_emphasize"
                 },
                 {
                     "name": "selected_background_color",
-                    "value": "$color:comp_emphasize_secondary"
+                    "value": "$color:ohos_id_color_text_highlight_bg"
                 },
                 {
                     "name": "drag_background_color",
-                    "value": "$color:comp_background_primary"
+                    "value": "$color:ohos_id_color_dialog_bg"
                 },
                 {
                     "name": "default_text_color",
@@ -8355,23 +8355,23 @@
                 },
                 {
                     "name": "drag_corner_radius",
-                    "value": "$float:corner_radius_level9"
+                    "value": "$float:ohos_id_corner_radius_default_m"
                 },
                 {
                     "name": "pop_icon_color",
-                    "value": "$color:icon_secondary"
+                    "value": "$color:ohos_id_color_secondary"
                 },
                 {
                     "name": "menu_title_color",
-                    "value": "$color:font_secondary"
+                    "value": "$color:ohos_id_color_text_secondary"
                 },
                 {
                     "name": "menu_text_color",
-                    "value": "$color:font_primary"
+                    "value": "$color:ohos_id_color_text_primary"
                 },
                 {
                     "name": "menu_icon_color",
-                    "value": "$color:icon_primary"
+                    "value": "$color:ohos_id_color_primary"
                 },
                 {
                     "name": "font_emphasize",
