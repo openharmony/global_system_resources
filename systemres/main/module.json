@@ -5706,6 +5706,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_DISTRIBUTED_KEY_STORE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.GRANT_URI_PERMISSION_AS_CALLER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
