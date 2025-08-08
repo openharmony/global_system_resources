@@ -212,8 +212,16 @@
                     "value": "$float:ohos_id_scale_focus_button"
                 },
                 {
+                    "name": "emphasize_focus_color",
+                    "value": "$color:ohos_id_color_emphasize"
+                },
+                {
                     "name": "focus_bg_text",
                     "value": "$color:text_button_container_focus_color"
+                },
+                {
+                    "name": "emphasize_button_text_focus_color",
+                    "value": "$color:ohos_id_color_foreground_contrary"
                 },
                 {
                     "name": "button_aging_big_font_size_scale",
