@@ -10711,14 +10711,16 @@
             "order": 2107
         },
         {
-            "type": "color",
-            "name": "ohos_id_focused_bgcolor_switch_button_unselected",
-            "order": 2108
+            "type": "float",
+            "name": "ohos_id_width_border_switch",
+            "order": 2108,
+            "flags": "private"
         },
         {
             "type": "color",
-            "name": "ohos_id_focused_pointColor_switch_button_unselected",
-            "order": 2109
+            "name": "ohos_id_border_switch",
+            "order": 2109,
+            "flags": "private"
         },
         {
             "type": "color",
@@ -32920,32 +32922,38 @@
         {
             "type": "string",
             "name": "general_ai_preview_menu_address_open_map_app",
-            "order": 6536
+            "order": 6536,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "general_ai_preview_menu_url_open_browser_app",
-            "order": 6537
+            "order": 6537,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "general_ai_preview_menu_date_install_calendar_app",
-            "order": 6538
+            "order": 6538,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "general_ai_preview_menu_address_install_map_app",
-            "order": 6539
+            "order": 6539,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "general_ai_preview_menu_display_failed",
-            "order": 6540
+            "order": 6540,
+            "flags": "private"
         },
         {
             "type": "media",
             "name": "ic_person_fill",
-            "order": 6541
+            "order": 6541,
+            "flags": "private"
         },
         {
             "type": "float",
