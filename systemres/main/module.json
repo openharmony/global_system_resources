@@ -5940,6 +5940,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CLOUD_ROM_UPDATE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MOUNT_HDCDEBUG_PATH",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
