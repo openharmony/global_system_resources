@@ -1248,7 +1248,7 @@
         },
         {
             "name":"general_ai_menu_date",
-            "value":"Créer un Évènement d'Agenda",
+            "value":"Créer un nouvel évènement",
             "attr":{
                 "priority":"translate"
             }
@@ -1507,7 +1507,7 @@
         },
         {
             "name":"general_ai_menu_email",
-            "value":"Composer un email",
+            "value":"Rédiger un e-mail",
             "attr":{
                 "priority":"translate"
             }
@@ -1634,6 +1634,48 @@
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"Protection de la vie privée activée. Détails >>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_ask_celia",
+            "value":"Demander à Celia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_open_map_app",
+            "value":"Naviguer avec Petal Maps",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_url_open_browser_app",
+            "value":"Ouvrir avec HUAWEI Navigateur",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_install_map_app",
+            "value":"Touchez ici pour installer Petal Maps.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_display_failed",
+            "value":"L'affichage de l'aperçu a échoué",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_install_calendar_app",
+            "value":"Touchez ici pour installer l'application Agenda.",
             "attr":{
                 "priority":"translate"
             }

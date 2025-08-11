@@ -1248,7 +1248,7 @@
         },
         {
             "name":"general_ai_menu_date",
-            "value":"Crear evento de calendario",
+            "value":"Crear evento nuevo",
             "attr":{
                 "priority":"translate"
             }
@@ -1634,6 +1634,48 @@
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"Protección de la privacidad activa. Detalles>>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_ask_celia",
+            "value":"Preguntar a Celia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_open_map_app",
+            "value":"Navegar con Petal Maps",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_url_open_browser_app",
+            "value":"Abrir con Navegador de HUAWEI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_install_map_app",
+            "value":"Pulsa aquí para instalar Petal Maps.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_display_failed",
+            "value":"No se puede mostrar la vista previa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_install_calendar_app",
+            "value":"Pulsa aquí para instalar la aplicación Calendario.",
             "attr":{
                 "priority":"translate"
             }

@@ -1248,7 +1248,7 @@
         },
         {
             "name":"general_ai_menu_date",
-            "value":"カレンダーの予定を作成",
+            "value":"新規予定の作成",
             "attr":{
                 "priority":"translate"
             }
@@ -1634,6 +1634,48 @@
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"個人情報保護がアクティブです。詳細>>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_ask_celia",
+            "value":"Celiaに尋ねる",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_open_map_app",
+            "value":"Petalマップでナビゲート",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_url_open_browser_app",
+            "value":"HUAWEIブラウザで開く",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_install_map_app",
+            "value":"ここをタップしてPetalマップをインストールします。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_display_failed",
+            "value":"プレビューを表示できません",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_install_calendar_app",
+            "value":"ここをタップしてカレンダーアプリをインストールします。",
             "attr":{
                 "priority":"translate"
             }

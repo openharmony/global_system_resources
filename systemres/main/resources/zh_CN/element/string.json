@@ -1871,11 +1871,17 @@
         },
         {
             "name": "general_ai_menu_address",
-            "value": "导航前往"
+            "value": "导航前往",
+            "attr":{
+                "priority": "translate"
+            }
         },
         {
             "name": "general_ai_menu_date",
-            "value": "新建日程"
+            "value": "新建日程",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name": "general_ai_menu_email",
@@ -1890,24 +1896,39 @@
             "value": "打开链接"
         },
         {
-            "name": "general_ai_preview_menu_address_open_map_app",
-            "value": "使用“花瓣地图”导航"
+            "name":"general_ai_preview_menu_address_open_map_app",
+            "value":"使用“花瓣地图”导航",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_ai_preview_menu_url_open_browser_app",
-            "value": "使用“华为浏览器”打开"
+            "name":"general_ai_preview_menu_url_open_browser_app",
+            "value":"使用“华为浏览器”打开",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_ai_preview_menu_date_install_calendar_app",
-            "value": "点击安装“日历”App"
+            "name":"general_ai_preview_menu_date_install_calendar_app",
+            "value":"点击安装“日历”App",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_ai_preview_menu_address_install_map_app",
-            "value": "点击安装“花瓣地图”App"
+            "name":"general_ai_preview_menu_address_install_map_app",
+            "value":"点击安装“花瓣地图”App",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_ai_preview_menu_display_failed",
-            "value": "预览显示失败"
+            "name":"general_ai_preview_menu_display_failed",
+            "value":"预览显示失败",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"notification_screen_recording_privacy_on",
@@ -1925,7 +1946,10 @@
         },
         {
             "name": "general_ai_ask_celia",
-            "value": "问问小艺"
+            "value": "问问小艺",
+            "attr":{
+                "priority": "translate"
+            }
         }
     ]
 }

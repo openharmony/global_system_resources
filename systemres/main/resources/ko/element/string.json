@@ -1248,7 +1248,7 @@
         },
         {
             "name":"general_ai_menu_date",
-            "value":"캘린더 이벤트 만들기",
+            "value":"새 이벤트 생성",
             "attr":{
                 "priority":"translate"
             }
@@ -1634,6 +1634,48 @@
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"개인 정보 보호가 활성화되었습니다. 상세정보>>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_ask_celia",
+            "value":"Celia에게 묻기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_open_map_app",
+            "value":"Petal 지도로 탐색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_url_open_browser_app",
+            "value":"HUAWEI 브라우저로 열기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_install_map_app",
+            "value":"Petal 지도를 설치하려면 여기를 탭합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_display_failed",
+            "value":"미리보기 표시 불가",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_install_calendar_app",
+            "value":"캘린더 앱을 설치하려면 여기를 탭합니다.",
             "attr":{
                 "priority":"translate"
             }
