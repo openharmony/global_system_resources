@@ -5438,6 +5438,10 @@
                     "value": "$float:ohos_id_textfield_error_font_weight"
                 },
                 {
+                    "name": "textfield_error_text_align",
+                    "value": "$float:text_align_error"
+                },
+                {
                     "name": "textfield_count_font_weight",
                     "value": "$float:ohos_id_textfield_count_font_weight"
                 },
@@ -5546,6 +5550,14 @@
                     "value": "$float:textfield_inline_padding_right"
                 },
                 {
+                    "name": "menu_translate_is_support",
+                    "value": "$string:res_menu_translate_is_support"
+                },
+                {
+                    "name": "textfield_menu_search_is_support",
+                    "value": "$string:res_menu_search_is_support"
+                },
+                {
                     "name": "text_input_border_width",
                     "value": "$float:text_input_border_width"
                 },
@@ -5596,18 +5608,6 @@
                 {
                     "name": "direction_keys_move_focus_out",
                     "value": "$float:textfield_direction_keys_move_focus_out"
-                },
-                {
-                    "name": "menu_translate_is_support",
-                    "value": "$string:res_menu_translate_is_support"
-                },
-                {
-                    "name": "textfield_menu_search_is_support",
-                    "value": "$string:res_menu_search_is_support"
-                },
-                {
-                    "name": "textfield_error_text_align",
-                    "value": "$float:text_align_error"
                 },
                 {
                     "name": "auto_fill_icon_primary_color",
