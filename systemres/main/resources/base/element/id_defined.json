@@ -33322,6 +33322,12 @@
             "name": "textfield_cursor_height",
             "order": 6608,
             "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "progress_text_font_weight",
+            "order": 6609,
+            "flags": "private"
         }
     ]
 }

@@ -294,7 +294,7 @@
         },
         {
             "name": "progress_border_width",
-            "value": "0.5vp"
+            "value": "1.0vp"
         },
         {
             "name": "progress_border_color_alpha",
@@ -302,7 +302,11 @@
         },
         {
             "name": "progress_text_size",
-            "value": "18.0fp"
+            "value": "24.0fp"
+        },
+        {
+            "name": "progress_text_font_weight",
+            "value": "13"
         },
         {
             "name": "capsule_progress_focused_shadow_style",
@@ -334,7 +338,7 @@
         },
         {
             "name": "capsule_progress_hover_effect_type",
-            "value": "0.0"
+            "value": "2.0"
         },
         {
             "name": "ring_progress_default_padding",
@@ -346,7 +350,7 @@
         },
         {
             "name": "progress_text_margin",
-            "value": "12.0vp"
+            "value": "15.0vp"
         },
         {
             "name": "progress_ring_thickness",
