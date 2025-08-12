@@ -314,7 +314,7 @@
                 },
                 {
                     "name": "fg_color_checked",
-                    "value": "$color:point_color_checked"
+                    "value": "$color:ohos_id_color_foreground_contrary"
                 },
                 {
                     "name": "fg_color_unchecked",
@@ -1889,7 +1889,7 @@
                 },
                 {
                     "name": "radio_hover_bg_size",
-                    "value": "$float:radio_hover_bg_size"
+                    "value": "$float:radio_container_hover_size"
                 },
                 {
                     "name": "radio_circle_dial",
@@ -5973,11 +5973,11 @@
                 },
                 {
                     "name": "toast_padding_level8",
-                    "value": "$float:toast_padding_horizontal_api_twelve"
+                    "value": "$float:toast_padding_level8"
                 },
                 {
                     "name": "toast_padding_level4",
-                    "value": "$float:toast_padding_vertical_api_twelve"
+                    "value": "$float:toast_padding_level4"
                 },
                 {
                     "name": "toast_Body_M",
