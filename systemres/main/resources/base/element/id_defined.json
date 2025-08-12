@@ -10718,7 +10718,7 @@
         },
         {
             "type": "color",
-            "name": "ohos_id_border_switch",
+            "name": "ohos_id_color_border_switch",
             "order": 2109,
             "flags": "private"
         },
@@ -28492,47 +28492,56 @@
         {
             "type": "float",
             "name": "ohos_id_slider_crown_display_control_ratio",
-            "order": 5659
+            "order": 5659,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "swiper_slow_velocity_threshold",
-            "order": 5660
+            "order": 5660,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "swiper_display_control_ratio_slow",
-            "order": 5661
+            "order": 5661,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "swiper_display_control_ratio_fast",
-            "order": 5662
+            "order": 5662,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "swiper_crown_sensitivity_low",
-            "order": 5663
+            "order": 5663,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "swiper_crown_sensitivity_medium",
-            "order": 5664
+            "order": 5664,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "swiper_crown_sensitivity_high",
-            "order": 5665
+            "order": 5665,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "swiper_spring_velocity_threshold",
-            "order": 5666
+            "order": 5666,
+            "flags": "private"
         },
         {
             "type": "float",
             "name": "swiper_crown_translocation_ratio",
-            "order": 5667
+            "order": 5667,
+            "flags": "private"
         },
         {
             "type": "string",
