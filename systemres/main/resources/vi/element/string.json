@@ -1255,7 +1255,7 @@
         },
         {
             "name":"general_ai_menu_date",
-            "value":"Tạo sự kiện trên lịch",
+            "value":"Tạo sự kiện mới",
             "attr":{
                 "priority":"translate"
             }
@@ -1641,6 +1641,48 @@
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"Tính năng bảo vệ quyền riêng tư đang hoạt động. Chi tiết >>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_ask_celia",
+            "value":"Hỏi Celia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_open_map_app",
+            "value":"Chỉ đường bằng Petal Bản đồ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_url_open_browser_app",
+            "value":"Mở bằng HUAWEI Trình duyệt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_install_map_app",
+            "value":"Chạm vào đây để cài đặt Petal Bản đồ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_display_failed",
+            "value":"Không hiển thị được bản xem trước",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_install_calendar_app",
+            "value":"Nhấn vào đây để cài đặt ứng dụng Lịch.",
             "attr":{
                 "priority":"translate"
             }

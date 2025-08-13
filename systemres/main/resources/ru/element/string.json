@@ -1255,7 +1255,7 @@
         },
         {
             "name":"general_ai_menu_date",
-            "value":"Создать событие в календаре",
+            "value":"Создать новое событие",
             "attr":{
                 "priority":"translate"
             }
@@ -1641,6 +1641,48 @@
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"Защита конфиденциальности активна. Сведения>>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_ask_celia",
+            "value":"Спросить Celia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_open_map_app",
+            "value":"Навигация с помощью Petal Maps",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_url_open_browser_app",
+            "value":"Открыть в Браузере HUAWEI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_install_map_app",
+            "value":"Нажмите здесь, чтобы установить Petal Maps.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_display_failed",
+            "value":"Сбой предпросмотра",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_install_calendar_app",
+            "value":"Нажмите здесь, чтобы установить приложение Календарь.",
             "attr":{
                 "priority":"translate"
             }

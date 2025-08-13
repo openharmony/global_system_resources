@@ -1255,7 +1255,7 @@
         },
         {
             "name":"general_ai_menu_date",
-            "value":"إنشاء حدث في التقويم",
+            "value":"إنشاء حدث جديد",
             "attr":{
                 "priority":"translate"
             }
@@ -1641,6 +1641,48 @@
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"حماية الخصوصية نشطة. التفاصيل>>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_ask_celia",
+            "value":"اسأل Celia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_open_map_app",
+            "value":"الملاحة باستخدام خرائط Petal",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_url_open_browser_app",
+            "value":"فتح بمتصفح هواوي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_install_map_app",
+            "value":"انقر هنا لتثبيت خرائط Petal.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_display_failed",
+            "value":"يتعذّر إظهار المعاينة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_install_calendar_app",
+            "value":"لنقر هنا لتثبيت تطبيق التقويم.",
             "attr":{
                 "priority":"translate"
             }
