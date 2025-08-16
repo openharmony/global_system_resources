@@ -33104,6 +33104,42 @@
             "type": "plural",
             "name": "textfield_counter_content_part_two",
             "order": 6567
+        },
+        {
+            "type": "media",
+            "name": "ic_link",
+            "order": 6568,
+            "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "ic_location",
+            "order": 6569,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_ai_loation_title",
+            "order": 6570,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_ai_link_title",
+            "order": 6571,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "general_ai_content_space",
+            "order": 6572,
+            "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "general_ai_preview_menu_date_retry",
+            "order": 6573,
+            "flags": "private"
         }
     ]
 }
