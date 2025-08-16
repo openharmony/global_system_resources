@@ -33225,6 +33225,21 @@
             "type": "float",
             "name": "checkbox_hotzone_padding_horizontal",
             "order": 6590
+        },
+        {
+            "type": "float",
+            "name": "segment_button_unselected_font_weight",
+            "order": 6591
+        },
+        {
+            "type": "float",
+            "name": "segment_button_border_width",
+            "order": 6592
+        },
+        {
+            "type": "color",
+            "name": "segment_button_border_color",
+            "order": 6593
         }
     ]
 }
