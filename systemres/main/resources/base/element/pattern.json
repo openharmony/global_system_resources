@@ -5893,6 +5893,22 @@
                 {
                     "name": "general_ai_ask_celia",
                     "value": "$string:general_ai_ask_celia"
+                },
+                {
+                    "name": "general_ai_loation_title",
+                    "value": "$string:general_ai_loation_title"
+                },
+                {
+                    "name": "general_ai_link_title",
+                    "value": "$string:general_ai_link_title"
+                },
+                {
+                    "name": "general_ai_preview_menu_date_retry",
+                    "value": "$string:general_ai_preview_menu_date_retry"
+                },
+                {
+                    "name": "general_ai_content_space",
+                    "value": "$float:padding_level1"
                 }
             ]
         },
@@ -7521,6 +7537,14 @@
                 {
                     "name": "ic_person_fill",
                     "value": "$media:ic_person_fill"
+                },
+                {
+                    "name": "ic_link",
+                    "value": "$media:ic_link"
+                },
+                {
+                    "name": "ic_location",
+                    "value": "$media:ic_location"
                 }
             ]
         },
