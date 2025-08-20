@@ -33140,6 +33140,21 @@
             "name": "general_ai_preview_menu_date_retry",
             "order": 6573,
             "flags": "private"
+        },
+        {
+            "type": "media",
+            "name": "loud_volume_notification_icon",
+            "order": 6574
+        },
+        {
+            "type": "string",
+            "name": "notification_feature_loud_volume_tittle",
+            "order": 6575
+        },
+        {
+            "type": "string",
+            "name": "notification_enable_loud_volume_tittle",
+            "order": 6576
         }
     ]
 }
