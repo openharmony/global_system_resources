@@ -33155,6 +33155,76 @@
             "type": "string",
             "name": "notification_enable_loud_volume_tittle",
             "order": 6576
+        },
+        {
+            "type": "color",
+            "name": "radio_color_hover",
+            "order": 6577
+        },
+        {
+            "type": "color",
+            "name": "radio_color_foreground_contrary",
+            "order": 6578
+        },
+        {
+            "type": "color",
+            "name": "radio_bg_color_checked",
+            "order": 6579
+        },
+        {
+            "type": "color",
+            "name": "radio_bg_color_unchecked",
+            "order": 6580
+        },
+        {
+            "type": "color",
+            "name": "radio_click_effect_color",
+            "order": 6581
+        },
+        {
+            "type": "float",
+            "name": "radio_default_size_api_twelve",
+            "order": 6582
+        },
+        {
+            "type": "float",
+            "name": "checkbox_default_round_padding_size",
+            "order": 6583
+        },
+        {
+            "type": "float",
+            "name": "checkbox_focus_white_border_radius",
+            "order": 6584
+        },
+        {
+            "type": "color",
+            "name": "checkbox_fg_color_checked",
+            "order": 6585
+        },
+        {
+            "type": "color",
+            "name": "checkbox_bg_color_checked",
+            "order": 6586
+        },
+        {
+            "type": "color",
+            "name": "checkbox_bg_border_color_unchecked",
+            "order": 6587
+        },
+        {
+            "type": "color",
+            "name": "checkbox_hover_border_color",
+            "order": 6588
+        },
+        {
+            "type": "color",
+            "name": "checkbox_click_effect_color",
+            "order": 6589
+        },
+        {
+            "type": "float",
+            "name": "checkbox_hotzone_padding_horizontal",
+            "order": 6590
         }
     ]
 }
