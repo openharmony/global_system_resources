@@ -33244,6 +33244,36 @@
             "name": "datapanel_track_shadow_radius",
             "order": 6594,
             "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "chip_activated_normal_height",
+            "order": 6595
+        },
+        {
+            "type": "float",
+            "name": "chip_activated_small_height",
+            "order": 6596
+        },
+        {
+            "type": "float",
+            "name": "chip_activated_border_width",
+            "order": 6597
+        },
+        {
+            "type": "float",
+            "name": "chip_activated_normal_text_padding",
+            "order": 6598
+        },
+        {
+            "type": "float",
+            "name": "chip_activated_small_text_padding",
+            "order": 6599
+        },
+        {
+            "type": "float",
+            "name": "chip_activated_text_font_weight",
+            "order": 6600
         }
     ]
 }
