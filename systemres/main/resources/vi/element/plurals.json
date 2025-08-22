@@ -11,6 +11,30 @@
                     }
                 }
             ]
+        },
+        {
+            "name":"textfield_counter_content_part_one",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"Đã nhập %d ký tự",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"textfield_counter_content_part_two",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"giới hạn là %d ký tự",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
         }
     ]
 }

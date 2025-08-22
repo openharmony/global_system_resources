@@ -28,6 +28,64 @@
                     "value":"[TS_1022273]_%d new messages"
                 }
             ]
+        },
+        {
+            "name":"textfield_counter_content_part_one",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_1113935]_%d characters entered"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_1113936]_%d character entered"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1113945]_%d characters entered"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1113937]_%d characters entered"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1113944]_%d characters entered"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1113940]_%d characters entered"
+                }
+            ]
+        },
+        {
+            "name":"textfield_counter_content_part_two",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_1113934]_limit is %d characters"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_1113941]_limit is %d character"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1113942]_limit is %d characters"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1113939]_limit is %d characters"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1113938]_limit is %d characters"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1113943]_limit is %d characters"
+                }
+            ]
         }
     ]
 }

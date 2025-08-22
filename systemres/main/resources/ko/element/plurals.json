@@ -11,6 +11,30 @@
                     }
                 }
             ]
+        },
+        {
+            "name":"textfield_counter_content_part_one",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"%d자 입력됨",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"textfield_counter_content_part_two",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"제한은 %d자입니다",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
         }
     ]
 }
