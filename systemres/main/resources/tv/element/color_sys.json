@@ -510,7 +510,7 @@
         },
         {
             "name": "background_emphasize",
-            "value": "#266EFB"
+            "value": "#317AF7"
         },
         {
             "name": "subtab_board_text_on_color",
@@ -531,6 +531,74 @@
         {
             "name": "scroll_bar_foreground_pressed_blend_color",
             "value": "$color:interactive_pressed"
+        },
+        {
+            "name": "icon_tertiary",
+            "value": "#66FFFFFF"
+        },
+        {
+            "name": "radio_container_focus_color",
+            "value": "$color:comp_background_focus"
+        },
+        {
+            "name": "radio_ring_focus_color_unchecked",
+            "value": "#99ffffff"
+        },
+        {
+            "name": "radio_container_focus_color_unchecked",
+            "value": "$color:comp_background_tertiary"
+        },
+        {
+            "name": "radio_color_hover",
+            "value": "$color:interactive_hover"
+        },
+        {
+            "name": "radio_color_foreground_contrary",
+            "value": "$color:comp_background_primary_contrary"
+        },
+        {
+            "name": "radio_bg_color_checked",
+            "value": "$color:background_emphasize"
+        },
+        {
+            "name": "radio_bg_color_unchecked",
+            "value": "$color:icon_tertiary"
+        },
+        {
+            "name": "radio_click_effect_color",
+            "value": "$color:interactive_pressed"
+        },
+        {
+            "name": "checkbox_fg_color_checked",
+            "value": "$color:comp_background_primary_contrary"
+        },
+        {
+            "name": "checkbox_bg_color_checked",
+            "value": "$color:background_emphasize"
+        },
+        {
+            "name": "checkbox_bg_border_color_unchecked",
+            "value": "$color:icon_tertiary"
+        },
+        {
+            "name": "checkbox_hover_border_color",
+            "value": "$color:interactive_hover"
+        },
+        {
+            "name": "checkbox_click_effect_color",
+            "value": "$color:interactive_pressed"
+        },
+        {
+            "name": "checkbox_container_focus_color",
+            "value": "$color:comp_background_focus"
+        },
+        {
+            "name": "checkbox_container_focus_color_unselected",
+            "value": "$color:comp_background_tertiary"
+        },
+        {
+            "name": "checkbox_focus_color",
+            "value": "#fff1f3f5"
         }
     ]
 }

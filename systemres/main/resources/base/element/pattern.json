@@ -1592,11 +1592,11 @@
             "value": [
                 {
                     "name": "fg_color_checked",
-                    "value": "$color:ohos_id_color_foreground_contrary"
+                    "value": "$color:checkbox_fg_color_checked"
                 },
                 {
                     "name": "bg_color_checked",
-                    "value": "$color:ohos_id_color_text_primary_activated"
+                    "value": "$color:checkbox_bg_color_checked"
                 },
                 {
                     "name": "bg_color_unchecked",
@@ -1604,7 +1604,7 @@
                 },
                 {
                     "name": "bg_border_color_unchecked",
-                    "value": "$color:ohos_id_color_switch_outline_off"
+                    "value": "$color:checkbox_bg_border_color_unchecked"
                 },
                 {
                     "name": "focus_border_color",
@@ -1616,11 +1616,11 @@
                 },
                 {
                     "name": "hover_border_color",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:checkbox_hover_border_color"
                 },
                 {
                     "name": "click_effect_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:checkbox_click_effect_color"
                 },
                 {
                     "name": "hover_border_radius",
@@ -1660,7 +1660,7 @@
                 },
                 {
                     "name": "hotzone_padding_horizontal",
-                    "value": "12.0vp"
+                    "value": "$float:checkbox_hotzone_padding_horizontal"
                 },
                 {
                     "name": "hotzone_padding_verical",
@@ -1748,7 +1748,11 @@
                 },
                 {
                     "name": "focus_white_border_radius",
-                    "value": "0.0vp"
+                    "value": "$float:checkbox_focus_white_border_radius"
+                },
+                {
+                    "name": "checkbox_default_round_padding_size",
+                    "value": "$float:checkbox_default_round_padding_size"
                 }
             ]
         },
@@ -1761,7 +1765,7 @@
                 },
                 {
                     "name": "hover_border_color",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:radio_color_hover"
                 },
                 {
                     "name": "focus_border_color",
@@ -1769,7 +1773,7 @@
                 },
                 {
                     "name": "fg_color_checked",
-                    "value": "$color:ohos_id_color_foreground_contrary"
+                    "value": "$color:radio_color_foreground_contrary"
                 },
                 {
                     "name": "fg_color_unchecked",
@@ -1777,15 +1781,15 @@
                 },
                 {
                     "name": "bg_color_checked",
-                    "value": "$color:ohos_id_color_emphasize"
+                    "value": "$color:radio_bg_color_checked"
                 },
                 {
                     "name": "bg_color_unchecked",
-                    "value": "$color:ohos_id_color_switch_outline_off"
+                    "value": "$color:radio_bg_color_unchecked"
                 },
                 {
                     "name": "click_effect_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:radio_click_effect_color"
                 },
                 {
                     "name": "focus_paint_padding",
@@ -1833,7 +1837,7 @@
                 },
                 {
                     "name": "radio_default_size_api_twelve",
-                    "value": "24.0vp"
+                    "value": "$float:radio_default_size_api_twelve"
                 },
                 {
                     "name": "radio_size",

@@ -570,7 +570,7 @@
         },
         {
             "name": "checkbox_round_container_focus_size",
-            "value": "2.0vp"
+            "value": "3.0vp"
         },
         {
             "name": "tab_subtab_text_default_size",
@@ -831,6 +831,102 @@
         {
             "name": "alpha_primary",
             "value": "0.9"
+        },
+        {
+            "name": "radio_focus_paint_padding",
+            "value": "6.0vp"
+        },
+        {
+            "name": "radio_container_size",
+            "value": "32.0vp"
+        },
+        {
+            "name": "radio_horizontal_padding",
+            "value": "3.0vp"
+        },
+        {
+            "name": "radio_default_size_api_twelve",
+            "value": "32.0vp"
+        },
+        {
+            "name": "ohos_id_radio_size",
+            "value": "28.0vp"
+        },
+        {
+            "name": "radio_hotzone_padding",
+            "value": "4.0vp"
+        },
+        {
+            "name": "ohos_id_radio_default_size",
+            "value": "28.0vp"
+        },
+        {
+            "name": "ohos_id_radio_border_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "radio_container_focus_size",
+            "value": "3.0vp"
+        },
+        {
+            "name": "radio_hover_bg_size",
+            "value": "3.0vp"
+        },
+        {
+            "name": "checkbox_focus_paint_padding",
+            "value": "6.0vp"
+        },
+        {
+            "name": "ohos_id_checkbox_focus_radius",
+            "value": "8.0vp"
+        },
+        {
+            "name": "checkbox_hotzone_padding_horizontal",
+            "value": "2.0vp"
+        },
+        {
+            "name": "ohos_id_checkbox_size",
+            "value": "32.0vp"
+        },
+        {
+            "name": "checkbox_hotzone_padding",
+            "value": "3.0vp"
+        },
+        {
+            "name": "ohos_id_checkbox_default_size",
+            "value": "28.0vp"
+        },
+        {
+            "name": "checkbox_default_size_twelve",
+            "value": "32.0vp"
+        },
+        {
+            "name": "checkbox_default_padding_size",
+            "value": "3.0vp"
+        },
+        {
+            "name": "checkbox_hover_padding_size",
+            "value": "3.0vp"
+        },
+        {
+            "name": "ohos_id_checkbox_border_width",
+            "value": "2.0vp"
+        },
+        {
+            "name": "ohos_id_checkbox_stroke_width",
+            "value": "2.6vp"
+        },
+        {
+            "name": "checkbox_container_focus_size",
+            "value": "3.0vp"
+        },
+        {
+            "name": "checkbox_focus_white_border_radius",
+            "value": "2.0vp"
+        },
+        {
+            "name": "checkbox_default_round_padding_size",
+            "value": "3.0vp"
         }
     ]
 }
