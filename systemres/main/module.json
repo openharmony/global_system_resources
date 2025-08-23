@@ -4649,6 +4649,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.RESTORE_END_NOTIFICATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 21,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ENTERPRISE_RECOVERY_KEY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
