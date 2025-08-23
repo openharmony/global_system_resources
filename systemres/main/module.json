@@ -6252,6 +6252,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CUSTOM_SCREEN_RECORDING",
+                "grantMode": "manual_settings",
+                "availableLevel": "system_basic",
+                "since": 22,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
