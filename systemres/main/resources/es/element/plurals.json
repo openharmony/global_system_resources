@@ -18,6 +18,44 @@
                     }
                 }
             ]
+        },
+        {
+            "name":"textfield_counter_content_part_one",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"Se han introducido %d caracteres",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"one",
+                    "value":"Se ha introducido %d carácter",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"textfield_counter_content_part_two",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"el límite es de %d caracteres",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"one",
+                    "value":"el límite es de %d carácter",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
         }
     ]
 }

@@ -46,6 +46,100 @@
                     }
                 }
             ]
+        },
+        {
+            "name":"textfield_counter_content_part_one",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"تم إدخال %d حرف",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"one",
+                    "value":"تم إدخال حرف واحد",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"zero",
+                    "value":"لم يتم إدخال أي حروف",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"few",
+                    "value":"تم إدخال %d حروف",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"many",
+                    "value":"تم إدخال %d حرفًا",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"two",
+                    "value":"تم إدخال حرفين",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"textfield_counter_content_part_two",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"الحد الأقصى %d حرف",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"one",
+                    "value":"الحد الأقصى حرف واحد",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"zero",
+                    "value":"الحد الأقصى %d حروف",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"few",
+                    "value":"الحد الأقصى %d حروف",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"many",
+                    "value":"الحد الأقصى %d حرفًا",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"two",
+                    "value":"الحد الأقصى حرفان",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
         }
     ]
 }
