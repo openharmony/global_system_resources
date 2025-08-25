@@ -414,7 +414,7 @@
         },
         {
             "name": "segment_button_checked_foreground_color",
-            "value": "#33F1F3F5"
+            "value": "$color:interactive_select"
         },
         {
             "name": "segment_button_unselected_text_color",
@@ -422,7 +422,7 @@
         },
         {
             "name": "segment_button_backboard_color",
-            "value": "#59F1F3F5"
+            "value": "$color:comp_background_tertiary"
         },
         {
             "name": "segment_button_hover_color",
@@ -430,7 +430,7 @@
         },
         {
             "name": "segment_button_press_color",
-            "value": "#26ffffff"
+            "value": "$color:interactive_pressed"
         },
         {
             "name": "tab_subtab_active_indicator_color",
@@ -599,6 +599,10 @@
         {
             "name": "checkbox_focus_color",
             "value": "#fff1f3f5"
+        },
+        {
+            "name": "segment_button_border_color",
+            "value": "#26FFFFFF"
         }
     ]
 }
