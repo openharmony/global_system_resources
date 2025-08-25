@@ -3709,11 +3709,11 @@
                 },
                 {
                     "name": "popup_arrow_height",
-                    "value": "8.0vp"
+                    "value": "$float:popup_arrow_height"
                 },
                 {
                     "name": "popup_arrow_width",
-                    "value": "16.0vp"
+                    "value": "$float:popup_arrow_width"
                 }
             ]
         },
