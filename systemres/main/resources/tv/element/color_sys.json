@@ -102,7 +102,7 @@
         },
         {
             "name": "textfield_bg_color",
-            "value": "#33F1F3F5"
+            "value": "$color:comp_background_tertiary"
         },
         {
             "name": "searchkeyboard_primary_control_color",
@@ -130,7 +130,7 @@
         },
         {
             "name": "search_icon_color",
-            "value": "$color:font_secondary"
+            "value": "$color:icon_secondary"
         },
         {
             "name": "search_placeholder_focus_color",
@@ -146,7 +146,7 @@
         },
         {
             "name": "search_container_focus_color",
-            "value": "$color:textfield_bg_color"
+            "value": "$color:comp_background_focus"
         },
         {
             "name": "search_icon_focus_color",
@@ -603,6 +603,22 @@
         {
             "name": "segment_button_border_color",
             "value": "#26FFFFFF"
+        },
+        {
+            "name": "search_normal_color",
+            "value": "#19FFFFFF"
+        },
+        {
+            "name": "search_cancel_button_hover_color",
+            "value": "$color:interactive_hover"
+        },
+        {
+            "name": "search_cancel_button_press_color",
+            "value": "$color:interactive_pressed"
+        },
+        {
+            "name": "search_cancel_button_focus_color",
+            "value": "$color:comp_background_focus"
         }
     ]
 }
