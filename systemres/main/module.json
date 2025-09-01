@@ -6199,6 +6199,15 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
+			{
+                "name": "ohos.permission.ENTERPRISE_DATA_IDENTIFY_FILE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 21,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
             {
                 "name": "ohos.permission.START_WINDOW_BELOW_LOCK_SCREEN",
                 "grantMode": "system_grant",
