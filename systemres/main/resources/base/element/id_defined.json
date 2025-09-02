@@ -33238,6 +33238,12 @@
             "type": "color",
             "name": "segment_button_border_color",
             "order": 6593
+        },
+        {
+            "type": "float",
+            "name": "datapanel_track_shadow_radius",
+            "order": 6594,
+            "flags": "private"
         }
     ]
 }
