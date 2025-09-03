@@ -6243,6 +6243,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CAPTURE_SCREEN_ALL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 21,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
