@@ -51,16 +51,16 @@
         },
         {
             "name":"request_agent_upload_fail",
-            "value":"Échec du transfert",
+            "value":"Le transfert a échoué",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_fail",
-            "value":"Échec du téléchargement",
+            "value":"Le téléchargement a échoué",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -359,9 +359,9 @@
         },
         {
             "name":"request_agent_download_file",
-            "value":"Téléchargement du fichier… (%s)",
+            "value":"Téléchargement du fichier en cours. (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1612,7 +1612,7 @@
         },
         {
             "name":"request_agent_upload_file",
-            "value":"Chargement du fichier… (%s)",
+            "value":"Transfert du fichier en cours. (%s)",
             "attr":{
                 "priority":"translate"
             }
