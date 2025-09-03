@@ -33274,6 +33274,18 @@
             "type": "float",
             "name": "chip_activated_text_font_weight",
             "order": 6600
+        },
+        {
+            "type": "float",
+            "name": "app_theme_click_distancethreshold",
+            "order": 6601,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "app_theme_drag_distancethreshold",
+            "order": 6602,
+            "flags": "private"
         }
     ]
 }

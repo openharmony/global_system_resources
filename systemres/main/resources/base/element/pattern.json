@@ -9582,6 +9582,14 @@
                 {
                     "name": "app_theme_drag_pan_distance_mouse",
                     "value": "$float:app_theme_drag_pan_distance_mouse"
+                },
+                {
+                    "name": "app_theme_click_distancethreshold",
+                    "value": "$float:app_theme_click_distancethreshold"
+                },
+                {
+                    "name": "app_theme_drag_distancethreshold",
+                    "value": "$float:app_theme_drag_distancethreshold"
                 }
             ]
         }
