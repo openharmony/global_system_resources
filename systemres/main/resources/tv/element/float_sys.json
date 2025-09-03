@@ -506,11 +506,19 @@
         },
         {
             "name": "chip_normal_height",
-            "value": "37.0vp"
+            "value": "36.0vp"
         },
         {
             "name": "chip_small_height",
-            "value": "25.0vp"
+            "value": "36.0vp"
+        },
+        {
+            "name": "chip_activated_normal_height",
+            "value": "34.0vp"
+        },
+        {
+            "name": "chip_activated_small_height",
+            "value": "34.0vp"
         },
         {
             "name": "chip_show_close_icon_margin",
@@ -518,19 +526,27 @@
         },
         {
             "name": "chip_text_font_weight",
-            "value": "500"
+            "value": "400"
+        },
+        {
+            "name": "chip_activated_text_font_weight",
+            "value": "400"
         },
         {
             "name": "chip_normal_font_size",
-            "value": "18.0fp"
+            "value": "22.0fp"
         },
         {
             "name": "chip_small_font_size",
-            "value": "14.0fp"
+            "value": "22.0fp"
         },
         {
             "name": "chip_border_width",
-            "value": "1.5vp"
+            "value": "1.0vp"
+        },
+        {
+            "name": "chip_activated_border_width",
+            "value": "2.0vp"
         },
         {
             "name": "chip_focused_btn_scale",
@@ -538,11 +554,19 @@
         },
         {
             "name": "chip_normal_text_padding",
-            "value": "10.5vp"
+            "value": "15.0vp"
         },
         {
             "name": "chip_small_text_padding",
-            "value": "10.5vp"
+            "value": "15.0vp"
+        },
+        {
+            "name": "chip_activated_normal_text_padding",
+            "value": "14.0vp"
+        },
+        {
+            "name": "chip_activated_small_text_padding",
+            "value": "14.0vp"
         },
         {
             "name": "chip_normal_shadow_style",
@@ -554,19 +578,19 @@
         },
         {
             "name": "chip_small_icon_size",
-            "value": "16.0vp"
+            "value": "22.0vp"
         },
         {
             "name": "chip_normal_icon_size",
-            "value": "20.0vp"
+            "value": "22.0vp"
         },
         {
             "name": "chip_normal_text_margin",
-            "value": "4.0vp"
+            "value": "6.0vp"
         },
         {
             "name": "chip_small_text_margin",
-            "value": "4.0vp"
+            "value": "6.0vp"
         },
         {
             "name": "text_marquee_start_policy",

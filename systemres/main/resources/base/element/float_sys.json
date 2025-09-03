@@ -1121,6 +1121,14 @@
             "value": "12"
         },
         {
+            "name": "chip_activated_normal_text_padding",
+            "value": "16"
+        },
+        {
+            "name": "chip_activated_small_text_padding",
+            "value": "12"
+        },
+        {
             "name": "chip_normal_text_margin",
             "value": "6"
         },
@@ -1137,7 +1145,19 @@
             "value": "28.0lpx"
         },
         {
+            "name": "chip_activated_normal_height",
+            "value": "36.0vp"
+        },
+        {
+            "name": "chip_activated_small_height",
+            "value": "28.0lpx"
+        },
+        {
             "name": "chip_border_width",
+            "value": "0"
+        },
+        {
+            "name": "chip_activated_border_width",
             "value": "0"
         },
         {
@@ -1179,6 +1199,10 @@
         {
             "name": "chip_text_font_weight",
             "value": "400"
+        },
+        {
+            "name": "chip_activated_text_font_weight",
+            "value": "500"
         },
         {
             "name": "chip_show_close_icon_margin",
