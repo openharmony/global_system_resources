@@ -6234,6 +6234,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.READ_DIAGNOSTIC_LOGS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 21,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
