@@ -4407,6 +4407,26 @@
                 {
                     "name": "search_focus_glow_padding",
                     "value": "$float:search_focus_padding"
+                },
+                {
+                    "name": "search_normal_color",
+                    "value": "$color:search_normal_color"
+                },
+                {
+                    "name": "search_cancel_button_hover_color",
+                    "value": "$color:search_cancel_button_hover_color"
+                },
+                {
+                    "name": "search_cancel_button_press_color",
+                    "value": "$color:search_cancel_button_press_color"
+                },
+                {
+                    "name": "search_cancel_button_focus_color",
+                    "value": "$color:search_cancel_button_focus_color"
+                },
+                {
+                    "name": "search_cancel_button_focus_padding",
+                    "value": "$float:search_cancel_button_focus_padding"
                 }
             ]
         },
@@ -5212,6 +5232,10 @@
                 {
                     "name": "cursor_color",
                     "value": "$color:textfield_cursor_color"
+                },
+                {
+                    "name": "cursor_height",
+                    "value": "$float:textfield_cursor_height"
                 },
                 {
                     "name": "error_text_border_color",

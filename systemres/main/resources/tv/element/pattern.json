@@ -1294,7 +1294,7 @@
                 },
                 {
                     "name": "tips_text_color",
-                    "value": "$color:ohos_id_color_text_hint"
+                    "value": "$color:font_secondary"
                 },
                 {
                     "name": "text_color",
@@ -1330,7 +1330,11 @@
                 },
                 {
                     "name": "cursor_color",
-                    "value": "$color:textfield_cursor_color"
+                    "value": "$color:brand_font"
+                },
+                {
+                    "name": "cursor_height",
+                    "value": "$float:textfield_cursor_height"
                 },
                 {
                     "name": "error_text_border_color",

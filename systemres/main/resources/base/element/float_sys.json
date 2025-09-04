@@ -705,6 +705,10 @@
             "value": "$float:corner_radius_level10"
         },
         {
+            "name": "textfield_cursor_height",
+            "value": "0.0vp"
+        },
+        {
             "name": "search_border_width",
             "value": "0.0vp"
         },
@@ -739,6 +743,10 @@
         {
             "name": "search_focus_padding",
             "value": "1.0vp"
+        },
+        {
+            "name": "search_cancel_button_focus_padding",
+            "value": "0.0vp"
         },
         {
             "name": "search_symbol_icon_height",

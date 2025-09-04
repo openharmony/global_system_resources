@@ -33286,6 +33286,42 @@
             "name": "app_theme_drag_distancethreshold",
             "order": 6602,
             "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "search_normal_color",
+            "order": 6603,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "search_cancel_button_hover_color",
+            "order": 6604,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "search_cancel_button_press_color",
+            "order": 6605,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "search_cancel_button_focus_color",
+            "order": 6606,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "search_cancel_button_focus_padding",
+            "order": 6607,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "textfield_cursor_height",
+            "order": 6608,
+            "flags": "private"
         }
     ]
 }
