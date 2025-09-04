@@ -333,7 +333,16 @@
             "value": "4.0vp"
         },
         {
-
+            "name": "toast_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_s"
+        },
+        {
+            "name": "popup_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_s"
+        },
+        {
+            "name": "menu_default_shadow_style",
+            "value": "$float:ohos_id_default_shadow_s"
         },
         {
             "name": "ohos_id_dialog_background_shadow_on",
