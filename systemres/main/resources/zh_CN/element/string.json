@@ -1964,12 +1964,18 @@
             "value": "请安装“日历”App后再试"
         },
         {
-            "name": "notification_feature_loud_volume_tittle",
-            "value": "超级大音量"
+            "name":"notification_feature_loud_volume_tittle",
+            "value":"超级大音量",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "notification_enable_loud_volume_tittle",
-            "value": "已开启"
+            "name":"notification_enable_loud_volume_tittle",
+            "value":"已开启",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
