@@ -1953,15 +1953,24 @@
         },
         {
             "name": "general_ai_location_title",
-            "value": "位置"
+            "value": "位置",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_ai_link_title",
-            "value": "网址"
+            "value": "网址",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "general_ai_preview_menu_date_retry",
-            "value": "请安装“日历”App后再试"
+            "value": "请安装“日历”App 后再试",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name":"notification_feature_loud_volume_tittle",

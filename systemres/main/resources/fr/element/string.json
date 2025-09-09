@@ -1700,6 +1700,27 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"general_ai_preview_menu_date_retry",
+            "value":"Veuillez tout d'abord installer l'application Agenda, puis réessayez.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_location_title",
+            "value":"Position",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_link_title",
+            "value":"URL",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
