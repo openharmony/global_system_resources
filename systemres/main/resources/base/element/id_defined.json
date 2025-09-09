@@ -33334,6 +33334,12 @@
             "name": "textinput_text_counter",
             "order": 6610,
             "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "search_text_field_right_padding_with_button",
+            "order": 6611,
+            "flags": "private"
         }
     ]
 }
