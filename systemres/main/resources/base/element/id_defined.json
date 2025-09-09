@@ -33328,6 +33328,12 @@
             "name": "progress_text_font_weight",
             "order": 6609,
             "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "textinput_text_counter",
+            "order": 6610,
+            "flags": "private"
         }
     ]
 }
