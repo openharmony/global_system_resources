@@ -1721,6 +1721,10 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name": "textinput_text_counter",
+            "value": "%2$d/%1$d"
         }
     ]
 }
