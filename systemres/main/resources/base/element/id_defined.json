@@ -33340,6 +33340,138 @@
             "name": "search_text_field_right_padding_with_button",
             "order": 6611,
             "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "slider_outset_track_color",
+            "order": 6612,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "slider_outset_track_bg_color",
+            "order": 6613,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "slider_color_help_tip_bg",
+            "order": 6614,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "slider_tip_text_color",
+            "order": 6615,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_text_max",
+            "order": 6616,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_to_slider_extra_distance",
+            "order": 6617,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_vertical_width",
+            "order": 6618,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_vertical_height",
+            "order": 6619,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_horizontal_width",
+            "order": 6620,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_horizontal_height",
+            "order": 6621,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_level1_vertical_width",
+            "order": 6622,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_level1_vertical_height",
+            "order": 6623,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_level1_horizontal_width",
+            "order": 6624,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_level1_horizontal_height",
+            "order": 6625,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_level2_vertical_width",
+            "order": 6626,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_level2_vertical_height",
+            "order": 6627,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_level2_horizontal_width",
+            "order": 6628,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_level2_horizontal_height",
+            "order": 6629,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_arrow_height",
+            "order": 6630,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_arrow_width",
+            "order": 6631,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_bubble_arrow_radius",
+            "order": 6632,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "slider_circular_horizontal_offset",
+            "order": 6633,
+            "flags": "private"
         }
     ]
 }

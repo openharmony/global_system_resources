@@ -6,15 +6,31 @@
         },
         {
             "name": "slider_color_emphasize",
-            "value": "#266EFB"
+            "value": "$color:comp_background_emphasize"
         },
         {
             "name": "slider_outset_and_none_track_color",
             "value": "#F1F3F5"
         },
         {
+            "name": "slider_outset_track_color",
+            "value": "$color:comp_focused_primary"
+        },
+        {
+            "name": "slider_color_help_tip_bg",
+            "value": "$color:ohos_id_blur_style_component_ultra_thick_color_dark"
+        },
+        {
+            "name": "slider_outset_track_bg_color",
+            "value": "$color:comp_background_tertiary"
+        },
+        {
+            "name": "slider_tip_text_color",
+            "value": "#E6FFFFFF"
+        },
+        {
             "name": "slider_color_foreground",
-            "value": "#F1F3F5"
+            "value": "#7FFFFFFF"
         },
         {
             "name": "slider_color_foreground_contrary",
@@ -38,11 +54,11 @@
         },
         {
             "name": "slider_hover_color",
-            "value": "#19FFFFFF"
+            "value": "$color:interactive_hover"
         },
         {
             "name": "slider_color_click_effect",
-            "value": "#26FFFFFF"
+            "value": "$color:interactive_pressed"
         },
         {
             "name": "sheet_mask_color",

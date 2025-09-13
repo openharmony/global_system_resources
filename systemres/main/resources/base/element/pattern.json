@@ -6993,7 +6993,7 @@
                 },
                 {
                     "name": "outset_mode_selected_track_color",
-                    "value": "$color:slider_outset_and_none_track_color"
+                    "value": "$color:slider_outset_track_color"
                 },
                 {
                     "name": "none_mode_selected_track_color",
@@ -7005,7 +7005,7 @@
                 },
                 {
                     "name": "track_bg_color",
-                    "value": "$color:ohos_id_color_component_normal"
+                    "value": "$color:slider_outset_track_bg_color"
                 },
                 {
                     "name": "marker_color",
@@ -7017,11 +7017,11 @@
                 },
                 {
                     "name": "tip_color",
-                    "value": "$color:ohos_id_color_help_tip_bg"
+                    "value": "$color:slider_color_help_tip_bg"
                 },
                 {
                     "name": "tip_text_color",
-                    "value": "$color:ohos_id_color_text_primary_contrary"
+                    "value": "$color:slider_tip_text_color"
                 },
                 {
                     "name": "block_color_hovered",
@@ -7146,6 +7146,78 @@
                 {
                     "name": "crown_display_control_ratio",
                     "value": "$float:ohos_id_slider_crown_display_control_ratio"
+                },
+                {
+                    "name": "bubble_text_max",
+                    "value": "$float:slider_bubble_text_max"
+                },
+                {
+                    "name": "bubble_to_slider_extra_distance",
+                    "value": "$float:slider_bubble_to_slider_extra_distance"
+                },
+                {
+                    "name": "bubble_vertical_width",
+                    "value": "$float:slider_bubble_vertical_width"
+                },
+                {
+                    "name": "bubble_vertical_height",
+                    "value": "$float:slider_bubble_vertical_height"
+                },
+                {
+                    "name": "bubble_horizontal_width",
+                    "value": "$float:slider_bubble_horizontal_width"
+                },
+                {
+                    "name": "bubble_horizontal_height",
+                    "value": "$float:slider_bubble_horizontal_height"
+                },
+                {
+                    "name": "bubble_level1_vertical_width",
+                    "value": "$float:slider_bubble_level1_vertical_width"
+                },
+                {
+                    "name": "bubble_level1_vertical_height",
+                    "value": "$float:slider_bubble_level1_vertical_height"
+                },
+                {
+                    "name": "bubble_level1_horizontal_width",
+                    "value": "$float:slider_bubble_level1_horizontal_width"
+                },
+                {
+                    "name": "bubble_level1_horizontal_height",
+                    "value": "$float:slider_bubble_level1_horizontal_height"
+                },
+                 {
+                    "name": "bubble_level2_vertical_width",
+                    "value": "$float:slider_bubble_level2_vertical_width"
+                },
+                {
+                    "name": "bubble_level2_vertical_height",
+                    "value": "$float:slider_bubble_level2_vertical_height"
+                },
+                {
+                    "name": "bubble_level2_horizontal_width",
+                    "value": "$float:slider_bubble_level2_horizontal_width"
+                },
+                {
+                    "name": "bubble_level2_horizontal_height",
+                    "value": "$float:slider_bubble_level2_horizontal_height"
+                },
+                {
+                    "name": "bubble_arrow_height",
+                    "value": "$float:slider_bubble_arrow_height"
+                },
+                {
+                    "name": "bubble_arrow_width",
+                    "value": "$float:slider_bubble_arrow_width"
+                },
+                {
+                    "name": "bubble_arrow_radius",
+                    "value": "$float:slider_bubble_arrow_radius"
+                },
+                {
+                    "name": "circular_horizontal_offset",
+                    "value": "$float:slider_circular_horizontal_offset"
                 }
             ]
         },
