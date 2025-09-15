@@ -1220,9 +1220,9 @@
         },
         {
             "name":"general_ai_menu_address",
-            "value":"経路を取得",
+            "value":"経路案内",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1647,9 +1647,9 @@
         },
         {
             "name":"general_ai_ask_celia",
-            "value":"Celiaに尋ねる",
+            "value":"Celiaに質問",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1668,9 +1668,9 @@
         },
         {
             "name":"general_ai_preview_menu_address_install_map_app",
-            "value":"ここをタップしてPetalマップをインストールします。",
+            "value":"ここをタップしてPetalマップをインストールしてください。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1682,9 +1682,9 @@
         },
         {
             "name":"general_ai_preview_menu_date_install_calendar_app",
-            "value":"ここをタップしてカレンダーアプリをインストールします。",
+            "value":"ここをタップしてカレンダーアプリをインストールしてください。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
