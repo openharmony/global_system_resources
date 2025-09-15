@@ -747,6 +747,42 @@
         {
             "name": "search_cancel_button_focus_color",
             "value": "$color:comp_background_focus"
+        },
+        {
+            "name": "title_primary_color",
+            "value": "#E6FFFFFF"
+        },
+        {
+            "name": "titlebar_subheader_color",
+            "value": "#99FFFFFF"
+        },
+        {
+            "name": "titlebar_icon_border_color",
+            "value": "#26FFFFFF"
+        },
+        {
+            "name": "titlebar_icon_background_hover_color",
+            "value": "#19FFFFFF"
+        },
+        {
+            "name": "titlebar_icon_background_pressed_color",
+            "value": "#26FFFFFF"
+        },
+        {
+            "name": "titlebar_icon_background_focus_outline_color",
+            "value": "#FFFFFF"
+        },
+        {
+            "name": "titlebar_icon_background_color",
+            "value": "#19FFFFFF"
+        },
+        {
+            "name": "titlebar_icon_color",
+            "value": "#E5FFFFFF"
+        },
+        {
+            "name": "navigation_focus_blend_bg_color",
+            "value": "#4DFFFFFF"
         }
     ]
 }

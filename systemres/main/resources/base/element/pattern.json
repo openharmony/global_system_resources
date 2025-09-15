@@ -2894,7 +2894,7 @@
                 },
                 {
                     "name": "title_primary_color",
-                    "value": "$color:font_primary"
+                    "value": "$color:title_primary_color"
                 },
                 {
                     "name": "title_subheader_color",
@@ -3131,6 +3131,62 @@
                 {
                     "name": "arkui_app_bar_privacy_authorize",
                     "value": "$string:arkui_app_bar_privacy_authorize"
+                },
+                {
+                    "name": "title_space_vertical",
+                    "value": "$float:title_space_vertical"
+                },
+                {
+                    "name": "titlebar_icon_border_width",
+                    "value": "$float:titlebar_icon_border_width"
+                },
+                {
+                    "name": "titlebar_icon_border_color",
+                    "value": "$color:titlebar_icon_border_color"
+                },
+                {
+                    "name": "single_line_titlebar_height",
+                    "value": "$float:single_line_titlebar_height"
+                },
+                {
+                    "name": "double_line_titlebar_height",
+                    "value": "$float:double_line_titlebar_height"
+                },
+                {
+                    "name": "full_single_line_titlebar_height",
+                    "value": "$float:full_single_line_titlebar_height"
+                },
+                {
+                    "name": "full_double_line_titlebar_height",
+                    "value": "$float:full_double_line_titlebar_height"
+                },
+                {
+                    "name": "menuitem_focus_padding",
+                    "value": "$float:menuitem_focus_padding"
+                },
+                {
+                    "name": "min_adapt_subtitle_font_size",
+                    "value": "$float:min_adapt_subtitle_font_size"
+                },
+                {
+                    "name": "navigation_focus_blend_bg_color",
+                    "value": "$color:navigation_focus_blend_bg_color"
+                },
+                {
+                    "name": "navigation_mini_min_font_size",
+                    "value": "$float:navigation_mini_min_font_size"
+                },
+                {
+                    "name": "navigation_full_min_font_size",
+                    "value": "$float:navigation_full_min_font_size"
+                },
+                {
+                    "name": "titlebar_max_lines",
+                    "value": "$float:titlebar_max_lines"
+                },
+                {
+                    "name": "menu_button_padding",
+                    "value": "$float:menu_button_padding"
                 }
             ]
         },

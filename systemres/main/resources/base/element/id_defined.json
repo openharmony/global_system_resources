@@ -33813,6 +33813,81 @@
             "type": "string",
             "name": "ohos_desc_timeout_screenoff_disable_lock",
             "order": 6697
+        },
+        {
+            "type": "float",
+            "name": "title_space_vertical",
+            "order": 6698
+        },
+        {
+            "type": "float",
+            "name": "titlebar_icon_border_width",
+            "order": 6699
+        },
+        {
+            "type": "color",
+            "name": "titlebar_icon_border_color",
+            "order": 6700
+        },
+        {
+            "type": "color",
+            "name": "title_primary_color",
+            "order": 6701
+        },
+        {
+            "type": "float",
+            "name": "single_line_titlebar_height",
+            "order": 6702
+        },
+        {
+            "type": "float",
+            "name": "double_line_titlebar_height",
+            "order": 6703
+        },
+        {
+            "type": "float",
+            "name": "full_single_line_titlebar_height",
+            "order": 6704
+        },
+        {
+            "type": "float",
+            "name": "full_double_line_titlebar_height",
+            "order": 6705
+        },
+        {
+            "type": "float",
+            "name": "menuitem_focus_padding",
+            "order": 6706
+        },
+        {
+            "type": "float",
+            "name": "min_adapt_subtitle_font_size",
+            "order": 6707
+        },
+        {
+            "type": "color",
+            "name": "navigation_focus_blend_bg_color",
+            "order": 6708
+        },
+        {
+            "type": "float",
+            "name": "navigation_mini_min_font_size",
+            "order": 6709
+        },
+        {
+            "type": "float",
+            "name": "navigation_full_min_font_size",
+            "order": 6710
+        },
+        {
+            "type": "float",
+            "name": "titlebar_max_lines",
+            "order": 6711
+        },
+        {
+            "type": "float",
+            "name": "menu_button_padding",
+            "order": 6712
         }
     ]
 }
