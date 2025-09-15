@@ -993,6 +993,246 @@
             "value": "20.0vp"
         },
         {
+            "name": "select_normal_left_margin",
+            "value": "14.0vp"
+        },
+        {
+            "name": "select_small_left_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "select_normal_right_margin",
+            "value": "9.0vp"
+        },
+        {
+            "name": "select_small_right_margin",
+            "value": "7.0vp"
+        },
+        {
+            "name": "select_font_weight",
+            "value": "13.0"
+        },
+        {
+            "name": "select_content_spinner_padding",
+            "value": "14.0vp"
+        },
+        {
+            "name": "select_small_content_spinner_padding",
+            "value": "8.0vp"
+        },
+        {
+            "name": "select_spinner_symbol_size",
+            "value": "24.0fp"
+        },
+        {
+            "name": "select_small_spinner_symbol_size",
+            "value": "24.0fp"
+        },
+        {
+            "name": "select_disabled_background_color_alpha",
+            "value": "0.4"
+        },
+        {
+            "name": "select_menu_addition_x",
+            "value": "11.0vp"
+        },
+        {
+            "name": "select_menu_addition_y",
+            "value": "3.0vp"
+        },
+        {
+            "name": "ohos_id_select_is_tv",
+            "value": "1"
+        },
+        {
+            "name": "select_normal_text_primary_alpha",
+            "value": "1"
+        },
+        {
+            "name": "select_normal_text_font_size",
+            "value": "$float:Body_L"
+        },
+        {
+            "name": "select_small_text_font_size",
+            "value": "$float:Body_S"
+        },
+        {
+            "name": "select_min_height",
+            "value": "52.0vp"
+        },
+        {
+            "name": "small_select_min_height",
+            "value": "36.0vp"
+        },
+        {
+            "name": "select_border_radius_normal",
+            "value": "27.0vp"
+        },
+        {
+            "name": "select_border_radius_small",
+            "value": "19.0vp"
+        },
+        {
+            "name": "menu_normal_border_width",
+            "value": "1.0vp"
+        },
+        {
+            "name": "inner_border_radius_token",
+            "value": "12.0vp"
+        },
+        {
+            "name": "ohos_id_alpha_highlight_bg",
+            "value": "1.0"
+        },
+        {
+            "name": "select_normal_content_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "menu_icon_side_length",
+            "value": "32.0vp"
+        },
+        {
+            "name": "menu_border_width",
+            "value": "1.0vp"
+        },
+        {
+            "name": "menu_item_left_right_margin",
+            "value": "1.0vp"
+        },
+        {
+            "name": "menu_target_security_space",
+            "value": "16.0vp"
+        },
+        {
+            "name": "select_border_radius_default",
+            "value": "27.0vp"
+        },
+        {
+            "name": "menu_item_focused_shadow_style",
+            "value": "2.0"
+        },
+        {
+            "name": "option_min_height",
+            "value": "64.0vp"
+        },
+        {
+            "name": "menu_title_text_font_size",
+            "value": "26.0fp"
+        },
+        {
+            "name": "menu_normal_out_padding",
+            "value": "10.0vp"
+        },
+        {
+            "name": "menu_icon_padding",
+            "value": "26.0vp"
+        },
+        {
+            "name": "ohos_id_text_paragraph_margin_s",
+            "value": "10.0vp"
+        },
+        {
+            "name": "ohos_id_menu_outer_border_width",
+            "value": "1.0vp"
+        },
+        {
+            "name": "ohos_id_menu_inner_border_width",
+            "value": "0.0vp"
+        },
+        {
+            "name": "menu_item_need_focus",
+            "value": "1"
+        },
+        {
+            "name": "menu_default_show_divider",
+            "value": "1"
+        },
+        {
+            "name": "menu_divider_start_margin",
+            "value": "16.0vp"
+        },
+        {
+            "name": "menu_divider_end_margin",
+            "value": "16.0vp"
+        },
+        {
+            "name": "menu_focus_style_type",
+            "value": "1.0"
+        },
+        {
+            "name": "select_focus_style_type",
+            "value": "1.0"
+        },
+        {
+            "name": "option_focus_style_type_sys",
+            "value": "1.0"
+        },
+        {
+            "name": "select_border_width",
+            "value": "1.0vp"
+        },
+        {
+            "name": "select_normal_shadow",
+            "value": "1.0"
+        },
+        {
+            "name": "select_focus_shadow",
+            "value": "5.0"
+        },
+        {
+            "name": "menu_back_blur_with_color",
+            "value": "1.0"
+        },
+        {
+            "name": "select_focus_scale",
+            "value": "1.05"
+        },
+        {
+            "name": "select_option_focus_shadow",
+            "value": "2.0"
+        },
+        {
+            "name": "select_left_right_margin",
+            "value": "0.0vp"
+        },
+        {
+            "name": "menu_is_blend_bg_color",
+            "value": "1"
+        },
+        {
+            "name": "select_option_focus_box_padding",
+            "value": "15.0vp"
+        },
+        {
+            "name": "select_option_apply_focus_style",
+            "value": "1"
+        },
+        {
+            "name": "menu_normal_text_size",
+            "value": "24.0fp"
+        },
+        {
+            "name": "background_blur_component_regular",
+            "value": "12.0"
+        },
+        {
+            "name": "menu_default_shadow_style",
+            "value": "4"
+        },
+		{
+            "name": "menu_item_hor_interval",
+            "value": "16.0vp"
+        },
+        {
+            "name": "menu_padding_interval",
+            "value": "15.0vp"
+        },
+        {
+            "name": "default_divider_width_token",
+            "value": "1.0vp"
+        },
+        {
             "name": "alpha_primary",
             "value": "0.9"
         },
