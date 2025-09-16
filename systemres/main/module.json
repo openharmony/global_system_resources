@@ -6281,6 +6281,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_SELF_SKILLS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 22,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.DATA_IDENTIFY_ANONYMIZE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
