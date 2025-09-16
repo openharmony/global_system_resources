@@ -5945,6 +5945,46 @@
                 {
                     "name": "general_ai_content_space",
                     "value": "$float:padding_level1"
+                },
+                {
+                    "name": "underline_bg_color_focused",
+                    "value": "#00000000"
+                },
+                {
+                    "name": "textfield_underline_border_radius",
+                    "value": "0.0vp"
+                },
+                {
+                    "name": "text_input_normal_color",
+                    "value": "#00000000"
+                },
+                {
+                    "name": "error_text_border_color_alpha",
+                    "value": "0.6"
+                },
+                {
+                    "name": "underline_color_alpha",
+                    "value": "0.6"
+                },
+                {
+                    "name": "text_input_password_icon_size",
+                    "value": "20.0vp"
+                },
+                {
+                    "name": "text_input_cancel_icon_padding",
+                    "value": "14.0vp"
+                },
+                {
+                    "name": "text_input_password_icon_padding",
+                    "value": "10.0vp"
+                },
+                {
+                    "name": "text_input_icon_offset_padding",
+                    "value": "0.0vp"
+                },
+                {
+                    "name": "error_under_line_width",
+                    "value": "2.0px"
                 }
             ]
         },
