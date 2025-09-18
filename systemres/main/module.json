@@ -6272,6 +6272,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_USER_FULL_DISK",
+                "grantMode": "manual_settings",
+                "availableLevel": "system_basic",
+                "since": 22,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.WEB_NATIVE_MESSAGING",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
