@@ -1310,11 +1310,11 @@
                 },
                 {
                     "name": "bg_color_pressed",
-                    "value": "#4DFFFFFF"
+                    "value": "#26FFFFFF"
                 },
                 {
                     "name": "bg_color_focused",
-                    "value": "$color:textfield_bg_color"
+                    "value": "$color:comp_background_focus"
                 },
                 {
                     "name": "tips_text_color_focused",
@@ -1338,11 +1338,11 @@
                 },
                 {
                     "name": "error_text_border_color",
-                    "value": "#ED6F21"
+                    "value": "#E84026"
                 },
                 {
                     "name": "error_text_color",
-                    "value": "#ED6F21"
+                    "value": "#E84026"
                 },
                 {
                     "name": "error_text_font_size",
@@ -1422,7 +1422,7 @@
                 },
                 {
                     "name": "underline_typing_color",
-                    "value": "$color:ohos_id_color_primary"
+                    "value": "FFFFFFFF"
                 },
                 {
                     "name": "error_password_text_color",
@@ -1454,7 +1454,7 @@
                 },
                 {
                     "name": "underline_color",
-                    "value": "$color:ohos_id_color_list_separator"
+                    "value": "$color:comp_divider"
                 },
                 {
                     "name": "underline_text_color",
@@ -1486,11 +1486,11 @@
                 },
                 {
                     "name": "textfield_padding_horizontal",
-                    "value": "22.0vp"
+                    "value": "$float:padding_level11"
                 },
                 {
                     "name": "textfield_underline_padding_horizontal",
-                    "value": "$float:ohos_id_textfield_underline_padding_horizontal"
+                    "value": "$float:padding_level8"
                 },
                 {
                     "name": "textfield_padding_vertical",
@@ -1498,11 +1498,11 @@
                 },
                 {
                     "name": "textfield_underline_padding_vertical",
-                    "value": "12.0vp"
+                    "value": "14.0vp"
                 },
                 {
                     "name": "textfield_content_height",
-                    "value": "38.0vp"
+                    "value": "36.0vp"
                 },
                 {
                     "name": "textfield_height",
@@ -1550,7 +1550,7 @@
                 },
                 {
                     "name": "textfield_error_spacing",
-                    "value": "8.0vp"
+                    "value": "3.0vp"
                 },
                 {
                     "name": "textfield_error_is_inner",
@@ -1686,7 +1686,7 @@
                 },
                 {
                     "name": "text_input_border_width",
-                    "value": "$float:text_input_border_width"
+                    "value": "1.0vp"
                 },
                 {
                     "name": "text_input_border_color",
@@ -1735,6 +1735,50 @@
                 {
                     "name": "direction_keys_move_focus_out",
                     "value": "1.0"
+                },
+                {
+                    "name": "underline_bg_color_focused",
+                    "value": "$color:comp_background_focus"
+                },
+                {
+                    "name": "textfield_underline_border_radius",
+                    "value": "12.0vp"
+                },
+                {
+                    "name": "text_input_normal_color",
+                    "value": "#19FFFFFF"
+                },
+                {
+                    "name": "error_text_border_color_alpha",
+                    "value": "0.0"
+                },
+                {
+                    "name": "underline_color_alpha",
+                    "value": "0.5"
+                },
+                {
+                    "name": "text_input_password_icon_size",
+                    "value": "26.0vp"
+                },
+                {
+                    "name": "text_input_cancel_icon_padding",
+                    "value": "14.0vp"
+                },
+                {
+                    "name": "text_input_password_icon_padding",
+                    "value": "14.0vp"
+                },
+                {
+                    "name": "text_input_icon_offset_padding",
+                    "value": "14.0vp"
+                },
+                {
+                    "name": "text_input_icon_focus_padding",
+                    "value": "5.0vp"
+                },
+                {
+                    "name": "error_under_line_width",
+                    "value": "2.0vp"
                 }
             ]
         },
