@@ -1319,35 +1319,35 @@
             "name": "request_agent_download_success",
             "value": "Download successful",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_download_fail",
             "value": "Download failed",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_upload_file",
             "value": "Uploading file… (%s)",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_upload_success",
             "value": "Upload successful",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_upload_fail",
             "value": "Upload failed",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
@@ -1362,7 +1362,7 @@
             "name": "request_agent_download_file",
             "value": "Downloading file… (%s)",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
@@ -1927,11 +1927,17 @@
         },
         {
             "name": "request_agent_download_complete",
-            "value": "Download complete (%s)"
+            "value": "Download complete (%s)",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name": "request_agent_task_count",
-            "value": "Successful: %1$d, Failed: %2$d"
+            "value": "Successful: %1$d, Failed: %2$d",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name": "arkui_app_bar_service_panel",

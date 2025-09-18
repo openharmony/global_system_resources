@@ -604,7 +604,7 @@
             "name": "request_agent_upload_success",
             "value": "上載成功",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
@@ -618,28 +618,28 @@
             "name": "request_agent_upload_fail",
             "value": "無法上載",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_download_fail",
             "value": "無法下載",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_download_success",
             "value": "下載成功",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_upload_file",
             "value": "上載檔案 %s",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
@@ -653,7 +653,7 @@
             "name": "request_agent_download_file",
             "value": "下載檔案 %s",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
@@ -1269,14 +1269,14 @@
             "name":"request_agent_task_count",
             "value":"%1$d 成功，%2$d 失敗",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_complete",
             "value":"下載完成 %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

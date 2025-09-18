@@ -46,28 +46,28 @@
             "name":"request_agent_upload_success",
             "value":"업로드 성공",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_upload_fail",
             "value":"업로드 실패",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_fail",
             "value":"다운로드 실패",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_success",
             "value":"다운로드 성공",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -361,7 +361,7 @@
             "name":"request_agent_download_file",
             "value":"파일 다운로드 중…(%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1614,7 +1614,7 @@
             "name":"request_agent_upload_file",
             "value":"파일 업로드 중…(%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

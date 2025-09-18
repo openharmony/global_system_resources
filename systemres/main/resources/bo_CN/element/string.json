@@ -604,28 +604,28 @@
             "name": "request_agent_upload_success",
             "value": "ཡར་སྐྱེལ་ཐུབ་སོང་།",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_upload_fail",
             "value": "ཡར་སྐྱེལ་མ་ཐུབ།",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_download_fail",
             "value": "ཕབ་ལེན་བྱེད་མ་ཐུབ།",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_download_success",
             "value": "ཕབ་ལེན་བྱེད་ཐུབ་སོང་།",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
@@ -639,7 +639,7 @@
             "name": "request_agent_upload_file",
             "value": "ཡིག་ཆ་ཡར་སྐྱེལ། %s",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
@@ -653,7 +653,7 @@
             "name": "request_agent_download_file",
             "value": "ཡིག་ཆ་ཕབ་ལེན་ %s",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
@@ -1269,14 +1269,14 @@
             "name":"request_agent_task_count",
             "value":"%1$d གྲུབ། %2$d མ་གྲུབ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_complete",
             "value":"ཕབ་ལེན་བྱས་ཚར་བ། %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
