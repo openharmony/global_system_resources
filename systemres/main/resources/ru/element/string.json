@@ -46,21 +46,21 @@
             "name":"request_agent_upload_success",
             "value":"Выгружено",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_upload_fail",
             "value":"Сбой выгрузки",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_fail",
             "value":"Сбой загрузки",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -368,7 +368,7 @@
             "name":"request_agent_download_file",
             "value":"Загрузка файла… (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1614,7 +1614,7 @@
             "name":"request_agent_upload_file",
             "value":"Выгрузка файла… (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

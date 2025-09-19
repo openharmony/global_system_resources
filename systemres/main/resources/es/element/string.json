@@ -46,21 +46,21 @@
             "name":"request_agent_upload_success",
             "value":"Se ha cargado correctamente",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_upload_fail",
             "value":"Error al cargar",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_fail",
             "value":"Error de descarga",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -326,7 +326,7 @@
             "name":"request_agent_download_complete",
             "value":"Descarga completada (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -361,7 +361,7 @@
             "name":"request_agent_download_file",
             "value":"Descargando archivo… (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1614,7 +1614,7 @@
             "name":"request_agent_upload_file",
             "value":"Cargando archivo… (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
