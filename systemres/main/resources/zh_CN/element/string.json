@@ -1985,6 +1985,14 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name": "ohos_lab_hook_key_event",
+            "value": "允许应用拦截键盘输入事件。"
+        },
+        {
+            "name": "ohos_desc_hook_key_event",
+            "value": "获取该权限后，应用可以在按键事件分发到应用窗口前，将自定义的按键处理过程添加到系统的按键处理过程中。"
         }
     ]
 }

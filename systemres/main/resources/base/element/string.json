@@ -2130,6 +2130,14 @@
         {
             "name": "textinput_text_counter",
             "value": "%1$d/%2$d"
+        },
+        {
+            "name": "ohos_lab_hook_key_event",
+            "value": "Allows an application to intercept keyboard input events."
+        },
+        {
+            "name": "ohos_desc_hook_key_event",
+            "value": "Allows an application to intercept keyboard input events."
         }
     ]
 }

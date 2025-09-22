@@ -33472,6 +33472,16 @@
             "name": "slider_circular_horizontal_offset",
             "order": 6633,
             "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_hook_key_event",
+            "order": 6634
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_hook_key_event",
+            "order": 6635
         }
     ]
 }
