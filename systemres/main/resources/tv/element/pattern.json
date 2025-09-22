@@ -1787,19 +1787,19 @@
             "value": [
                 {
                     "name": "bg_color",
-                    "value": "#00000000"
+                    "value": "$color:comp_background_tertiary"
                 },
                 {
                     "name": "bg_color_checked",
-                    "value": "#F1F3F5"
+                    "value": "$color:comp_background_tertiary"
                 },
                 {
                     "name": "bg_color_checked_alpha",
-                    "value": "0.2"
+                    "value": "$float:ohos_id_alpha_content_primary_transparent"
                 },
                 {
                     "name": "text_color",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "bg_color_pressed_blend",
@@ -1866,28 +1866,32 @@
                     "value": "1.05"
                 },
                 {
+                    "name": "border_width_status_button_unchecked",
+                    "value": "$float:border_larger"
+                },
+                {
                     "name": "border_width_status_button",
                     "value": "2.0vp"
                 },
                 {
                     "name": "border_color_status_button_checked",
-                    "value": "#F1F3F5"
+                    "value": "$color:comp_focused_primary"
                 },
                 {
                     "name": "border_color_status_button_unchecked",
-                    "value": "#33f1f3f5"
+                    "value": "$color:comp_border_color"
                 },
                 {
                     "name": "bg_color_focus_status_button_checked",
-                    "value": "#7FFFFFFF"
+                    "value": "#5FFFFFFF"
                 },
                 {
                     "name": "status_button_text_color_focus",
-                    "value": "#e5ffffff"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "bg_color_focus_status_button_unchecked",
-                    "value": "#4dffffff"
+                    "value": "#5EFFFFFF"
                 },
                 {
                     "name": "bg_color_checked_focus_alpha",
