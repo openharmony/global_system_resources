@@ -6279,7 +6279,9 @@
                 "since": 22,
                 "deprecated": "",
                 "provisionEnable": true,
-                "distributedSceneEnable": false
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_access_user_full_disk",
+                "description": "$string:ohos_desc_access_user_full_disk"
             },
             {
                 "name": "ohos.permission.WEB_NATIVE_MESSAGING",
