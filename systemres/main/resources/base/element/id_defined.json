@@ -33475,13 +33475,18 @@
         },
         {
             "type": "string",
-            "name": "ohos_lab_hook_key_event",
+            "name": "dialog_check_tips_font_weight",
             "order": 6634
         },
         {
             "type": "string",
-            "name": "ohos_desc_hook_key_event",
+            "name": "ohos_lab_hook_key_event",
             "order": 6635
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_hook_key_event",
+            "order": 6636
         }
     ]
 }
