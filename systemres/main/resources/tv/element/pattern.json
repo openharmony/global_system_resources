@@ -9,7 +9,7 @@
                 },
                 {
                     "name": "bg_color_clicked_blend",
-                    "value": "#26FFFFFF"
+                    "value": "$color:interactive_pressed"
                 },
                 {
                     "name": "bg_color_hovered_blend",
@@ -29,7 +29,7 @@
                 },
                 {
                     "name": "normal_text_color",
-                    "value": "#E6FFFFFF"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "download_button_text_color",
@@ -73,7 +73,7 @@
                 },
                 {
                     "name": "button_bg_color",
-                    "value": "#266EFB"
+                    "value": "$color:comp_background_emphasize"
                 },
                 {
                     "name": "button_bg_focus_color",
@@ -173,7 +173,7 @@
                 },
                 {
                     "name": "emphasize_button_text_color",
-                    "value": "$color:font_on_primary"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "small_button_font_size",
@@ -185,7 +185,7 @@
                 },
                 {
                     "name": "role_warning",
-                    "value": "#E84026"
+                    "value": "$color:warning"
                 },
                 {
                     "name": "border_width",
@@ -193,7 +193,7 @@
                 },
                 {
                     "name": "border_color",
-                    "value": "#1AFFFFFF"
+                    "value": "$color:comp_border_color"
                 },
                 {
                     "name": "width_border_small",
@@ -201,7 +201,7 @@
                 },
                 {
                     "name": "color_border_small",
-                    "value": "#1AFFFFFF"
+                    "value": "$color:comp_border_color"
                 },
                 {
                     "name": "shadow_default",
@@ -217,11 +217,11 @@
                 },
                 {
                     "name": "emphasize_focus_color",
-                    "value": "#679AFC"
+                    "value": "#6FA2F9"
                 },
                 {
                     "name": "padding_text",
-                    "value": "8vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "focus_bg_text",
@@ -229,7 +229,7 @@
                 },
                 {
                     "name": "text_button_text_color",
-                    "value": "#266EFB"
+                    "value": "$color:font_emphasize"
                 },
                 {
                     "name": "emphasize_button_text_focus_color",
@@ -297,7 +297,7 @@
                 },
                 {
                     "name": "normal_button_focus_bgcolor",
-                    "value": "#7FFFFFFF"
+                    "value": "#5EFFFFFF"
                 },
                 {
                     "name": "text_button_font_size",
