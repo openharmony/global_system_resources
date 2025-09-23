@@ -802,7 +802,7 @@
         },
         {
             "name": "dialog_tip_text_top_padding",
-            "value": "24.0vp"
+            "value": "32.0vp"
         },
         {
             "name": "dialog_checkbox_top_padding",
@@ -814,7 +814,7 @@
         },
         {
             "name": "dialog_error_button_style",
-            "value": "1"
+            "value": "0"
         },
         {
             "name": "dialog_checkbox_end_margin",
@@ -866,6 +866,14 @@
         },
         {
             "name": "alert_title_padding_top",
+            "value": "32.0vp"
+        },
+        {
+            "name": "alert_title_padding_left",
+            "value": "32.0vp"
+        },
+        {
+            "name": "alert_title_padding_right",
             "value": "32.0vp"
         },
         {

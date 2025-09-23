@@ -584,11 +584,11 @@
                 },
                 {
                     "name": "dialog_background_shadow_on",
-                    "value": "$float:ohos_id_dialog_background_shadow_on"
+                    "value": "$float:ohos_id_floating_shadow_s"
                 },
                 {
                     "name": "dialog_background_shadow_off",
-                    "value": "$float:ohos_id_dialog_background_shadow_off"
+                    "value": "$float:ohos_id_floating_shadow_s"
                 },
                 {
                     "name": "title_text_color",
@@ -601,6 +601,14 @@
                 {
                     "name": "title_text_font_size",
                     "value": "32.0fp"
+                },
+                {
+                    "name": "title_text_font_weight",
+                    "value": "9.0"
+                },
+                {
+                    "name": "shadow_dialog",
+                    "value": "$color:ohos_id_color_text_secondary"
                 },
                 {
                     "name": "title_text_font_size_min",
@@ -640,7 +648,7 @@
                 },
                 {
                     "name": "button_text_font_size",
-                    "value": "22.0fp"
+                    "value": "24.0fp"
                 },
                 {
                     "name": "dialog_divider_length",
@@ -820,7 +828,7 @@
                 },
                 {
                     "name": "dialog_padding_top",
-                    "value": "16.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_padding_right",
@@ -828,11 +836,11 @@
                 },
                 {
                     "name": "dialog_padding_bottom",
-                    "value": "16.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_padding_left_adjust",
-                    "value": "30.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_padding_top_adjust",
@@ -840,7 +848,7 @@
                 },
                 {
                     "name": "dialog_padding_right_adjust",
-                    "value": "30.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_padding_bottom_adjust",
@@ -928,7 +936,7 @@
                 },
                 {
                     "name": "dialog_double_border_enable",
-                    "value": "$float:dialog_double_border_enable"
+                    "value": "1"
                 },
                 {
                     "name": "dialog_outer_border_width",
@@ -940,11 +948,11 @@
                 },
                 {
                     "name": "dialog_inner_border_width",
-                    "value": "$float:dialog_inner_border_width"
+                    "value": "3.0"
                 },
                 {
                     "name": "dialog_inner_border_color",
-                    "value": "$color:dialog_inner_border_color"
+                    "value": "$color:window_border_color"
                 },
                 {
                     "name": "dialog_background_blur_style",
@@ -968,7 +976,7 @@
                 },
                 {
                     "name": "color_bg_with_blur",
-                    "value": "#3C3C3C"
+                    "value": "$color:ohos_id_blur_style_component_ultra_thick_color_dark"
                 },
                 {
                     "name": "align_dialog",
@@ -976,7 +984,7 @@
                 },
                 {
                     "name": "dialog_ratio_height",
-                    "value": "1"
+                    "value": "0.8"
                 },
                 {
                     "name": "border_color",
@@ -1020,7 +1028,7 @@
                 },
                 {
                     "name": "dialog_button_border_radius",
-                    "value": "32.0vp"
+                    "value": "27.0vp"
                 }
             ]
         },
