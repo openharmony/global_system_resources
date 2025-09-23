@@ -1045,7 +1045,7 @@
                 },
                 {
                     "name": "indicator_text_color_focused",
-                    "value": "#99ffffff"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "indicator_text_font_size",
@@ -1065,7 +1065,7 @@
                 },
                 {
                     "name": "indicator_color_focused",
-                    "value": "$color:comp_background_focus"
+                    "value": "$color:comp_focused_primary"
                 },
                 {
                     "name": "arrow_disabled_alpha",
@@ -1073,11 +1073,11 @@
                 },
                 {
                     "name": "arrow_color_boardColor_hover",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:interactive_hover"
                 },
                 {
                     "name": "arrow_color_boardColor_click",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:interactive_pressed"
                 },
                 {
                     "name": "arrow_color_primary",
@@ -1113,6 +1113,10 @@
                 },
                 {
                     "name": "swiper_indicator_point_padding",
+                    "value": "10.0vp"
+                },
+                {
+                    "name": "swiper_indicator_dot_item_space",
                     "value": "10.0vp"
                 },
                 {
@@ -1233,27 +1237,27 @@
                 },
                 {
                     "name": "indicator_scale_swiper",
-                    "value": "1.05"
+                    "value": "1.0"
                 },
                 {
                     "name": "color_focus_unselected",
-                    "value": "$color:swiper_indicator_unselected_focus_color"
+                    "value": "$color:comp_background_secondary"
                 },
                 {
                     "name": "color_focus_bg",
-                    "value": "#4dffffff"
+                    "value": "$color:comp_background_focus"
                 },
                 {
                     "name": "indicator_bg_height",
-                    "value": "7.0vp"
+                    "value": "12.0vp"
                 },
                 {
                     "name": "indicator_color_focused_selected",
-                    "value": "#FFF1F3F5"
+                    "value": "$color:comp_focused_primary"
                 },
                 {
                     "name": "indicator_padding_dot",
-                    "value": "8.0vp"
+                    "value": "10.0vp"
                 },
                 {
                     "name": "indicator_focused_padding",
