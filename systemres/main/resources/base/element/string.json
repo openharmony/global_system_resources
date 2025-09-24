@@ -2146,6 +2146,14 @@
         {
             "name": "ohos_desc_custom_screen_recording",
             "value": "Allows an application to record the screen without displaying a privacy pop-up."
+        },
+        {
+            "name": "ohos_lab_hook_key_event",
+            "value": "hook key event"
+        },
+        {
+            "name": "ohos_desc_hook_key_event",
+            "value": "Allows an application to intercept keyboard input events."
         }
     ]
 }
