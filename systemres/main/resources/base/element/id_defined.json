@@ -33480,13 +33480,23 @@
         },
         {
             "type": "string",
-            "name": "ohos_lab_access_user_full_disk",
+            "name": "ohos_lab_custom_screen_recording",
+            "order": 6635
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_custom_screen_recording",
             "order": 6636
         },
         {
             "type": "string",
-            "name": "ohos_desc_access_user_full_disk",
+            "name": "ohos_lab_access_user_full_disk",
             "order": 6637
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_access_user_full_disk",
+            "order": 6638
         }
     ]
 }
