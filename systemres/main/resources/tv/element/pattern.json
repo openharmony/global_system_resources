@@ -9,7 +9,7 @@
                 },
                 {
                     "name": "bg_color_clicked_blend",
-                    "value": "#26FFFFFF"
+                    "value": "$color:interactive_pressed"
                 },
                 {
                     "name": "bg_color_hovered_blend",
@@ -29,7 +29,7 @@
                 },
                 {
                     "name": "normal_text_color",
-                    "value": "#E6FFFFFF"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "download_button_text_color",
@@ -73,7 +73,7 @@
                 },
                 {
                     "name": "button_bg_color",
-                    "value": "#266EFB"
+                    "value": "$color:comp_background_emphasize"
                 },
                 {
                     "name": "button_bg_focus_color",
@@ -173,7 +173,7 @@
                 },
                 {
                     "name": "emphasize_button_text_color",
-                    "value": "$color:font_on_primary"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "small_button_font_size",
@@ -185,7 +185,7 @@
                 },
                 {
                     "name": "role_warning",
-                    "value": "#E84026"
+                    "value": "$color:warning"
                 },
                 {
                     "name": "border_width",
@@ -193,7 +193,7 @@
                 },
                 {
                     "name": "border_color",
-                    "value": "#1AFFFFFF"
+                    "value": "$color:comp_border_color"
                 },
                 {
                     "name": "width_border_small",
@@ -201,7 +201,7 @@
                 },
                 {
                     "name": "color_border_small",
-                    "value": "#1AFFFFFF"
+                    "value": "$color:comp_border_color"
                 },
                 {
                     "name": "shadow_default",
@@ -217,11 +217,11 @@
                 },
                 {
                     "name": "emphasize_focus_color",
-                    "value": "#679AFC"
+                    "value": "#6FA2F9"
                 },
                 {
                     "name": "padding_text",
-                    "value": "8vp"
+                    "value": "16.0vp"
                 },
                 {
                     "name": "focus_bg_text",
@@ -229,7 +229,7 @@
                 },
                 {
                     "name": "text_button_text_color",
-                    "value": "#266EFB"
+                    "value": "$color:font_emphasize"
                 },
                 {
                     "name": "emphasize_button_text_focus_color",
@@ -297,7 +297,7 @@
                 },
                 {
                     "name": "normal_button_focus_bgcolor",
-                    "value": "#7FFFFFFF"
+                    "value": "#5EFFFFFF"
                 },
                 {
                     "name": "text_button_font_size",
@@ -584,11 +584,11 @@
                 },
                 {
                     "name": "dialog_background_shadow_on",
-                    "value": "$float:ohos_id_dialog_background_shadow_on"
+                    "value": "$float:ohos_id_floating_shadow_s"
                 },
                 {
                     "name": "dialog_background_shadow_off",
-                    "value": "$float:ohos_id_dialog_background_shadow_off"
+                    "value": "$float:ohos_id_floating_shadow_s"
                 },
                 {
                     "name": "title_text_color",
@@ -601,6 +601,14 @@
                 {
                     "name": "title_text_font_size",
                     "value": "32.0fp"
+                },
+                {
+                    "name": "title_text_font_weight",
+                    "value": "9.0"
+                },
+                {
+                    "name": "shadow_dialog",
+                    "value": "$color:ohos_id_color_text_secondary"
                 },
                 {
                     "name": "title_text_font_size_min",
@@ -640,7 +648,7 @@
                 },
                 {
                     "name": "button_text_font_size",
-                    "value": "22.0fp"
+                    "value": "24.0fp"
                 },
                 {
                     "name": "dialog_divider_length",
@@ -820,7 +828,7 @@
                 },
                 {
                     "name": "dialog_padding_top",
-                    "value": "16.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_padding_right",
@@ -828,11 +836,11 @@
                 },
                 {
                     "name": "dialog_padding_bottom",
-                    "value": "16.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_padding_left_adjust",
-                    "value": "30.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_padding_top_adjust",
@@ -840,7 +848,7 @@
                 },
                 {
                     "name": "dialog_padding_right_adjust",
-                    "value": "30.0vp"
+                    "value": "32.0vp"
                 },
                 {
                     "name": "dialog_padding_bottom_adjust",
@@ -928,7 +936,7 @@
                 },
                 {
                     "name": "dialog_double_border_enable",
-                    "value": "$float:dialog_double_border_enable"
+                    "value": "1"
                 },
                 {
                     "name": "dialog_outer_border_width",
@@ -940,11 +948,11 @@
                 },
                 {
                     "name": "dialog_inner_border_width",
-                    "value": "$float:dialog_inner_border_width"
+                    "value": "3.0"
                 },
                 {
                     "name": "dialog_inner_border_color",
-                    "value": "$color:dialog_inner_border_color"
+                    "value": "$color:window_border_color"
                 },
                 {
                     "name": "dialog_background_blur_style",
@@ -968,7 +976,7 @@
                 },
                 {
                     "name": "color_bg_with_blur",
-                    "value": "#3C3C3C"
+                    "value": "$color:ohos_id_blur_style_component_ultra_thick_color_dark"
                 },
                 {
                     "name": "align_dialog",
@@ -976,7 +984,7 @@
                 },
                 {
                     "name": "dialog_ratio_height",
-                    "value": "1"
+                    "value": "0.8"
                 },
                 {
                     "name": "border_color",
@@ -1020,7 +1028,7 @@
                 },
                 {
                     "name": "dialog_button_border_radius",
-                    "value": "32.0vp"
+                    "value": "27.0vp"
                 }
             ]
         },
@@ -1045,7 +1053,7 @@
                 },
                 {
                     "name": "indicator_text_color_focused",
-                    "value": "#99ffffff"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "indicator_text_font_size",
@@ -1065,7 +1073,7 @@
                 },
                 {
                     "name": "indicator_color_focused",
-                    "value": "$color:comp_background_focus"
+                    "value": "$color:comp_focused_primary"
                 },
                 {
                     "name": "arrow_disabled_alpha",
@@ -1073,11 +1081,11 @@
                 },
                 {
                     "name": "arrow_color_boardColor_hover",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:interactive_hover"
                 },
                 {
                     "name": "arrow_color_boardColor_click",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:interactive_pressed"
                 },
                 {
                     "name": "arrow_color_primary",
@@ -1113,6 +1121,10 @@
                 },
                 {
                     "name": "swiper_indicator_point_padding",
+                    "value": "10.0vp"
+                },
+                {
+                    "name": "swiper_indicator_dot_item_space",
                     "value": "10.0vp"
                 },
                 {
@@ -1233,27 +1245,27 @@
                 },
                 {
                     "name": "indicator_scale_swiper",
-                    "value": "1.05"
+                    "value": "1.0"
                 },
                 {
                     "name": "color_focus_unselected",
-                    "value": "$color:swiper_indicator_unselected_focus_color"
+                    "value": "$color:comp_background_secondary"
                 },
                 {
                     "name": "color_focus_bg",
-                    "value": "#4dffffff"
+                    "value": "$color:comp_background_focus"
                 },
                 {
                     "name": "indicator_bg_height",
-                    "value": "7.0vp"
+                    "value": "12.0vp"
                 },
                 {
                     "name": "indicator_color_focused_selected",
-                    "value": "#FFF1F3F5"
+                    "value": "$color:comp_focused_primary"
                 },
                 {
                     "name": "indicator_padding_dot",
-                    "value": "8.0vp"
+                    "value": "10.0vp"
                 },
                 {
                     "name": "indicator_focused_padding",
@@ -1787,19 +1799,19 @@
             "value": [
                 {
                     "name": "bg_color",
-                    "value": "#00000000"
+                    "value": "$color:comp_background_tertiary"
                 },
                 {
                     "name": "bg_color_checked",
-                    "value": "#F1F3F5"
+                    "value": "$color:comp_background_tertiary"
                 },
                 {
                     "name": "bg_color_checked_alpha",
-                    "value": "0.2"
+                    "value": "$float:ohos_id_alpha_content_primary_transparent"
                 },
                 {
                     "name": "text_color",
-                    "value": "$color:ohos_id_color_text_primary"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "bg_color_pressed_blend",
@@ -1866,28 +1878,32 @@
                     "value": "1.05"
                 },
                 {
+                    "name": "border_width_status_button_unchecked",
+                    "value": "$float:border_larger"
+                },
+                {
                     "name": "border_width_status_button",
                     "value": "2.0vp"
                 },
                 {
                     "name": "border_color_status_button_checked",
-                    "value": "#F1F3F5"
+                    "value": "$color:comp_focused_primary"
                 },
                 {
                     "name": "border_color_status_button_unchecked",
-                    "value": "#33f1f3f5"
+                    "value": "$color:comp_border_color"
                 },
                 {
                     "name": "bg_color_focus_status_button_checked",
-                    "value": "#7FFFFFFF"
+                    "value": "#5FFFFFFF"
                 },
                 {
                     "name": "status_button_text_color_focus",
-                    "value": "#e5ffffff"
+                    "value": "$color:font_primary"
                 },
                 {
                     "name": "bg_color_focus_status_button_unchecked",
-                    "value": "#4dffffff"
+                    "value": "#5EFFFFFF"
                 },
                 {
                     "name": "bg_color_checked_focus_alpha",
