@@ -1966,14 +1966,6 @@
             }
         },
         {
-            "name": "ohos_lab_access_user_full_disk",
-            "value": "允许应用在用户授权后访问用户公共路径，每次访问不再额外弹窗提示。"
-        },
-        {
-            "name": "ohos_desc_access_user_full_disk",
-            "value": "可申请此权限的特殊场景与功能：-远程登陆客户端类应用：可在本地设备上显示远程设备的画面。 -杀毒类应用：需要全盘扫描以查杀病毒。"
-        },
-        {
             "name": "general_ai_preview_menu_date_retry",
             "value": "请安装“日历”App 后再试",
             "attr": {
@@ -1993,6 +1985,14 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name": "ohos_lab_access_user_full_disk",
+            "value": "无需弹窗访问用户公共路径"
+        },
+        {
+            "name": "ohos_desc_access_user_full_disk",
+            "value": "允许应用在用户授权后访问用户公共路径，每次访问不再额外弹窗提示。"
         },
         {
             "name": "ohos_lab_custom_screen_recording",

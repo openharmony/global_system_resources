@@ -2114,14 +2114,6 @@
             }
         },
         {
-            "name": "ohos_lab_access_user_full_disk",
-            "value": "Allows an application to access public user paths after authorization is granted, without extra pop-up messages each time."
-        },
-        {
-            "name": "ohos_desc_access_user_full_disk",
-            "value": "Applicable scenarios and functionalities: - Remote login client applications: display of the remote device screen on a local device - Antivirus applications: full-disk virus scan and removal."
-        },
-        {
             "name": "notification_feature_loud_volume_tittle",
             "value": "Volume boost",
             "attr":{
@@ -2138,6 +2130,14 @@
         {
             "name": "textinput_text_counter",
             "value": "%1$d/%2$d"
+        },
+        {
+            "name": "ohos_lab_access_user_full_disk",
+            "value": "Access public user paths without displaying a privacy pop-up"
+        },
+        {
+            "name": "ohos_desc_access_user_full_disk",
+            "value": "Allows an application to access public user paths after authorization is granted, without extra pop-up messages each time."
         },
         {
             "name": "ohos_lab_custom_screen_recording",
