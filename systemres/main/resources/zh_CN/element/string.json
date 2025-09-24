@@ -1985,6 +1985,14 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name": "ohos_lab_custom_screen_recording",
+            "value": "无需弹窗录制屏幕"
+        },
+        {
+            "name": "ohos_desc_custom_screen_recording",
+            "value": "允许应用无需弹窗录制屏幕。"
         }
     ]
 }
