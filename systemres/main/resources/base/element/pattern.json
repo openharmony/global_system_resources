@@ -3497,6 +3497,14 @@
                 {
                     "name": "piece_interval",
                     "value": "$float:ohos_id_piece_interval"
+                },
+                {
+                    "name": "picker_spring_mass",
+                    "value": "$float:picker_spring_mass"
+                },
+                {
+                    "name": "picker_max_sliding_distance",
+                    "value": "$float:picker_max_sliding_distance"
                 }
             ]
         },

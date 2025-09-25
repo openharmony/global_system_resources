@@ -4107,6 +4107,14 @@
         {
             "name": "textfield_container_padding_horizontal",
             "value": "$float:padding_level8"
+        },
+        {
+            "name": "picker_spring_mass",
+            "value": "1.0"
+        },
+        {
+            "name": "picker_max_sliding_distance",
+            "value": "30"
         }
     ]
 }

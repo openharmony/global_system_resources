@@ -33509,6 +33509,7 @@
             "order": 6640
         },
         {
+<<<<<<< HEAD
             "type": "color",
             "name": "menu_icon_color_token",
             "order": 6641,
@@ -33633,6 +33634,16 @@
             "name": "default_divider_width_token",
             "order": 6661,
             "flags": "private"
+=======
+            "type": "float",
+            "name": "picker_spring_mass",
+            "order": 6641
+        },
+        {
+            "type": "float",
+            "name": "picker_max_sliding_distance",
+            "order": 6642
+>>>>>>> f90cbd78 ([Picker]增加分层参数)
         }
     ]
 }
