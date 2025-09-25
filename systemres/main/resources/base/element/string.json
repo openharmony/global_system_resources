@@ -1319,35 +1319,35 @@
             "name": "request_agent_download_success",
             "value": "Download successful",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_download_fail",
             "value": "Download failed",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_upload_file",
             "value": "Uploading file… (%s)",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_upload_success",
             "value": "Upload successful",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
             "name": "request_agent_upload_fail",
             "value": "Upload failed",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
@@ -1362,7 +1362,7 @@
             "name": "request_agent_download_file",
             "value": "Downloading file… (%s)",
             "attr": {
-                "priority": "translate"
+                "priority": "LT"
             }
         },
         {
@@ -1927,11 +1927,17 @@
         },
         {
             "name": "request_agent_download_complete",
-            "value": "Download complete (%s)"
+            "value": "Download complete (%s)",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name": "request_agent_task_count",
-            "value": "Successful: %1$d, Failed: %2$d"
+            "value": "Successful: %1$d, Failed: %2$d",
+            "attr": {
+                "priority": "LT"
+            }
         },
         {
             "name": "arkui_app_bar_service_panel",
@@ -2124,6 +2130,30 @@
         {
             "name": "textinput_text_counter",
             "value": "%1$d/%2$d"
+        },
+        {
+            "name": "ohos_lab_access_user_full_disk",
+            "value": "Access public user paths without displaying a privacy pop-up"
+        },
+        {
+            "name": "ohos_desc_access_user_full_disk",
+            "value": "Allows an application to access public user paths after authorization is granted, without extra pop-up messages each time."
+        },
+        {
+            "name": "ohos_lab_custom_screen_recording",
+            "value": "Record the screen without displaying a privacy pop-up"
+        },
+        {
+            "name": "ohos_desc_custom_screen_recording",
+            "value": "Allows an application to record the screen without displaying a privacy pop-up."
+        },
+        {
+            "name": "ohos_lab_hook_key_event",
+            "value": "hook key event"
+        },
+        {
+            "name": "ohos_desc_hook_key_event",
+            "value": "Allows an application to intercept keyboard input events."
         }
     ]
 }

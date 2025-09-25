@@ -46,28 +46,28 @@
             "name":"request_agent_upload_success",
             "value":"アップロード成功",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_upload_fail",
             "value":"アップロード失敗",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_fail",
             "value":"ダウンロード失敗",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_success",
             "value":"ダウンロード成功",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -361,7 +361,7 @@
             "name":"request_agent_download_file",
             "value":"ファイルをダウンロード中…（%s）",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1614,7 +1614,7 @@
             "name":"request_agent_upload_file",
             "value":"ファイルをアップロード中…（%s）",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

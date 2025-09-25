@@ -46,7 +46,7 @@
             "name":"request_agent_upload_success",
             "value":"Transfert réussi",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -67,7 +67,7 @@
             "name":"request_agent_download_success",
             "value":"Téléchargement réussi",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -326,7 +326,7 @@
             "name":"request_agent_download_complete",
             "value":"Téléchargement terminé (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

@@ -46,28 +46,28 @@
             "name":"request_agent_upload_success",
             "value":"Tải lên thành công",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_upload_fail",
             "value":"Tải lên không thành công",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_fail",
             "value":"Tải xuống không thành công",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_success",
             "value":"Tải xuống thành công",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -361,7 +361,7 @@
             "name":"request_agent_download_file",
             "value":"Đang tải tệp tin xuống… (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1614,7 +1614,7 @@
             "name":"request_agent_upload_file",
             "value":"Đang tải tệp tin lên… (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

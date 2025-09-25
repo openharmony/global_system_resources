@@ -21,9 +21,9 @@ certificate_profile_path =
 
 systemres_ext_path = "//vendor/${product_company}/base/global/system_resources"
 fontconfig_path =
-    "//third_party/skia/src/ports/skia_ohos/config/fontconfig.json"
+    "//third_party/skia/m133/src/ports/skia_ohos/config/fontconfig.json"
 fontconfig_ohos_path =
-    "//third_party/skia/src/ports/skia_ohos/config/fontconfig_ohos.json"
+    "//third_party/skia/m133/src/ports/skia_ohos/config/fontconfig_ohos.json"
 
 sys_fonts_list = [
   {
