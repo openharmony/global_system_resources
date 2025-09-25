@@ -6275,6 +6275,17 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.TIMEOUT_SCREENOFF_DISABLE_LOCK",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 21,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_timeout_screenoff_disable_lock",
+                "description": "$string:ohos_desc_timeout_screenoff_disable_lock"
+            },
+            {
                 "name": "ohos.permission.CUSTOM_SCREEN_RECORDING",
                 "grantMode": "manual_settings",
                 "availableLevel": "system_basic",
