@@ -1210,38 +1210,38 @@
             }
         },
         {
-            "name":"request_agent_download_success",
-            "value":"下载成功",
-            "attr":{
-                "priority":"translate"
+            "name": "request_agent_download_success",
+            "value": "下载成功",
+            "attr": {
+                "priority": "translate"
             }
         },
         {
-            "name":"request_agent_download_fail",
-            "value":"下载失败",
-            "attr":{
-                "priority":"translate"
+            "name": "request_agent_download_fail",
+            "value": "下载失败",
+            "attr": {
+                "priority": "translate"
             }
         },
         {
-            "name":"request_agent_upload_file",
-            "value":"上传文件 %s",
-            "attr":{
-                "priority":"translate"
+            "name": "request_agent_upload_file",
+            "value": "上传文件 %s",
+            "attr": {
+                "priority": "translate"
             }
         },
         {
-            "name":"request_agent_upload_success",
-            "value":"上传成功",
-            "attr":{
-                "priority":"translate"
+            "name": "request_agent_upload_success",
+            "value": "上传成功",
+            "attr": {
+                "priority": "translate"
             }
         },
         {
-            "name":"request_agent_upload_fail",
-            "value":"上传失败",
-            "attr":{
-                "priority":"translate"
+            "name": "request_agent_upload_fail",
+            "value": "上传失败",
+            "attr": {
+                "priority": "translate"
             }
         },
         {
@@ -1253,10 +1253,10 @@
             "value": "应用获取此权限后，可进行截屏、录屏等操作。当前仅平板、2in1设备应用可申请此权限"
         },
         {
-            "name":"request_agent_download_file",
-            "value":"下载文件 %s",
-            "attr":{
-                "priority":"translate"
+            "name": "request_agent_download_file",
+            "value": "下载文件 %s",
+            "attr": {
+                "priority": "translate"
             }
         },
         {
@@ -1800,15 +1800,15 @@
             "value": "继续"
         },
         {
-            "name":"request_agent_download_complete",
-            "value":"下载完成 %s",
+            "name": "request_agent_download_complete",
+            "value": "下载完成 %s",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name":"request_agent_task_count",
-            "value":"%1$d 成功，%2$d 失败",
+            "name": "request_agent_task_count",
+            "value": "%1$d 成功，%2$d 失败",
             "attr":{
                 "priority":"translate"
             }
