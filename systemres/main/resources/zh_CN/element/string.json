@@ -743,6 +743,14 @@
             "value": "允许应用访问公共目录下的Desktop目录"
         },
         {
+            "name": "ohos_desc_timeout_screenoff_disable_lock",
+            "value": "设备超时息屏后默认锁屏，获取该权限后，应用超时息屏后，不进入锁屏界面。"
+        },
+        {
+            "name": "ohos_lab_timeout_screenoff_disable_lock",
+            "value": "允许应用使能超时息屏不锁屏功能。"
+        },
+        {
             "name": "ohos_grid_edit_title_edit",
             "value": "编辑",
             "attr": {

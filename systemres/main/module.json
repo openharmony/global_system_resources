@@ -6278,9 +6278,9 @@
                 "name": "ohos.permission.TIMEOUT_SCREENOFF_DISABLE_LOCK",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
-                "since": 21,
+                "since": 22,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_timeout_screenoff_disable_lock",
                 "description": "$string:ohos_desc_timeout_screenoff_disable_lock"
