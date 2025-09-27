@@ -33507,6 +33507,132 @@
             "type": "string",
             "name": "ohos_desc_access_user_full_disk",
             "order": 6640
+        },
+        {
+            "type": "color",
+            "name": "menu_icon_color_token",
+            "order": 6641,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_font_weight",
+            "order": 6642,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_content_spinner_padding",
+            "order": 6643,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_small_content_spinner_padding",
+            "order": 6644,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_spinner_symbol_size",
+            "order": 6645,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_small_spinner_symbol_size",
+            "order": 6646,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_disabled_background_color_alpha",
+            "order": 6647,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_small_text_font_size",
+            "order": 6648,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "select_symbol_color",
+            "order": 6649,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_menu_addition_x",
+            "order": 6650,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_menu_addition_y",
+            "order": 6651,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "menu_icon_side_length",
+            "order": 6652,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "menu_title_text_font_size",
+            "order": 6653,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "menu_icon_padding",
+            "order": 6654,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_min_height",
+            "order": 6655,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "small_select_min_height",
+            "order": 6656,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_normal_left_margin",
+            "order": 6657,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_small_left_margin",
+            "order": 6658,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_normal_right_margin",
+            "order": 6659,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "select_small_right_margin",
+            "order": 6660,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "default_divider_width_token",
+            "order": 6661,
+            "flags": "private"
         }
     ]
 }

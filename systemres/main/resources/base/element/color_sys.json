@@ -932,6 +932,14 @@
             "name": "select_border_normal_color",
             "value": "#ff000000"
         },
+		{
+            "name": "select_symbol_color",
+            "value": "$color:font_primary"
+        },
+        {
+            "name": "menu_icon_color_token",
+            "value": "#ff182431"
+        },
         {
             "name": "select_normal_icon_color",
             "value": "$color:ohos_id_color_spinner_icon"

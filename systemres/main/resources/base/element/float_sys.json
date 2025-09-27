@@ -1437,6 +1437,10 @@
             "value": "0.0vp"
         },
         {
+            "name": "default_divider_width_token",
+            "value": "1.0px"
+        },
+        {
             "name": "select_min_width",
             "value": "66.0vp"
         },
@@ -1535,6 +1539,78 @@
         {
             "name": "select_slide_more_offset",
             "value": "0"
+        },
+        {
+            "name": "select_font_weight",
+            "value": "10.0"
+        },
+        {
+            "name": "select_normal_left_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "select_small_left_margin",
+            "value": "4.0vp"
+        },
+        {
+            "name": "select_normal_right_margin",
+            "value": "8.0vp"
+        },
+        {
+            "name": "select_small_right_margin",
+            "value": "4.0vp"
+        },
+        {
+            "name": "select_content_spinner_padding",
+            "value": "8.0vp"
+        },
+        {
+            "name": "select_small_content_spinner_padding",
+            "value": "8.0vp"
+        },
+        {
+            "name": "select_spinner_symbol_size",
+            "value": "$float:select_normal_text_font_size"
+        },
+        {
+            "name": "select_small_spinner_symbol_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "select_disabled_background_color_alpha",
+            "value": "1.0"
+        },
+        {
+            "name": "select_menu_addition_x",
+            "value": "0.0vp"
+        },
+        {
+            "name": "select_menu_addition_y",
+            "value": "0.0vp"
+        },
+        {
+            "name": "select_small_text_font_size",
+            "value": "$float:ohos_id_text_size_body2"
+        },
+        {
+            "name": "select_min_height",
+            "value": "40.0vp"
+        },
+        {
+            "name": "small_select_min_height",
+            "value": "28.0vp"
+        },
+        {
+            "name": "menu_icon_padding",
+            "value": "16.0vp"
+        },
+        {
+            "name": "menu_icon_side_length",
+            "value": "24.0vp"
+        },
+        {
+            "name": "menu_title_text_font_size",
+            "value": "20.0vp"
         },
         {
             "name": "textfield_independent_control_keyboard",
