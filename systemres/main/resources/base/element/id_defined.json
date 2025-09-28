@@ -33633,6 +33633,16 @@
             "name": "default_divider_width_token",
             "order": 6661,
             "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_spring_mass",
+            "order": 6662
+        },
+        {
+            "type": "float",
+            "name": "picker_max_sliding_distance",
+            "order": 6663
         }
     ]
 }
