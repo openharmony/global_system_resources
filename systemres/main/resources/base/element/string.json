@@ -524,6 +524,14 @@
             "value": "Allows an application to get the installed bundle list."
         },
         {
+            "name": "ohos_desc_timeout_screenoff_disable_lock",
+            "value": "With this permission, the application prevents the device from locking by default when the screen turns off after a timeout."
+        },
+        {
+            "name": "ohos_lab_timeout_screenoff_disable_lock",
+            "value": "Allows an application to turn off the screen but keep it unlocked after a timeout."
+        },
+        {
             "name":"ohos_id_text_location_button_description_current_location",
             "value":"Current location",
             "attr":{
