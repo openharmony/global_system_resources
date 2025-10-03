@@ -1119,6 +1119,18 @@
         {
             "name": "segment_button_border_color",
             "value": "#00000000"
+        },
+        {
+            "name": "titlebar_icon_border_color",
+            "value": "#00000000"
+        },
+        {
+            "name": "title_primary_color",
+            "value": "$color:font_primary"
+        },
+        {
+            "name": "navigation_focus_blend_bg_color",
+            "value": "$color:titlebar_icon_background_color"
         }
     ]
   }
