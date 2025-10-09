@@ -6171,6 +6171,24 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_DEVICE_INDEPENDENT_BINARY_CERT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_DEVICE_INDEPENDENT_BINARY_CERT_STATUS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 20,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
