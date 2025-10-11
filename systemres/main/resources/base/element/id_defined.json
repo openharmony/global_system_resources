@@ -33501,12 +33501,14 @@
         {
             "type": "string",
             "name": "ohos_lab_access_user_full_disk",
-            "order": 6639
+            "order": 6639,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "ohos_desc_access_user_full_disk",
-            "order": 6640
+            "order": 6640,
+            "flags": "private"
         },
         {
             "type": "color",
