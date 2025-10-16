@@ -16,6 +16,15 @@
         "installationFree": false,
         "definePermissions": [
             {
+                "name": "ohos.permission.CRYPTO_EXTENSION_REGISTER",
+                "grantMode": "system_grant",
+                "since": 22,
+                "deprecated": "",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ANSWER_CALL",
                 "grantMode": "user_grant",
                 "since": 9,
