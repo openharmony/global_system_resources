@@ -33491,12 +33491,14 @@
         {
             "type": "string",
             "name": "ohos_lab_hook_key_event",
-            "order": 6637
+            "order": 6637,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "ohos_desc_hook_key_event",
-            "order": 6638
+            "order": 6638,
+            "flags": "private"
         },
         {
             "type": "string",
