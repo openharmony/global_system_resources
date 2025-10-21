@@ -33811,12 +33811,14 @@
         {
             "type": "string",
             "name": "ohos_lab_timeout_screenoff_disable_lock",
-            "order": 6696
+            "order": 6696,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "ohos_desc_timeout_screenoff_disable_lock",
-            "order": 6697
+            "order": 6697,
+            "flags": "private"
         },
         {
             "type": "float",
