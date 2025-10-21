@@ -6279,9 +6279,7 @@
                 "since": 22,
                 "deprecated": "",
                 "provisionEnable": false,
-                "distributedSceneEnable": false,
-                "label": "$string:ohos_lab_timeout_screenoff_disable_lock",
-                "description": "$string:ohos_desc_timeout_screenoff_disable_lock"
+                "distributedSceneEnable": false
             },
             {
                 "name": "ohos.permission.CUSTOM_SCREEN_RECORDING",
