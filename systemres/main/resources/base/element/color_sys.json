@@ -1051,6 +1051,46 @@
         {
             "name": "popup_secondary_button_font_color_sys",
             "value": "$color:popup_secondary_button_font_color"
+        },
+        {
+            "name": "radio_color_hover",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "radio_color_foreground_contrary",
+            "value": "$color:ohos_id_color_foreground_contrary"
+        },
+        {
+            "name": "radio_bg_color_checked",
+            "value": "$color:ohos_id_color_emphasize"
+        },
+        {
+            "name": "radio_bg_color_unchecked",
+            "value": "$color:ohos_id_color_switch_outline_off"
+        },
+        {
+            "name": "radio_click_effect_color",
+            "value": "$color:ohos_id_color_click_effect"
+        },
+        {
+            "name": "checkbox_fg_color_checked",
+            "value": "$color:ohos_id_color_foreground_contrary"
+        },
+        {
+            "name": "checkbox_bg_color_checked",
+            "value": "$color:ohos_id_color_text_primary_activated"
+        },
+        {
+            "name": "checkbox_bg_border_color_unchecked",
+            "value": "$color:ohos_id_color_switch_outline_off"
+        },
+        {
+            "name": "checkbox_hover_border_color",
+            "value": "$color:ohos_id_color_hover"
+        },
+        {
+            "name": "checkbox_click_effect_color",
+            "value": "$color:ohos_id_color_click_effect"
         }
     ]
   }
