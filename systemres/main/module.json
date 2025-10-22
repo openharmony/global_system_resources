@@ -6372,6 +6372,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ALLOW_EXTERNAL_NATIVE_CODE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 22,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
