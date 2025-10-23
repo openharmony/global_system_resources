@@ -78,11 +78,11 @@
         },
         {
             "name": "rating_icon_active_color",
-            "value": "#F7CE00"
+            "value": "$color:multi_color_11"
         },
         {
             "name": "rating_icon_inactive_color",
-            "value": "#33F1F3F5"
+            "value": "$color:comp_background_tertiary"
         },
         {
             "name": "rating_container_hover_color",
@@ -90,7 +90,7 @@
         },
         {
             "name": "rating_container_press_color",
-            "value": "#26FFFFFF"
+            "value": "$color:interactive_pressed"
         },
         {
             "name": "rating_container_focus_color",
@@ -98,7 +98,7 @@
         },
         {
             "name": "rating_unlit_star_focus_color",
-            "value": "$color:comp_background_secondary"
+            "value": "$color:comp_background_tertiary"
         },
         {
             "name": "textfield_bg_color",
