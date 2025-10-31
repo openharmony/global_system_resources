@@ -9856,6 +9856,43 @@
                     "value": "$float:app_theme_drag_distancethreshold"
                 }
             ]
+        },
+        {
+            "name": "ohos_container_picker_pattern",
+            "value": [
+                {
+                    "name": "picker_view_background_color",
+                    "value": "$color:comp_background_tertiary"
+                },
+                {
+                    "name": "picker_view_background_radius",
+                    "value": "$float:corner_radius_level6"
+                },
+                {
+                    "name": "picker_view_divider_color",
+                    "value": "$color:comp_divider"
+                },
+                {
+                    "name": "picker_view_divider_width",
+                    "value": "$float:border_medium"
+                },
+                {
+                    "name": "picker_view_font_size",
+                    "value": "$float:Title_S"
+                },
+                {
+                    "name": "picker_view_font_primary_color",
+                    "value": "$color:font_primary"
+                },
+                {
+                    "name": "picker_view_focus_border_color",
+                    "value": "$color:interactive_focus"
+                },
+                {
+                    "name": "picker_view_focus_border_width",
+                    "value": "$float:outline_extra_larger"
+                }
+            ]
         }
     ]
 }

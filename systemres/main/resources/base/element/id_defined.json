@@ -36059,6 +36059,12 @@
             "type": "media",
             "name": "ic_due_control_picture",
             "order": 7145
+        },
+        {
+            "type": "pattern",
+            "name": "ohos_container_picker_pattern",
+            "order": 7146,
+            "flags": "private"
         }
     ]
 }
