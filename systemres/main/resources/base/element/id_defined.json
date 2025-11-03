@@ -36065,6 +36065,35 @@
             "name": "ohos_container_picker_pattern",
             "order": 7146,
             "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "choose_to_upload",
+            "order": 7147
+        },
+        {
+            "type": "string",
+            "name": "gallery",
+            "order": 7148
+        },
+        {
+            "type": "string",
+            "name": "taking_photos",
+            "order": 7149
+        },
+        {
+            "type": "string",
+            "name": "video_recording",
+            "order": 7150
+        },
+        {
+            "type": "string",
+            "name": "taking_photos_or_videos",
+            "order": 7151
+        },
+        {
+            "name": "document",
+            "order": 7152
         }
     ]
 }
