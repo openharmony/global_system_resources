@@ -156,7 +156,10 @@
         },
         {
             "name":"ohos_id_input_method_settings",
-            "value":"باشقا تەڭشەك"
+            "value":"باشقا تەڭشەك",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_media_location",
