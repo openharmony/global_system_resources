@@ -36067,33 +36067,39 @@
             "flags": "private"
         },
         {
-            "type": "string",
-            "name": "choose_to_upload",
+            "type": "pattern",
+            "name": "ohos_web_pattern",
             "order": 7147
         },
         {
             "type": "string",
-            "name": "gallery",
+            "name": "choose_to_upload",
             "order": 7148
         },
         {
             "type": "string",
-            "name": "taking_photos",
+            "name": "gallery",
             "order": 7149
         },
         {
             "type": "string",
-            "name": "video_recording",
+            "name": "taking_photos",
             "order": 7150
         },
         {
             "type": "string",
-            "name": "taking_photos_or_videos",
+            "name": "video_recording",
             "order": 7151
         },
         {
-            "name": "document",
+            "type": "string",
+            "name": "taking_photos_or_videos",
             "order": 7152
+        },
+        {
+            "type": "string",
+            "name": "document",
+            "order": 7153
         }
     ]
 }
