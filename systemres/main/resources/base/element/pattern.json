@@ -9893,6 +9893,35 @@
                     "value": "$float:outline_extra_larger"
                 }
             ]
+        },
+        {
+            "name": "ohos_web_pattern",
+            "value": [
+                {
+                    "name": "choose_to_upload",
+                    "value": "$string:choose_to_upload"
+                },
+                {
+                    "name": "gallery",
+                    "value": "$string:gallery"
+                },
+                {
+                    "name": "taking_photos",
+                    "value": "$string:taking_photos"
+                },
+                {
+                    "name": "video_recording",
+                    "value": "$string:video_recording"
+                },
+                {
+                    "name": "taking_photos_or_videos",
+                    "value": "$string:taking_photos_or_videos"
+                },
+                {
+                    "name": "document",
+                    "value": "$string:document"
+                }
+            ]
         }
     ]
 }
