@@ -1055,6 +1055,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.INSTALL_ALLOW_DOWNGRADE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_SHORTCUTS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
