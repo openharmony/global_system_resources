@@ -33481,12 +33481,14 @@
         {
             "type": "string",
             "name": "ohos_lab_custom_screen_recording",
-            "order": 6635
+            "order": 6635,
+            "flags": "private"
         },
         {
             "type": "string",
             "name": "ohos_desc_custom_screen_recording",
-            "order": 6636
+            "order": 6636,
+            "flags": "private"
         },
         {
             "type": "string",

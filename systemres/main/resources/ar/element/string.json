@@ -11,28 +11,28 @@
             "name":"ohos_id_notification_increase_volume_context",
             "value":"قد يؤدي الاستماع بصوتٍ عالٍ لفترات طويلة إلى الإضرار بحاسة السمع.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_button",
             "value":"استعادة مستوى الصوت",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_context",
             "value":"قد يؤدي الاستماع بصوتٍ عالٍ لفترات طويلة إلى الإضرار بحاسة السمع.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_tittle",
             "value":"انخفض مستوى الصوت تلقائيًا",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -74,112 +74,98 @@
             "name":"ohos_id_text_save_button_description_save_image",
             "value":"حفظ الصورة",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_save_all",
             "value":"حفظ الكل",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download",
             "value":"تنزيل",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_receive",
             "value":"حفظ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_to_gallery",
             "value":"حفظ في المعرض",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
             "value":"حفظ في المعرض",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_file",
             "value":"تنزيل الملف",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save",
             "value":"حفظ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
             "value":"حفظ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_file",
             "value":"حفظ الملف",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_paste_button_description_paste",
             "value":"لصق",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_and_share",
             "value":"تنزيل ومشاركة",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_continue_to_receive",
             "value":"حفظ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_export_to_gallery",
             "value":"تصدير",
             "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name": "prev_arrow_accessibility_text",
-            "value": "السابق",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "next_arrow_accessibility_text",
-            "value": "التالي",
-            "attr": {
-                "priority": "translate"
+                "priority":"LT"
             }
         },
         {
@@ -190,129 +176,143 @@
             }
         },
         {
-            "name": "general_copy",
-            "value": "نسخ",
-            "attr": {
-                "priority": "translate"
+            "name":"prev_arrow_accessibility_text",
+            "value":"السابق",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_start",
-            "value": "بدء",
-            "attr": {
-                "priority": "translate"
+            "name":"next_arrow_accessibility_text",
+            "value":"التالي",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_more",
-            "value": "المزيد",
-            "attr": {
-                "priority": "translate"
+            "name":"general_copy",
+            "value":"نسخ",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "text_overlay_menu_more_accessibility_text",
-            "value": "المزيد",
-            "attr": {
-                "priority": "translate"
+            "name":"general_start",
+            "value":"بدء",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "navigation_back",
-            "value": "رجوع",
-            "attr": {
-                "priority": "translate"
+            "name":"general_more",
+            "value":"المزيد",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_cancel",
-            "value": "إلغاء",
-            "attr": {
-                "priority": "translate"
+            "name":"text_overlay_menu_more_accessibility_text",
+            "value":"المزيد",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_display_lunar_calendar",
-            "value": "إظهار التقويم القمري",
-            "attr": {
-                "priority": "translate"
+            "name":"navigation_back",
+            "value":"رجوع",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "sheet_close",
-            "value": "إغلاق",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cancel",
+            "value":"إلغاء",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_select_all",
-            "value": "تحديد الكل",
-            "attr": {
-                "priority": "translate"
+            "name":"general_display_lunar_calendar",
+            "value":"إظهار التقويم القمري",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "stepper_back",
-            "value": "رجوع",
-            "attr": {
-                "priority": "translate"
+            "name":"sheet_close",
+            "value":"إغلاق",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_cut",
-            "value": "قص",
-            "attr": {
-                "priority": "translate"
+            "name":"general_select_all",
+            "value":"تحديد الكل",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_confirm",
-            "value": "موافق",
-            "attr": {
-                "priority": "translate"
+            "name":"stepper_back",
+            "value":"رجوع",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_skip",
-            "value": "تخطي",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cut",
+            "value":"قص",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "last_updated_time",
-            "value": "آخر تحديث: %s",
-            "attr": {
-                "priority": "translate"
+            "name":"general_confirm",
+            "value":"موافق",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_close",
-            "value": "إغلاق",
-            "attr": {
-                "priority": "translate"
+            "name":"general_skip",
+            "value":"تخطي",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_paste",
-            "value": "لصق",
-            "attr": {
-                "priority": "translate"
+            "name":"last_updated_time",
+            "value":"آخر تحديث: %s",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_open",
-            "value": "تشغيل",
-            "attr": {
-                "priority": "translate"
+            "name":"general_close",
+            "value":"إغلاق",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "stepper_next",
-            "value": "التالي",
-            "attr": {
-                "priority": "translate"
+            "name":"general_paste",
+            "value":"لصق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_open",
+            "value":"تشغيل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"stepper_next",
+            "value":"التالي",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
@@ -354,7 +354,7 @@
             "name":"ohos_toolbar_more",
             "value":"المزيد",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -389,7 +389,7 @@
             "name":"general_window_top_screen",
             "value":"إظهار في الأعلى",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -403,7 +403,7 @@
             "name":"summary_closed_beauty",
             "value":"تم إغلاق وضع التجميل.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -424,14 +424,14 @@
             "name":"ohos_grid_edit_subtitle_sort",
             "value":"اسحب للترتيب",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_grid_edit_subtitle_add",
             "value":"انقر للإضافة",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -464,9 +464,9 @@
         },
         {
             "name":"notification_screen_recording_title",
-            "value":"يقوم \"%s\" بتسجيل الشاشة حاليًا",
+            "value":"يقوم تطبيق %s بتسجيل الشاشة حاليًا",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -494,7 +494,7 @@
             "name":"icon_cancel",
             "value":"إلغاء",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -634,7 +634,7 @@
             "name":"ohos_grid_edit_title_chanel",
             "value":"الفئات",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -648,7 +648,7 @@
             "name":"camera_device_eject_lab",
             "value":"يتعذر إخراج الكاميرا",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -683,7 +683,7 @@
             "name":"general_window_moveto_top_screen",
             "value":"نقل للأعلى",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -711,7 +711,7 @@
             "name":"general_window_top_left_screen",
             "value":"إظهار على اليسار (في الأعلى)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -739,7 +739,7 @@
             "name":"title_adjust_beauty",
             "value":"وضع التجميل لمكالمات الفيديو",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -851,7 +851,7 @@
             "name":"general_window_moveto_bottom_screen",
             "value":"نقل للأسفل",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -886,7 +886,7 @@
             "name":"general_next_step",
             "value":"التالي",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -949,7 +949,7 @@
             "name":"camera_device_block_lab",
             "value":"مشكلة في الكاميرا",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1012,7 +1012,7 @@
             "name":"general_window_waterfall_mode",
             "value":"عرض كشلال",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1033,14 +1033,14 @@
             "name":"general_ai_menu_url",
             "value":"فتح",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"icon_save",
             "value":"حفظ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1068,7 +1068,7 @@
             "name":"general_window_bottom_screen",
             "value":"إظهار في الأسفل",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1103,7 +1103,7 @@
             "name":"general_get_it",
             "value":"حسنًا",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1164,9 +1164,9 @@
         },
         {
             "name":"close_beauty",
-            "value":"إيقاف وضع التجميل",
+            "value":"إيقاف تشغيل وضع التجميل",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1180,14 +1180,14 @@
             "name":"ohos_id_text_camera_input",
             "value":"إدخال من صورة",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"camera_use_continue",
             "value":"متابعة",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1222,14 +1222,14 @@
             "name":"general_ai_menu_address",
             "value":"معرفة الاتجاهات",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_window_top_right_screen",
             "value":"إظهار على اليمين (في الأعلى)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1257,7 +1257,7 @@
             "name":"general_ai_menu_date",
             "value":"إنشاء حدث جديد",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1271,7 +1271,7 @@
             "name":"camera_device_eject_desc",
             "value":"أزِل أي عوائق وأعد المحاولة.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1285,7 +1285,7 @@
             "name":"icon_back",
             "value":"رجوع",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1460,7 +1460,7 @@
             "name":"general_search",
             "value":"بحث",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1474,7 +1474,7 @@
             "name":"camera_device_block_confirm",
             "value":"حسنًا",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1488,21 +1488,21 @@
             "name":"general_ai_menu_phone_number",
             "value":"مكالمة هاتفية",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"desc_developer_mode_tips",
             "value":"تحتاج إلى تشغيل خيارات المطوّر لتشغيل هذا.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"lab_developer_mode_tips",
             "value":"مطلوب أولًا تشغيل خيارات المطوّر",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1516,7 +1516,7 @@
             "name":"general_ai_menu_email",
             "value":"إنشاء رسالة بريد إلكتروني",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1530,7 +1530,7 @@
             "name":"camera_device_block_desc",
             "value":"أعد تشغيل تطبيق الكاميرا لإصلاح هذه المشكلة. إذا كانت الصورة لا تزال خارج نطاق التركيز، فاتصل بخدمة العملاء.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1544,7 +1544,7 @@
             "name":"general_last_step",
             "value":"السابق",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1558,7 +1558,7 @@
             "name":"form_disable_app_locked",
             "value":"التطبيق مقفل",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1593,7 +1593,7 @@
             "name":"form_disable_time_limit",
             "value":"انتهى الوقت",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1607,7 +1607,7 @@
             "name":"ohos_grid_edit_title_edit",
             "value":"تعديل",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1635,49 +1635,49 @@
             "name":"notification_screen_recording_privacy_off",
             "value":"حماية الخصوصية موقوفة. التفاصيل>>",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"حماية الخصوصية نشطة. التفاصيل>>",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_ask_celia",
             "value":"اسأل Celia",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_open_map_app",
             "value":"الملاحة باستخدام خرائط Petal",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_url_open_browser_app",
             "value":"فتح بمتصفح هواوي",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_install_map_app",
             "value":"انقر هنا لتثبيت خرائط Petal.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_display_failed",
             "value":"يتعذّر إظهار المعاينة",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1689,42 +1689,49 @@
         },
         {
             "name":"notification_feature_loud_volume_tittle",
-            "value":"رفع مستوى الصوت",
+            "value":"تعزيز مستوى الصوت",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_enable_loud_volume_tittle",
             "value":"مشغّل",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
+        },
+        {
+            "name":"textinput_text_counter",
+            "value":"%2$d/%1$d"
         },
         {
             "name":"general_ai_preview_menu_date_retry",
             "value":"يُرجى تثبيت تطبيق التقويم وإعادة المحاولة.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_location_title",
             "value":"الموقع",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_link_title",
             "value":"الرابط",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
-            "name": "textinput_text_counter",
-            "value": "%2$d/%1$d"
+            "name":"due_control_form",
+            "value":"محتوى الأداة غير متوفر. يُرجى انتظار تحديث التطبيق.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

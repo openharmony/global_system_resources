@@ -85,6 +85,10 @@
             "value":"[TS_915149]_Location"
         },
         {
+            "name":"ohos_add_form_to_desktop",
+            "value":"[TS_924509]_Add to home screen"
+        },
+        {
             "name":"ohos_id_input_method_settings",
             "value":"[TS_915158]_More keyboard settings"
         },
@@ -121,24 +125,20 @@
             "value":"[TS_932400]_Save"
         },
         {
-            "name":"ohos_id_text_camera_input",
-            "value":"[TS_915130]_Photo input"
-        },
-        {
-            "name": "ai_write_menu_name",
-            "value": "[TS_966211]_Celia Writer"
-        },
-        {
             "name":"form_disable_time_limit",
             "value":"[TS_934944]_Time's up"
         },
         {
-            "name":"ohos_toolbar_more",
-            "value":"[TS_947844]_More"
+            "name":"ohos_id_text_camera_input",
+            "value":"[TS_915130]_Photo input"
         },
         {
-            "name": "ohos_add_form_to_desktop",
-            "value": "[TS_924509]_Add to home screen"
+            "name":"ai_write_menu_name",
+            "value":"[TS_966211]_Celia Writer"
+        },
+        {
+            "name":"ohos_toolbar_more",
+            "value":"[TS_947844]_More"
         },
         {
             "name":"ohos_lab_read_calendar",
@@ -191,7 +191,7 @@
         {
             "name":"calendar_picker_sun",
             "value":"[TS_966548]_Sunday"
-        }, 
+        },
         {
             "name":"slider_accessibility_selected",
             "value":"[TS_959500]_Selected"
@@ -245,6 +245,30 @@
             "value":"[TS_971304]_Raise volume"
         },
         {
+            "name":"request_agent_upload_success",
+            "value":"[TS_980589]_Upload successful"
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"[TS_980585]_Upload failed"
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"[TS_980590]_Download failed"
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"[TS_980588]_Download successful"
+        },
+        {
+            "name":"request_agent_upload_file",
+            "value":"[TS_980587]_Uploading file… (%s)"
+        },
+        {
+            "name":"save_button_description_save_all",
+            "value":"[TS_998287]_Save all"
+        },
+        {
             "name":"general_get_it",
             "value":"[TS_975136]_OK"
         },
@@ -257,44 +281,20 @@
             "value":"[TS_975135]_Enable developer options first"
         },
         {
+            "name":"notification_screen_recording_title",
+            "value":"[TS_999656]_%s is recording the screen"
+        },
+        {
             "name":"pass_point",
             "value":"[TS_960036]_Connected to dot %d"
         },
         {
-            "name": "request_agent_upload_success",
-            "value": "[TS_980589]_Upload successful"
+            "name":"delete_used_for_accessibility_text",
+            "value":"[TS_980586]_Delete"
         },
         {
-            "name": "request_agent_upload_fail",
-            "value": "[TS_980585]_Upload failed"
-        },
-        {
-            "name": "request_agent_download_fail",
-            "value": "[TS_980590]_Download failed"
-        },
-        {
-            "name": "request_agent_download_success",
-            "value": "[TS_980588]_Download successful"
-        },
-        {
-            "name": "notification_screen_recording_title",
-            "value": "[TS_999656]_%s is recording the screen"
-        },
-        {
-            "name": "request_agent_upload_file",
-            "value": "[TS_980587]_Uploading file… (%s)"
-        },
-        {
-            "name":"save_button_description_save_all",
-            "value":"[TS_998287]_Save all"
-        },
-        {
-            "name": "delete_used_for_accessibility_text",
-            "value": "[TS_980586]_Delete"
-        },
-        {
-            "name": "request_agent_download_file",
-            "value": "[TS_995264]_Downloading file… (%s)"
+            "name":"request_agent_download_file",
+            "value":"[TS_995264]_Downloading file… (%s)"
         },
         {
             "name":"general_next_month",
@@ -341,12 +341,12 @@
             "value":"[TS_1010435]_Title"
         },
         {
-            "name": "advanced_dialog_accessibility_checkbox",
-            "value": "[TS_1010436]_Checkbox"
+            "name":"advanced_dialog_accessibility_checkbox",
+            "value":"[TS_1010436]_Checkbox"
         },
         {
-            "name": "advanced_dialog_accessibility_cancel_checked_desc",
-            "value": "[TS_1010433]_Double-tap to deselect"
+            "name":"advanced_dialog_accessibility_cancel_checked_desc",
+            "value":"[TS_1010433]_Double-tap to deselect"
         },
         {
             "name":"filter_accessibility_expand",
@@ -389,124 +389,124 @@
             "value":"[TS_1009668]_Double-tap to expand"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item",
-            "value": "[TS_1010008]_%s, added to the pinned content area"
+            "name":"gridobjectsortcomponent_accessibility_selected_item",
+            "value":"[TS_1010008]_%s, added to the pinned content area"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
-            "value": "[TS_1010007]_Double tap and hold, then drag to sort"
+            "name":"gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value":"[TS_1010007]_Double tap and hold, then drag to sort"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
-            "value": "[TS_1010012]_%s, move out of the pinned content area"
+            "name":"gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value":"[TS_1010012]_%s, move out of the pinned content area"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
-            "value": "[TS_1010009]_%s, dragging"
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value":"[TS_1010009]_%s, dragging"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
-            "value": "[TS_1010018]_Row %1$d, column %2$d"
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value":"[TS_1010018]_Row %1$d, column %2$d"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
-            "value": "[TS_1010017]_Placed, row %1$d, column %2$d"
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value":"[TS_1010017]_Placed, row %1$d, column %2$d"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
-            "value": "[TS_1010020]_%1$s, added to the pinned content area, row %2$d, column %3$d"
+            "name":"gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value":"[TS_1010020]_%1$s, added to the pinned content area, row %2$d, column %3$d"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
-            "value": "[TS_1010013]_Entered editing mode"
+            "name":"gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value":"[TS_1010013]_Entered editing mode"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_item",
-            "value": "[TS_1010011]_%s, not added to the pinned content area"
+            "name":"gridobjectsortcomponent_accessibility_unselected_item",
+            "value":"[TS_1010011]_%s, not added to the pinned content area"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
-            "value": "[TS_1010019]_Double tap and hold to enter editing mode"
+            "name":"gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value":"[TS_1010019]_Double tap and hold to enter editing mode"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
-            "value": "[TS_1010016]_Double tap to add, double tap and hold to enter editing mode"
+            "name":"gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value":"[TS_1010016]_Double tap to add, double tap and hold to enter editing mode"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_button",
-            "value": "[TS_1010014]_%s, add to the pinned content area"
+            "name":"gridobjectsortcomponent_accessibility_unselected_button",
+            "value":"[TS_1010014]_%s, add to the pinned content area"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
-            "value": "[TS_1010021]_Edit"
+            "name":"gridobjectsortcomponent_accessibility_header_edit_button",
+            "value":"[TS_1010021]_Edit"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_deleted",
-            "value": "[TS_1010015]_%s, moved out of the pinned content area"
+            "name":"gridobjectsortcomponent_accessibility_deleted",
+            "value":"[TS_1010015]_%s, moved out of the pinned content area"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_illegal_area",
-            "value": "[TS_1010010]_Cannot place here"
+            "name":"gridobjectsortcomponent_accessibility_illegal_area",
+            "value":"[TS_1010010]_Cannot place here"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
-            "value": "[TS_1017993]_Double tap to add"
+            "name":"gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value":"[TS_1017993]_Double tap to add"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_complete_button",
-            "value": "[TS_1017992]_Done"
+            "name":"gridobjectsortcomponent_accessibility_complete_button",
+            "value":"[TS_1017992]_Done"
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
-            "value": "[TS_1017994]_Pinned content area, no content, tap items below to add them"
+            "name":"gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value":"[TS_1017994]_Pinned content area, no content, tap items below to add them"
         },
         {
-            "name": "treeview_accessibility_place_node_parent",
-            "value": "[TS_1010348]_ Placed, item %d"
+            "name":"treeview_accessibility_place_node_parent",
+            "value":"[TS_1010348]_Placed, item %d"
         },
         {
-            "name": "treeview_accessibility_folded_node",
-            "value": "[TS_1010349]_ Collapsed"
+            "name":"treeview_accessibility_folded_node",
+            "value":"[TS_1010349]_Collapsed"
         },
         {
-            "name": "treeview_accessibility_move_node_child",
-            "value": "[TS_1010350]_Drag to item %2$d of %1$s"
+            "name":"treeview_accessibility_move_node_child",
+            "value":"[TS_1010350]_Drag to item %2$d of %1$s"
         },
         {
-            "name": "treeview_accessibility_expanded_node",
-            "value": "[TS_1010351]_Expanded"
+            "name":"treeview_accessibility_expanded_node",
+            "value":"[TS_1010351]_Expanded"
         },
         {
-            "name": "treeview_accessibility_fold_node",
-            "value": "[TS_1010352]_Collapse"
+            "name":"treeview_accessibility_fold_node",
+            "value":"[TS_1010352]_Collapse"
         },
         {
-            "name": "treeview_accessibility_implement_node",
-            "value": "[TS_1010353]_Double-tap to activatet"
+            "name":"treeview_accessibility_implement_node",
+            "value":"[TS_1010353]_Double-tap to activate"
         },
         {
-            "name": "treeview_accessibility_select_node",
-            "value": "[TS_1010354]_Selected %s"
+            "name":"treeview_accessibility_select_node",
+            "value":"[TS_1010354]_Selected %s"
         },
         {
-            "name": "treeview_accessibility_lift_node",
-            "value": "[TS_1010355]_ %s, dragging"
+            "name":"treeview_accessibility_lift_node",
+            "value":"[TS_1010355]_%s, dragging"
         },
         {
-            "name": "treeview_accessibility_node_desc",
-            "value": "[TS_1010356]_Double tap to select, double tap and hold, then drag to change order"
+            "name":"treeview_accessibility_node_desc",
+            "value":"[TS_1010356]_Double tap to select, double tap and hold, then drag to change order"
         },
         {
-            "name": "treeview_accessibility_move_node_parent",
-            "value": "[TS_1010357]_ Item %d"
+            "name":"treeview_accessibility_move_node_parent",
+            "value":"[TS_1010357]_Item %d"
         },
         {
-            "name": "treeview_accessibility_expand_node",
-            "value": "[TS_1010358]_Expand"
+            "name":"treeview_accessibility_expand_node",
+            "value":"[TS_1010358]_Expand"
         },
         {
-            "name": "treeview_accessibility_place_node_child",
-            "value": "[TS_1010359]_Placed, item %2$d of %1$s"
+            "name":"treeview_accessibility_place_node_child",
+            "value":"[TS_1010359]_Placed, item %2$d of %1$s"
         },
         {
             "name":"general_window_moveto_top_screen",
@@ -517,36 +517,28 @@
             "value":"[TS_1035507]_Move to bottom"
         },
         {
-            "name": "camera_device_eject_lab",
-            "value": "[TS_1039719]_Unable to pop out camera"
+            "name":"camera_device_eject_lab",
+            "value":"[TS_1039719]_Unable to pop out camera"
         },
         {
-            "name": "camera_device_eject_desc",
-            "value": "[TS_1039722]_Remove any obstructions and try again."
+            "name":"camera_device_eject_desc",
+            "value":"[TS_1039722]_Remove any obstructions and try again."
         },
         {
-            "name": "camera_device_block_confirm",
-            "value": "[TS_1039721]_OK"
+            "name":"camera_device_block_confirm",
+            "value":"[TS_1039721]_OK"
         },
         {
-            "name": "camera_device_block_lab",
-            "value": "[TS_1039720]_Camera error"
+            "name":"camera_device_block_lab",
+            "value":"[TS_1039720]_Camera error"
         },
         {
-            "name": "camera_device_block_desc",
-            "value": "[TS_1039724]_Restart the Camera app to fix this issue. If the image is still out of focus, contact customer service."
+            "name":"camera_device_block_desc",
+            "value":"[TS_1039724]_Restart the Camera app to fix this issue. If the image is still out of focus, contact customer service."
         },
         {
-            "name": "camera_use_continue",
-            "value": "[TS_1039723]_Continue"
-        },
-        {
-            "name": "prev_arrow_accessibility_text",
-            "value": "[TS_1020909]_Previous"
-        },
-        {
-            "name": "next_arrow_accessibility_text",
-            "value": "[TS_1020910]_Next"
+            "name":"camera_use_continue",
+            "value":"[TS_1039723]_Continue"
         },
         {
             "name":"increase_used_for_accessibility_text",
@@ -554,143 +546,243 @@
         },
         {
             "name":"reduce_used_for_accessibility_text",
-            "value":"[TS_1016429]_reduce"
+            "value":"[TS_1016429]_Decrease"
         },
         {
             "name":"increase_counter_double_click_description",
-            "value":"[TS_1020531]_Double-click with one finger to excute,Double-click and hold on can last increase"
+            "value":"[TS_1020533]_Double tap to activate, double tap and hold to repeatedly increase"
         },
         {
             "name":"reduce_counter_double_click_description",
-            "value":"[TS_1020533]_Double-click with one finger to excute,Double-click and hold on can last reduce"
+            "value":"[TS_1020531]_Double tap to activate, double tap and hold to repeatedly reduce"
         },
         {
-            "name": "First_counter_accessibility_text",
-            "value": "[TS_1039883]_First"
+            "name":"First_counter_accessibility_text",
+            "value":"[TS_1039883]_First"
         },
         {
-            "name": "Second_counter_accessibility_text",
-            "value": "[TS_1039885]_Second"
+            "name":"Second_counter_accessibility_text",
+            "value":"[TS_1039885]_Second"
         },
         {
-            "name": "Third_counter_accessibility_text",
-            "value": "[TS_1039867]_Third"
+            "name":"Third_counter_accessibility_text",
+            "value":"[TS_1039867]_Third"
         },
         {
-            "name": "Fourth_counter_accessibility_text",
-            "value": "[TS_1039872]_Fourth"
+            "name":"Fourth_counter_accessibility_text",
+            "value":"[TS_1039872]_Fourth"
         },
         {
-            "name": "Fifth_counter_accessibility_text",
-            "value": "[TS_1039879]_Fifth"
+            "name":"Fifth_counter_accessibility_text",
+            "value":"[TS_1039879]_Fifth"
         },
         {
-            "name": "Sixth_counter_accessibility_text",
-            "value": "[TS_1039882]_Sixth"
+            "name":"Sixth_counter_accessibility_text",
+            "value":"[TS_1039882]_Sixth"
         },
         {
-            "name": "Seventh_counter_accessibility_text",
-            "value": "[TS_1039865]_Seventh"
+            "name":"Seventh_counter_accessibility_text",
+            "value":"[TS_1039865]_Seventh"
         },
         {
-            "name": "Eighth_counter_accessibility_text",
-            "value": "[TS_1039881]_Eighth"
+            "name":"Eighth_counter_accessibility_text",
+            "value":"[TS_1039881]_Eighth"
         },
         {
-            "name": "Ninth_counter_accessibility_text",
-            "value": "[TS_1039875]_Ninth"
+            "name":"Ninth_counter_accessibility_text",
+            "value":"[TS_1039875]_Ninth"
         },
         {
-            "name": "Tenth_counter_accessibility_text",
-            "value": "[TS_1039859]_Tenth"
+            "name":"Tenth_counter_accessibility_text",
+            "value":"[TS_1039859]_Tenth"
         },
         {
-            "name": "Eleventh_counter_accessibility_text",
-            "value": "[TS_1039874]_Eleventh"
+            "name":"Eleventh_counter_accessibility_text",
+            "value":"[TS_1039874]_Eleventh"
         },
         {
-            "name": "Twelfth_counter_accessibility_text",
-            "value": "[TS_1039861]_Twelfth"
+            "name":"Twelfth_counter_accessibility_text",
+            "value":"[TS_1039861]_Twelfth"
         },
         {
-            "name": "Thirteenth_counter_accessibility_text",
-            "value": "[TS_1039878]_Thirteenth"
+            "name":"Thirteenth_counter_accessibility_text",
+            "value":"[TS_1039878]_Thirteenth"
         },
         {
-            "name": "Fourteenth_counter_accessibility_text",
-            "value": "[TS_1039869]_Fourteenth"
+            "name":"Fourteenth_counter_accessibility_text",
+            "value":"[TS_1039869]_Fourteenth"
         },
         {
-            "name": "Fifteenth_counter_accessibility_text",
-            "value": "[TS_1039876]_Fifteenth"
+            "name":"Fifteenth_counter_accessibility_text",
+            "value":"[TS_1039876]_Fifteenth"
         },
         {
-            "name": "Sixteenth_counter_accessibility_text",
-            "value": "[TS_1039862]_Sixteenth"
+            "name":"Sixteenth_counter_accessibility_text",
+            "value":"[TS_1039862]_Sixteenth"
         },
         {
-            "name": "Seventeenth_counter_accessibility_text",
-            "value": "[TS_1039860]_Seventeenth"
+            "name":"Seventeenth_counter_accessibility_text",
+            "value":"[TS_1039860]_Seventeenth"
         },
         {
-            "name": "Eighteenth_counter_accessibility_text",
-            "value": "[TS_1039889]_Eighteenth"
+            "name":"Eighteenth_counter_accessibility_text",
+            "value":"[TS_1039889]_Eighteenth"
         },
         {
-            "name": "Nineteenth_counter_accessibility_text",
-            "value": "[TS_1039871]_Nineteenth"
+            "name":"Nineteenth_counter_accessibility_text",
+            "value":"[TS_1039871]_Nineteenth"
         },
         {
-            "name": "Twentieth_counter_accessibility_text",
-            "value": "[TS_1039864]_Twentieth"
+            "name":"Twentieth_counter_accessibility_text",
+            "value":"[TS_1039864]_Twentieth"
         },
         {
-            "name": "TwentyFirst_counter_accessibility_text",
-            "value": "[TS_1039887]_Twenty-first"
+            "name":"TwentyFirst_counter_accessibility_text",
+            "value":"[TS_1039887]_Twenty-first"
         },
         {
-            "name": "TwentySecond_counter_accessibility_text",
-            "value": "[TS_1039888]_Twenty-second"
+            "name":"TwentySecond_counter_accessibility_text",
+            "value":"[TS_1039888]_Twenty-second"
         },
         {
-            "name": "TwentyThird_counter_accessibility_text",
-            "value": "[TS_1039880]_Twenty-third"
+            "name":"TwentyThird_counter_accessibility_text",
+            "value":"[TS_1039880]_Twenty-third"
         },
         {
-            "name": "TwentyFourth_counter_accessibility_text",
-            "value": "[TS_1039870]_Twenty-fourth"
+            "name":"TwentyFourth_counter_accessibility_text",
+            "value":"[TS_1039870]_Twenty-fourth"
         },
         {
-            "name": "TwentyFifth_counter_accessibility_text",
-            "value": "[TS_1039868]_Twenty-fifth"
+            "name":"TwentyFifth_counter_accessibility_text",
+            "value":"[TS_1039868]_Twenty-fifth"
         },
         {
-            "name": "TwentySixth_counter_accessibility_text",
-            "value": "[TS_1039884]_Twenty-sixth"
+            "name":"TwentySixth_counter_accessibility_text",
+            "value":"[TS_1039884]_Twenty-sixth"
         },
         {
-            "name": "TwentySeventh_counter_accessibility_text",
-            "value": "[TS_1039873]_Twenty-seventh"
+            "name":"TwentySeventh_counter_accessibility_text",
+            "value":"[TS_1039873]_Twenty-seventh"
         },
         {
-            "name": "TwentyEighth_counter_accessibility_text",
-            "value": "[TS_1039886]_Twenty-eighth"
+            "name":"TwentyEighth_counter_accessibility_text",
+            "value":"[TS_1039886]_Twenty-eighth"
         },
         {
-            "name": "TwentyNinth_counter_accessibility_text",
-            "value": "[TS_1039863]_Twenty-ninth"
+            "name":"TwentyNinth_counter_accessibility_text",
+            "value":"[TS_1039863]_Twenty-ninth"
         },
         {
-            "name": "Thirtieth_counter_accessibility_text",
-            "value": "[TS_1039866]_Thirtieth"
+            "name":"Thirtieth_counter_accessibility_text",
+            "value":"[TS_1039866]_Thirtieth"
         },
         {
-            "name": "ThirtyFirst_counter_accessibility_text",
-            "value": "[TS_1039877]_Thirty-first"
+            "name":"ThirtyFirst_counter_accessibility_text",
+            "value":"[TS_1039877]_Thirty-first"
         },
         {
-            "name": "input_counter_double_click_description",
-            "value": "[TS_1031673]_Double tap to enter content"
+            "name":"input_counter_double_click_description",
+            "value":"[TS_1031673]_Double tap to enter content"
+        },
+        {
+            "name":"prev_arrow_accessibility_text",
+            "value":"[TS_1020909]_Previous"
+        },
+        {
+            "name":"next_arrow_accessibility_text",
+            "value":"[TS_1020910]_Next"
+        },
+        {
+            "name":"off_used_for_accessibility_text",
+            "value":"[TS_1044457]_Close"
+        },
+        {
+            "name":"general_copy",
+            "value":"[TS_960040]_Copy"
+        },
+        {
+            "name":"general_start",
+            "value":"[TS_960050]_Start"
+        },
+        {
+            "name":"general_more",
+            "value":"[TS_960417]_More"
+        },
+        {
+            "name":"navigation_back",
+            "value":"[TS_1053473]_Back"
+        },
+        {
+            "name":"general_cancel",
+            "value":"[TS_960414]_Cancel"
+        },
+        {
+            "name":"general_display_lunar_calendar",
+            "value":"[TS_960047]_Show lunar calendar"
+        },
+        {
+            "name":"sheet_close",
+            "value":"[TS_1053474]_Close"
+        },
+        {
+            "name":"general_select_all",
+            "value":"[TS_960027]_Select all"
+        },
+        {
+            "name":"stepper_back",
+            "value":"[TS_960418]_Back"
+        },
+        {
+            "name":"general_cut",
+            "value":"[TS_960049]_Cut"
+        },
+        {
+            "name":"general_confirm",
+            "value":"[TS_960029]_OK"
+        },
+        {
+            "name":"general_skip",
+            "value":"[TS_960044]_Skip"
+        },
+        {
+            "name":"last_updated_time",
+            "value":"[TS_960054]_Last updated: %s"
+        },
+        {
+            "name":"general_close",
+            "value":"[TS_960042]_Off"
+        },
+        {
+            "name":"general_paste",
+            "value":"[TS_960416]_Paste"
+        },
+        {
+            "name":"general_open",
+            "value":"[TS_960025]_On"
+        },
+        {
+            "name":"stepper_next",
+            "value":"[TS_960415]_Next"
+        },
+        {
+            "name":"general_share",
+            "value":"[TS_960028]_Share"
+        },
+        {
+            "name":"general_window_right_screen",
+            "value":"[TS_960033]_Show on right"
+        },
+        {
+            "name":"general_next_step",
+            "value":"[TS_960039]_Next"
+        },
+        {
+            "name":"general_translate",
+            "value":"[TS_960052]_Translate"
+        },
+        {
+            "name":"general_last_step",
+            "value":"[TS_960026]_Previous"
         },
         {
             "name":"arkui_app_bar_close",
@@ -699,98 +791,6 @@
         {
             "name":"arkui_app_bar_service_panel",
             "value":"[TS_1048138]_Service panel"
-        },
-        {
-            "name":"off_used_for_accessibility_text",
-            "value":"[TS_1044457]_Close"
-        },
-        {
-            "name": "general_copy",
-            "value": "[TS_960040]_Copy"
-        },
-        {
-            "name": "general_start",
-            "value": "[TS_960050]_Start"
-        },
-        {
-            "name": "general_more",
-            "value": "[TS_960417]_More"
-        },
-        {
-            "name": "navigation_back",
-            "value": "[TS_1053473]_Back"
-        },
-        {
-            "name": "general_cancel",
-            "value": "[TS_960414]_Cancel"
-        },
-        {
-            "name": "general_display_lunar_calendar",
-            "value": "[TS_960047]_Show lunar calendar"
-        },
-        {
-            "name": "sheet_close",
-            "value": "[TS_1053474]_Close"
-        },
-        {
-            "name": "general_select_all",
-            "value": "[TS_960027]_Select all"
-        },
-        {
-            "name": "stepper_back",
-            "value": "[TS_960418]_Back"
-        },
-        {
-            "name": "general_cut",
-            "value": "[TS_960049]_Cut"
-        },
-        {
-            "name": "general_confirm",
-            "value": "[TS_960029]_OK"
-        },
-        {
-            "name": "general_skip",
-            "value": "[TS_960044]_Skip"
-        },
-        {
-            "name": "last_updated_time",
-            "value": "[TS_960054]_Last updated: %s"
-        },
-        {
-            "name": "general_close",
-            "value": "[TS_960042]_Off"
-        },
-        {
-            "name": "general_paste",
-            "value": "[TS_960416]_Paste"
-        },
-        {
-            "name": "general_open",
-            "value": "[TS_960025]_On"
-        },
-        {
-            "name": "stepper_next",
-            "value": "[TS_960415]_Next"
-        },
-        {
-            "name": "general_share",
-            "value": "[TS_960028]_Share"
-        },
-        {
-            "name": "general_window_right_screen",
-            "value": "[TS_960033]_Show on right"
-        },
-        {
-            "name": "general_next_step",
-            "value": "[TS_960039]_Next"
-        },
-        {
-            "name": "general_translate",
-            "value": "[TS_960052]_Translate"
-        },
-        {
-            "name": "general_last_step",
-            "value": "[TS_960026]_Previous"
         },
         {
             "name":"arkui_app_bar_maximize",
@@ -805,12 +805,12 @@
             "value":"[TS_1045861]_Download complete (%s)"
         },
         {
-            "name": "form_disable_app_locked",
-            "value": "[TS_1063977]_App is locked"
+            "name":"form_disable_app_locked",
+            "value":"[TS_1063977]_App is locked"
         },
         {
-            "name": "arkui_app_bar_provide_service",
-            "value": "[TS_1062454]_Service provided by %s"
+            "name":"arkui_app_bar_provide_service",
+            "value":"[TS_1062454]_Service provided by %s"
         },
         {
             "name":"arkui_app_bar_privacy_authorize",
@@ -887,6 +887,838 @@
         {
             "name":"general_ai_link_title",
             "value":"[TS_1119975]_URL"
+        },
+        {
+            "name":"ohos_network_not_connected",
+            "value":"[TS_915167]_No Internet connection"
+        },
+        {
+            "name":"ohos_lab_location",
+            "value":"[TS_915224]_Obtain the device location in foreground"
+        },
+        {
+            "name":"ohos_lab_publish_agent_reminder",
+            "value":"[TS_915273]_Agent-powered reminder"
+        },
+        {
+            "name":"ohos_lab_read_media",
+            "value":"[TS_915225]_Read media files"
+        },
+        {
+            "name":"ohos_desc_get_telephony_state",
+            "value":"[TS_915188]_Allows an application to access telephony information, including the phone number, device ID, voice mailbox, IMEI, and ICCID."
+        },
+        {
+            "name":"ohos_desc_manage_local_accounts",
+            "value":"[TS_915308]_Allows an application to add, delete, modify, and query local accounts."
+        },
+        {
+            "name":"document",
+            "value":"[TS_1141865]_Document"
+        },
+        {
+            "name":"ohos_lab_manage_local_accounts",
+            "value":"[TS_915124]_Manage local accounts"
+        },
+        {
+            "name":"ohos_desc_control_task_sync_animator",
+            "value":"[TS_915146]_Allows an application to use sync task animations."
+        },
+        {
+            "name":"tips_double_border_enable_default",
+            "value":"[TS_1048996]_1"
+        },
+        {
+            "name":"summary_closed_beauty",
+            "value":"[TS_1019107]_Beauty mode turned off."
+        },
+        {
+            "name":"ohos_lab_read_call_log",
+            "value":"[TS_915133]_Read call logs"
+        },
+        {
+            "name":"ohos_id_divider_shadow_enable_default",
+            "value":"[TS_915215]_0"
+        },
+        {
+            "name":"ohos_show_password_directly",
+            "value":"[TS_915189]_0"
+        },
+        {
+            "name":"ohos_desc_write_imagevideo",
+            "value":"[TS_915212]_Create, modify or delete images & videos"
+        },
+        {
+            "name":"ohos_desc_modify_audio_settings",
+            "value":"[TS_915290]_Allows an application to enable or disable the audio playback channel."
+        },
+        {
+            "name":"ohos_desc_answer_call",
+            "value":"[TS_915288]_Allows an application to answer incoming calls."
+        },
+        {
+            "name":"ohos_lab_custom_screen_capture",
+            "value":"[TS_988714]_Allows an application to capture screen information"
+        },
+        {
+            "name":"ohos_lab_app_tracking_consent",
+            "value":"[TS_915175]_App tracking consent."
+        },
+        {
+            "name":"ohos_set_network",
+            "value":"[TS_915236]_Network settings"
+        },
+        {
+            "name":"ohos_lab_location_in_background",
+            "value":"[TS_915160]_Obtain the device location in background"
+        },
+        {
+            "name":"res_menu_search_is_support",
+            "value":"[TS_1011468]_0"
+        },
+        {
+            "name":"textfield_accessibility_hide_password",
+            "value":"[TS_946445]_Don't show password"
+        },
+        {
+            "name":"ohos_lab_commonevent_sticky",
+            "value":"[TS_915156]_Sticky common events"
+        },
+        {
+            "name":"ohos_desc_interact_across_local_accounts_extension",
+            "value":"[TS_915135]_Allows an application to set the attributes of applications of other users."
+        },
+        {
+            "name":"ohos_lab_modify_audio_settings",
+            "value":"[TS_915173]_Play audio"
+        },
+        {
+            "name":"ohos_desc_place_call",
+            "value":"[TS_915136]_Allows an application to make calls without starting the dialer."
+        },
+        {
+            "name":"ohos_lab_get_phone_numbers",
+            "value":"[TS_915271]_Read MSISDN of SIM card"
+        },
+        {
+            "name":"ohos_lab_read_cell_messages",
+            "value":"[TS_915230]_Read cell broadcast messages"
+        },
+        {
+            "name":"ohos_lab_write_document",
+            "value":"[TS_915244]_Documents"
+        },
+        {
+            "name":"ohos_unstable_connect_server",
+            "value":"[TS_915303]_Unable to connect to the serve. Touch to try again."
+        },
+        {
+            "name":"ohos_lab_control_task_sync_animator",
+            "value":"[TS_915221]_Sync task animation"
+        },
+        {
+            "name":"taking_photos",
+            "value":"[TS_1141867]_Taking photos"
+        },
+        {
+            "name":"ohos_id_day_font_weight",
+            "value":"[TS_915301]_500"
+        },
+        {
+            "name":"ohos_desc_timeout_screenoff_disable_lock",
+            "value":"[TS_1135588]_With this permission, the application prevents the device from locking by default when the screen turns off after a timeout."
+        },
+        {
+            "name":"ohos_desc_receive_mms",
+            "value":"[TS_915145]_Allows an application to receive MMS messages."
+        },
+        {
+            "name":"summary_opened_beauty",
+            "value":"[TS_1019106]_Beauty mode turned on."
+        },
+        {
+            "name":"textfield_has_showed_password",
+            "value":"[TS_964115]_Password visible"
+        },
+        {
+            "name":"res_menu_translate_is_support",
+            "value":"[TS_1021877]_0"
+        },
+        {
+            "name":"ohos_desc_set_time",
+            "value":"[TS_915199]_Allows an application to set the system time."
+        },
+        {
+            "name":"res_writting_tool_bundle_name",
+            "value":"[TS_974366]_com.huawei.hmos.vassistant"
+        },
+        {
+            "name":"ohos_lab_notification_controller",
+            "value":"[TS_915274]_System interfaces"
+        },
+        {
+            "name":"ohos_desc_short_term_write_imagevideo",
+            "value":"[TS_968443]_This permission applies to the following scenarios: 1. The application, for example, an H5 web application, cannot use the SaveButton security component. 2. The application needs to save images or videos multiple times consecutively and cannot save all the images or videos at a time in a save confirmation dialog box."
+        },
+        {
+            "name":"ohos_desc_read_imagevideo",
+            "value":"[TS_915306]_Read images & videos"
+        },
+        {
+            "name":"text_overlay_menu_copy",
+            "value":"[TS_1011914]_Ctrl+C"
+        },
+        {
+            "name":"ohos_id_text_font_family_regular",
+            "value":"[TS_915177]_sans-serif"
+        },
+        {
+            "name":"ohos_desc_accelerometer",
+            "value":"[TS_915267]_Allows an application to read data from an acceleration sensor."
+        },
+        {
+            "name":"ohos_desc_access_biometric",
+            "value":"[TS_915162]_Allows an application to use biometric features for authentication."
+        },
+        {
+            "name":"ohos_id_work_state_font_weight",
+            "value":"[TS_915309]_400"
+        },
+        {
+            "name":"ohos_lab_set_network_info",
+            "value":"[TS_915289]_Set data network"
+        },
+        {
+            "name":"ohos_lab_send_messages",
+            "value":"[TS_915122]_Send SMS/MMS messages"
+        },
+        {
+            "name":"ohos_id_text_fadeout_enable_default",
+            "value":"[TS_915245]_false"
+        },
+        {
+            "name":"ohos_lab_access_bluetooth",
+            "value":"[TS_915275]_Allow to access and use bluetooth capabilities"
+        },
+        {
+            "name":"ohos_desc_manage_voicemail",
+            "value":"[TS_915242]_Allows an application to manage the voice mailbox."
+        },
+        {
+            "name":"ohos_lab_set_time_zone",
+            "value":"[TS_915277]_Set the system time zone"
+        },
+        {
+            "name":"ohos_desc_get_installed_bundle_list",
+            "value":"[TS_915227]_Allows an application to get the installed bundle list."
+        },
+        {
+            "name":"title_adjust_beauty",
+            "value":"[TS_1019103]_Beauty mode for video calls"
+        },
+        {
+            "name":"ohos_lab_answer_call",
+            "value":"[TS_915217]_Answer phone calls"
+        },
+        {
+            "name":"ohos_desc_reset_biometric_lockout",
+            "value":"[TS_915182]_Allows an application to reset the maximum number of failures allowed before biometric feature authentication is locked."
+        },
+        {
+            "name":"ohos_lab_bundle_active_info",
+            "value":"[TS_915278]_Query application running time"
+        },
+        {
+            "name":"textfield_accessibility_property_clear",
+            "value":"[TS_946446]_Clear, button"
+        },
+        {
+            "name":"ohos_lab_place_call",
+            "value":"[TS_915196]_Make calls"
+        },
+        {
+            "name":"ohos_lab_write_media",
+            "value":"[TS_915256]_Read and write media files"
+        },
+        {
+            "name":"ohos_lab_access_nearlink",
+            "value":"[TS_915211]_Allow to access and use nearlink capabilities"
+        },
+        {
+            "name":"ohos_lab_write_whole_calendar",
+            "value":"[TS_915147]_Create, modify, and delete all calendar data"
+        },
+        {
+            "name":"ohos_lab_read_audio",
+            "value":"[TS_915240]_Audios"
+        },
+        {
+            "name":"ohos_lab_download_session_manager",
+            "value":"[TS_915304]_Manage download sessions"
+        },
+        {
+            "name":"ohos_desc_read_pasteboard",
+            "value":"[TS_915279]_Allows an application to read pasteboard"
+        },
+        {
+            "name":"ohos_lab_read_messages",
+            "value":"[TS_915204]_Read SMS/MMS messages"
+        },
+        {
+            "name":"ohos_lab_vibrate",
+            "value":"[TS_915223]_Vibrate"
+        },
+        {
+            "name":"taking_photos_or_videos",
+            "value":"[TS_1141866]_Taking photos or videos"
+        },
+        {
+            "name":"ohos_desc_read_calendar",
+            "value":"[TS_915137]_Allows an application to read calendar information."
+        },
+        {
+            "name":"ohos_id_multiple_dialog_display",
+            "value":"[TS_915194]_stack"
+        },
+        {
+            "name":"ohos_desc_internet",
+            "value":"[TS_915129]_Allows an application to access the Internet."
+        },
+        {
+            "name":"ohos_lab_connect_ime_ability",
+            "value":"[TS_915234]_Bind to the input method framework"
+        },
+        {
+            "name":"ohos_desc_microphone",
+            "value":"[TS_915266]_Allows an application to enable or disable the audio recording channel."
+        },
+        {
+            "name":"ohos_drawable_descriptor_path",
+            "value":"[TS_915169]_M54.38,0h83.24c18.91,0,25.77,1.97,32.68,5.67,6.91,3.7,12.34,9.12,16.03,16.03,3.7,6.91,5.67,13.77,5.67,32.68v83.24c0,18.91-1.97,25.77-5.67,32.68-3.7,6.91-9.12,12.34-16.03,16.03s-13.77,5.67-32.68,5.67H54.38c-18.91,0-25.77-1.97-32.68-5.67-6.91-3.7-12.34-9.12-16.03-16.03-3.7-6.91-5.67-13.77-5.67-32.68V54.38C0,35.47,1.97,28.61,5.67,21.7c3.7-6.91,9.12-12.34,16.03-16.03C28.61,1.97,35.47,0,54.38,0h0Z"
+        },
+        {
+            "name":"ohos_lab_read_write_download_directory",
+            "value":"[TS_915125]_Read Write Download Directory"
+        },
+        {
+            "name":"ohos_desc_write_media",
+            "value":"[TS_915179]_Allows an application to read and write media files, such as video and audio clips and images."
+        },
+        {
+            "name":"textfield_show_password_button",
+            "value":"[TS_964117]_Show password, button"
+        },
+        {
+            "name":"ohos_desc_read_write_download_directory",
+            "value":"[TS_915168]_Allows the application to access the Download directory in the public directory"
+        },
+        {
+            "name":"ohos_lab_gyroscope",
+            "value":"[TS_915132]_Read gyroscope sensor data"
+        },
+        {
+            "name":"ohos_desc_set_time_zone",
+            "value":"[TS_915164]_Allows an application to set the system time zone."
+        },
+        {
+            "name":"text_overlay_menu_paste",
+            "value":"[TS_1011913]_Ctrl+V"
+        },
+        {
+            "name":"ohos_desc_write_contacts",
+            "value":"[TS_915231]_Allows an application to add, modify, and delete Contacts."
+        },
+        {
+            "name":"ohos_lab_accelerometer",
+            "value":"[TS_915269]_Read acceleration sensor data"
+        },
+        {
+            "name":"ohos_id_text_font_family_medium",
+            "value":"[TS_915166]_HwChinese-medium"
+        },
+        {
+            "name":"ohos_lab_receive_sms",
+            "value":"[TS_915143]_Receive SMS messages"
+        },
+        {
+            "name":"ohos_desc_write_audio",
+            "value":"[TS_915305]_Create, modify or delete audios"
+        },
+        {
+            "name":"ohos_lab_write_imagevideo",
+            "value":"[TS_915280]_Images & videos"
+        },
+        {
+            "name":"ohos_desc_read_document",
+            "value":"[TS_915216]_Read documents"
+        },
+        {
+            "name":"textfield_hide_password_button",
+            "value":"[TS_964118]_Hide password, button"
+        },
+        {
+            "name":"ohos_textfield_show_handle",
+            "value":"[TS_915139]_0"
+        },
+        {
+            "name":"ohos_desc_connect_ime_ability",
+            "value":"[TS_915270]_Allows an application to be invoked by the input method framework."
+        },
+        {
+            "name":"ohos_desc_notification_controller",
+            "value":"[TS_915213]_Allows an application to use notification management interfaces."
+        },
+        {
+            "name":"ohos_id_calendar_picker_dialog_divider_transparent",
+            "value":"[TS_930565]_false"
+        },
+        {
+            "name":"ohos_lab_read_write_desktop_directory",
+            "value":"[TS_915148]_Read Write Desktop Directory"
+        },
+        {
+            "name":"ohos_lab_internet",
+            "value":"[TS_915286]_Access Internet"
+        },
+        {
+            "name":"ohos_id_sheet_type",
+            "value":"[TS_915151]_auto"
+        },
+        {
+            "name":"ohos_desc_distributed_datasync",
+            "value":"[TS_915258]_Allows a background application to obtain the device location."
+        },
+        {
+            "name":"menu_normal_layout",
+            "value":"[TS_934947]_1"
+        },
+        {
+            "name":"menu_focus_directional_key_enable_default",
+            "value":"[TS_999369]_0"
+        },
+        {
+            "name":"ohos_custom_network_tips_left",
+            "value":"[TS_915272]_Unable to get location. Touch to try again."
+        },
+        {
+            "name":"ohos_desc_location",
+            "value":"[TS_915184]_Allows a foreground application to obtain the device location."
+        },
+        {
+            "name":"ohos_lab_get_installed_bundle_list",
+            "value":"[TS_915295]_Get the installed bundle list."
+        },
+        {
+            "name":"ohos_desc_media_location",
+            "value":"[TS_915298]_Allows an application to read the location where a photo is taken, such as the longitude and latitude."
+        },
+        {
+            "name":"ohos_id_menu_bg_blur_effect_enable_default",
+            "value":"[TS_915307]_0"
+        },
+        {
+            "name":"text_overlay_menu_select_all",
+            "value":"[TS_1011912]_Ctrl+A"
+        },
+        {
+            "name":"ohos_lab_set_telephony_state",
+            "value":"[TS_915214]_Set telephony state"
+        },
+        {
+            "name":"ohos_lab_read_pasteboard",
+            "value":"[TS_915239]_Read pasteboard"
+        },
+        {
+            "name":"text_overlay_menu_more_accessibility_text",
+            "value":"[TS_1066725]_More"
+        },
+        {
+            "name":"text_overlay_menu_back_accessibility_text",
+            "value":"[TS_1066724]_Back"
+        },
+        {
+            "name":"ohos_lab_set_time",
+            "value":"[TS_915193]_Set the system time"
+        },
+        {
+            "name":"ohos_desc_set_network_info",
+            "value":"[TS_915197]_Allows an application to set data network information."
+        },
+        {
+            "name":"ohos_desc_access_nearlink",
+            "value":"[TS_915208]_Allow to access and use nearlink capabilities, such as discovering remote devices, pairing with remote nearlink devices, and connecting to remote nearlink devices, and broadcasting and scanning functions"
+        },
+        {
+            "name":"ohos_lab_manage_voicemail",
+            "value":"[TS_915121]_Manage the voice mailbox"
+        },
+        {
+            "name":"ohos_lab_interact_across_local_accounts",
+            "value":"[TS_915294]_Multi-account mutual access"
+        },
+        {
+            "name":"ohos_desc_app_tracking_consent",
+            "value":"[TS_915296]_Allows an application to access the open advertising identifier."
+        },
+        {
+            "name":"choose_to_upload",
+            "value":"[TS_1141864]_Choose to upload"
+        },
+        {
+            "name":"ohos_lab_write_audio",
+            "value":"[TS_915191]_Audios"
+        },
+        {
+            "name":"ohos_desc_read_call_log",
+            "value":"[TS_915237]_Allows an application to read call logs."
+        },
+        {
+            "name":"textfield_accessibility_clear",
+            "value":"[TS_967513]_Clear"
+        },
+        {
+            "name":"ohos_lab_approximately_location",
+            "value":"[TS_915163]_Obtain the device approximately location"
+        },
+        {
+            "name":"ohos_desc_get_phone_numbers",
+            "value":"[TS_915228]_Allows an application to access MSISDN of SIM card"
+        },
+        {
+            "name":"ohos_lab_interact_across_local_accounts_extension",
+            "value":"[TS_915255]_Multi-account access extension"
+        },
+        {
+            "name":"ohos_desc_read_write_documents_directory",
+            "value":"[TS_915185]_Allow the application to access the Documents directory in the public directory"
+        },
+        {
+            "name":"open_beauty",
+            "value":"[TS_1019105]_Enable beauty"
+        },
+        {
+            "name":"video_recording",
+            "value":"[TS_1141869]_Video recording"
+        },
+        {
+            "name":"close_beauty",
+            "value":"[TS_1019104]_Disable beauty"
+        },
+        {
+            "name":"ohos_id_list_fadeout_enable_default",
+            "value":"[TS_915123]_false"
+        },
+        {
+            "name":"ohos_desc_get_network_info",
+            "value":"[TS_915262]_Allows an application to obtain network information."
+        },
+        {
+            "name":"ohos_desc_read_messages",
+            "value":"[TS_915209]_Allows an application to read SMS/MMS messages."
+        },
+        {
+            "name":"textfield_accessibility_show_password",
+            "value":"[TS_942360]_Show password"
+        },
+        {
+            "name":"ohos_id_expand_display",
+            "value":"[TS_915154]_false"
+        },
+        {
+            "name":"res_writting_tool_is_support",
+            "value":"[TS_974368]_false"
+        },
+        {
+            "name":"ohos_id_section_unfocus_effect_enable_default",
+            "value":"[TS_915252]_0"
+        },
+        {
+            "name":"ohos_desc_camera",
+            "value":"[TS_915259]_Allows an application to take photos and shoot videos."
+        },
+        {
+            "name":"ohos_lab_get_wallpaper",
+            "value":"[TS_915131]_Read wallpaper files"
+        },
+        {
+            "name":"ohos_desc_read_write_desktop_directory",
+            "value":"[TS_915260]_Allow the application to access the Desktop directory in the public directory"
+        },
+        {
+            "name":"ohos_desc_receive_wap_messages",
+            "value":"[TS_915195]_Allows an application to receive WAP messages."
+        },
+        {
+            "name":"ohos_desc_commonevent_sticky",
+            "value":"[TS_915150]_Allows an application to publish sticky common events."
+        },
+        {
+            "name":"ohos_desc_download_session_manager",
+            "value":"[TS_915226]_Allows an application to manage download sessions."
+        },
+        {
+            "name":"textinput_text_counter",
+            "value":"[TS_1127023]_%1$d/%2$d"
+        },
+        {
+            "name":"ohos_lab_access_biometric_internal",
+            "value":"[TS_915219]_Biometric feature authentication for system applications"
+        },
+        {
+            "name":"ohos_desc_bundle_active_info",
+            "value":"[TS_915210]_Allows a system application or privileged application to obtain how long other applications have been running in the foreground or background."
+        },
+        {
+            "name":"ohos_desc_read_cell_messages",
+            "value":"[TS_915171]_Allows an application to read cell broadcast messages received by the device."
+        },
+        {
+            "name":"ohos_desc_access_biometric_internal",
+            "value":"[TS_915268]_Allows a system application to use biometric features for authentication."
+        },
+        {
+            "name":"ohos_id_popup_double_border_enable_default",
+            "value":"[TS_915297]_0"
+        },
+        {
+            "name":"ohos_lab_read_document",
+            "value":"[TS_915250]_Documents"
+        },
+        {
+            "name":"ohos_lab_enroll_biometric",
+            "value":"[TS_915264]_Manage biological features"
+        },
+        {
+            "name":"ohos_desc_read_health_data",
+            "value":"[TS_915127]_Allows an application to read the health data of the user."
+        },
+        {
+            "name":"ohos_desc_access_bluetooth",
+            "value":"[TS_915190]_Allow to access and use bluetooth capabilities, such as discovering remote devices, pairing with remote bluetooth devices, and connecting to remote bluetooth devices, and broadcasting and scanning functions of bluetooth Low Energy"
+        },
+        {
+            "name":"ohos_desc_gyroscope",
+            "value":"[TS_915180]_Allows an application to read data from a gyroscope sensor."
+        },
+        {
+            "name":"ohos_lab_distributed_datasync",
+            "value":"[TS_915249]_Obtain the device location"
+        },
+        {
+            "name":"ohos_desc_read_media",
+            "value":"[TS_915153]_Allows an application to read media files, such as video and audio clips and images."
+        },
+        {
+            "name":"ohos_lab_microphone",
+            "value":"[TS_915181]_Record audio"
+        },
+        {
+            "name":"ohos_desc_write_call_log",
+            "value":"[TS_915207]_Allows an application to add, modify, and delete call logs."
+        },
+        {
+            "name":"ohos_lab_set_wallpaper",
+            "value":"[TS_915263]_Set static wallpapers"
+        },
+        {
+            "name":"text_overlay_menu_cut",
+            "value":"[TS_1011915]_Ctrl+X"
+        },
+        {
+            "name":"ohos_lab_timeout_screenoff_disable_lock",
+            "value":"[TS_1135589]_Allows an application to turn off the screen but keep it unlocked after a timeout."
+        },
+        {
+            "name":"ohos_lab_write_call_log",
+            "value":"[TS_915140]_Add/Modify/Delete call logs"
+        },
+        {
+            "name":"ohos_desc_write_document",
+            "value":"[TS_915201]_Create, modify or delete documents"
+        },
+        {
+            "name":"ohos_lab_activity_motion",
+            "value":"[TS_915299]_Read workout status"
+        },
+        {
+            "name":"textfield_show_password",
+            "value":"[TS_964116]_Show password"
+        },
+        {
+            "name":"menu_animation_curve",
+            "value":"[TS_1077917]_fast_out_slow_in"
+        },
+        {
+            "name":"ohos_desc_set_telephony_state",
+            "value":"[TS_915241]_Allows an application to set the telephony state, for example, to enable or disable the airplane mode, and change the network mode."
+        },
+        {
+            "name":"ohos_network_connected_unstable",
+            "value":"[TS_915159]_Poornetwork connection. Touch to try again."
+        },
+        {
+            "name":"ohos_lab_get_telephony_state",
+            "value":"[TS_915300]_Read telephony information"
+        },
+        {
+            "name":"ohos_lab_read_imagevideo",
+            "value":"[TS_915276]_Images & videos"
+        },
+        {
+            "name":"ohos_desc_location_in_background",
+            "value":"[TS_915287]_Allows a background application to obtain the device location."
+        },
+        {
+            "name":"ohos_lab_receive_wap_messages",
+            "value":"[TS_915141]_Receive WAP messages"
+        },
+        {
+            "name":"menu_normal_placement",
+            "value":"[TS_934945]_1"
+        },
+        {
+            "name":"ohos_id_sheet_bottom",
+            "value":"[TS_928991]_auto"
+        },
+        {
+            "name":"ohos_lab_access_biometric",
+            "value":"[TS_915155]_Biometric feature authentication"
+        },
+        {
+            "name":"ohos_lab_receive_mms",
+            "value":"[TS_915200]_Receive MMS messages"
+        },
+        {
+            "name":"ohos_lab_read_write_documents_directory",
+            "value":"[TS_915292]_Read Write Documents Directory"
+        },
+        {
+            "name":"ohos_id_calendar_picker_dialog_button_transparent",
+            "value":"[TS_930564]_true"
+        },
+        {
+            "name":"ohos_desc_receive_sms",
+            "value":"[TS_915251]_Allows an application to receive SMS messages."
+        },
+        {
+            "name":"ohos_id_draggable_default",
+            "value":"[TS_915285]_0"
+        },
+        {
+            "name":"ohos_lab_read_whole_calendar",
+            "value":"[TS_915134]_Read all calendar data"
+        },
+        {
+            "name":"general_window_left_screen",
+            "value":"[TS_960045]_Show on left"
+        },
+        {
+            "name":"ohos_desc_approximately_location",
+            "value":"[TS_915172]_Allows a application to obtain the device approximately location."
+        },
+        {
+            "name":"ohos_desc_enroll_biometric",
+            "value":"[TS_915170]_Allows an application to manage biometrical features."
+        },
+        {
+            "name":"gallery",
+            "value":"[TS_1141868]_Gallery"
+        },
+        {
+            "name":"textfield_hide_password",
+            "value":"[TS_964119]_Hide password"
+        },
+        {
+            "name":"ohos_lab_read_health_data",
+            "value":"[TS_915205]_Read health data"
+        },
+        {
+            "name":"res_writting_tool_ability_name",
+            "value":"[TS_974367]_AiofficeAbility"
+        },
+        {
+            "name":"ohos_desc_interact_across_local_accounts",
+            "value":"[TS_915157]_Allows an application to access accounts of other applications."
+        },
+        {
+            "name":"ohos_desc_send_messages",
+            "value":"[TS_915229]_Allows an application to send SMS/MMS messages."
+        },
+        {
+            "name":"ohos_desc_vibrate",
+            "value":"[TS_915174]_Allows an application to use the vibrator."
+        },
+        {
+            "name":"ohos_lab_short_term_write_imagevideo",
+            "value":"[TS_968442]_Allows an application to save images and videos to the user's directory within up to 30 minutes after obtaining the permission."
+        },
+        {
+            "name":"general_search",
+            "value":"[TS_960056]_Search"
+        },
+        {
+            "name":"ohos_lab_camera",
+            "value":"[TS_915233]_Take photos or shoot videos"
+        },
+        {
+            "name":"ohos_desc_read_audio",
+            "value":"[TS_915144]_Read audios"
+        },
+        {
+            "name":"ohos_desc_publish_agent_reminder",
+            "value":"[TS_915282]_Allows an application to use agent-powered reminders."
+        },
+        {
+            "name":"ohos_desc_read_contacts",
+            "value":"[TS_915238]_Allows an application to read Contacts."
+        },
+        {
+            "name":"ohos_lab_reset_biometric_lockout",
+            "value":"[TS_915293]_Reset the upper limit for biometric feature authentication failures"
+        },
+        {
+            "name":"ohos_id_menu_double_border_enable_default",
+            "value":"[TS_915265]_0"
+        },
+        {
+            "name":"due_control_form",
+            "value":"[TS_1137572]_Widget content unavailable. Wait for app update."
+        },
+        {
+            "name":"ohos_desc_set_wallpaper",
+            "value":"[TS_915138]_Allows an application to set a static wallpaper."
+        },
+        {
+            "name":"menu_back_blur",
+            "value":"[TS_934946]_1"
+        },
+        {
+            "name":"ohos_desc_custom_screen_capture",
+            "value":"[TS_988715]_With this permission, the application can perform operations such as taking screenshots and recording on-screen information. Currently, this permission is available only for applications running on tablets and 2-in-1 devices"
+        },
+        {
+            "name":"ohos_desc_write_calendar",
+            "value":"[TS_915161]_Allows an application to add, modify, and delete calendar events."
+        },
+        {
+            "name":"ohos_lab_get_network_info",
+            "value":"[TS_915126]_Read network information"
+        },
+        {
+            "name":"ohos_desc_activity_motion",
+            "value":"[TS_915284]_Allows an application to read the workout status of the user."
+        },
+        {
+            "name":"ohos_desc_get_wallpaper",
+            "value":"[TS_915243]_Allows an application to read wallpaper files."
+        },
+        {
+            "name":"ohos_id_menu_has_filter",
+            "value":"[TS_930563]_true"
+        },
+        {
+            "name":"textfield_has_hidden_password",
+            "value":"[TS_964114]_Password hidden"
         }
-  ]
+    ]
 }

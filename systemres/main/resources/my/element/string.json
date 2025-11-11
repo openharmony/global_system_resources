@@ -4,98 +4,98 @@
             "name":"ohos_id_text_save_button_description_save_image",
             "value":"ရုပ်ပုံ သိမ်းရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_save_all",
             "value":"အားလုံး သိမ်းရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download",
             "value":"ဒေါင်းလုဒ်လုပ်ရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_receive",
             "value":"သိမ်းရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_to_gallery",
             "value":"ပုံပြခန်းတွင် သိမ်းရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
             "value":"ပုံပြခန်းတွင် သိမ်းရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_file",
             "value":"ဖိုင် ဒေါင်းလုဒ်လုပ်ရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save",
             "value":"သိမ်းရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
             "value":"သိမ်းရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_file",
             "value":"ဖိုင် သိမ်းရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_paste_button_description_paste",
             "value":"ကူးထည့်ရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_and_share",
             "value":"ဒေါင်းလုဒ်လုပ်ပြီး ဝေမျှရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_continue_to_receive",
             "value":"သိမ်းရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_export_to_gallery",
             "value":"ထုတ်ရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -221,7 +221,7 @@
             "name":"request_agent_task_count",
             "value":"အောင်မြင်မှု- %1$d၊ မအောင်မြင်မှု- %2$d",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -234,6 +234,1462 @@
         {
             "name":"request_agent_download_complete",
             "value":"ဒေါင်းလုဒ် ပြီးဆုံးပါပြီ (%s)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_current_position",
+            "value":"လက်ရှိ တည်နေရာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_toolbar_more",
+            "value":"နောက်ထပ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_share",
+            "value":"ဝေမျှရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_file",
+            "value":"ဖိုင်ကို ဒေါင်းလုဒ်လုပ်နေဆဲ… (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_retry",
+            "value":"ပြက္ခဒိန် အက်ပ်ကို ထည့်သွင်းပြီး ထပ်ကြိုးစားကြည့်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pass_point",
+            "value":"အစက် %d နှင့် ချိတ်ဆက်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_lift_node",
+            "value":"%s ၊ ဆွဲရွှေ့နေသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_screen",
+            "value":"ထိပ်ပိုင်းတွင် ပြသရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value":"Row %1$d ၊ Column %2$d တွင် နေရာချထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"summary_closed_beauty",
+            "value":"အလှစနစ်ကို ပိတ်ထားသည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"ဘေးကင်းသော အဆင့်ကို ကျော်၍ အသံပမာဏ မြှင့်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_move_node_child",
+            "value":"%1$s ရှိ %2$dခုမြောက်သို့ ဆွဲရွှေ့ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_place_node_parent",
+            "value":"နေရာချထားသည်၊ %d ခုမြောက်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_subtitle_sort",
+            "value":"စီရန် ဆွဲရွှေ့ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_subtitle_add",
+            "value":"ပေါင်းထည့်ရန် နှိပ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"ကျယ်လောင်သံများကို အချိန်ကြာမြင့်စွာ နားထောင်ခြင်းသည် သင့်အကြားအာရုံကို ထိခိုက်စေနိုင်သည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sixth_counter_accessibility_text",
+            "value":"ခြောက်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_complete_button",
+            "value":"ပြီးပါပြီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"increase_used_for_accessibility_text",
+            "value":"တိုးမည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_title",
+            "value":"%s သည် စက်မျက်နှာပြင်ကို မှတ်တမ်းတင်နေပါသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_folded_node",
+            "value":"အကျဉ်းချုံ့ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sixteenth_counter_accessibility_text",
+            "value":"တစ်ဆယ့်ခြောက်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"အသံပမာဏကို မူလအတိုင်းပြန်ထားရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"input_counter_double_click_description",
+            "value":"အကြောင်းအရာ ထည့်သွင်းရန် နှစ်ချက်နှိပ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_cancel",
+            "value":"ပယ်ဖျက်မည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFirst_counter_accessibility_text",
+            "value":"နှစ်ဆယ့်တစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expand",
+            "value":"ဖြန့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_hide_password",
+            "value":"စကားဝှက် မပြပါနှင့်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_tue",
+            "value":"အင်္ဂါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expanded",
+            "value":"ဖြန့်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_open_map_app",
+            "value":"Petal Maps ဖြင့် လမ်းညွှန်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_close",
+            "value":"ပိတ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_write_menu_name",
+            "value":"Celia Writer",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_send_current_location",
+            "value":"လက်ရှိ တည်နေရာ ပေးပို့ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_move_node_parent",
+            "value":"%d ခုမြောက်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"off_used_for_accessibility_text",
+            "value":"ပိတ်မည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySecond_counter_accessibility_text",
+            "value":"နှစ်ဆယ့်နှစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_filters",
+            "value":"စစ်ထုတ်မှု",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Tenth_counter_accessibility_text",
+            "value":"တစ်ဆယ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"subheader_accessibility_title",
+            "value":"ခေါင်းစဉ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_calendar",
+            "value":"ပြက္ခဒိန်ကို ပြင်ဆင်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"summary_opened_beauty",
+            "value":"အလှစနစ်ကို ဖွင့်ထားသည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_url_open_browser_app",
+            "value":"HUAWEI Browser ဖြင့် ဖွင့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_add_form_to_desktop",
+            "value":"ပင်မ မျက်နှာပြင်တွင် ပေါင်းထည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_showed_password",
+            "value":"စကားဝှက် မြင်နိုင်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_item",
+            "value":"%s ၊ မှတ်သားထားသော အကြောင်းအရာဧရိယာတွင် ပေါင်းထည့်မထားပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Ninth_counter_accessibility_text",
+            "value":"ကိုး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_title_chanel",
+            "value":"အမျိုးအစားများ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_node_desc",
+            "value":"ရွေးချယ်ရန် နှစ်ချက်နှိပ်ပါ ၊နေရာစီစဉ်ထားမှုကို ပြောင်းရန် နှစ်ချက်နှိပ်ပြီး ဖိထားပါ၊ ထို့နောက် ဆွဲရွှေ့ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_eject_lab",
+            "value":"ကင်မရာကို ထုတ်၍ မရနိုင်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_right_screen",
+            "value":"ညာဘက်တွင် ပြသရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thirtieth_counter_accessibility_text",
+            "value":"သုံးဆယ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reduce_counter_double_click_description",
+            "value":"သက်ဝင်လုပ်ဆောင်ရန် နှစ်ချက်နှိပ်ပါ၊ ထပ်ကာထပ်ကာ လျှော့ချရန် နှစ်ချက်နှိပ်၍ ဖိထားပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"increase_counter_double_click_description",
+            "value":"သက်ဝင်လုပ်ဆောင်စေရန် နှစ်ချက်နှိပ်ပါ၊ ထပ်တလဲလဲ တိုးရန် နှစ်ချက်နှိပ်၍ ဖိထားပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_moveto_top_screen",
+            "value":"ထိပ်ဆုံးသို့ ရွှေ့ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_provide_service",
+            "value":"%s က ပံ့ပိုးပေးထားသည့် ဝန်ဆောင်မှု",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_location_title",
+            "value":"တည်နေရာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_contacts",
+            "value":"အဆက်အသွယ်များကို ဖန်တီးရန်၊ မွမ်းမံရန်နှင့် ဖျက်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value":"တည်းဖြတ်မှု စနစ်သို့ ဝင်ရောက်ရန် နှစ်ချက်နှိပ်ပြီး ဖိထားပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_left_screen",
+            "value":"ဘယ်ဘက် (အပေါ်) တွင် ပြသရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_link_title",
+            "value":"URL",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expand_desc",
+            "value":"ဖြန့်ရန် နှစ်ချက်နှိပ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_implement_node",
+            "value":"ပွင့်လာစေရန် နှစ်ချက်နှိပ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value":"Row %1$d ၊ Column %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"title_adjust_beauty",
+            "value":"ဗီဒီယိုခေါ်ဆိုမှုများအတွက် အလှစနစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_month",
+            "value":"ယခင်လ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_sun",
+            "value":"တနင်္ဂနွေ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_expand_node",
+            "value":"ဖြန့်ကားရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_property_clear",
+            "value":"ရှင်းလင်းရန်၊ ခလုတ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_feature_loud_volume_tittle",
+            "value":"အသံပမာဏ မြှင့်တင်မှု",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"အသံပမာဏကို အော်တိုလျှော့သည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fifth_counter_accessibility_text",
+            "value":"ငါး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thirteenth_counter_accessibility_text",
+            "value":"တစ်ဆယ့်သုံး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Third_counter_accessibility_text",
+            "value":"သုံး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value":"မှတ်သားထားသော အကြောင်းအရာဧရိယာ၊ အကြောင်းအရာ မရှိပါ၊ ထည့်ရန် အောက်ရှိအရာများကို နှိပ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_whole_calendar",
+            "value":"ပြက္ခဒိန် ဒေတာအားလုံးကို ဖန်တီးရန်၊ မွမ်းမံရန်နှင့် ဖျက်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_fold_node",
+            "value":"အကျဉ်းချုံ့မည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_year",
+            "value":"ယခင်နှစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value":"စီရန် နှစ်ချက်နှိပ်၍ ဖိထားပြီး ဆွဲယူပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFourth_counter_accessibility_text",
+            "value":"နှစ်ဆယ့်လေး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_maximize",
+            "value":"ချဲ့မည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Second_counter_accessibility_text",
+            "value":"နှစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_moveto_bottom_screen",
+            "value":"အောက်ခြေသို့ ရွှေ့ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_show_password_button",
+            "value":"စကားဝှက် ပြရန်၊ ခလုတ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_select_location",
+            "value":"တည်နေရာ ရွေးချယ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eighteenth_counter_accessibility_text",
+            "value":"တစ်ဆယ့်ရှစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_step",
+            "value":"ရှေ့သို့",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"advanced_dialog_accessibility_cancel_checked_desc",
+            "value":"မရွေးတော့ရန် နှစ်ချက်နှိပ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Twentieth_counter_accessibility_text",
+            "value":"နှစ်ဆယ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_place_node_child",
+            "value":"နေရာချထားသည်၊ %1$s ရှိ %2$d ခုမြောက်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"First_counter_accessibility_text",
+            "value":"တစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_media_location",
+            "value":"ရုပ်ပုံများတွင် တက်ဂ်တွဲထားသည့် တည်နေရာ အချက်အလက်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_header_edit_button",
+            "value":"တည်းဖြတ်မည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_collapse",
+            "value":"အကျဉ်းချုံ့မည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reduce_used_for_accessibility_text",
+            "value":"လျှော့ချမည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_install_map_app",
+            "value":"Petal Maps ထည့်သွင်းရန် ဤနေရာကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_lab",
+            "value":"ကင်မရာ ချို့ယွင်းချက်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_hide_password_button",
+            "value":"စကားဝှက်အား ဝှက်ထားရန်၊ ခလုတ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_locating",
+            "value":"တည်နေရာ ရှာဖွေသတ်မှတ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_share_location",
+            "value":"တည်နေရာ ‌ဝေမျှရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_send_location",
+            "value":"တည်နေရာ ပေးပို့ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_selected",
+            "value":"ရွေးချယ်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_relocation",
+            "value":"တည်နေရာ ရယူရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_location",
+            "value":"တည်နေရာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fourteenth_counter_accessibility_text",
+            "value":"တစ်ဆယ့်လေး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_waterfall_mode",
+            "value":"ရေတံခွန်ပုံစံ ပြသမှု",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_mon",
+            "value":"တနင်္လာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fifteenth_counter_accessibility_text",
+            "value":"တစ်ဆယ့်ငါး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_url",
+            "value":"ဖွင့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_save",
+            "value":"သိမ်းဆည်းရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eighth_counter_accessibility_text",
+            "value":"ရှစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"advanced_dialog_accessibility_checkbox",
+            "value":"အကွက်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_calendar",
+            "value":"ပြက္ခဒိန် ရယူသုံးစွဲရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"အပ်လုဒ် အောင်မြင်ပါသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_bottom_screen",
+            "value":"အောက်ခြေတွင် ပြသရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"next_arrow_accessibility_text",
+            "value":"ရှေ့သို့",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_collapsed",
+            "value":"အကျဉ်းချုံ့ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_overlay_menu_more_accessibility_text",
+            "value":"နောက်ထပ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyThird_counter_accessibility_text",
+            "value":"နှစ်ဆယ့်သုံး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_month",
+            "value":"နောက်လ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_button",
+            "value":"%s ၊ မှတ်သားထားသော အကြောင်းအရာဧရိယာတွင် ပေါင်းထည့်မည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_get_it",
+            "value":"အိုကေ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_wed",
+            "value":"ဗုဒ္ဓဟူး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_overlay_menu_back_accessibility_text",
+            "value":"နောက်သို့",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"အပ်လုဒ် မအောင်မြင်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_year",
+            "value":"နောက်နှစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_clear",
+            "value":"ရှင်းရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFifth_counter_accessibility_text",
+            "value":"နှစ်ဆယ့်ငါး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_disabledDesc",
+            "value":"မရရှိနိုင်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"open_beauty",
+            "value":"အလှအပကို ဖွင့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close_beauty",
+            "value":"အလှအပကို ပိတ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_show_password",
+            "value":"စကားဝှက် ပြမည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_display_failed",
+            "value":"အစမ်းကြည့်ရှု၍ မရနိုင်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_camera_input",
+            "value":"ဓာတ်ပုံ ထည့်သွင်းမှု",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_use_continue",
+            "value":"ဆက်လုပ်မည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_sat",
+            "value":"စနေ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textinput_text_counter",
+            "value":"%1$d/%2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Seventeenth_counter_accessibility_text",
+            "value":"တစ်ဆယ့်ခုနစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Nineteenth_counter_accessibility_text",
+            "value":"တစ်ဆယ့်ကိုး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_ask_celia",
+            "value":"Celia ကို မေးရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"ကျယ်လောင်သံများကို အချိန်ကြာမြင့်စွာ နားထောင်ခြင်းသည် သင့်အကြားအာရုံကို ထိခိုက်စေနိုင်သည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Seventh_counter_accessibility_text",
+            "value":"ခုနစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_address",
+            "value":"လမ်းညွှန်များ ရယူရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_privacy_authorize",
+            "value":"စည်းမျဉ်းများကို လက်ခံပြီးပါပြီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_right_screen",
+            "value":"ညာဘက် (အပေါ်) တွင် ပြသရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_deleted",
+            "value":"%s ၊ မှတ်သားထားသော အကြောင်းအရာဧရိယာမှ ရွှေ့ထုတ်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"ဒေါင်းလုဒ် မအောင်မြင်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eleventh_counter_accessibility_text",
+            "value":"တစ်ဆယ့်တစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_current_location",
+            "value":"လက်ရှိ တည်နေရာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_date",
+            "value":"ပွဲစဉ်ဖြစ်ရပ်အသစ် ဖန်တီးရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_contacts",
+            "value":"အဆက်အသွယ်များကို ဖတ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_eject_desc",
+            "value":"အတားအဆီးများကို ဖယ်ရှားပြီး ထပ်ကြိုးစားကြည့်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"ဒေါင်းလုဒ် အောင်မြင်ပါသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_back",
+            "value":"နောက်သို့",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_translate",
+            "value":"ဘာသာပြန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ThirtyFirst_counter_accessibility_text",
+            "value":"သုံးဆယ့်တစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_select_desc",
+            "value":"ရွေးချယ်ရန် နှစ်ချက်နှိပ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_thu",
+            "value":"ကြာသပတေး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_show_password",
+            "value":"စကားဝှက် ပြပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_expanded_node",
+            "value":"ဖြန့်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_service_panel",
+            "value":"ဝန်ဆောင်မှု ပန်နယ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_privacy_off",
+            "value":"ကိုယ်ပိုင် အချက်အလက် ကာကွယ်ရေးကို ပိတ်ထားသည်။ အသေးစိတ် >>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value":"%1$s ၊ မှတ်သားထားသော အကြောင်းအရာဧရိယာ၊ Row %2$d ၊ Column %3$dတွင် ပေါင်းထည့်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_unselectedDesc",
+            "value":"ရွေးချယ်ရန် နှစ်ချက်နှိပ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value":"ပေါင်းထည့်ရန် နှစ်ချက်နှိပ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_selected",
+            "value":"ရွေးချယ်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_enable_loud_volume_tittle",
+            "value":"ဖွင့်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyNinth_counter_accessibility_text",
+            "value":"နှစ်ဆယ့်ကိုး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_whole_calendar",
+            "value":"ပြက္ခဒိန် ဒေတာအားလုံးကို ဖတ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_left_screen",
+            "value":"ဘယ်ဘက်တွင် ပြသရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_select_node",
+            "value":"%s ကို ရွေးချယ်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_unselect_desc",
+            "value":"မရွေးတော့ရန် နှစ်ချက်နှိပ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value":"ပေါင်းထည့်ရန် နှစ်ချက်နှိပ်ပါ၊ တည်းဖြတ်မှု စနစ်သို့ ဝင်ရောက်ရန် နှစ်ချက်နှိပ်ပြီး ဖိထားပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_privacy_on",
+            "value":"ကိုယ်ပိုင် အချက်အလက် ကာကွယ်ရေး သက်ဝင်လုပ်ဆောင်နေပါသည်။ အသေးစိတ် >>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_hide_password",
+            "value":"စကားဝှက် ဝှက်ထားရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_unselected",
+            "value":"မရွေးချယ်ထားပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_used_for_accessibility_text",
+            "value":"ဖျက်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_add_location",
+            "value":"တည်နေရာ ပေါင်းထည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fourth_counter_accessibility_text",
+            "value":"လေး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value":"တည်းဖြတ်မှု စနစ်သို့ ဝင်ရောက်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_search",
+            "value":"ရှာရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value":"%s ၊ ဆွဲရွှေ့နေသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_confirm",
+            "value":"အိုကေ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySixth_counter_accessibility_text",
+            "value":"နှစ်ဆယ့်ခြောက်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_phone_number",
+            "value":"ခေါ်ဆိုရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desc_developer_mode_tips",
+            "value":"ဤသို့လုပ်ဆောင်ရန် ပရိုဂရမ်ရေးသားသူအတွက် ရွေးချယ်စရာများကို ဖွင့်ထားရန် လိုအပ်သည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"lab_developer_mode_tips",
+            "value":"ဦးစွာ ပရိုဂရမ်ရေးသူအတွက် ရွေးစရာများကို ဖွင့်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_illegal_area",
+            "value":"ဤနေရာတွင် ထား၍ မရနိုင်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_email",
+            "value":"အီးမေးလ် ရေးရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySeventh_counter_accessibility_text",
+            "value":"နှစ်ဆယ့်ခုနစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_desc",
+            "value":"ဤပြဿနာကို ပြင်ဆင်ရန် ကင်မရာအက်ပ်ကို ပြန်လည်စတင်ပါ။ ရုပ်ပုံသည် ဆုံချက်လွဲ၍ မပြတ်မသားဖြစ်နေသေးပါက သုံးစွဲသူ ဝန်ဆောင်မှုထံ ဆက်သွယ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_unselected",
+            "value":"မရွေးချယ်ထားပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_last_step",
+            "value":"ယခင်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"prev_arrow_accessibility_text",
+            "value":"နောက်သို့",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyEighth_counter_accessibility_text",
+            "value":"နှစ်ဆယ့်ရှစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_app_locked",
+            "value":"အက်ပ်ကို လော့ခ်ချထားပါသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"due_control_form",
+            "value":"ဝစ်ဂျတ် အကြောင်းအရာကို မရရှိနိုင်ပါ။ အက်ပ်အပ်ဒိတ်အတွက် စောင့်ပေးပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value":"%s ၊ မှတ်သားထားသော အကြောင်းအရာဧရိယာမှ ရွှေ့ထုတ်မည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_punch_in",
+            "value":"လက်ရှိ တည်နေရာကို အဝင်/အထွက် အချိန်မှတ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_fri",
+            "value":"သောကြာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item",
+            "value":"%s ၊ မှတ်သားထားသော အကြောင်းအရာဧရိယာတွင် ပေါင်းထည့်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_install_calendar_app",
+            "value":"ပြက္ခဒိန်အက်ပ်ကို ထည့်သွင်းရန် ဤနေရာကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_time_limit",
+            "value":"အချိန်စေ့ပါပြီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Twelfth_counter_accessibility_text",
+            "value":"တစ်ဆယ့်နှစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_title_edit",
+            "value":"တည်းဖြတ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"အသံပမာဏ မြှင့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_file",
+            "value":"ဖိုင်ကို အပ်လုဒ်လုပ်နေဆဲ… (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_hidden_password",
+            "value":"စကားဝှက် ဝှက်ထားရန်",
             "attr":{
                 "priority":"translate"
             }

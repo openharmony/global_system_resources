@@ -4,35 +4,35 @@
             "name":"ohos_id_notification_increase_volume_tittle",
             "value":"安全なレベルより音量を大きくしますか？",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_increase_volume_context",
             "value":"大音量で長時間聴くと、聴力を損なうおそれがあります。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_button",
             "value":"音量を復元",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_context",
             "value":"大音量で長時間聴くと、聴力を損なうおそれがあります。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_tittle",
-            "value":"自動的に音量を下げます",
+            "value":"音量が自動的に下がりました",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -74,98 +74,98 @@
             "name":"ohos_id_text_save_button_description_save_image",
             "value":"画像を保存",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_save_all",
             "value":"すべて保存",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download",
             "value":"ダウンロード",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_receive",
             "value":"保存",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_to_gallery",
             "value":"ギャラリーに保存",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
             "value":"ギャラリーに保存",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_file",
             "value":"ファイルをダウンロード",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save",
             "value":"保存",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
             "value":"保存",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_file",
             "value":"ファイルを保存",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_paste_button_description_paste",
             "value":"貼り付け",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_and_share",
             "value":"ダウンロードして共有",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_continue_to_receive",
             "value":"保存",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_export_to_gallery",
             "value":"エクスポート",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -277,7 +277,7 @@
             "name":"last_updated_time",
             "value":"最終更新：%s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -347,7 +347,7 @@
             "name":"ohos_toolbar_more",
             "value":"その他",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -382,7 +382,7 @@
             "name":"general_window_top_screen",
             "value":"一番上に表示",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -396,7 +396,7 @@
             "name":"summary_closed_beauty",
             "value":"ビューティーモードがオフになりました。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -417,14 +417,14 @@
             "name":"ohos_grid_edit_subtitle_sort",
             "value":"ドラッグして並べ替え",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_grid_edit_subtitle_add",
             "value":"タップして追加",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -459,7 +459,7 @@
             "name":"notification_screen_recording_title",
             "value":"%sは画面を録画しています",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -487,7 +487,7 @@
             "name":"icon_cancel",
             "value":"キャンセル",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -634,7 +634,7 @@
             "name":"ohos_grid_edit_title_chanel",
             "value":"カテゴリ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -648,7 +648,7 @@
             "name":"camera_device_eject_lab",
             "value":"カメラをポップアウトできません",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -683,7 +683,7 @@
             "name":"general_window_moveto_top_screen",
             "value":"一番上に移動",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -711,7 +711,7 @@
             "name":"general_window_top_left_screen",
             "value":"左に表示（上部）",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -739,7 +739,7 @@
             "name":"title_adjust_beauty",
             "value":"ビデオ通話のビューティーモード",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -851,7 +851,7 @@
             "name":"general_window_moveto_bottom_screen",
             "value":"一番下に移動",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -886,7 +886,7 @@
             "name":"general_next_step",
             "value":"次へ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -949,7 +949,7 @@
             "name":"camera_device_block_lab",
             "value":"カメラエラー",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1012,7 +1012,7 @@
             "name":"general_window_waterfall_mode",
             "value":"ウォーターフォール表示",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1033,14 +1033,14 @@
             "name":"general_ai_menu_url",
             "value":"開く",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"icon_save",
             "value":"保存",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1068,7 +1068,7 @@
             "name":"general_window_bottom_screen",
             "value":"一番下に表示",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1103,7 +1103,7 @@
             "name":"general_get_it",
             "value":"OK",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1180,14 +1180,14 @@
             "name":"ohos_id_text_camera_input",
             "value":"写真入力",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"camera_use_continue",
             "value":"続行",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1229,7 +1229,7 @@
             "name":"general_window_top_right_screen",
             "value":"右に表示（上部）",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1271,7 +1271,7 @@
             "name":"camera_device_eject_desc",
             "value":"邪魔なものを取り除き、再試行してください。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1285,7 +1285,7 @@
             "name":"icon_back",
             "value":"戻る",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1460,7 +1460,7 @@
             "name":"general_search",
             "value":"検索",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1474,7 +1474,7 @@
             "name":"camera_device_block_confirm",
             "value":"OK",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1488,21 +1488,21 @@
             "name":"general_ai_menu_phone_number",
             "value":"通話",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"desc_developer_mode_tips",
             "value":"これを実行するには、開発者向けオプションを有効にする必要があります。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"lab_developer_mode_tips",
             "value":"先に開発者オプションを有効化",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1516,7 +1516,7 @@
             "name":"general_ai_menu_email",
             "value":"メールを作成",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1530,7 +1530,7 @@
             "name":"camera_device_block_desc",
             "value":"この問題を解決するには、カメラアプリを再起動してください。再起動しても画像のピントが合わない場合は、カスタマーサービスにお問い合わせください。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1544,7 +1544,7 @@
             "name":"general_last_step",
             "value":"前へ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1558,7 +1558,7 @@
             "name":"form_disable_app_locked",
             "value":"アプリがロックされています",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1593,7 +1593,7 @@
             "name":"form_disable_time_limit",
             "value":"時間切れです",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1607,7 +1607,7 @@
             "name":"ohos_grid_edit_title_edit",
             "value":"編集",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1635,14 +1635,14 @@
             "name":"notification_screen_recording_privacy_off",
             "value":"個人情報保護が無効化されています。詳細>>",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"個人情報保護がアクティブです。詳細>>",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1656,14 +1656,14 @@
             "name":"general_ai_preview_menu_address_open_map_app",
             "value":"Petalマップでナビゲート",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_url_open_browser_app",
             "value":"HUAWEIブラウザで開く",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1677,7 +1677,7 @@
             "name":"general_ai_preview_menu_display_failed",
             "value":"プレビューを表示できません",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1691,33 +1691,47 @@
             "name":"notification_feature_loud_volume_tittle",
             "value":"ボリュームブースト",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_enable_loud_volume_tittle",
             "value":"オン",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_retry",
             "value":"カレンダーアプリをインストールして、再試行してください。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_location_title",
             "value":"場所",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_link_title",
             "value":"URL",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"textinput_text_counter",
+            "value":"%1$d/%2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"due_control_form",
+            "value":"ウィジェットの内容を表示できません。アプリの更新をお待ちください。",
             "attr":{
                 "priority":"translate"
             }

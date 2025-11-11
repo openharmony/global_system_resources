@@ -46,7 +46,7 @@
             "name":"ohos_id_text_save_button_description_save_to_gallery",
             "value":"儲存至圖片庫",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -148,10 +148,10 @@
             }
         },
         {
-            "name": "ohos_add_form_to_desktop",
-            "value": "新增至桌面",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_add_form_to_desktop",
+            "value":"新增至桌面",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -163,7 +163,10 @@
         },
         {
             "name":"ohos_lab_media_location",
-            "value":"允許應用程式存取拍攝位置"
+            "value":"允許應用程式存取拍攝位置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ohos_grid_edit_title_edit",
@@ -197,48 +200,63 @@
             "name":"icon_back",
             "value":"返回",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"icon_cancel",
             "value":"取消",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"icon_save",
             "value":"儲存",
             "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"textfield_accessibility_property_clear",
+            "value":"清除，按鈕",
+            "attr":{
                 "priority":"translate"
             }
         },
         {
+            "name":"textfield_accessibility_show_password",
+            "value":"顯示密碼明文",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_hide_password",
+            "value":"不顯示密碼明文",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_time_limit",
+            "value":"已達時間限額",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
             "name":"ohos_id_text_camera_input",
-            "value":"拍攝輸入"
+            "value":"拍攝輸入",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ai_write_menu_name",
-            "value": "小藝幫寫"
-        },
-        {
-            "name" : "textfield_accessibility_property_clear",
-            "value" : "清除，按鈕"
-        },
-        {
-            "name" : "textfield_accessibility_show_password",
-            "value" : "顯示密碼明文"
-        },
-        {
-            "name" : "textfield_accessibility_hide_password",
-            "value" : "不顯示密碼明文"
-        },
-        {
-            "name": "form_disable_time_limit",
-            "value": "已達時間限額",
-            "attr": {
-                "priority": "translate"
+            "name":"ai_write_menu_name",
+            "value":"小藝幫寫",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -250,288 +268,360 @@
         },
         {
             "name":"ohos_lab_read_calendar",
-            "value":"讀取日曆"
+            "value":"讀取日曆",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_write_calendar",
-            "value":"新增/修改/刪除日曆"
+            "value":"新增/修改/刪除日曆",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_read_contacts",
-            "value":"讀取聯絡人"
+            "value":"讀取聯絡人",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_lab_write_contacts",
-            "value": "新增/修改/刪除聯絡人",
-            "attr": {
-                "priority": "LT"
+            "name":"ohos_lab_write_contacts",
+            "value":"新增/修改/刪除聯絡人",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_lab_write_whole_calendar",
-            "value":"新增/修改/刪除全部日曆"
+            "value":"新增/修改/刪除全部日曆",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_read_whole_calendar",
-            "value":"讀取全部日曆"
+            "value":"讀取全部日曆",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
             "value":"快速儲存圖片",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
             "value":"重新儲存",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_export_to_gallery",
             "value":"匯出",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"calendar_picker_mon",
-            "value":"星期一"
+            "value":"星期一",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_tue",
-            "value":"星期二"
+            "value":"星期二",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_wed",
-            "value":"星期三"
+            "value":"星期三",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_thu",
-            "value":"星期四"
+            "value":"星期四",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_fri",
-            "value":"星期五"
+            "value":"星期五",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_sat",
-            "value":"星期六"
+            "value":"星期六",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_sun",
-            "value":"星期日"
+            "value":"星期日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"slider_accessibility_selected",
-            "value":"已選中"
+            "value":"已選中",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "slider_accessibility_unselected",
-            "value": "未選取",
-            "attr": {
-                "priority": "translate"
+            "name":"slider_accessibility_unselected",
+            "value":"未選取",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
             "name":"slider_accessibility_unselectedDesc",
-            "value":"單指輕觸兩下即可選取"
+            "value":"單指輕觸兩下即可選取",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"slider_accessibility_disabledDesc",
-            "value":"無法使用"
-        },
-        {
-            "name": "general_confirm",
-            "value": "確定",
-            "attr": {
-                "priority": "translate"
+            "value":"無法使用",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_last_step",
-            "value": "上一步",
-            "attr": {
-                "priority": "translate"
+            "name":"general_confirm",
+            "value":"確定",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_next_step",
-            "value": "下一步",
-            "attr": {
-                "priority": "translate"
+            "name":"general_last_step",
+            "value":"上一步",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "last_updated_time",
-            "value": "上次更新時間：%s",
-            "attr": {
-                "priority": "translate"
+            "name":"general_next_step",
+            "value":"下一步",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_copy",
-            "value": "複製",
-            "attr": {
-                "priority": "translate"
+            "name":"last_updated_time",
+            "value":"上次更新時間：%s",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_cut",
-            "value": "剪下",
-            "attr": {
-                "priority": "translate"
+            "name":"general_copy",
+            "value":"複製",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_select_all",
-            "value": "全選",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cut",
+            "value":"剪下",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_translate",
-            "value": "翻譯",
-            "attr": {
-                "priority": "translate"
+            "name":"general_select_all",
+            "value":"全選",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_share",
-            "value": "分享",
-            "attr": {
-                "priority": "translate"
+            "name":"general_translate",
+            "value":"翻譯",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_search",
-            "value": "搜尋"
-        },
-        {
-            "name": "general_open",
-            "value": "開",
-            "attr": {
-                "priority": "translate"
+            "name":"general_share",
+            "value":"分享",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_close",
-            "value": "關",
-            "attr": {
-                "priority": "translate"
+            "name":"general_search",
+            "value":"搜尋",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_start",
-            "value": "開始",
-            "attr": {
-                "priority": "translate"
+            "name":"general_open",
+            "value":"開",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_skip",
-            "value": "跳過",
-            "attr": {
-                "priority": "translate"
+            "name":"general_close",
+            "value":"關",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_window_left_screen",
-            "value": "視窗顯示在螢幕左側"
-        },
-        {
-            "name": "general_window_right_screen",
-            "value": "視窗顯示在螢幕右側",
-            "attr": {
-                "priority": "translate"
+            "name":"general_start",
+            "value":"開始",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_display_lunar_calendar",
-            "value": "顯示農曆",
-            "attr": {
-                "priority": "translate"
+            "name":"general_skip",
+            "value":"跳過",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_paste",
-            "value": "貼上",
-            "attr": {
-                "priority": "translate"
+            "name":"general_window_left_screen",
+            "value":"視窗顯示在螢幕左側",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_cancel",
-            "value": "取消",
-            "attr": {
-                "priority": "translate"
+            "name":"general_window_right_screen",
+            "value":"視窗顯示在螢幕右側",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_more",
-            "value": "更多",
-            "attr": {
-                "priority": "translate"
+            "name":"general_display_lunar_calendar",
+            "value":"顯示農曆",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "text_overlay_menu_more_accessibility_text",
-            "value": "更多",
-            "attr": {
-                "priority": "translate"
+            "name":"general_paste",
+            "value":"貼上",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "stepper_back",
-            "value": "返回",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cancel",
+            "value":"取消",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "text_overlay_menu_back_accessibility_text",
-            "value": "返回",
-            "attr": {
-                "priority": "translate"
+            "name":"general_more",
+            "value":"更多",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "stepper_next",
-            "value": "下一步",
-            "attr": {
-                "priority": "translate"
+            "name":"text_overlay_menu_more_accessibility_text",
+            "value":"更多",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "textfield_show_password",
-            "value": "顯示密碼"
+            "name":"stepper_back",
+            "value":"返回",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_hide_password",
-            "value": "隱藏密碼"
+            "name":"text_overlay_menu_back_accessibility_text",
+            "value":"返回",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_show_password_button",
-            "value": "顯示密碼，按鈕"
+            "name":"stepper_next",
+            "value":"下一步",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_hide_password_button",
-            "value": "隱藏密碼，按鈕"
+            "name":"textfield_show_password",
+            "value":"顯示密碼",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_has_showed_password",
-            "value": "已顯示密碼"
+            "name":"textfield_hide_password",
+            "value":"隱藏密碼",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_has_hidden_password",
-            "value": "已隱藏密碼"
+            "name":"textfield_show_password_button",
+            "value":"顯示密碼，按鈕",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_accessibility_clear",
-            "value": "清除"
+            "name":"textfield_hide_password_button",
+            "value":"隱藏密碼，按鈕",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_showed_password",
+            "value":"已顯示密碼",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_hidden_password",
+            "value":"已隱藏密碼",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_clear",
+            "value":"清除",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ohos_id_notification_increase_volume_tittle",
@@ -576,24 +666,66 @@
             }
         },
         {
-            "name": "general_get_it",
-            "value": "知道了",
+            "name":"request_agent_upload_success",
+            "value":"上傳成功",
             "attr":{
-                "priority": "translate"
+                "priority":"LT"
             }
         },
         {
-            "name": "desc_developer_mode_tips",
-            "value": "需要在開發人員模式下執行。",
+            "name":"request_agent_upload_fail",
+            "value":"上傳失敗",
             "attr":{
-                "priority": "translate"
+                "priority":"LT"
             }
         },
         {
-            "name": "lab_developer_mode_tips",
-            "value": "需要啟動開發人員模式",
+            "name":"request_agent_download_fail",
+            "value":"下載失敗",
             "attr":{
-                "priority": "translate"
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"下載成功",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notification_screen_recording_title",
+            "value":"%s正在使用螢幕",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"request_agent_upload_file",
+            "value":"上傳檔案 %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_get_it",
+            "value":"知道了",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"desc_developer_mode_tips",
+            "value":"需要在開發人員模式下執行。",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"lab_developer_mode_tips",
+            "value":"需要啟動開發人員模式",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -604,59 +736,24 @@
             }
         },
         {
-            "name": "request_agent_upload_success",
-            "value": "上傳成功",
-            "attr": {
-                "priority": "LT"
+            "name":"delete_used_for_accessibility_text",
+            "value":"刪除",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "request_agent_upload_fail",
-            "value": "上傳失敗",
-            "attr": {
-                "priority": "LT"
+            "name":"request_agent_download_file",
+            "value":"下載檔案 %s",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "request_agent_download_fail",
-            "value": "下載失敗",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "request_agent_download_success",
-            "value": "下載成功",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "notification_screen_recording_title",
-            "value": "%s正在使用螢幕",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "request_agent_upload_file",
-            "value": "上傳檔案 %s",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "delete_used_for_accessibility_text",
-            "value": "刪除",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "request_agent_download_file",
-            "value": "下載檔案 %s",
-            "attr": {
-                "priority": "LT"
+            "name":"save_button_description_save_all",
+            "value":"全部儲存",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -695,31 +792,39 @@
             }
         },
         {
-            "name":"save_button_description_save_all",
-            "value":"全部儲存",
+            "name":"general_window_bottom_screen",
+            "value":"視窗顯示在螢幕下方",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
-            "name":"general_window_bottom_screen",
-            "value":"視窗顯示在螢幕下方"
-        },
-        {
             "name":"general_window_top_screen",
-            "value":"視窗顯示在螢幕上方"
+            "value":"視窗顯示在螢幕上方",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_top_right_screen",
-            "value":"視窗顯示在上螢幕右側"
+            "value":"視窗顯示在上螢幕右側",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_top_left_screen",
-            "value":"視窗顯示在上螢幕左側"
+            "value":"視窗顯示在上螢幕左側",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_waterfall_mode",
-            "value":"進入瀑布模式"
+            "value":"進入瀑布模式",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"subheader_accessibility_title",
@@ -729,15 +834,15 @@
             }
         },
         {
-            "name": "advanced_dialog_accessibility_checkbox",
-            "value": "核取方塊",
+            "name":"advanced_dialog_accessibility_checkbox",
+            "value":"核取方塊",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "advanced_dialog_accessibility_cancel_checked_desc",
-            "value": "單指輕觸兩下即可取消選取",
+            "name":"advanced_dialog_accessibility_cancel_checked_desc",
+            "value":"單指輕觸兩下即可取消選取",
             "attr":{
                 "priority":"translate"
             }
@@ -813,418 +918,592 @@
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item",
-            "value": "%s，已加入常駐內容區",
+            "name":"gridobjectsortcomponent_accessibility_selected_item",
+            "value":"%s，已加入常駐內容區",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
-            "value": "單指輕觸兩下並長按即可拖曳排序",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value":"單指輕觸兩下並長按即可拖曳排序",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
-            "value": "%s，移出常駐內容區",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value":"%s，移出常駐內容區",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
-            "value": "%s，已拖起",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value":"%s，已拖起",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
-            "value": "第 %1$d 列，第 %2$d 欄",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value":"第 %1$d 列，第 %2$d 欄",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
-            "value": "已放置，第 %1$d 列，第 %2$d 欄",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value":"已放置，第 %1$d 列，第 %2$d 欄",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
-            "value": "%1$s，已加入常駐內容區，第 %2$d 列，第 %3$d 欄",
+            "name":"gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value":"%1$s，已加入常駐內容區，第 %2$d 列，第 %3$d 欄",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
-            "value": "已進入編輯狀態",
+            "name":"gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value":"已進入編輯狀態",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_item",
-            "value": "%s，未加入常駐內容區",
+            "name":"gridobjectsortcomponent_accessibility_unselected_item",
+            "value":"%s，未加入常駐內容區",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
-            "value": "單指輕觸兩下並長按即可進入編輯狀態",
+            "name":"gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value":"單指輕觸兩下並長按即可進入編輯狀態",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
-            "value": "單指輕觸兩下即可加入，輕觸兩下並長按即可進入編輯狀態",
+            "name":"gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value":"單指輕觸兩下即可加入，輕觸兩下並長按即可進入編輯狀態",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_button",
-            "value": "%s，新增至常駐內容區",
+            "name":"gridobjectsortcomponent_accessibility_unselected_button",
+            "value":"%s，新增至常駐內容區",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
-            "value": "編輯",
+            "name":"gridobjectsortcomponent_accessibility_header_edit_button",
+            "value":"編輯",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_deleted",
-            "value": "%s，已移出常駐內容區",
+            "name":"gridobjectsortcomponent_accessibility_deleted",
+            "value":"%s，已移出常駐內容區",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_illegal_area",
-            "value": "非放置區",
+            "name":"gridobjectsortcomponent_accessibility_illegal_area",
+            "value":"非放置區",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
-            "value": "單指輕觸兩下即可加入",
+            "name":"gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value":"單指輕觸兩下即可加入",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_complete_button",
-            "value": "完成",
+            "name":"gridobjectsortcomponent_accessibility_complete_button",
+            "value":"完成",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
-            "value": "常駐內容區，沒有內容，可輕觸下方內容進行新增",
+            "name":"gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value":"常駐內容區，沒有內容，可輕觸下方內容進行新增",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_place_node_parent",
-            "value": "已放置，第 %d 項",
+            "name":"treeview_accessibility_place_node_parent",
+            "value":"已放置，第 %d 項",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_folded_node",
-            "value": "已摺疊",
+            "name":"treeview_accessibility_folded_node",
+            "value":"已摺疊",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_move_node_child",
-            "value": "托至%1$s 的第 %2$d 項",
+            "name":"treeview_accessibility_move_node_child",
+            "value":"托至%1$s 的第 %2$d 項",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_expanded_node",
-            "value": "已展開",
+            "name":"treeview_accessibility_expanded_node",
+            "value":"已展開",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_fold_node",
-            "value": "摺疊",
+            "name":"treeview_accessibility_fold_node",
+            "value":"摺疊",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_implement_node",
-            "value": "單指輕觸兩下即可執行",
+            "name":"treeview_accessibility_implement_node",
+            "value":"單指輕觸兩下即可執行",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_select_node",
-            "value": "已選取，%s",
+            "name":"treeview_accessibility_select_node",
+            "value":"已選取，%s",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_lift_node",
-            "value": "%s，已托起",
+            "name":"treeview_accessibility_lift_node",
+            "value":"%s，已托起",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_node_desc",
-            "value": "單指輕觸兩下即可選取，輕觸兩下並長按即可拖曳排序",
+            "name":"treeview_accessibility_node_desc",
+            "value":"單指輕觸兩下即可選取，輕觸兩下並長按即可拖曳排序",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_move_node_parent",
-            "value": "第 %d 項",
+            "name":"treeview_accessibility_move_node_parent",
+            "value":"第 %d 項",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_expand_node",
-            "value": "展開",
+            "name":"treeview_accessibility_expand_node",
+            "value":"展開",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_place_node_child",
-            "value": "已放置%1$s 的第 %2$d 項",
+            "name":"treeview_accessibility_place_node_child",
+            "value":"已放置%1$s 的第 %2$d 項",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "open_beauty",
-            "value": "啟用美顏"
+            "name":"open_beauty",
+            "value":"啟用美顏",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "close_beauty",
-            "value": "停用美顏"
+            "name":"close_beauty",
+            "value":"停用美顏",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "title_adjust_beauty",
-            "value": "視訊美顏調整"
+            "name":"title_adjust_beauty",
+            "value":"視訊美顏調整",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "summary_closed_beauty",
-            "value": "視訊通話美顏已停用。"
+            "name":"summary_closed_beauty",
+            "value":"視訊通話美顏已停用。",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "summary_opened_beauty",
-            "value": "美顏已啟用，將在視訊通話時生效。"
+            "name":"summary_opened_beauty",
+            "value":"美顏已啟用，將在視訊通話時生效。",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_moveto_top_screen",
-            "value":"視窗移動至上螢幕"
+            "value":"視窗移動至上螢幕",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_moveto_bottom_screen",
-            "value":"視窗移動至下螢幕"
+            "value":"視窗移動至下螢幕",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_eject_lab",
-            "value": "鏡頭無法彈出"
+            "name":"camera_device_eject_lab",
+            "value":"鏡頭無法彈出",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_eject_desc",
-            "value": "請查看鏡頭是否受阻擋或有異物進入。檢查無誤後，輕觸按鈕以繼續使用。"
+            "name":"camera_device_eject_desc",
+            "value":"請查看鏡頭是否受阻擋或有異物進入。檢查無誤後，輕觸按鈕以繼續使用。",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_block_confirm",
-            "value": "知道了"
+            "name":"camera_device_block_confirm",
+            "value":"知道了",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_block_lab",
-            "value": "鏡頭可能存在異常"
+            "name":"camera_device_block_lab",
+            "value":"鏡頭可能存在異常",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_block_desc",
-            "value": "請重新啟動相機，若畫面仍然無法對焦，請前往服務中心維修。"
+            "name":"camera_device_block_desc",
+            "value":"請重新啟動相機，若畫面仍然無法對焦，請前往服務中心維修。",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_use_continue",
-            "value": "繼續"
+            "name":"camera_use_continue",
+            "value":"繼續",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "prev_arrow_accessibility_text",
-            "value": "上一頁"
+            "name":"increase_used_for_accessibility_text",
+            "value":"增加",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "next_arrow_accessibility_text",
-            "value": "下一頁"
+            "name":"reduce_used_for_accessibility_text",
+            "value":"減少",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "increase_used_for_accessibility_text",
-            "value": "增加"
+            "name":"increase_counter_double_click_description",
+            "value":"單指輕觸兩下即可執行，輕觸兩下並按住可持續增加",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "reduce_used_for_accessibility_text",
-            "value": "減少"
+            "name":"reduce_counter_double_click_description",
+            "value":"單指輕觸兩下即可執行，輕觸兩下並按住可持續減少",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "increase_counter_double_click_description",
-            "value": "單指輕觸兩下即可執行，輕觸兩下並按住可持續增加"
+            "name":"First_counter_accessibility_text",
+            "value":"一日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "reduce_counter_double_click_description",
-            "value": "單指輕觸兩下即可執行，輕觸兩下並按住可持續減少"
+            "name":"Second_counter_accessibility_text",
+            "value":"二日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "First_counter_accessibility_text",
-            "value": "一日"
+            "name":"Third_counter_accessibility_text",
+            "value":"三日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Second_counter_accessibility_text",
-            "value": "二日"
+            "name":"Fourth_counter_accessibility_text",
+            "value":"四日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Third_counter_accessibility_text",
-            "value": "三日"
+            "name":"Fifth_counter_accessibility_text",
+            "value":"五日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fourth_counter_accessibility_text",
-            "value": "四日"
+            "name":"Sixth_counter_accessibility_text",
+            "value":"六日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fifth_counter_accessibility_text",
-            "value": "五日"
+            "name":"Seventh_counter_accessibility_text",
+            "value":"七日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Sixth_counter_accessibility_text",
-            "value": "六日"
+            "name":"Eighth_counter_accessibility_text",
+            "value":"八日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Seventh_counter_accessibility_text",
-            "value": "七日"
+            "name":"Ninth_counter_accessibility_text",
+            "value":"九日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eighth_counter_accessibility_text",
-            "value": "八日"
+            "name":"Tenth_counter_accessibility_text",
+            "value":"十日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Ninth_counter_accessibility_text",
-            "value": "九日"
+            "name":"Eleventh_counter_accessibility_text",
+            "value":"十一日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Tenth_counter_accessibility_text",
-            "value": "十日"
+            "name":"Twelfth_counter_accessibility_text",
+            "value":"十二日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eleventh_counter_accessibility_text",
-            "value": "十一日"
+            "name":"Thirteenth_counter_accessibility_text",
+            "value":"十三日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Twelfth_counter_accessibility_text",
-            "value": "十二日"
+            "name":"Fourteenth_counter_accessibility_text",
+            "value":"十四日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Thirteenth_counter_accessibility_text",
-            "value": "十三日"
+            "name":"Fifteenth_counter_accessibility_text",
+            "value":"十五日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fourteenth_counter_accessibility_text",
-            "value": "十四日"
+            "name":"Sixteenth_counter_accessibility_text",
+            "value":"十六日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fifteenth_counter_accessibility_text",
-            "value": "十五日 "
+            "name":"Seventeenth_counter_accessibility_text",
+            "value":"十七日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Sixteenth_counter_accessibility_text",
-            "value": "十六日"
+            "name":"Eighteenth_counter_accessibility_text",
+            "value":"十八日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Seventeenth_counter_accessibility_text",
-            "value": "十七日"
+            "name":"Nineteenth_counter_accessibility_text",
+            "value":"十九日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eighteenth_counter_accessibility_text",
-            "value": "十八日"
+            "name":"Twentieth_counter_accessibility_text",
+            "value":"二十日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Nineteenth_counter_accessibility_text",
-            "value": "十九日"
+            "name":"TwentyFirst_counter_accessibility_text",
+            "value":"二十一日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Twentieth_counter_accessibility_text",
-            "value": "二十日"
+            "name":"TwentySecond_counter_accessibility_text",
+            "value":"二十二日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFirst_counter_accessibility_text",
-            "value": "二十一日"
+            "name":"TwentyThird_counter_accessibility_text",
+            "value":"二十三日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentySecond_counter_accessibility_text",
-            "value": "二十二日"
+            "name":"TwentyFourth_counter_accessibility_text",
+            "value":"二十四日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyThird_counter_accessibility_text",
-            "value": "二十三日"
+            "name":"TwentyFifth_counter_accessibility_text",
+            "value":"二十五日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFourth_counter_accessibility_text",
-            "value": "二十四日"
+            "name":"TwentySixth_counter_accessibility_text",
+            "value":"二十六日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFifth_counter_accessibility_text",
-            "value": "二十五日"
+            "name":"TwentySeventh_counter_accessibility_text",
+            "value":"二十七日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentySixth_counter_accessibility_text",
-            "value": "二十六日"
+            "name":"TwentyEighth_counter_accessibility_text",
+            "value":"二十八日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentySeventh_counter_accessibility_text",
-            "value": "二十七日"
+            "name":"TwentyNinth_counter_accessibility_text",
+            "value":"二十九日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyEighth_counter_accessibility_text",
-            "value": "二十八日"
+            "name":"Thirtieth_counter_accessibility_text",
+            "value":"三十日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyNinth_counter_accessibility_text",
-            "value": "二十九日"
+            "name":"ThirtyFirst_counter_accessibility_text",
+            "value":"三十一日",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Thirtieth_counter_accessibility_text",
-            "value": "三十日"
+            "name":"input_counter_double_click_description",
+            "value":"單指輕觸兩下即可輸入內容",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ThirtyFirst_counter_accessibility_text",
-            "value": "三十一日"
+            "name":"prev_arrow_accessibility_text",
+            "value":"上一頁",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "input_counter_double_click_description",
-            "value": "單指輕觸兩下即可輸入內容"
+            "name":"next_arrow_accessibility_text",
+            "value":"下一頁",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"off_used_for_accessibility_text",
+            "value":"關閉",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"navigation_back",
+            "value":"返回",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sheet_close",
+            "value":"關閉",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"arkui_app_bar_close",
@@ -1241,30 +1520,9 @@
             }
         },
         {
-            "name":"off_used_for_accessibility_text",
-            "value":"關閉",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name": "navigation_back",
-            "value": "返回",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "sheet_close",
-            "value": "關閉",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
             "name":"arkui_app_bar_maximize",
             "value":"最大化",
-            "attr": {
+            "attr":{
                 "priority":"translate"
             }
         },
@@ -1283,17 +1541,17 @@
             }
         },
         {
-            "name": "form_disable_app_locked",
-            "value": "應用程式已上鎖",
-            "attr": {
-                "priority": "translate"
+            "name":"form_disable_app_locked",
+            "value":"應用程式已上鎖",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "arkui_app_bar_provide_service",
-            "value": "%s提供服務",
-            "attr": {
-                "priority": "translate"
+            "name":"arkui_app_bar_provide_service",
+            "value":"%s提供服務",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
@@ -1307,21 +1565,21 @@
             "name":"notification_screen_recording_privacy_off",
             "value":"隱私保護已停用，輕觸查看更多",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"隱私保護中，輕觸查看更多",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_ask_celia",
             "value":"問問小藝",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1335,96 +1593,110 @@
             "name":"general_ai_menu_email",
             "value":"撰寫新郵件",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_phone_number",
             "value":"通話",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_url",
             "value":"開啟連結",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_date",
             "value":"新建日程",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_open_map_app",
             "value":"使用「花瓣地圖」導航",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_url_open_browser_app",
             "value":"使用「華為瀏覽器」開啟",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_install_map_app",
             "value":"輕觸安裝花瓣地圖 App",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_display_failed",
             "value":"預覽顯示失敗",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_install_calendar_app",
             "value":"輕觸安裝日曆 App",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_feature_loud_volume_tittle",
             "value":"超級大音量",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_enable_loud_volume_tittle",
             "value":"已開啟",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_retry",
             "value":"請安裝日曆 App，然後再試",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_location_title",
             "value":"位置",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_link_title",
             "value":"網址",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"textinput_text_counter",
+            "value":"%1$d/%2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"due_control_form",
+            "value":"卡片暫時無法使用，請等待應用程式更新",
             "attr":{
                 "priority":"translate"
             }

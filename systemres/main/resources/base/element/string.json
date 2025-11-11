@@ -1,527 +1,553 @@
 {
-    "string": [
+    "string":[
         {
-            "name": "ohos_id_text_font_family_regular",
-            "value": "sans-serif"
+            "name":"ohos_id_text_font_family_regular",
+            "value":"sans-serif"
         },
         {
-            "name": "ohos_id_text_font_family_medium",
-            "value": "HwChinese-medium"
+            "name":"ohos_id_text_font_family_medium",
+            "value":"HwChinese-medium"
         },
         {
-            "name": "ohos_lab_answer_call",
-            "value": "Answer phone calls"
+            "name":"ohos_lab_answer_call",
+            "value":"Answer phone calls"
         },
         {
-            "name": "ohos_desc_answer_call",
-            "value": "Allows an application to answer incoming calls."
+            "name":"ohos_desc_answer_call",
+            "value":"Allows an application to answer incoming calls."
         },
         {
-            "name": "ohos_lab_internet",
-            "value": "Access Internet"
+            "name":"ohos_lab_internet",
+            "value":"Access Internet"
         },
         {
-            "name": "ohos_desc_internet",
-            "value": "Allows an application to access the Internet."
+            "name":"ohos_desc_internet",
+            "value":"Allows an application to access the Internet."
         },
         {
-            "name": "ohos_lab_modify_audio_settings",
-            "value": "Play audio"
+            "name":"ohos_lab_modify_audio_settings",
+            "value":"Play audio"
         },
         {
-            "name": "ohos_desc_modify_audio_settings",
-            "value": "Allows an application to enable or disable the audio playback channel."
+            "name":"ohos_desc_modify_audio_settings",
+            "value":"Allows an application to enable or disable the audio playback channel."
         },
         {
-            "name": "ohos_lab_read_calendar",
-            "value": "Access calendar"
-        },
-        {
-            "name": "ohos_desc_read_calendar",
-            "value": "Allows an application to read calendar information."
-        },
-        {
-            "name": "ohos_lab_read_call_log",
-            "value": "Read call logs"
-        },
-        {
-            "name": "ohos_desc_read_call_log",
-            "value": "Allows an application to read call logs."
-        },
-        {
-            "name": "ohos_lab_read_cell_messages",
-            "value": "Read cell broadcast messages"
-        },
-        {
-            "name": "ohos_desc_read_cell_messages",
-            "value": "Allows an application to read cell broadcast messages received by the device."
-        },
-        {
-            "name": "ohos_lab_read_contacts",
-            "value": "Read contacts"
-        },
-        {
-            "name": "ohos_desc_read_contacts",
-            "value": "Allows an application to read Contacts."
-        },
-        {
-            "name": "ohos_lab_get_telephony_state",
-            "value": "Read telephony information"
-        },
-        {
-            "name": "ohos_lab_get_phone_numbers",
-            "value": "Read MSISDN of SIM card"
-        },
-        {
-            "name": "ohos_desc_get_telephony_state",
-            "value": "Allows an application to access telephony information, including the phone number, device ID, voice mailbox, IMEI, and ICCID."
-        },
-        {
-            "name": "ohos_desc_get_phone_numbers",
-            "value": "Allows an application to access MSISDN of SIM card"
-        },
-        {
-            "name": "ohos_lab_read_messages",
-            "value": "Read SMS/MMS messages"
-        },
-        {
-            "name": "ohos_desc_read_messages",
-            "value": "Allows an application to read SMS/MMS messages."
-        },
-        {
-            "name": "ohos_lab_receive_mms",
-            "value": "Receive MMS messages"
-        },
-        {
-            "name": "ohos_desc_receive_mms",
-            "value": "Allows an application to receive MMS messages."
-        },
-        {
-            "name": "ohos_lab_receive_sms",
-            "value": "Receive SMS messages"
-        },
-        {
-            "name": "ohos_desc_receive_sms",
-            "value": "Allows an application to receive SMS messages."
-        },
-        {
-            "name": "ohos_lab_receive_wap_messages",
-            "value": "Receive WAP messages"
-        },
-        {
-            "name": "ohos_desc_receive_wap_messages",
-            "value": "Allows an application to receive WAP messages."
-        },
-        {
-            "name": "ohos_lab_microphone",
-            "value": "Record audio"
-        },
-        {
-            "name": "ohos_desc_microphone",
-            "value": "Allows an application to enable or disable the audio recording channel."
-        },
-        {
-            "name": "ohos_lab_send_messages",
-            "value": "Send SMS/MMS messages"
-        },
-        {
-            "name": "ohos_desc_send_messages",
-            "value": "Allows an application to send SMS/MMS messages."
-        },
-        {
-            "name": "ohos_lab_write_calendar",
-            "value": "Modify calendar"
-        },
-        {
-            "name": "ohos_desc_write_calendar",
-            "value": "Allows an application to add, modify, and delete calendar events."
-        },
-        {
-            "name": "ohos_lab_write_call_log",
-            "value": "Add/Modify/Delete call logs"
-        },
-        {
-            "name": "ohos_desc_write_call_log",
-            "value": "Allows an application to add, modify, and delete call logs."
-        },
-        {
-            "name": "ohos_lab_write_contacts",
-            "value": "Create, modify, and delete contacts",
-            "attr": {
-                "priority": "LT"
+            "name":"ohos_lab_read_calendar",
+            "value":"Access calendar",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_desc_write_contacts",
-            "value": "Allows an application to add, modify, and delete Contacts."
+            "name":"ohos_desc_read_calendar",
+            "value":"Allows an application to read calendar information."
         },
         {
-            "name": "ohos_lab_distributed_datasync",
-            "value": "Obtain the device location"
+            "name":"ohos_lab_read_call_log",
+            "value":"Read call logs"
         },
         {
-            "name": "ohos_desc_distributed_datasync",
-            "value": "Allows a background application to obtain the device location."
+            "name":"ohos_desc_read_call_log",
+            "value":"Allows an application to read call logs."
         },
         {
-            "name": "ohos_lab_manage_voicemail",
-            "value": "Manage the voice mailbox"
+            "name":"ohos_lab_read_cell_messages",
+            "value":"Read cell broadcast messages"
         },
         {
-            "name": "ohos_desc_manage_voicemail",
-            "value": "Allows an application to manage the voice mailbox."
+            "name":"ohos_desc_read_cell_messages",
+            "value":"Allows an application to read cell broadcast messages received by the device."
         },
         {
-            "name": "ohos_lab_location_in_background",
-            "value": "Obtain the device location in background"
+            "name":"ohos_lab_read_contacts",
+            "value":"Read contacts",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_desc_location_in_background",
-            "value": "Allows a background application to obtain the device location."
+            "name":"ohos_desc_read_contacts",
+            "value":"Allows an application to read Contacts."
         },
         {
-            "name": "ohos_lab_location",
-            "value": "Obtain the device location in foreground"
+            "name":"ohos_lab_get_telephony_state",
+            "value":"Read telephony information"
         },
         {
-            "name": "ohos_desc_location",
-            "value": "Allows a foreground application to obtain the device location."
+            "name":"ohos_lab_get_phone_numbers",
+            "value":"Read MSISDN of SIM card"
         },
         {
-            "name": "ohos_lab_approximately_location",
-            "value": "Obtain the device approximately location"
+            "name":"ohos_desc_get_telephony_state",
+            "value":"Allows an application to access telephony information, including the phone number, device ID, voice mailbox, IMEI, and ICCID."
         },
         {
-            "name": "ohos_desc_approximately_location",
-            "value": "Allows a application to obtain the device approximately location."
+            "name":"ohos_desc_get_phone_numbers",
+            "value":"Allows an application to access MSISDN of SIM card"
         },
         {
-            "name": "ohos_lab_media_location",
-            "value":"Location information tagged to images"
+            "name":"ohos_lab_read_messages",
+            "value":"Read SMS/MMS messages"
         },
         {
-            "name": "ohos_desc_media_location",
-            "value": "Allows an application to read the location where a photo is taken, such as the longitude and latitude."
+            "name":"ohos_desc_read_messages",
+            "value":"Allows an application to read SMS/MMS messages."
         },
         {
-            "name": "ohos_lab_get_network_info",
-            "value": "Read network information"
+            "name":"ohos_lab_receive_mms",
+            "value":"Receive MMS messages"
         },
         {
-            "name": "ohos_desc_get_network_info",
-            "value": "Allows an application to obtain network information."
+            "name":"ohos_desc_receive_mms",
+            "value":"Allows an application to receive MMS messages."
         },
         {
-            "name": "ohos_lab_place_call",
-            "value": "Make calls"
+            "name":"ohos_lab_receive_sms",
+            "value":"Receive SMS messages"
         },
         {
-            "name": "ohos_desc_place_call",
-            "value": "Allows an application to make calls without starting the dialer."
+            "name":"ohos_desc_receive_sms",
+            "value":"Allows an application to receive SMS messages."
         },
         {
-            "name": "ohos_lab_camera",
-            "value": "Take photos or shoot videos"
+            "name":"ohos_lab_receive_wap_messages",
+            "value":"Receive WAP messages"
         },
         {
-            "name": "ohos_desc_camera",
-            "value": "Allows an application to take photos and shoot videos."
+            "name":"ohos_desc_receive_wap_messages",
+            "value":"Allows an application to receive WAP messages."
         },
         {
-            "name": "ohos_lab_set_network_info",
-            "value": "Set data network"
+            "name":"ohos_lab_microphone",
+            "value":"Record audio"
         },
         {
-            "name": "ohos_desc_set_network_info",
-            "value": "Allows an application to set data network information."
+            "name":"ohos_desc_microphone",
+            "value":"Allows an application to enable or disable the audio recording channel."
         },
         {
-            "name": "ohos_lab_read_media",
-            "value": "Read media files"
+            "name":"ohos_lab_send_messages",
+            "value":"Send SMS/MMS messages"
         },
         {
-            "name": "ohos_desc_read_media",
-            "value": "Allows an application to read media files, such as video and audio clips and images."
+            "name":"ohos_desc_send_messages",
+            "value":"Allows an application to send SMS/MMS messages."
         },
         {
-            "name": "ohos_lab_write_media",
-            "value": "Read and write media files"
+            "name":"ohos_lab_write_calendar",
+            "value":"Modify calendar",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_desc_write_media",
-            "value": "Allows an application to read and write media files, such as video and audio clips and images."
+            "name":"ohos_desc_write_calendar",
+            "value":"Allows an application to add, modify, and delete calendar events."
         },
         {
-            "name": "ohos_lab_enroll_biometric",
-            "value": "Manage biological features"
+            "name":"ohos_lab_write_call_log",
+            "value":"Add/Modify/Delete call logs"
         },
         {
-            "name": "ohos_desc_enroll_biometric",
-            "value": "Allows an application to manage biometrical features."
+            "name":"ohos_desc_write_call_log",
+            "value":"Allows an application to add, modify, and delete call logs."
         },
         {
-            "name": "ohos_lab_access_biometric",
-            "value": "Biometric feature authentication"
+            "name":"ohos_lab_write_contacts",
+            "value":"Create, modify, and delete contacts",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_desc_access_biometric",
-            "value": "Allows an application to use biometric features for authentication."
+            "name":"ohos_desc_write_contacts",
+            "value":"Allows an application to add, modify, and delete Contacts."
         },
         {
-            "name": "ohos_lab_access_biometric_internal",
-            "value": "Biometric feature authentication for system applications"
+            "name":"ohos_lab_distributed_datasync",
+            "value":"Obtain the device location"
         },
         {
-            "name": "ohos_desc_access_biometric_internal",
-            "value": "Allows a system application to use biometric features for authentication."
+            "name":"ohos_desc_distributed_datasync",
+            "value":"Allows a background application to obtain the device location."
         },
         {
-            "name": "ohos_lab_reset_biometric_lockout",
-            "value": "Reset the upper limit for biometric feature authentication failures"
+            "name":"ohos_lab_manage_voicemail",
+            "value":"Manage the voice mailbox"
         },
         {
-            "name": "ohos_desc_reset_biometric_lockout",
-            "value": "Allows an application to reset the maximum number of failures allowed before biometric feature authentication is locked."
+            "name":"ohos_desc_manage_voicemail",
+            "value":"Allows an application to manage the voice mailbox."
         },
         {
-            "name": "ohos_lab_set_time",
-            "value": "Set the system time"
+            "name":"ohos_lab_location_in_background",
+            "value":"Obtain the device location in background"
         },
         {
-            "name": "ohos_desc_set_time",
-            "value": "Allows an application to set the system time."
+            "name":"ohos_desc_location_in_background",
+            "value":"Allows a background application to obtain the device location."
         },
         {
-            "name": "ohos_lab_set_time_zone",
-            "value": "Set the system time zone"
+            "name":"ohos_lab_location",
+            "value":"Obtain the device location in foreground"
         },
         {
-            "name": "ohos_desc_set_time_zone",
-            "value": "Allows an application to set the system time zone."
+            "name":"ohos_desc_location",
+            "value":"Allows a foreground application to obtain the device location."
         },
         {
-            "name": "ohos_lab_download_session_manager",
-            "value": "Manage download sessions"
+            "name":"ohos_lab_approximately_location",
+            "value":"Obtain the device approximately location"
         },
         {
-            "name": "ohos_desc_download_session_manager",
-            "value": "Allows an application to manage download sessions."
+            "name":"ohos_desc_approximately_location",
+            "value":"Allows a application to obtain the device approximately location."
         },
         {
-            "name": "ohos_lab_commonevent_sticky",
-            "value": "Sticky common events"
+            "name":"ohos_lab_media_location",
+            "value":"Location information tagged to images",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_desc_commonevent_sticky",
-            "value": "Allows an application to publish sticky common events."
+            "name":"ohos_desc_media_location",
+            "value":"Allows an application to read the location where a photo is taken, such as the longitude and latitude."
         },
         {
-            "name": "ohos_lab_manage_local_accounts",
-            "value": "Manage local accounts"
+            "name":"ohos_lab_get_network_info",
+            "value":"Read network information"
         },
         {
-            "name": "ohos_desc_manage_local_accounts",
-            "value": "Allows an application to add, delete, modify, and query local accounts."
+            "name":"ohos_desc_get_network_info",
+            "value":"Allows an application to obtain network information."
         },
         {
-            "name": "ohos_lab_interact_across_local_accounts",
-            "value": "Multi-account mutual access"
+            "name":"ohos_lab_place_call",
+            "value":"Make calls"
         },
         {
-            "name": "ohos_desc_interact_across_local_accounts",
-            "value": "Allows an application to access accounts of other applications."
+            "name":"ohos_desc_place_call",
+            "value":"Allows an application to make calls without starting the dialer."
         },
         {
-            "name": "ohos_lab_vibrate",
-            "value": "Vibrate"
+            "name":"ohos_lab_camera",
+            "value":"Take photos or shoot videos"
         },
         {
-            "name": "ohos_desc_vibrate",
-            "value": "Allows an application to use the vibrator."
+            "name":"ohos_desc_camera",
+            "value":"Allows an application to take photos and shoot videos."
         },
         {
-            "name": "ohos_lab_activity_motion",
-            "value": "Read workout status"
+            "name":"ohos_lab_set_network_info",
+            "value":"Set data network"
         },
         {
-            "name": "ohos_desc_activity_motion",
-            "value": "Allows an application to read the workout status of the user."
+            "name":"ohos_desc_set_network_info",
+            "value":"Allows an application to set data network information."
         },
         {
-            "name": "ohos_lab_read_health_data",
-            "value": "Read health data"
+            "name":"ohos_lab_read_media",
+            "value":"Read media files"
         },
         {
-            "name": "ohos_desc_read_health_data",
-            "value": "Allows an application to read the health data of the user."
+            "name":"ohos_desc_read_media",
+            "value":"Allows an application to read media files, such as video and audio clips and images."
         },
         {
-            "name": "ohos_lab_connect_ime_ability",
-            "value": "Bind to the input method framework"
+            "name":"ohos_lab_write_media",
+            "value":"Read and write media files"
         },
         {
-            "name": "ohos_desc_connect_ime_ability",
-            "value": "Allows an application to be invoked by the input method framework."
+            "name":"ohos_desc_write_media",
+            "value":"Allows an application to read and write media files, such as video and audio clips and images."
         },
         {
-            "name": "ohos_lab_set_wallpaper",
-            "value": "Set static wallpapers"
+            "name":"ohos_lab_enroll_biometric",
+            "value":"Manage biological features"
         },
         {
-            "name": "ohos_desc_set_wallpaper",
-            "value": "Allows an application to set a static wallpaper."
+            "name":"ohos_desc_enroll_biometric",
+            "value":"Allows an application to manage biometrical features."
         },
         {
-            "name": "ohos_lab_get_wallpaper",
-            "value": "Read wallpaper files"
+            "name":"ohos_lab_access_biometric",
+            "value":"Biometric feature authentication"
         },
         {
-            "name": "ohos_desc_get_wallpaper",
-            "value": "Allows an application to read wallpaper files."
+            "name":"ohos_desc_access_biometric",
+            "value":"Allows an application to use biometric features for authentication."
         },
         {
-            "name": "ohos_lab_interact_across_local_accounts_extension",
-            "value": "Multi-account access extension"
+            "name":"ohos_lab_access_biometric_internal",
+            "value":"Biometric feature authentication for system applications"
         },
         {
-            "name": "ohos_desc_interact_across_local_accounts_extension",
-            "value": "Allows an application to set the attributes of applications of other users."
+            "name":"ohos_desc_access_biometric_internal",
+            "value":"Allows a system application to use biometric features for authentication."
         },
         {
-            "name": "ohos_lab_accelerometer",
-            "value": "Read acceleration sensor data"
+            "name":"ohos_lab_reset_biometric_lockout",
+            "value":"Reset the upper limit for biometric feature authentication failures"
         },
         {
-            "name": "ohos_desc_accelerometer",
-            "value": "Allows an application to read data from an acceleration sensor."
+            "name":"ohos_desc_reset_biometric_lockout",
+            "value":"Allows an application to reset the maximum number of failures allowed before biometric feature authentication is locked."
         },
         {
-            "name": "ohos_lab_gyroscope",
-            "value": "Read gyroscope sensor data"
+            "name":"ohos_lab_set_time",
+            "value":"Set the system time"
         },
         {
-            "name": "ohos_desc_gyroscope",
-            "value": "Allows an application to read data from a gyroscope sensor."
+            "name":"ohos_desc_set_time",
+            "value":"Allows an application to set the system time."
         },
         {
-            "name": "ohos_lab_set_telephony_state",
-            "value": "Set telephony state"
+            "name":"ohos_lab_set_time_zone",
+            "value":"Set the system time zone"
         },
         {
-            "name": "ohos_desc_set_telephony_state",
-            "value": "Allows an application to set the telephony state, for example, to enable or disable the airplane mode, and change the network mode."
+            "name":"ohos_desc_set_time_zone",
+            "value":"Allows an application to set the system time zone."
         },
         {
-            "name": "ohos_lab_bundle_active_info",
-            "value": "Query application running time"
+            "name":"ohos_lab_download_session_manager",
+            "value":"Manage download sessions"
         },
         {
-            "name": "ohos_desc_bundle_active_info",
-            "value": "Allows a system application or privileged application to obtain how long other applications have been running in the foreground or background."
+            "name":"ohos_desc_download_session_manager",
+            "value":"Allows an application to manage download sessions."
         },
         {
-            "name": "ohos_lab_publish_agent_reminder",
-            "value": "Agent-powered reminder"
+            "name":"ohos_lab_commonevent_sticky",
+            "value":"Sticky common events"
         },
         {
-            "name": "ohos_desc_publish_agent_reminder",
-            "value": "Allows an application to use agent-powered reminders."
+            "name":"ohos_desc_commonevent_sticky",
+            "value":"Allows an application to publish sticky common events."
         },
         {
-            "name": "ohos_lab_control_task_sync_animator",
-            "value": "Sync task animation"
+            "name":"ohos_lab_manage_local_accounts",
+            "value":"Manage local accounts"
         },
         {
-            "name": "ohos_desc_control_task_sync_animator",
-            "value": "Allows an application to use sync task animations."
+            "name":"ohos_desc_manage_local_accounts",
+            "value":"Allows an application to add, delete, modify, and query local accounts."
         },
         {
-            "name": "ohos_lab_notification_controller",
-            "value": "System interfaces"
+            "name":"ohos_lab_interact_across_local_accounts",
+            "value":"Multi-account mutual access"
         },
         {
-            "name": "ohos_desc_notification_controller",
-            "value": "Allows an application to use notification management interfaces."
+            "name":"ohos_desc_interact_across_local_accounts",
+            "value":"Allows an application to access accounts of other applications."
         },
         {
-            "name": "ohos_lab_read_imagevideo",
-            "value": "Images & videos"
+            "name":"ohos_lab_vibrate",
+            "value":"Vibrate"
         },
         {
-            "name": "ohos_desc_read_imagevideo",
-            "value": "Read images & videos"
+            "name":"ohos_desc_vibrate",
+            "value":"Allows an application to use the vibrator."
         },
         {
-            "name": "ohos_lab_read_audio",
-            "value": "Audios"
+            "name":"ohos_lab_activity_motion",
+            "value":"Read workout status"
         },
         {
-            "name": "ohos_desc_read_audio",
-            "value": "Read audios"
+            "name":"ohos_desc_activity_motion",
+            "value":"Allows an application to read the workout status of the user."
         },
         {
-            "name": "ohos_lab_read_document",
-            "value": "Documents"
+            "name":"ohos_lab_read_health_data",
+            "value":"Read health data"
         },
         {
-            "name": "ohos_desc_read_document",
-            "value": "Read documents"
+            "name":"ohos_desc_read_health_data",
+            "value":"Allows an application to read the health data of the user."
         },
         {
-            "name": "ohos_lab_write_imagevideo",
-            "value": "Images & videos"
+            "name":"ohos_lab_connect_ime_ability",
+            "value":"Bind to the input method framework"
         },
         {
-            "name": "ohos_desc_write_imagevideo",
-            "value": "Create, modify or delete images & videos"
+            "name":"ohos_desc_connect_ime_ability",
+            "value":"Allows an application to be invoked by the input method framework."
         },
         {
-            "name": "ohos_lab_write_audio",
-            "value": "Audios"
+            "name":"ohos_lab_set_wallpaper",
+            "value":"Set static wallpapers"
         },
         {
-            "name": "ohos_desc_write_audio",
-            "value": "Create, modify or delete audios"
+            "name":"ohos_desc_set_wallpaper",
+            "value":"Allows an application to set a static wallpaper."
         },
         {
-            "name": "ohos_lab_write_document",
-            "value": "Documents"
+            "name":"ohos_lab_get_wallpaper",
+            "value":"Read wallpaper files"
         },
         {
-            "name": "ohos_desc_write_document",
-            "value": "Create, modify or delete documents"
+            "name":"ohos_desc_get_wallpaper",
+            "value":"Allows an application to read wallpaper files."
         },
         {
-            "name": "ohos_lab_read_whole_calendar",
-            "value": "Read all calendar data"
+            "name":"ohos_lab_interact_across_local_accounts_extension",
+            "value":"Multi-account access extension"
         },
         {
-            "name": "ohos_desc_read_whole_calendar",
-            "value": "Allows an application to read the whole calendar information."
+            "name":"ohos_desc_interact_across_local_accounts_extension",
+            "value":"Allows an application to set the attributes of applications of other users."
         },
         {
-            "name": "ohos_lab_write_whole_calendar",
-            "value": "Create, modify, and delete all calendar data"
+            "name":"ohos_lab_accelerometer",
+            "value":"Read acceleration sensor data"
         },
         {
-            "name": "ohos_desc_write_whole_calendar",
-            "value": "Allows an application to add, modify, and delete the whole calendar events."
+            "name":"ohos_desc_accelerometer",
+            "value":"Allows an application to read data from an acceleration sensor."
         },
         {
-            "name": "ohos_lab_app_tracking_consent",
-            "value": "App tracking consent."
+            "name":"ohos_lab_gyroscope",
+            "value":"Read gyroscope sensor data"
         },
         {
-            "name": "ohos_desc_app_tracking_consent",
-            "value": "Allows an application to access the open advertising identifier."
+            "name":"ohos_desc_gyroscope",
+            "value":"Allows an application to read data from a gyroscope sensor."
         },
         {
-            "name": "ohos_lab_get_installed_bundle_list",
-            "value": "Get the installed bundle list."
+            "name":"ohos_lab_set_telephony_state",
+            "value":"Set telephony state"
         },
         {
-            "name": "ohos_desc_get_installed_bundle_list",
-            "value": "Allows an application to get the installed bundle list."
+            "name":"ohos_desc_set_telephony_state",
+            "value":"Allows an application to set the telephony state, for example, to enable or disable the airplane mode, and change the network mode."
+        },
+        {
+            "name":"ohos_lab_bundle_active_info",
+            "value":"Query application running time"
+        },
+        {
+            "name":"ohos_desc_bundle_active_info",
+            "value":"Allows a system application or privileged application to obtain how long other applications have been running in the foreground or background."
+        },
+        {
+            "name":"ohos_lab_publish_agent_reminder",
+            "value":"Agent-powered reminder"
+        },
+        {
+            "name":"ohos_desc_publish_agent_reminder",
+            "value":"Allows an application to use agent-powered reminders."
+        },
+        {
+            "name":"ohos_lab_control_task_sync_animator",
+            "value":"Sync task animation"
+        },
+        {
+            "name":"ohos_desc_control_task_sync_animator",
+            "value":"Allows an application to use sync task animations."
+        },
+        {
+            "name":"ohos_lab_notification_controller",
+            "value":"System interfaces"
+        },
+        {
+            "name":"ohos_desc_notification_controller",
+            "value":"Allows an application to use notification management interfaces."
+        },
+        {
+            "name":"ohos_lab_read_imagevideo",
+            "value":"Images & videos"
+        },
+        {
+            "name":"ohos_desc_read_imagevideo",
+            "value":"Read images & videos"
+        },
+        {
+            "name":"ohos_lab_read_audio",
+            "value":"Audios"
+        },
+        {
+            "name":"ohos_desc_read_audio",
+            "value":"Read audios"
+        },
+        {
+            "name":"ohos_lab_read_document",
+            "value":"Documents"
+        },
+        {
+            "name":"ohos_desc_read_document",
+            "value":"Read documents"
+        },
+        {
+            "name":"ohos_lab_write_imagevideo",
+            "value":"Images & videos"
+        },
+        {
+            "name":"ohos_desc_write_imagevideo",
+            "value":"Create, modify or delete images & videos"
+        },
+        {
+            "name":"ohos_lab_write_audio",
+            "value":"Audios"
+        },
+        {
+            "name":"ohos_desc_write_audio",
+            "value":"Create, modify or delete audios"
+        },
+        {
+            "name":"ohos_lab_write_document",
+            "value":"Documents"
+        },
+        {
+            "name":"ohos_desc_write_document",
+            "value":"Create, modify or delete documents"
+        },
+        {
+            "name":"ohos_lab_read_whole_calendar",
+            "value":"Read all calendar data",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ohos_desc_read_whole_calendar",
+            "value":"Allows an application to read the whole calendar information."
+        },
+        {
+            "name":"ohos_lab_write_whole_calendar",
+            "value":"Create, modify, and delete all calendar data",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ohos_desc_write_whole_calendar",
+            "value":"Allows an application to add, modify, and delete the whole calendar events."
+        },
+        {
+            "name":"ohos_lab_app_tracking_consent",
+            "value":"App tracking consent."
+        },
+        {
+            "name":"ohos_desc_app_tracking_consent",
+            "value":"Allows an application to access the open advertising identifier."
+        },
+        {
+            "name":"ohos_lab_get_installed_bundle_list",
+            "value":"Get the installed bundle list."
+        },
+        {
+            "name":"ohos_desc_get_installed_bundle_list",
+            "value":"Allows an application to get the installed bundle list."
+        },
+        {
+            "name":"ohos_desc_timeout_screenoff_disable_lock",
+            "value":"With this permission, the application prevents the device from locking by default when the screen turns off after a timeout."
+        },
+        {
+            "name":"ohos_lab_timeout_screenoff_disable_lock",
+            "value":"Allows an application to turn off the screen but keep it unlocked after a timeout."
         },
         {
             "name":"ohos_id_text_location_button_description_current_location",
@@ -604,28 +630,28 @@
             "name":"ohos_id_text_paste_button_description_paste",
             "value":"Paste",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download",
             "value":"Download",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_file",
             "value":"Download file",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save",
             "value":"Save",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -639,80 +665,92 @@
             "name":"ohos_id_text_save_button_description_save_file",
             "value":"Save file",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_and_share",
             "value":"Download & share",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_receive",
             "value":"Save",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_continue_to_receive",
             "value":"Save",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_to_gallery",
             "value":"Save to Gallery",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_export_to_gallery",
             "value":"Export",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
             "value":"Save to Gallery",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
             "value":"Save",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_save_all",
             "value":"Save all",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_drawable_descriptor_path",
-            "value": "M54.38,0h83.24c18.91,0,25.77,1.97,32.68,5.67,6.91,3.7,12.34,9.12,16.03,16.03,3.7,6.91,5.67,13.77,5.67,32.68v83.24c0,18.91-1.97,25.77-5.67,32.68-3.7,6.91-9.12,12.34-16.03,16.03s-13.77,5.67-32.68,5.67H54.38c-18.91,0-25.77-1.97-32.68-5.67-6.91-3.7-12.34-9.12-16.03-16.03-3.7-6.91-5.67-13.77-5.67-32.68V54.38C0,35.47,1.97,28.61,5.67,21.7c3.7-6.91,9.12-12.34,16.03-16.03C28.61,1.97,35.47,0,54.38,0h0Z"
+            "name":"ohos_drawable_descriptor_path",
+            "value":"M54.38,0h83.24c18.91,0,25.77,1.97,32.68,5.67,6.91,3.7,12.34,9.12,16.03,16.03,3.7,6.91,5.67,13.77,5.67,32.68v83.24c0,18.91-1.97,25.77-5.67,32.68-3.7,6.91-9.12,12.34-16.03,16.03s-13.77,5.67-32.68,5.67H54.38c-18.91,0-25.77-1.97-32.68-5.67-6.91-3.7-12.34-9.12-16.03-16.03-3.7-6.91-5.67-13.77-5.67-32.68V54.38C0,35.47,1.97,28.61,5.67,21.7c3.7-6.91,9.12-12.34,16.03-16.03C28.61,1.97,35.47,0,54.38,0h0Z"
         },
         {
-            "name": "ohos_lab_access_bluetooth",
-            "value": "Allow to access and use bluetooth capabilities"
+            "name":"ohos_lab_access_bluetooth",
+            "value":"Allow to access and use bluetooth capabilities"
         },
         {
-            "name": "ohos_desc_access_bluetooth",
-            "value": "Allow to access and use bluetooth capabilities, such as discovering remote devices, pairing with remote bluetooth devices, and connecting to remote bluetooth devices, and broadcasting and scanning functions of bluetooth Low Energy"
+            "name":"ohos_desc_access_bluetooth",
+            "value":"Allow to access and use bluetooth capabilities, such as discovering remote devices, pairing with remote bluetooth devices, and connecting to remote bluetooth devices, and broadcasting and scanning functions of bluetooth Low Energy"
         },
         {
-            "name": "ohos_id_draggable_default",
-            "value": "0"
+            "name":"ohos_id_draggable_default",
+            "value":"0"
+        },
+        {
+            "name":"ohos_id_divider_shadow_enable_default",
+            "value":"0"
+        },
+        {
+            "name":"ohos_lab_read_pasteboard",
+            "value":"Read pasteboard"
+        },
+        {
+            "name":"ohos_desc_read_pasteboard",
+            "value":"Allows an application to read pasteboard"
         },
         {
             "name":"ohos_id_input_method_settings",
@@ -722,389 +760,387 @@
             }
         },
         {
-            "name": "ohos_lab_read_pasteboard",
-            "value": "Read pasteboard"
-        },
-        {
-            "name": "ohos_desc_read_pasteboard",
-            "value": "Allows an application to read pasteboard"
-        },
-        {
-            "name": "ohos_id_divider_shadow_enable_default",
-            "value": "0"
-        },
-        {
-            "name": "ohos_id_text_camera_input",
-            "value": "Photo input"
-        },
-        {
-            "name": "ai_write_menu_name",
-            "value": "Celia Writer"
-        },
-        {
-            "name": "ohos_id_section_unfocus_effect_enable_default",
-            "value": "0"
-        },
-        {
-            "name": "ohos_id_sheet_type",
-            "value": "auto"
-        },
-        {
-            "name": "ohos_id_sheet_bottom",
-            "value": "auto"
-        },
-        {
-            "name": "ohos_id_multiple_dialog_display",
-            "value": "stack"
-        },
-        {
-            "name": "ohos_id_expand_display",
-            "value": "false"
-        },
-        {
-            "name": "ohos_lab_read_write_download_directory",
-            "value": "Read Write Download Directory"
-        },
-        {
-            "name": "ohos_desc_read_write_download_directory",
-            "value": "Allows the application to access the Download directory in the public directory"
-        },
-        {
-            "name": "ohos_lab_read_write_documents_directory",
-            "value": "Read Write Documents Directory"
-        },
-        {
-            "name": "ohos_desc_read_write_documents_directory",
-            "value": "Allow the application to access the Documents directory in the public directory"
-        },
-        {
-            "name": "ohos_lab_read_write_desktop_directory",
-            "value": "Read Write Desktop Directory"
-        },
-        {
-            "name": "ohos_desc_read_write_desktop_directory",
-            "value": "Allow the application to access the Desktop directory in the public directory"
-        },
-        {
-            "name": "ohos_id_day_font_weight",
-            "value": "500"
-        },
-        {
-            "name": "ohos_id_work_state_font_weight",
-            "value": "400"
-        },
-        {
-            "name": "ohos_id_popup_double_border_enable_default",
-            "value": "0"
-        },
-        {
-            "name": "ohos_id_menu_bg_blur_effect_enable_default",
-            "value": "0"
-        },
-        {
-            "name": "ohos_id_menu_double_border_enable_default",
-            "value": "0"
-        },
-        {
-            "name": "tips_double_border_enable_default",
-            "value": "1"
-        },
-        {
-            "name": "ohos_grid_edit_title_edit",
-            "value": "Edit",
-            "attr": {
-                "priority": "LT"
+            "name":"ohos_id_text_camera_input",
+            "value":"Photo input",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_grid_edit_title_chanel",
-            "value": "Categories",
-            "attr": {
-                "priority": "LT"
+            "name":"ai_write_menu_name",
+            "value":"Celia Writer",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_grid_edit_subtitle_sort",
-            "value": "Drag to sort",
-            "attr": {
-                "priority": "LT"
+            "name":"ohos_id_sheet_type",
+            "value":"auto"
+        },
+        {
+            "name":"ohos_id_sheet_bottom",
+            "value":"auto"
+        },
+        {
+            "name":"ohos_id_multiple_dialog_display",
+            "value":"stack"
+        },
+        {
+            "name":"ohos_id_expand_display",
+            "value":"false"
+        },
+        {
+            "name":"ohos_id_section_unfocus_effect_enable_default",
+            "value":"0"
+        },
+        {
+            "name":"ohos_lab_read_write_download_directory",
+            "value":"Read Write Download Directory"
+        },
+        {
+            "name":"ohos_desc_read_write_download_directory",
+            "value":"Allows the application to access the Download directory in the public directory"
+        },
+        {
+            "name":"ohos_lab_read_write_documents_directory",
+            "value":"Read Write Documents Directory"
+        },
+        {
+            "name":"ohos_desc_read_write_documents_directory",
+            "value":"Allow the application to access the Documents directory in the public directory"
+        },
+        {
+            "name":"ohos_lab_read_write_desktop_directory",
+            "value":"Read Write Desktop Directory"
+        },
+        {
+            "name":"ohos_desc_read_write_desktop_directory",
+            "value":"Allow the application to access the Desktop directory in the public directory"
+        },
+        {
+            "name":"ohos_id_day_font_weight",
+            "value":"500"
+        },
+        {
+            "name":"ohos_id_work_state_font_weight",
+            "value":"400"
+        },
+        {
+            "name":"ohos_id_popup_double_border_enable_default",
+            "value":"0"
+        },
+        {
+            "name":"ohos_id_menu_bg_blur_effect_enable_default",
+            "value":"0"
+        },
+        {
+            "name":"ohos_id_menu_double_border_enable_default",
+            "value":"0"
+        },
+        {
+            "name":"tips_double_border_enable_default",
+            "value":"1"
+        },
+        {
+            "name":"ohos_grid_edit_title_edit",
+            "value":"Edit",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_grid_edit_subtitle_add",
-            "value": "Tap to add",
-            "attr": {
-                "priority": "LT"
+            "name":"ohos_grid_edit_title_chanel",
+            "value":"Categories",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_network_not_connected",
-            "value": "No Internet connection"
-        },
-        {
-            "name": "ohos_network_connected_unstable",
-            "value": "Poornetwork connection. Touch to try again."
-        },
-        {
-            "name": "ohos_unstable_connect_server",
-            "value": "Unable to connect to the serve. Touch to try again."
-        },
-        {
-            "name": "ohos_custom_network_tips_left",
-            "value": "Unable to get location. Touch to try again."
-        },
-        {
-            "name": "ohos_set_network",
-            "value": "Network settings"
-        },
-        {
-            "name": "ohos_lab_access_nearlink",
-            "value": "Allow to access and use nearlink capabilities"
-        },
-        {
-            "name": "ohos_desc_access_nearlink",
-            "value": "Allow to access and use nearlink capabilities, such as discovering remote devices, pairing with remote nearlink devices, and connecting to remote nearlink devices, and broadcasting and scanning functions"
-        },
-        {
-            "name": "ohos_show_password_directly",
-            "value": "0"
-        },
-        {
-            "name": "ohos_id_text_fadeout_enable_default",
-            "value": "false"
-        },
-        {
-            "name": "ohos_id_list_fadeout_enable_default",
-            "value": "false"
-        },
-        {
-            "name": "ohos_textfield_show_handle",
-            "value": "0"
-        },
-        {
-            "name": "ohos_add_form_to_desktop",
-            "value": "Add to home screen",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_grid_edit_subtitle_sort",
+            "value":"Drag to sort",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "ohos_id_menu_has_filter",
-            "value": "true"
-        },
-        {
-            "name": "ohos_id_calendar_picker_dialog_button_transparent",
-            "value": "true"
-        },
-        {
-            "name": "ohos_id_calendar_picker_dialog_divider_transparent",
-            "value": "false"
-        },
-        {
-            "name": "icon_save",
-            "value": "Save",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_grid_edit_subtitle_add",
+            "value":"Tap to add",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "icon_cancel",
-            "value": "Cancel",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_network_not_connected",
+            "value":"No Internet connection"
+        },
+        {
+            "name":"ohos_network_connected_unstable",
+            "value":"Poornetwork connection. Touch to try again."
+        },
+        {
+            "name":"ohos_unstable_connect_server",
+            "value":"Unable to connect to the serve. Touch to try again."
+        },
+        {
+            "name":"ohos_custom_network_tips_left",
+            "value":"Unable to get location. Touch to try again."
+        },
+        {
+            "name":"ohos_set_network",
+            "value":"Network settings"
+        },
+        {
+            "name":"ohos_lab_access_nearlink",
+            "value":"Allow to access and use nearlink capabilities"
+        },
+        {
+            "name":"ohos_desc_access_nearlink",
+            "value":"Allow to access and use nearlink capabilities, such as discovering remote devices, pairing with remote nearlink devices, and connecting to remote nearlink devices, and broadcasting and scanning functions"
+        },
+        {
+            "name":"ohos_show_password_directly",
+            "value":"0"
+        },
+        {
+            "name":"ohos_id_text_fadeout_enable_default",
+            "value":"false"
+        },
+        {
+            "name":"ohos_id_list_fadeout_enable_default",
+            "value":"false"
+        },
+        {
+            "name":"ohos_textfield_show_handle",
+            "value":"0"
+        },
+        {
+            "name":"ohos_add_form_to_desktop",
+            "value":"Add to home screen",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "icon_back",
-            "value": "Back",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_id_menu_has_filter",
+            "value":"true"
+        },
+        {
+            "name":"ohos_id_calendar_picker_dialog_button_transparent",
+            "value":"true"
+        },
+        {
+            "name":"ohos_id_calendar_picker_dialog_divider_transparent",
+            "value":"false"
+        },
+        {
+            "name":"menu_normal_layout",
+            "value":"1"
+        },
+        {
+            "name":"menu_normal_placement",
+            "value":"1"
+        },
+        {
+            "name":"menu_back_blur",
+            "value":"1"
+        },
+        {
+            "name":"menu_focus_directional_key_enable_default",
+            "value":"0"
+        },
+        {
+            "name":"res_menu_translate_is_support",
+            "value":"0"
+        },
+        {
+            "name":"res_menu_search_is_support",
+            "value":"0"
+        },
+        {
+            "name":"icon_save",
+            "value":"Save",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "menu_normal_layout",
-            "value": "1"
-        },
-        {
-            "name": "menu_normal_placement",
-            "value": "1"
-        },
-        {
-            "name": "menu_back_blur",
-            "value": "1"
-        },
-        {
-            "name": "menu_focus_directional_key_enable_default",
-            "value": "0"
-        },
-        {
-            "name": "form_disable_time_limit",
-            "value": "Time's up",
-            "attr": {
-                "priority": "LT"
+            "name":"icon_cancel",
+            "value":"Cancel",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name" : "textfield_accessibility_property_clear",
-            "value" : "Clear, button"
-        },
-        {
-            "name" : "textfield_accessibility_show_password",
-            "value" : "Show password"
-        },
-        {
-            "name" : "textfield_accessibility_hide_password",
-            "value" : "Don't show password"
-        },
-        {
-            "name": "ohos_toolbar_more",
-            "value": "More",
-            "attr": {
-                "priority": "LT"
+            "name":"icon_back",
+            "value":"Back",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "res_writting_tool_bundle_name",
-            "value": "com.huawei.hmos.vassistant"
-        },
-        {
-            "name": "res_writting_tool_ability_name",
-            "value": "AiofficeAbility"
-        },
-        {
-            "name": "res_writting_tool_is_support",
-            "value": "false"
-        },
-        {
-            "name": "slider_accessibility_selected",
-            "value": "Selected"
-        },
-        {
-            "name": "slider_accessibility_unselected",
-            "value": "Not selected",
-            "attr": {
-                "priority": "translate"
+            "name":"form_disable_time_limit",
+            "value":"Time's up",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "slider_accessibility_unselectedDesc",
-            "value": "Double-tap to select"
-        },
-        {
-            "name": "slider_accessibility_disabledDesc",
-            "value": "Not available"
-        },
-        {
-            "name": "general_confirm",
-            "value": "OK",
-            "attr": {
-                "priority": "translate"
+            "name":"textfield_accessibility_property_clear",
+            "value":"Clear, button",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_last_step",
-            "value": "Previous",
-            "attr": {
-                "priority": "translate"
+            "name":"textfield_accessibility_show_password",
+            "value":"Show password",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_next_step",
-            "value": "Next",
-            "attr": {
-                "priority": "translate"
+            "name":"textfield_accessibility_hide_password",
+            "value":"Don't show password",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "last_updated_time",
-            "value": "Last updated: %s",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_toolbar_more",
+            "value":"More",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_copy",
-            "value": "Copy",
-            "attr": {
-                "priority": "translate"
+            "name":"res_writting_tool_bundle_name",
+            "value":"com.huawei.hmos.vassistant"
+        },
+        {
+            "name":"res_writting_tool_ability_name",
+            "value":"AiofficeAbility"
+        },
+        {
+            "name":"res_writting_tool_is_support",
+            "value":"false"
+        },
+        {
+            "name":"general_confirm",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_cut",
-            "value": "Cut",
-            "attr": {
-                "priority": "translate"
+            "name":"general_last_step",
+            "value":"Previous",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_select_all",
-            "value": "Select all",
-            "attr": {
-                "priority": "translate"
+            "name":"general_next_step",
+            "value":"Next",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_translate",
-            "value": "Translate",
-            "attr": {
-                "priority": "translate"
+            "name":"last_updated_time",
+            "value":"Last updated: %s",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_share",
-            "value": "Share",
-            "attr": {
-                "priority": "translate"
+            "name":"general_copy",
+            "value":"Copy",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_search",
-            "value": "Search"
-        },
-        {
-            "name": "general_open",
-            "value": "On",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cut",
+            "value":"Cut",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_close",
-            "value": "Off",
-            "attr": {
-                "priority": "translate"
+            "name":"general_select_all",
+            "value":"Select all",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_start",
-            "value": "Start",
-            "attr": {
-                "priority": "translate"
+            "name":"general_translate",
+            "value":"Translate",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_skip",
-            "value": "Skip",
-            "attr": {
-                "priority": "translate"
+            "name":"general_share",
+            "value":"Share",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_window_left_screen",
-            "value": "Show on left"
-        },
-        {
-            "name": "general_window_right_screen",
-            "value": "Show on right",
-            "attr": {
-                "priority": "translate"
+            "name":"general_search",
+            "value":"Search",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_display_lunar_calendar",
-            "value": "Show lunar calendar",
-            "attr": {
-                "priority": "translate"
+            "name":"general_open",
+            "value":"On",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_close",
+            "value":"Off",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_start",
+            "value":"Start",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_skip",
+            "value":"Skip",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_left_screen",
+            "value":"Show on left",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_right_screen",
+            "value":"Show on right",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_display_lunar_calendar",
+            "value":"Show lunar calendar",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
@@ -1150,103 +1186,194 @@
             }
         },
         {
-            "name": "general_paste",
-            "value": "Paste",
-            "attr": {
-                "priority": "translate"
+            "name":"general_paste",
+            "value":"Paste",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_cancel",
-            "value": "Cancel",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cancel",
+            "value":"Cancel",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_more",
-            "value": "More",
-            "attr": {
-                "priority": "translate"
+            "name":"general_more",
+            "value":"More",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "stepper_back",
-            "value": "Back",
-            "attr": {
-                "priority": "translate"
+            "name":"stepper_back",
+            "value":"Back",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "calendar_picker_mon",
-            "value": "Monday"
-        },
-        {
-            "name": "calendar_picker_tue",
-            "value": "Tuesday"
-        },
-        {
-            "name": "calendar_picker_wed",
-            "value": "Wednesday"
-        },
-        {
-            "name": "calendar_picker_thu",
-            "value": "Thursday"
-        },
-        {
-            "name": "calendar_picker_fri",
-            "value": "Friday"
-        },
-        {
-            "name": "calendar_picker_sat",
-            "value": "Saturday"
-        },
-        {
-            "name": "calendar_picker_sun",
-            "value": "Sunday"
-        },
-        {
-            "name": "stepper_next",
-            "value": "Next",
-            "attr": {
-                "priority": "translate"
+            "name":"stepper_next",
+            "value":"Next",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "textfield_show_password",
-            "value": "Show password"
+            "name":"textfield_show_password",
+            "value":"Show password",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_hide_password",
-            "value": "Hide password"
+            "name":"textfield_hide_password",
+            "value":"Hide password",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_show_password_button",
-            "value": "Show password, button"
+            "name":"textfield_show_password_button",
+            "value":"Show password, button",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_hide_password_button",
-            "value": "Hide password, button"
+            "name":"textfield_hide_password_button",
+            "value":"Hide password, button",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_has_showed_password",
-            "value": "Password visible"
+            "name":"textfield_has_showed_password",
+            "value":"Password visible",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_has_hidden_password",
-            "value": "Password hidden"
+            "name":"textfield_has_hidden_password",
+            "value":"Password hidden",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_accessibility_clear",
-            "value": "Clear"
+            "name":"slider_accessibility_selected",
+            "value":"Selected",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_lab_short_term_write_imagevideo",
-            "value": "Allows an application to save images and videos to the user's directory within up to 30 minutes after obtaining the permission."
+            "name":"slider_accessibility_unselected",
+            "value":"Not selected",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ohos_desc_short_term_write_imagevideo",
-            "value": "This permission applies to the following scenarios: 1. The application, for example, an H5 web application, cannot use the SaveButton security component. 2. The application needs to save images or videos multiple times consecutively and cannot save all the images or videos at a time in a save confirmation dialog box."
+            "name":"slider_accessibility_unselectedDesc",
+            "value":"Double-tap to select",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_disabledDesc",
+            "value":"Not available",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_mon",
+            "value":"Monday",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_tue",
+            "value":"Tuesday",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_wed",
+            "value":"Wednesday",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_thu",
+            "value":"Thursday",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_fri",
+            "value":"Friday",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_sat",
+            "value":"Saturday",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_sun",
+            "value":"Sunday",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_clear",
+            "value":"Clear",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_short_term_write_imagevideo",
+            "value":"Allows an application to save images and videos to the user's directory within up to 30 minutes after obtaining the permission."
+        },
+        {
+            "name":"ohos_desc_short_term_write_imagevideo",
+            "value":"This permission applies to the following scenarios: 1. The application, for example, an H5 web application, cannot use the SaveButton security component. 2. The application needs to save images or videos multiple times consecutively and cannot save all the images or videos at a time in a save confirmation dialog box."
+        },
+        {
+            "name":"general_get_it",
+            "value":"OK",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"lab_developer_mode_tips",
+            "value":"Enable developer options first",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"desc_developer_mode_tips",
+            "value":"Developer options needs to be enabled to run this.",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_id_notification_restore_volume_tittle",
@@ -1291,611 +1418,812 @@
             }
         },
         {
-            "name": "general_get_it",
-            "value": "OK",
+            "name":"request_agent_download_success",
+            "value":"Download successful",
             "attr":{
-                "priority": "translate"
+                "priority":"LT"
             }
         },
         {
-            "name": "lab_developer_mode_tips",
-            "value": "Enable developer options first",
+            "name":"request_agent_download_fail",
+            "value":"Download failed",
             "attr":{
-                "priority": "translate"
+                "priority":"LT"
             }
         },
         {
-            "name": "desc_developer_mode_tips",
-            "value": "Developer options needs to be enabled to run this.",
+            "name":"request_agent_upload_file",
+            "value":"Uploading file… (%s)",
             "attr":{
-                "priority": "translate"
+                "priority":"LT"
             }
         },
         {
-            "name": "delete_used_for_accessibility_text",
-            "value": "Delete",
-            "attr": {
-                "priority": "translate"
+            "name":"request_agent_upload_success",
+            "value":"Upload successful",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "request_agent_download_success",
-            "value": "Download successful",
-            "attr": {
-                "priority": "LT"
+            "name":"request_agent_upload_fail",
+            "value":"Upload failed",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "request_agent_download_fail",
-            "value": "Download failed",
-            "attr": {
-                "priority": "LT"
-            }
+            "name":"ohos_lab_custom_screen_capture",
+            "value":"Allows an application to capture screen information"
         },
         {
-            "name": "request_agent_upload_file",
-            "value": "Uploading file… (%s)",
-            "attr": {
-                "priority": "LT"
-            }
+            "name":"ohos_desc_custom_screen_capture",
+            "value":"With this permission, the application can perform operations such as taking screenshots and recording on-screen information. Currently, this permission is available only for applications running on tablets and 2-in-1 devices"
         },
         {
-            "name": "request_agent_upload_success",
-            "value": "Upload successful",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "request_agent_upload_fail",
-            "value": "Upload failed",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "ohos_lab_custom_screen_capture",
-            "value": "Allows an application to capture screen information"
-        },
-        {
-            "name": "ohos_desc_custom_screen_capture",
-            "value": "With this permission, the application can perform operations such as taking screenshots and recording on-screen information. Currently, this permission is available only for applications running on tablets and 2-in-1 devices"
-        },
-        {
-            "name": "request_agent_download_file",
-            "value": "Downloading file… (%s)",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "notification_screen_recording_title",
-            "value": "%s is recording the screen"
-        },
-        {
-            "name": "general_window_top_left_screen",
-            "value": "Show on left (Upper)"
-        },
-        {
-            "name": "general_window_top_right_screen",
-            "value": "Show on right (Upper)"
-        },
-        {
-            "name": "general_window_waterfall_mode",
-            "value": "Waterfall view"
-        },
-        {
-            "name": "general_window_top_screen",
-            "value": "Show on top"
-        },
-        {
-            "name": "general_window_bottom_screen",
-            "value": "Show on bottom"
-        },
-        {
-            "name": "filter_accessibility_selected",
-            "value": "Selected",
+            "name":"delete_used_for_accessibility_text",
+            "value":"Delete",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "filter_accessibility_unselected",
-            "value": "Not selected",
+            "name":"request_agent_download_file",
+            "value":"Downloading file… (%s)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notification_screen_recording_title",
+            "value":"%s is recording the screen",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_window_top_left_screen",
+            "value":"Show on left (Upper)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_window_top_right_screen",
+            "value":"Show on right (Upper)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_window_waterfall_mode",
+            "value":"Waterfall view",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_window_top_screen",
+            "value":"Show on top",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_window_bottom_screen",
+            "value":"Show on bottom",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"text_overlay_menu_copy",
+            "value":"Ctrl+C"
+        },
+        {
+            "name":"text_overlay_menu_paste",
+            "value":"Ctrl+V"
+        },
+        {
+            "name":"text_overlay_menu_select_all",
+            "value":"Ctrl+A"
+        },
+        {
+            "name":"text_overlay_menu_cut",
+            "value":"Ctrl+X"
+        },
+        {
+            "name":"subheader_accessibility_title",
+            "value":"Title",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "filter_accessibility_expand",
-            "value": "Expand",
+            "name":"advanced_dialog_accessibility_checkbox",
+            "value":"Checkbox",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "filter_accessibility_expanded",
-            "value": "Expanded",
+            "name":"advanced_dialog_accessibility_cancel_checked_desc",
+            "value":"Double-tap to deselect",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "filter_accessibility_collapse",
-            "value": "Collapse",
+            "name":"filter_accessibility_selected",
+            "value":"Selected",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "filter_accessibility_collapsed",
-            "value": "Collapsed",
+            "name":"filter_accessibility_unselected",
+            "value":"Not selected",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "filter_accessibility_filters",
-            "value": "Filter",
+            "name":"filter_accessibility_expand",
+            "value":"Expand",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "filter_accessibility_select_desc",
-            "value": "Double-tap to select",
+            "name":"filter_accessibility_expanded",
+            "value":"Expanded",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "filter_accessibility_unselect_desc",
-            "value": "Double-tap to deselect",
+            "name":"filter_accessibility_collapse",
+            "value":"Collapse",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "filter_accessibility_expand_desc",
-            "value": "Double-tap to expand",
+            "name":"filter_accessibility_collapsed",
+            "value":"Collapsed",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item",
-            "value": "%s, added to the pinned content area",
+            "name":"filter_accessibility_filters",
+            "value":"Filter",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
-            "value": "Double tap and hold, then drag to sort",
+            "name":"filter_accessibility_select_desc",
+            "value":"Double-tap to select",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
-            "value": "%s, move out of the pinned content area",
+            "name":"filter_accessibility_unselect_desc",
+            "value":"Double-tap to deselect",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
-            "value": "%s, dragging",
+            "name":"filter_accessibility_expand_desc",
+            "value":"Double-tap to expand",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
-            "value": "Row %1$d, column %2$d",
+            "name":"gridobjectsortcomponent_accessibility_selected_item",
+            "value":"%s, added to the pinned content area",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
-            "value": "Placed, row %1$d, column %2$d",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value":"Double tap and hold, then drag to sort",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
-            "value": "%1$s, added to the pinned content area, row %2$d, column %3$d",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value":"%s, move out of the pinned content area",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
-            "value": "Entered editing mode",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value":"%s, dragging",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_item",
-            "value": "%s, not added to the pinned content area",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value":"Row %1$d, column %2$d",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
-            "value": "Double tap and hold to enter editing mode",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value":"Placed, row %1$d, column %2$d",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
-            "value": "Double tap to add, double tap and hold to enter editing mode",
+            "name":"gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value":"%1$s, added to the pinned content area, row %2$d, column %3$d",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_button",
-            "value": "%s, add to the pinned content area",
+            "name":"gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value":"Entered editing mode",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
-            "value": "Edit",
+            "name":"gridobjectsortcomponent_accessibility_unselected_item",
+            "value":"%s, not added to the pinned content area",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_deleted",
-            "value": "%s, moved out of the pinned content area",
+            "name":"gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value":"Double tap and hold to enter editing mode",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_illegal_area",
-            "value": "Cannot place here",
+            "name":"gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value":"Double tap to add, double tap and hold to enter editing mode",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
-            "value": "Double tap to add",
+            "name":"gridobjectsortcomponent_accessibility_unselected_button",
+            "value":"%s, add to the pinned content area",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_complete_button",
-            "value": "Done",
+            "name":"gridobjectsortcomponent_accessibility_header_edit_button",
+            "value":"Edit",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
-            "value": "Pinned content area, no content, tap items below to add them",
+            "name":"gridobjectsortcomponent_accessibility_deleted",
+            "value":"%s, moved out of the pinned content area",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_place_node_parent",
-            "value": "Placed, item %d",
+            "name":"gridobjectsortcomponent_accessibility_illegal_area",
+            "value":"Cannot place here",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_folded_node",
-            "value": "Collapsed",
+            "name":"gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value":"Double tap to add",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_move_node_child",
-            "value": "Drag to item %2$d of %1$s",
+            "name":"gridobjectsortcomponent_accessibility_complete_button",
+            "value":"Done",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_expanded_node",
-            "value": " Expanded",
+            "name":"gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value":"Pinned content area, no content, tap items below to add them",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_fold_node",
-            "value": "Collapse",
+            "name":"treeview_accessibility_place_node_parent",
+            "value":"Placed, item %d",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_implement_node",
-            "value": "Double-tap to activate",
+            "name":"treeview_accessibility_folded_node",
+            "value":"Collapsed",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_select_node",
-            "value": "Selected %s",
+            "name":"treeview_accessibility_move_node_child",
+            "value":"Drag to item %2$d of %1$s",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_lift_node",
-            "value": "%s, dragging",
+            "name":"treeview_accessibility_expanded_node",
+            "value":"Expanded",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_node_desc",
-            "value": "Double tap to select, double tap and hold, then drag to change order",
+            "name":"treeview_accessibility_fold_node",
+            "value":"Collapse",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_move_node_parent",
-            "value": "Item %d",
+            "name":"treeview_accessibility_implement_node",
+            "value":"Double-tap to activate",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_expand_node",
-            "value": "Expand",
+            "name":"treeview_accessibility_select_node",
+            "value":"Selected %s",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_place_node_child",
-            "value": "Placed, item %2$d of %1$s",
+            "name":"treeview_accessibility_lift_node",
+            "value":"%s, dragging",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "subheader_accessibility_title",
-            "value": "title",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "advanced_dialog_accessibility_checkbox",
-            "value": "Checkbox",
+            "name":"treeview_accessibility_node_desc",
+            "value":"Double tap to select, double tap and hold, then drag to change order",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "advanced_dialog_accessibility_cancel_checked_desc",
-            "value": "Double-tap to deselect",
+            "name":"treeview_accessibility_move_node_parent",
+            "value":"Item %d",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "res_menu_translate_is_support",
-            "value": "0"
+            "name":"treeview_accessibility_expand_node",
+            "value":"Expand",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "res_menu_search_is_support",
-            "value": "0"
+            "name":"treeview_accessibility_place_node_child",
+            "value":"Placed, item %2$d of %1$s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "text_overlay_menu_copy",
-            "value": "Ctrl+C"
+            "name":"open_beauty",
+            "value":"Enable beauty",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "text_overlay_menu_paste",
-            "value": "Ctrl+V"
+            "name":"close_beauty",
+            "value":"Disable beauty",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "text_overlay_menu_select_all",
-            "value": "Ctrl+A"
+            "name":"title_adjust_beauty",
+            "value":"Beauty mode for video calls",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "text_overlay_menu_cut",
-            "value": "Ctrl+X"
+            "name":"summary_closed_beauty",
+            "value":"Beauty mode turned off.",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "increase_used_for_accessibility_text",
-            "value": "Increase"
+            "name":"summary_opened_beauty",
+            "value":"Beauty mode turned on.",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "reduce_used_for_accessibility_text",
-            "value": "Decrease"
+            "name":"general_window_moveto_top_screen",
+            "value":"Move to top",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "prev_arrow_accessibility_text",
-            "value": "Previous"
+            "name":"general_window_moveto_bottom_screen",
+            "value":"Move to bottom",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "next_arrow_accessibility_text",
-            "value": "Next"
+            "name":"First_counter_accessibility_text",
+            "value":"First",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "increase_counter_double_click_description",
-            "value": "Double tap to activate, double tap and hold to repeatedly increase"
+            "name":"Second_counter_accessibility_text",
+            "value":"Second",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "reduce_counter_double_click_description",
-            "value": "Double tap to activate, double tap and hold to repeatedly reduce"
+            "name":"Third_counter_accessibility_text",
+            "value":"Third",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "input_counter_double_click_description",
-            "value": "Double tap to enter content"
+            "name":"Fourth_counter_accessibility_text",
+            "value":"Fourth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "open_beauty",
-            "value": "Enable beauty"
+            "name":"Fifth_counter_accessibility_text",
+            "value":"Fifth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "close_beauty",
-            "value": "Disable beauty"
+            "name":"Sixth_counter_accessibility_text",
+            "value":"Sixth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "title_adjust_beauty",
-            "value": "Beauty mode for video calls"
+            "name":"Seventh_counter_accessibility_text",
+            "value":"Seventh",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "summary_closed_beauty",
-            "value": "Beauty mode turned off."
+            "name":"Eighth_counter_accessibility_text",
+            "value":"Eighth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "summary_opened_beauty",
-            "value": "Beauty mode turned on."
+            "name":"Ninth_counter_accessibility_text",
+            "value":"Ninth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_window_moveto_top_screen",
-            "value": "Move to top"
+            "name":"Tenth_counter_accessibility_text",
+            "value":"Tenth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_window_moveto_bottom_screen",
-            "value": "Move to bottom"
+            "name":"Eleventh_counter_accessibility_text",
+            "value":"Eleventh",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "First_counter_accessibility_text",
-            "value": "First"
+            "name":"Twelfth_counter_accessibility_text",
+            "value":"Twelfth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Second_counter_accessibility_text",
-            "value": "Second"
+            "name":"Thirteenth_counter_accessibility_text",
+            "value":"Thirteenth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Third_counter_accessibility_text",
-            "value": "Third"
+            "name":"Fourteenth_counter_accessibility_text",
+            "value":"Fourteenth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fourth_counter_accessibility_text",
-            "value": "Fourth"
+            "name":"Fifteenth_counter_accessibility_text",
+            "value":"Fifteenth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fifth_counter_accessibility_text",
-            "value": "Fifth"
+            "name":"Sixteenth_counter_accessibility_text",
+            "value":"Sixteenth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Sixth_counter_accessibility_text",
-            "value": "Sixth"
+            "name":"Seventeenth_counter_accessibility_text",
+            "value":"Seventeenth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Seventh_counter_accessibility_text",
-            "value": "Seventh"
+            "name":"Eighteenth_counter_accessibility_text",
+            "value":"Eighteenth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eighth_counter_accessibility_text",
-            "value": "Eighth"
+            "name":"Nineteenth_counter_accessibility_text",
+            "value":"Nineteenth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Ninth_counter_accessibility_text",
-            "value": "Ninth"
+            "name":"Twentieth_counter_accessibility_text",
+            "value":"Twentieth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Tenth_counter_accessibility_text",
-            "value": "Tenth"
+            "name":"TwentyFirst_counter_accessibility_text",
+            "value":"Twenty-first",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eleventh_counter_accessibility_text",
-            "value": "Eleventh"
+            "name":"TwentySecond_counter_accessibility_text",
+            "value":"Twenty-second",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Twelfth_counter_accessibility_text",
-            "value": "Twelfth"
+            "name":"TwentyThird_counter_accessibility_text",
+            "value":"Twenty-third",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Thirteenth_counter_accessibility_text",
-            "value": "Thirteenth"
+            "name":"TwentyFourth_counter_accessibility_text",
+            "value":"Twenty-fourth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fourteenth_counter_accessibility_text",
-            "value": "Fourteenth"
+            "name":"TwentyFifth_counter_accessibility_text",
+            "value":"Twenty-fifth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fifteenth_counter_accessibility_text",
-            "value": "Fifteenth "
+            "name":"TwentySixth_counter_accessibility_text",
+            "value":"Twenty-sixth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Sixteenth_counter_accessibility_text",
-            "value": "Sixteenth"
+            "name":"TwentySeventh_counter_accessibility_text",
+            "value":"Twenty-seventh",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Seventeenth_counter_accessibility_text",
-            "value": "Seventeenth"
+            "name":"TwentyEighth_counter_accessibility_text",
+            "value":"Twenty-eighth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eighteenth_counter_accessibility_text",
-            "value": "Eighteenth"
+            "name":"TwentyNinth_counter_accessibility_text",
+            "value":"Twenty-ninth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Nineteenth_counter_accessibility_text",
-            "value": "Nineteenth"
+            "name":"Thirtieth_counter_accessibility_text",
+            "value":"Thirtieth",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Twentieth_counter_accessibility_text",
-            "value": "Twentieth"
+            "name":"ThirtyFirst_counter_accessibility_text",
+            "value":"Thirty-first",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFirst_counter_accessibility_text",
-            "value": "Twenty-first"
+            "name":"increase_used_for_accessibility_text",
+            "value":"Increase",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentySecond_counter_accessibility_text",
-            "value": "Twenty-second"
+            "name":"reduce_used_for_accessibility_text",
+            "value":"Decrease",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyThird_counter_accessibility_text",
-            "value": "Twenty-third"
+            "name":"increase_counter_double_click_description",
+            "value":"Double tap to activate, double tap and hold to repeatedly increase",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFourth_counter_accessibility_text",
-            "value": "Twenty-fourth"
+            "name":"reduce_counter_double_click_description",
+            "value":"Double tap to activate, double tap and hold to repeatedly reduce",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFifth_counter_accessibility_text",
-            "value": "Twenty-fifth"
+            "name":"input_counter_double_click_description",
+            "value":"Double tap to enter content",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentySixth_counter_accessibility_text",
-            "value": "Twenty-sixth"
+            "name":"camera_device_eject_lab",
+            "value":"Unable to pop out camera",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "TwentySeventh_counter_accessibility_text",
-            "value": "Twenty-seventh"
+            "name":"camera_device_eject_desc",
+            "value":"Remove any obstructions and try again.",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "TwentyEighth_counter_accessibility_text",
-            "value": "Twenty-eighth"
+            "name":"camera_device_block_confirm",
+            "value":"OK",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "TwentyNinth_counter_accessibility_text",
-            "value": "Twenty-ninth"
+            "name":"camera_device_block_lab",
+            "value":"Camera error",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "Thirtieth_counter_accessibility_text",
-            "value": "Thirtieth"
+            "name":"camera_device_block_desc",
+            "value":"Restart the Camera app to fix this issue. If the image is still out of focus, contact customer service.",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ThirtyFirst_counter_accessibility_text",
-            "value": "Thirty-first"
+            "name":"camera_use_continue",
+            "value":"Continue",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Download complete (%s)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"request_agent_task_count",
+            "value":"Successful: %1$d, Failed: %2$d",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"arkui_app_bar_service_panel",
+            "value":"Service panel",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_close",
+            "value":"Close",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_maximize",
+            "value":"Maximize",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"prev_arrow_accessibility_text",
+            "value":"Previous",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"next_arrow_accessibility_text",
+            "value":"Next",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"off_used_for_accessibility_text",
@@ -1905,277 +2233,228 @@
             }
         },
         {
-            "name": "camera_device_eject_lab",
-            "value": "Unable to pop out camera"
-        },
-        {
-            "name": "camera_device_eject_desc",
-            "value": "Remove any obstructions and try again."
-        },
-        {
-            "name": "camera_device_block_confirm",
-            "value": "OK"
-        },
-        {
-            "name": "camera_device_block_lab",
-            "value": "Camera error"
-        },
-        {
-            "name": "camera_device_block_desc",
-            "value": "Restart the Camera app to fix this issue. If the image is still out of focus, contact customer service."
-        },
-        {
-            "name": "camera_use_continue",
-            "value": "Continue"
-        },
-        {
-            "name": "request_agent_download_complete",
-            "value": "Download complete (%s)",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "request_agent_task_count",
-            "value": "Successful: %1$d, Failed: %2$d",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "arkui_app_bar_service_panel",
-            "value": "Service panel",
+            "name":"sheet_close",
+            "value":"Close",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "arkui_app_bar_close",
-            "value": "Close",
+            "name":"navigation_back",
+            "value":"Back",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "arkui_app_bar_maximize",
-            "value": "Maximize",
+            "name":"arkui_app_bar_provide_service",
+            "value":"Service provided by %s",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "arkui_app_bar_new_message",
-            "value": "service panel has new news",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "sheet_close",
-            "value": "Close",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "navigation_back",
-            "value": "Back",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "arkui_app_bar_provide_service",
-            "value": "Service provided by %s",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "arkui_app_bar_privacy_authorize",
-            "value": "Terms accepted",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "form_disable_app_locked",
-            "value": "App is locked",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "text_overlay_menu_more_accessibility_text",
-            "value": "More",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "text_overlay_menu_back_accessibility_text",
-            "value": "Back",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_ai_menu_address",
-            "value": "Get directions",
+            "name":"arkui_app_bar_privacy_authorize",
+            "value":"Terms accepted",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "general_ai_menu_date",
-            "value": "Create new event",
+            "name":"form_disable_app_locked",
+            "value":"App is locked",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"text_overlay_menu_more_accessibility_text",
+            "value":"More",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "general_ai_menu_email",
-            "value": "Compose email"
+            "name":"text_overlay_menu_back_accessibility_text",
+            "value":"Back",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "general_ai_menu_phone_number",
-            "value": "Call"
+            "name":"general_ai_menu_address",
+            "value":"Get directions",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "general_ai_menu_url",
-            "value": "Open"
+            "name":"general_ai_menu_date",
+            "value":"Create new event",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "menu_animation_curve",
-            "value": "fast_out_slow_in"
+            "name":"general_ai_menu_email",
+            "value":"Compose email",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_ai_menu_phone_number",
+            "value":"Call",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_ai_menu_url",
+            "value":"Open",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"menu_animation_curve",
+            "value":"fast_out_slow_in"
         },
         {
             "name":"general_ai_preview_menu_address_open_map_app",
             "value":"Navigate with Petal Maps",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_url_open_browser_app",
             "value":"Open with HUAWEI Browser",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_install_calendar_app",
             "value":"Tap here to install the Calendar app.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_install_map_app",
             "value":"Tap here to install Petal Maps.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_display_failed",
             "value":"Unable to show preview",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_ai_ask_celia",
+            "value":"Ask Celia",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_ai_location_title",
+            "value":"Location",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_ai_link_title",
+            "value":"URL",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_retry",
+            "value":"Install the Calendar app and try again.",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"Privacy protection active. Details>>",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_screen_recording_privacy_off",
             "value":"Privacy protection disabled. Details>>",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
-            "name": "general_ai_ask_celia",
-            "value": "Ask Celia"
-        },
-        {
-            "name": "general_ai_location_title",
-            "value": "Location",
-            "attr": {
-                "priority": "translate"
+            "name":"notification_feature_loud_volume_tittle",
+            "value":"Volume boost",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_ai_link_title",
-            "value": "URL",
-            "attr": {
-                "priority": "translate"
+            "name":"notification_enable_loud_volume_tittle",
+            "value":"On",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_ai_preview_menu_date_retry",
-            "value": "Install the Calendar app and try again.",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "notification_feature_loud_volume_tittle",
-            "value": "Volume boost",
+            "name":"textinput_text_counter",
+            "value":"%1$d/%2$d",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "notification_enable_loud_volume_tittle",
-            "value": "On",
+            "name":"due_control_form",
+            "value":"Widget content unavailable. Wait for app update.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "textinput_text_counter",
-            "value": "%1$d/%2$d"
+            "name":"choose_to_upload",
+            "value":"Choose to upload"
         },
         {
-            "name": "ohos_lab_custom_screen_recording",
-            "value": "Record the screen without displaying a privacy pop-up"
+            "name":"gallery",
+            "value":"Gallery"
         },
         {
-            "name": "ohos_desc_custom_screen_recording",
-            "value": "Allows an application to record the screen without displaying a privacy pop-up."
+            "name":"taking_photos",
+            "value":"Taking photos"
         },
         {
-            "name": "due_control_form",
-            "value": "Card is temporarily unavailable. Please wait for the app update"
+            "name":"video_recording",
+            "value":"Video recording"
         },
         {
-            "name": "choose_to_upload",
-            "value": "Choose to upload"
+            "name":"taking_photos_or_videos",
+            "value":"Taking photos or videos"
         },
         {
-            "name": "gallery",
-            "value": "Gallery"
+            "name":"document",
+            "value":"Document"
         },
-        {
-            "name": "taking_photos",
-            "value": "Taking photos"
-        },
-        {
-            "name": "video_recording",
-            "value": "Video recording"
-        },
-        {
-            "name": "taking_photos_or_videos",
-            "value": "Taking photos or videos"
-        },
-        {
-            "name": "document",
-            "value": "Document"
+        {	
+            "name":"arkui_app_bar_new_message",	
+            "value":"service panel has new news",	
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
