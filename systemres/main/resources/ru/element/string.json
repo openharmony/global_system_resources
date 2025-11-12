@@ -4,35 +4,35 @@
             "name":"ohos_id_notification_increase_volume_tittle",
             "value":"Увеличить громкость выше безопасного уровня?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_increase_volume_context",
             "value":"Длительное прослушивание аудио на большой громкости может повредить слух.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_button",
             "value":"Восстановить громкость",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_context",
             "value":"Длительное прослушивание аудио на большой громкости может повредить слух.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_tittle",
             "value":"Громкость снижена автоматически",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -74,112 +74,98 @@
             "name":"ohos_id_text_save_button_description_save_image",
             "value":"Сохранить изображение",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_save_all",
             "value":"Сохранить все",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download",
             "value":"Загрузить",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_receive",
             "value":"Сохранить",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_to_gallery",
             "value":"Сохранить в Галерее",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
             "value":"Сохранить в Галерее",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_file",
             "value":"Загрузить файл",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save",
             "value":"Сохранить",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
             "value":"Сохранить",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_file",
             "value":"Сохранить файл",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_paste_button_description_paste",
             "value":"Вставить",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_and_share",
             "value":"Загрузить и поделиться",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_continue_to_receive",
             "value":"Сохранить",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_export_to_gallery",
             "value":"Экспорт",
             "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name": "prev_arrow_accessibility_text",
-            "value": "Назад",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "next_arrow_accessibility_text",
-            "value": "Далее",
-            "attr": {
-                "priority": "translate"
+                "priority":"LT"
             }
         },
         {
@@ -190,129 +176,143 @@
             }
         },
         {
-            "name": "general_copy",
-            "value": "Копировать",
-            "attr": {
-                "priority": "translate"
+            "name":"prev_arrow_accessibility_text",
+            "value":"Назад",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_start",
-            "value": "Начать",
-            "attr": {
-                "priority": "translate"
+            "name":"next_arrow_accessibility_text",
+            "value":"Далее",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_more",
-            "value": "Еще",
-            "attr": {
-                "priority": "translate"
+            "name":"general_copy",
+            "value":"Копировать",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "text_overlay_menu_more_accessibility_text",
-            "value": "Еще",
-            "attr": {
-                "priority": "translate"
+            "name":"general_start",
+            "value":"Начать",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "navigation_back",
-            "value": "Назад",
-            "attr": {
-                "priority": "translate"
+            "name":"general_more",
+            "value":"Еще",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_cancel",
-            "value": "Отмена",
-            "attr": {
-                "priority": "translate"
+            "name":"text_overlay_menu_more_accessibility_text",
+            "value":"Еще",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_display_lunar_calendar",
-            "value": "Лунный календарь",
-            "attr": {
-                "priority": "translate"
+            "name":"navigation_back",
+            "value":"Назад",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "sheet_close",
-            "value": "Закрыть",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cancel",
+            "value":"Отмена",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_select_all",
-            "value": "Выбрать все",
-            "attr": {
-                "priority": "translate"
+            "name":"general_display_lunar_calendar",
+            "value":"Лунный календарь",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "stepper_back",
-            "value": "Назад",
-            "attr": {
-                "priority": "translate"
+            "name":"sheet_close",
+            "value":"Закрыть",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_cut",
-            "value": "Вырезать",
-            "attr": {
-                "priority": "translate"
+            "name":"general_select_all",
+            "value":"Выбрать все",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_confirm",
-            "value": "OK",
-            "attr": {
-                "priority": "translate"
+            "name":"stepper_back",
+            "value":"Назад",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_skip",
-            "value": "Пропустить",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cut",
+            "value":"Вырезать",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "last_updated_time",
-            "value": "Обновлено: %s",
-            "attr": {
-                "priority": "translate"
+            "name":"general_confirm",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_close",
-            "value": "Выключено",
-            "attr": {
-                "priority": "translate"
+            "name":"general_skip",
+            "value":"Пропустить",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_paste",
-            "value": "Вставить",
-            "attr": {
-                "priority": "translate"
+            "name":"last_updated_time",
+            "value":"Обновлено: %s",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_open",
-            "value": "Включено",
-            "attr": {
-                "priority": "translate"
+            "name":"general_close",
+            "value":"Выклю\u200bчено",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "stepper_next",
-            "value": "Далее",
-            "attr": {
-                "priority": "translate"
+            "name":"general_paste",
+            "value":"Вставить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_open",
+            "value":"Включено",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"stepper_next",
+            "value":"Далее",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
@@ -354,7 +354,7 @@
             "name":"ohos_toolbar_more",
             "value":"Еще",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -389,7 +389,7 @@
             "name":"general_window_top_screen",
             "value":"Показать вверху",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -403,7 +403,7 @@
             "name":"summary_closed_beauty",
             "value":"Режим Украшение выключен.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -424,14 +424,14 @@
             "name":"ohos_grid_edit_subtitle_sort",
             "value":"Перетащите для сортировки",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_grid_edit_subtitle_add",
             "value":"Коснитесь, чтобы добавить",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -466,7 +466,7 @@
             "name":"notification_screen_recording_title",
             "value":"Приложение %s записывает экран",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -494,7 +494,7 @@
             "name":"icon_cancel",
             "value":"Отмена",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -634,7 +634,7 @@
             "name":"ohos_grid_edit_title_chanel",
             "value":"Категории",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -648,7 +648,7 @@
             "name":"camera_device_eject_lab",
             "value":"Невозможно выдвинуть камеру",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -683,7 +683,7 @@
             "name":"general_window_moveto_top_screen",
             "value":"Переместить вверх",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -711,7 +711,7 @@
             "name":"general_window_top_left_screen",
             "value":"Показать слева (вверху)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -739,7 +739,7 @@
             "name":"title_adjust_beauty",
             "value":"Украшение видеовызовов",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -851,7 +851,7 @@
             "name":"general_window_moveto_bottom_screen",
             "value":"Переместить вниз",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -886,7 +886,7 @@
             "name":"general_next_step",
             "value":"Далее",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -949,7 +949,7 @@
             "name":"camera_device_block_lab",
             "value":"Ошибка камеры",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1012,7 +1012,7 @@
             "name":"general_window_waterfall_mode",
             "value":"Водопад",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1033,14 +1033,14 @@
             "name":"general_ai_menu_url",
             "value":"Перейти",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"icon_save",
             "value":"Сохранить",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1068,7 +1068,7 @@
             "name":"general_window_bottom_screen",
             "value":"Показать внизу",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1103,7 +1103,7 @@
             "name":"general_get_it",
             "value":"OK",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1166,7 +1166,7 @@
             "name":"close_beauty",
             "value":"Выключить эффекты украшения",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1180,14 +1180,14 @@
             "name":"ohos_id_text_camera_input",
             "value":"Текст с фото",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"camera_use_continue",
             "value":"Продолжить",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1222,14 +1222,14 @@
             "name":"general_ai_menu_address",
             "value":"Построить маршрут",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_window_top_right_screen",
             "value":"Показать справа (вверху)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1257,7 +1257,7 @@
             "name":"general_ai_menu_date",
             "value":"Создать новое событие",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1271,7 +1271,7 @@
             "name":"camera_device_eject_desc",
             "value":"Убедитесь, что модуль камеры не заблокирован, и повторите попытку.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1285,7 +1285,7 @@
             "name":"icon_back",
             "value":"Назад",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1460,7 +1460,7 @@
             "name":"general_search",
             "value":"Поиск",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1474,7 +1474,7 @@
             "name":"camera_device_block_confirm",
             "value":"OK",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1488,21 +1488,21 @@
             "name":"general_ai_menu_phone_number",
             "value":"Позвонить",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"desc_developer_mode_tips",
             "value":"Для этого требуется включить раздел Для разработчиков.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"lab_developer_mode_tips",
             "value":"Сначала включите раздел Для разработчиков",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1516,7 +1516,7 @@
             "name":"general_ai_menu_email",
             "value":"Написать письмо",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1530,7 +1530,7 @@
             "name":"camera_device_block_desc",
             "value":"Перезапустите приложение Камера, чтобы исправить эту ошибку. Если изображение по-прежнему расфокусировано, обратитесь в службу поддержки клиентов.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1544,7 +1544,7 @@
             "name":"general_last_step",
             "value":"Назад",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1558,7 +1558,7 @@
             "name":"form_disable_app_locked",
             "value":"Приложение заблокировано",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1593,7 +1593,7 @@
             "name":"form_disable_time_limit",
             "value":"Время вышло",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1607,7 +1607,7 @@
             "name":"ohos_grid_edit_title_edit",
             "value":"Изменение",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1635,21 +1635,21 @@
             "name":"notification_screen_recording_privacy_off",
             "value":"Защита конфиденциальности выключена. Сведения>>",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"Защита конфиденциальности активна. Сведения>>",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_ask_celia",
             "value":"Спросить Celia",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1663,61 +1663,75 @@
             "name":"general_ai_preview_menu_url_open_browser_app",
             "value":"Открыть в Браузере HUAWEI",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_install_map_app",
             "value":"Нажмите здесь, чтобы установить Petal Maps.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_display_failed",
             "value":"Сбой предпросмотра",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_install_calendar_app",
             "value":"Нажмите здесь, чтобы установить приложение Календарь.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_feature_loud_volume_tittle",
             "value":"Ультрагромкость",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_enable_loud_volume_tittle",
             "value":"Включено",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_retry",
             "value":"Установите приложение Календарь и повторите попытку.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_location_title",
             "value":"Место",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_link_title",
             "value":"URL-адрес",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"textinput_text_counter",
+            "value":"%1$d/%2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"due_control_form",
+            "value":"Контент виджета недоступен. Дождитесь обновления приложения.",
             "attr":{
                 "priority":"translate"
             }

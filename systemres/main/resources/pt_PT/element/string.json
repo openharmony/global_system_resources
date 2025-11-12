@@ -16,9 +16,9 @@
         },
         {
             "name":"ohos_id_notification_restore_volume_button",
-            "value":"Restaurar o volume",
+            "value":"Restaurar volume",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -74,98 +74,98 @@
             "name":"ohos_id_text_save_button_description_save_image",
             "value":"Guardar imagem",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_save_all",
             "value":"Guardar tudo",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download",
             "value":"Transferir",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_receive",
             "value":"Guardar",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_to_gallery",
             "value":"Guardar na Galeria",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
             "value":"Guardar na Galeria",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_file",
             "value":"Transferir ficheiro",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save",
             "value":"Guardar",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
             "value":"Guardar",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_file",
             "value":"Guardar ficheiro",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_paste_button_description_paste",
             "value":"Colar",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_and_share",
             "value":"Transferir e partilhar",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_continue_to_receive",
             "value":"Guardar",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_export_to_gallery",
             "value":"Exportar",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -305,7 +305,7 @@
             "name":"request_agent_task_count",
             "value":"Com êxito: %1$d   Falharam: %2$d",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -318,6 +318,1378 @@
         {
             "name":"request_agent_download_complete",
             "value":"Transferência concluída (%s)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_current_position",
+            "value":"Localização atual",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_toolbar_more",
+            "value":"Mais",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_share",
+            "value":"Partilhar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_file",
+            "value":"A transferir ficheiro... (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_retry",
+            "value":"Instale a aplicação Calendário e tente novamente.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pass_point",
+            "value":"Ligado ao ponto %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_lift_node",
+            "value":"%s, a arrastar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_screen",
+            "value":"Mostrar no topo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value":"Posicionado, linha %1$d, coluna %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"summary_closed_beauty",
+            "value":"Modo de beleza desativado.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_move_node_child",
+            "value":"Arraste para o item %2$d de %1$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_place_node_parent",
+            "value":"Posicionado, item %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_subtitle_sort",
+            "value":"Arrastar para organizar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_subtitle_add",
+            "value":"Tocar para adicionar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sixth_counter_accessibility_text",
+            "value":"Seis",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_complete_button",
+            "value":"Concluir",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"increase_used_for_accessibility_text",
+            "value":"Aumentar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_title",
+            "value":"%s está a gravar o ecrã",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_folded_node",
+            "value":"Fechado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sixteenth_counter_accessibility_text",
+            "value":"Dezasseis",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"input_counter_double_click_description",
+            "value":"Toque duas vezes para introduzir conteúdo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_cancel",
+            "value":"Cancelar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFirst_counter_accessibility_text",
+            "value":"Vinte e um",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expand",
+            "value":"Expandir",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_hide_password",
+            "value":"Não mostrar palavras-passe",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_tue",
+            "value":"Terça-feira",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expanded",
+            "value":"Expandido",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_open_map_app",
+            "value":"Navegar com o Petal Maps",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_close",
+            "value":"Fechar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_write_menu_name",
+            "value":"Escritor Celia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_send_current_location",
+            "value":"Enviar localização atual",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_move_node_parent",
+            "value":"Item %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"off_used_for_accessibility_text",
+            "value":"Fechar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySecond_counter_accessibility_text",
+            "value":"Vinte e dois",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_filters",
+            "value":"Filtro",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Tenth_counter_accessibility_text",
+            "value":"Dez",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"subheader_accessibility_title",
+            "value":"Título",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_calendar",
+            "value":"Modificar o calendário",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"summary_opened_beauty",
+            "value":"Modo de beleza ativado.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_url_open_browser_app",
+            "value":"Abrir com o HUAWEI Browser",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_add_form_to_desktop",
+            "value":"Adicionar ao ecrã inicial",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_showed_password",
+            "value":"Palavra-passe visível",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_item",
+            "value":"%s, não adicionado à área de conteúdo afixado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Ninth_counter_accessibility_text",
+            "value":"Nove",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_title_chanel",
+            "value":"Categorias",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_node_desc",
+            "value":"Toque duas vezes para selecionar, toque duas vezes e continue a tocar, e arraste para alterar a ordem",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_eject_lab",
+            "value":"Não é possível abrir a câmara",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_right_screen",
+            "value":"Mostrar à direita",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thirtieth_counter_accessibility_text",
+            "value":"Trinta",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reduce_counter_double_click_description",
+            "value":"Toque duas vezes para ativar, toque duas vezes e continue a tocar para reduzir repetidamente",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"increase_counter_double_click_description",
+            "value":"Toque duas vezes para ativar, toque duas vezes e continue a tocar para aumentar repetidamente",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_moveto_top_screen",
+            "value":"Mover para o topo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_provide_service",
+            "value":"Serviço fornecido por %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_location_title",
+            "value":"Localização",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_contacts",
+            "value":"Criar, modificar e eliminar contactos",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value":"Toque duas vezes e continue a tocar para entrar no modo de edição",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_left_screen",
+            "value":"Mostrar à esquerda (em cima)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_link_title",
+            "value":"URL",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_expand_desc",
+            "value":"Toque duas vezes para expandir",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_implement_node",
+            "value":"Toque duas vezes para ativar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value":"Linha %1$d, coluna %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"title_adjust_beauty",
+            "value":"Modo de beleza para videochamadas",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_month",
+            "value":"Mês anterior",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_sun",
+            "value":"Domingo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_expand_node",
+            "value":"Expandir",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_property_clear",
+            "value":"Eliminar, botão",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_feature_loud_volume_tittle",
+            "value":"Aumento de volume",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fifth_counter_accessibility_text",
+            "value":"Cinco",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thirteenth_counter_accessibility_text",
+            "value":"Treze",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Third_counter_accessibility_text",
+            "value":"Três",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value":"Área de conteúdo afixado, sem conteúdo, toque nos itens abaixo para adicioná-los",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_write_whole_calendar",
+            "value":"Criar, modificar e eliminar todos os dados do calendário",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_fold_node",
+            "value":"Fechar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_pre_year",
+            "value":"Ano anterior",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value":"Toque duas vezes e continue a tocar, e depois arraste para ordenar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFourth_counter_accessibility_text",
+            "value":"Vinte e quatro",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_maximize",
+            "value":"Maximizar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Second_counter_accessibility_text",
+            "value":"Dois",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_moveto_bottom_screen",
+            "value":"Mover para o fundo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_show_password_button",
+            "value":"Mostrar palavra-passe, botão",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_select_location",
+            "value":"Selecionar localização",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eighteenth_counter_accessibility_text",
+            "value":"Dezoito",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_step",
+            "value":"Seguinte",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"advanced_dialog_accessibility_cancel_checked_desc",
+            "value":"Toque duas vezes para desmarcar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Twentieth_counter_accessibility_text",
+            "value":"Vinte",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_place_node_child",
+            "value":"Posicionado, item %2$d de %1$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"First_counter_accessibility_text",
+            "value":"Um",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_media_location",
+            "value":"Informações de localização associadas às imagens",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_header_edit_button",
+            "value":"Editar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_collapse",
+            "value":"Fechar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reduce_used_for_accessibility_text",
+            "value":"Diminuir",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_address_install_map_app",
+            "value":"Toque aqui para instalar o Petal Maps.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_lab",
+            "value":"Erro da câmara",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_hide_password_button",
+            "value":"Ocultar palavra-passe, botão",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_locating",
+            "value":"Localizar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_share_location",
+            "value":"Partilhar localização",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_send_location",
+            "value":"Enviar localização",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_selected",
+            "value":"Selecionado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_relocation",
+            "value":"Obter localização",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_location",
+            "value":"Localização",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fourteenth_counter_accessibility_text",
+            "value":"Catorze",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_waterfall_mode",
+            "value":"Vista de cascata",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_mon",
+            "value":"Segunda-feira",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fifteenth_counter_accessibility_text",
+            "value":"Quinze",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_url",
+            "value":"Abrir",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_save",
+            "value":"Guardar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eighth_counter_accessibility_text",
+            "value":"Oito",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"advanced_dialog_accessibility_checkbox",
+            "value":"Caixa de verificação",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_calendar",
+            "value":"Aceder ao calendário",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_bottom_screen",
+            "value":"Mostrar no fundo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_collapsed",
+            "value":"Fechado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_overlay_menu_more_accessibility_text",
+            "value":"Mais",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyThird_counter_accessibility_text",
+            "value":"Vinte e três",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_month",
+            "value":"Mês seguinte",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_button",
+            "value":"%s, adicionar à área de conteúdo afixado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_get_it",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_wed",
+            "value":"Quarta-feira",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_overlay_menu_back_accessibility_text",
+            "value":"Anterior",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_next_year",
+            "value":"Ano seguinte",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_clear",
+            "value":"Eliminar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyFifth_counter_accessibility_text",
+            "value":"Vinte e cinco",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_disabledDesc",
+            "value":"Indisponível",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"open_beauty",
+            "value":"Ativar beleza",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close_beauty",
+            "value":"Desativar beleza",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_show_password",
+            "value":"Mostrar palavra-passe",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_display_failed",
+            "value":"Não é possível mostrar a pré-visualização",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_camera_input",
+            "value":"De fotografia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_use_continue",
+            "value":"Continuar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_sat",
+            "value":"Sábado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textinput_text_counter",
+            "value":"%1$d/%2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Seventeenth_counter_accessibility_text",
+            "value":"Dezassete",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Nineteenth_counter_accessibility_text",
+            "value":"Dezanove",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_ask_celia",
+            "value":"Perguntar à Celia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Seventh_counter_accessibility_text",
+            "value":"Sete",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_address",
+            "value":"Obter direções",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_privacy_authorize",
+            "value":"Termos aceites",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_top_right_screen",
+            "value":"Mostrar à direita (em cima)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_deleted",
+            "value":"%s, movido para fora da área de conteúdo afixado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Eleventh_counter_accessibility_text",
+            "value":"Onze",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_current_location",
+            "value":"Localização atual",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_date",
+            "value":"Criar novo evento",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_contacts",
+            "value":"Ler os contactos",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_eject_desc",
+            "value":"Elimine as obstruções e tente novamente.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"icon_back",
+            "value":"Retroceder",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_translate",
+            "value":"Traduzir",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ThirtyFirst_counter_accessibility_text",
+            "value":"Trinta e um",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_select_desc",
+            "value":"Toque duas vezes para selecionar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_thu",
+            "value":"Quinta-feira",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_show_password",
+            "value":"Mostrar palavra-passe",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_expanded_node",
+            "value":"Expandido",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_service_panel",
+            "value":"Painel de serviço",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_privacy_off",
+            "value":"Proteção de privacidade desativada. Detalhes >>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value":"%1$s, adicionado à área de conteúdo afixado, linha %2$d, coluna %3$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_unselectedDesc",
+            "value":"Toque duas vezes para selecionar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value":"Toque duas vezes para adicionar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_selected",
+            "value":"Selecionado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_enable_loud_volume_tittle",
+            "value":"Ativado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyNinth_counter_accessibility_text",
+            "value":"Vinte e nove",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_lab_read_whole_calendar",
+            "value":"Ler todos os dados do calendário",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_left_screen",
+            "value":"Mostrar à esquerda",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"treeview_accessibility_select_node",
+            "value":"%s selecionado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_unselect_desc",
+            "value":"Toque duas vezes para desmarcar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value":"Toque duas vezes para adicionar, toque duas vezes e continue a tocar para entrar no modo de edição",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_screen_recording_privacy_on",
+            "value":"Proteção de privacidade ativada. Detalhes >>",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_hide_password",
+            "value":"Ocultar palavra-passe",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slider_accessibility_unselected",
+            "value":"Não selecionado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_used_for_accessibility_text",
+            "value":"Eliminar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_add_location",
+            "value":"Adicionar localização",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fourth_counter_accessibility_text",
+            "value":"Quatro",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value":"Entrou no modo de edição",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_search",
+            "value":"Procurar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value":"%s, a arrastar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_confirm",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySixth_counter_accessibility_text",
+            "value":"Vinte e seis",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_phone_number",
+            "value":"Telefonar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desc_developer_mode_tips",
+            "value":"As opções do programador têm de estar ativadas para executar isto.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"lab_developer_mode_tips",
+            "value":"Ative as opções de programador",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_illegal_area",
+            "value":"Não é possível colocar aqui",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_menu_email",
+            "value":"Compor e-mail",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentySeventh_counter_accessibility_text",
+            "value":"Vinte e sete",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"camera_device_block_desc",
+            "value":"Reinicie a aplicação Câmara para resolver este problema. Contacte o serviço de apoio ao cliente se a imagem continuar desfocada.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"filter_accessibility_unselected",
+            "value":"Não selecionado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_last_step",
+            "value":"Anterior",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"TwentyEighth_counter_accessibility_text",
+            "value":"Vinte e oito",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_app_locked",
+            "value":"A aplicação está bloqueada",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"due_control_form",
+            "value":"Conteúdo do widget indisponível. Aguarde a atualização da aplicação.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value":"%s, mover para fora da área de conteúdo afixado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_text_location_button_description_punch_in",
+            "value":"Picar o ponto a partir da localização atual",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_picker_fri",
+            "value":"Sexta-feira",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gridobjectsortcomponent_accessibility_selected_item",
+            "value":"%s, adicionado à área de conteúdo afixado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_ai_preview_menu_date_install_calendar_app",
+            "value":"Toque aqui para instalar a aplicação Calendário.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_time_limit",
+            "value":"O tempo terminou",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Twelfth_counter_accessibility_text",
+            "value":"Doze",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_grid_edit_title_edit",
+            "value":"Editar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_file",
+            "value":"A carregar ficheiro... (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_hidden_password",
+            "value":"Palavra-passe ocultada",
             "attr":{
                 "priority":"translate"
             }

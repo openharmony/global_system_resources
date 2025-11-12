@@ -148,10 +148,10 @@
             }
         },
         {
-            "name": "ohos_add_form_to_desktop",
-            "value": "ཅོག་ངོས་ཐོག་སྣོན་པ།",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_add_form_to_desktop",
+            "value":"ཅོག་ངོས་ཐོག་སྣོན་པ།",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -163,7 +163,10 @@
         },
         {
             "name":"ohos_lab_media_location",
-            "value":"ཉེར་སྤྱོད་ཀྱིས་པར་རྒྱག་སའི་གནས་ཡུལ་ལ་ལྟ་སྤྱོད་བྱེད་ཆོག"
+            "value":"ཉེར་སྤྱོད་ཀྱིས་པར་རྒྱག་སའི་གནས་ཡུལ་ལ་ལྟ་སྤྱོད་བྱེད་ཆོག",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ohos_grid_edit_title_edit",
@@ -197,48 +200,63 @@
             "name":"icon_back",
             "value":"ཕྱིར་ལོག",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"icon_cancel",
             "value":"འདོར་བ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"icon_save",
             "value":"ཉར་ཚགས།",
             "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"textfield_accessibility_property_clear",
+            "value":"སྟོང་བཟོའི་གནོན་མཐེབ།",
+            "attr":{
                 "priority":"translate"
             }
         },
         {
+            "name":"textfield_accessibility_show_password",
+            "value":"གསང་ཨང་གསལ་ཡིག་མངོན་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_hide_password",
+            "value":"གསང་ཨང་གསལ་ཡིག་མི་མངོན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_time_limit",
+            "value":"དུས་ཚོད་ཀྱི་བཅད་གྲངས་ལ་སླེབས།",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
             "name":"ohos_id_text_camera_input",
-            "value":"བརྙན་ལེན་ནང་འཇུག"
+            "value":"བརྙན་ལེན་ནང་འཇུག",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ai_write_menu_name",
-            "value": "ཞའོ་དབྱི་འབྲི་རོགས།"
-        },
-        {
-            "name" : "textfield_accessibility_property_clear",
-            "value" : "སྟོང་བཟོའི་གནོན་མཐེབ།"
-        },
-        {
-            "name" : "textfield_accessibility_show_password",
-            "value" : "གསང་ཨང་གསལ་ཡིག་མངོན་པ།"
-        },
-        {
-            "name" : "textfield_accessibility_hide_password",
-            "value" : "གསང་ཨང་གསལ་ཡིག་མི་མངོན།"
-        },
-        {
-            "name": "form_disable_time_limit",
-            "value": "དུས་ཚོད་ཀྱི་བཅད་གྲངས་ལ་སླེབས།",
-            "attr": {
-                "priority": "translate"
+            "name":"ai_write_menu_name",
+            "value":"ཞའོ་དབྱི་འབྲི་རོགས།",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -250,288 +268,360 @@
         },
         {
             "name":"ohos_lab_read_calendar",
-            "value":"ལོ་ཐོ་ཀློག་ལེན།"
+            "value":"ལོ་ཐོ་ཀློག་ལེན།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_write_calendar",
-            "value":"ལོ་ཐོ་གསར་འཛུགས་སམ་བཟོ་བཅོས་སམ་སུབ་པ།"
+            "value":"ལོ་ཐོ་གསར་འཛུགས་སམ་བཟོ་བཅོས་སམ་སུབ་པ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_read_contacts",
-            "value":"ཁ་པར་ཐོ་དེབ་ཀློག་ལེན།"
+            "value":"ཁ་པར་ཐོ་དེབ་ཀློག་ལེན།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_lab_write_contacts",
-            "value": "ཁ་པར་ཐོ་དེབ་གསར་འཛུགས་/བཟོ་བཅོས་/སུབ་པ།",
-            "attr": {
-                "priority": "LT"
+            "name":"ohos_lab_write_contacts",
+            "value":"ཁ་པར་ཐོ་དེབ་གསར་འཛུགས་/བཟོ་བཅོས་/སུབ་པ།",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_lab_write_whole_calendar",
-            "value":"ལོ་ཐོ་ཚང་མ་གསར་འཛུགས་/བཟོ་བཅོས་/སུབ་པ།"
+            "value":"ལོ་ཐོ་ཚང་མ་གསར་འཛུགས་/བཟོ་བཅོས་/སུབ་པ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_read_whole_calendar",
-            "value":"ལོ་ཐོ་ཚང་མ་ཀློག་ལེན།"
+            "value":"ལོ་ཐོ་ཚང་མ་ཀློག་ལེན།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
             "value":"པར་རིས་མགྱོགས་མྱུར་ཉར་ཚགས།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
             "value":"ཡང་བསྐྱར་ཉར་ཚགས།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_export_to_gallery",
             "value":"ཕྱིར་འདྲེན།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"calendar_picker_mon",
-            "value":"གཟའ་ཟླ་བ།"
+            "value":"གཟའ་ཟླ་བ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_tue",
-            "value":"གཟའ་མིག་དམར།"
+            "value":"གཟའ་མིག་དམར།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_wed",
-            "value":"གཟའ་ལྷག་པ།"
+            "value":"གཟའ་ལྷག་པ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_thu",
-            "value":"གཟའ་ཕུར་བུ།"
+            "value":"གཟའ་ཕུར་བུ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_fri",
-            "value":"གཟའ་པ་སངས།"
+            "value":"གཟའ་པ་སངས།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_sat",
-            "value":"གཟའ་སྤེན་པ།"
+            "value":"གཟའ་སྤེན་པ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_sun",
-            "value":"གཟའ་ཉི་མ།"
+            "value":"གཟའ་ཉི་མ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"slider_accessibility_selected",
-            "value":"བདམས་ཟིན།"
+            "value":"བདམས་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "slider_accessibility_unselected",
-            "value": "བདམས་མེད།",
-            "attr": {
-                "priority": "translate"
+            "name":"slider_accessibility_unselected",
+            "value":"བདམས་མེད།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
             "name":"slider_accessibility_unselectedDesc",
-            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་འདེམས་ཐུབ།"
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་འདེམས་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"slider_accessibility_disabledDesc",
-            "value":"སྤྱོད་མི་ཐུབ།"
-        },
-        {
-            "name": "general_confirm",
-            "value": "གཏན་འཁེལ།",
-            "attr": {
-                "priority": "translate"
+            "value":"སྤྱོད་མི་ཐུབ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_last_step",
-            "value": "གོམ་རིམ་གོང་མ།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_confirm",
+            "value":"གཏན་འཁེལ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_next_step",
-            "value": "གོམ་རིམ་ཕྱི་མ།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_last_step",
+            "value":"གོམ་རིམ་གོང་མ།",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "last_updated_time",
-            "value": "ཐེངས་སྔོན་མའི་གསར་སྒྱུར་དུས་ཚོད། %s",
-            "attr": {
-                "priority": "translate"
+            "name":"general_next_step",
+            "value":"གོམ་རིམ་ཕྱི་མ།",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_copy",
-            "value": "འདྲ་བཤུ།",
-            "attr": {
-                "priority": "translate"
+            "name":"last_updated_time",
+            "value":"ཐེངས་སྔོན་མའི་གསར་སྒྱུར་དུས་ཚོད། %s",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_cut",
-            "value": "དྲས་གཏུབ།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_copy",
+            "value":"འདྲ་བཤུ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_select_all",
-            "value": "ཡོངས་འདེམས།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cut",
+            "value":"དྲས་གཏུབ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_translate",
-            "value": "ཡིག་སྒྱུར།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_select_all",
+            "value":"ཡོངས་འདེམས།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_share",
-            "value": "མཉམ་སྤྱོད།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_translate",
+            "value":"ཡིག་སྒྱུར།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_search",
-            "value": "བཤེར་འཚོལ།"
-        },
-        {
-            "name": "general_open",
-            "value": "ཕྱེ།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_share",
+            "value":"མཉམ་སྤྱོད།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_close",
-            "value": "ཁ་རྒྱག",
-            "attr": {
-                "priority": "translate"
+            "name":"general_search",
+            "value":"བཤེར་འཚོལ།",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "general_start",
-            "value": "འགོ་རྩོམ།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_open",
+            "value":"ཕྱེ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_skip",
-            "value": "མཆོང་བ།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_close",
+            "value":"ཁ་རྒྱག",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_window_left_screen",
-            "value": "སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་གཡོན་དུ་མངོན་སྟོན་བྱེད།"
-        },
-        {
-            "name": "general_window_right_screen",
-            "value": "གཡས་སུ་མངོན་སྟོན།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_start",
+            "value":"འགོ་རྩོམ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_display_lunar_calendar",
-            "value": "ལུགས་རྙིང་ལོ་ཐོ་མངོན་སྟོན།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_skip",
+            "value":"མཆོང་བ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_paste",
-            "value": "སྦྱར་བ།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_window_left_screen",
+            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་གཡོན་དུ་མངོན་སྟོན་བྱེད།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_cancel",
-            "value": "འདོར་བ།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_window_right_screen",
+            "value":"གཡས་སུ་མངོན་སྟོན།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_more",
-            "value": "དེ་ལས་མང་བ།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_display_lunar_calendar",
+            "value":"ལུགས་རྙིང་ལོ་ཐོ་མངོན་སྟོན།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "text_overlay_menu_more_accessibility_text",
-            "value": "དེ་ལས་མང་བ།",
-            "attr": {
-                "priority": "translate"
+            "name":"general_paste",
+            "value":"སྦྱར་བ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "stepper_back",
-            "value": "ཕྱིར་ལོག",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cancel",
+            "value":"འདོར་བ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "text_overlay_menu_back_accessibility_text",
-            "value": "ཕྱིར་ལོག",
-            "attr": {
-                "priority": "translate"
+            "name":"general_more",
+            "value":"དེ་ལས་མང་བ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "stepper_next",
-            "value": "གོམ་རིམ་ཕྱི་མ།",
-            "attr": {
-                "priority": "translate"
+            "name":"text_overlay_menu_more_accessibility_text",
+            "value":"དེ་ལས་མང་བ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "textfield_show_password",
-            "value": "གསང་གྲངས་འཆར་བ།"
+            "name":"stepper_back",
+            "value":"ཕྱིར་ལོག",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_hide_password",
-            "value": "མངོན་མེད་གསང་གྲངས།"
+            "name":"text_overlay_menu_back_accessibility_text",
+            "value":"ཕྱིར་ལོག",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_show_password_button",
-            "value": "གསང་ཨང་མངོན་པའི་གནོན་མཐེབ།"
+            "name":"stepper_next",
+            "value":"གོམ་རིམ་ཕྱི་མ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_hide_password_button",
-            "value": "གསང་ཨང་སྦེད་པའི་གནོན་མཐེབ།"
+            "name":"textfield_show_password",
+            "value":"གསང་གྲངས་འཆར་བ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_has_showed_password",
-            "value": "གསང་གྲངས་ཤར་ཟིན།"
+            "name":"textfield_hide_password",
+            "value":"མངོན་མེད་གསང་གྲངས།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_has_hidden_password",
-            "value": "གསང་གྲངས་ཡིབ་སྐུང་བྱས་ཟིན།"
+            "name":"textfield_show_password_button",
+            "value":"གསང་ཨང་མངོན་པའི་གནོན་མཐེབ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "textfield_accessibility_clear",
-            "value": "སྟོང་བཟོ།"
+            "name":"textfield_hide_password_button",
+            "value":"གསང་ཨང་སྦེད་པའི་གནོན་མཐེབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_showed_password",
+            "value":"གསང་གྲངས་ཤར་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_hidden_password",
+            "value":"གསང་གྲངས་ཡིབ་སྐུང་བྱས་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_clear",
+            "value":"སྟོང་བཟོ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ohos_id_notification_increase_volume_tittle",
@@ -576,24 +666,66 @@
             }
         },
         {
-            "name": "general_get_it",
-            "value": "ཤེས་སོང་།",
+            "name":"request_agent_upload_success",
+            "value":"ཡར་སྐྱེལ་ཐུབ་སོང་།",
             "attr":{
-                "priority": "translate"
+                "priority":"LT"
             }
         },
         {
-            "name": "desc_developer_mode_tips",
-            "value": "གསར་སྤེལ་མཁན་གྱི་རྣམ་པའི་སྐབས་སུ་འཁོར་སྐྱོད་བྱེད།",
+            "name":"request_agent_upload_fail",
+            "value":"ཡར་སྐྱེལ་མ་ཐུབ།",
             "attr":{
-                "priority": "translate"
+                "priority":"LT"
             }
         },
         {
-            "name": "lab_developer_mode_tips",
-            "value": "གསར་སྤེལ་མཁན་གྱི་རྣམ་པ་འགོ་སློང་དགོས།",
+            "name":"request_agent_download_fail",
+            "value":"ཕབ་ལེན་བྱེད་མ་ཐུབ།",
             "attr":{
-                "priority": "translate"
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"ཕབ་ལེན་བྱེད་ཐུབ་སོང་།",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notification_screen_recording_title",
+            "value":"%s ཡིས་བརྙན་ཡོལ་བཀོལ་བཞིན་པ།",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"request_agent_upload_file",
+            "value":"ཡིག་ཆ་ཡར་སྐྱེལ། %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_get_it",
+            "value":"ཤེས་སོང་།",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"desc_developer_mode_tips",
+            "value":"གསར་སྤེལ་མཁན་གྱི་རྣམ་པའི་སྐབས་སུ་འཁོར་སྐྱོད་བྱེད།",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"lab_developer_mode_tips",
+            "value":"གསར་སྤེལ་མཁན་གྱི་རྣམ་པ་འགོ་སློང་དགོས།",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -604,59 +736,24 @@
             }
         },
         {
-            "name": "request_agent_upload_success",
-            "value": "ཡར་སྐྱེལ་ཐུབ་སོང་།",
-            "attr": {
-                "priority": "LT"
+            "name":"delete_used_for_accessibility_text",
+            "value":"སུབ་པ།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "request_agent_upload_fail",
-            "value": "ཡར་སྐྱེལ་མ་ཐུབ།",
-            "attr": {
-                "priority": "LT"
+            "name":"request_agent_download_file",
+            "value":"ཡིག་ཆ་ཕབ་ལེན་ %s",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "request_agent_download_fail",
-            "value": "ཕབ་ལེན་བྱེད་མ་ཐུབ།",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "request_agent_download_success",
-            "value": "ཕབ་ལེན་བྱེད་ཐུབ་སོང་།",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "notification_screen_recording_title",
-            "value": "%s ཡིས་བརྙན་ཡོལ་བཀོལ་བཞིན་པ།",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "request_agent_upload_file",
-            "value": "ཡིག་ཆ་ཡར་སྐྱེལ། %s",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "delete_used_for_accessibility_text",
-            "value": "སུབ་པ།",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "request_agent_download_file",
-            "value": "ཡིག་ཆ་ཕབ་ལེན་ %s",
-            "attr": {
-                "priority": "LT"
+            "name":"save_button_description_save_all",
+            "value":"ཚང་མ་ཉར་ཚགས།",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -695,31 +792,39 @@
             }
         },
         {
-            "name":"save_button_description_save_all",
-            "value":"ཚང་མ་ཉར་ཚགས།",
+            "name":"general_window_bottom_screen",
+            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་གཤམ་དུ་འཆར་བ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
-            "name":"general_window_bottom_screen",
-            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་གཤམ་དུ་འཆར་བ།"
-        },
-        {
             "name":"general_window_top_screen",
-            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་ཐོད་དུ་འཆར་བ།"
+            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་ཐོད་དུ་འཆར་བ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_top_right_screen",
-            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་ཐོད་ཀྱི་གཡས་སུ་འཆར་བ།"
+            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་ཐོད་ཀྱི་གཡས་སུ་འཆར་བ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_top_left_screen",
-            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་ཐོད་ཀྱི་གཡོན་དུ་འཆར་བ།"
+            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་ཐོད་ཀྱི་གཡོན་དུ་འཆར་བ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_waterfall_mode",
-            "value":"རྦབ་ཆུའི་རྣམ་པར་འཛུལ་བ།"
+            "value":"རྦབ་ཆུའི་རྣམ་པར་འཛུལ་བ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"subheader_accessibility_title",
@@ -729,15 +834,15 @@
             }
         },
         {
-            "name": "advanced_dialog_accessibility_checkbox",
-            "value": "མང་འདེམས་སྒྲོམ།",
+            "name":"advanced_dialog_accessibility_checkbox",
+            "value":"མང་འདེམས་སྒྲོམ།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "advanced_dialog_accessibility_cancel_checked_desc",
-            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཚེ་བདམས་པ་འདོར་ཐུབ།",
+            "name":"advanced_dialog_accessibility_cancel_checked_desc",
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཚེ་བདམས་པ་འདོར་ཐུབ།",
             "attr":{
                 "priority":"translate"
             }
@@ -806,439 +911,578 @@
             }
         },
         {
-            "name": "filter_accessibility_expand_desc",
-            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་འགྲེམ་ཐུབ།",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "gridobjectsortcomponent_accessibility_selected_item",
-            "value": "%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་ཞུགས་ཟིན།",
+            "name":"filter_accessibility_expand_desc",
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་འགྲེམ་ཐུབ།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_desc",
-            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་རྗེས་ཡུན་རིང་མནན་ཚེ་དྲུད་དེ་གོ་རིམ་བསྒྲིག་ཆོག",
+            "name":"gridobjectsortcomponent_accessibility_selected_item",
+            "value":"%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་ཞུགས་ཟིན།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_delete",
-            "value": "%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་ལས་ཕྱིར་འབུད།",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_desc",
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་རྗེས་ཡུན་རིང་མནན་ཚེ་དྲུད་དེ་གོ་རིམ་བསྒྲིག་ཆོག",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_start",
-            "value": "%s དྲུད་ཟིན།",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_delete",
+            "value":"%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་ལས་ཕྱིར་འབུད།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_moving",
-            "value": "འཕྲེད་སྟར་ཨང་ %1$d གཞུང་སྟར་ཨང་ %2$d",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_start",
+            "value":"%s དྲུད་ཟིན།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_selected_item_drag_stop",
-            "value": "འཕྲེད་སྟར་ཨང་ %1$d གཞུང་སྟར་ཨང་ %2$d ལ་བཞག་ཟིན།",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_moving",
+            "value":"འཕྲེད་སྟར་ཨང་ %1$d གཞུང་སྟར་ཨང་ %2$d",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_item_add",
-            "value": "%1$s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་ཞུགས་ཟིན། འཕྲེད་སྟར་ཨང་ %2$d གཞུང་སྟར་ཨང་ %3$d",
+            "name":"gridobjectsortcomponent_accessibility_selected_item_drag_stop",
+            "value":"འཕྲེད་སྟར་ཨང་ %1$d གཞུང་སྟར་ཨང་ %2$d ལ་བཞག་ཟིན།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_item_long_press_gesture",
-            "value": "རྩོམ་སྒྲིག་གི་རྣམ་པར་འཛུལ་ཟིན།",
+            "name":"gridobjectsortcomponent_accessibility_unselected_item_add",
+            "value":"%1$s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་ཞུགས་ཟིན། འཕྲེད་སྟར་ཨང་ %2$d གཞུང་སྟར་ཨང་ %3$d",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_item",
-            "value": "%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་ཞུགས་མེད།",
+            "name":"gridobjectsortcomponent_accessibility_item_long_press_gesture",
+            "value":"རྩོམ་སྒྲིག་གི་རྣམ་པར་འཛུལ་ཟིན།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_image_item_desc",
-            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ཡུན་རིང་མནན་ཚེ་རྩོམ་སྒྲིག་རྣམ་པར་འཛུལ་ཐུབ།",
+            "name":"gridobjectsortcomponent_accessibility_unselected_item",
+            "value":"%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་ཞུགས་མེད།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_text_item_desc",
-            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ཞུགས་ཐུབ། ཉིས་རྡེབ་བྱས་ཏེ་ཡུན་རིང་མནན་ཚེ་རྩོམ་སྒྲིག་རྣམ་པར་འཛུལ་ཐུབ།",
+            "name":"gridobjectsortcomponent_accessibility_unselected_image_item_desc",
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ཡུན་རིང་མནན་ཚེ་རྩོམ་སྒྲིག་རྣམ་པར་འཛུལ་ཐུབ།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_unselected_button",
-            "value": "%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་སྣོན་པ།",
+            "name":"gridobjectsortcomponent_accessibility_unselected_text_item_desc",
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ཞུགས་ཐུབ། ཉིས་རྡེབ་བྱས་ཏེ་ཡུན་རིང་མནན་ཚེ་རྩོམ་སྒྲིག་རྣམ་པར་འཛུལ་ཐུབ།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_header_edit_button",
-            "value": "རྩོམ་སྒྲིག",
+            "name":"gridobjectsortcomponent_accessibility_unselected_button",
+            "value":"%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་དུ་སྣོན་པ།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_deleted",
-            "value": "%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་ལས་ཕྱིར་བུད་ཟིན།",
+            "name":"gridobjectsortcomponent_accessibility_header_edit_button",
+            "value":"རྩོམ་སྒྲིག",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_illegal_area",
-            "value": "འཇོག་ཁུལ་མིན།",
+            "name":"gridobjectsortcomponent_accessibility_deleted",
+            "value":"%s རྒྱུན་སྡོད་ནང་དོན་ཁུལ་ལས་ཕྱིར་བུད་ཟིན།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_single_finger_double_click",
-            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ཞུགས་ཐུབ།",
+            "name":"gridobjectsortcomponent_accessibility_illegal_area",
+            "value":"འཇོག་ཁུལ་མིན།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_complete_button",
-            "value": "ལེགས་འགྲུབ་བྱུང་།",
+            "name":"gridobjectsortcomponent_accessibility_single_finger_double_click",
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ཞུགས་ཐུབ།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "gridobjectsortcomponent_accessibility_resident_area_edit_state",
-            "value": "རྒྱུན་སྡོད་ནང་དོན་ཁུལ། ནང་དོན་མེད། གཤམ་གྱི་ནང་དོན་ལ་བརྡབས་ནས་བསྣན་ཆོག",
+            "name":"gridobjectsortcomponent_accessibility_complete_button",
+            "value":"ལེགས་འགྲུབ་བྱུང་།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_place_node_parent",
-            "value": "བཞག་ཟིན། རྣམ་གྲངས་ཨང་ %d",
+            "name":"gridobjectsortcomponent_accessibility_resident_area_edit_state",
+            "value":"རྒྱུན་སྡོད་ནང་དོན་ཁུལ། ནང་དོན་མེད། གཤམ་གྱི་ནང་དོན་ལ་བརྡབས་ནས་བསྣན་ཆོག",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_folded_node",
-            "value": "སྡུད་ཟིན།",
+            "name":"treeview_accessibility_place_node_parent",
+            "value":"བཞག་ཟིན། རྣམ་གྲངས་ཨང་ %d",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_move_node_child",
-            "value": "༼%1$s༽ཡི་རྣམ་གྲངས་ཨང་ %2$d ལ་དྲུད་ཟིན།",
+            "name":"treeview_accessibility_folded_node",
+            "value":"སྡུད་ཟིན།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_expanded_node",
-            "value": "རྒྱ་སྐྱེད་ཟིན།",
+            "name":"treeview_accessibility_move_node_child",
+            "value":"༼%1$s༽ཡི་རྣམ་གྲངས་ཨང་ %2$d ལ་དྲུད་ཟིན།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_fold_node",
-            "value": "སྡུད།",
+            "name":"treeview_accessibility_expanded_node",
+            "value":"རྒྱ་སྐྱེད་ཟིན།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_implement_node",
-            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ནས་མུ་མཐུད་ལག་ལེན་བསྟར་ཆོག",
+            "name":"treeview_accessibility_fold_node",
+            "value":"སྡུད།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_select_node",
-            "value": "%s བདམས་ཟིན།",
+            "name":"treeview_accessibility_implement_node",
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ནས་མུ་མཐུད་ལག་ལེན་བསྟར་ཆོག",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_lift_node",
-            "value": "%s དྲུད་ཟིན།",
+            "name":"treeview_accessibility_select_node",
+            "value":"%s བདམས་ཟིན།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_node_desc",
-            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་འདེམས་ཐུབ། ཉིས་རྡེབ་བྱས་རྗེས་ཡུན་རིང་མནན་ཚེ་དྲུད་དེ་གོ་རིམ་སྒྲིག་ཆོག",
+            "name":"treeview_accessibility_lift_node",
+            "value":"%s དྲུད་ཟིན།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_move_node_parent",
-            "value": "རྣམ་གྲངས་ཨང་ %d",
+            "name":"treeview_accessibility_node_desc",
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་འདེམས་ཐུབ། ཉིས་རྡེབ་བྱས་རྗེས་ཡུན་རིང་མནན་ཚེ་དྲུད་དེ་གོ་རིམ་སྒྲིག་ཆོག",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_expand_node",
-            "value": "འགྲེམ།",
+            "name":"treeview_accessibility_move_node_parent",
+            "value":"རྣམ་གྲངས་ཨང་ %d",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "treeview_accessibility_place_node_child",
-            "value": "༼%1$s༽ཡི་རྣམ་གྲངས་ཨང་ %2$d ལ་བཞག་ཟིན།",
+            "name":"treeview_accessibility_expand_node",
+            "value":"འགྲེམ།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "open_beauty",
-            "value": "མཛེས་བཟོ་ཁ་འབྱེད།"
+            "name":"treeview_accessibility_place_node_child",
+            "value":"༼%1$s༽ཡི་རྣམ་གྲངས་ཨང་ %2$d ལ་བཞག་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "close_beauty",
-            "value": "མཛེས་བཟོ་ཁ་རྒྱག"
+            "name":"open_beauty",
+            "value":"མཛེས་བཟོ་ཁ་འབྱེད།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "title_adjust_beauty",
-            "value": "བརྙན་ཟློས་ཀྱི་མཛེས་བཟོ་སྙོམ་སྒྲིག"
+            "name":"close_beauty",
+            "value":"མཛེས་བཟོ་ཁ་རྒྱག",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "summary_closed_beauty",
-            "value": "བརྙན་ཟློས་ཁ་པར་གཏོང་ལེན་གྱི་མཛེས་བཟོ་ཁ་བརྒྱབ་ཟིན།"
+            "name":"title_adjust_beauty",
+            "value":"བརྙན་ཟློས་ཀྱི་མཛེས་བཟོ་སྙོམ་སྒྲིག",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "summary_opened_beauty",
-            "value": "མཛེས་བཟོ་ཁ་ཕྱེ་ཟིན། བརྙན་ཟློས་ཁ་པར་གཏོང་སྐབས་ནུས་པ་འཐོན་ཐུབ།"
+            "name":"summary_closed_beauty",
+            "value":"བརྙན་ཟློས་ཁ་པར་གཏོང་ལེན་གྱི་མཛེས་བཟོ་ཁ་བརྒྱབ་ཟིན།",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"summary_opened_beauty",
+            "value":"མཛེས་བཟོ་ཁ་ཕྱེ་ཟིན། བརྙན་ཟློས་ཁ་པར་གཏོང་སྐབས་ནུས་པ་འཐོན་ཐུབ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_moveto_top_screen",
-            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་ཐོད་དུ་སྤོ་བ།"
+            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་ཐོད་དུ་སྤོ་བ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_moveto_bottom_screen",
-            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་གཤམ་དུ་སྤོ་བ།"
+            "value":"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་གཤམ་དུ་སྤོ་བ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_eject_lab",
-            "value": "བརྙན་མིག་འཕར་ཐོན་བྱེད་མི་ཐུབ།"
+            "name":"camera_device_eject_lab",
+            "value":"བརྙན་མིག་འཕར་ཐོན་བྱེད་མི་ཐུབ།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_eject_desc",
-            "value": "བརྙན་མིག་བཀག་པའམ་ཅ་ལག་འཛུལ་ཡོད་མེད་ལྟ་ཞིབ་གནང་རོགས། བརྟག་དཔྱད་བྱས་པ་བརྒྱུད་སྐྱོན་གང་ཡང་མེད་པ་གཏན་འཁེལ་བྱུང་རྗེས་གནོན་མཐེབ་ལ་བརྡབས་ནས་མུ་མཐུད་བཀོལ་རོགས།"
+            "name":"camera_device_eject_desc",
+            "value":"བརྙན་མིག་བཀག་པའམ་ཅ་ལག་འཛུལ་ཡོད་མེད་ལྟ་ཞིབ་གནང་རོགས། བརྟག་དཔྱད་བྱས་པ་བརྒྱུད་སྐྱོན་གང་ཡང་མེད་པ་གཏན་འཁེལ་བྱུང་རྗེས་གནོན་མཐེབ་ལ་བརྡབས་ནས་མུ་མཐུད་བཀོལ་རོགས།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_block_confirm",
-            "value": "ཤེས་སོང་།"
+            "name":"camera_device_block_confirm",
+            "value":"ཤེས་སོང་།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_block_lab",
-            "value": "བརྙན་མིག་རྒྱུན་ལྡན་མིན་སྲིད།"
+            "name":"camera_device_block_lab",
+            "value":"བརྙན་མིག་རྒྱུན་ལྡན་མིན་སྲིད།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_block_desc",
-            "value": "པར་ཆས་བསྐྱར་སློང་གནང་རོགས། གལ་ཏེ་པར་ངོས་སྔར་བཞིན་གནས་གཅིག་ལ་འདུ་མི་ཐུབ་ཚེ། ཞབས་ཞུའི་ས་ཚིགས་སུ་བསྐྱོད་ནས་ཉམས་གསོ་གནང་རོགས།"
+            "name":"camera_device_block_desc",
+            "value":"པར་ཆས་བསྐྱར་སློང་གནང་རོགས། གལ་ཏེ་པར་ངོས་སྔར་བཞིན་གནས་གཅིག་ལ་འདུ་མི་ཐུབ་ཚེ། ཞབས་ཞུའི་ས་ཚིགས་སུ་བསྐྱོད་ནས་ཉམས་གསོ་གནང་རོགས།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_use_continue",
-            "value": "མུ་མཐུད།"
+            "name":"camera_use_continue",
+            "value":"མུ་མཐུད།",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "prev_arrow_accessibility_text",
-            "value": "ཤོག་ངོས་གོང་མ།"
+            "name":"increase_used_for_accessibility_text",
+            "value":"སྣོན་པ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "next_arrow_accessibility_text",
-            "value": "ཤོག་ངོས་རྗེས་མ།"
+            "name":"reduce_used_for_accessibility_text",
+            "value":"འཕྲི་བ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "increase_used_for_accessibility_text",
-            "value": "སྣོན་པ།"
+            "name":"increase_counter_double_click_description",
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཚེ་ལག་བསྟར་བྱེད་ཐུབ། ཉིས་རྡེབ་བྱས་ནས་མནན་ཚེ་རྒྱུན་མཐུད་ནས་སྣོན་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "reduce_used_for_accessibility_text",
-            "value": "འཕྲི་བ།"
+            "name":"reduce_counter_double_click_description",
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཚེ་ལག་བསྟར་བྱེད་ཐུབ། ཉིས་རྡེབ་བྱས་ནས་མནན་ཚེ་རྒྱུན་མཐུད་ནས་འཕྲི་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "increase_counter_double_click_description",
-            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཚེ་ལག་བསྟར་བྱེད་ཐུབ། ཉིས་རྡེབ་བྱས་ནས་མནན་ཚེ་རྒྱུན་མཐུད་ནས་སྣོན་ཐུབ།"
+            "name":"First_counter_accessibility_text",
+            "value":"ཚེས་གཅིག",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "reduce_counter_double_click_description",
-            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཚེ་ལག་བསྟར་བྱེད་ཐུབ། ཉིས་རྡེབ་བྱས་ནས་མནན་ཚེ་རྒྱུན་མཐུད་ནས་འཕྲི་ཐུབ།"
+            "name":"Second_counter_accessibility_text",
+            "value":"ཚེས་གཉིས།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "First_counter_accessibility_text",
-            "value": "ཚེས་གཅིག"
+            "name":"Third_counter_accessibility_text",
+            "value":"ཚེས་གསུམ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Second_counter_accessibility_text",
-            "value": "ཚེས་གཉིས།"
+            "name":"Fourth_counter_accessibility_text",
+            "value":"ཚེས་བཞི།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Third_counter_accessibility_text",
-            "value": "ཚེས་གསུམ།"
+            "name":"Fifth_counter_accessibility_text",
+            "value":"ཚེས་ལྔ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fourth_counter_accessibility_text",
-            "value": "ཚེས་བཞི།"
+            "name":"Sixth_counter_accessibility_text",
+            "value":"ཚེས་དྲུག",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fifth_counter_accessibility_text",
-            "value": "ཚེས་ལྔ།"
+            "name":"Seventh_counter_accessibility_text",
+            "value":"ཚེས་བདུན།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Sixth_counter_accessibility_text",
-            "value": "ཚེས་དྲུག"
+            "name":"Eighth_counter_accessibility_text",
+            "value":"ཚེས་བརྒྱད།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Seventh_counter_accessibility_text",
-            "value": "ཚེས་བདུན།"
+            "name":"Ninth_counter_accessibility_text",
+            "value":"ཚེས་དགུ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eighth_counter_accessibility_text",
-            "value": "ཚེས་བརྒྱད།"
+            "name":"Tenth_counter_accessibility_text",
+            "value":"ཚེས་བཅུ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Ninth_counter_accessibility_text",
-            "value": "ཚེས་དགུ།"
+            "name":"Eleventh_counter_accessibility_text",
+            "value":"ཚེས་བཅུ་གཅིག",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Tenth_counter_accessibility_text",
-            "value": "ཚེས་བཅུ།"
+            "name":"Twelfth_counter_accessibility_text",
+            "value":"ཚེས་བཅུ་གཉིས།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eleventh_counter_accessibility_text",
-            "value": "ཚེས་བཅུ་གཅིག"
+            "name":"Thirteenth_counter_accessibility_text",
+            "value":"ཚེས་བཅུ་གསུམ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Twelfth_counter_accessibility_text",
-            "value": "ཚེས་བཅུ་གཉིས།"
+            "name":"Fourteenth_counter_accessibility_text",
+            "value":"ཚེས་བཅུ་བཞི།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Thirteenth_counter_accessibility_text",
-            "value": "ཚེས་བཅུ་གསུམ།"
+            "name":"Fifteenth_counter_accessibility_text",
+            "value":"ཚེས་བཅོ་ལྔ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fourteenth_counter_accessibility_text",
-            "value": "ཚེས་བཅུ་བཞི།"
+            "name":"Sixteenth_counter_accessibility_text",
+            "value":"ཚེས་བཅུ་དྲུག",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fifteenth_counter_accessibility_text",
-            "value": "ཚེས་བཅོ་ལྔ། "
+            "name":"Seventeenth_counter_accessibility_text",
+            "value":"ཚེས་བཅུ་བདུན།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Sixteenth_counter_accessibility_text",
-            "value": "ཚེས་བཅུ་དྲུག"
+            "name":"Eighteenth_counter_accessibility_text",
+            "value":"ཚེས་བཅོ་བརྒྱད།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Seventeenth_counter_accessibility_text",
-            "value": "ཚེས་བཅུ་བདུན།"
+            "name":"Nineteenth_counter_accessibility_text",
+            "value":"ཚེས་བཅུ་དགུ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eighteenth_counter_accessibility_text",
-            "value": "ཚེས་བཅོ་བརྒྱད།"
+            "name":"Twentieth_counter_accessibility_text",
+            "value":"ཚེས་ཉི་ཤུ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Nineteenth_counter_accessibility_text",
-            "value": "ཚེས་བཅུ་དགུ།"
+            "name":"TwentyFirst_counter_accessibility_text",
+            "value":"ཚེས་ཉི་ཤུ་རྩ་གཅིག",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Twentieth_counter_accessibility_text",
-            "value": "ཚེས་ཉི་ཤུ།"
+            "name":"TwentySecond_counter_accessibility_text",
+            "value":"ཚེས་ཉི་ཤུ་རྩ་གཉིས།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFirst_counter_accessibility_text",
-            "value": "ཚེས་ཉི་ཤུ་རྩ་གཅིག"
+            "name":"TwentyThird_counter_accessibility_text",
+            "value":"ཚེས་ཉི་ཤུ་རྩ་གསུམ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentySecond_counter_accessibility_text",
-            "value": "ཚེས་ཉི་ཤུ་རྩ་གཉིས།"
+            "name":"TwentyFourth_counter_accessibility_text",
+            "value":"ཚེས་ཉི་ཤུ་རྩ་བཞི།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyThird_counter_accessibility_text",
-            "value": "ཚེས་ཉི་ཤུ་རྩ་གསུམ།"
+            "name":"TwentyFifth_counter_accessibility_text",
+            "value":"ཚེས་ཉི་ཤུ་རྩ་ལྔ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFourth_counter_accessibility_text",
-            "value": "ཚེས་ཉི་ཤུ་རྩ་བཞི།"
+            "name":"TwentySixth_counter_accessibility_text",
+            "value":"ཚེས་ཉི་ཤུ་རྩ་དྲུག",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFifth_counter_accessibility_text",
-            "value": "ཚེས་ཉི་ཤུ་རྩ་ལྔ།"
+            "name":"TwentySeventh_counter_accessibility_text",
+            "value":"ཚེས་ཉི་ཤུ་རྩ་བདུན།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentySixth_counter_accessibility_text",
-            "value": "ཚེས་ཉི་ཤུ་རྩ་དྲུག"
+            "name":"TwentyEighth_counter_accessibility_text",
+            "value":"ཚེས་ཉི་ཤུ་རྩ་བརྒྱད།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentySeventh_counter_accessibility_text",
-            "value": "ཚེས་ཉི་ཤུ་རྩ་བདུན།"
+            "name":"TwentyNinth_counter_accessibility_text",
+            "value":"ཚེས་ཉི་ཤུ་རྩ་དགུ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyEighth_counter_accessibility_text",
-            "value": "ཚེས་ཉི་ཤུ་རྩ་བརྒྱད།"
+            "name":"Thirtieth_counter_accessibility_text",
+            "value":"ཚེས་སུམ་ཅུ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyNinth_counter_accessibility_text",
-            "value": "ཚེས་ཉི་ཤུ་རྩ་དགུ།"
+            "name":"ThirtyFirst_counter_accessibility_text",
+            "value":"ཚེས་སུམ་ཅུ་སོ་གཅིག",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Thirtieth_counter_accessibility_text",
-            "value": "ཚེས་སུམ་ཅུ།"
+            "name":"input_counter_double_click_description",
+            "value":"མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ནང་དོན་འཇུག་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ThirtyFirst_counter_accessibility_text",
-            "value": "ཚེས་སུམ་ཅུ་སོ་གཅིག"
+            "name":"prev_arrow_accessibility_text",
+            "value":"ཤོག་ངོས་གོང་མ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "input_counter_double_click_description",
-            "value": "མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་ནང་དོན་འཇུག་ཐུབ།"
-        },
-        {
-                "name":"arkui_app_bar_close",
-                "value":"ཁ་རྒྱག",
-                "attr":{
-                    "priority":"translate"
-                }
-        },
-        {
-                "name":"arkui_app_bar_service_panel",
-                "value":"ཞབས་ཞུའི་ངོས་པང་།",
-                "attr":{
-                    "priority":"translate"
-                }
+            "name":"next_arrow_accessibility_text",
+            "value":"ཤོག་ངོས་རྗེས་མ།",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"off_used_for_accessibility_text",
@@ -1248,17 +1492,31 @@
             }
         },
         {
-            "name": "navigation_back",
-            "value": "ཕྱིར་ལོག",
-            "attr": {
-                "priority": "translate"
+            "name":"navigation_back",
+            "value":"ཕྱིར་ལོག",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "sheet_close",
-            "value": "ཁ་རྒྱག",
-            "attr": {
-                "priority": "translate"
+            "name":"sheet_close",
+            "value":"ཁ་རྒྱག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_close",
+            "value":"ཁ་རྒྱག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_service_panel",
+            "value":"ཞབས་ཞུའི་ངོས་པང་།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
@@ -1266,7 +1524,7 @@
             "value":"ཆེ་ཤོས་སུ་སྒྱུར་བ།",
             "attr":{
                 "priority":"translate"
-           }
+            }
         },
         {
             "name":"request_agent_task_count",
@@ -1286,14 +1544,14 @@
             "name":"form_disable_app_locked",
             "value":"ཉེར་སྤྱོད་ལ་སྒོ་ལྕགས་བརྒྱབ་ཟིན།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
-            "name": "arkui_app_bar_provide_service",
-            "value": "༼%s༽ཡིས་ཞབས་ཞུ་མཁོ་འདོན་བྱས།",
-            "attr": {
-                "priority": "translate"
+            "name":"arkui_app_bar_provide_service",
+            "value":"༼%s༽ཡིས་ཞབས་ཞུ་མཁོ་འདོན་བྱས།",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
@@ -1307,124 +1565,138 @@
             "name":"notification_screen_recording_privacy_off",
             "value":"སྒེར་གསང་སྲུང་སྐྱོབ་ཁ་བརྒྱབ་ཟིན། བརྡབས་ནས་དེ་ལས་མང་བར་ལྟ་ཞིབ་བྱེད།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"སྒེར་གསང་ལ་སྲུང་སྐྱོབ་བྱེད་བཞིན་པ། བརྡབས་ནས་དེ་ལས་མང་བར་ལྟ་ཞིབ་བྱེད།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_ask_celia",
             "value":"ཞའོ་དབྱི་ལ་འདྲི།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_address",
             "value":"ཕྱོགས་སྟོན་བྱེད།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_email",
             "value":"གློག་ཡིག་གསར་འཛུགས།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_phone_number",
             "value":"ཁ་པར་གཏོང་བ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_url",
             "value":"སྦྲེལ་ཐག་ཁ་འབྱེད།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_date",
             "value":"ལས་རིམ་གསར་འཛུགས།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_open_map_app",
             "value":"༼ཧྭ་པན་ས་ཁྲ་༽ཡི་ཕྱོགས་སྟོན་བཀོལ་བ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_url_open_browser_app",
             "value":"༼ཧྭ་ཝེ་བཤར་ཆས་༽བཀོལ་ནས་ཁ་འབྱེད།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_install_map_app",
             "value":"བརྡབས་ནས་༼ཧྭ་པན་ས་ཁྲ་༽ App སྒྲིག་འཇུག་བྱེད་པ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_display_failed",
             "value":"མངོན་སྟོན་སྔོན་ལྟ་བྱེད་མ་ཐུབ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_install_calendar_app",
             "value":"བརྡབས་ནས་༼ལོ་ཐོ་༽ App སྒྲིག་འཇུག་བྱེད་པ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_feature_loud_volume_tittle",
             "value":"རིམ་འདས་སྒྲ་ཚད་ཆེན་པོ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_enable_loud_volume_tittle",
             "value":"ཁ་ཕྱེ་ཟིན།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_retry",
             "value":"༼ལོ་ཐོ༽App སྒྲིག་འཇུག་བྱས་རྗེས་སླར་ཡང་ཚོད་ལྟ་བྱེད་རོགས།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_location_title",
             "value":"གནས་ཡུལ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_link_title",
             "value":"དྲ་ཚིགས།",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"textinput_text_counter",
+            "value":"%1$d/%2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"due_control_form",
+            "value":"བྱང་བུ་བཀོལ་མི་ཐུབ། ཉེར་སྤྱོད་གསར་སྒྱུར་བྱེད་པར་སྒུག་རོགས།",
             "attr":{
                 "priority":"translate"
             }

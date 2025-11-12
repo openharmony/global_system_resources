@@ -148,10 +148,10 @@
             }
         },
         {
-            "name": "ohos_add_form_to_desktop",
-            "value": "ئۈستەليۈزىگە قوشۇش",
-            "attr": {
-                "priority": "translate"
+            "name":"ohos_add_form_to_desktop",
+            "value":"ئۈستەليۈزىگە قوشۇش",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -163,7 +163,10 @@
         },
         {
             "name":"ohos_lab_media_location",
-            "value":"رەسىمگە قوشۇلغان ئورۇن ئۇچۇرى"
+            "value":"رەسىمگە قوشۇلغان ئورۇن ئۇچۇرى",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ohos_grid_edit_title_edit",
@@ -197,48 +200,63 @@
             "name":"icon_back",
             "value":"قايتىش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"icon_cancel",
             "value":"بىكار قىلىش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"icon_save",
             "value":"ساقلاش",
             "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"textfield_accessibility_property_clear",
+            "value":"تازىلاش، كۇنۇپكا",
+            "attr":{
                 "priority":"translate"
             }
         },
         {
+            "name":"textfield_accessibility_show_password",
+            "value":"پارول كۆرسىتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_hide_password",
+            "value":"پارول يوشۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_disable_time_limit",
+            "value":"ۋاقىت توشتى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
             "name":"ohos_id_text_camera_input",
-            "value":"رەسىمدىن كىرگۈزۈش"
+            "value":"رەسىمدىن كىرگۈزۈش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ai_write_menu_name",
-            "value": "شياۋيى يازغۇچ"
-        },
-        {
-            "name" : "textfield_accessibility_property_clear",
-            "value" :"تازىلاش، كۇنۇپكا"
-        },
-        {
-            "name" : "textfield_accessibility_show_password",
-            "value" : "پارول كۆرسىتىش"
-        },
-        {
-            "name" : "textfield_accessibility_hide_password",
-            "value" : "پارول يوشۇرۇش"
-        },
-        {
-            "name": "form_disable_time_limit",
-            "value": "ۋاقىت توشتى",
-            "attr": {
-                "priority": "translate"
+            "name":"ai_write_menu_name",
+            "value":"شياۋيى يازغۇچ",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -250,350 +268,464 @@
         },
         {
             "name":"ohos_lab_read_calendar",
-            "value":"كالېندار ئوقۇش"
+            "value":"كالېندار ئوقۇش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_write_calendar",
-            "value":"كالېندار قۇرۇش/ئۆزگەرتىش/ئۆچۈرۈش"
+            "value":"كالېندار قۇرۇش/ئۆزگەرتىش/ئۆچۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_read_contacts",
-            "value":"ئالاقىداش ئوقۇش"
+            "value":"ئالاقىداش ئوقۇش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "ohos_lab_write_contacts",
-            "value": "ئالاقىداش قۇرۇش/ئۆزگەرتىش/ئۆچۈرۈش",
-            "attr": {
-                "priority": "LT"
+            "name":"ohos_lab_write_contacts",
+            "value":"ئالاقىداش قۇرۇش/ئۆزگەرتىش/ئۆچۈرۈش",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_lab_write_whole_calendar",
-            "value":"بارلىق كالېندار قۇرۇش/ئۆزگەرتىش/ئۆچۈرۈش"
+            "value":"بارلىق كالېندار قۇرۇش/ئۆزگەرتىش/ئۆچۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"ohos_lab_read_whole_calendar",
-            "value":"بارلىق كالېندارنى ئوقۇش"
+            "value":"بارلىق كالېندارنى ئوقۇش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
             "value":"تېز ساقلاش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
             "value":"قايتا ساقلاش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_export_to_gallery",
             "value":"چىقىرىش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"calendar_picker_mon",
-            "value":"دۈشەنبە"
+            "value":"دۈشەنبە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_tue",
-            "value":"سەيشەنبە"
+            "value":"سەيشەنبە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_wed",
-            "value":"چارشەنبە"
+            "value":"چارشەنبە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_thu",
-            "value":"پەيشەنبە"
+            "value":"پەيشەنبە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_fri",
-            "value":"جۈمە"
+            "value":"جۈمە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_sat",
-            "value":"شەنبە"
+            "value":"شەنبە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"calendar_picker_sun",
-            "value":"يەكشەنبە"
+            "value":"يەكشەنبە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"slider_accessibility_selected",
-            "value":"تاللاندى"
+            "value":"تاللاندى",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "slider_accessibility_unselected",
-            "value": "تاللانمىدى",
-            "attr": {
-                "priority": "translate"
+            "name":"slider_accessibility_unselected",
+            "value":"تاللانمىدى",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
             "name":"slider_accessibility_unselectedDesc",
-            "value":"قوش چەكسىڭىز تاللىنىدۇ"
+            "value":"قوش چەكسىڭىز تاللىنىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"slider_accessibility_disabledDesc",
-            "value":"ئىشلىمەيدۇ"
-        },
-        {
-            "name": "general_confirm",
-            "value": "جەزملەش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_last_step",
-            "value": "ئالدىنقى",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_next_step",
-            "value": "كېيىنكى",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "last_updated_time",
-            "value": "يېڭىلانغان ۋاقىت: %s",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_copy",
-            "value": "كۆچۈرۈش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_cut",
-            "value": "كېسىش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_select_all",
-            "value": "ھەممىنى تاللاش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_translate",
-            "value": "تەرجىمە",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_share",
-            "value": "ئورتاقلىشىش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_search",
-            "value": "ئىزدەش"
-        },
-        {
-            "name": "general_open",
-            "value": "ئوچۇق",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_close",
-            "value": "ئېتىك",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_start",
-            "value": "باشلاش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_skip",
-            "value": "ئاتلاش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_window_left_screen",
-            "value": "سولدا كۆرسىتىش"
-        },
-        {
-            "name": "general_window_right_screen",
-            "value": "ئوڭدا كۆرسىتىش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_display_lunar_calendar",
-            "value": "دېھقانلار كالېندارى كۆرسىتىش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_paste",
-            "value": "چاپلاش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_cancel",
-            "value": "بىكار قىلىش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_more",
-            "value": "كۆپرەك",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "text_overlay_menu_more_accessibility_text",
-            "value": "كۆپرەك",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "stepper_back",
-            "value": "قايتىش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "text_overlay_menu_back_accessibility_text",
-            "value": "قايتىش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "stepper_next",
-            "value": "كېيىنكى",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "textfield_show_password",
-            "value": "مەخپىي نومۇرنى كۆرسىتىش"
-        },
-        {
-            "name": "textfield_hide_password",
-            "value": "مەخپىي نومۇر يوشۇرۇش"
-        },
-        {
-            "name": "textfield_show_password_button",
-            "value": "پارول كۆرسىتىش، كۇنۇپكا"
-        },
-        {
-            "name": "textfield_hide_password_button",
-            "value": "پارول يوشۇرۇش، كۇنۇپكا"
-        },
-        {
-            "name": "textfield_has_showed_password",
-            "value": "مەخپىي نومۇر كۆرۈنىدۇ"
-        },
-        {
-            "name": "textfield_has_hidden_password",
-            "value": "مەخپىي نومۇر كۆرۈنمەيدۇ"
-        },
-        {
-            "name": "textfield_accessibility_clear",
-            "value": "تازىلاش"
-        },
-        {
-            "name": "ohos_id_notification_increase_volume_tittle",
-            "value": "بىخەتەر چەكتىن ئاشۇرۇپ ئۈنلۈكلىتەمسىز؟",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "ohos_id_notification_increase_volume_context",
-            "value": "ئۈن ئۇزاق ۋاقىت يۇقىرى بولسا ئاڭلاش سېزىمىنى يارىلاندۇرىدۇ.",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "ohos_id_notification_restore_volume_button",
-            "value": "ئەسلىگە كەلتۈرۈش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "ohos_id_notification_restore_volume_context",
-            "value": "ئاڭلاش سېزىمىنى قوغداش ئۈچۈن ئۈن بىخەتەر دائىرىگە تۆۋەنلىتىلدى.",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "ohos_id_notification_restore_volume_tittle",
-            "value": "ئۈن تۆۋەنلىتىلدى",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "ohos_id_notification_increase_volume_button",
-            "value": "ئۈنلۈكلىتىش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "general_get_it",
-            "value": "بىلدىم",
+            "value":"ئىشلىمەيدۇ",
             "attr":{
-                "priority": "translate"
+                "priority":"translate"
             }
         },
         {
-            "name": "desc_developer_mode_tips",
-            "value": "ئىجادچى ھالىتىدە يۈرگۈزۈلۈشى كېرەك.",
+            "name":"general_confirm",
+            "value":"جەزملەش",
             "attr":{
-                "priority": "translate"
+                "priority":"translate"
             }
         },
         {
-            "name": "lab_developer_mode_tips",
-            "value": "ئىجادچى ھالىتىنى ئېچىش كېرەك",
+            "name":"general_last_step",
+            "value":"ئالدىنقى",
             "attr":{
-                "priority": "translate"
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_next_step",
+            "value":"كېيىنكى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"last_updated_time",
+            "value":"يېڭىلانغان ۋاقىت: %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_copy",
+            "value":"كۆچۈرۈش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_cut",
+            "value":"كېسىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_select_all",
+            "value":"ھەممىنى تاللاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_translate",
+            "value":"تەرجىمە",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_share",
+            "value":"ئورتاقلىشىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_search",
+            "value":"ئىزدەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_open",
+            "value":"ئوچۇق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_close",
+            "value":"ئېتىك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_start",
+            "value":"باشلاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_skip",
+            "value":"ئاتلاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_left_screen",
+            "value":"سولدا كۆرسىتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_window_right_screen",
+            "value":"ئوڭدا كۆرسىتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_display_lunar_calendar",
+            "value":"دېھقانلار كالېندارى كۆرسىتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_paste",
+            "value":"چاپلاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_cancel",
+            "value":"بىكار قىلىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"general_more",
+            "value":"كۆپرەك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_overlay_menu_more_accessibility_text",
+            "value":"كۆپرەك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"stepper_back",
+            "value":"قايتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_overlay_menu_back_accessibility_text",
+            "value":"قايتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"stepper_next",
+            "value":"كېيىنكى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_show_password",
+            "value":"مەخپىي نومۇرنى كۆرسىتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_hide_password",
+            "value":"مەخپىي نومۇر يوشۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_show_password_button",
+            "value":"پارول كۆرسىتىش، كۇنۇپكا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_hide_password_button",
+            "value":"پارول يوشۇرۇش، كۇنۇپكا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_showed_password",
+            "value":"مەخپىي نومۇر كۆرۈنىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_has_hidden_password",
+            "value":"مەخپىي نومۇر كۆرۈنمەيدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"textfield_accessibility_clear",
+            "value":"تازىلاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_tittle",
+            "value":"بىخەتەر چەكتىن ئاشۇرۇپ ئۈنلۈكلىتەمسىز؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_context",
+            "value":"ئۈن ئۇزاق ۋاقىت يۇقىرى بولسا ئاڭلاش سېزىمىنى يارىلاندۇرىدۇ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_button",
+            "value":"ئەسلىگە كەلتۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_context",
+            "value":"ئاڭلاش سېزىمىنى قوغداش ئۈچۈن ئۈن بىخەتەر دائىرىگە تۆۋەنلىتىلدى.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ohos_id_notification_restore_volume_tittle",
+            "value":"ئۈن تۆۋەنلىتىلدى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ohos_id_notification_increase_volume_button",
+            "value":"ئۈنلۈكلىتىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"request_agent_upload_success",
+            "value":"يۈكلەندى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"request_agent_upload_fail",
+            "value":"يۈكلەنمىدى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"request_agent_download_fail",
+            "value":"چۈشمىدى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"request_agent_download_success",
+            "value":"چۈشتى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notification_screen_recording_title",
+            "value":"ئېكراننى «%s» ئىشلىتىۋاتىدۇ...",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"request_agent_upload_file",
+            "value":"ھۆججەت يۈكلەش ‎%s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"general_get_it",
+            "value":"بىلدىم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"desc_developer_mode_tips",
+            "value":"ئىجادچى ھالىتىدە يۈرگۈزۈلۈشى كېرەك.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"lab_developer_mode_tips",
+            "value":"ئىجادچى ھالىتىنى ئېچىش كېرەك",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -604,59 +736,24 @@
             }
         },
         {
-            "name": "request_agent_upload_success",
-            "value": "يۈكلەندى",
-            "attr": {
-                "priority": "LT"
+            "name":"delete_used_for_accessibility_text",
+            "value":"ئۆچۈرۈش",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "request_agent_upload_fail",
-            "value": "يۈكلەنمىدى",
-            "attr": {
-                "priority": "LT"
+            "name":"request_agent_download_file",
+            "value":"ھۆججەت چۈشۈرۈش ‎%s",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "request_agent_download_fail",
-            "value": "چۈشمىدى",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "request_agent_download_success",
-            "value": "چۈشتى",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "notification_screen_recording_title",
-            "value": "ئېكراننى «%s» ئىشلىتىۋاتىدۇ...",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "request_agent_upload_file",
-            "value": "ھۆججەت يۈكلەش ‎%s",
-            "attr": {
-                "priority": "LT"
-            }
-        },
-        {
-            "name": "delete_used_for_accessibility_text",
-            "value": "ئۆچۈرۈش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "request_agent_download_file",
-            "value": "ھۆججەت چۈشۈرۈش ‎%s",
-            "attr": {
-                "priority": "LT"
+            "name":"save_button_description_save_all",
+            "value":"ھەممىنى ساقلاش",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
@@ -695,31 +792,39 @@
             }
         },
         {
-            "name":"save_button_description_save_all",
-            "value":"ھەممىنى ساقلاش",
+            "name":"general_window_bottom_screen",
+            "value":"ئېكران ئاستىدا كۆرسىتىش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
-            "name":"general_window_bottom_screen",
-            "value":"ئېكران ئاستىدا كۆرسىتىش"
-        },
-        {
             "name":"general_window_top_screen",
-            "value":"ئېكران ئۈستىدە كۆرسىتىش"
+            "value":"ئېكران ئۈستىدە كۆرسىتىش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_top_right_screen",
-            "value":"ئوڭ ئۈستىدە كۆرسىتىش"
+            "value":"ئوڭ ئۈستىدە كۆرسىتىش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_top_left_screen",
-            "value":"سول ئۈستىدە كۆرسىتىش"
+            "value":"سول ئۈستىدە كۆرسىتىش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_waterfall_mode",
-            "value":"شارقىراتما ھالەتكە كىرىش"
+            "value":"شارقىراتما ھالەتكە كىرىش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"subheader_accessibility_title",
@@ -729,15 +834,15 @@
             }
         },
         {
-            "name": "advanced_dialog_accessibility_checkbox",
-            "value": "تاللاش رامكىسى",
+            "name":"advanced_dialog_accessibility_checkbox",
+            "value":"تاللاش رامكىسى",
             "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "advanced_dialog_accessibility_cancel_checked_desc",
-            "value": "قوش چەكسىڭىز تاللاشتىن قالدۇرۇلىدۇ",
+            "name":"advanced_dialog_accessibility_cancel_checked_desc",
+            "value":"قوش چەكسىڭىز تاللاشتىن قالدۇرۇلىدۇ",
             "attr":{
                 "priority":"translate"
             }
@@ -806,10 +911,10 @@
             }
         },
         {
-            "name": "filter_accessibility_expand_desc",
-            "value": "بىر بارماقتا قوش چەكسىڭىز يېيىلىدۇ",
-            "attr": {
-                "priority": "translate"
+            "name":"filter_accessibility_expand_desc",
+            "value":"بىر بارماقتا قوش چەكسىڭىز يېيىلىدۇ",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
@@ -968,7 +1073,7 @@
         },
         {
             "name":"treeview_accessibility_fold_node",
-            "value":" يىغىش",
+            "value":"يىغىش",
             "attr":{
                 "priority":"translate"
             }
@@ -982,7 +1087,7 @@
         },
         {
             "name":"treeview_accessibility_select_node",
-            "value":" نۆۋەتتە %s تاللاندى",
+            "value":"نۆۋەتتە %s تاللاندى",
             "attr":{
                 "priority":"translate"
             }
@@ -1010,7 +1115,7 @@
         },
         {
             "name":"treeview_accessibility_expand_node",
-            "value":" يېيىش",
+            "value":"يېيىش",
             "attr":{
                 "priority":"translate"
             }
@@ -1023,208 +1128,382 @@
             }
         },
         {
-            "name": "open_beauty",
-            "value": "گۈزەللەشتۈرۈشنى ئېچىش"
+            "name":"open_beauty",
+            "value":"گۈزەللەشتۈرۈشنى ئېچىش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "close_beauty",
-            "value": "گۈزەللەشتۈرۈشنى ئېتىش"
+            "name":"close_beauty",
+            "value":"گۈزەللەشتۈرۈشنى ئېتىش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "title_adjust_beauty",
-            "value": "سىن گۈزەللەشتۈرۈش"
+            "name":"title_adjust_beauty",
+            "value":"سىن گۈزەللەشتۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "summary_closed_beauty",
-            "value": "سىنلىق چاقىرىق گۈزەللەشتۈرۈش ھالىتى ئېتىك."
+            "name":"summary_closed_beauty",
+            "value":"سىنلىق چاقىرىق گۈزەللەشتۈرۈش ھالىتى ئېتىك.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "summary_opened_beauty",
-            "value": "گۈزەللەشتۈرۈش ئوچۇق، سىنلىق چاقىرىقتا ئىشلەيدۇ."
+            "name":"summary_opened_beauty",
+            "value":"گۈزەللەشتۈرۈش ئوچۇق، سىنلىق چاقىرىقتا ئىشلەيدۇ.",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_moveto_top_screen",
-            "value":"ئۈستى ئېكرانغا يۆتكەش"
+            "value":"ئۈستى ئېكرانغا يۆتكەش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"general_window_moveto_bottom_screen",
-            "value":"ئاستى ئېكرانغا يۆتكەش"
+            "value":"ئاستى ئېكرانغا يۆتكەش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_eject_lab",
-            "value": "كامېرا چىقمىدى"
+            "name":"camera_device_eject_lab",
+            "value":"كامېرا چىقمىدى",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_eject_desc",
-            "value": "كامېرادا توسالغۇ بارمۇ تەكشۈرۈپ قايتا سىناڭ."
+            "name":"camera_device_eject_desc",
+            "value":"كامېرادا توسالغۇ بارمۇ تەكشۈرۈپ قايتا سىناڭ.",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_block_confirm",
-            "value": "بىلدىم"
+            "name":"camera_device_block_confirm",
+            "value":"بىلدىم",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_block_lab",
-            "value": "كامېرادا مەسىلە بولۇشى مۇمكىن"
+            "name":"camera_device_block_lab",
+            "value":"كامېرادا مەسىلە بولۇشى مۇمكىن",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_device_block_desc",
-            "value": "كامېرانى قايتا قوزغىتىڭ. يەنىلا فوكۇسلانمىسا، مۇلازىمەت نۇقتىسىغا بېرىپ رېمونت قىلدۇرۇڭ."
+            "name":"camera_device_block_desc",
+            "value":"كامېرانى قايتا قوزغىتىڭ. يەنىلا فوكۇسلانمىسا، مۇلازىمەت نۇقتىسىغا بېرىپ رېمونت قىلدۇرۇڭ.",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "camera_use_continue",
-            "value": "داۋاملاشتۇرۇش"
+            "name":"camera_use_continue",
+            "value":"داۋاملاشتۇرۇش",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
-            "name": "prev_arrow_accessibility_text",
-            "value": "ئالدىنقى بەت"
+            "name":"increase_used_for_accessibility_text",
+            "value":"قوشۇش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "next_arrow_accessibility_text",
-            "value": "كېيىنكى بەت"
+            "name":"reduce_used_for_accessibility_text",
+            "value":"كېمەيتىش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "increase_used_for_accessibility_text",
-            "value": "قوشۇش"
+            "name":"increase_counter_double_click_description",
+            "value":"بىر بارماقتا قوش چېكىپ يۈرگۈزۈش ۋە قوش بېسىپ تۇرۇپ داۋاملىق قوشۇشقا بولىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "reduce_used_for_accessibility_text",
-            "value": "كېمەيتىش"
+            "name":"reduce_counter_double_click_description",
+            "value":"بىر بارماقتا قوش چېكىپ يۈرگۈزۈش ۋە قوش بېسىپ تۇرۇپ داۋاملىق كېمەيتىشكە بولىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "increase_counter_double_click_description",
-            "value": "بىر بارماقتا قوش چېكىپ يۈرگۈزۈش ۋە قوش بېسىپ تۇرۇپ داۋاملىق قوشۇشقا بولىدۇ"
+            "name":"First_counter_accessibility_text",
+            "value":"بىر",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "reduce_counter_double_click_description",
-            "value": "بىر بارماقتا قوش چېكىپ يۈرگۈزۈش ۋە قوش بېسىپ تۇرۇپ داۋاملىق كېمەيتىشكە بولىدۇ"
+            "name":"Second_counter_accessibility_text",
+            "value":"ئىككى",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "First_counter_accessibility_text",
-            "value": "بىر"
+            "name":"Third_counter_accessibility_text",
+            "value":"ئۈچ",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Second_counter_accessibility_text",
-            "value": "ئىككى"
+            "name":"Fourth_counter_accessibility_text",
+            "value":"تۆت",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Third_counter_accessibility_text",
-            "value": "ئۈچ"
+            "name":"Fifth_counter_accessibility_text",
+            "value":"بەش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fourth_counter_accessibility_text",
-            "value": "تۆت"
+            "name":"Sixth_counter_accessibility_text",
+            "value":"ئالتە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fifth_counter_accessibility_text",
-            "value": "بەش"
+            "name":"Seventh_counter_accessibility_text",
+            "value":"يەتتە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Sixth_counter_accessibility_text",
-            "value": "ئالتە"
+            "name":"Eighth_counter_accessibility_text",
+            "value":"سەككىز",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Seventh_counter_accessibility_text",
-            "value": "يەتتە"
+            "name":"Ninth_counter_accessibility_text",
+            "value":"توققۇز",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eighth_counter_accessibility_text",
-            "value": "سەككىز"
+            "name":"Tenth_counter_accessibility_text",
+            "value":"ئون",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Ninth_counter_accessibility_text",
-            "value": "توققۇز"
+            "name":"Eleventh_counter_accessibility_text",
+            "value":"ئون بىر",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Tenth_counter_accessibility_text",
-            "value": "ئون"
+            "name":"Twelfth_counter_accessibility_text",
+            "value":"ئون ئىككى",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eleventh_counter_accessibility_text",
-            "value": "ئون بىر"
+            "name":"Thirteenth_counter_accessibility_text",
+            "value":"ئون ئۈچ",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Twelfth_counter_accessibility_text",
-            "value": "ئون ئىككى"
+            "name":"Fourteenth_counter_accessibility_text",
+            "value":"ئون تۆت",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Thirteenth_counter_accessibility_text",
-            "value": "ئون ئۈچ"
+            "name":"Fifteenth_counter_accessibility_text",
+            "value":"ئون بەش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fourteenth_counter_accessibility_text",
-            "value": "ئون تۆت"
+            "name":"Sixteenth_counter_accessibility_text",
+            "value":"ئون ئالتە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Fifteenth_counter_accessibility_text",
-            "value": "ئون بەش "
+            "name":"Seventeenth_counter_accessibility_text",
+            "value":"ئون يەتتە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Sixteenth_counter_accessibility_text",
-            "value": "ئون ئالتە"
+            "name":"Eighteenth_counter_accessibility_text",
+            "value":"ئون سەككىز",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Seventeenth_counter_accessibility_text",
-            "value": "ئون يەتتە"
+            "name":"Nineteenth_counter_accessibility_text",
+            "value":"ئون توققۇز",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Eighteenth_counter_accessibility_text",
-            "value": "ئون سەككىز"
+            "name":"Twentieth_counter_accessibility_text",
+            "value":"يىگىرمە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Nineteenth_counter_accessibility_text",
-            "value": "ئون توققۇز"
+            "name":"TwentyFirst_counter_accessibility_text",
+            "value":"يىگىرمە بىر",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Twentieth_counter_accessibility_text",
-            "value": "يىگىرمە"
+            "name":"TwentySecond_counter_accessibility_text",
+            "value":"يىگىرمە ئىككى",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFirst_counter_accessibility_text",
-            "value": "يىگىرمە بىر"
+            "name":"TwentyThird_counter_accessibility_text",
+            "value":"يىگىرمە ئۈچ",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentySecond_counter_accessibility_text",
-            "value": "يىگىرمە ئىككى"
+            "name":"TwentyFourth_counter_accessibility_text",
+            "value":"يىگىرمە تۆت",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyThird_counter_accessibility_text",
-            "value": "يىگىرمە ئۈچ"
+            "name":"TwentyFifth_counter_accessibility_text",
+            "value":"يىگىرمە بەش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFourth_counter_accessibility_text",
-            "value": "يىگىرمە تۆت"
+            "name":"TwentySixth_counter_accessibility_text",
+            "value":"يىگىرمە ئالتە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyFifth_counter_accessibility_text",
-            "value": "يىگىرمە بەش"
+            "name":"TwentySeventh_counter_accessibility_text",
+            "value":"يىگىرمە يەتتە",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentySixth_counter_accessibility_text",
-            "value": "يىگىرمە ئالتە"
+            "name":"TwentyEighth_counter_accessibility_text",
+            "value":"يىگىرمە سەككىز",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentySeventh_counter_accessibility_text",
-            "value": "يىگىرمە يەتتە"
+            "name":"TwentyNinth_counter_accessibility_text",
+            "value":"يىگىرمە توققۇز",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyEighth_counter_accessibility_text",
-            "value": "يىگىرمە سەككىز"
+            "name":"Thirtieth_counter_accessibility_text",
+            "value":"ئوتتۇز",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "TwentyNinth_counter_accessibility_text",
-            "value": "يىگىرمە توققۇز"
+            "name":"ThirtyFirst_counter_accessibility_text",
+            "value":"ئوتتۇز بىر",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "Thirtieth_counter_accessibility_text",
-            "value": "ئوتتۇز"
+            "name":"input_counter_double_click_description",
+            "value":"بىر بارماقتا قوش چېكىپ مەزمۇن كىرگۈزىسىز",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ThirtyFirst_counter_accessibility_text",
-            "value": "ئوتتۇز بىر"
+            "name":"prev_arrow_accessibility_text",
+            "value":"ئالدىنقى بەت",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "input_counter_double_click_description",
-            "value": "بىر بارماقتا قوش چېكىپ مەزمۇن كىرگۈزىسىز"
+            "name":"next_arrow_accessibility_text",
+            "value":"كېيىنكى بەت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"off_used_for_accessibility_text",
+            "value":"يېپىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"navigation_back",
+            "value":"قايتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sheet_close",
+            "value":"ئېتىش",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"arkui_app_bar_close",
@@ -1241,30 +1520,9 @@
             }
         },
         {
-            "name":"off_used_for_accessibility_text",
-            "value":"يېپىش",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name": "navigation_back",
-            "value": "قايتىش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "sheet_close",
-            "value": "ئېتىش",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
             "name":"arkui_app_bar_maximize",
             "value":"چوڭايتىش",
-            "attr": {
+            "attr":{
                 "priority":"translate"
             }
         },
@@ -1283,17 +1541,17 @@
             }
         },
         {
-            "name": "form_disable_app_locked",
-            "value": "ئەپ قۇلۇپلاق",
-            "attr": {
-                "priority": "translate"
+            "name":"form_disable_app_locked",
+            "value":"ئەپ قۇلۇپلاق",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "arkui_app_bar_provide_service",
-            "value": "\u200f%s تەمىنلىگەن",
-            "attr": {
-                "priority": "translate"
+            "name":"arkui_app_bar_provide_service",
+            "value":"\u200f%s تەمىنلىگەن",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
@@ -1307,124 +1565,138 @@
             "name":"notification_screen_recording_privacy_off",
             "value":"مەخپىيەتلىك قوغداش ئېتىك، تەپسىلاتىنى كۆرۈڭ.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"مەخپىيەتلىك قوغداش ئوچۇق، تەپسىلاتىنى كۆرۈڭ.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_ask_celia",
             "value":"شياۋيىدىن سوراش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_address",
             "value":"يول",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_email",
             "value":"خەت يېزىش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_phone_number",
             "value":"چاقىرىش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_url",
             "value":"ئېچىش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_menu_date",
             "value":"كۈنتەرتىپ قۇرۇش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_open_map_app",
             "value":"گۈلبەرگى خەرىتىدە يول باشلاش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_url_open_browser_app",
             "value":"خۇاۋېي تور كۆرگۈچتە ئېچىش",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_install_map_app",
             "value":"چېكىپ، «گۈلبەرگى خەرىتە» نى قاچىلاڭ.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_display_failed",
             "value":"كۆرەك يۈكلەنمىدى.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_install_calendar_app",
             "value":"چېكىپ «كالېندار» ئەپ قاچىلاڭ.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_feature_loud_volume_tittle",
             "value":"ئۈن ئۆرلەتكۈچ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_enable_loud_volume_tittle",
             "value":"ئوچۇق",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_retry",
             "value":"ئاۋۋال «كالېندار» ئەپنى قاچىلاپ، قايتا سىناڭ.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_location_title",
             "value":"ئورۇن",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_link_title",
             "value":"تور ئادرېسى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"textinput_text_counter",
+            "value":"%1$d/%2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"due_control_form",
+            "value":"كارتا ئىشلىمەيدۇ، ئەپ يېڭىلانمىسىنى كۈتۈڭ.",
             "attr":{
                 "priority":"translate"
             }

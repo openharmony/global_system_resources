@@ -4,35 +4,35 @@
             "name":"ohos_id_notification_increase_volume_tittle",
             "value":"볼륨을 안전 수준보다 더 높일까요?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_increase_volume_context",
             "value":"오랜 시간 높은 볼륨으로 청취하면 청력이 손상될 수 있습니다.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_button",
             "value":"볼륨 복원",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_context",
             "value":"오랜 시간 높은 볼륨으로 청취하면 청력이 손상될 수 있습니다.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_notification_restore_volume_tittle",
             "value":"자동으로 볼륨 내림",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -74,238 +74,238 @@
             "name":"ohos_id_text_save_button_description_save_image",
             "value":"이미지 저장",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_save_all",
             "value":"모두 저장",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download",
             "value":"다운로드",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_receive",
             "value":"저장",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_to_gallery",
             "value":"갤러리에 저장",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_save_to_gallery",
             "value":"갤러리에 저장",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_file",
             "value":"파일 다운로드",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save",
             "value":"저장",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_quick_resave_to_gallery",
             "value":"저장",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_save_file",
             "value":"파일 저장",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_paste_button_description_paste",
             "value":"붙여넣기",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_download_and_share",
             "value":"다운로드 및 공유",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_id_text_save_button_description_continue_to_receive",
             "value":"저장",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"save_button_description_export_to_gallery",
             "value":"내보내기",
             "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"prev_arrow_accessibility_text",
+            "value":"이전",
+            "attr":{
                 "priority":"translate"
             }
         },
         {
-            "name": "prev_arrow_accessibility_text",
-            "value": "이전",
-            "attr": {
-                "priority": "translate"
+            "name":"next_arrow_accessibility_text",
+            "value":"다음",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "next_arrow_accessibility_text",
-            "value": "다음",
-            "attr": {
-                "priority": "translate"
+            "name":"general_copy",
+            "value":"복사",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_copy",
-            "value": "복사",
-            "attr": {
-                "priority": "translate"
+            "name":"general_start",
+            "value":"시작",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_start",
-            "value": "시작",
-            "attr": {
-                "priority": "translate"
+            "name":"general_more",
+            "value":"더 보기",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_more",
-            "value": "더 보기",
-            "attr": {
-                "priority": "translate"
+            "name":"text_overlay_menu_more_accessibility_text",
+            "value":"더 보기",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "text_overlay_menu_more_accessibility_text",
-            "value": "더 보기",
-            "attr": {
-                "priority": "translate"
+            "name":"navigation_back",
+            "value":"뒤로",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "navigation_back",
-            "value": "뒤로",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cancel",
+            "value":"취소",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_cancel",
-            "value": "취소",
-            "attr": {
-                "priority": "translate"
+            "name":"general_display_lunar_calendar",
+            "value":"음력 캘린더 표시",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_display_lunar_calendar",
-            "value": "음력 캘린더 표시",
-            "attr": {
-                "priority": "translate"
+            "name":"sheet_close",
+            "value":"닫기",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "sheet_close",
-            "value": "닫기",
-            "attr": {
-                "priority": "translate"
+            "name":"general_select_all",
+            "value":"모두 선택",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_select_all",
-            "value": "모두 선택",
-            "attr": {
-                "priority": "translate"
+            "name":"stepper_back",
+            "value":"뒤로",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "stepper_back",
-            "value": "뒤로",
-            "attr": {
-                "priority": "translate"
+            "name":"general_cut",
+            "value":"잘라내기",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_cut",
-            "value": "잘라내기",
-            "attr": {
-                "priority": "translate"
+            "name":"general_confirm",
+            "value":"확인",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_confirm",
-            "value": "확인",
-            "attr": {
-                "priority": "translate"
+            "name":"general_skip",
+            "value":"건너뛰기",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_skip",
-            "value": "건너뛰기",
-            "attr": {
-                "priority": "translate"
+            "name":"last_updated_time",
+            "value":"마지막 업데이트: %s",
+            "attr":{
+                "priority":"LT"
             }
         },
         {
-            "name": "last_updated_time",
-            "value": "마지막 업데이트: %s",
-            "attr": {
-                "priority": "translate"
+            "name":"general_close",
+            "value":"꺼짐",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_close",
-            "value": "꺼짐",
-            "attr": {
-                "priority": "translate"
+            "name":"general_paste",
+            "value":"붙여넣기",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_paste",
-            "value": "붙여넣기",
-            "attr": {
-                "priority": "translate"
+            "name":"general_open",
+            "value":"켜짐",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
-            "name": "general_open",
-            "value": "켜짐",
-            "attr": {
-                "priority": "translate"
-            }
-        },
-        {
-            "name": "stepper_next",
-            "value": "다음",
-            "attr": {
-                "priority": "translate"
+            "name":"stepper_next",
+            "value":"다음",
+            "attr":{
+                "priority":"translate"
             }
         },
         {
@@ -347,7 +347,7 @@
             "name":"ohos_toolbar_more",
             "value":"더 보기",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -382,7 +382,7 @@
             "name":"general_window_top_screen",
             "value":"상단에 표시",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -396,7 +396,7 @@
             "name":"summary_closed_beauty",
             "value":"꾸미기 모드가 꺼졌습니다.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -417,14 +417,14 @@
             "name":"ohos_grid_edit_subtitle_sort",
             "value":"드래그하여 정렬",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"ohos_grid_edit_subtitle_add",
             "value":"탭하여 추가",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -459,7 +459,7 @@
             "name":"notification_screen_recording_title",
             "value":"%s에서 화면 기록 중입니다",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -487,7 +487,7 @@
             "name":"icon_cancel",
             "value":"취소",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -634,7 +634,7 @@
             "name":"ohos_grid_edit_title_chanel",
             "value":"카테고리",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -648,7 +648,7 @@
             "name":"camera_device_eject_lab",
             "value":"카메라 꺼내기 불가",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -683,7 +683,7 @@
             "name":"general_window_moveto_top_screen",
             "value":"맨 위로 이동",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -711,7 +711,7 @@
             "name":"general_window_top_left_screen",
             "value":"왼쪽(상단)에 표시",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -739,7 +739,7 @@
             "name":"title_adjust_beauty",
             "value":"영상 통화의 꾸미기 모드",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -851,7 +851,7 @@
             "name":"general_window_moveto_bottom_screen",
             "value":"맨 아래로 이동",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -886,7 +886,7 @@
             "name":"general_next_step",
             "value":"다음",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -949,7 +949,7 @@
             "name":"camera_device_block_lab",
             "value":"카메라 오류",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1012,7 +1012,7 @@
             "name":"general_window_waterfall_mode",
             "value":"워터폴 보기",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1033,14 +1033,14 @@
             "name":"general_ai_menu_url",
             "value":"열기",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"icon_save",
             "value":"저장",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1068,7 +1068,7 @@
             "name":"general_window_bottom_screen",
             "value":"하단에 표시",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1103,7 +1103,7 @@
             "name":"general_get_it",
             "value":"확인",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1180,14 +1180,14 @@
             "name":"ohos_id_text_camera_input",
             "value":"사진 입력",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"camera_use_continue",
             "value":"계속",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1222,14 +1222,14 @@
             "name":"general_ai_menu_address",
             "value":"길 찾기",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_window_top_right_screen",
             "value":"오른쪽(상단)에 표시",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1257,7 +1257,7 @@
             "name":"general_ai_menu_date",
             "value":"새 이벤트 생성",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1271,7 +1271,7 @@
             "name":"camera_device_eject_desc",
             "value":"장애물을 제거하고 다시 시도하십시오.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1285,7 +1285,7 @@
             "name":"icon_back",
             "value":"뒤로",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1460,7 +1460,7 @@
             "name":"general_search",
             "value":"검색",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1474,7 +1474,7 @@
             "name":"camera_device_block_confirm",
             "value":"확인",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1488,21 +1488,21 @@
             "name":"general_ai_menu_phone_number",
             "value":"통화",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"desc_developer_mode_tips",
             "value":"이 기능을 실행하려면 개발자 옵션을 실행해야 합니다.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"lab_developer_mode_tips",
             "value":"개발자 옵션을 먼저 실행하십시오",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1516,7 +1516,7 @@
             "name":"general_ai_menu_email",
             "value":"이메일 작성",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1530,7 +1530,7 @@
             "name":"camera_device_block_desc",
             "value":"이 문제를 해결하려면 카메라 앱을 다시 시작합니다. 이미지 포커스가 계속 맞지 않으면 고객 서비스에 문의하십시오.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1544,7 +1544,7 @@
             "name":"general_last_step",
             "value":"이전",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1558,7 +1558,7 @@
             "name":"form_disable_app_locked",
             "value":"앱 잠김",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1593,7 +1593,7 @@
             "name":"form_disable_time_limit",
             "value":"시간 종료",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1607,7 +1607,7 @@
             "name":"ohos_grid_edit_title_edit",
             "value":"편집",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1635,89 +1635,103 @@
             "name":"notification_screen_recording_privacy_off",
             "value":"개인 정보 보호가 종료되었습니다. 상세정보>>",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_screen_recording_privacy_on",
             "value":"개인 정보 보호가 활성화되었습니다. 상세정보>>",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_ask_celia",
             "value":"Celia에게 묻기",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_open_map_app",
             "value":"Petal 지도로 탐색",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_url_open_browser_app",
             "value":"HUAWEI 브라우저로 열기",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_address_install_map_app",
             "value":"Petal 지도를 설치하려면 여기를 탭합니다.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_display_failed",
             "value":"미리보기 표시 불가",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_install_calendar_app",
             "value":"캘린더 앱을 설치하려면 여기를 탭합니다.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_feature_loud_volume_tittle",
             "value":"볼륨 부스트",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"notification_enable_loud_volume_tittle",
-            "value":"켬",
+            "value":"켜짐",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_preview_menu_date_retry",
             "value":"캘린더 앱을 설치하고 다시 시도하십시오.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_location_title",
             "value":"위치",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"general_ai_link_title",
             "value":"URL",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"textinput_text_counter",
+            "value":"%1$d/%2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"due_control_form",
+            "value":"위젯 콘텐츠를 사용할 수 없습니다. 앱 업데이트를 기다리십시오.",
             "attr":{
                 "priority":"translate"
             }

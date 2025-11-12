@@ -6318,9 +6318,7 @@
                 "since": 22,
                 "deprecated": "",
                 "provisionEnable": true,
-                "distributedSceneEnable": false,
-                "label": "$string:ohos_lab_custom_screen_recording",
-                "description": "$string:ohos_desc_custom_screen_recording"
+                "distributedSceneEnable": false
             },
             {
                 "name": "ohos.permission.ACCESS_USER_FULL_DISK",
