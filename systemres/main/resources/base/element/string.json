@@ -2427,31 +2427,49 @@
         },
         {
             "name":"choose_to_upload",
-            "value":"Choose to upload"
+            "value":"Upload options",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"gallery",
-            "value":"Gallery"
+            "value":"Select photo or video",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"taking_photos",
-            "value":"Taking photos"
+            "value":"Take photo",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"video_recording",
-            "value":"Video recording"
+            "value":"Record video",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"taking_photos_or_videos",
-            "value":"Taking photos or videos"
+            "value":"Take photo/Record video",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"document",
-            "value":"Document"
+            "value":"Select file",
+            "attr":{
+                "priority":"translate"
+            }
         },
-        {	
-            "name":"arkui_app_bar_new_message",	
-            "value":"service panel has new news",	
+        {
+            "name":"arkui_app_bar_new_message",
+            "value":"Service panel, new messages",
             "attr":{
                 "priority":"translate"
             }

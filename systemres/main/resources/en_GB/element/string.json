@@ -1693,6 +1693,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"document",
+            "value":"Select file",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"taking_photos",
+            "value":"Take photo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"taking_photos_or_videos",
+            "value":"Take photo/Record video",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"choose_to_upload",
+            "value":"Upload options",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"video_recording",
+            "value":"Record video",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"arkui_app_bar_new_message",
+            "value":"Service panel, new messages",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"gallery",
+            "value":"Select photo or video",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
