@@ -2272,27 +2272,45 @@
         },
         {
             "name":"choose_to_upload",
-            "value":"选择上传"
+            "value":"选择上传",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"gallery",
-            "value":"图库"
+            "value":"图库",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"taking_photos",
-            "value":"拍照"
+            "value":"拍照",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"video_recording",
-            "value":"录像"
+            "value":"录像",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"taking_photos_or_videos",
-            "value":"拍照或录像"
+            "value":"拍照或录像",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"document",
-            "value":"文件"
+            "value":"文件",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"textinput_text_counter",
@@ -2300,13 +2318,13 @@
             "attr":{
                 "priority":"translate"
             }
-        },	
-        {	
-            "name": "arkui_app_bar_new_message",	
-            "value": "服务面板，有新消息",	
-            "attr":{	
-                "priority":"translate"	
-            }	
+        },
+        {
+            "name":"arkui_app_bar_new_message",
+            "value":"服务面板，有新消息",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

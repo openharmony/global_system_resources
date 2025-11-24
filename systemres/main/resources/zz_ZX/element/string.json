@@ -914,7 +914,7 @@
         },
         {
             "name":"document",
-            "value":"[TS_1141865]_Document"
+            "value":"[TS_1141865]_Select file"
         },
         {
             "name":"ohos_lab_manage_local_accounts",
@@ -1018,7 +1018,7 @@
         },
         {
             "name":"taking_photos",
-            "value":"[TS_1141867]_Taking photos"
+            "value":"[TS_1141867]_Take photo"
         },
         {
             "name":"ohos_id_day_font_weight",
@@ -1170,7 +1170,7 @@
         },
         {
             "name":"taking_photos_or_videos",
-            "value":"[TS_1141866]_Taking photos or videos"
+            "value":"[TS_1141866]_Take photo/Record video"
         },
         {
             "name":"ohos_desc_read_calendar",
@@ -1362,7 +1362,7 @@
         },
         {
             "name":"choose_to_upload",
-            "value":"[TS_1141864]_Choose to upload"
+            "value":"[TS_1141864]_Upload options"
         },
         {
             "name":"ohos_lab_write_audio",
@@ -1398,7 +1398,7 @@
         },
         {
             "name":"video_recording",
-            "value":"[TS_1141869]_Video recording"
+            "value":"[TS_1141869]_Record video"
         },
         {
             "name":"close_beauty",
@@ -1622,7 +1622,7 @@
         },
         {
             "name":"gallery",
-            "value":"[TS_1141868]_Gallery"
+            "value":"[TS_1141868]_Select photo or video"
         },
         {
             "name":"textfield_hide_password",
@@ -1719,6 +1719,10 @@
         {
             "name":"textfield_has_hidden_password",
             "value":"[TS_964114]_Password hidden"
+        },
+        {
+            "name":"arkui_app_bar_new_message",
+            "value":"[TS_1141787]_Service panel, new messages"
         }
     ]
 }
