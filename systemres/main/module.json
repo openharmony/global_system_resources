@@ -6482,6 +6482,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CUSTOMIZE_MENU_ICON",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 22,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
