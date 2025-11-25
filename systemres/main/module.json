@@ -6455,6 +6455,24 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.kernel.EXEMPT_ANONYMOUS_EXECUTABLE_MEMORY",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.INHERIT_PARENT_PERMISSION",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
