@@ -6150,6 +6150,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.GET_BACKGROUND_TASK_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_BACKGROUND_TASK_STATE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.SANDBOX_ACCESS_MANAGER_EXT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
@@ -6476,24 +6494,6 @@
             },
             {
                 "name": "ohos.permission.atomicService.MANAGE_AGING",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": 23,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
-                "name": "ohos.permission.GET_BACKGROUND_TASK_INFO",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": 23,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
-                "name": "ohos.permission.SET_BACKGROUND_TASK_STATE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 23,
