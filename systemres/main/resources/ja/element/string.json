@@ -408,7 +408,7 @@
         },
         {
             "name":"treeview_accessibility_place_node_parent",
-            "value":"配置されました、アイテム%d",
+            "value":"アイテム%dが配置されました",
             "attr":{
                 "priority":"translate"
             }
@@ -905,7 +905,7 @@
         },
         {
             "name":"treeview_accessibility_place_node_child",
-            "value":"配置されました、%1$sのアイテム%2$d",
+            "value":"%1$sのアイテム%2$dが配置されました",
             "attr":{
                 "priority":"translate"
             }
