@@ -1749,6 +1749,31 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"suffix_recommend",
+            "value":"%s（建議）"
+        },
+        {
+            "name":"style_mode_label_origin",
+            "value":"原始比例",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"landscape_startup_title",
+            "value":"應用程式顯示比例",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_split",
+            "value":"分欄",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
