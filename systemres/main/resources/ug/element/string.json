@@ -1749,6 +1749,31 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"suffix_recommend",
+            "value":"\u200f%s (تەۋسىيە)"
+        },
+        {
+            "name":"style_mode_label_origin",
+            "value":"ئەسلى نىسبەت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"landscape_startup_title",
+            "value":"ئەپ كۆرسىتىش نىسبىتى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_split",
+            "value":"رەتلىك",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
