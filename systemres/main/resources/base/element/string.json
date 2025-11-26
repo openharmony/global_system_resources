@@ -2473,6 +2473,28 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"suffix_recommend",
+            "value":"%s (Recommended)"
+        },
+        {
+            "name":"style_mode_label_origin",
+            "value":"Original ratio"
+        },
+        {
+            "name":"landscape_startup_title",
+            "value":"App scaling options",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_split",
+            "value":"Columns",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
