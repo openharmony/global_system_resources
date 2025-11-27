@@ -2325,6 +2325,28 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"suffix_recommend",
+            "value":"%s (推荐)"
+        },
+        {
+            "name":"style_mode_label_origin",
+            "value":"原始比例"
+        },
+        {
+            "name":"landscape_startup_title",
+            "value":"应用显示比例",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_split",
+            "value":"分栏",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

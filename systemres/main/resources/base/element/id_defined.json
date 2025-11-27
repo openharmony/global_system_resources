@@ -36107,6 +36107,61 @@
             "type": "string",
             "name": "arkui_app_bar_new_message",
             "order": 7154
+        },
+        {
+            "type": "media",
+            "name": "compatible_mode_18_9_landscape",
+            "order": 7155
+        },
+        {
+            "type": "media",
+            "name": "compatible_mode_2_3_landscape",
+            "order": 7156
+        },
+        {
+            "type": "media",
+            "name": "compatible_mode_1_1_landscape",
+            "order": 7157
+        },
+        {
+            "type": "media",
+            "name": "compatible_mode_default_landscape",
+            "order": 7158
+        },
+        {
+            "type": "media",
+            "name": "chevron_right_titlebar",
+            "order": 7159
+        },
+        {
+            "type": "media",
+            "name": "checkmark_titlebar",
+            "order": 7160
+        },
+        {
+            "type": "string",
+            "name": "suffix_recommend",
+            "order": 7161
+        },
+        {
+            "type": "string",
+            "name": "style_mode_label_origin",
+            "order": 7162
+        },
+        {
+            "type": "string",
+            "name": "landscape_startup_title",
+            "order": 7163
+        },
+        {
+            "type": "media",
+            "name": "compatible_mode_split_landscape",
+            "order": 7164
+        },
+        {
+            "type": "string",
+            "name": "style_mode_label_split",
+            "order": 7165
         }
     ]
 }

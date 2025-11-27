@@ -1749,6 +1749,31 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"suffix_recommend",
+            "value":"%s (འོས་སྦྱོར)"
+        },
+        {
+            "name":"style_mode_label_origin",
+            "value":"ཐོག་མའི་བསྡུར་ཚད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"landscape_startup_title",
+            "value":"ཉེར་སྤྱོད་འཆར་བའི་བསྡུར་ཚད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_split",
+            "value":"ཚན་བགོས།",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
