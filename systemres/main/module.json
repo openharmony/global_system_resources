@@ -1488,6 +1488,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.HIVIEW_TRACE_MANAGE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_WIFI_HOTSPOT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
