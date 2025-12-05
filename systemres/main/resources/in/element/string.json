@@ -71,6 +71,34 @@
             }
         },
         {
+            "name":"request_agent_task_count",
+            "value":"Berhasil: %1$d, Gagal: %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_complete",
+            "value":"Pengunduhan selesai (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_upload_file",
+            "value":"Mengunggah file… (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"request_agent_download_file",
+            "value":"Mengunduh file… (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name": "prev_arrow_accessibility_text",
             "value": "Sebelumnya",
             "attr": {
