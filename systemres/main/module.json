@@ -6528,6 +6528,15 @@
                 "deprecated": "",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_MEDIA_RESOURCES_FOR_PUBLIC",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
