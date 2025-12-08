@@ -6546,6 +6546,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.PUBLISH_FORM_CROSS_BUNDLE_CONTROL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
