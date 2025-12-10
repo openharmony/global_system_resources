@@ -6555,6 +6555,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_ANCO_APP_DATA",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 22,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
