@@ -36208,6 +36208,24 @@
             "name": "ic_stroke_thin",
             "order": 7173,
             "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "menu_row_last_space",
+            "order": 7174,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "menu_header_font_weight",
+            "order": 7175,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "menu_selected_icon_align",
+            "order": 7176,
+            "flags": "private"
         }
     ]
 }
