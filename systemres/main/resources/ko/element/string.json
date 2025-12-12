@@ -1784,6 +1784,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"text_overlay_menu_password_vault_label",
+            "value":"암호 저장소",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_overlay_menu_auto_fill_label",
+            "value":"자동 채우기",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

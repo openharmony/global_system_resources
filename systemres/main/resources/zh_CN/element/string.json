@@ -2350,11 +2350,17 @@
         },
         {
             "name":"text_overlay_menu_auto_fill_label",
-            "value":"自动填充"
+            "value":"自动填充",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"text_overlay_menu_password_vault_label",
-            "value":"密码保险箱"
+            "value":"密码保险箱",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
