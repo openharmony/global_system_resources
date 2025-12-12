@@ -6564,6 +6564,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_DONOTDISTURB_STATE",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
