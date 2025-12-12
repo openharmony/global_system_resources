@@ -36226,6 +36226,102 @@
             "name": "menu_selected_icon_align",
             "order": 7176,
             "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_checkbox_size",
+            "order": 7177,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_lunar_switch_height",
+            "order": 7178,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_checkbox_padding_left",
+            "order": 7179,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_checkbox_padding_right",
+            "order": 7180,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_padding",
+            "order": 7181,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_title_font_weight",
+            "order": 7182,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_title_padding_horizontal",
+            "order": 7183,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_title_margin_top",
+            "order": 7184,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_title_margin_bottom",
+            "order": 7185,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "time_picker_title_margin_top",
+            "order": 7186,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "time_picker_title_margin_bottom",
+            "order": 7187,
+            "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "picker_button_color",
+            "order": 7188,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_dialog_margin",
+            "order": 7189,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_dialog_divider_margin",
+            "order": 7190,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_title_height",
+            "order": 7191,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "picker_text_padding",
+            "order": 7192,
+            "flags": "private"
         }
     ]
 }
