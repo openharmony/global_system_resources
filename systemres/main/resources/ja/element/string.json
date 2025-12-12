@@ -1784,6 +1784,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"text_overlay_menu_password_vault_label",
+            "value":"パスワードのキーチェーン",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_overlay_menu_auto_fill_label",
+            "value":"自動入力",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
