@@ -56,6 +56,25 @@
                     }
                 }
             ]
+        },
+        {
+            "name": "ohos_sequence_number_of_the_selected_picture",
+            "value": [
+                {
+                    "quantity":"one",
+                    "value":"Figure%d",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"Figure%d",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
         }
     ]
 }
