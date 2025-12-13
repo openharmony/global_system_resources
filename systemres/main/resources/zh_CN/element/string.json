@@ -2361,6 +2361,318 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name": "ohos_inspiration_canvas",
+            "value": "灵感画布"
+        },
+        {
+            "name": "ohos_image_ratio",
+            "value": "比例"
+        },
+        {
+            "name": "ohos_image_clarity",
+            "value": "清晰度"
+        },
+        {
+            "name": "ohos_image_style",
+            "value": "风格"
+        },
+        {
+            "name": "ohos_oil_painting",
+            "value": "油画"
+        },
+        {
+            "name": "ohos_wash_painting",
+            "value": "水墨画"
+        },
+        {
+            "name": "ohos_watercolour_painting",
+            "value": "水彩"
+        },
+        {
+            "name": "ohos_line_art",
+            "value": "线稿"
+        },
+        {
+            "name": "ohos_illustration",
+            "value": "插画"
+        },
+        {
+            "name": "ohos_realistic_painting",
+            "value": "写实"
+        },
+        {
+            "name": "ohos_line_drawing",
+            "value": "线描"
+        },
+        {
+            "name": "ohos_chibi_art",
+            "value": "Q版"
+        },
+        {
+            "name": "ohos_comic_strip",
+            "value": "分格漫画"
+        },
+        {
+            "name": "ohos_blind_box",
+            "value": "盲盒"
+        },
+        {
+            "name": "ohos_chalk_drawing",
+            "value": "蜡笔画"
+        },
+        {
+            "name": "ohos_cyberpunk",
+            "value": "赛博朋克"
+        },
+        {
+            "name": "ohos_sketch_drawing",
+            "value": "速写"
+        },
+        {
+            "name": "ohos_impressionist_painting",
+            "value": "印象派"
+        },
+        {
+            "name": "ohos_classical_painting",
+            "value": "古典主义"
+        },
+        {
+            "name": "ohos_renaissance_painting",
+            "value": "文艺复兴"
+        },
+        {
+            "name": "ohos_grass_weaving_painting",
+            "value": "草编"
+        },
+        {
+            "name": "ohos_plush_painting",
+            "value": "毛绒"
+        },
+        {
+            "name": "ohos_resin_painting",
+            "value": "树脂"
+        },
+        {
+            "name": "ohos_clay_painting",
+            "value": "粘土"
+        },
+        {
+            "name": "ohos_transparent_painting",
+            "value": "透明"
+        },
+        {
+            "name": "ohos_anime_and_manga",
+            "value": "动漫"
+        },
+        {
+            "name": "ohos_completed",
+            "value": "已完成"
+        },
+        {
+            "name": "ohos_generation_failed",
+            "value": "生成失败"
+        },
+        {
+            "name": "ohos_ai_generated",
+            "value": "AI生成中"
+        },
+        {
+            "name": "ohos_minimize",
+            "value": "最小化"
+        },
+        {
+            "name": "ohos_dialog_close",
+            "value": "关闭"
+        },
+        {
+            "name": "ohos_start_generating",
+            "value": "生成"
+        },
+        {
+            "name": "ohos_canvas_textiput_placeholder",
+            "value": "描述你想要创作的内容"
+        },
+        {
+            "name": "ohos_text_polishing",
+            "value": "文本润色"
+        },
+        {
+            "name": "ohos_maintain_the_layout",
+            "value": "保持布局"
+        },
+        {
+            "name": "ohos_sticker_effect",
+            "value": "贴纸效果"
+        },
+        {
+            "name": "ohos_maintain_the_layout_keyword",
+            "value": "保持输入图形的位置关系"
+        },
+        {
+            "name": "ohos_sticker_effect_keyword",
+            "value": "带白色描边的贴纸效果"
+        },
+        {
+            "name": "ohos_ai_thinking",
+            "value": "思考中"
+        },
+        {
+            "name": "ohos_deep_thinking_results",
+            "value": "深度思考"
+        },
+        {
+            "name": "ohos_content_generated_by_ai",
+            "value": "内容由AI生成"
+        },
+        {
+            "name": "ohos_use_the_polished_results",
+            "value": "使用润色结果"
+        },
+        {
+            "name": "ohos_canvas_waiting_for_operation_prompt_words",
+            "value": "添加图片或涂鸦进行创作"
+        },
+        {
+            "name": "ohos_canvas_operation_prompt_words",
+            "value": "通过双指缩放、旋转编辑图像位置"
+        },
+        {
+            "name": "ohos_re_edit",
+            "value": "重新编辑"
+        },
+        {
+            "name": "ohos_continue_creating",
+            "value": "继续创作"
+        },
+        {
+            "name": "ohos_add_to_stickers",
+            "value": "添加到贴纸"
+        },
+        {
+            "name": "ohos_insert_into_notes",
+            "value": "插入笔记"
+        },
+        {
+            "name": "ohos_start_graffiti",
+            "value": "涂鸦"
+        },
+        {
+            "name": "ohos_abandon_all_changes",
+            "value": "是否放弃所有更改"
+        },
+        {
+            "name": "ohos_abandon_changes",
+            "value": "放弃更改"
+        },
+        {
+            "name": "ohos_cancel_the_district",
+            "value": "取消选区"
+        },
+        {
+            "name": "ohos_regional_life_image",
+            "value": "区域生图"
+        },
+        {
+            "name": "ohos_selection_operation_prompt_words",
+            "value": "圈选想要调整的区域，添加文字描述进行生图"
+        },
+        {
+            "name": "ohos_reporting_results",
+            "value": "举报"
+        },
+        {
+            "name": "ohos_complaint_result",
+            "value": "投诉"
+        },
+        {
+            "name": "ohos_prompt_for_exceeding_the_node_limit",
+            "value": "节点数量超过100个，请清理画布后重试"
+        },
+        {
+            "name": "ohos_image_reference",
+            "value": "图片参考"
+        },
+        {
+            "name": "ohos_replace_graffiti",
+            "value": "替换涂鸦"
+        },
+        {
+            "name": "ohos_creating_through_hand_drawn_graffiti",
+            "value": "通过手绘涂鸦进行创作"
+        },
+        {
+            "name": "ohos_graffiti_color",
+            "value": "颜色"
+        },
+        {
+            "name": "ohos_edit_graffiti",
+            "value": "修改涂鸦"
+        },
+        {
+            "name": "ohos_image_generation",
+            "value": "图像生成"
+        },
+        {
+            "name": "ohos_raw_image_ratio",
+            "value": "生图比例"
+        },
+        {
+            "name": "ohos_raw_image_clarity",
+            "value": "生图清晰度"
+        },
+        {
+            "name": "ohos_standard_definition_1k",
+            "value": "标清1k"
+        },
+        {
+            "name": "ohos_high_definition_2k",
+            "value": "高清2k"
+        },
+        {
+            "name": "ohos_ultra_hd_4k",
+            "value": "超清4k"
+        },
+        {
+            "name": "ohos_ai_canvas",
+            "value": "AI画布"
+        },
+        {
+            "name": "ohos_clear_canvas",
+            "value": "清空画布"
+        },
+        {
+            "name": "ohos_prompt_to_clear_the_canvas",
+            "value": "将立即删除画布的所有历史节点。此操作无法撤销"
+        },
+        {
+            "name": "ohos_confirm_deletion",
+            "value": "确认删除"
+        },
+        {
+            "name": "ohos_prompt_input",
+            "value": "提示词输入"
+        },
+        {
+            "name": "ohos_describe_what_you_want_to_create",
+            "value": "描述你想要创作的内容"
+        },
+        {
+            "name": "ohos_generated_results",
+            "value": "生成结果"
+        },
+        {
+            "name": "ohos_image_generation_from_text",
+            "value": "文本生图"
+        },
+        {
+            "name": "ohos_image_generation_from_images",
+            "value": "以图生图"
+        },
+        {
+            "name": "ohos_image_generation_from_graffiti",
+            "value": "涂鸦生图"
         }
     ]
 }
