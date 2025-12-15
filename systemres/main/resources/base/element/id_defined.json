@@ -36806,6 +36806,12 @@
             "type": "plural",
             "name": "ohos_sequence_number_of_the_selected_picture",
             "order": 7289
+        },
+        {
+            "type": "color",
+            "name": "text_overlay_highlight_color",
+            "order": 7290,
+            "flags": "private"
         }
     ]
 }
