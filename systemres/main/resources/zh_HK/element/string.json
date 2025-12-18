@@ -1752,7 +1752,10 @@
         },
         {
             "name":"suffix_recommend",
-            "value":"%s（建議）"
+            "value":"%s（建議）",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"style_mode_label_origin",
