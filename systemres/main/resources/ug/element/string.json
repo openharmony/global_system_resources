@@ -1752,7 +1752,10 @@
         },
         {
             "name":"suffix_recommend",
-            "value":"\u200f%s (تەۋسىيە)"
+            "value":"\u200f%s (تەۋسىيە)",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"style_mode_label_origin",
