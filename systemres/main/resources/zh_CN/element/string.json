@@ -2328,11 +2328,17 @@
         },
         {
             "name":"suffix_recommend",
-            "value":"%s (推荐)"
+            "value":"%s (推荐)",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"style_mode_label_origin",
-            "value":"原始比例"
+            "value":"原始比例",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"landscape_startup_title",
