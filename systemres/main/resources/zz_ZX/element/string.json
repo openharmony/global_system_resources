@@ -1025,10 +1025,6 @@
             "value":"[TS_915301]_500"
         },
         {
-            "name":"ohos_desc_timeout_screenoff_disable_lock",
-            "value":"[TS_1135588]_With this permission, the application prevents the device from locking by default when the screen turns off after a timeout."
-        },
-        {
             "name":"ohos_desc_receive_mms",
             "value":"[TS_915145]_Allows an application to receive MMS messages."
         },
@@ -1523,10 +1519,6 @@
         {
             "name":"text_overlay_menu_cut",
             "value":"[TS_1011915]_Ctrl+X"
-        },
-        {
-            "name":"ohos_lab_timeout_screenoff_disable_lock",
-            "value":"[TS_1135589]_Allows an application to turn off the screen but keep it unlocked after a timeout."
         },
         {
             "name":"ohos_lab_write_call_log",
