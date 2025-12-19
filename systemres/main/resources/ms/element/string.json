@@ -1756,6 +1756,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"suffix_recommend",
+            "value":"%s (dicadangkan)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_split",
+            "value":"Lajur",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"landscape_startup_title",
+            "value":"Pilihan Penskalaan aplikasi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_origin",
+            "value":"Nisbah asal",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

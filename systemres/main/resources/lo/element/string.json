@@ -1756,6 +1756,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"suffix_recommend",
+            "value":"%s (​ຂໍ​ແນະ​ນຳ)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_split",
+            "value":"ຖັນ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"landscape_startup_title",
+            "value":"ຕົວເລືອກການໃສ່ຂະໜາດແອັບ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_origin",
+            "value":"ອັດຕາສ່ວນຕົ້ນສະບັບ",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

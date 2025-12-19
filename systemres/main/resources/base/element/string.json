@@ -2476,11 +2476,17 @@
         },
         {
             "name":"suffix_recommend",
-            "value":"%s (Recommended)"
+            "value":"%s (recommended)",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"style_mode_label_origin",
-            "value":"Original ratio"
+            "value":"Original ratio",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"landscape_startup_title",

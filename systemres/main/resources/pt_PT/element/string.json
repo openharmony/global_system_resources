@@ -1756,6 +1756,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"suffix_recommend",
+            "value":"%s (recomendado)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_split",
+            "value":"Colunas",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"landscape_startup_title",
+            "value":"Opções de dimensionamento de aplicações",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_origin",
+            "value":"Formato original",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

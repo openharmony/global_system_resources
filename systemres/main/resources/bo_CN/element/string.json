@@ -1752,7 +1752,10 @@
         },
         {
             "name":"suffix_recommend",
-            "value":"%s (འོས་སྦྱོར)"
+            "value":"%s (འོས་སྦྱོར།)",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"style_mode_label_origin",

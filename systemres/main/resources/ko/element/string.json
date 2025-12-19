@@ -1798,6 +1798,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"suffix_recommend",
+            "value":"%s(권장)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_split",
+            "value":"열",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"landscape_startup_title",
+            "value":"앱 확장 옵션",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_origin",
+            "value":"원래 비율",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

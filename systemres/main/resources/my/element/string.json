@@ -1756,6 +1756,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"suffix_recommend",
+            "value":"%s (အကြံပြုထားသည်)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_split",
+            "value":"Column များ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"landscape_startup_title",
+            "value":"အက်ပ် စကေးချုံ့/ချဲ့ လုပ်ခြင်း ရွေးချယ်စရာများ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"style_mode_label_origin",
+            "value":"မူလအချိုးအစား",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
