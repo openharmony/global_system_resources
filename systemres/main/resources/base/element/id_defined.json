@@ -36175,38 +36175,32 @@
         {
             "type": "media",
             "name": "ic_ballpointpen_tip_crop_circle",
-            "order": 7168,
-            "flags": "private"
+            "order": 7168
         },
         {
             "type": "media",
             "name": "ic_regional_generation",
-            "order": 7169,
-            "flags": "private"
+            "order": 7169
         },
         {
             "type": "media",
             "name": "ic_eraser_grid",
-            "order": 7170,
-            "flags": "private"
+            "order": 7170
         },
         {
             "type": "media",
             "name": "ic_stroke_heavy",
-            "order": 7171,
-            "flags": "private"
+            "order": 7171
         },
         {
             "type": "media",
             "name": "ic_stroke_medium",
-            "order": 7172,
-            "flags": "private"
+            "order": 7172
         },
         {
             "type": "media",
             "name": "ic_stroke_thin",
-            "order": 7173,
-            "flags": "private"
+            "order": 7173
         },
         {
             "type": "float",
@@ -37052,6 +37046,36 @@
             "type": "color",
             "name": "node_graph_node_background_color",
             "order": 7338
+        },
+        {
+            "type": "media",
+            "name": "ic_eraser_big_dark",
+            "order": 7339
+        },
+        {
+            "type": "media",
+            "name": "ic_eraser_big_light",
+            "order": 7340
+        },
+        {
+            "type": "media",
+            "name": "ic_eraser_medium_dark",
+            "order": 7341
+        },
+        {
+            "type": "media",
+            "name": "ic_eraser_medium_light",
+            "order": 7342
+        },
+        {
+            "type": "media",
+            "name": "ic_eraser_small_dark",
+            "order": 7343
+        },
+        {
+            "type": "media",
+            "name": "ic_eraser_small_light",
+            "order": 7344
         }
     ]
 }
