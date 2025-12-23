@@ -2819,6 +2819,74 @@
         {
             "name": "image_generation_from_graffiti",
             "value": "Doodle to Image"
+        },
+        {
+            "name": "node_graph_expand",
+            "value": "AI canvas does not support external screen display, please unfold it for use."
+        },
+        {
+            "name": "node_graph_confirm",
+            "value": "OK"
+        },
+        {
+            "name": "node_graph_save_success",
+            "value": "Save successfully"
+        },
+        {
+            "name": "node_graph_save_fail",
+            "value": "Save failed"
+        },
+        {
+            "name": "node_graph_graffiti_save_title",
+            "value": "Graffiti record retention"
+        },
+        {
+            "name": "node_graph_confirm_save",
+            "value": "You have unsaved modifications, please confirm if you want to save them."
+        },
+        {
+            "name": "node_graph_region_select_save",
+            "value": "Regional constituency reservation"
+        },
+        {
+            "name": "node_graph_photo_save",
+            "value": "Image has been saved to the gallery"
+        },
+        {
+            "name": "node_graph_standard_definition",
+            "value": "Standard Definition"
+        },
+        {
+            "name": "node_graph_high_definition",
+            "value": "High Definition"
+        },
+        {
+            "name": "node_graph_ultra_hd",
+            "value": "Ultra High Definition"
+        },
+        {
+            "name": "node_graph_replace_image",
+            "value": "Replace image"
+        },
+        {
+            "name": "node_graph_copy_node_fail",
+            "value": "Node replication failed!"
+        },
+        {
+            "name": "node_graph_magic_polish",
+            "value": "Magic polishing"
+        },
+        {
+            "name": "node_graph_ai_control_message",
+            "value": "Risk control information"
+        },
+        {
+            "name": "node_graph_ai_control_confirm_message",
+            "value": "Current text contains sensitive content, please confirm the input content again."
+        },
+        {
+            "name": "node_graph_reauthorization",
+            "value": "Authorization failed, please reauthorize"
         }
     ]
 }
