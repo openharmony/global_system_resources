@@ -2671,6 +2671,74 @@
         {
             "name": "image_generation_from_graffiti",
             "value": "涂鸦生图"
+        },
+        {
+            "name": "node_graph_expand",
+            "value": "AI画布不支持外屏展示，请展开使用"
+        },
+        {
+            "name": "node_graph_confirm",
+            "value": "确认"
+        },
+        {
+            "name": "node_graph_save_success",
+            "value": "保存成功"
+        },
+        {
+            "name": "node_graph_save_fail",
+            "value": "保存失败"
+        },
+        {
+            "name": "node_graph_graffiti_save_title",
+            "value": "涂鸦记录保留"
+        },
+        {
+            "name": "node_graph_confirm_save",
+            "value": "您有未保存的修改，请确认是否保存"
+        },
+        {
+            "name": "node_graph_region_select_save",
+            "value": "区域选区保留"
+        },
+        {
+            "name": "node_graph_photo_save",
+            "value": "图片已保存到图库"
+        },
+        {
+            "name": "node_graph_standard_definition",
+            "value": "标清"
+        },
+        {
+            "name": "node_graph_high_definition",
+            "value": "高清"
+        },
+        {
+            "name": "node_graph_ultra_hd",
+            "value": "超清"
+        },
+        {
+            "name": "node_graph_replace_image",
+            "value": "替换图像"
+        },
+        {
+            "name": "node_graph_copy_node_fail",
+            "value": "复制节点失败！"
+        },
+        {
+            "name": "node_graph_magic_polish",
+            "value": "魔法润色"
+        },
+        {
+            "name": "node_graph_ai_control_message",
+            "value": "风控信息"
+        },
+        {
+            "name": "node_graph_ai_control_confirm_message",
+            "value": "当前文本带有敏感内容，请重新确认输入内容"
+        },
+        {
+            "name": "node_graph_reauthorization",
+            "value": "授权失败，请重新授权"
         }
     ]
 }

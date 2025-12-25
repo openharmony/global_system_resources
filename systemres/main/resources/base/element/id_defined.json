@@ -36175,38 +36175,32 @@
         {
             "type": "media",
             "name": "ic_ballpointpen_tip_crop_circle",
-            "order": 7168,
-            "flags": "private"
+            "order": 7168
         },
         {
             "type": "media",
             "name": "ic_regional_generation",
-            "order": 7169,
-            "flags": "private"
+            "order": 7169
         },
         {
             "type": "media",
             "name": "ic_eraser_grid",
-            "order": 7170,
-            "flags": "private"
+            "order": 7170
         },
         {
             "type": "media",
             "name": "ic_stroke_heavy",
-            "order": 7171,
-            "flags": "private"
+            "order": 7171
         },
         {
             "type": "media",
             "name": "ic_stroke_medium",
-            "order": 7172,
-            "flags": "private"
+            "order": 7172
         },
         {
             "type": "media",
             "name": "ic_stroke_thin",
-            "order": 7173,
-            "flags": "private"
+            "order": 7173
         },
         {
             "type": "float",
@@ -36323,585 +36317,690 @@
             "flags": "private"
         },
         {
-            "type": "media",
-            "name": "add_to_text_dark",
-            "order": 7193
-        },
-        {
-            "type": "media",
-            "name": "add_to_text_light",
-            "order": 7194
-        },
-        {
-            "type": "media",
-            "name": "blank_illustrate",
-            "order": 7195
-        },
-        {
-            "type": "media",
-            "name": "creat_dark",
-            "order": 7196
-        },
-        {
-            "type": "media",
-            "name": "creat_light",
-            "order": 7197
-        },
-        {
-            "type": "media",
-            "name": "delect",
-            "order": 7198
-        },
-        {
-            "type": "media",
-            "name": "download_dark",
-            "order": 7199
-        },
-        {
-            "type": "media",
-            "name": "download_light",
-            "order": 7200
-        },
-        {
-            "type": "media",
-            "name": "maintain_layout",
-            "order": 7201
-        },
-        {
-            "type": "media",
-            "name": "outline_glow",
-            "order": 7202
-        },
-        {
-            "type": "media",
-            "name": "pin_dot_dark",
-            "order": 7203
-        },
-        {
-            "type": "media",
-            "name": "pin_dot_light",
-            "order": 7204
-        },
-        {
-            "type": "media",
-            "name": "reset_dark",
-            "order": 7205
-        },
-        {
-            "type": "media",
-            "name": "reset_light",
-            "order": 7206
-        },
-        {
-            "type": "media",
-            "name": "rotate_dark",
-            "order": 7207
-        },
-        {
-            "type": "media",
-            "name": "rotate_light",
-            "order": 7208
-        },
-        {
-            "type": "media",
-            "name": "stickers_dark",
-            "order": 7209
-        },
-        {
-            "type": "media",
-            "name": "stickers_light",
-            "order": 7210
-        },
-        {
-            "type": "string",
-            "name": "inspiration_canvas",
-            "order": 7211
-        },
-        {
-            "type": "string",
-            "name": "image_ratio",
-            "order": 7212
-        },
-        {
-            "type": "string",
-            "name": "image_clarity",
-            "order": 7213
-        },
-        {
-            "type": "string",
-            "name": "image_style",
-            "order": 7214
-        },
-        {
-            "type": "string",
-            "name": "oil_painting",
-            "order": 7215
-        },
-        {
-            "type": "string",
-            "name": "wash_painting",
-            "order": 7216
-        },
-        {
-            "type": "string",
-            "name": "watercolour_painting",
-            "order": 7217
-        },
-        {
-            "type": "string",
-            "name": "line_art",
-            "order": 7218
-        },
-        {
-            "type": "string",
-            "name": "illustration",
-            "order": 7219
-        },
-        {
-            "type": "string",
-            "name": "realistic_painting",
-            "order": 7220
-        },
-        {
-            "type": "string",
-            "name": "line_drawing",
-            "order": 7221
-        },
-        {
-            "type": "string",
-            "name": "chibi_art",
-            "order": 7222
-        },
-        {
-            "type": "string",
-            "name": "comic_strip",
-            "order": 7223
-        },
-        {
-            "type": "string",
-            "name": "blind_box",
-            "order": 7224
-        },
-        {
-            "type": "string",
-            "name": "chalk_drawing",
-            "order": 7225
-        },
-        {
-            "type": "string",
-            "name": "cyberpunk",
-            "order": 7226
-        },
-        {
-            "type": "string",
-            "name": "sketch_drawing",
-            "order": 7227
-        },
-        {
-            "type": "string",
-            "name": "impressionist_painting",
-            "order": 7228
-        },
-        {
-            "type": "string",
-            "name": "classical_painting",
-            "order": 7229
-        },
-        {
-            "type": "string",
-            "name": "renaissance_painting",
-            "order": 7230
-        },
-        {
-            "type": "string",
-            "name": "grass_weaving_painting",
-            "order": 7231
-        },
-        {
-            "type": "string",
-            "name": "plush_painting",
-            "order": 7232
-        },
-        {
-            "type": "string",
-            "name": "resin_painting",
-            "order": 7233
-        },
-        {
-            "type": "string",
-            "name": "clay_painting",
-            "order": 7234
-        },
-        {
-            "type": "string",
-            "name": "transparent_painting",
-            "order": 7235
-        },
-        {
-            "type": "string",
-            "name": "anime_and_manga",
-            "order": 7236
-        },
-        {
-            "type": "string",
-            "name": "completed",
-            "order": 7237
-        },
-        {
-            "type": "string",
-            "name": "generation_failed",
-            "order": 7238
-        },
-        {
-            "type": "string",
-            "name": "ai_generated",
-            "order": 7239
-        },
-        {
-            "type": "string",
-            "name": "minimize",
-            "order": 7240
-        },
-        {
-            "type": "string",
-            "name": "dialog_close",
-            "order": 7241
-        },
-        {
-            "type": "string",
-            "name": "start_generating",
-            "order": 7242
-        },
-        {
-            "type": "string",
-            "name": "canvas_textiput_placeholder",
-            "order": 7243
-        },
-        {
-            "type": "string",
-            "name": "text_polishing",
-            "order": 7244
-        },
-        {
-            "type": "string",
-            "name": "maintain_the_layout",
-            "order": 7245
-        },
-        {
-            "type": "string",
-            "name": "sticker_effect",
-            "order": 7246
-        },
-        {
-            "type": "string",
-            "name": "maintain_the_layout_keyword",
-            "order": 7247
-        },
-        {
-            "type": "string",
-            "name": "sticker_effect_keyword",
-            "order": 7248
-        },
-        {
-            "type": "string",
-            "name": "ai_thinking",
-            "order": 7249
-        },
-        {
-            "type": "string",
-            "name": "deep_thinking_results",
-            "order": 7250
-        },
-        {
-            "type": "string",
-            "name": "content_generated_by_ai",
-            "order": 7251
-        },
-        {
-            "type": "string",
-            "name": "use_the_polished_results",
-            "order": 7252
-        },
-        {
-            "type": "string",
-            "name": "canvas_waiting_for_operation_prompt_words",
-            "order": 7253
-        },
-        {
-            "type": "string",
-            "name": "canvas_operation_prompt_words",
-            "order": 7254
-        },
-        {
-            "type": "string",
-            "name": "re_edit",
-            "order": 7255
-        },
-        {
-            "type": "string",
-            "name": "continue_creating",
-            "order": 7256
-        },
-        {
-            "type": "string",
-            "name": "add_to_stickers",
-            "order": 7257
-        },
-        {
-            "type": "string",
-            "name": "insert_into_notes",
-            "order": 7258
-        },
-        {
-            "type": "string",
-            "name": "start_graffiti",
-            "order": 7259
-        },
-        {
-            "type": "string",
-            "name": "abandon_all_changes",
-            "order": 7260
-        },
-        {
-            "type": "string",
-            "name": "abandon_changes",
-            "order": 7261
-        },
-        {
-            "type": "string",
-            "name": "cancel_the_district",
-            "order": 7262
-        },
-        {
-            "type": "string",
-            "name": "regional_life_image",
-            "order": 7263
-        },
-        {
-            "type": "string",
-            "name": "selection_operation_prompt_words",
-            "order": 7264
-        },
-        {
-            "type": "string",
-            "name": "reporting_results",
-            "order": 7265
-        },
-        {
-            "type": "string",
-            "name": "complaint_result",
-            "order": 7266
-        },
-        {
-            "type": "string",
-            "name": "prompt_for_exceeding_the_node_limit",
-            "order": 7267
-        },
-        {
-            "type": "string",
-            "name": "image_reference",
-            "order": 7268
-        },
-        {
-            "type": "string",
-            "name": "replace_graffiti",
-            "order": 7269
-        },
-        {
-            "type": "string",
-            "name": "creating_through_hand_drawn_graffiti",
-            "order": 7270
-        },
-        {
-            "type": "string",
-            "name": "graffiti_color",
-            "order": 7271
-        },
-        {
-            "type": "string",
-            "name": "edit_graffiti",
-            "order": 7272
-        },
-        {
-            "type": "string",
-            "name": "image_generation",
-            "order": 7273
-        },
-        {
-            "type": "string",
-            "name": "raw_image_ratio",
-            "order": 7274
-        },
-        {
-            "type": "string",
-            "name": "raw_image_clarity",
-            "order": 7275
-        },
-        {
-            "type": "string",
-            "name": "standard_definition_1k",
-            "order": 7276
-        },
-        {
-            "type": "string",
-            "name": "high_definition_2k",
-            "order": 7277
-        },
-        {
-            "type": "string",
-            "name": "ultra_hd_4k",
-            "order": 7278
-        },
-        {
-            "type": "string",
-            "name": "ai_canvas",
-            "order": 7279
-        },
-        {
-            "type": "string",
-            "name": "clear_canvas",
-            "order": 7280
-        },
-        {
-            "type": "string",
-            "name": "prompt_to_clear_the_canvas",
-            "order": 7281
-        },
-        {
-            "type": "string",
-            "name": "confirm_deletion",
-            "order": 7282
-        },
-        {
-            "type": "string",
-            "name": "prompt_input",
-            "order": 7283
-        },
-        {
-            "type": "string",
-            "name": "describe_what_you_want_to_create",
-            "order": 7284
-        },
-        {
-            "type": "string",
-            "name": "generated_results",
-            "order": 7285
-        },
-        {
-            "type": "string",
-            "name": "image_generation_from_text",
-            "order": 7286
-        },
-        {
-            "type": "string",
-            "name": "image_generation_from_images",
-            "order": 7287
-        },
-        {
-            "type": "string",
-            "name": "image_generation_from_graffiti",
-            "order": 7288
-        },
-        {
-            "type": "plural",
-            "name": "sequence_number_of_the_selected_picture",
-            "order": 7289
-        },
-        {
             "type": "color",
             "name": "text_overlay_highlight_color",
-            "order": 7290,
+            "order": 7193,
             "flags": "private"
         },
         {
             "type": "media",
-            "name": "style",
-            "order": 7291
+            "name": "blank_illustrate",
+            "order": 7194
+        },
+        {
+            "type": "media",
+            "name": "image_generation_create",
+            "order": 7195
+        },
+        {
+            "type": "media",
+            "name": "maintain_layout",
+            "order": 7196
+        },
+        {
+            "type": "media",
+            "name": "outline_glow",
+            "order": 7197
+        },
+        {
+            "type": "media",
+            "name": "pin_dot",
+            "order": 7198
+        },
+        {
+            "type": "media",
+            "name": "rotate",
+            "order": 7199
+        },
+        {
+            "type": "string",
+            "name": "inspiration_canvas",
+            "order": 7200
+        },
+        {
+            "type": "string",
+            "name": "image_ratio",
+            "order": 7201
+        },
+        {
+            "type": "string",
+            "name": "image_clarity",
+            "order": 7202
+        },
+        {
+            "type": "string",
+            "name": "image_style",
+            "order": 7203
+        },
+        {
+            "type": "string",
+            "name": "oil_painting",
+            "order": 7204
+        },
+        {
+            "type": "string",
+            "name": "wash_painting",
+            "order": 7205
+        },
+        {
+            "type": "string",
+            "name": "watercolour_painting",
+            "order": 7206
+        },
+        {
+            "type": "string",
+            "name": "line_art",
+            "order": 7207
+        },
+        {
+            "type": "string",
+            "name": "illustration",
+            "order": 7208
+        },
+        {
+            "type": "string",
+            "name": "realistic_painting",
+            "order": 7209
+        },
+        {
+            "type": "string",
+            "name": "line_drawing",
+            "order": 7210
+        },
+        {
+            "type": "string",
+            "name": "chibi_art",
+            "order": 7211
+        },
+        {
+            "type": "string",
+            "name": "comic_strip",
+            "order": 7212
+        },
+        {
+            "type": "string",
+            "name": "blind_box",
+            "order": 7213
+        },
+        {
+            "type": "string",
+            "name": "chalk_drawing",
+            "order": 7214
+        },
+        {
+            "type": "string",
+            "name": "cyberpunk",
+            "order": 7215
+        },
+        {
+            "type": "string",
+            "name": "sketch_drawing",
+            "order": 7216
+        },
+        {
+            "type": "string",
+            "name": "impressionist_painting",
+            "order": 7217
+        },
+        {
+            "type": "string",
+            "name": "classical_painting",
+            "order": 7218
+        },
+        {
+            "type": "string",
+            "name": "renaissance_painting",
+            "order": 7219
+        },
+        {
+            "type": "string",
+            "name": "grass_weaving_painting",
+            "order": 7220
+        },
+        {
+            "type": "string",
+            "name": "plush_painting",
+            "order": 7221
+        },
+        {
+            "type": "string",
+            "name": "resin_painting",
+            "order": 7222
+        },
+        {
+            "type": "string",
+            "name": "clay_painting",
+            "order": 7223
+        },
+        {
+            "type": "string",
+            "name": "transparent_painting",
+            "order": 7224
+        },
+        {
+            "type": "string",
+            "name": "anime_and_manga",
+            "order": 7225
+        },
+        {
+            "type": "string",
+            "name": "completed",
+            "order": 7226
+        },
+        {
+            "type": "string",
+            "name": "generation_failed",
+            "order": 7227
+        },
+        {
+            "type": "string",
+            "name": "ai_generated",
+            "order": 7228
+        },
+        {
+            "type": "string",
+            "name": "minimize",
+            "order": 7229
+        },
+        {
+            "type": "string",
+            "name": "dialog_close",
+            "order": 7230
+        },
+        {
+            "type": "string",
+            "name": "start_generating",
+            "order": 7231
+        },
+        {
+            "type": "string",
+            "name": "canvas_textiput_placeholder",
+            "order": 7232
+        },
+        {
+            "type": "string",
+            "name": "text_polishing",
+            "order": 7233
+        },
+        {
+            "type": "string",
+            "name": "maintain_the_layout",
+            "order": 7234
+        },
+        {
+            "type": "string",
+            "name": "sticker_effect",
+            "order": 7235
+        },
+        {
+            "type": "string",
+            "name": "maintain_the_layout_keyword",
+            "order": 7236
+        },
+        {
+            "type": "string",
+            "name": "sticker_effect_keyword",
+            "order": 7237
+        },
+        {
+            "type": "string",
+            "name": "ai_thinking",
+            "order": 7238
+        },
+        {
+            "type": "string",
+            "name": "deep_thinking_results",
+            "order": 7239
+        },
+        {
+            "type": "string",
+            "name": "content_generated_by_ai",
+            "order": 7240
+        },
+        {
+            "type": "string",
+            "name": "use_the_polished_results",
+            "order": 7241
+        },
+        {
+            "type": "string",
+            "name": "canvas_waiting_for_operation_prompt_words",
+            "order": 7242
+        },
+        {
+            "type": "string",
+            "name": "canvas_operation_prompt_words",
+            "order": 7243
+        },
+        {
+            "type": "string",
+            "name": "re_edit",
+            "order": 7244
+        },
+        {
+            "type": "string",
+            "name": "continue_creating",
+            "order": 7245
+        },
+        {
+            "type": "string",
+            "name": "add_to_stickers",
+            "order": 7246
+        },
+        {
+            "type": "string",
+            "name": "insert_into_notes",
+            "order": 7247
+        },
+        {
+            "type": "string",
+            "name": "start_graffiti",
+            "order": 7248
+        },
+        {
+            "type": "string",
+            "name": "abandon_all_changes",
+            "order": 7249
+        },
+        {
+            "type": "string",
+            "name": "abandon_changes",
+            "order": 7250
+        },
+        {
+            "type": "string",
+            "name": "cancel_the_district",
+            "order": 7251
+        },
+        {
+            "type": "string",
+            "name": "regional_life_image",
+            "order": 7252
+        },
+        {
+            "type": "string",
+            "name": "selection_operation_prompt_words",
+            "order": 7253
+        },
+        {
+            "type": "string",
+            "name": "reporting_results",
+            "order": 7254
+        },
+        {
+            "type": "string",
+            "name": "complaint_result",
+            "order": 7255
+        },
+        {
+            "type": "string",
+            "name": "prompt_for_exceeding_the_node_limit",
+            "order": 7256
+        },
+        {
+            "type": "string",
+            "name": "image_reference",
+            "order": 7257
+        },
+        {
+            "type": "string",
+            "name": "replace_graffiti",
+            "order": 7258
+        },
+        {
+            "type": "string",
+            "name": "creating_through_hand_drawn_graffiti",
+            "order": 7259
+        },
+        {
+            "type": "string",
+            "name": "graffiti_color",
+            "order": 7260
+        },
+        {
+            "type": "string",
+            "name": "edit_graffiti",
+            "order": 7261
+        },
+        {
+            "type": "string",
+            "name": "image_generation",
+            "order": 7262
+        },
+        {
+            "type": "string",
+            "name": "raw_image_ratio",
+            "order": 7263
+        },
+        {
+            "type": "string",
+            "name": "raw_image_clarity",
+            "order": 7264
+        },
+        {
+            "type": "string",
+            "name": "standard_definition_1k",
+            "order": 7265
+        },
+        {
+            "type": "string",
+            "name": "high_definition_2k",
+            "order": 7266
+        },
+        {
+            "type": "string",
+            "name": "ultra_hd_4k",
+            "order": 7267
+        },
+        {
+            "type": "string",
+            "name": "ai_canvas",
+            "order": 7268
+        },
+        {
+            "type": "string",
+            "name": "clear_canvas",
+            "order": 7269
+        },
+        {
+            "type": "string",
+            "name": "prompt_to_clear_the_canvas",
+            "order": 7270
+        },
+        {
+            "type": "string",
+            "name": "confirm_deletion",
+            "order": 7271
+        },
+        {
+            "type": "string",
+            "name": "prompt_input",
+            "order": 7272
+        },
+        {
+            "type": "string",
+            "name": "describe_what_you_want_to_create",
+            "order": 7273
+        },
+        {
+            "type": "string",
+            "name": "generated_results",
+            "order": 7274
+        },
+        {
+            "type": "string",
+            "name": "image_generation_from_text",
+            "order": 7275
+        },
+        {
+            "type": "string",
+            "name": "image_generation_from_images",
+            "order": 7276
+        },
+        {
+            "type": "string",
+            "name": "image_generation_from_graffiti",
+            "order": 7277
+        },
+        {
+            "type": "plural",
+            "name": "sequence_number_of_the_selected_picture",
+            "order": 7278
+        },
+        {
+            "type": "media",
+            "name": "image_generation_style",
+            "order": 7279
         },
         {
             "type": "media",
             "name": "clarity_1k",
-            "order": 7292
+            "order": 7280
         },
         {
             "type": "media",
             "name": "clarity_2k",
-            "order": 7293
+            "order": 7281
         },
         {
             "type": "media",
             "name": "clarity_4k",
-            "order": 7294
+            "order": 7282
         },
         {
             "type": "media",
             "name": "proportion_1_1",
-            "order": 7295
+            "order": 7283
         },
         {
             "type": "media",
             "name": "proportion_1_1_fill",
-            "order": 7296
+            "order": 7284
         },
         {
             "type": "media",
             "name": "proportion_2_3",
-            "order": 7297
+            "order": 7285
         },
         {
             "type": "media",
             "name": "proportion_2_3_fill",
-            "order": 7298
+            "order": 7286
         },
         {
             "type": "media",
             "name": "proportion_3_2",
-            "order": 7299
+            "order": 7287
         },
         {
             "type": "media",
             "name": "proportion_3_2_fill",
-            "order": 7300
+            "order": 7288
         },
         {
             "type": "media",
             "name": "proportion_3_4",
-            "order": 7301
+            "order": 7289
         },
         {
             "type": "media",
             "name": "proportion_3_4_fill",
-            "order": 7302
+            "order": 7290
         },
         {
             "type": "media",
             "name": "proportion_4_3",
-            "order": 7303
+            "order": 7291
         },
         {
             "type": "media",
             "name": "proportion_4_3_fill",
-            "order": 7304
+            "order": 7292
         },
         {
             "type": "media",
             "name": "proportion_9_16",
-            "order": 7305
+            "order": 7293
         },
         {
             "type": "media",
             "name": "proportion_9_16_fill",
-            "order": 7306
+            "order": 7294
         },
         {
             "type": "media",
             "name": "proportion_16_9",
-            "order": 7307
+            "order": 7295
         }, 
         {
             "type": "media",
             "name": "proportion_16_9_fill",
+            "order": 7296
+        },
+        {
+            "type": "media",
+            "name": "ballpointpen_result",
+            "order": 7297
+        },
+        {
+            "type": "media",
+            "name": "eraser_big",
+            "order": 7298
+        },
+        {
+            "type": "media",
+            "name": "eraser_medium",
+            "order": 7299
+        },
+        {
+            "type": "media",
+            "name": "eraser_small",
+            "order": 7300
+        },
+        {
+            "type": "media",
+            "name": "more_agent",
+            "order": 7301
+        },
+        {
+            "type": "string",
+            "name": "node_graph_expand",
+            "order": 7302
+        },
+        {
+            "type": "string",
+            "name": "node_graph_confirm",
+            "order": 7303
+        },
+        {
+            "type": "string",
+            "name": "node_graph_save_success",
+            "order": 7304
+        },
+        {
+            "type": "string",
+            "name": "node_graph_save_fail",
+            "order": 7305
+        },
+        {
+            "type": "string",
+            "name": "node_graph_graffiti_save_title",
+            "order": 7306
+        },
+        {
+            "type": "string",
+            "name": "node_graph_confirm_save",
+            "order": 7307
+        },
+        {
+            "type": "string",
+            "name": "node_graph_region_select_save",
             "order": 7308
+        },
+        {
+            "type": "string",
+            "name": "node_graph_photo_save",
+            "order": 7309
+        },
+        {
+            "type": "string",
+            "name": "node_graph_standard_definition",
+            "order": 7310
+        },
+        {
+            "type": "string",
+            "name": "node_graph_high_definition",
+            "order": 7311
+        },
+        {
+            "type": "string",
+            "name": "node_graph_ultra_hd",
+            "order": 7312
+        },
+        {
+            "type": "string",
+            "name": "node_graph_replace_image",
+            "order": 7313
+        },
+        {
+            "type": "string",
+            "name": "node_graph_copy_node_fail",
+            "order": 7314
+        },
+        {
+            "type": "string",
+            "name": "node_graph_magic_polish",
+            "order": 7315
+        },
+        {
+            "type": "string",
+            "name": "node_graph_ai_control_message",
+            "order": 7316
+        },
+        {
+            "type": "string",
+            "name": "node_graph_ai_control_confirm_message",
+            "order": 7317
+        },
+        {
+            "type": "string",
+            "name": "node_graph_reauthorization",
+            "order": 7318
+        },
+        {
+            "type": "color",
+            "name": "node_graph_hover_border_color",
+            "order": 7319
+        },
+        {
+            "type": "color",
+            "name": "node_graph_toolbar_background_color",
+            "order": 7320
+        },
+        {
+            "type": "color",
+            "name": "node_graph_selected_icon_color",
+            "order": 7321
+        },
+        {
+            "type": "color",
+            "name": "node_graph_generator_selected_icon_color",
+            "order": 7322
+        },
+        {
+            "type": "color",
+            "name": "node_graph_generator_select_font_color",
+            "order": 7323
+        },
+        {
+            "type": "color",
+            "name": "node_graph_generator_button_border_color",
+            "order": 7324
+        },
+        {
+            "type": "color",
+            "name": "node_graph_body_background_color",
+            "order": 7325
+        },
+        {
+            "type": "color",
+            "name": "node_graph_node_background_color",
+            "order": 7326
+        },
+        {
+            "type": "media",
+            "name": "ic_eraser_big",
+            "order": 7327
+        },
+        {
+            "type": "media",
+            "name": "ic_eraser_medium",
+            "order": 7328
+        },
+        {
+            "type": "media",
+            "name": "ic_eraser_small",
+            "order": 7329
         }
     ]
 }
