@@ -24511,27 +24511,32 @@
         {
             "type": "media",
             "name": "Copy_Drag",
-            "order": 4863
+            "order": 4863,
+            "flags": "private"
         },
         {
             "type": "media",
             "name": "Copy_One_Drag",
-            "order": 4864
+            "order": 4864,
+            "flags": "private"
         },
         {
             "type": "media",
             "name": "Forbid_Drag",
-            "order": 4865
+            "order": 4865,
+            "flags": "private"
         },
         {
             "type": "media",
             "name": "Forbid_One_Drag",
-            "order": 4866
+            "order": 4866,
+            "flags": "private"
         },
         {
             "type": "media",
             "name": "Move_Drag",
-            "order": 4867
+            "order": 4867,
+            "flags": "private"
         },
         {
             "type": "string",
