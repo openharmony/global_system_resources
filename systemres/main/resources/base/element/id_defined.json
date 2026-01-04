@@ -37706,6 +37706,126 @@
             "type": "media",
             "name": "node_graph",
             "order": 7469
+        },
+        {
+            "type": "string",
+            "name": "node_graph_selected_text_exceeds_limit",
+            "order": 7470
+        },
+        {
+            "type": "string",
+            "name": "node_graph_selected_images_exceeds_limit",
+            "order": 7471
+        },
+        {
+            "type": "string",
+            "name": "node_graph_selected_image_type_invalid",
+            "order": 7472
+        },
+        {
+            "type": "string",
+            "name": "node_graph_selected_image_dimensions_invalid",
+            "order": 7473
+        },
+        {
+            "type": "string",
+            "name": "node_graph_image_generation_daily_limit_reached",
+            "order": 7474
+        },
+        {
+            "type": "string",
+            "name": "node_graph_server_request_timeout",
+            "order": 7475
+        },
+        {
+            "type": "string",
+            "name": "node_graph_input_image_dimensions_invalid",
+            "order": 7476
+        },
+        {
+            "type": "string",
+            "name": "node_graph_selected_materials_count_exceed_limit",
+            "order": 7477
+        },
+        {
+            "type": "string",
+            "name": "node_graph_node_material_connection_limit_exceeded",
+            "order": 7478
+        },
+        {
+            "type": "string",
+            "name": "node_graph_image_download_failed",
+            "order": 7479
+        },
+        {
+            "type": "string",
+            "name": "node_graph_version_mismatch",
+            "order": 7480
+        },
+        {
+            "type": "string",
+            "name": "node_graph_server_exception",
+            "order": 7481
+        },
+        {
+            "type": "string",
+            "name": "node_graph_generation_failed",
+            "order": 7482
+        },
+        {
+            "type": "string",
+            "name": "node_graph_image_generation_not_supported",
+            "order": 7483
+        },
+        {
+            "type": "string",
+            "name": "node_graph_input_violates_platform_rules",
+            "order": 7484
+        },
+        {
+            "type": "string",
+            "name": "node_graph_unsaved_creation_will_be_cleared_confirm_close",
+            "order": 7485
+        },
+        {
+            "type": "string",
+            "name": "node_graph_saved_to_gallery",
+            "order": 7486
+        },
+        {
+            "type": "string",
+            "name": "node_graph_added_to_notes",
+            "order": 7487
+        },
+        {
+            "type": "string",
+            "name": "node_graph_added_to_stickers",
+            "order": 7488
+        },
+        {
+            "type": "string",
+            "name": "node_graph_image_generation_task_incomplete_confirm_exit",
+            "order": 7489
+        },
+        {
+            "type": "string",
+            "name": "node_graph_image_replacement_cannot_preserve_operations",
+            "order": 7490
+        },
+        {
+            "type": "string",
+            "name": "node_graph_doodles_selections_not_preserved_confirm_operation",
+            "order": 7491
+        },
+        {
+            "type": "string",
+            "name": "node_graph_selected_text_exceeding_the_character_limit",
+            "order": 7492
+        },
+        {
+            "type": "string",
+            "name": "node_graph_exit_will_not_preserve_creations",
+            "order": 7493
         }
     ]
 }

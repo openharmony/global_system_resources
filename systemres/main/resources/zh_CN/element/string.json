@@ -2739,6 +2739,102 @@
         {
             "name": "node_graph_reauthorization",
             "value": "授权失败，请重新授权"
+        },
+        {
+            "name": "node_graph_selected_text_exceeds_limit",
+            "value": "已选文字超过规定字数，请修改后重试"
+        },
+        {
+            "name": "node_graph_selected_images_exceeds_limit",
+            "value": "已选图片数量超过4张，请修改后重试"
+        },
+        {
+            "name": "node_graph_selected_image_type_invalid",
+            "value": "已选图像类型不符合规定，请修改后重试"
+        },
+        {
+            "name": "node_graph_selected_image_dimensions_invalid",
+            "value": "已选图像尺寸不符合规定，请修改后重试"
+        },
+        {
+            "name": "node_graph_image_generation_daily_limit_reached",
+            "value": "您已达到今日的生图限额，限额将于明日重置"
+        },
+        {
+            "name": "node_graph_server_request_timeout",
+            "value": "服务器请求超时，请稍后再试"
+        },
+        {
+            "name": "node_graph_input_image_dimensions_invalid",
+            "value": "输入图像尺寸不符合规定，请重新输入"
+        },
+        {
+            "name": "node_graph_selected_materials_count_exceed_limit",
+            "value": "已选素材数量达到上限"
+        },
+        {
+            "name": "node_graph_node_material_connection_limit_exceeded",
+            "value": "当前节点同类型素材连接超限，请删除后重试"
+        },
+        {
+            "name": "node_graph_image_download_failed",
+            "value": "图片下载失败"
+        },
+        {
+            "name": "node_graph_version_mismatch",
+            "value": "版本不匹配，请升级后重试"
+        },
+        {
+            "name": "node_graph_server_exception",
+            "value": "服务器异常，请稍后再试"
+        },
+        {
+            "name": "node_graph_generation_failed",
+            "value": "生成失败，请稍后再试"
+        },
+        {
+            "name": "node_graph_image_generation_not_supported",
+            "value": "当前应用不支持生图功能"
+        },
+        {
+            "name": "node_graph_input_violates_platform_rules",
+            "value": "输入不符合平台规则，请修改后重试"
+        },
+        {
+            "name": "node_graph_unsaved_creation_will_be_cleared_confirm_close",
+            "value": "未保存的创作结果将会清除，是否关闭"
+        },
+        {
+            "name": "node_graph_saved_to_gallery",
+            "value": "已保存至图库"
+        },
+        {
+            "name": "node_graph_added_to_notes",
+            "value": "已添加至笔记"
+        },
+        {
+            "name": "node_graph_added_to_stickers",
+            "value": "已添加至贴纸"
+        },
+        {
+            "name": "node_graph_image_generation_task_incomplete_confirm_exit",
+            "value": "您的生图任务尚未完成，退出画布模式会终止任务，是否继续"
+        },
+        {
+            "name": "node_graph_image_replacement_cannot_preserve_operations",
+            "value": "替换图像无法保留操作"
+        },
+        {
+            "name": "node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value": "操作后将不保留在原始图像上的涂鸦和圈选，是否继续"
+        },
+        {
+            "name": "node_graph_selected_text_exceeding_the_character_limit",
+            "value": "选择字数超过300字，请修改后重试"
+        },
+        {
+            "name": "node_graph_exit_will_not_preserve_creations",
+            "value": "退出将无法保留创作"
         }
     ]
 }
