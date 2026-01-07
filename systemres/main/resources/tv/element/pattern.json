@@ -1029,6 +1029,10 @@
                 {
                     "name": "dialog_button_border_radius",
                     "value": "27.0vp"
+                },
+                {
+                    "name":"title_padding_horizontal",
+                    "value":"$float:picker_title_padding_horizontal"
                 }
             ]
         },
