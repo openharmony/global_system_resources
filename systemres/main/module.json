@@ -6637,7 +6637,16 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
-            }
+            },
+            {
+                "name": "ohos.permission.ACCESS_SECURE_FENCE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+ 	        }
         ]
     }
 }
