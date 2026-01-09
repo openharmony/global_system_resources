@@ -6558,6 +6558,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ALLOW_COREDUMP",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.PUBLISH_FORM_CROSS_BUNDLE_CONTROL",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
