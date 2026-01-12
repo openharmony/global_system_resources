@@ -2911,6 +2911,26 @@
         {
             "name": "sequence_number_of_the_selected_picture",
             "value": "图%d"
+        },
+        {
+            "name": "node_graph_material_type_invalid",
+            "value": "素材类型不符合规定"
+        },
+        {
+            "name": "node_graph_material_dimensions_invalid",
+            "value": "素材尺寸不符合规定"
+        },
+        {
+            "name": "node_graph_resource_download_failed",
+            "value": "资源下载失败"
+        },
+        {
+            "name": "node_graph_text_length_limit_reached",
+            "value": "已达文字数量上限"
+        },
+        {
+            "name": "node_graph_material_drag_and_drop_failed",
+            "value": "拖入素材失败"
         }
     ]
 }
