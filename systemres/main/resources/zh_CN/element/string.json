@@ -2361,480 +2361,552 @@
             }
         },
         {
-            "name": "inspiration_canvas",
-            "value": "灵感画布"
+            "name":"inspiration_canvas",
+            "value":"灵感画布"
         },
         {
-            "name": "image_ratio",
-            "value": "比例"
+            "name":"image_ratio",
+            "value":"比例"
         },
         {
-            "name": "image_clarity",
-            "value": "清晰度"
+            "name":"image_clarity",
+            "value":"清晰度"
         },
         {
-            "name": "image_style",
-            "value": "风格"
+            "name":"image_style",
+            "value":"风格"
         },
         {
-            "name": "oil_painting",
-            "value": "油画"
+            "name":"oil_painting",
+            "value":"油画"
         },
         {
-            "name": "wash_painting",
-            "value": "水墨画"
+            "name":"wash_painting",
+            "value":"水墨画"
         },
         {
-            "name": "watercolour_painting",
-            "value": "水彩"
+            "name":"watercolour_painting",
+            "value":"水彩"
         },
         {
-            "name": "line_art",
-            "value": "线稿"
+            "name":"line_art",
+            "value":"线稿"
         },
         {
-            "name": "illustration",
-            "value": "插画"
+            "name":"illustration",
+            "value":"插画"
         },
         {
-            "name": "realistic_painting",
-            "value": "写实"
+            "name":"realistic_painting",
+            "value":"写实"
         },
         {
-            "name": "line_drawing",
-            "value": "线描"
+            "name":"line_drawing",
+            "value":"线描"
         },
         {
-            "name": "chibi_art",
-            "value": "Q版"
+            "name":"chibi_art",
+            "value":"Q版"
         },
         {
-            "name": "comic_strip",
-            "value": "分格漫画"
+            "name":"comic_strip",
+            "value":"分格漫画"
         },
         {
-            "name": "blind_box",
-            "value": "盲盒"
+            "name":"blind_box",
+            "value":"盲盒"
         },
         {
-            "name": "chalk_drawing",
-            "value": "蜡笔画"
+            "name":"chalk_drawing",
+            "value":"蜡笔画"
         },
         {
-            "name": "cyberpunk",
-            "value": "赛博朋克"
+            "name":"cyberpunk",
+            "value":"赛博朋克"
         },
         {
-            "name": "sketch_drawing",
-            "value": "速写"
+            "name":"sketch_drawing",
+            "value":"速写"
         },
         {
-            "name": "impressionist_painting",
-            "value": "印象派"
+            "name":"impressionist_painting",
+            "value":"印象派"
         },
         {
-            "name": "classical_painting",
-            "value": "古典主义"
+            "name":"classical_painting",
+            "value":"古典主义"
         },
         {
-            "name": "renaissance_painting",
-            "value": "文艺复兴"
+            "name":"renaissance_painting",
+            "value":"文艺复兴"
         },
         {
-            "name": "grass_weaving_painting",
-            "value": "草编"
+            "name":"grass_weaving_painting",
+            "value":"草编"
         },
         {
-            "name": "plush_painting",
-            "value": "毛绒"
+            "name":"plush_painting",
+            "value":"毛绒"
         },
         {
-            "name": "resin_painting",
-            "value": "树脂"
+            "name":"resin_painting",
+            "value":"树脂"
         },
         {
-            "name": "clay_painting",
-            "value": "粘土"
+            "name":"clay_painting",
+            "value":"粘土"
         },
         {
-            "name": "transparent_painting",
-            "value": "透明"
+            "name":"transparent_painting",
+            "value":"透明"
         },
         {
-            "name": "anime_and_manga",
-            "value": "动漫"
+            "name":"anime_and_manga",
+            "value":"动漫"
         },
         {
-            "name": "completed",
-            "value": "已完成"
+            "name":"completed",
+            "value":"已完成"
         },
         {
-            "name": "generation_failed",
-            "value": "生成失败"
+            "name":"generation_failed",
+            "value":"生成失败"
         },
         {
-            "name": "ai_generated",
-            "value": "AI生成中"
+            "name":"ai_generated",
+            "value":"AI生成中"
         },
         {
-            "name": "minimize",
-            "value": "最小化"
+            "name":"minimize",
+            "value":"最小化"
         },
         {
-            "name": "dialog_close",
-            "value": "关闭"
+            "name":"dialog_close",
+            "value":"关闭"
         },
         {
-            "name": "start_generating",
-            "value": "生成"
+            "name":"start_generating",
+            "value":"生成",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "canvas_textiput_placeholder",
-            "value": "描述你想要创作的内容"
+            "name":"canvas_textiput_placeholder",
+            "value":"描述您想要创作的内容",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "text_polishing",
-            "value": "文本润色"
+            "name":"text_polishing",
+            "value":"文本润色",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "maintain_the_layout",
-            "value": "保持布局"
+            "name":"maintain_the_layout",
+            "value":"保持布局",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "sticker_effect",
-            "value": "贴纸效果"
+            "name":"sticker_effect",
+            "value":"贴纸效果",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "maintain_the_layout_keyword",
-            "value": "保持输入图形的位置关系"
+            "name":"maintain_the_layout_keyword",
+            "value":"保持输入图形的位置关系",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "sticker_effect_keyword",
-            "value": "带白色描边的贴纸效果"
+            "name":"sticker_effect_keyword",
+            "value":"带白色描边的贴纸效果",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ai_thinking",
-            "value": "思考中"
+            "name":"ai_thinking",
+            "value":"思考中",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "deep_thinking_results",
-            "value": "深度思考"
+            "name":"deep_thinking_results",
+            "value":"深度思考",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "content_generated_by_ai",
-            "value": "内容由AI生成"
+            "name":"content_generated_by_ai",
+            "value":"内容由 AI 生成",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "use_the_polished_results",
-            "value": "使用润色结果"
+            "name":"use_the_polished_results",
+            "value":"使用润色结果",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "canvas_waiting_for_operation_prompt_words",
-            "value": "添加图片或涂鸦进行创作"
+            "name":"canvas_waiting_for_operation_prompt_words",
+            "value":"添加图片或涂鸦进行创作",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "canvas_operation_prompt_words",
-            "value": "通过双指缩放、旋转编辑图像位置"
+            "name":"canvas_operation_prompt_words",
+            "value":"通过双指缩放、旋转编辑图像位置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "re_edit",
-            "value": "重新编辑"
+            "name":"re_edit",
+            "value":"重新编辑",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "continue_creating",
-            "value": "继续创作"
+            "name":"continue_creating",
+            "value":"继续创作",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "add_to_stickers",
-            "value": "添加到贴纸"
+            "name":"add_to_stickers",
+            "value":"添加至贴纸",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "insert_into_notes",
-            "value": "插入笔记"
+            "name":"insert_into_notes",
+            "value":"插入笔记",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "start_graffiti",
-            "value": "涂鸦"
+            "name":"start_graffiti",
+            "value":"涂鸦",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "abandon_all_changes",
-            "value": "是否放弃所有更改"
+            "name":"abandon_all_changes",
+            "value":"是否放弃所有更改？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "abandon_changes",
-            "value": "放弃更改"
+            "name":"abandon_changes",
+            "value":"放弃更改",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "cancel_the_district",
-            "value": "取消选区"
+            "name":"cancel_the_district",
+            "value":"取消选区",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "regional_life_image",
-            "value": "区域生图"
+            "name":"regional_life_image",
+            "value":"区域生图",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "selection_operation_prompt_words",
-            "value": "圈选想要调整的区域，添加文字描述进行生图"
+            "name":"selection_operation_prompt_words",
+            "value":"圈选想要调整的区域，添加文字描述进行生图",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "reporting_results",
-            "value": "举报"
+            "name":"reporting_results",
+            "value":"举报",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "complaint_result",
-            "value": "投诉"
+            "name":"complaint_result",
+            "value":"投诉"
         },
         {
-            "name": "prompt_for_exceeding_the_node_limit",
-            "value": "节点数量超过100个，请清理画布后重试"
+            "name":"prompt_for_exceeding_the_node_limit",
+            "value":"节点数量超过100个，请清理画布后重试"
         },
         {
-            "name": "image_reference",
-            "value": "图片参考"
+            "name":"image_reference",
+            "value":"图片参考"
         },
         {
-            "name": "replace_graffiti",
-            "value": "替换涂鸦"
+            "name":"replace_graffiti",
+            "value":"替换涂鸦"
         },
         {
-            "name": "creating_through_hand_drawn_graffiti",
-            "value": "通过手绘涂鸦进行创作"
+            "name":"creating_through_hand_drawn_graffiti",
+            "value":"通过手绘涂鸦进行创作"
         },
         {
-            "name": "graffiti_color",
-            "value": "颜色"
+            "name":"graffiti_color",
+            "value":"颜色"
         },
         {
-            "name": "edit_graffiti",
-            "value": "修改涂鸦"
+            "name":"edit_graffiti",
+            "value":"修改涂鸦"
         },
         {
-            "name": "image_generation",
-            "value": "图像生成"
+            "name":"image_generation",
+            "value":"图像生成"
         },
         {
-            "name": "raw_image_ratio",
-            "value": "生图比例"
+            "name":"raw_image_ratio",
+            "value":"生图比例"
         },
         {
-            "name": "raw_image_clarity",
-            "value": "生图清晰度"
+            "name":"raw_image_clarity",
+            "value":"生图清晰度"
         },
         {
-            "name": "standard_definition_1k",
-            "value": "标清1k"
+            "name":"standard_definition_1k",
+            "value":"标清1k"
         },
         {
-            "name": "high_definition_2k",
-            "value": "高清2k"
+            "name":"high_definition_2k",
+            "value":"高清2k"
         },
         {
-            "name": "ultra_hd_4k",
-            "value": "超清4k"
+            "name":"ultra_hd_4k",
+            "value":"超清4k"
         },
         {
-            "name": "ai_canvas",
-            "value": "AI画布"
+            "name":"ai_canvas",
+            "value":"AI画布"
         },
         {
-            "name": "clear_canvas",
-            "value": "清空画布"
+            "name":"clear_canvas",
+            "value":"清空画布"
         },
         {
-            "name": "prompt_to_clear_the_canvas",
-            "value": "将立即删除画布的所有历史节点。此操作无法撤销"
+            "name":"prompt_to_clear_the_canvas",
+            "value":"将立即删除画布的所有历史节点。此操作无法撤销"
         },
         {
-            "name": "confirm_deletion",
-            "value": "确认删除"
+            "name":"confirm_deletion",
+            "value":"确认删除"
         },
         {
-            "name": "prompt_input",
-            "value": "提示词输入"
+            "name":"prompt_input",
+            "value":"提示词输入"
         },
         {
-            "name": "describe_what_you_want_to_create",
-            "value": "描述你想要创作的内容"
+            "name":"describe_what_you_want_to_create",
+            "value":"描述你想要创作的内容"
         },
         {
-            "name": "generated_results",
-            "value": "生成结果"
+            "name":"generated_results",
+            "value":"生成结果"
         },
         {
-            "name": "image_generation_from_text",
-            "value": "文本生图"
+            "name":"image_generation_from_text",
+            "value":"文本生图"
         },
         {
-            "name": "image_generation_from_images",
-            "value": "以图生图"
+            "name":"image_generation_from_images",
+            "value":"以图生图"
         },
         {
-            "name": "image_generation_from_graffiti",
-            "value": "涂鸦生图"
+            "name":"image_generation_from_graffiti",
+            "value":"涂鸦生图"
         },
         {
-            "name": "node_graph_expand",
-            "value": "AI画布不支持外屏展示，请展开使用"
+            "name":"node_graph_expand",
+            "value":"AI画布不支持外屏展示，请展开使用"
         },
         {
-            "name": "node_graph_confirm",
-            "value": "确认"
+            "name":"node_graph_confirm",
+            "value":"确认"
         },
         {
-            "name": "node_graph_save_success",
-            "value": "保存成功"
+            "name":"node_graph_save_success",
+            "value":"保存成功"
         },
         {
-            "name": "node_graph_save_fail",
-            "value": "保存失败"
+            "name":"node_graph_save_fail",
+            "value":"保存失败"
         },
         {
-            "name": "node_graph_graffiti_save_title",
-            "value": "涂鸦记录保留"
+            "name":"node_graph_graffiti_save_title",
+            "value":"涂鸦记录保留"
         },
         {
-            "name": "node_graph_confirm_save",
-            "value": "您有未保存的修改，请确认是否保存"
+            "name":"node_graph_confirm_save",
+            "value":"您有未保存的修改，请确认是否保存"
         },
         {
-            "name": "node_graph_region_select_save",
-            "value": "区域选区保留"
+            "name":"node_graph_region_select_save",
+            "value":"区域选区保留"
         },
         {
-            "name": "node_graph_photo_save",
-            "value": "图片已保存到图库"
+            "name":"node_graph_photo_save",
+            "value":"图片已保存到图库"
         },
         {
-            "name": "node_graph_standard_definition",
-            "value": "标清"
+            "name":"node_graph_standard_definition",
+            "value":"标清"
         },
         {
-            "name": "node_graph_high_definition",
-            "value": "高清"
+            "name":"node_graph_high_definition",
+            "value":"高清"
         },
         {
-            "name": "node_graph_ultra_hd",
-            "value": "超清"
+            "name":"node_graph_ultra_hd",
+            "value":"超清"
         },
         {
-            "name": "node_graph_replace_image",
-            "value": "替换图像"
+            "name":"node_graph_replace_image",
+            "value":"替换图像"
         },
         {
-            "name": "node_graph_copy_node_fail",
-            "value": "复制节点失败！"
+            "name":"node_graph_copy_node_fail",
+            "value":"复制节点失败！"
         },
         {
-            "name": "node_graph_magic_polish",
-            "value": "魔法润色"
+            "name":"node_graph_magic_polish",
+            "value":"魔法润色"
         },
         {
-            "name": "node_graph_ai_control_message",
-            "value": "风控信息"
+            "name":"node_graph_ai_control_message",
+            "value":"风控信息"
         },
         {
-            "name": "node_graph_ai_control_confirm_message",
-            "value": "当前文本带有敏感内容，请重新确认输入内容"
+            "name":"node_graph_ai_control_confirm_message",
+            "value":"当前文本带有敏感内容，请重新确认输入内容"
         },
         {
-            "name": "node_graph_reauthorization",
-            "value": "授权失败，请重新授权"
+            "name":"node_graph_reauthorization",
+            "value":"授权失败，请重新授权"
         },
         {
-            "name": "node_graph_selected_text_exceeds_limit",
-            "value": "已选文字超过规定字数，请修改后重试"
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"已选文字超过规定字数，请修改后重试"
         },
         {
-            "name": "node_graph_selected_images_exceeds_limit",
-            "value": "已选图片数量超过4张，请修改后重试"
+            "name":"node_graph_selected_images_exceeds_limit",
+            "value":"已选图片数量超过4张，请修改后重试"
         },
         {
-            "name": "node_graph_selected_image_type_invalid",
-            "value": "已选图像类型不符合规定，请修改后重试"
+            "name":"node_graph_selected_image_type_invalid",
+            "value":"已选图像类型不符合规定，请修改后重试"
         },
         {
-            "name": "node_graph_selected_image_dimensions_invalid",
-            "value": "已选图像尺寸不符合规定，请修改后重试"
+            "name":"node_graph_selected_image_dimensions_invalid",
+            "value":"已选图像尺寸不符合规定，请修改后重试"
         },
         {
-            "name": "node_graph_image_generation_daily_limit_reached",
-            "value": "您已达到今日的生图限额，限额将于明日重置"
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"您已达到今日的生图限额，限额将于明日重置"
         },
         {
-            "name": "node_graph_server_request_timeout",
-            "value": "服务器请求超时，请稍后再试"
+            "name":"node_graph_server_request_timeout",
+            "value":"服务器请求超时，请稍后再试"
         },
         {
-            "name": "node_graph_input_image_dimensions_invalid",
-            "value": "输入图像尺寸不符合规定，请重新输入"
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"输入图像尺寸不符合规定，请重新输入"
         },
         {
-            "name": "node_graph_selected_materials_count_exceed_limit",
-            "value": "已选素材数量达到上限"
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"已选素材数量达到上限"
         },
         {
-            "name": "node_graph_node_material_connection_limit_exceeded",
-            "value": "当前节点同类型素材连接超限，请删除后重试"
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"当前节点同类型素材连接超限，请删除后重试"
         },
         {
-            "name": "node_graph_image_download_failed",
-            "value": "图片下载失败"
+            "name":"node_graph_image_download_failed",
+            "value":"图片下载失败"
         },
         {
-            "name": "node_graph_version_mismatch",
-            "value": "版本不匹配，请升级后重试"
+            "name":"node_graph_version_mismatch",
+            "value":"版本不匹配，请升级后重试"
         },
         {
-            "name": "node_graph_server_exception",
-            "value": "服务器异常，请稍后再试"
+            "name":"node_graph_server_exception",
+            "value":"服务器异常，请稍后再试"
         },
         {
-            "name": "node_graph_generation_failed",
-            "value": "生成失败，请稍后再试"
+            "name":"node_graph_generation_failed",
+            "value":"生成失败，请稍后再试"
         },
         {
-            "name": "node_graph_image_generation_not_supported",
-            "value": "当前应用不支持生图功能"
+            "name":"node_graph_image_generation_not_supported",
+            "value":"当前应用不支持生图功能"
         },
         {
-            "name": "node_graph_input_violates_platform_rules",
-            "value": "输入不符合平台规则，请修改后重试"
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"输入不符合平台规则，请修改后重试"
         },
         {
-            "name": "node_graph_unsaved_creation_will_be_cleared_confirm_close",
-            "value": "未保存的创作结果将会清除，是否关闭"
+            "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
+            "value":"未保存的创作结果将会清除，是否关闭"
         },
         {
-            "name": "node_graph_saved_to_gallery",
-            "value": "已保存至图库"
+            "name":"node_graph_saved_to_gallery",
+            "value":"已保存至图库"
         },
         {
-            "name": "node_graph_added_to_notes",
-            "value": "已添加至笔记"
+            "name":"node_graph_added_to_notes",
+            "value":"已添加至笔记"
         },
         {
-            "name": "node_graph_added_to_stickers",
-            "value": "已添加至贴纸"
+            "name":"node_graph_added_to_stickers",
+            "value":"已添加至贴纸"
         },
         {
-            "name": "node_graph_image_generation_task_incomplete_confirm_exit",
-            "value": "您的生图任务尚未完成，退出画布模式会终止任务，是否继续"
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"您的生图任务尚未完成，退出画布模式会终止任务，是否继续"
         },
         {
-            "name": "node_graph_image_replacement_cannot_preserve_operations",
-            "value": "替换图像无法保留操作"
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"替换图像无法保留操作"
         },
         {
-            "name": "node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value": "操作后将不保留在原始图像上的涂鸦和圈选，是否继续"
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"操作后将不保留在原始图像上的涂鸦和圈选，是否继续"
         },
         {
-            "name": "node_graph_selected_text_exceeding_the_character_limit",
-            "value": "选择字数超过300字，请修改后重试"
+            "name":"node_graph_selected_text_exceeding_the_character_limit",
+            "value":"选择字数超过300字，请修改后重试"
         },
         {
-            "name": "node_graph_exit_will_not_preserve_creations",
-            "value": "退出将无法保留创作"
+            "name":"node_graph_exit_will_not_preserve_creations",
+            "value":"退出将无法保留创作"
         },
         {
             "name": "sequence_number_of_the_selected_picture",

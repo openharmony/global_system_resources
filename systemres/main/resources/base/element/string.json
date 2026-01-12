@@ -2509,483 +2509,555 @@
             }
         },
         {
-            "name": "inspiration_canvas",
-            "value": "Inspiration Canvas"
+            "name":"inspiration_canvas",
+            "value":"Inspiration Canvas"
         },
         {
-            "name": "image_ratio",
-            "value": "Ratio"
+            "name":"image_ratio",
+            "value":"Ratio"
         },
         {
-            "name": "image_clarity",
-            "value": "Clarity"
+            "name":"image_clarity",
+            "value":"Clarity"
         },
         {
-            "name": "image_style",
-            "value": "Style"
+            "name":"image_style",
+            "value":"Style"
         },
         {
-            "name": "oil_painting",
-            "value": "Oil Painting"
+            "name":"oil_painting",
+            "value":"Oil Painting"
         },
         {
-            "name": "wash_painting",
-            "value": "Ink Wash Painting"
+            "name":"wash_painting",
+            "value":"Ink Wash Painting"
         },
         {
-            "name": "watercolour_painting",
-            "value": "Watercolor"
+            "name":"watercolour_painting",
+            "value":"Watercolor"
         },
         {
-            "name": "line_art",
-            "value": "Line Art"
+            "name":"line_art",
+            "value":"Line Art"
         },
         {
-            "name": "illustration",
-            "value": "Illustration"
+            "name":"illustration",
+            "value":"Illustration"
         },
         {
-            "name": "realistic_painting",
-            "value": "Realism"
+            "name":"realistic_painting",
+            "value":"Realism"
         },
         {
-            "name": "line_drawing",
-            "value": "Line Drawing"
+            "name":"line_drawing",
+            "value":"Line Drawing"
         },
         {
-            "name": "chibi_art",
-            "value": "Chibi Art"
+            "name":"chibi_art",
+            "value":"Chibi Art"
         },
         {
-            "name": "comic_strip",
-            "value": "Comic Strip"
+            "name":"comic_strip",
+            "value":"Comic Strip"
         },
         {
-            "name": "blind_box",
-            "value": "Blind Box"
+            "name":"blind_box",
+            "value":"Blind Box"
         },
         {
-            "name": "chalk_drawing",
-            "value": "Chalk Drawing"
+            "name":"chalk_drawing",
+            "value":"Chalk Drawing"
         },
         {
-            "name": "cyberpunk",
-            "value": "Cyberpunk"
+            "name":"cyberpunk",
+            "value":"Cyberpunk"
         },
         {
-            "name": "sketch_drawing",
-            "value": "Sketch"
+            "name":"sketch_drawing",
+            "value":"Sketch"
         },
         {
-            "name": "impressionist_painting",
-            "value": "Impressionism"
+            "name":"impressionist_painting",
+            "value":"Impressionism"
         },
         {
-            "name": "classical_painting",
-            "value": "Classicism"
+            "name":"classical_painting",
+            "value":"Classicism"
         },
         {
-            "name": "renaissance_painting",
-            "value": "Renaissance"
+            "name":"renaissance_painting",
+            "value":"Renaissance"
         },
         {
-            "name": "grass_weaving_painting",
-            "value": "Grass Weaving"
+            "name":"grass_weaving_painting",
+            "value":"Grass Weaving"
         },
         {
-            "name": "plush_painting",
-            "value": "Plush"
+            "name":"plush_painting",
+            "value":"Plush"
         },
         {
-            "name": "resin_painting",
-            "value": "Resin"
+            "name":"resin_painting",
+            "value":"Resin"
         },
         {
-            "name": "clay_painting",
-            "value": "Clay"
+            "name":"clay_painting",
+            "value":"Clay"
         },
         {
-            "name": "transparent_painting",
-            "value": "Transparent"
+            "name":"transparent_painting",
+            "value":"Transparent"
         },
         {
-            "name": "anime_and_manga",
-            "value": "Anime & Manga"
+            "name":"anime_and_manga",
+            "value":"Anime & Manga"
         },
         {
-            "name": "completed",
-            "value": "Completed"
+            "name":"completed",
+            "value":"Completed"
         },
         {
-            "name": "generation_failed",
-            "value": "Generation Failed"
+            "name":"generation_failed",
+            "value":"Generation Failed"
         },
         {
-            "name": "ai_generated",
-            "value": "AI Generating"
+            "name":"ai_generated",
+            "value":"AI Generating"
         },
         {
-            "name": "minimize",
-            "value": "Minimize"
+            "name":"minimize",
+            "value":"Minimize"
         },
         {
-            "name": "dialog_close",
-            "value": "Close"
+            "name":"dialog_close",
+            "value":"Close"
         },
         {
-            "name": "start_generating",
-            "value": "Generate"
+            "name":"start_generating",
+            "value":"Generate",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "canvas_textiput_placeholder",
-            "value": "Describe what you want to create"
+            "name":"canvas_textiput_placeholder",
+            "value":"Describe what you want to create",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "text_polishing",
-            "value": "Text Polishing"
+            "name":"text_polishing",
+            "value":"Polish text",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "maintain_the_layout",
-            "value": "Maintain Layout"
+            "name":"maintain_the_layout",
+            "value":"Keep layout",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "sticker_effect",
-            "value": "Sticker Effect"
+            "name":"sticker_effect",
+            "value":"Sticker effects",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "maintain_the_layout_keyword",
-            "value": "Maintain the positional relationship of input graphics"
+            "name":"maintain_the_layout_keyword",
+            "value":"Preserve the layout of graphical elements",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "sticker_effect_keyword",
-            "value": "Sticker effect with white outline"
+            "name":"sticker_effect_keyword",
+            "value":"Create sticker with white outline",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "ai_thinking",
-            "value": "Thinking"
+            "name":"ai_thinking",
+            "value":"Thinking…",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "deep_thinking_results",
-            "value": "Deep Thinking"
+            "name":"deep_thinking_results",
+            "value":"Deep think",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "content_generated_by_ai",
-            "value": "Content Generated by AI"
+            "name":"content_generated_by_ai",
+            "value":"Content generated by AI",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "use_the_polished_results",
-            "value": "Use Polished Results"
+            "name":"use_the_polished_results",
+            "value":"Use polished text",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "canvas_waiting_for_operation_prompt_words",
-            "value": "Add images or doodles to create"
+            "name":"canvas_waiting_for_operation_prompt_words",
+            "value":"Turn images or sketches into works of art",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "canvas_operation_prompt_words",
-            "value": "Edit image position by pinch-to-zoom and rotate"
+            "name":"canvas_operation_prompt_words",
+            "value":"Pinch or rotate fingers to edit image position",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "re_edit",
-            "value": "Re-edit"
+            "name":"re_edit",
+            "value":"Re-edit",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "continue_creating",
-            "value": "Continue Creating"
+            "name":"continue_creating",
+            "value":"Continue creating",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "add_to_stickers",
-            "value": "Add to Stickers"
+            "name":"add_to_stickers",
+            "value":"Add to stickers",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "insert_into_notes",
-            "value": "Insert into Notes"
+            "name":"insert_into_notes",
+            "value":"Insert into note",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "start_graffiti",
-            "value": "Doodle"
+            "name":"start_graffiti",
+            "value":"Doodle",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "abandon_all_changes",
-            "value": "Discard all changes?"
+            "name":"abandon_all_changes",
+            "value":"Discard changes?",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "abandon_changes",
-            "value": "Discard Changes"
+            "name":"abandon_changes",
+            "value":"Discard",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "cancel_the_district",
-            "value": "Cancel Selection"
+            "name":"cancel_the_district",
+            "value":"Deselect",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "regional_life_image",
-            "value": "Regional Image Generation"
+            "name":"regional_life_image",
+            "value":"Select",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "selection_operation_prompt_words",
-            "value": "Circle the area you want to adjust, add text description for image generation"
+            "name":"selection_operation_prompt_words",
+            "value":"Select area to adjust, then enter description to generate image",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "reporting_results",
-            "value": "Report"
+            "name":"reporting_results",
+            "value":"Report",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "complaint_result",
-            "value": "Complaint"
+            "name":"complaint_result",
+            "value":"Complaint"
         },
         {
-            "name": "prompt_for_exceeding_the_node_limit",
-            "value": "Node count exceeds 100. Please clear the canvas and try again."
+            "name":"prompt_for_exceeding_the_node_limit",
+            "value":"Node count exceeds 100. Please clear the canvas and try again."
         },
         {
-            "name": "image_reference",
-            "value": "Image Reference"
+            "name":"image_reference",
+            "value":"Image Reference"
         },
         {
-            "name": "replace_graffiti",
-            "value": "Replace Doodle"
+            "name":"replace_graffiti",
+            "value":"Replace Doodle"
         },
         {
-            "name": "creating_through_hand_drawn_graffiti",
-            "value": "Create through hand-drawn doodles"
+            "name":"creating_through_hand_drawn_graffiti",
+            "value":"Create through hand-drawn doodles"
         },
         {
-            "name": "graffiti_color",
-            "value": "Color"
+            "name":"graffiti_color",
+            "value":"Color"
         },
         {
-            "name": "edit_graffiti",
-            "value": "Edit Doodle"
+            "name":"edit_graffiti",
+            "value":"Edit Doodle"
         },
         {
-            "name": "image_generation",
-            "value": "Image Generation"
+            "name":"image_generation",
+            "value":"Image Generation"
         },
         {
-            "name": "raw_image_ratio",
-            "value": "Raw Image Ratio"
+            "name":"raw_image_ratio",
+            "value":"Raw Image Ratio"
         },
         {
-            "name": "raw_image_clarity",
-            "value": "Raw Image Clarity"
+            "name":"raw_image_clarity",
+            "value":"Raw Image Clarity"
         },
         {
-            "name": "standard_definition_1k",
-            "value": "Standard Definition 1K"
+            "name":"standard_definition_1k",
+            "value":"Standard Definition 1K"
         },
         {
-            "name": "high_definition_2k",
-            "value": "High Definition 2K"
+            "name":"high_definition_2k",
+            "value":"High Definition 2K"
         },
         {
-            "name": "ultra_hd_4k",
-            "value": "Ultra HD 4K"
+            "name":"ultra_hd_4k",
+            "value":"Ultra HD 4K"
         },
         {
-            "name": "ai_canvas",
-            "value": "AI Canvas"
+            "name":"ai_canvas",
+            "value":"AI Canvas"
         },
         {
-            "name": "clear_canvas",
-            "value": "Clear Canvas"
+            "name":"clear_canvas",
+            "value":"Clear Canvas"
         },
         {
-            "name": "prompt_to_clear_the_canvas",
-            "value": "All history nodes on the canvas will be deleted immediately. This action cannot be undone."
+            "name":"prompt_to_clear_the_canvas",
+            "value":"All history nodes on the canvas will be deleted immediately. This action cannot be undone."
         },
         {
-            "name": "confirm_deletion",
-            "value": "Confirm Deletion"
+            "name":"confirm_deletion",
+            "value":"Confirm Deletion"
         },
         {
-            "name": "prompt_input",
-            "value": "Prompt Input"
+            "name":"prompt_input",
+            "value":"Prompt Input"
         },
         {
-            "name": "describe_what_you_want_to_create",
-            "value": "Describe what you want to create"
+            "name":"describe_what_you_want_to_create",
+            "value":"Describe what you want to create"
         },
         {
-            "name": "generated_results",
-            "value": "Generated Results"
+            "name":"generated_results",
+            "value":"Generated Results"
         },
         {
-            "name": "image_generation_from_text",
-            "value": "Text to Image"
+            "name":"image_generation_from_text",
+            "value":"Text to Image"
         },
         {
-            "name": "image_generation_from_images",
-            "value": "Image to Image"
+            "name":"image_generation_from_images",
+            "value":"Image to Image"
         },
         {
-            "name": "image_generation_from_graffiti",
-            "value": "Doodle to Image"
+            "name":"image_generation_from_graffiti",
+            "value":"Doodle to Image"
         },
         {
-            "name": "node_graph_expand",
-            "value": "AI canvas does not support external screen display, please unfold it for use."
+            "name":"node_graph_expand",
+            "value":"AI canvas does not support external screen display, please unfold it for use."
         },
         {
-            "name": "node_graph_confirm",
-            "value": "OK"
+            "name":"node_graph_confirm",
+            "value":"OK"
         },
         {
-            "name": "node_graph_save_success",
-            "value": "Save successfully"
+            "name":"node_graph_save_success",
+            "value":"Save successfully"
         },
         {
-            "name": "node_graph_save_fail",
-            "value": "Save failed"
+            "name":"node_graph_save_fail",
+            "value":"Save failed"
         },
         {
-            "name": "node_graph_graffiti_save_title",
-            "value": "Graffiti record retention"
+            "name":"node_graph_graffiti_save_title",
+            "value":"Graffiti record retention"
         },
         {
-            "name": "node_graph_confirm_save",
-            "value": "You have unsaved modifications, please confirm if you want to save them."
+            "name":"node_graph_confirm_save",
+            "value":"You have unsaved modifications, please confirm if you want to save them."
         },
         {
-            "name": "node_graph_region_select_save",
-            "value": "Regional constituency reservation"
+            "name":"node_graph_region_select_save",
+            "value":"Regional constituency reservation"
         },
         {
-            "name": "node_graph_photo_save",
-            "value": "Image has been saved to the gallery"
+            "name":"node_graph_photo_save",
+            "value":"Image has been saved to the gallery"
         },
         {
-            "name": "node_graph_standard_definition",
-            "value": "Standard Definition"
+            "name":"node_graph_standard_definition",
+            "value":"Standard Definition"
         },
         {
-            "name": "node_graph_high_definition",
-            "value": "High Definition"
+            "name":"node_graph_high_definition",
+            "value":"High Definition"
         },
         {
-            "name": "node_graph_ultra_hd",
-            "value": "Ultra High Definition"
+            "name":"node_graph_ultra_hd",
+            "value":"Ultra High Definition"
         },
         {
-            "name": "node_graph_replace_image",
-            "value": "Replace image"
+            "name":"node_graph_replace_image",
+            "value":"Replace image"
         },
         {
-            "name": "node_graph_copy_node_fail",
-            "value": "Node replication failed!"
+            "name":"node_graph_copy_node_fail",
+            "value":"Node replication failed!"
         },
         {
-            "name": "node_graph_magic_polish",
-            "value": "Magic polishing"
+            "name":"node_graph_magic_polish",
+            "value":"Magic polishing"
         },
         {
-            "name": "node_graph_ai_control_message",
-            "value": "Risk control information"
+            "name":"node_graph_ai_control_message",
+            "value":"Risk control information"
         },
         {
-            "name": "node_graph_ai_control_confirm_message",
-            "value": "Current text contains sensitive content, please confirm the input content again."
+            "name":"node_graph_ai_control_confirm_message",
+            "value":"Current text contains sensitive content, please confirm the input content again."
         },
         {
-            "name": "node_graph_reauthorization",
-            "value": "Authorization failed, please reauthorize"
+            "name":"node_graph_reauthorization",
+            "value":"Authorization failed, please reauthorize"
         },
         {
-            "name": "node_graph_selected_text_exceeds_limit",
-            "value": "The selected text exceeds the specified word limit, please revise it and try again."
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"The selected text exceeds the specified word limit, please revise it and try again."
         },
         {
-            "name": "node_graph_selected_images_exceeds_limit",
-            "value": "The number of selected images exceeds 4, please revise and try again."
+            "name":"node_graph_selected_images_exceeds_limit",
+            "value":"The number of selected images exceeds 4, please revise and try again."
         },
         {
-            "name": "node_graph_selected_image_type_invalid",
-            "value": "The selected image type does not comply with the regulations, please revise and try again."
+            "name":"node_graph_selected_image_type_invalid",
+            "value":"The selected image type does not comply with the regulations, please revise and try again."
         },
         {
-            "name": "node_graph_selected_image_dimensions_invalid",
-            "value": "The selected image size does not meet the specified requirements, please revise and try again."
+            "name":"node_graph_selected_image_dimensions_invalid",
+            "value":"The selected image size does not meet the specified requirements, please revise and try again."
         },
         {
-            "name": "node_graph_image_generation_daily_limit_reached",
-            "value": "You have reached today's image generation limit. The limit will reset tomorrow."
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"You have reached today's image generation limit. The limit will reset tomorrow."
         },
         {
-            "name": "node_graph_server_request_timeout",
-            "value": "Server request timed out, please try again later."
+            "name":"node_graph_server_request_timeout",
+            "value":"Server request timed out, please try again later."
         },
         {
-            "name": "node_graph_input_image_dimensions_invalid",
-            "value": "The input image size does not meet the specified requirements, please re-enter it."
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"The input image size does not meet the specified requirements, please re-enter it."
         },
         {
-            "name": "node_graph_selected_materials_count_exceed_limit",
-            "value": "The number of selected materials has reached the upper limit."
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"The number of selected materials has reached the upper limit."
         },
         {
-            "name": "node_graph_node_material_connection_limit_exceeded",
-            "value": "The number of connections for materials of the same type to the current node has exceeded the limit, please delete some and try again."
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"The number of connections for materials of the same type to the current node has exceeded the limit, please delete some and try again."
         },
         {
-            "name": "node_graph_image_download_failed",
-            "value": "Image download failed."
+            "name":"node_graph_image_download_failed",
+            "value":"Image download failed."
         },
         {
-            "name": "node_graph_version_mismatch",
-            "value": "Version mismatch, please upgrade and try again."
+            "name":"node_graph_version_mismatch",
+            "value":"Version mismatch, please upgrade and try again."
         },
         {
-            "name": "node_graph_server_exception",
-            "value": "Server error, please try again later."
+            "name":"node_graph_server_exception",
+            "value":"Server error, please try again later."
         },
         {
-            "name": "node_graph_generation_failed",
-            "value": "Generation failed, please try again later."
+            "name":"node_graph_generation_failed",
+            "value":"Generation failed, please try again later."
         },
         {
-            "name": "node_graph_image_generation_not_supported",
-            "value": "The current application does not support the image generation function."
+            "name":"node_graph_image_generation_not_supported",
+            "value":"The current application does not support the image generation function."
         },
         {
-            "name": "node_graph_input_violates_platform_rules",
-            "value": "The input violates the platform rules, please modify it and try again."
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"The input violates the platform rules, please modify it and try again."
         },
         {
-            "name": "node_graph_unsaved_creation_will_be_cleared_confirm_close",
-            "value": "Unsaved creation results will be deleted. Are you sure you want to close?"
+            "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
+            "value":"Unsaved creation results will be deleted. Are you sure you want to close?"
         },
         {
-            "name": "node_graph_saved_to_gallery",
-            "value": "Saved to the gallery."
+            "name":"node_graph_saved_to_gallery",
+            "value":"Saved to the gallery."
         },
         {
-            "name": "node_graph_added_to_notes",
-            "value": "Added to notes."
+            "name":"node_graph_added_to_notes",
+            "value":"Added to notes."
         },
         {
-            "name": "node_graph_added_to_stickers",
-            "value": "Added to stickers."
+            "name":"node_graph_added_to_stickers",
+            "value":"Added to stickers."
         },
         {
-            "name": "node_graph_image_generation_task_incomplete_confirm_exit",
-            "value": "Your image generation task is not yet complete. Exiting canvas mode will terminate the task. Do you wish to continue?"
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"Your image generation task is not yet complete. Exiting canvas mode will terminate the task. Do you wish to continue?"
         },
         {
-            "name": "node_graph_image_replacement_cannot_preserve_operations",
-            "value": "Replacing the image will not preserve the operations."
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"Replacing the image will not preserve the operations."
         },
         {
-            "name": "node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value": "The doodles and selections on the original image will not be preserved after the operation. Do you wish to continue?"
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"The doodles and selections on the original image will not be preserved after the operation. Do you wish to continue?"
         },
         {
-            "name": "node_graph_selected_text_exceeding_the_character_limit",
-            "value": "The number of selected characters exceeds 300, please modify and try again."
+            "name":"node_graph_selected_text_exceeding_the_character_limit",
+            "value":"The number of selected characters exceeds 300, please modify and try again."
         },
         {
-            "name": "node_graph_exit_will_not_preserve_creations",
+            "name":"node_graph_exit_will_not_preserve_creations",
             "value": "Exiting will not preserve your creations."
         },
         {
-            "name": "sequence_number_of_the_selected_picture",
+            "name":"sequence_number_of_the_selected_picture",
             "value": "Figure%d"
         }
     ]
