@@ -3059,6 +3059,26 @@
         {
             "name":"sequence_number_of_the_selected_picture",
             "value": "Figure%d"
+        },
+        {
+            "name": "node_graph_material_type_invalid",
+            "value": "The material type does not comply with the regulations."
+        },
+        {
+            "name": "node_graph_material_dimensions_invalid",
+            "value": "The material dimensions do not comply with the regulations."
+        },
+        {
+            "name": "node_graph_resource_download_failed",
+            "value": "Resource download failed."
+        },
+        {
+            "name": "node_graph_text_length_limit_reached",
+            "value": "The text length limit has been reached.."
+        },
+        {
+            "name": "node_graph_material_drag_and_drop_failed",
+            "value": "Material drag-and-drop failed."
         }
     ]
 }

@@ -38401,6 +38401,31 @@
             "type": "color",
             "name": "node_graph_selected_font_color",
             "order": 7608
+        },
+        {
+            "type": "string",
+            "name": "node_graph_material_type_invalid",
+            "order": 7609
+        },
+        {
+            "type": "string",
+            "name": "node_graph_material_dimensions_invalid",
+            "order": 7610
+        },
+        {
+            "type": "string",
+            "name": "node_graph_resource_download_failed",
+            "order": 7611
+        },
+        {
+            "type": "string",
+            "name": "node_graph_text_length_limit_reached",
+            "order": 7612
+        },
+        {
+            "type": "string",
+            "name": "node_graph_material_drag_and_drop_failed",
+            "order": 7613
         }
     ]
 }
