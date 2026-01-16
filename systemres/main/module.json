@@ -6655,7 +6655,16 @@
                 "deprecated": "",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
- 	        }
+ 	        },
+            {
+                "name": "ohos.permission.ACCESS_MINI_SYSTEM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            }
         ]
     }
 }
