@@ -1994,6 +1994,391 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_standard_definition",
+            "value":"Standard",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"chibi_art",
+            "value":"Mignon",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"standard_definition_1k",
+            "value":"SD (1K)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"wash_painting",
+            "value":"Lavis à l'encre",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"grass_weaving_painting",
+            "value":"Tressage de la paille",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ultra_hd_4k",
+            "value":"Ultra HD (4K)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"prompt_to_clear_the_canvas",
+            "value":"Cela retirera tous les nœuds de la toile, cette opération est irréversible.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"describe_what_you_want_to_create",
+            "value":"Description de ce que vous souhaitez créer",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"plush_painting",
+            "value":"Peluche",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"confirm_deletion",
+            "value":"Effacer",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"realistic_painting",
+            "value":"Réaliste",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_ratio",
+            "value":"Format d'image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"edit_graffiti",
+            "value":"Modifier le gribouillage",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_save_fail",
+            "value":"L'enregistrement a échoué.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_save_success",
+            "value":"Enregistré.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_ultra_hd",
+            "value":"Ultra haute",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"high_definition_2k",
+            "value":"HD (2K)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"cyberpunk",
+            "value":"Cyberpunk",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_copy_node_fail",
+            "value":"La copie du nœud a échoué.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"chalk_drawing",
+            "value":"Crayon",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"clear_canvas",
+            "value":"Effacer la toile ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"clay_painting",
+            "value":"En argile",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_photo_save",
+            "value":"Enregistré dans Galerie.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_reference",
+            "value":"Image de référence",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"comic_strip",
+            "value":"Bande dessinée",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"generated_results",
+            "value":"Résultats de la génération",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"illustration",
+            "value":"Illustration",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_replace_image",
+            "value":"Remplacer l'image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_expand",
+            "value":"Le mode avancé n'est pas disponible sur l'Écran de couverture. Veuillez déplier votre téléphone pour pouvoir l'utiliser.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"impressionist_painting",
+            "value":"Impresionisme",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"anime_and_manga",
+            "value":"Animé",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_from_text",
+            "value":"Transformer du texte en image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"oil_painting",
+            "value":"Peinture à l'huile",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation",
+            "value":"Génération de l'image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"graffiti_color",
+            "value":"Couleur",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"resin_painting",
+            "value":"Résine",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"watercolour_painting",
+            "value":"Aquarelle",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"raw_image_ratio",
+            "value":"Format d'image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"prompt_input",
+            "value":"Saisir l'invite",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_high_definition",
+            "value":"Haute",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_canvas",
+            "value":"Mode avancé",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"prompt_for_exceeding_the_node_limit",
+            "value":"Maximum de %d nœuds atteint. Veuillez en retirer quelques-uns, puis réessayez.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"line_drawing",
+            "value":"Dessin au trait",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_from_images",
+            "value":"Transformer une image en image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_style",
+            "value":"Style",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_clarity",
+            "value":"Qualité",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sketch_drawing",
+            "value":"Esquisse",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"renaissance_painting",
+            "value":"Renaissance",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"classical_painting",
+            "value":"Classique",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"blind_box",
+            "value":"Boîte mystère",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_from_graffiti",
+            "value":"Transformer un gribouillage en image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"inspiration_canvas",
+            "value":"Toiles intelligentes",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"transparent_painting",
+            "value":"Transparent",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"raw_image_clarity",
+            "value":"Qualité",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

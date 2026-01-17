@@ -1835,6 +1835,226 @@
         {
             "name":"sticker_effect",
             "value":"[TS_1160838]_Sticker effects"
+        },
+        {
+            "name":"node_graph_standard_definition",
+            "value":"[TS_1166278]_Standard"
+        },
+        {
+            "name":"chibi_art",
+            "value":"[TS_1160825]_Cute"
+        },
+        {
+            "name":"standard_definition_1k",
+            "value":"[TS_1160804]_SD (1K)"
+        },
+        {
+            "name":"wash_painting",
+            "value":"[TS_1160807]_Ink wash"
+        },
+        {
+            "name":"grass_weaving_painting",
+            "value":"[TS_1160816]_Straw weaving"
+        },
+        {
+            "name":"ultra_hd_4k",
+            "value":"[TS_1160853]_Ultra HD (4K)"
+        },
+        {
+            "name":"prompt_to_clear_the_canvas",
+            "value":"[TS_1160808]_This will remove all nodes from the canvas and cannot be undone."
+        },
+        {
+            "name":"describe_what_you_want_to_create",
+            "value":"[TS_1160833]_Describe what you want to create"
+        },
+        {
+            "name":"plush_painting",
+            "value":"[TS_1160797]_Plush"
+        },
+        {
+            "name":"confirm_deletion",
+            "value":"[TS_1160785]_Clear"
+        },
+        {
+            "name":"realistic_painting",
+            "value":"[TS_1160800]_Realistic"
+        },
+        {
+            "name":"image_ratio",
+            "value":"[TS_1160794]_Aspect ratio"
+        },
+        {
+            "name":"edit_graffiti",
+            "value":"[TS_1160855]_Edit doodle"
+        },
+        {
+            "name":"node_graph_save_fail",
+            "value":"[TS_1166285]_Unable to save."
+        },
+        {
+            "name":"node_graph_save_success",
+            "value":"[TS_1166291]_Saved."
+        },
+        {
+            "name":"node_graph_ultra_hd",
+            "value":"[TS_1166284]_Ultra high"
+        },
+        {
+            "name":"high_definition_2k",
+            "value":"[TS_1160810]_HD (2K)"
+        },
+        {
+            "name":"cyberpunk",
+            "value":"[TS_1160801]_Cyberpunk"
+        },
+        {
+            "name":"node_graph_copy_node_fail",
+            "value":"[TS_1166286]_Unable to copy node."
+        },
+        {
+            "name":"chalk_drawing",
+            "value":"[TS_1160835]_Crayon"
+        },
+        {
+            "name":"clear_canvas",
+            "value":"[TS_1160841]_Clear canvas?"
+        },
+        {
+            "name":"clay_painting",
+            "value":"[TS_1160806]_Earthen"
+        },
+        {
+            "name":"node_graph_photo_save",
+            "value":"[TS_1166281]_Saved to Gallery."
+        },
+        {
+            "name":"image_reference",
+            "value":"[TS_1160850]_Reference image"
+        },
+        {
+            "name":"comic_strip",
+            "value":"[TS_1160849]_Comic strip"
+        },
+        {
+            "name":"generated_results",
+            "value":"[TS_1160815]_Generation result"
+        },
+        {
+            "name":"illustration",
+            "value":"[TS_1160863]_Illustration"
+        },
+        {
+            "name":"node_graph_replace_image",
+            "value":"[TS_1166288]_Replace image"
+        },
+        {
+            "name":"node_graph_expand",
+            "value":"[TS_1166282]_Advanced mode is not available on the cover screen. Unfold your phone to use it."
+        },
+        {
+            "name":"node_graph_confirm",
+            "value":"[TS_1166292]_OK"
+        },
+        {
+            "name":"impressionist_painting",
+            "value":"[TS_1160845]_Impressionist"
+        },
+        {
+            "name":"anime_and_manga",
+            "value":"[TS_1160788]_Anime"
+        },
+        {
+            "name":"image_generation_from_text",
+            "value":"[TS_1160787]_Text to image"
+        },
+        {
+            "name":"oil_painting",
+            "value":"[TS_1160856]_Oil painting"
+        },
+        {
+            "name":"image_generation",
+            "value":"[TS_1160805]_Image generation"
+        },
+        {
+            "name":"graffiti_color",
+            "value":"[TS_1160818]_Color"
+        },
+        {
+            "name":"resin_painting",
+            "value":"[TS_1160851]_Resin"
+        },
+        {
+            "name":"watercolour_painting",
+            "value":"[TS_1160789]_Watercolor"
+        },
+        {
+            "name":"raw_image_ratio",
+            "value":"[TS_1160864]_Aspect ratio"
+        },
+        {
+            "name":"prompt_input",
+            "value":"[TS_1160796]_Enter prompt"
+        },
+        {
+            "name":"node_graph_high_definition",
+            "value":"[TS_1166283]_High"
+        },
+        {
+            "name":"ai_canvas",
+            "value":"[TS_1160859]_Advanced mode"
+        },
+        {
+            "name":"prompt_for_exceeding_the_node_limit",
+            "value":"[TS_1160836]_Maximum of %d nodes reached. Please remove some and try again."
+        },
+        {
+            "name":"line_drawing",
+            "value":"[TS_1160867]_Line drawing"
+        },
+        {
+            "name":"image_generation_from_images",
+            "value":"[TS_1160840]_Image to image"
+        },
+        {
+            "name":"image_style",
+            "value":"[TS_1160834]_Style"
+        },
+        {
+            "name":"image_clarity",
+            "value":"[TS_1160831]_Quality"
+        },
+        {
+            "name":"sketch_drawing",
+            "value":"[TS_1160828]_Sketch"
+        },
+        {
+            "name":"renaissance_painting",
+            "value":"[TS_1160830]_Renaissance"
+        },
+        {
+            "name":"classical_painting",
+            "value":"[TS_1160865]_Classical"
+        },
+        {
+            "name":"blind_box",
+            "value":"[TS_1160862]_Blind box"
+        },
+        {
+            "name":"image_generation_from_graffiti",
+            "value":"[TS_1160826]_Doodle to image"
+        },
+        {
+            "name":"inspiration_canvas",
+            "value":"[TS_1160860]_Smart canvas"
+        },
+        {
+            "name":"transparent_painting",
+            "value":"[TS_1160820]_Transparent"
+        },
+        {
+            "name":"raw_image_clarity",
+            "value":"[TS_1160786]_Quality"
         }
     ]
 }

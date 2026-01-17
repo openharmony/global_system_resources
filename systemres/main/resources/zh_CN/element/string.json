@@ -2362,31 +2362,52 @@
         },
         {
             "name":"inspiration_canvas",
-            "value":"灵感画布"
+            "value":"灵感画布",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_ratio",
-            "value":"比例"
+            "value":"比例",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_clarity",
-            "value":"清晰度"
+            "value":"清晰度",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_style",
-            "value":"风格"
+            "value":"风格",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"oil_painting",
-            "value":"油画"
+            "value":"油画",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"wash_painting",
-            "value":"水墨画"
+            "value":"水墨画",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"watercolour_painting",
-            "value":"水彩"
+            "value":"水彩",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"line_art",
@@ -2394,75 +2415,129 @@
         },
         {
             "name":"illustration",
-            "value":"插画"
+            "value":"插画",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"realistic_painting",
-            "value":"写实"
+            "value":"写实",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"line_drawing",
-            "value":"线描"
+            "value":"线描",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"chibi_art",
-            "value":"Q版"
+            "value":"Q 版",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"comic_strip",
-            "value":"分格漫画"
+            "value":"分格漫画",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"blind_box",
-            "value":"盲盒"
+            "value":"盲盒",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"chalk_drawing",
-            "value":"蜡笔画"
+            "value":"蜡笔画",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"cyberpunk",
-            "value":"赛博朋克"
+            "value":"赛博朋克",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"sketch_drawing",
-            "value":"速写"
+            "value":"速写",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"impressionist_painting",
-            "value":"印象派"
+            "value":"印象派",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"classical_painting",
-            "value":"古典主义"
+            "value":"古典主义",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"renaissance_painting",
-            "value":"文艺复兴"
+            "value":"文艺复兴",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"grass_weaving_painting",
-            "value":"草编"
+            "value":"草编",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"plush_painting",
-            "value":"毛绒"
+            "value":"毛绒",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"resin_painting",
-            "value":"树脂"
+            "value":"树脂",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"clay_painting",
-            "value":"粘土"
+            "value":"粘土",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"transparent_painting",
-            "value":"透明"
+            "value":"透明",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"anime_and_manga",
-            "value":"动漫"
+            "value":"动漫",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"completed",
@@ -2658,11 +2733,17 @@
         },
         {
             "name":"prompt_for_exceeding_the_node_limit",
-            "value":"节点数量超过100个，请清理画布后重试"
+            "value":"节点数量超过 %d 个，请清理画布后重试",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_reference",
-            "value":"图片参考"
+            "value":"图片参考",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"replace_graffiti",
@@ -2674,91 +2755,157 @@
         },
         {
             "name":"graffiti_color",
-            "value":"颜色"
+            "value":"颜色",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"edit_graffiti",
-            "value":"修改涂鸦"
+            "value":"修改涂鸦",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation",
-            "value":"图像生成"
+            "value":"图像生成",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"raw_image_ratio",
-            "value":"生图比例"
+            "value":"生图比例",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"raw_image_clarity",
-            "value":"生图清晰度"
+            "value":"生图清晰度",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"standard_definition_1k",
-            "value":"标清1k"
+            "value":"标清 1K",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"high_definition_2k",
-            "value":"高清2k"
+            "value":"高清 2K",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ultra_hd_4k",
-            "value":"超清4k"
+            "value":"超清 4K",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ai_canvas",
-            "value":"AI画布"
+            "value":"画布模式",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"clear_canvas",
-            "value":"清空画布"
+            "value":"清空画布",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"prompt_to_clear_the_canvas",
-            "value":"将立即删除画布的所有历史节点。此操作无法撤销"
+            "value":"将立即删除画布的所有历史节点。此操作无法撤销。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"confirm_deletion",
-            "value":"确认删除"
+            "value":"确认删除",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"prompt_input",
-            "value":"提示词输入"
+            "value":"提示词输入",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"describe_what_you_want_to_create",
-            "value":"描述你想要创作的内容"
+            "value":"描述您想要创作的内容",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"generated_results",
-            "value":"生成结果"
+            "value":"生成结果",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_from_text",
-            "value":"文本生图"
+            "value":"文本生图",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_from_images",
-            "value":"以图生图"
+            "value":"以图生图",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_from_graffiti",
-            "value":"涂鸦生图"
+            "value":"涂鸦生图",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_expand",
-            "value":"AI画布不支持外屏展示，请展开使用"
+            "value":"画布模式不支持外屏展示，请展开使用。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_confirm",
-            "value":"确认"
+            "value":"确认",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_save_success",
-            "value":"保存成功"
+            "value":"保存成功",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_save_fail",
-            "value":"保存失败"
+            "value":"保存失败",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_graffiti_save_title",
@@ -2774,27 +2921,45 @@
         },
         {
             "name":"node_graph_photo_save",
-            "value":"图片已保存到图库"
+            "value":"已保存至图库",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_standard_definition",
-            "value":"标清"
+            "value":"标清",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_high_definition",
-            "value":"高清"
+            "value":"高清",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_ultra_hd",
-            "value":"超清"
+            "value":"超清",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_replace_image",
-            "value":"替换图像"
+            "value":"替换图像",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_copy_node_fail",
-            "value":"复制节点失败！"
+            "value":"复制节点失败！",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_magic_polish",
@@ -2909,28 +3074,28 @@
             "value":"退出将无法保留创作"
         },
         {
-            "name": "sequence_number_of_the_selected_picture",
-            "value": "图%d"
+            "name":"sequence_number_of_the_selected_picture",
+            "value":"图%d"
         },
         {
-            "name": "node_graph_material_type_invalid",
-            "value": "素材类型不符合规定"
+            "name":"node_graph_material_type_invalid",
+            "value":"素材类型不符合规定"
         },
         {
-            "name": "node_graph_material_dimensions_invalid",
-            "value": "素材尺寸不符合规定"
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"素材尺寸不符合规定"
         },
         {
-            "name": "node_graph_resource_download_failed",
-            "value": "资源下载失败"
+            "name":"node_graph_resource_download_failed",
+            "value":"资源下载失败"
         },
         {
-            "name": "node_graph_text_length_limit_reached",
-            "value": "已达文字数量上限"
+            "name":"node_graph_text_length_limit_reached",
+            "value":"已达文字数量上限"
         },
         {
-            "name": "node_graph_material_drag_and_drop_failed",
-            "value": "拖入素材失败"
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"拖入素材失败"
         }
     ]
 }
