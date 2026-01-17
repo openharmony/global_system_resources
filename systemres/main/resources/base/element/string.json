@@ -2510,31 +2510,52 @@
         },
         {
             "name":"inspiration_canvas",
-            "value":"Inspiration Canvas"
+            "value":"Smart canvas",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_ratio",
-            "value":"Ratio"
+            "value":"Aspect ratio",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_clarity",
-            "value":"Clarity"
+            "value":"Quality",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_style",
-            "value":"Style"
+            "value":"Style",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"oil_painting",
-            "value":"Oil Painting"
+            "value":"Oil painting",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"wash_painting",
-            "value":"Ink Wash Painting"
+            "value":"Ink wash",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"watercolour_painting",
-            "value":"Watercolor"
+            "value":"Watercolor",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"line_art",
@@ -2542,75 +2563,129 @@
         },
         {
             "name":"illustration",
-            "value":"Illustration"
+            "value":"Illustration",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"realistic_painting",
-            "value":"Realism"
+            "value":"Realistic",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"line_drawing",
-            "value":"Line Drawing"
+            "value":"Line drawing",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"chibi_art",
-            "value":"Chibi Art"
+            "value":"Cute",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"comic_strip",
-            "value":"Comic Strip"
+            "value":"Comic strip",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"blind_box",
-            "value":"Blind Box"
+            "value":"Blind box",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"chalk_drawing",
-            "value":"Chalk Drawing"
+            "value":"Crayon",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"cyberpunk",
-            "value":"Cyberpunk"
+            "value":"Cyberpunk",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"sketch_drawing",
-            "value":"Sketch"
+            "value":"Sketch",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"impressionist_painting",
-            "value":"Impressionism"
+            "value":"Impressionist",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"classical_painting",
-            "value":"Classicism"
+            "value":"Classical",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"renaissance_painting",
-            "value":"Renaissance"
+            "value":"Renaissance",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"grass_weaving_painting",
-            "value":"Grass Weaving"
+            "value":"Straw weaving",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"plush_painting",
-            "value":"Plush"
+            "value":"Plush",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"resin_painting",
-            "value":"Resin"
+            "value":"Resin",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"clay_painting",
-            "value":"Clay"
+            "value":"Earthen",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"transparent_painting",
-            "value":"Transparent"
+            "value":"Transparent",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"anime_and_manga",
-            "value":"Anime & Manga"
+            "value":"Anime",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"completed",
@@ -2806,11 +2881,17 @@
         },
         {
             "name":"prompt_for_exceeding_the_node_limit",
-            "value":"Node count exceeds 100. Please clear the canvas and try again."
+            "value":"Maximum of %d nodes reached. Please remove some and try again.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_reference",
-            "value":"Image Reference"
+            "value":"Reference image",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"replace_graffiti",
@@ -2822,91 +2903,157 @@
         },
         {
             "name":"graffiti_color",
-            "value":"Color"
+            "value":"Color",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"edit_graffiti",
-            "value":"Edit Doodle"
+            "value":"Edit doodle",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation",
-            "value":"Image Generation"
+            "value":"Image generation",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"raw_image_ratio",
-            "value":"Raw Image Ratio"
+            "value":"Aspect ratio",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"raw_image_clarity",
-            "value":"Raw Image Clarity"
+            "value":"Quality",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"standard_definition_1k",
-            "value":"Standard Definition 1K"
+            "value":"SD (1K)",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"high_definition_2k",
-            "value":"High Definition 2K"
+            "value":"HD (2K)",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ultra_hd_4k",
-            "value":"Ultra HD 4K"
+            "value":"Ultra HD (4K)",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"ai_canvas",
-            "value":"AI Canvas"
+            "value":"Advanced mode",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"clear_canvas",
-            "value":"Clear Canvas"
+            "value":"Clear canvas?",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"prompt_to_clear_the_canvas",
-            "value":"All history nodes on the canvas will be deleted immediately. This action cannot be undone."
+            "value":"This will remove all nodes from the canvas and cannot be undone.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"confirm_deletion",
-            "value":"Confirm Deletion"
+            "value":"Clear",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"prompt_input",
-            "value":"Prompt Input"
+            "value":"Enter prompt",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"describe_what_you_want_to_create",
-            "value":"Describe what you want to create"
+            "value":"Describe what you want to create",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"generated_results",
-            "value":"Generated Results"
+            "value":"Generation result",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_from_text",
-            "value":"Text to Image"
+            "value":"Text to image",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_from_images",
-            "value":"Image to Image"
+            "value":"Image to image",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_from_graffiti",
-            "value":"Doodle to Image"
+            "value":"Doodle to image",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_expand",
-            "value":"AI canvas does not support external screen display, please unfold it for use."
+            "value":"Advanced mode is not available on the cover screen. Unfold your phone to use it.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_confirm",
-            "value":"OK"
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_save_success",
-            "value":"Save successfully"
+            "value":"Saved.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_save_fail",
-            "value":"Save failed"
+            "value":"Unable to save.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_graffiti_save_title",
@@ -2922,27 +3069,45 @@
         },
         {
             "name":"node_graph_photo_save",
-            "value":"Image has been saved to the gallery"
+            "value":"Saved to Gallery.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_standard_definition",
-            "value":"Standard Definition"
+            "value":"Standard",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_high_definition",
-            "value":"High Definition"
+            "value":"High",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_ultra_hd",
-            "value":"Ultra High Definition"
+            "value":"Ultra high",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_replace_image",
-            "value":"Replace image"
+            "value":"Replace image",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_copy_node_fail",
-            "value":"Node replication failed!"
+            "value":"Unable to copy node.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_magic_polish",
@@ -3054,31 +3219,31 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_creations",
-            "value": "Exiting will not preserve your creations."
+            "value":"Exiting will not preserve your creations."
         },
         {
             "name":"sequence_number_of_the_selected_picture",
-            "value": "Figure%d"
+            "value":"Figure%d"
         },
         {
-            "name": "node_graph_material_type_invalid",
-            "value": "The material type does not comply with the regulations."
+            "name":"node_graph_material_type_invalid",
+            "value":"The material type does not comply with the regulations."
         },
         {
-            "name": "node_graph_material_dimensions_invalid",
-            "value": "The material dimensions do not comply with the regulations."
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"The material dimensions do not comply with the regulations."
         },
         {
-            "name": "node_graph_resource_download_failed",
-            "value": "Resource download failed."
+            "name":"node_graph_resource_download_failed",
+            "value":"Resource download failed."
         },
         {
-            "name": "node_graph_text_length_limit_reached",
-            "value": "The text length limit has been reached.."
+            "name":"node_graph_text_length_limit_reached",
+            "value":"The text length limit has been reached.."
         },
         {
-            "name": "node_graph_material_drag_and_drop_failed",
-            "value": "Material drag-and-drop failed."
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"Material drag-and-drop failed."
         }
     ]
 }
