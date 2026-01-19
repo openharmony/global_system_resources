@@ -9072,6 +9072,10 @@
                 {
                     "name": "sheet_close",
                     "value": "$string:sheet_close"
+                },
+                {
+                    "name": "sheet_height_percent_max",
+                    "value": "$float:sheet_height_percent_max"
                 }
             ]
         },
