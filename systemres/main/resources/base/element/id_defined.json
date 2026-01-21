@@ -36360,7 +36360,8 @@
         {
             "type": "string",
             "name": "inspiration_canvas",
-            "order": 7200
+            "order": 7200,
+            "flags": "private"
         },
         {
             "type": "string",
