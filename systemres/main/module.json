@@ -4940,7 +4940,9 @@
                 "since": 14,
                 "deprecated": "",
                 "provisionEnable": true,
-                "distributedSceneEnable": false
+                "distributedSceneEnable": false,
+                "isKernelEffect": true,
+                "hasValue":false
             },
             {
                 "name": "ohos.permission.kernel.ALLOW_WRITABLE_CODE_MEMORY",
@@ -4949,7 +4951,9 @@
                 "since": 14,
                 "deprecated": "",
                 "provisionEnable": true,
-                "distributedSceneEnable": false
+                "distributedSceneEnable": false,
+                "isKernelEffect": true,
+                "hasValue":false
             },
             {
                 "name": "ohos.permission.MANAGE_UDMF_APP_SHARE_OPTION",
