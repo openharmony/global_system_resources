@@ -10018,6 +10018,19 @@
                     "value": "$string:document"
                 }
             ]
+        },
+        {
+            "name": "ohos_corner_mark_pattern",
+            "value": [
+                {
+                    "name": "corner_radius_mark",
+                    "value": "$float:ohos_id_corner_radius_mark"
+                },
+                {
+                    "name": "text_size_body",
+                    "value": "$float:ohos_id_text_size_body2"
+                }
+            ]
         }
     ]
 }
