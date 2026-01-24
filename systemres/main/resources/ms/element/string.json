@@ -2323,6 +2323,125 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"Gantikan imej?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_generation_failed",
+            "value":"Tidak dapat dijanakan. Cuba sebentar lagi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_exception",
+            "value":"Ralat pelayan. Cuba sebentar lagi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_request_timeout",
+            "value":"Permohonan pelayan tamat masa. Cuba sebentar lagi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"Terlalu banyak item jenis yang sama disambungkan ke nod ini. Padamkan sesetengah dahulu.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"Kandungan yang dimasukkan tidak sah. Edit dan cuba lagi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"Dimensi item tidak disokong.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"Conteng dan pemilihan yang anda buat dalam imej asal akan dibuang.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_resource_download_failed",
+            "value":"Muat turun sumber gagal.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_text_length_limit_reached",
+            "value":"Had aksara dicapai.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"Bilangan maksimum item dipilih.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_type_invalid",
+            "value":"Jenis item tidak disokong.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"Teks yang dipilih melebihi had aksara. Pilih kurang aksara dan cuba lagi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"Item tidak boleh dilepaskan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"Had harian dicapai. Had akan ditetapkan semula esok.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"Dimensi imej tidak sah. Cuba imej lain.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"Penjanaan imej belum selesai. Keluar dari Mod lanjutan sekarang akan menamatkan tugas.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

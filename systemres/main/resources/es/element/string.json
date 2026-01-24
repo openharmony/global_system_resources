@@ -2365,6 +2365,125 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"¿Reemplazar la imagen?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_generation_failed",
+            "value":"Error al generar. Vuelve a intentarlo más tarde.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_exception",
+            "value":"Error de servidor. Vuelve a intentarlo más tarde.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_request_timeout",
+            "value":"Ha finalizado el tiempo de espera de la solicitud del servidor. Vuelve a intentarlo más tarde.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"Hay demasiados elementos del mismo tipo conectados a este nodo. Elimina algunos primero.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"El contenido introducido no es válido. Edítalo y vuelve a intentarlo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"No se admiten las dimensiones del elemento.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"Se descartarán los dibujos y las selecciones que hayas realizado en la imagen original.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_resource_download_failed",
+            "value":"Error al descargar el recurso.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_text_length_limit_reached",
+            "value":"Se ha alcanzado el límite de caracteres.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"Se ha seleccionado la cantidad máxima de elementos.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_type_invalid",
+            "value":"No se admite el tipo de elemento.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"El texto seleccionado supera el límite de caracteres. Selecciona menos caracteres y vuelve a intentarlo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"No se ha podido soltar el elemento.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"Se ha alcanzado el límite diario. Este se restablecerá mañana.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"Dimensiones de imagen no válidas. Prueba con otra imagen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"Aún no se ha completado la generación de la imagen. Si sales ahora del modo Avanzado, finalizará la tarea.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

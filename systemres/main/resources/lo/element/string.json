@@ -2323,6 +2323,125 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"ປ່ຽນແທນຮູບພາບບໍ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_generation_failed",
+            "value":"ບໍ່ສາມາດສ້າງໄດ້. ລອງໃໝ່ອີກໃນພາຍຫຼັງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_exception",
+            "value":"ເຊີບເວີຜິດພາດ. ລອງໃໝ່ອີກໃນພາຍຫຼັງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_request_timeout",
+            "value":"ຄຳຂໍເຊີບເວີໝົດເວລາແລ້ວ. ລອງໃໝ່ອີກໃນພາຍຫຼັງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"ມີລາຍການປະເພດດຽວກັນຫຼາຍເກີນໄປທີ່ເຊື່ອມຕໍ່ກັບໂນດນີ້. ລຶບບາງອັນກ່ອນ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"ເນື້ອຫາທີ່ປ້ອນເຂົ້າໃຊ້ບໍ່ໄດ້. ແກ້ໄຂ ແລະ ລອງໃໝ່ອີກຄັ້ງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"ຂະໜາດລາຍການບໍ່ຖືກຮອງຮັບ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"ການແຕ້ມຫຼິ້ນ ແລະ ການເລືອກທີ່ທ່ານເຮັດໃນຮູບພາບຕົ້ນສະບັບຈະຖືກລຶບຖິ້ມ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_resource_download_failed",
+            "value":"ການດາວໂຫຼດຊັບພະຍາກອນບໍ່ສຳເລັດ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_text_length_limit_reached",
+            "value":"ຮອດຂີດຈຳກັດຕົວອັກຂະລະແລ້ວ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"ເລືອກລາຍການຮອດຈຳນວນສູງສຸດແລ້ວ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_type_invalid",
+            "value":"ປະເພດລາຍການບໍ່ຖືກຮອງຮັບ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"ຂໍ້ຄວາມທີ່ເລືອກແລ້ວເກີນຂີດຈຳກັດຕົວອັກຂະລະແລ້ວ. ເລືອກຕົວອັກຂະລະໜ້ອຍລົງ ແລະ ລອງໃໝ່ອີກ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"ບໍ່ສາມາດວາງລາຍການໄດ້.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"ຮອດຂີດຈຳກັດປະຈຳວັນແລ້ວ. ຂີດຈຳກັດຈະຖືກຕັ້ງຄ່າຄືນໃນມື້ອື່ນ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"ຂະໜາດຮູບພາບໃຊ້ບໍ່ໄດ້. ລອງຮູບພາບອື່ນ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"ການສ້າງຮູບພາບຍັງບໍ່ທັນສຳເລັດເທື່ອ. ການອອກໂໝດຂັ້ນສູງຕອນນີ້ຈະສິ້ນສຸດໜ້າວຽກ.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

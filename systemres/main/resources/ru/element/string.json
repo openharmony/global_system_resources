@@ -2365,6 +2365,125 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"Заменить изображение?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_generation_failed",
+            "value":"Сбой генерации. Повторите попытку позже.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_exception",
+            "value":"Ошибка сервера. Повторите попытку позже.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_request_timeout",
+            "value":"Тайм-аут запроса сервера. Повторите попытку позже.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"К этому элементу подключено слишком много элементов одного типа. Сначала удалите ненужные.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"Введен недействительный контент. Измените и повторите попытку.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"Элемент такого размера не поддерживается.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"Рисунки и выделения, которые вы сделали в исходном изображении, не будут сохранены.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_resource_download_failed",
+            "value":"Сбой загрузки ресурсов.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_text_length_limit_reached",
+            "value":"Достигнуто максимальное количество символов.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"Выбрано максимальное количество элементов.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_type_invalid",
+            "value":"Такой тип элемента не поддерживается.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"Длина выбранного текста превышает лимит символов. Выберите меньше символов и повторите попытку.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"Невозможно перенести элемент.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"Достигнут ежедневный лимит. Лимит будет обнулен завтра.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"Недействительный размер изображения. Попробуйте другое изображение.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"Генерация изображения еще не завершена. Если вы выйдете из Расширенного режима сейчас, задача будет завершена.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

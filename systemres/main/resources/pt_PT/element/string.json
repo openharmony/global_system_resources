@@ -2323,6 +2323,125 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"Substituir imagem?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_generation_failed",
+            "value":"Não é possível gerar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_exception",
+            "value":"Erro do servidor.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_request_timeout",
+            "value":"Excedido o tempo limite do pedido do servidor.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"Demasiados itens do mesmo tipo ligados a este nó.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"Conteúdo inválido introduzido.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"As dimensões do item não são suportadas.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"Os desenhos e as seleções feitas na imagem original serão eliminados.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_resource_download_failed",
+            "value":"Falha ao transferir o recurso.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_text_length_limit_reached",
+            "value":"Atingido o limite de caracteres.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"Atingido o máximo de itens selecionados.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_type_invalid",
+            "value":"O tipo de item não é suportado.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"O texto selecionado excede o limite de caracteres. Selecione menos caracteres e tente novamente.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"Não foi possível largar o item.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"Limite diário atingido.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"Dimensões de imagem inválidas.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"A geração de imagens ainda não está concluída. Sair do modo avançado agora irá terminar a tarefa.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

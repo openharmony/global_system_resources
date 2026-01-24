@@ -2323,6 +2323,125 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"แทนที่รูปภาพหรือไม่",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_generation_failed",
+            "value":"ไม่สามารถสร้างได้ ลองอีกครั้งในภายหลัง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_exception",
+            "value":"เซิร์ฟเวอร์เกิดข้อผิดพลาด ลองอีกครั้งในภายหลัง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_request_timeout",
+            "value":"คำขอเซิร์ฟเวอร์หมดเวลาแล้ว ลองอีกครั้งในภายหลัง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"มีรายการประเภทเดียวกันเชื่อมต่อกับโหนดนี้มากเกินไป ลบบางส่วนออกก่อน",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"ข้อมูลที่กรอกไม่ถูกต้อง แก้ไขและลองอีกครั้ง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"ไม่รองรับขนาดของรายการ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"การขีดเขียนและการเลือกที่คุณทำไว้ในรูปภาพต้นฉบับจะถูกลบทิ้ง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_resource_download_failed",
+            "value":"การดาวน์โหลดทรัพยากรล้มเหลว",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_text_length_limit_reached",
+            "value":"ถึงขีดจำกัดจำนวนอักขระแล้ว",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"เลือกรายการครบจำนวนสูงสุดแล้ว",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_type_invalid",
+            "value":"ไม่รองรับประเภทของรายการ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"ข้อความที่เลือกมีจำนวนอักขระเกินขีดจำกัด เลือกจำนวนอักขระให้น้อยลงและลองอีกครั้ง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"ไม่สามารถวางรายการได้",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"ถึงขีดจำกัดรายวันแล้ว ขีดจำกัดจะถูกรีเซ็ตในวันพรุ่งนี้",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"ขนาดของรูปภาพไม่ถูกต้อง ลองรูปภาพอื่น",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"การสร้างรูปภาพยังไม่เสร็จสมบูรณ์ การออกจากโหมดขั้นสูงในตอนนี้จะสิ้นสุดการทำงาน",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -2323,6 +2323,125 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"Bild ersetzen?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_generation_failed",
+            "value":"Generieren nicht möglich. Versuchen Sie es später erneut.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_exception",
+            "value":"Serverfehler. Versuchen Sie es später erneut.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_request_timeout",
+            "value":"Zeitüberschreitung bei der Serveranfrage. Versuchen Sie es später erneut.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"Mit diesem Knoten sind zu viele Elemente desselben Typs verbunden. Löschen Sie zuerst einige.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"Eingegebener Inhalt ist ungültig. Bearbeiten Sie ihn und versuchen Sie es erneut.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"Die Abmessungen des Elements werden nicht unterstützt.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"Ihre Zeichnungen und ausgewählten Elemente im Originalbild werden verworfen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_resource_download_failed",
+            "value":"Herunterladen von Ressourcen fehlgeschlagen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_text_length_limit_reached",
+            "value":"Zeichenlimit erreicht.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"Sie haben die maximale Anzahl an Elementen ausgewählt.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_type_invalid",
+            "value":"Elementtyp wird nicht unterstützt.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"Ausgewählter Text überschreitet das Zeichenlimit. Wählen Sie weniger Zeichen aus und versuchen Sie es erneut.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"Element konnte nicht abgelegt werden.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"Tägliches Limit erreicht. Limit wird morgen zurückgesetzt.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"Ungültige Bildabmessungen. Versuchen Sie es mit einem anderen Bild.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"Bildgenerierung ist noch nicht abgeschlossen. Beim Beenden des erweiterten Modus wird die Aufgabe beendet.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

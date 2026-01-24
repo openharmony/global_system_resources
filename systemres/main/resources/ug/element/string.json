@@ -2330,6 +2330,125 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"رەسىم ئالماشتۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_generation_failed",
+            "value":"قۇرۇلمىدى، كېيىنرەك قايتا سىناڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_exception",
+            "value":"مۇلازىمىتېردا خاتالىق كۆرۈلدى، كېيىنرەك قايتا سىناڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_request_timeout",
+            "value":"مۇلازىمىتېر تەلىپىنىڭ ۋاقتى ئېشىپ كەتتى، كېيىنرەك قايتا سىناڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"بۇ تۈگۈنگە ئۇلانغان ئوخشاش تۈرلۈك ماتېرىيال سانى چەكتىن ئارتۇق، بىر قىسىمىنى ئۆچۈرۈپ قايتا سىناڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"كىرگۈزگەن مەزمۇن سۇپا تۈزۈمىگە خىلاپ، ئۆزگەرتىپ قايتا سىناڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"ماتېرىيال چوڭلۇقى بەلگىلىمىگە ئۇيغۇن ئەمەس.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"ئەسلى رەسىمگە كىرگۈزگەن سىزما ۋە دۈگىلەك قاتارلىق ئۆزگەرتىشلەر ساقلانمايدۇ، داۋاملاشتۇرامسىز؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_resource_download_failed",
+            "value":"مەنبە چۈشمىدى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_text_length_limit_reached",
+            "value":"تېكىست ئۇزۇنلۇقى چەككە يەتتى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"ماتېرىيال سانى چەككە يەتتى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_type_invalid",
+            "value":"ماتېرىيال تۈرى بەلگىلىمىگە ئۇيغۇن ئەمەس.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"تاللىغان تېكىست چەكتىن ئارتۇق، ئۆزگەرتىپ قايتا سىناڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"ماتېرىيال سۆرەپ تاشلانمىدى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"بۈگۈنكى رەسىم قۇرۇش چېكى توشقان، ئەتە ئىشلەتسىڭىز بولىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"رەسىم ئۆلچەملىرى بەلگىلىمىگە ئۇيغۇن ئەمەس، باشقا رەسىم ئىشلىتىڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"رەسىم قۇرۇش ۋەزىپىسى پۈتمىگەن، تەگ ھالەتتىن چېكىنسىڭىز ۋەزىپە ئۈزۈلۈپ قالىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
