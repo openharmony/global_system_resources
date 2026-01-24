@@ -2681,24 +2681,12 @@
             }
         },
         {
-            "name":"completed",
-            "value":"Completed"
-        },
-        {
-            "name":"generation_failed",
-            "value":"Generation Failed"
-        },
-        {
             "name":"ai_generated",
-            "value":"AI Generating"
+            "value":"Generating %s..."
         },
         {
             "name":"minimize",
             "value":"Minimize"
-        },
-        {
-            "name":"dialog_close",
-            "value":"Close"
         },
         {
             "name":"start_generating",
@@ -2887,10 +2875,6 @@
             }
         },
         {
-            "name":"replace_graffiti",
-            "value":"Replace Doodle"
-        },
-        {
             "name":"creating_through_hand_drawn_graffiti",
             "value":"Create through hand-drawn doodles"
         },
@@ -3035,13 +3019,6 @@
             }
         },
         {
-            "name":"node_graph_save_success",
-            "value":"Saved.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_save_fail",
             "value":"Unable to save.",
             "attr":{
@@ -3055,10 +3032,6 @@
         {
             "name":"node_graph_confirm_save",
             "value":"You have unsaved modifications, please confirm if you want to save them."
-        },
-        {
-            "name":"node_graph_region_select_save",
-            "value":"Regional constituency reservation"
         },
         {
             "name":"node_graph_photo_save",
@@ -3103,36 +3076,12 @@
             }
         },
         {
-            "name":"node_graph_magic_polish",
-            "value":"Magic polishing"
-        },
-        {
-            "name":"node_graph_ai_control_message",
-            "value":"Risk control information"
-        },
-        {
-            "name":"node_graph_ai_control_confirm_message",
-            "value":"Current text contains sensitive content, please confirm the input content again."
-        },
-        {
-            "name":"node_graph_reauthorization",
-            "value":"Authorization failed, please reauthorize"
-        },
-        {
             "name":"node_graph_selected_text_exceeds_limit",
             "value":"The selected text exceeds the specified word limit, please revise it and try again."
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
             "value":"The number of selected images exceeds 4, please revise and try again."
-        },
-        {
-            "name":"node_graph_selected_image_type_invalid",
-            "value":"The selected image type does not comply with the regulations, please revise and try again."
-        },
-        {
-            "name":"node_graph_selected_image_dimensions_invalid",
-            "value":"The selected image size does not meet the specified requirements, please revise and try again."
         },
         {
             "name":"node_graph_image_generation_daily_limit_reached",
@@ -3157,10 +3106,6 @@
         {
             "name":"node_graph_image_download_failed",
             "value":"Image download failed."
-        },
-        {
-            "name":"node_graph_version_mismatch",
-            "value":"Version mismatch, please upgrade and try again."
         },
         {
             "name":"node_graph_server_exception",
@@ -3207,10 +3152,6 @@
             "value":"The doodles and selections on the original image will not be preserved after the operation. Do you wish to continue?"
         },
         {
-            "name":"node_graph_selected_text_exceeding_the_character_limit",
-            "value":"The number of selected characters exceeds 300, please modify and try again."
-        },
-        {
             "name":"node_graph_exit_will_not_preserve_creations",
             "value":"Exiting will not preserve your creations."
         },
@@ -3237,6 +3178,78 @@
         {
             "name":"node_graph_material_drag_and_drop_failed",
             "value":"Material drag-and-drop failed."
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_task",
+            "value":"Exiting will not save the task."
+        },
+        {
+            "name":"node_graph_confirm_exit",
+            "value":"Confirm exit"
+        },
+        {
+            "name":"node_graph_image_not_ready",
+            "value":"Image not ready"
+        },
+        {
+            "name":"node_graph_delete_node_will_not_preserve_task",
+            "value":"Deleting the node will not retain the tasks."
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node",
+            "value":"Your task is not yet complete. Deleting the generation node will terminate the task. Do you wish to continue?"
+        },
+        {
+            "name":"node_graph_original_ratio",
+            "value":"Original ratio"
+        },
+        {
+            "name":"node_graph_3D_cartoon",
+            "value":"3D cartoon"
+        },
+        {
+            "name":"node_graph_sketch",
+            "value":"Sketch"
+        },
+        {
+            "name":"node_graph_wash_painting",
+            "value":"Ink wash painting"
+        },
+        {
+            "name":"node_graph_ghibli",
+            "value":"Ghibli"
+        },
+        {
+            "name":"node_graph_pixel",
+            "value":"Pixel"
+        },
+        {
+            "name":"node_graph_confirm_replace_image",
+            "value":"After replacing the image, the original doodles and markings will not be retained. Do you want to continue?"
+        },
+        {
+            "name":"node_graph_confirm_replace",
+            "value":"Confirm replacement"
+        },
+        {
+            "name":"node_graph_max_prompt_node_input_length",
+            "value":"The text quantity limit has been reached."
+        },
+        {
+            "name":"node_graph_multi_region_selection",
+            "value":"Only a single image selection is supported. Please remove any extra selections before generating."
+        },
+        {
+            "name":"image_generation_restore",
+            "value":"Restore"
+        },
+        {
+            "name":"image_generation_save",
+            "value":"Go to save"
+        },
+        {
+            "name":"image_generation_image_view",
+            "value":"Image view"
         }
     ]
 }

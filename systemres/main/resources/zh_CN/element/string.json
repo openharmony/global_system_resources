@@ -2533,24 +2533,12 @@
             }
         },
         {
-            "name":"completed",
-            "value":"已完成"
-        },
-        {
-            "name":"generation_failed",
-            "value":"生成失败"
-        },
-        {
             "name":"ai_generated",
-            "value":"AI生成中"
+            "value":"AI生成中 %s..."
         },
         {
             "name":"minimize",
             "value":"最小化"
-        },
-        {
-            "name":"dialog_close",
-            "value":"关闭"
         },
         {
             "name":"start_generating",
@@ -2589,7 +2577,7 @@
         },
         {
             "name":"maintain_the_layout_keyword",
-            "value":"保持输入图形的位置关系",
+            "value":"保持输入图像的位置关系",
             "attr":{
                 "priority":"translate"
             }
@@ -2603,7 +2591,7 @@
         },
         {
             "name":"ai_thinking",
-            "value":"思考中",
+            "value":"思考中…",
             "attr":{
                 "priority":"translate"
             }
@@ -2708,7 +2696,7 @@
         },
         {
             "name":"selection_operation_prompt_words",
-            "value":"圈选想要调整的区域，添加文字描述进行生图",
+            "value":"圈选想要调整的区域，通过添加提示词输入节点进行生图",
             "attr":{
                 "priority":"translate"
             }
@@ -2737,10 +2725,6 @@
             "attr":{
                 "priority":"translate"
             }
-        },
-        {
-            "name":"replace_graffiti",
-            "value":"替换涂鸦"
         },
         {
             "name":"creating_through_hand_drawn_graffiti",
@@ -2887,13 +2871,6 @@
             }
         },
         {
-            "name":"node_graph_save_success",
-            "value":"保存成功",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_save_fail",
             "value":"保存失败",
             "attr":{
@@ -2907,10 +2884,6 @@
         {
             "name":"node_graph_confirm_save",
             "value":"您有未保存的修改，请确认是否保存"
-        },
-        {
-            "name":"node_graph_region_select_save",
-            "value":"区域选区保留"
         },
         {
             "name":"node_graph_photo_save",
@@ -2955,32 +2928,12 @@
             }
         },
         {
-            "name":"node_graph_magic_polish",
-            "value":"魔法润色"
-        },
-        {
-            "name":"node_graph_ai_control_message",
-            "value":"风控信息"
-        },
-        {
-            "name":"node_graph_ai_control_confirm_message",
-            "value":"当前文本带有敏感内容，请重新确认输入内容"
-        },
-        {
-            "name":"node_graph_reauthorization",
-            "value":"授权失败，请重新授权"
-        },
-        {
             "name":"node_graph_selected_text_exceeds_limit",
             "value":"已选文字超过规定字数，请修改后重试"
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
             "value":"已选图片数量超过4张，请修改后重试"
-        },
-        {
-            "name":"node_graph_selected_image_type_invalid",
-            "value":"已选图像类型不符合规定，请修改后重试"
         },
         {
             "name":"node_graph_selected_image_dimensions_invalid",
@@ -3009,10 +2962,6 @@
         {
             "name":"node_graph_image_download_failed",
             "value":"图片下载失败"
-        },
-        {
-            "name":"node_graph_version_mismatch",
-            "value":"版本不匹配，请升级后重试"
         },
         {
             "name":"node_graph_server_exception",
@@ -3059,10 +3008,6 @@
             "value":"操作后将不保留在原始图像上的涂鸦和圈选，是否继续"
         },
         {
-            "name":"node_graph_selected_text_exceeding_the_character_limit",
-            "value":"选择字数超过300字，请修改后重试"
-        },
-        {
             "name":"node_graph_exit_will_not_preserve_creations",
             "value":"退出将无法保留创作"
         },
@@ -3089,6 +3034,78 @@
         {
             "name":"node_graph_material_drag_and_drop_failed",
             "value":"拖入素材失败"
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_task",
+            "value":"退出将无法保留任务"
+        },
+        {
+            "name":"node_graph_confirm_exit",
+            "value":"确认退出"
+        },
+        {
+            "name":"node_graph_image_not_ready",
+            "value":"图片未就绪"
+        },
+        {
+            "name":"node_graph_delete_node_will_not_preserve_task",
+            "value":"删除节点将无法保留任务"
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node",
+            "value":"您的生图任务尚未完成，删除生成节点会终止任务，是否继续。"
+        },
+        {
+            "name":"node_graph_original_ratio",
+            "value":"原比例"
+        },
+        {
+            "name":"node_graph_3D_cartoon",
+            "value":"3D卡通"
+        },
+        {
+            "name":"node_graph_sketch",
+            "value":"素描"
+        },
+        {
+            "name":"node_graph_wash_painting",
+            "value":"水墨"
+        },
+        {
+            "name":"node_graph_ghibli",
+            "value":"吉卜力"
+        },
+        {
+            "name":"node_graph_pixel",
+            "value":"像素"
+        },
+        {
+            "name":"node_graph_confirm_replace_image",
+            "value":"替换图像后将不保留原始图像的涂鸦和圈选，是否继续。"
+        },
+        {
+            "name":"node_graph_confirm_replace",
+            "value":"确认替换"
+        },
+        {
+            "name":"node_graph_max_prompt_node_input_length",
+            "value":"已达文字数量限制"
+        },
+        {
+            "name":"node_graph_multi_region_selection",
+            "value":"仅支持单个图片设置选区，请取消多余选区后再生成。"
+        },
+        {
+            "name":"image_generation_restore",
+            "value":"还原"
+        },
+        {
+            "name":"image_generation_save",
+            "value":"去保存"
+        },
+        {
+            "name":"image_generation_image_view",
+            "value":"图像"
         }
     ]
 }
