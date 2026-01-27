@@ -3077,7 +3077,10 @@
         },
         {
             "name":"node_graph_selected_text_exceeds_limit",
-            "value":"The selected text exceeds the specified word limit, please revise it and try again."
+            "value":"Selected text exceeds character limit. Select fewer characters and try again.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
@@ -3085,23 +3088,38 @@
         },
         {
             "name":"node_graph_image_generation_daily_limit_reached",
-            "value":"You have reached today's image generation limit. The limit will reset tomorrow."
+            "value":"Daily limit reached. Limit will be reset tomorrow.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_server_request_timeout",
-            "value":"Server request timed out, please try again later."
+            "value":"Server request timed out. Try again later.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_input_image_dimensions_invalid",
-            "value":"The input image size does not meet the specified requirements, please re-enter it."
+            "value":"Invalid image dimensions. Try another image.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_selected_materials_count_exceed_limit",
-            "value":"The number of selected materials has reached the upper limit."
+            "value":"Maximum number of items selected.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"The number of connections for materials of the same type to the current node has exceeded the limit, please delete some and try again."
+            "value":"Too many items of the same type connected to this node. Delete some first.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_image_download_failed",
@@ -3109,11 +3127,17 @@
         },
         {
             "name":"node_graph_server_exception",
-            "value":"Server error, please try again later."
+            "value":"Server error. Try again later.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_generation_failed",
-            "value":"Generation failed, please try again later."
+            "value":"Unable to generate. Try again later.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_image_generation_not_supported",
@@ -3121,7 +3145,10 @@
         },
         {
             "name":"node_graph_input_violates_platform_rules",
-            "value":"The input violates the platform rules, please modify it and try again."
+            "value":"Content entered is invalid. Edit and try again.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
@@ -3141,15 +3168,24 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Your image generation task is not yet complete. Exiting canvas mode will terminate the task. Do you wish to continue?"
+            "value":"Image generation is not yet complete. Exiting Advanced mode now will end the task.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_image_replacement_cannot_preserve_operations",
-            "value":"Replacing the image will not preserve the operations."
+            "value":"Replace image?",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"The doodles and selections on the original image will not be preserved after the operation. Do you wish to continue?"
+            "value":"Doodles and selections you made in the original image will be discarded.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_exit_will_not_preserve_creations",
@@ -3161,23 +3197,38 @@
         },
         {
             "name":"node_graph_material_type_invalid",
-            "value":"The material type does not comply with the regulations."
+            "value":"Item type is not supported.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_material_dimensions_invalid",
-            "value":"The material dimensions do not comply with the regulations."
+            "value":"Item dimensions are not supported.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_resource_download_failed",
-            "value":"Resource download failed."
+            "value":"Resource download failed.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_text_length_limit_reached",
-            "value":"The text length limit has been reached.."
+            "value":"Character limit reached.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_material_drag_and_drop_failed",
-            "value":"Material drag-and-drop failed."
+            "value":"Item could not be dropped.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_exit_will_not_preserve_task",

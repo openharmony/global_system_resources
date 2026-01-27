@@ -2929,7 +2929,10 @@
         },
         {
             "name":"node_graph_selected_text_exceeds_limit",
-            "value":"已选文字超过规定字数，请修改后重试"
+            "value":"已选文字超过规定字数，请修改后重试",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
@@ -2941,23 +2944,38 @@
         },
         {
             "name":"node_graph_image_generation_daily_limit_reached",
-            "value":"您已达到今日的生图限额，限额将于明日重置"
+            "value":"您已达到今日的生图限额，限额将于明日重置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_server_request_timeout",
-            "value":"服务器请求超时，请稍后再试"
+            "value":"服务器请求超时，请稍后再试",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_input_image_dimensions_invalid",
-            "value":"输入图像尺寸不符合规定，请重新输入"
+            "value":"输入图像尺寸不符合规定，请重新输入",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_selected_materials_count_exceed_limit",
-            "value":"已选素材数量达到上限"
+            "value":"已选素材数量达到上限",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"当前节点同类型素材连接超限，请删除后重试"
+            "value":"当前节点同类型素材连接超限，请删除后重试",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_image_download_failed",
@@ -2965,11 +2983,17 @@
         },
         {
             "name":"node_graph_server_exception",
-            "value":"服务器异常，请稍后再试"
+            "value":"服务器异常，请稍后再试",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_generation_failed",
-            "value":"生成失败，请稍后再试"
+            "value":"生成失败，请稍后再试",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_image_generation_not_supported",
@@ -2977,7 +3001,10 @@
         },
         {
             "name":"node_graph_input_violates_platform_rules",
-            "value":"输入不符合平台规则，请修改后重试"
+            "value":"输入不符合平台规则，请修改后重试",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
@@ -2997,15 +3024,24 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"您的生图任务尚未完成，退出画布模式会终止任务，是否继续"
+            "value":"您的生图任务尚未完成，退出画布模式会终止任务，是否继续？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_image_replacement_cannot_preserve_operations",
-            "value":"替换图像无法保留操作"
+            "value":"替换图像无法保留操作",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"操作后将不保留在原始图像上的涂鸦和圈选，是否继续"
+            "value":"操作后将不保留在原始图像上的涂鸦和圈选，是否继续？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_exit_will_not_preserve_creations",
@@ -3017,23 +3053,38 @@
         },
         {
             "name":"node_graph_material_type_invalid",
-            "value":"素材类型不符合规定"
+            "value":"素材类型不符合规定",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_material_dimensions_invalid",
-            "value":"素材尺寸不符合规定"
+            "value":"素材尺寸不符合规定",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_resource_download_failed",
-            "value":"资源下载失败"
+            "value":"资源下载失败",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_text_length_limit_reached",
-            "value":"已达文字数量上限"
+            "value":"已达文字数量上限",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_material_drag_and_drop_failed",
-            "value":"拖入素材失败"
+            "value":"拖入素材失败",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_exit_will_not_preserve_task",

@@ -2047,6 +2047,74 @@
         {
             "name":"raw_image_clarity",
             "value":"[TS_1160786]_Quality"
+        },
+        {
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"[TS_1168865]_Replace image?"
+        },
+        {
+            "name":"node_graph_generation_failed",
+            "value":"[TS_1168860]_Unable to generate. Try again later."
+        },
+        {
+            "name":"node_graph_server_exception",
+            "value":"[TS_1168861]_Server error. Try again later."
+        },
+        {
+            "name":"node_graph_server_request_timeout",
+            "value":"[TS_1168853]_Server request timed out. Try again later."
+        },
+        {
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"[TS_1168845]_Too many items of the same type connected to this node. Delete some first."
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"[TS_1168858]_Content entered is invalid. Edit and try again."
+        },
+        {
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"[TS_1171344]_Item dimensions are not supported."
+        },
+        {
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"[TS_1168856]_Doodles and selections you made in the original image will be discarded."
+        },
+        {
+            "name":"node_graph_resource_download_failed",
+            "value":"[TS_1171342]_Resource download failed."
+        },
+        {
+            "name":"node_graph_text_length_limit_reached",
+            "value":"[TS_1171346]_Character limit reached."
+        },
+        {
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"[TS_1168854]_Maximum number of items selected."
+        },
+        {
+            "name":"node_graph_material_type_invalid",
+            "value":"[TS_1171343]_Item type is not supported."
+        },
+        {
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"[TS_1168859]_Selected text exceeds character limit. Select fewer characters and try again."
+        },
+        {
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"[TS_1171345]_Item could not be dropped."
+        },
+        {
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"[TS_1168852]_Daily limit reached. Limit will be reset tomorrow."
+        },
+        {
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"[TS_1168857]_Invalid image dimensions. Try another image."
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"[TS_1168850]_Image generation is not yet complete. Exiting Advanced mode now will end the task."
         }
     ]
 }

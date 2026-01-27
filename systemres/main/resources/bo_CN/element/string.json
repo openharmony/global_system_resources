@@ -2330,6 +2330,125 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"པར་རིས་བརྗེས་ཚེ་སྒྲིག་བཀོལ་སོར་ཉར་བྱེད་མི་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_generation_failed",
+            "value":"སྐྱེད་སྒྲུབ་བྱེད་མ་ཐུབ། ཏོག་ཙམ་ནས་ཡང་བསྐྱར་ཚོད་ལྟ་གནང་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_exception",
+            "value":"ཞབས་ཞུ་ཆས་རྒྱུན་ལྡན་མིན། ཏོག་ཙམ་ནས་བསྐྱར་དུ་ཚོད་ལྟ་གནང་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_request_timeout",
+            "value":"ཞབས་ཞུ་ཆས་ཀྱི་རེ་ཞུའི་དུས་ཚོད་ཡོལ་ཟིན། ཏོག་ཙམ་ནས་བསྐྱར་དུ་ཚོད་ལྟ་གནང་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"མིག་སྔར་རིགས་གཅིག་པའི་རྒྱུ་ཆའི་སྦྲེལ་མཐུད་ཚད་ལས་བརྒལ། བསུབས་རྗེས་ཡང་བསྐྱར་ཚོད་ལྟ་གནང་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"བཅུག་པའི་ནང་དོན་སྟེགས་བུའི་སྒྲིག་སྲོལ་དང་མི་མཐུན། བཟོ་བཅོས་བྱས་རྗེས་ཡང་བསྐྱར་ཚོད་ལྟ་གནང་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"རྒྱུ་ཆའི་ཆེ་ཆུང་གཏན་འབེབས་དང་མི་མཐུན་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"སྒྲིག་བཀོལ་བྱས་རྗེས། ཐོག་མའི་པར་རིས་ཐོག་གི་བརྐོས་རིས་དང་ཁུལ་འདེམས་སོར་ཉར་མི་བྱ། མུ་མཐུད་དམ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_resource_download_failed",
+            "value":"ཐོན་ཁུངས་ཕབ་ལེན་བྱེད་མ་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_text_length_limit_reached",
+            "value":"ཡི་གེའི་བཅད་གྲངས་སུ་སླེབས་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"བདམས་པའི་རྒྱུ་ཆའི་ཁ་གྲངས་ཚད་བཀག་ལ་སླེབས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_type_invalid",
+            "value":"རྒྱུ་ཆའི་རིགས་གཏན་འབེབས་དང་མི་མཐུན་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"བདམས་པའི་ཡི་གེ་གཏན་འབེབས་ཡིག་གྲངས་ཀྱི་ཚད་ལས་བརྒལ། བཟོ་བཅོས་བྱས་རྗེས་ཡང་བསྐྱར་ཚོད་ལྟ་གནང་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"རྒྱུ་ཆ་འདྲུད་འཇུག་བྱེད་མ་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"དེ་རིང་གི་པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་བཅད་གྲངས་ལ་སླེབས། བཅད་གྲངས་སང་ཉིན་བསྐྱར་སྒྲིག་བྱ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"བཅུག་པའི་པར་རིས་ཀྱི་ཆེ་ཆུང་གཏན་འབེབས་དང་མི་མཐུན། ཡང་བསྐྱར་འཇུག་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"ཁྱེད་ཀྱི་པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་ལས་འགན་ཚར་མེད། འབྲི་རས་རྣམ་པ་ལས་ཕྱིར་འཐེན་བྱས་ཚེ་ལས་འགན་མཚམས་འཇོག མུ་མཐུད་དམ།",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

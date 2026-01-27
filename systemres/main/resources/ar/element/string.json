@@ -2362,6 +2362,125 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_replacement_cannot_preserve_operations",
+            "value":"هل تريد استبدال الصورة؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_generation_failed",
+            "value":"يتعذر الإنشاء، يُرجى إعادة المحاولة لاحقًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_exception",
+            "value":"مشكلة في الخادم، يُرجى إعادة المحاولة لاحقًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_server_request_timeout",
+            "value":"انتهت مهلة طلب الخادم، يُرجى إعادة المحاولة لاحقًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_node_material_connection_limit_exceeded",
+            "value":"يتصل بهذه العقدة عدد كبير جدًا من العناصر المتطابقة في النوع، يُرجى أولاً حذف بعضها",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules",
+            "value":"المحتوى المُدخَل غير صالح، يُرجى تعديله وإعادة المحاولة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_dimensions_invalid",
+            "value":"أبعاد العناصر غير مدعومة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
+            "value":"سيتم تجاهل الرسومات والتحديدات التي أجريتها على الصورة الأصلية.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_resource_download_failed",
+            "value":"تعذر تنزيل المصدر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_text_length_limit_reached",
+            "value":"بلغ عدد الأحرف الحد الأقصى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_materials_count_exceed_limit",
+            "value":"بلغ عدد العناصر المُحددة الحد الأقصى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_type_invalid",
+            "value":"نوع العنصر غير مدعوم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_text_exceeds_limit",
+            "value":"يتجاوز النص المُحدد الحد الأقصى للحروف، يُرجى تحديد عدد حروف أقل وإعادة المحاولة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_material_drag_and_drop_failed",
+            "value":"تعذر إفلات العنصر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_daily_limit_reached",
+            "value":"تم بلوغ الحد اليومي، سيُعاد ضبط الحد غدًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_image_dimensions_invalid",
+            "value":"أبعاد الصورة غير صالحة، يُرجى تجربة صورة أخرى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit",
+            "value":"لم يكتمل إنشاء الصورة بعد. سيؤدي الخروج من الوضع المتقدم الآن إلى إنهاء المهمة.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
