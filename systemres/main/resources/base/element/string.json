@@ -2682,7 +2682,7 @@
         },
         {
             "name":"ai_generated",
-            "value":"Generating %s..."
+            "value":"Generating"
         },
         {
             "name":"minimize",
@@ -3084,7 +3084,7 @@
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
-            "value":"The number of selected images exceeds 4, please revise and try again."
+            "value":"Selection exceeds max of %d images. Please deselect some."
         },
         {
             "name":"node_graph_image_generation_daily_limit_reached",
@@ -3239,10 +3239,6 @@
             "value":"Confirm exit"
         },
         {
-            "name":"node_graph_image_not_ready",
-            "value":"Image not ready"
-        },
-        {
             "name":"node_graph_delete_node_will_not_preserve_task",
             "value":"Deleting the node will not retain the tasks."
         },
@@ -3301,6 +3297,166 @@
         {
             "name":"image_generation_image_view",
             "value":"Image view"
+        },
+        {
+            "name":"image_generation_region_selection_instruction",
+            "value":"Select the area you want to adjust, add text description to generate images"
+        },
+        {
+            "name":"image_generation_ai_synthesis_label",
+            "value":"AI synthesis label"
+        },
+        {
+            "name":"image_generation_help",
+            "value":"Help"
+        },
+        {
+            "name":"image_generation_watermark_close_confirm_message",
+            "value":"After closing, the watermark will be removed when saving AI-generated images"
+        },
+        {
+            "name":"image_generation_confirm_close",
+            "value":"Confirm close"
+        },
+        {
+            "name":"image_generation_watermark_add_dialog_title",
+            "value":"Add watermark"
+        },
+        {
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "value":"The image contains AI-generated content. Do you want to add an AI synthesis label? You can change this later in \"More\" > \"AI synthesis label\""
+        },
+        {
+            "name":"image_generation_remember_choice",
+            "value":"Remember my choice"
+        },
+        {
+            "name":"image_generation_add",
+            "value":"Add"
+        },
+        {
+            "name":"image_generation_do_not_add",
+            "value":"Don't add"
+        },
+        {
+            "name":"image_generation_preprocess_exception",
+            "value":"Image preprocessing error"
+        },
+        {
+            "name":"image_generation_item_count_format",
+            "value":"Item %d of %d"
+        },
+        {
+            "name":"image_generation_detail",
+            "value":"Image details"
+        },
+        {
+            "name":"image_generation_back_to_center",
+            "value":"Back to center"
+        },
+        {
+            "name":"image_generation_recover",
+            "value":"Recover"
+        },
+        {
+            "name":"image_generation_undo",
+            "value":"Undo"
+        },
+        {
+            "name":"image_generation_preview_draw_hint",
+            "value":"Preview image, double-click and hold to draw"
+        },
+        {
+            "name":"image_generation_pen_ballpoint",
+            "value":"Ballpoint pen"
+        },
+        {
+            "name":"image_generation_eraser",
+            "value":"Eraser"
+        },
+        {
+            "name":"image_generation_brush_size_small",
+            "value":"Small"
+        },
+        {
+            "name":"image_generation_brush_size_medium",
+            "value":"Medium"
+        },
+        {
+            "name":"image_generation_brush_size_large",
+            "value":"Large"
+        },
+        {
+            "name":"image_generation_eraser_size_small",
+            "value":"Small eraser"
+        },
+        {
+            "name":"image_generation_eraser_size_medium",
+            "value":"Medium eraser"
+        },
+        {
+            "name":"image_generation_eraser_size_large",
+            "value":"Large eraser"
+        },
+        {
+            "name":"image_generation_complete",
+            "value":"Complete"
+        },
+        {
+            "name":"image_generation_collapse",
+            "value":"Collapse"
+        },
+        {
+            "name":"image_generation_add_doodle_node",
+            "value":"Add doodle node"
+        },
+        {
+            "name":"image_generation_add_image_node",
+            "value":"Add image node"
+        },
+        {
+            "name":"image_generation_add_text_node",
+            "value":"Add text node"
+        },
+        {
+            "name":"image_generation_add_generator_node",
+            "value":"Add generator node"
+        },
+        {
+            "name":"image_generation_add_image",
+            "value":"Add image"
+        },
+        {
+            "name":"image_generation_add_doodle",
+            "value":"Add doodle"
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Rotation button, current angle %d degrees, adjustable from 0 to 360 degrees, double-click and hold to slide and adjust the rotation angle of the edit box"
+        },
+        {
+            "name":"image_generation_top_left_resize_handle_hint",
+            "value":"Top-left resize handle, double-click and hold to adjust the size of the edit box"
+        },
+        {
+            "name":"image_generation_top_right_resize_handle_hint",
+            "value":"Top-right resize handle, double-click and hold to adjust the size of the edit box"
+        },
+        {
+            "name":"image_generation_bottom_left_resize_handle_hint",
+            "value":"Bottom-left resize handle, double-click and hold to adjust the size of the edit box"
+        },
+        {
+            "name":"image_generation_bottom_right_resize_handle_hint",
+            "value":"Bottom-right resize handle, double-click and hold to adjust the size of the edit box"
+        },
+        {
+            "name":"image_generation_two_finger_region_selection_hint",
+            "value":"Two-finger press and drag to select area"
+        },
+        {
+            "name":"image_generation_two_finger_draw_hint",
+            "value":"Two-finger press and drag to draw"
         }
     ]
 }

@@ -2534,7 +2534,7 @@
         },
         {
             "name":"ai_generated",
-            "value":"AI生成中 %s..."
+            "value":"AI生成中"
         },
         {
             "name":"minimize",
@@ -2936,7 +2936,7 @@
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
-            "value":"已选图片数量超过4张，请修改后重试"
+            "value":"已选图片数量超过%d张，请修改后重试"
         },
         {
             "name":"node_graph_selected_image_dimensions_invalid",
@@ -3095,10 +3095,6 @@
             "value":"确认退出"
         },
         {
-            "name":"node_graph_image_not_ready",
-            "value":"图片未就绪"
-        },
-        {
             "name":"node_graph_delete_node_will_not_preserve_task",
             "value":"删除节点将无法保留任务"
         },
@@ -3157,6 +3153,166 @@
         {
             "name":"image_generation_image_view",
             "value":"图像"
+        },
+        {
+            "name":"image_generation_region_selection_instruction",
+            "value":"圈选想要调整的区域，添加文本描述进行生图"
+        },
+        {
+            "name":"image_generation_ai_synthesis_label",
+            "value":"AI合成标识"
+        },
+        {
+            "name":"image_generation_help",
+            "value":"帮助"
+        },
+        {
+            "name":"image_generation_watermark_close_confirm_message",
+            "value":"关闭后，由AI生成的图片在进行保存操作时，将去除水印标识"
+        },
+        {
+            "name":"image_generation_confirm_close",
+            "value":"确认关闭"
+        },
+        {
+            "name":"image_generation_watermark_add_dialog_title",
+            "value":"是否添加水印"
+        },
+        {
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "value":"图片包含AI合成内容，请选择是否添加  AI合成标识？选择后可在\"更多\">\"AI 合成标识\"中更改"
+        },
+        {
+            "name":"image_generation_remember_choice",
+            "value":"记住我的选择"
+        },
+        {
+            "name":"image_generation_add",
+            "value":"添加"
+        },
+        {
+            "name":"image_generation_do_not_add",
+            "value":"不添加"
+        },
+        {
+            "name":"image_generation_preprocess_exception",
+            "value":"图片预处理异常"
+        },
+        {
+            "name":"image_generation_item_count_format",
+            "value":"第%d项，共%d项"
+        },
+        {
+            "name":"image_generation_detail",
+            "value":"图片详情"
+        },
+        {
+            "name":"image_generation_back_to_center",
+            "value":"回到中心"
+        },
+        {
+            "name":"image_generation_recover",
+            "value":"恢复"
+        },
+        {
+            "name":"image_generation_undo",
+            "value":"撤销"
+        },
+        {
+            "name":"image_generation_preview_draw_hint",
+            "value":"预览图，双击并按住以绘制"
+        },
+        {
+            "name":"image_generation_pen_ballpoint",
+            "value":"圆珠笔"
+        },
+        {
+            "name":"image_generation_eraser",
+            "value":"橡皮擦"
+        },
+        {
+            "name":"image_generation_brush_size_small",
+            "value":"粗细小"
+        },
+        {
+            "name":"image_generation_brush_size_medium",
+            "value":"粗细中"
+        },
+        {
+            "name":"image_generation_brush_size_large",
+            "value":"粗细大"
+        },
+        {
+            "name":"image_generation_eraser_size_small",
+            "value":"擦除直径小"
+        },
+        {
+            "name":"image_generation_eraser_size_medium",
+            "value":"擦除直径中"
+        },
+        {
+            "name":"image_generation_eraser_size_large",
+            "value":"擦除直径大"
+        },
+        {
+            "name":"image_generation_complete",
+            "value":"完成"
+        },
+        {
+            "name":"image_generation_collapse",
+            "value":"折叠"
+        },
+        {
+            "name":"image_generation_add_doodle_node",
+            "value":"添加涂鸦节点"
+        },
+        {
+            "name":"image_generation_add_image_node",
+            "value":"添加图片节点"
+        },
+        {
+            "name":"image_generation_add_text_node",
+            "value":"添加文本节点"
+        },
+        {
+            "name":"image_generation_add_generator_node",
+            "value":"添加生成器节点"
+        },
+        {
+            "name":"image_generation_add_image",
+            "value":"添加图片"
+        },
+        {
+            "name":"image_generation_add_doodle",
+            "value":"添加涂鸦"
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"旋转按钮，当前角度%d度，可调范围0至360度，双击按住即可滑动调节编辑框旋转角度"
+        },
+        {
+            "name":"image_generation_top_left_resize_handle_hint",
+            "value":"左上角缩放控制柄，双击并按住以调节编辑框大小"
+        },
+        {
+            "name":"image_generation_top_right_resize_handle_hint",
+            "value":"右上角缩放控制柄，双击并按住以调节编辑框大小"
+        },
+        {
+            "name":"image_generation_bottom_left_resize_handle_hint",
+            "value":"左下角缩放控制柄，双击并按住以调节编辑框大小"
+        },
+        {
+            "name":"image_generation_bottom_right_resize_handle_hint",
+            "value":"右下角缩放控制柄，双击并按住以调节编辑框大小"
+        },
+        {
+            "name":"image_generation_two_finger_region_selection_hint",
+            "value":"双指按住拖动以圈选"
+        },
+        {
+            "name":"image_generation_two_finger_draw_hint",
+            "value":"双指按住拖动以绘制"
         }
     ]
 }
