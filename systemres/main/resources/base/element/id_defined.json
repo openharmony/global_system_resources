@@ -36345,7 +36345,8 @@
         {
             "type": "media",
             "name": "outline_glow",
-            "order": 7197
+            "order": 7197,
+            "flags":"private"
         },
         {
             "type": "media",
@@ -38485,7 +38486,8 @@
         {
             "type": "string",
             "name":"node_graph_image_not_ready",
-            "order": 7622
+            "order": 7622,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -38561,6 +38563,206 @@
             "type": "string",
             "name":"image_generation_image_view",
             "order": 7637
+        },
+        {
+            "type": "string",
+            "name":"image_generation_region_selection_instruction",
+            "order": 7638
+        },
+        {
+            "type": "string",
+            "name":"image_generation_ai_synthesis_label",
+            "order": 7639
+        },
+        {
+            "type": "string",
+            "name":"image_generation_help",
+            "order": 7640
+        },
+        {
+            "type": "string",
+            "name":"image_generation_watermark_close_confirm_message",
+            "order": 7641
+        },
+        {
+            "type": "string",
+            "name":"image_generation_confirm_close",
+            "order": 7642
+        },
+        {
+            "type": "string",
+            "name":"image_generation_watermark_add_dialog_title",
+            "order": 7643
+        },
+        {
+            "type": "string",
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "order": 7644
+        },
+        {
+            "type": "string",
+            "name":"image_generation_remember_choice",
+            "order": 7645
+        },
+        {
+            "type": "string",
+            "name":"image_generation_add",
+            "order": 7646
+        },
+        {
+            "type": "string",
+            "name":"image_generation_do_not_add",
+            "order": 7647
+        },
+        {
+            "type": "string",
+            "name":"image_generation_preprocess_exception",
+            "order": 7648
+        },
+        {
+            "type": "string",
+            "name":"image_generation_item_count_format",
+            "order": 7649
+        },
+        {
+            "type": "string",
+            "name":"image_generation_detail",
+            "order": 7650
+        },
+        {
+            "type": "string",
+            "name":"image_generation_back_to_center",
+            "order": 7651
+        },
+        {
+            "type": "string",
+            "name":"image_generation_recover",
+            "order": 7652
+        },
+        {
+            "type": "string",
+            "name":"image_generation_undo",
+            "order": 7653
+        },
+        {
+            "type": "string",
+            "name":"image_generation_preview_draw_hint",
+            "order": 7654
+        },
+        {
+            "type": "string",
+            "name":"image_generation_pen_ballpoint",
+            "order": 7655
+        },
+        {
+            "type": "string",
+            "name":"image_generation_eraser",
+            "order": 7656
+        },
+        {
+            "type": "string",
+            "name":"image_generation_brush_size_small",
+            "order": 7657
+        },
+        {
+            "type": "string",
+            "name":"image_generation_brush_size_medium",
+            "order": 7658
+        },
+        {
+            "type": "string",
+            "name":"image_generation_brush_size_large",
+            "order": 7659
+        },
+        {
+            "type": "string",
+            "name":"image_generation_eraser_size_small",
+            "order": 7660
+        },
+        {
+            "type": "string",
+            "name":"image_generation_eraser_size_medium",
+            "order": 7661
+        },
+        {
+            "type": "string",
+            "name":"image_generation_eraser_size_large",
+            "order": 7662
+        },
+        {
+            "type": "string",
+            "name":"image_generation_complete",
+            "order": 7663
+        },
+        {
+            "type": "string",
+            "name":"image_generation_collapse",
+            "order": 7664
+        },
+        {
+            "type": "string",
+            "name":"image_generation_add_doodle_node",
+            "order": 7665
+        },
+        {
+            "type": "string",
+            "name":"image_generation_add_image_node",
+            "order": 7666
+        },
+        {
+            "type": "string",
+            "name":"image_generation_add_text_node",
+            "order": 7667
+        },
+        {
+            "type": "string",
+            "name":"image_generation_add_generator_node",
+            "order": 7668
+        },
+        {
+            "type": "string",
+            "name":"image_generation_add_image",
+            "order": 7669
+        },
+        {
+            "type": "string",
+            "name":"image_generation_add_doodle",
+            "order": 7670
+        },
+        {
+            "type": "string",
+            "name":"image_generation_rotate_button_hint",
+            "order": 7671
+        },
+        {
+            "type": "string",
+            "name":"image_generation_top_left_resize_handle_hint",
+            "order": 7672
+        },
+        {
+            "type": "string",
+            "name":"image_generation_top_right_resize_handle_hint",
+            "order": 7673
+        },
+        {
+            "type": "string",
+            "name":"image_generation_bottom_left_resize_handle_hint",
+            "order": 7674
+        },
+        {
+            "type": "string",
+            "name":"image_generation_bottom_right_resize_handle_hint",
+            "order": 7675
+        },
+        {
+            "type": "string",
+            "name":"image_generation_two_finger_region_selection_hint",
+            "order": 7676
+        },
+        {
+            "type": "string",
+            "name":"image_generation_two_finger_draw_hint",
+            "order": 7677
         }
     ]
 }
