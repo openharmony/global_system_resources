@@ -2449,6 +2449,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_generation_not_supported",
+            "value":"目前應用程式不支援建圖功能",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_images_exceeds_limit",
+            "value":"已選圖片數量超過 %d 張，請修改後重試",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_creations",
+            "value":"退出將無法保留創作",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sequence_number_of_the_selected_picture",
+            "value":"圖 %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
+            "value":"未儲存的創作結果將會清除。關閉？",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

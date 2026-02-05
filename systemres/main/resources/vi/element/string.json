@@ -2484,6 +2484,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_generation_not_supported",
+            "value":"Ứng dụng này không hỗ trợ tạo hình ảnh.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_images_exceeds_limit",
+            "value":"Đã chọn quá số lượng tối đa %d hình ảnh. Vui lòng bỏ chọn một số hình ảnh.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_creations",
+            "value":"Thoát mà không lưu?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sequence_number_of_the_selected_picture",
+            "value":"Hình ảnh %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
+            "value":"Công việc bạn chưa lưu sẽ bị mất vĩnh viễn.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

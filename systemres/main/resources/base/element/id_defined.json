@@ -36503,7 +36503,7 @@
         },
         {
             "type": "string",
-            "name": "ai_generated",
+            "name": "ai_generating",
             "order": 7228
         },
         {
@@ -38763,6 +38763,41 @@
             "type": "string",
             "name":"image_generation_two_finger_draw_hint",
             "order": 7677
+        },
+        {
+            "type": "string",
+            "name":"image_generation_relative_position_prompt",
+            "order": 7678
+        },
+        {
+            "type": "string",
+            "name":"image_generation_preview",
+            "order": 7679
+        },
+        {
+            "type": "string",
+            "name":"image_generation_text",
+            "order": 7680
+        },
+        {
+            "type": "string",
+            "name":"image_generation_generator",
+            "order": 7681
+        },
+        {
+            "type": "string",
+            "name":"image_generation_template",
+            "order": 7682
+        },
+        {
+            "type": "string",
+            "name":"image_generation_auto",
+            "order": 7683
+        },
+        {
+            "type": "string",
+            "name":"image_generation_material_format_invalid_partial_message",
+            "order": 7684
         }
     ]
 }

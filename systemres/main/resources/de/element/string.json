@@ -2442,6 +2442,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_generation_not_supported",
+            "value":"Diese App unterstützt die Bildgenerierung nicht.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_images_exceeds_limit",
+            "value":"Die Auswahl überschreitet die maximale Anzahl von %d Bildern. Bitte heben Sie die Auswahl einiger Bilder auf.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_creations",
+            "value":"Ohne Speichern beenden?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sequence_number_of_the_selected_picture",
+            "value":"Bild %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
+            "value":"Nicht gespeicherte Bearbeitungen gehen dauerhaft verloren.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
