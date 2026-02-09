@@ -2533,7 +2533,7 @@
             }
         },
         {
-            "name":"ai_generated",
+            "name":"ai_generating",
             "value":"AI生成中"
         },
         {
@@ -2577,7 +2577,7 @@
         },
         {
             "name":"maintain_the_layout_keyword",
-            "value":"保持输入图像的位置关系",
+            "value":"保持输入图片的位置关系",
             "attr":{
                 "priority":"translate"
             }
@@ -2626,7 +2626,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"通过双指缩放、旋转编辑图像位置",
+            "value":"通过双指缩放、旋转编辑图片位置",
             "attr":{
                 "priority":"translate"
             }
@@ -2746,7 +2746,7 @@
         },
         {
             "name":"image_generation",
-            "value":"图像生成",
+            "value":"图片生成",
             "attr":{
                 "priority":"translate"
             }
@@ -2802,7 +2802,7 @@
         },
         {
             "name":"prompt_to_clear_the_canvas",
-            "value":"将立即删除画布的所有历史节点。此操作无法撤销。",
+            "value":"将删除画布所有节点内容，此操作无法撤销。",
             "attr":{
                 "priority":"translate"
             }
@@ -2837,14 +2837,14 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"文本生图",
+            "value":"文生图",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_from_images",
-            "value":"以图生图",
+            "value":"图生图",
             "attr":{
                 "priority":"translate"
             }
@@ -2858,7 +2858,7 @@
         },
         {
             "name":"node_graph_expand",
-            "value":"画布模式不支持外屏展示，请展开使用。",
+            "value":"请切换至内屏使用",
             "attr":{
                 "priority":"translate"
             }
@@ -2915,7 +2915,7 @@
         },
         {
             "name":"node_graph_replace_image",
-            "value":"替换图像",
+            "value":"替换图片",
             "attr":{
                 "priority":"translate"
             }
@@ -2936,7 +2936,10 @@
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
-            "value":"已选图片数量超过%d张，请修改后重试"
+            "value":"已选图片数量超过 %d 张，请修改后重试",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_selected_image_dimensions_invalid",
@@ -2958,7 +2961,7 @@
         },
         {
             "name":"node_graph_input_image_dimensions_invalid",
-            "value":"输入图像尺寸不符合规定，请重新输入",
+            "value":"输入图片尺寸不符合规定，请重新输入",
             "attr":{
                 "priority":"translate"
             }
@@ -2972,7 +2975,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"当前节点同类型素材连接超限，请删除后重试",
+            "value":"当前节点同类型数量连接超限，请删除后重试",
             "attr":{
                 "priority":"translate"
             }
@@ -2997,7 +3000,10 @@
         },
         {
             "name":"node_graph_image_generation_not_supported",
-            "value":"当前应用不支持生图功能"
+            "value":"当前应用不支持生图功能",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_input_violates_platform_rules",
@@ -3008,7 +3014,10 @@
         },
         {
             "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
-            "value":"未保存的创作结果将会清除，是否关闭"
+            "value":"未保存的创作结果将会清除，是否关闭？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_saved_to_gallery",
@@ -3024,14 +3033,14 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"您的生图任务尚未完成，退出画布模式会终止任务，是否继续？",
+            "value":"您的生图任务尚未完成，退出画布模式将终止本次生图进程，是否退出？",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"node_graph_image_replacement_cannot_preserve_operations",
-            "value":"替换图像无法保留操作",
+            "value":"替换图片无法保留操作",
             "attr":{
                 "priority":"translate"
             }
@@ -3045,11 +3054,17 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_creations",
-            "value":"退出将无法保留创作"
+            "value":"退出将无法保留创作",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"sequence_number_of_the_selected_picture",
-            "value":"图%d"
+            "value":"图 %d",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_material_type_invalid",
@@ -3088,7 +3103,7 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_task",
-            "value":"退出将无法保留任务"
+            "value":"退出将中断生成任务"
         },
         {
             "name":"node_graph_confirm_exit",
@@ -3096,11 +3111,11 @@
         },
         {
             "name":"node_graph_delete_node_will_not_preserve_task",
-            "value":"删除节点将无法保留任务"
+            "value":"删除将中断生成任务"
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"您的生图任务尚未完成，删除生成节点会终止任务，是否继续。"
+            "value":"您的生图任务尚未完成，删除生成节点将终止本次生图进程，确认删除？"
         },
         {
             "name":"node_graph_original_ratio",
@@ -3128,7 +3143,7 @@
         },
         {
             "name":"node_graph_confirm_replace_image",
-            "value":"替换图像后将不保留原始图像的涂鸦和圈选，是否继续。"
+            "value":"替换图片后将不保留原始图片的涂鸦和圈选，是否继续？"
         },
         {
             "name":"node_graph_confirm_replace",
@@ -3152,11 +3167,11 @@
         },
         {
             "name":"image_generation_image_view",
-            "value":"图像"
+            "value":"图片"
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"圈选想要调整的区域，添加文本描述进行生图"
+            "value":"圈选想要调整的区域，添加文字描述进行创作"
         },
         {
             "name":"image_generation_ai_synthesis_label",
@@ -3200,7 +3215,7 @@
         },
         {
             "name":"image_generation_item_count_format",
-            "value":"第%d项，共%d项"
+            "value":"第 %1$d 项，共 %2$d 项"
         },
         {
             "name":"image_generation_detail",
@@ -3272,7 +3287,7 @@
         },
         {
             "name":"image_generation_add_text_node",
-            "value":"添加文本节点"
+            "value":"添加文字节点"
         },
         {
             "name":"image_generation_add_generator_node",
@@ -3288,7 +3303,7 @@
         },
         {
             "name":"image_generation_rotate_button_hint",
-            "value":"旋转按钮，当前角度%d度，可调范围0至360度，双击按住即可滑动调节编辑框旋转角度"
+            "value":"旋转按钮，当前角度%s，可调范围0至360度，双击按住即可滑动调节编辑框旋转角度"
         },
         {
             "name":"image_generation_top_left_resize_handle_hint",
@@ -3313,6 +3328,34 @@
         {
             "name":"image_generation_two_finger_draw_hint",
             "value":"双指按住拖动以绘制"
+        },
+        {
+            "name":"image_generation_relative_position_prompt",
+            "value":"将参考添加图片的相对位置关系进行创作"
+        },
+        {
+            "name":"image_generation_preview",
+            "value":"预览图"
+        },
+        {
+            "name":"image_generation_text",
+            "value":"文字"
+        },
+        {
+            "name":"image_generation_generator",
+            "value":"生成器"
+        },
+        {
+            "name":"image_generation_template",
+            "value":"模板"
+        },
+        {
+            "name":"image_generation_auto",
+            "value":"自动"
+        },
+        {
+            "name":"image_generation_material_format_invalid_partial_message",
+            "value":"部分素材不符合格式要求，其余素材已正常显示。"
         }
     ]
 }

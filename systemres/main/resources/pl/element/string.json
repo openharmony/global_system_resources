@@ -2442,6 +2442,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_generation_not_supported",
+            "value":"Ta aplikacja nie obsługuje generowania obrazów.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_images_exceeds_limit",
+            "value":"Wybrana opcja przekracza dopuszczalny limit %d obrazów. Usuń wybór niektórych obrazów.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_creations",
+            "value":"Wyjść bez zapisywania?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sequence_number_of_the_selected_picture",
+            "value":"Obraz %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
+            "value":"Dane, których nie zapiszesz, zostaną nieodwracalnie utracone.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

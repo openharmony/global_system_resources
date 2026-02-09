@@ -2484,6 +2484,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"node_graph_image_generation_not_supported",
+            "value":"이 앱은 이미지 생성을 지원하지 않습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_selected_images_exceeds_limit",
+            "value":"최대 %d개 이미지를 초과하여 선택했습니다. 일부를 선택 취소하십시오.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_creations",
+            "value":"저장하지 않고 끝내시겠습니까?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sequence_number_of_the_selected_picture",
+            "value":"이미지 %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
+            "value":"저장하지 않은 작업은 영구적으로 손실됩니다.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

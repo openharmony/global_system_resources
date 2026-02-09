@@ -2681,7 +2681,7 @@
             }
         },
         {
-            "name":"ai_generated",
+            "name":"ai_generating",
             "value":"Generating"
         },
         {
@@ -2725,7 +2725,7 @@
         },
         {
             "name":"maintain_the_layout_keyword",
-            "value":"Preserve the layout of graphical elements",
+            "value":"Maintain the positional relationship of input images",
             "attr":{
                 "priority":"translate"
             }
@@ -2869,7 +2869,7 @@
         },
         {
             "name":"image_reference",
-            "value":"Reference image",
+            "value":"Image input",
             "attr":{
                 "priority":"translate"
             }
@@ -2950,7 +2950,7 @@
         },
         {
             "name":"prompt_to_clear_the_canvas",
-            "value":"This will remove all nodes from the canvas and cannot be undone.",
+            "value":"This will delete all node content on the canvas. This operation cannot be undone.",
             "attr":{
                 "priority":"translate"
             }
@@ -3006,7 +3006,7 @@
         },
         {
             "name":"node_graph_expand",
-            "value":"Advanced mode is not available on the cover screen. Unfold your phone to use it.",
+            "value":"Please switch to the main screen to use.",
             "attr":{
                 "priority":"translate"
             }
@@ -3084,7 +3084,10 @@
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
-            "value":"Selection exceeds max of %d images. Please deselect some."
+            "value":"Selection exceeds max of %d images. Please deselect some.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_image_generation_daily_limit_reached",
@@ -3116,7 +3119,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Too many items of the same type connected to this node. Delete some first.",
+            "value":"The current node has exceeded the connection limit for this type. Please delete some and try again.",
             "attr":{
                 "priority":"translate"
             }
@@ -3141,7 +3144,10 @@
         },
         {
             "name":"node_graph_image_generation_not_supported",
-            "value":"The current application does not support the image generation function."
+            "value":"This app does not support image generation.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_input_violates_platform_rules",
@@ -3152,7 +3158,10 @@
         },
         {
             "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
-            "value":"Unsaved creation results will be deleted. Are you sure you want to close?"
+            "value":"Work you haven't saved will be permanently lost.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_saved_to_gallery",
@@ -3168,7 +3177,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Image generation is not yet complete. Exiting Advanced mode now will end the task.",
+            "value":"Your image generation task is not yet complete. Exiting Canvas mode will terminate this generation process. Do you want to exit?",
             "attr":{
                 "priority":"translate"
             }
@@ -3189,11 +3198,17 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_creations",
-            "value":"Exiting will not preserve your creations."
+            "value":"Exit without saving?",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"sequence_number_of_the_selected_picture",
-            "value":"Figure%d"
+            "value":"Image %d",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_material_type_invalid",
@@ -3232,7 +3247,7 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_task",
-            "value":"Exiting will not save the task."
+            "value":"Exiting will interrupt the generation task."
         },
         {
             "name":"node_graph_confirm_exit",
@@ -3240,11 +3255,11 @@
         },
         {
             "name":"node_graph_delete_node_will_not_preserve_task",
-            "value":"Deleting the node will not retain the tasks."
+            "value":"Deleting the node will interrupt the generation task."
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Your task is not yet complete. Deleting the generation node will terminate the task. Do you wish to continue?"
+            "value":"Your image generation task is not yet complete. Deleting the generation node will terminate this generation process. Confirm deletion?"
         },
         {
             "name":"node_graph_original_ratio",
@@ -3296,11 +3311,11 @@
         },
         {
             "name":"image_generation_image_view",
-            "value":"Image view"
+            "value":"Image"
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Select the area you want to adjust, add text description to generate images"
+            "value":"Circle the area you want to adjust, add text description to create."
         },
         {
             "name":"image_generation_ai_synthesis_label",
@@ -3344,7 +3359,7 @@
         },
         {
             "name":"image_generation_item_count_format",
-            "value":"Item %d of %d"
+            "value":"Item %1$d of %2$d"
         },
         {
             "name":"image_generation_detail",
@@ -3432,7 +3447,7 @@
         },
         {
             "name":"image_generation_rotate_button_hint",
-            "value":"Rotation button, current angle %d degrees, adjustable from 0 to 360 degrees, double-click and hold to slide and adjust the rotation angle of the edit box"
+            "value":"Rotation button, current angle %s, adjustable from 0 to 360 degrees, double-click and hold to slide and adjust the rotation angle of the edit box"
         },
         {
             "name":"image_generation_top_left_resize_handle_hint",
@@ -3457,6 +3472,34 @@
         {
             "name":"image_generation_two_finger_draw_hint",
             "value":"Two-finger press and drag to draw"
+        },
+        {
+            "name":"image_generation_relative_position_prompt",
+            "value":"Create with reference to relative positions of added images"
+        },
+        {
+            "name":"image_generation_preview",
+            "value":"Preview"
+        },
+        {
+            "name":"image_generation_text",
+            "value":"Text"
+        },
+        {
+            "name":"image_generation_generator",
+            "value":"Generator"
+        },
+        {
+            "name":"image_generation_template",
+            "value":"Template"
+        },
+        {
+            "name":"image_generation_auto",
+            "value":"Auto"
+        },
+        {
+            "name":"image_generation_material_format_invalid_partial_message",
+            "value":"Some materials do not meet format requirements. The remaining materials are displayed normally."
         }
     ]
 }
