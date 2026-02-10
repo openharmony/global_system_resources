@@ -6697,6 +6697,24 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_AGENT_CARD",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CONNECT_AGENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
