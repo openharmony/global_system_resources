@@ -5607,6 +5607,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.DATACLONE_ACCESS_FILE_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.WRITE_DHA",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
@@ -6646,16 +6655,7 @@
                 "deprecated": "",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
- 	        },
-            {
-                "name": "ohos.permission.DATACLONE_ACCESS_FILE_MANAGER",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": 23,
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            }
+ 	        }
         ]
     }
 }
