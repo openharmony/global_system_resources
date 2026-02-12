@@ -3356,6 +3356,18 @@
         {
             "name":"image_generation_material_format_invalid_partial_message",
             "value":"部分素材不符合格式要求，其余素材已正常显示。"
+        },
+        {
+            "name":"image_generation_describe_modify_select",
+            "value": "描述如何修改圈选区域"
+        },
+        {
+            "name":"image_generation_some_resource_invalid",
+            "value": "部分资源不符合格式要求，其余资源已正常显示"
+        },
+        {
+            "name":"image_generation_exit_confirm_generating",
+            "value": "退出将无法保留创作，关闭后将中断当前生图流程，已生成的内容无法保存，是否关闭？"
         }
     ]
 }

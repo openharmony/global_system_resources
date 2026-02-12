@@ -3500,6 +3500,18 @@
         {
             "name":"image_generation_material_format_invalid_partial_message",
             "value":"Some materials do not meet format requirements. The remaining materials are displayed normally."
+        },
+        {
+            "name":"image_generation_describe_modify_select",
+            "value": "Describe how to modify the selection area"
+        },
+        {
+            "name":"image_generation_some_resource_invalid",
+            "value": "Some resources do not meet the format requirements. Other resources are displayed properly"
+        },
+        {
+            "name":"image_generation_exit_confirm_generating",
+            "value": "If you exit, the creation process will be interrupted. The generated content cannot be saved. Are you sure you want to close it?"
         }
     ]
 }
