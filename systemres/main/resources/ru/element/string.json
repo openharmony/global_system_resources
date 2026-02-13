@@ -2519,6 +2519,328 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_brush_size_small",
+            "value":"Тонкий",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_size_medium",
+            "value":"Средний",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_size_large",
+            "value":"Жирный",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_generator_node",
+            "value":"Добавить блок генерации",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_doodle_node",
+            "value":"Добавить блок рисунка",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_doodle",
+            "value":"Добавить рисунок",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"creating_through_hand_drawn_graffiti",
+            "value":"Создавайте изображения из ваших рисунков",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_image",
+            "value":"Добавить изображение",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_right_resize_handle_hint",
+            "value":"Правый нижний угол рамки редактирования, нажмите дважды и удерживайте, затем перетащите, чтобы изменить размер",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_left_resize_handle_hint",
+            "value":"Левый нижний угол рамки редактирования, нажмите дважды и удерживайте, затем перетащите, чтобы изменить размер",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_image_node",
+            "value":"Добавить блок изображения",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preprocess_exception",
+            "value":"Ошибка обработки изображения.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_back_to_center",
+            "value":"Возврат в центр",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"minimize",
+            "value":"Свернуть",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_pixel",
+            "value":"Пиксели",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node",
+            "value":"Удаление этого блока отменит текущую задачу генерации изображения.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_wash_painting",
+            "value":"Покрытие тушью",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_image_view",
+            "value":"Изображение",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_sketch",
+            "value":"Эскиз",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_exit",
+            "value":"Выйти",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_replace",
+            "value":"Заменить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_save",
+            "value":"Вернуться и сохранить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_delete_node_will_not_preserve_task",
+            "value":"Удалить блок?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_3D_cartoon",
+            "value":"3D-мультик",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_multi_region_selection",
+            "value":"Одновременно можно выбрать только одно изображение.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_task",
+            "value":"Выйти?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_replace_image",
+            "value":"Рисунки и выделения, которые вы сделали в исходном изображении, не будут сохранены.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_original_ratio",
+            "value":"Оригинал",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_max_prompt_node_input_length",
+            "value":"Достигнуто максимальное количество символов.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_restore",
+            "value":"Восстановить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_collapse",
+            "value":"Скрыть",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser",
+            "value":"Ластик",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_small",
+            "value":"Маленький ластик",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_medium",
+            "value":"Средний ластик",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_large",
+            "value":"Большой ластик",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_left_resize_handle_hint",
+            "value":"Левый верхний угол рамки редактирования, нажмите дважды и удерживайте, затем перетащите, чтобы изменить размер",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_right_resize_handle_hint",
+            "value":"Правый верхний угол рамки редактирования, нажмите дважды и удерживайте, затем перетащите, чтобы изменить размер",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_complete",
+            "value":"Готово",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo",
+            "value":"Отменить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_two_finger_draw_hint",
+            "value":"Коснитесь экрана двумя пальцами, затем проведите ими, чтобы рисовать",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview_draw_hint",
+            "value":"Изображение предпросмотра, нажмите дважды и удерживайте, чтобы рисовать",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_two_finger_region_selection_hint",
+            "value":"Удерживайте экран двумя пальцами, затем проведите ими, чтобы выбрать",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_detail",
+            "value":"Сведения изображения",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_recover",
+            "value":"Повторить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_instruction",
+            "value":"Выберите область для изменения, а затем введите описание, чтобы сгенерировать изображение",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_pen_ballpoint",
+            "value":"Шариковая ручка",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

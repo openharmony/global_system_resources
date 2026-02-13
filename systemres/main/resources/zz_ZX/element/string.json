@@ -2135,6 +2135,190 @@
         {
             "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
             "value":"[TS_1168864]_Work you haven't saved will be permanently lost."
+        },
+        {
+            "name":"image_generation_brush_size_small",
+            "value":"[TS_1179991]_Small"
+        },
+        {
+            "name":"image_generation_brush_size_medium",
+            "value":"[TS_1179992]_Medium"
+        },
+        {
+            "name":"image_generation_brush_size_large",
+            "value":"[TS_1180013]_Large"
+        },
+        {
+            "name":"image_generation_add_generator_node",
+            "value":"[TS_1179990]_Add generator node"
+        },
+        {
+            "name":"image_generation_add_doodle_node",
+            "value":"[TS_1180014]_Add doodle node"
+        },
+        {
+            "name":"image_generation_add_doodle",
+            "value":"[TS_1179981]_Add doodle"
+        },
+        {
+            "name":"creating_through_hand_drawn_graffiti",
+            "value":"[TS_1160798]_Create images from your doodles"
+        },
+        {
+            "name":"image_generation_add_image",
+            "value":"[TS_1179994]_Add image"
+        },
+        {
+            "name":"image_generation_bottom_right_resize_handle_hint",
+            "value":"[TS_1179975]_Bottom right corner of editing box, double-tap and hold, then drag to adjust the size"
+        },
+        {
+            "name":"image_generation_bottom_left_resize_handle_hint",
+            "value":"[TS_1180005]_Bottom left corner of editing box, double-tap and hold, then drag to adjust the size"
+        },
+        {
+            "name":"image_generation_add_image_node",
+            "value":"[TS_1179996]_Add image node"
+        },
+        {
+            "name":"image_generation_preprocess_exception",
+            "value":"[TS_1179980]_Image processing error."
+        },
+        {
+            "name":"image_generation_back_to_center",
+            "value":"[TS_1179999]_Back to center"
+        },
+        {
+            "name":"minimize",
+            "value":"[TS_1160823]_Minimize"
+        },
+        {
+            "name":"node_graph_pixel",
+            "value":"[TS_1176818]_Pixel art"
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node",
+            "value":"[TS_1176829]_Deleting this node will cancel the current image generation task."
+        },
+        {
+            "name":"node_graph_wash_painting",
+            "value":"[TS_1176819]_Ink wash"
+        },
+        {
+            "name":"image_generation_image_view",
+            "value":"[TS_1176821]_Image"
+        },
+        {
+            "name":"node_graph_sketch",
+            "value":"[TS_1176822]_Sketch"
+        },
+        {
+            "name":"node_graph_confirm_exit",
+            "value":"[TS_1176823]_Exit"
+        },
+        {
+            "name":"node_graph_confirm_replace",
+            "value":"[TS_1176824]_Replace"
+        },
+        {
+            "name":"image_generation_save",
+            "value":"[TS_1176814]_Go back & save"
+        },
+        {
+            "name":"node_graph_delete_node_will_not_preserve_task",
+            "value":"[TS_1176825]_Delete node?"
+        },
+        {
+            "name":"node_graph_3D_cartoon",
+            "value":"[TS_1176815]_3D cartoon"
+        },
+        {
+            "name":"node_graph_multi_region_selection",
+            "value":"[TS_1176827]_Selection is only available with one image at a time."
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_task",
+            "value":"[TS_1176817]_Exit now?"
+        },
+        {
+            "name":"node_graph_confirm_replace_image",
+            "value":"[TS_1176830]_Doodles and selections you made in the original image will be discarded."
+        },
+        {
+            "name":"node_graph_original_ratio",
+            "value":"[TS_1176820]_Original"
+        },
+        {
+            "name":"node_graph_max_prompt_node_input_length",
+            "value":"[TS_1176831]_Character limit reached."
+        },
+        {
+            "name":"image_generation_restore",
+            "value":"[TS_1176816]_Restore"
+        },
+        {
+            "name":"image_generation_collapse",
+            "value":"[TS_1180003]_Collapse"
+        },
+        {
+            "name":"image_generation_eraser",
+            "value":"[TS_1180001]_Eraser"
+        },
+        {
+            "name":"image_generation_eraser_size_small",
+            "value":"[TS_1180004]_Small eraser"
+        },
+        {
+            "name":"image_generation_eraser_size_medium",
+            "value":"[TS_1179976]_Medium eraser"
+        },
+        {
+            "name":"image_generation_eraser_size_large",
+            "value":"[TS_1180012]_Large eraser"
+        },
+        {
+            "name":"image_generation_top_left_resize_handle_hint",
+            "value":"[TS_1180000]_Top left corner of editing box, double-tap and hold, then drag to adjust the size"
+        },
+        {
+            "name":"image_generation_top_right_resize_handle_hint",
+            "value":"[TS_1179977]_Top right corner of editing box, double-tap and hold, then drag to adjust the size"
+        },
+        {
+            "name":"image_generation_complete",
+            "value":"[TS_1180011]_Done"
+        },
+        {
+            "name":"image_generation_undo",
+            "value":"[TS_1179979]_Undo"
+        },
+        {
+            "name":"image_generation_two_finger_draw_hint",
+            "value":"[TS_1180009]_Place two fingers on the screen, then drag to draw"
+        },
+        {
+            "name":"image_generation_preview_draw_hint",
+            "value":"[TS_1180008]_Preview image, double-tap and hold to draw"
+        },
+        {
+            "name":"image_generation_two_finger_region_selection_hint",
+            "value":"[TS_1179983]_Hold two fingers on the screen, then drag to select"
+        },
+        {
+            "name":"image_generation_detail",
+            "value":"[TS_1179986]_Image details"
+        },
+        {
+            "name":"image_generation_recover",
+            "value":"[TS_1179997]_Redo"
+        },
+        {
+            "name":"image_generation_region_selection_instruction",
+            "value":"[TS_1179985]_Select an area to adjust, then enter a description to generate an image"
+        },
+        {
+            "name":"image_generation_pen_ballpoint",
+            "value":"[TS_1179988]_Ballpoint pen"
         }
     ]
 }

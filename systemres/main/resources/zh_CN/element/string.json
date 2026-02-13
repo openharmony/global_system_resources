@@ -2538,7 +2538,10 @@
         },
         {
             "name":"minimize",
-            "value":"最小化"
+            "value":"最小化",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"start_generating",
@@ -2728,7 +2731,10 @@
         },
         {
             "name":"creating_through_hand_drawn_graffiti",
-            "value":"通过手绘涂鸦进行创作"
+            "value":"通过手绘涂鸦进行创作",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"graffiti_color",
@@ -3103,75 +3109,122 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_task",
-            "value":"退出将中断生成任务"
+            "value":"退出将中断生成任务",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_confirm_exit",
-            "value":"确认退出"
+            "value":"确认退出",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_delete_node_will_not_preserve_task",
-            "value":"删除将中断生成任务"
+            "value":"删除将中断生成任务",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"您的生图任务尚未完成，删除生成节点将终止本次生图进程，确认删除？"
+            "value":"您的生图任务尚未完成，删除生成节点将终止本次生图进程，确认删除？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_original_ratio",
-            "value":"原比例"
+            "value":"原比例",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_3D_cartoon",
-            "value":"3D卡通"
+            "value":"3D 卡通",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_sketch",
-            "value":"素描"
+            "value":"素描",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_wash_painting",
-            "value":"水墨"
-        },
-        {
-            "name":"node_graph_ghibli",
-            "value":"吉卜力"
+            "value":"水墨",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_pixel",
-            "value":"像素"
+            "value":"像素",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_confirm_replace_image",
-            "value":"替换图片后将不保留原始图片的涂鸦和圈选，是否继续？"
+            "value":"替换图片后将不保留原始图片的涂鸦和圈选，是否继续？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_confirm_replace",
-            "value":"确认替换"
+            "value":"确认替换",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_max_prompt_node_input_length",
-            "value":"已达文字数量限制"
+            "value":"已达文字数量限制",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_multi_region_selection",
-            "value":"仅支持单个图片设置选区，请取消多余选区后再生成。"
+            "value":"仅支持单个图片设置选区，请取消多余选区后再生成",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_restore",
-            "value":"还原"
+            "value":"还原",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_save",
-            "value":"去保存"
+            "value":"去保存",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_image_view",
-            "value":"图片"
+            "value":"图片",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"圈选想要调整的区域，添加文字描述进行创作"
+            "value":"圈选想要调整的区域，添加文字描述进行创作",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_ai_synthesis_label",
@@ -3211,7 +3264,10 @@
         },
         {
             "name":"image_generation_preprocess_exception",
-            "value":"图片预处理异常"
+            "value":"图片预处理异常",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_item_count_format",
@@ -3219,71 +3275,122 @@
         },
         {
             "name":"image_generation_detail",
-            "value":"图片详情"
+            "value":"图片详情",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_back_to_center",
-            "value":"回到中心"
+            "value":"回到中心",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_recover",
-            "value":"恢复"
+            "value":"恢复",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_undo",
-            "value":"撤销"
+            "value":"撤销",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_preview_draw_hint",
-            "value":"预览图，双击并按住以绘制"
+            "value":"预览图，双击并按住以绘制",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_pen_ballpoint",
-            "value":"圆珠笔"
+            "value":"圆珠笔",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_eraser",
-            "value":"橡皮擦"
+            "value":"橡皮擦",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_brush_size_small",
-            "value":"粗细小"
+            "value":"粗细小",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_brush_size_medium",
-            "value":"粗细中"
+            "value":"粗细中",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_brush_size_large",
-            "value":"粗细大"
+            "value":"粗细大",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_eraser_size_small",
-            "value":"擦除直径小"
+            "value":"擦除直径小",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_eraser_size_medium",
-            "value":"擦除直径中"
+            "value":"擦除直径中",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_eraser_size_large",
-            "value":"擦除直径大"
+            "value":"擦除直径大",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_complete",
-            "value":"完成"
+            "value":"完成",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_collapse",
-            "value":"折叠"
+            "value":"折叠",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_add_doodle_node",
-            "value":"添加涂鸦节点"
+            "value":"添加涂鸦节点",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_add_image_node",
-            "value":"添加图片节点"
+            "value":"添加图片节点",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_add_text_node",
@@ -3291,43 +3398,70 @@
         },
         {
             "name":"image_generation_add_generator_node",
-            "value":"添加生成器节点"
+            "value":"添加生成器节点",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_add_image",
-            "value":"添加图片"
+            "value":"添加图片",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_add_doodle",
-            "value":"添加涂鸦"
+            "value":"添加涂鸦",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_rotate_button_hint",
-            "value":"旋转按钮，当前角度%s，可调范围0至360度，双击按住即可滑动调节编辑框旋转角度"
+            "value":"旋转按钮，当前角度%1$s，可调范围%2$d至%3$d度，双击按住即可滑动调节编辑框旋转角度"
         },
         {
             "name":"image_generation_top_left_resize_handle_hint",
-            "value":"左上角缩放控制柄，双击并按住以调节编辑框大小"
+            "value":"左上角缩放控制柄，双击并按住以调节编辑框大小",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_top_right_resize_handle_hint",
-            "value":"右上角缩放控制柄，双击并按住以调节编辑框大小"
+            "value":"右上角缩放控制柄，双击并按住以调节编辑框大小",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_bottom_left_resize_handle_hint",
-            "value":"左下角缩放控制柄，双击并按住以调节编辑框大小"
+            "value":"左下角缩放控制柄，双击并按住以调节编辑框大小",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_bottom_right_resize_handle_hint",
-            "value":"右下角缩放控制柄，双击并按住以调节编辑框大小"
+            "value":"右下角缩放控制柄，双击并按住以调节编辑框大小",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_two_finger_region_selection_hint",
-            "value":"双指按住拖动以圈选"
+            "value":"双指按住拖动以圈选",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_two_finger_draw_hint",
-            "value":"双指按住拖动以绘制"
+            "value":"双指按住拖动以绘制",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_relative_position_prompt",

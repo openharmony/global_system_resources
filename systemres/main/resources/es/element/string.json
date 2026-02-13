@@ -2519,6 +2519,328 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_brush_size_small",
+            "value":"Pequeño",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_size_medium",
+            "value":"Intermedio",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_size_large",
+            "value":"Grande",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_generator_node",
+            "value":"Añadir nodo generador",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_doodle_node",
+            "value":"Añadir nodo de garabato",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_doodle",
+            "value":"Añadir garabato",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"creating_through_hand_drawn_graffiti",
+            "value":"Crea imágenes a partir de tus garabatos",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_image",
+            "value":"Añadir imagen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_right_resize_handle_hint",
+            "value":"Extremo inferior derecho del cuadro de edición; pulsa dos veces y mantén pulsado; a continuación, arrastra para ajustar el tamaño",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_left_resize_handle_hint",
+            "value":"Extremo inferior izquierdo del cuadro de edición; pulsa dos veces y mantén pulsado; a continuación, arrastra para ajustar el tamaño",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_image_node",
+            "value":"Añadir nodo de imagen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preprocess_exception",
+            "value":"Error de procesamiento de imagen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_back_to_center",
+            "value":"Volver al centro",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"minimize",
+            "value":"Minimizar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_pixel",
+            "value":"Arte en píxeles",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node",
+            "value":"Si eliminas este nodo, se cancelará la tarea de generación de imágenes actual.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_wash_painting",
+            "value":"Tinta aguada",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_image_view",
+            "value":"Imagen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_sketch",
+            "value":"Boceto",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_exit",
+            "value":"Salir",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_replace",
+            "value":"Reemplazar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_save",
+            "value":"Volver y guardar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_delete_node_will_not_preserve_task",
+            "value":"¿Eliminar nodo?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_3D_cartoon",
+            "value":"Caricaturas 3D",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_multi_region_selection",
+            "value":"La selección solo está disponible para una imagen a la vez.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_task",
+            "value":"¿Salir ahora?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_replace_image",
+            "value":"Se descartarán los garabatos y las selecciones que hayas hecho en la imagen original.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_original_ratio",
+            "value":"Original",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_max_prompt_node_input_length",
+            "value":"Se ha alcanzado el límite de caracteres.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_restore",
+            "value":"Restaurar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_collapse",
+            "value":"Minimizar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser",
+            "value":"Goma de borrar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_small",
+            "value":"Goma de borrar pequeña",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_medium",
+            "value":"Goma de borrar mediana",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_large",
+            "value":"Goma de borrar grande",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_left_resize_handle_hint",
+            "value":"Esquina superior izquierda del cuadro de edición, pulsa dos veces y mantén pulsado; a continuación, arrastra para ajustar el tamaño",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_right_resize_handle_hint",
+            "value":"Esquina superior derecha del cuadro de edición; pulsa dos veces y mantén pulsado; a continuación, arrastra para ajustar el tamaño",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_complete",
+            "value":"Listo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo",
+            "value":"Deshacer",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_two_finger_draw_hint",
+            "value":"Coloca dos dedos en la pantalla y, a continuación, arrastra para dibujar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview_draw_hint",
+            "value":"Vista previa de la imagen, pulsa dos veces y mantén pulsado para dibujar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_two_finger_region_selection_hint",
+            "value":"Mantén dos dedos en la pantalla; a continuación, arrastra para seleccionar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_detail",
+            "value":"Detalles de la imagen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_recover",
+            "value":"Rehacer",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_instruction",
+            "value":"Selecciona el área que quieres ajustar y, a continuación, introduce una descripción para generar una imagen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_pen_ballpoint",
+            "value":"Bolígrafo",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -2477,6 +2477,328 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_brush_size_small",
+            "value":"အသေး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_size_medium",
+            "value":"အလယ်အလတ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_size_large",
+            "value":"အကြီး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_generator_node",
+            "value":"ဖန်တီးထုတ်လုပ်ရေး အမှတ်တစ်ခု ထည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_doodle_node",
+            "value":"Doodle အမှတ်တစ်ခု ထည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_doodle",
+            "value":"Doodle ထည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"creating_through_hand_drawn_graffiti",
+            "value":"သင်ဆွဲထားသော Doodle များမှ ပုံဖန်တီးပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_image",
+            "value":"ပုံ ထည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_right_resize_handle_hint",
+            "value":"တည်းဖြတ်ရန်အကွက်၏ ညာဘက်အောက်ထောင့်၊ အရွယ်အစား ချိန်ညှိရန် နှစ်ချက်နှိပ်၍ ဖိထားပြီး ဆွဲရွှေ့ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_left_resize_handle_hint",
+            "value":"တည်းဖြတ်ရန်အကွက်၏ ဘယ်ဘက်အောက်ထောင့်၊ အရွယ်အစား ချိန်ညှိရန် နှစ်ချက်နှိပ်၍ ဖိထားပြီး ဆွဲရွှေ့ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_image_node",
+            "value":"ပုံ အမှတ်တစ်ခု ထည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preprocess_exception",
+            "value":"ပုံ စီမံလုပ်ဆောင်မှု ချို့ယွင်းချက်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_back_to_center",
+            "value":"ဗဟိုချက်သို့ ပြန်သွားရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"minimize",
+            "value":"ချုံ့ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_pixel",
+            "value":"Pixel Art",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node",
+            "value":"ဤနုတ်ကို ဖျက်ပါက လက်ရှိ ပုံ ဖန်တီးထုတ်လုပ်မှုကို ပယ်ဖျက်ပါမည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_wash_painting",
+            "value":"မင်ဆေးပန်းချီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_image_view",
+            "value":"ပုံ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_sketch",
+            "value":"Sketch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_exit",
+            "value":"ထွက်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_replace",
+            "value":"အစားထိုးရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_save",
+            "value":"နောက်သို့ ပြန်သွားပြီး သိမ်းရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_delete_node_will_not_preserve_task",
+            "value":"ဤနုတ်ကို ဖျက်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_3D_cartoon",
+            "value":"3D ကာတွန်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_multi_region_selection",
+            "value":"တစ်ကြိမ်လျှင် ပုံတစ်ပုံတွင်သာ ရွေးချယ်နိုင်သည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_task",
+            "value":"ယခု ထွက်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_replace_image",
+            "value":"မူရင်းပုံပေါ်တွင် သင်လုပ်ဆောင်ခဲ့သော Doodle များနှင့် ရွေးချယ်မှုများကို ဖယ်ရှားသွားပါမည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_original_ratio",
+            "value":"မူရင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_max_prompt_node_input_length",
+            "value":"အက္ခရာအရေအတွက် အကန့်အသတ်ကို ရောက်ရှိသွားပါပြီ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_restore",
+            "value":"မူလအတိုင်း ပြန်ထားရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_collapse",
+            "value":"အကျဉ်းချုံ့ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser",
+            "value":"ခဲဖျက်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_small",
+            "value":"ခဲဖျက်အသေး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_medium",
+            "value":"ခဲဖျက်အလတ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_large",
+            "value":"ခဲဖျက်အကြီး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_left_resize_handle_hint",
+            "value":"တည်းဖြတ်ရန် အကွက်၏ ဘယ်ဘက်ထိပ်ထောင့်၊ အရွယ်အစားချိန်ညှိရန် နှစ်ချက်နှိပ်၍ ဖိထားပြီးနောက် ဆွဲရွှေ့ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_right_resize_handle_hint",
+            "value":"တည်းဖြတ်ရန် အကွက်၏ ညာဘက်ထိပ်ထောင့်၊ အရွယ်အစားချိန်ညှိရန် နှစ်ချက်နှိပ်၍ ဖိထားပြီးနောက် ဆွဲရွှေ့ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_complete",
+            "value":"ပြီးပါပြီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo",
+            "value":"မလုပ်တော့ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_two_finger_draw_hint",
+            "value":"စက်မျက်နှာပြင်ပေါ်တွင် လက်နှစ်ချောင်းကို တင်ထားပါ၊ ထို့နောက် ရေးဆွဲရန် ဆွဲရွှေ့ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview_draw_hint",
+            "value":"အစမ်းကြည့် ရုပ်ပုံ၊ ရေးဆွဲရန် နှစ်ချက်နှိပ်၍ ဖိထားပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_two_finger_region_selection_hint",
+            "value":"စက်မျက်နှာပြင်ပေါ်တွင် လက်နှစ်ချောင်းကို ထားပါ၊ ထို့နောက် ရွေးချယ်ရန် ဆွဲရွှေ့ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_detail",
+            "value":"ပုံ အသေးစိတ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_recover",
+            "value":"ပြန်လုပ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_instruction",
+            "value":"ချိန်ညှိလိုသော ဧရိယာကို ရွေးချယ်ပြီး ပုံထုတ်လုပ်ရန် ဖော်ပြချက်ကို ရိုက်ထည့်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_pen_ballpoint",
+            "value":"ဘောပင်",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
