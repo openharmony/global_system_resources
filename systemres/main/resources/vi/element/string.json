@@ -2519,6 +2519,328 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_brush_size_small",
+            "value":"Nhỏ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_size_medium",
+            "value":"Trung bình",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_size_large",
+            "value":"Lớn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_generator_node",
+            "value":"Thêm nút tạo nội dung",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_doodle_node",
+            "value":"Thêm nút nét vẽ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_doodle",
+            "value":"Thêm nét vẽ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"creating_through_hand_drawn_graffiti",
+            "value":"Tạo hình ảnh từ nét vẽ của bạn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_image",
+            "value":"Thêm hình ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_right_resize_handle_hint",
+            "value":"Góc dưới cùng bên phải hộp sửa, chạm đúp và giữ, sau đó kéo để điều chỉnh kích cỡ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_left_resize_handle_hint",
+            "value":"Góc dưới cùng bên trái hộp sửa, chạm đúp và giữ, sau đó kéo để điều chỉnh kích cỡ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_image_node",
+            "value":"Thêm nút hình ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preprocess_exception",
+            "value":"Lỗi xử lý hình ảnh.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_back_to_center",
+            "value":"Trở lại trung tâm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"minimize",
+            "value":"Thu nhỏ cực tiểu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_pixel",
+            "value":"Nghệ thuật điểm ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node",
+            "value":"Việc xóa nút này sẽ hủy tác vụ tạo hình ảnh hiện tại.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_wash_painting",
+            "value":"Thủy mặc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_image_view",
+            "value":"Hình ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_sketch",
+            "value":"Phác thảo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_exit",
+            "value":"Thoát",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_replace",
+            "value":"Thay thế",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_save",
+            "value":"Trở lại và lưu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_delete_node_will_not_preserve_task",
+            "value":"Xóa nút?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_3D_cartoon",
+            "value":"Phim hoạt hình 3D",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_multi_region_selection",
+            "value":"Chỉ có thể chọn một ảnh tại một thời điểm.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_task",
+            "value":"Thoát ngay?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_replace_image",
+            "value":"Các nét vẽ và vùng chọn bạn đã tạo trong hình ảnh gốc sẽ bị loại bỏ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_original_ratio",
+            "value":"Gốc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_max_prompt_node_input_length",
+            "value":"Đã đạt đến giới hạn ký tự.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_restore",
+            "value":"Khôi phục",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_collapse",
+            "value":"Thu gọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser",
+            "value":"Cục gôm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_small",
+            "value":"Cục gôm nhỏ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_medium",
+            "value":"Cục gôm vừa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_large",
+            "value":"Cục gôm lớn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_left_resize_handle_hint",
+            "value":"Góc trên cùng bên trái hộp sửa, chạm đúp và giữ, sau đó kéo để điều chỉnh kích cỡ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_right_resize_handle_hint",
+            "value":"Góc trên cùng bên phải hộp sửa, chạm đúp và giữ, sau đó kéo để điều chỉnh kích cỡ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_complete",
+            "value":"Xong",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo",
+            "value":"Hoàn tác",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_two_finger_draw_hint",
+            "value":"Đặt hai ngón tay lên màn hình rồi kéo để vẽ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview_draw_hint",
+            "value":"Xem trước hình ảnh, chạm đúp và giữ để vẽ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_two_finger_region_selection_hint",
+            "value":"Giữ hai ngón tay trên màn hình rồi kéo để chọn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_detail",
+            "value":"Chi tiết hình ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_recover",
+            "value":"Làm lại",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_instruction",
+            "value":"Chọn vùng cần điều chỉnh, sau đó nhập mô tả để tạo hình ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_pen_ballpoint",
+            "value":"Bút bi",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

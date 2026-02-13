@@ -2477,6 +2477,328 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_brush_size_small",
+            "value":"Small",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_size_medium",
+            "value":"Medium",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_size_large",
+            "value":"Large",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_generator_node",
+            "value":"Add generator node",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_doodle_node",
+            "value":"Add doodle node",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_doodle",
+            "value":"Add doodle",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"creating_through_hand_drawn_graffiti",
+            "value":"Create images from your doodles",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_image",
+            "value":"Add image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_right_resize_handle_hint",
+            "value":"Bottom right corner of editing box, double-tap and hold, then drag to adjust the size",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_left_resize_handle_hint",
+            "value":"Bottom left corner of editing box, double-tap and hold, then drag to adjust the size",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_image_node",
+            "value":"Add image node",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preprocess_exception",
+            "value":"Image processing error.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_back_to_center",
+            "value":"Back to centre",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"minimize",
+            "value":"Minimise",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_pixel",
+            "value":"Pixel art",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node",
+            "value":"Deleting this node will cancel the current image generation task.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_wash_painting",
+            "value":"Ink wash",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_image_view",
+            "value":"Image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_sketch",
+            "value":"Sketch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_exit",
+            "value":"Exit",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_replace",
+            "value":"Replace",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_save",
+            "value":"Go back & save",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_delete_node_will_not_preserve_task",
+            "value":"Delete node?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_3D_cartoon",
+            "value":"3D cartoon",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_multi_region_selection",
+            "value":"Selection is only available with one image at a time.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_exit_will_not_preserve_task",
+            "value":"Exit now?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_replace_image",
+            "value":"Doodles and selections you made in the original image will be discarded.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_original_ratio",
+            "value":"Original",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_max_prompt_node_input_length",
+            "value":"Character limit reached.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_restore",
+            "value":"Restore",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_collapse",
+            "value":"Collapse",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser",
+            "value":"Eraser",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_small",
+            "value":"Small eraser",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_medium",
+            "value":"Medium eraser",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_eraser_size_large",
+            "value":"Large eraser",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_left_resize_handle_hint",
+            "value":"Top left corner of editing box, double-tap and hold, then drag to adjust the size",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_right_resize_handle_hint",
+            "value":"Top right corner of editing box, double-tap and hold, then drag to adjust the size",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_complete",
+            "value":"Done",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo",
+            "value":"Undo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_two_finger_draw_hint",
+            "value":"Place two fingers on the screen, then drag to draw",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview_draw_hint",
+            "value":"Preview image, double-tap and hold to draw",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_two_finger_region_selection_hint",
+            "value":"Hold two fingers on the screen, then drag to select",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_detail",
+            "value":"Image details",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_recover",
+            "value":"Redo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_instruction",
+            "value":"Select an area to adjust, then enter a description to generate an image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_pen_ballpoint",
+            "value":"Ballpoint pen",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
