@@ -38799,6 +38799,22 @@
             "type": "string",
             "name":"image_generation_material_format_invalid_partial_message",
             "order": 7684
+        },
+        {
+            "type":"media",
+            "name":"ic_water_mark",
+            "order":7685,
+            "flags": "private"
+        },
+        {
+            "type":"string",
+            "name":"image_generation_report_content",
+            "order": 7686
+        },
+        {
+            "type":"string",
+            "name":"image_generation_content_infringement",
+            "order": 7687
         }
     ]
 }
