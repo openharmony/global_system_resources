@@ -38801,20 +38801,29 @@
             "order": 7684
         },
         {
-            "type":"media",
-            "name":"ic_water_mark",
-            "order":7685,
-            "flags": "private"
+            "type": "string",
+            "name":"image_generation_describe_modify_select",
+            "order": 7685
+        },
+        {
+            "type": "string",
+            "name":"image_generation_some_resource_invalid",
+            "order": 7686
+        },
+        {
+            "type": "string",
+            "name":"image_generation_exit_confirm_generating",
+            "order": 7687
         },
         {
             "type":"string",
             "name":"image_generation_report_content",
-            "order": 7686
+            "order": 7688
         },
         {
             "type":"string",
             "name":"image_generation_content_infringement",
-            "order": 7687
+            "order": 7689
         }
     ]
 }
