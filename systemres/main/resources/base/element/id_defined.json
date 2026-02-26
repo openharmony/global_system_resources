@@ -38799,6 +38799,21 @@
             "type": "string",
             "name":"image_generation_material_format_invalid_partial_message",
             "order": 7684
+        },
+        {
+            "type": "string",
+            "name":"image_generation_describe_modify_select",
+            "order": 7685
+        },
+        {
+            "type": "string",
+            "name":"image_generation_some_resource_invalid",
+            "order": 7686
+        },
+        {
+            "type": "string",
+            "name":"image_generation_exit_confirm_generating",
+            "order": 7687
         }
     ]
 }
