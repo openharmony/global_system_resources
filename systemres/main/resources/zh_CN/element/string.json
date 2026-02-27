@@ -3502,6 +3502,14 @@
         {
             "name":"image_generation_exit_confirm_generating",
             "value": "退出将无法保留创作，关闭后将中断当前生图流程，已生成的内容无法保存，是否关闭？"
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"内容举报"
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"内容侵权"
         }
     ]
 }

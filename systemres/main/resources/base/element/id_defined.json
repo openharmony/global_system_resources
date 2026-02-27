@@ -38814,6 +38814,16 @@
             "type": "string",
             "name":"image_generation_exit_confirm_generating",
             "order": 7687
+        },
+        {
+            "type":"string",
+            "name":"image_generation_report_content",
+            "order": 7688
+        },
+        {
+            "type":"string",
+            "name":"image_generation_content_infringement",
+            "order": 7689
         }
     ]
 }

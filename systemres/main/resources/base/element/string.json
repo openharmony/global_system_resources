@@ -3646,6 +3646,14 @@
         {
             "name":"image_generation_exit_confirm_generating",
             "value": "If you exit, the creation process will be interrupted. The generated content cannot be saved. Are you sure you want to close it?"
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"Report content"
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"Content infringement"
         }
     ]
 }
