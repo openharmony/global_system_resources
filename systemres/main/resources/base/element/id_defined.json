@@ -38824,6 +38824,11 @@
             "type":"string",
             "name":"image_generation_content_infringement",
             "order": 7689
+        },
+        {
+            "type":"string",
+            "name":"voice_button_text",
+            "order": 7690
         }
     ]
 }
