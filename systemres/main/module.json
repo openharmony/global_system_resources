@@ -2561,6 +2561,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ENTERPRISE_MANAGE_PRINT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_PRINT_JOB",
                 "grantMode": "system_grant",
                 "since": 10,
