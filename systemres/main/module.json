@@ -6726,6 +6726,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SCAN_REMEDIATE_VIRUS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.GET_AGENT_CARD",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
