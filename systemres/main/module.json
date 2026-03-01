@@ -5613,6 +5613,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.DATACLONE_ACCESS_FILE_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.WRITE_DHA",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
@@ -6690,7 +6699,34 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_STANDBY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_STANDBY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 23,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACQUIRE_LOCAL_ACCOUNT_AUTHORIZATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SCAN_REMEDIATE_VIRUS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 24,
@@ -6709,6 +6745,24 @@
             },
             {
                 "name": "ohos.permission.CONNECT_AGENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CONNECT_OBJECTEDITOR_EXTENSION",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.REGISTER_OBJECTEDITOR_EXTENSION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 24,
