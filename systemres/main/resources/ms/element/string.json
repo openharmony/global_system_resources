@@ -2799,6 +2799,132 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_relative_position_prompt",
+            "value":"Tentukan tataletak dengan mengalihkan dan mensaiz semula imej di atas.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_label",
+            "value":"Tera air dijanakan AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generator",
+            "value":"Penjana",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_material_format_invalid_partial_message",
+            "value":"Hanya sesetengah bahan ditunjukkan. Bahan lain adalah dalam format tidak disokong.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_help",
+            "value":"Bantuan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_template",
+            "value":"Templat",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_generating",
+            "value":"Menjanakan…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_remember_choice",
+            "value":"Ingati pilihan saya",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add",
+            "value":"Tambah",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto",
+            "value":"Auto",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_text",
+            "value":"Teks",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview",
+            "value":"Pralihat imej",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_confirm_close",
+            "value":"Nyahdayakan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_item_count_format",
+            "value":"Item %1$d daripada %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_text_node",
+            "value":"Tambah nod teks",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_add_dialog_title",
+            "value":"Tambah tera air?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_close_confirm_message",
+            "value":"Imej dijanakan AI yang anda simpan tidak akan mengandungi tera air \"Dijanakan AI\" lagi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "value":"Imej mengandungi kandungan dijanakan AI. Inginkah anda menambah tera air \"Dijanakan AI\"? Anda boleh menukarkan keutamaan anda pada bila-bila masa dalam Lagi > Tera air dijanakan AI.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

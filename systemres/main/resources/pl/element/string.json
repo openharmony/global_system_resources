@@ -2799,6 +2799,132 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_relative_position_prompt",
+            "value":"Określ układ poprzez przeniesienie i zmianę rozmiaru powyższych zdjęć.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_label",
+            "value":"Znak wodny wygenerowane przez AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generator",
+            "value":"Generator",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_material_format_invalid_partial_message",
+            "value":"Pokazane są jedynie niektóre materiały. Pozostałe są w formatach, które nie są obsługiwane.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_help",
+            "value":"Pomoc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_template",
+            "value":"Szablon",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_generating",
+            "value":"Generowanie…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_remember_choice",
+            "value":"Zapamiętaj mój wybór",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add",
+            "value":"Dodaj",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto",
+            "value":"Automatycznie",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_text",
+            "value":"Tekst",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview",
+            "value":"Podgląd obrazu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_confirm_close",
+            "value":"Wyłącz",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_item_count_format",
+            "value":"Element %1$d z %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_text_node",
+            "value":"Dodaj węzeł tekstowy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_add_dialog_title",
+            "value":"Dodać znak wodny?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_close_confirm_message",
+            "value":"Zapisane przez Ciebie zdjęcia wygenerowane przez AI nie będą odtąd zawierać znaku wodnego „wygenerowane przez AI”.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "value":"Ten obraz zawiera treści wygenerowane przez sztuczną inteligencję. Czy chcesz dodać znak wodny „Wygenerowane przez AI”? Zawsze możesz zmienić preferencje w sekcji Więcej > Znak wodny „Wygenerowane przez AI”.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

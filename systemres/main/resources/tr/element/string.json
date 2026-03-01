@@ -2799,6 +2799,132 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_relative_position_prompt",
+            "value":"Yukarıdaki görselleri taşıyarak ve yeniden boyutlandırarak bir düzen oluşturun.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_label",
+            "value":"Yapay zeka tarafından oluşturuldu filigranı",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generator",
+            "value":"Oluşturucu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_material_format_invalid_partial_message",
+            "value":"Yalnızca bazı materyaller gösteriliyor. Geri kalan materyallerin formatı desteklenmiyor.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_help",
+            "value":"Yardım",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_template",
+            "value":"Şablon",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_generating",
+            "value":"Oluşturuluyor…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_remember_choice",
+            "value":"Seçimimi hatırla",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add",
+            "value":"Ekle",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto",
+            "value":"Otomatik",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_text",
+            "value":"Metin",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview",
+            "value":"Ön izleme görseli",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_confirm_close",
+            "value":"Devre dışı bırak",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_item_count_format",
+            "value":"Öğe %1$d/%2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_text_node",
+            "value":"Metin düğümü ekle",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_add_dialog_title",
+            "value":"Filigran eklensin mi?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_close_confirm_message",
+            "value":"Yapay zeka tarafından oluşturulan görselleri kaydettiğinizde artık \"Yapay zeka tarafından oluşturuldu\" filigranı eklenmeyecek.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "value":"Görsel, yapay zeka tarafından oluşturulmuş içerik içeriyor. \"Yapay zeka tarafından oluşturuldu\" filigranı eklemek ister misiniz? Tercihlerinizi istediğiniz zaman Diğer > Yapay zeka tarafından oluşturuldu filigranı bölümünden değiştirebilirsiniz.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

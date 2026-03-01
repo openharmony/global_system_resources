@@ -2841,6 +2841,132 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_relative_position_prompt",
+            "value":"Toucher ici permet de spécifier une disposition en bougeant et en redimensionnant les images ci-dessus.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_label",
+            "value":"Filigrane généré par l'IA",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generator",
+            "value":"Générateur",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_material_format_invalid_partial_message",
+            "value":"Seuls certains matériaux sont affichés. Les autres sont dans des formats qui ne sont pas pris en charge.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_help",
+            "value":"Aide",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_template",
+            "value":"Modèle",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_generating",
+            "value":"Génération en cours.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_remember_choice",
+            "value":"Se souvenir de mon choix",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add",
+            "value":"Ajouter",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto",
+            "value":"Automatique",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_text",
+            "value":"Texte",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview",
+            "value":"Aperçu de l'image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_confirm_close",
+            "value":"Désactiver",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_item_count_format",
+            "value":"Élément %1$d sur %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_text_node",
+            "value":"Ajouter un nœud de texte",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_add_dialog_title",
+            "value":"Ajouter un filigrane ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_close_confirm_message",
+            "value":"Les images générées par l'IA que vous enregistrez ne contiendront plus de filigrane \"généré par l'IA\".",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "value":"L'image contient du contenu généré par l'IA. Ajouter un filigrane \"Généré par l'IA\" ? Vous pouvez modifier vos préférences à tout moment sous Plus > Filigrane généré par l'IA.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

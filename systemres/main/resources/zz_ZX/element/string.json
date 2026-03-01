@@ -2319,6 +2319,78 @@
         {
             "name":"image_generation_pen_ballpoint",
             "value":"[TS_1179988]_Ballpoint pen"
+        },
+        {
+            "name":"image_generation_relative_position_prompt",
+            "value":"[TS_1180640]_Specify a layout by moving and resizing the images above."
+        },
+        {
+            "name":"image_generation_ai_synthesis_label",
+            "value":"[TS_1180007]_AI-generated watermark"
+        },
+        {
+            "name":"image_generation_generator",
+            "value":"[TS_1180634]_Generator"
+        },
+        {
+            "name":"image_generation_material_format_invalid_partial_message",
+            "value":"[TS_1181228]_Only some materials are shown. The rest are in formats that aren't supported."
+        },
+        {
+            "name":"image_generation_help",
+            "value":"[TS_1180006]_Help"
+        },
+        {
+            "name":"image_generation_template",
+            "value":"[TS_1180633]_Template"
+        },
+        {
+            "name":"ai_generating",
+            "value":"[TS_1180638]_Generating…"
+        },
+        {
+            "name":"image_generation_remember_choice",
+            "value":"[TS_1179978]_Remember my choice"
+        },
+        {
+            "name":"image_generation_add",
+            "value":"[TS_1179989]_Add"
+        },
+        {
+            "name":"image_generation_auto",
+            "value":"[TS_1180637]_Auto"
+        },
+        {
+            "name":"image_generation_text",
+            "value":"[TS_1180635]_Text"
+        },
+        {
+            "name":"image_generation_preview",
+            "value":"[TS_1180639]_Preview image"
+        },
+        {
+            "name":"image_generation_confirm_close",
+            "value":"[TS_1179982]_Disable"
+        },
+        {
+            "name":"image_generation_item_count_format",
+            "value":"[TS_1179993]_Item %1$d of %2$d"
+        },
+        {
+            "name":"image_generation_add_text_node",
+            "value":"[TS_1179984]_Add text node"
+        },
+        {
+            "name":"image_generation_watermark_add_dialog_title",
+            "value":"[TS_1179995]_Add watermark?"
+        },
+        {
+            "name":"image_generation_watermark_close_confirm_message",
+            "value":"[TS_1179987]_AI-generated images you save will no longer contain an \"AI-generated\" watermark."
+        },
+        {
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "value":"[TS_1179998]_The image contains AI-generated content. Would you like to add an \"AI-generated\" watermark? You can change your preferences at any time in More > AI-generated watermark."
         }
     ]
 }

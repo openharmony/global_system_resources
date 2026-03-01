@@ -2838,6 +2838,132 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_relative_position_prompt",
+            "value":"حدد تخطيطًا عن طريق تحريك الصور أعلاه وتغيير حجمها.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_label",
+            "value":"إضافة العلامة المائية \"مُنشأة بواسطة الذكاء الاصطناعي\"",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generator",
+            "value":"المُنشِئ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_material_format_invalid_partial_message",
+            "value":"تم عرض بعض المواد فقط. والمواد المُتبقية تنسيقاتها غير مدعومة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_help",
+            "value":"مساعدة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_template",
+            "value":"قالب",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_generating",
+            "value":"جارٍ الإنشاء…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_remember_choice",
+            "value":"تذكر اختياري",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add",
+            "value":"إضافة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto",
+            "value":"تلقائي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_text",
+            "value":"نص",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview",
+            "value":"معاينة الصورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_confirm_close",
+            "value":"إيقاف",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_item_count_format",
+            "value":"العنصر رقم %1$d من إجمالي %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_text_node",
+            "value":"إضافة عقدة نص",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_add_dialog_title",
+            "value":"هل تريد إضافة علامة مائية؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_close_confirm_message",
+            "value":"لن تحتوي الصور المحفوظة المُنشأة بواسطة الذكاء الاصطناعي على العلامة المائية \"مُنشأة بواسطة الذكاء الاصطناعي\".",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "value":"تحتوي الصورة على محتوى مُنشأ بواسطة الذكاء الاصطناعي. هل تريد إضافة العلامة المائية \"مُنشأة بواسطة الذكاء الاصطناعي\"؟ يمكنك تغيير تفضيلاتك في أي وقت من \"المزيد > إضافة العلامة المائية \"مُنشأة بواسطة الذكاء الاصطناعي\"\".",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

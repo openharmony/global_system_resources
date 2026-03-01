@@ -2799,6 +2799,132 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_relative_position_prompt",
+            "value":"ກຳນົດແຜນຜັງໂດຍການຍ້າຍ ແລະ ປ່ຽນຂະໜາດຮູບພາບຂ້າງເທິງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_label",
+            "value":"ເງົາພື້ນຫຼັງທີ່ສ້າງໂດຍ AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generator",
+            "value":"ຜູ້ສ້າງ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_material_format_invalid_partial_message",
+            "value":"ສະແດງສະເພາະບາງເນື້ອຫາເທົ່ານັ້ນ. ສ່ວນທີ່ເຫຼືອຢູ່ໃນຮູບແບບທີ່ບໍ່ຮອງຮັບ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_help",
+            "value":"ຊ່ວຍເຫຼືອ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_template",
+            "value":"ແມ່ແບບ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_generating",
+            "value":"ກຳລັງສ້າງ…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_remember_choice",
+            "value":"ຈື່ຕົວເລືອກຂອງຂ້ອຍໄວ້",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add",
+            "value":"ເພີ່ມ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto",
+            "value":"ອັດຕະໂນມັດ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_text",
+            "value":"ຂໍ້ຄວາມ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview",
+            "value":"ເບິ່ງຕົວຢ່າງຮູບພາບ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_confirm_close",
+            "value":"ປິດໃຊ້ງານ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_item_count_format",
+            "value":"ລາຍການ %1$d ໃນ %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_text_node",
+            "value":"ເພີ່ມໂນດຂໍ້ຄວາມ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_add_dialog_title",
+            "value":"ເພີ່ມເງົາພື້ນຫຼັງບໍ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_close_confirm_message",
+            "value":"ຮູບພາບທີ່ສ້າງໂດຍ AI ທີ່ທ່ານບັນທຶກຈະບໍ່ມີເງົາພື້ນຫຼັງ \"ທີ່ສ້າງໂດຍ AI\" ອີກຕໍ່ໄປ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "value":"ຮູບພາບມີເນື້ອຫາທີ່ສ້າງດ້ວຍ AI. ທ່ານຕ້ອງການເພີ່ມເງົາພື້ນຫຼັງ \"ສ້າງດ້ວຍ AI\" ບໍ? ທ່ານສາມາດປ່ຽນການຕັ້ງຄ່າຂອງທ່ານໄດ້ທຸກເວລາໃນ ເພີ່ມເຕີມ > ເງົາພື້ນຫຼັງທີ່ສ້າງດ້ວຍ AI.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -2682,7 +2682,10 @@
         },
         {
             "name":"ai_generating",
-            "value":"Generating"
+            "value":"Generating…",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"minimize",
@@ -2956,7 +2959,7 @@
         },
         {
             "name":"prompt_to_clear_the_canvas",
-            "value":"This will delete all node content on the canvas. This operation cannot be undone.",
+            "value":"This will remove all nodes from the canvas and cannot be undone.",
             "attr":{
                 "priority":"translate"
             }
@@ -3372,39 +3375,66 @@
         },
         {
             "name":"image_generation_ai_synthesis_label",
-            "value":"AI synthesis label"
+            "value":"AI-generated watermark",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_help",
-            "value":"Help"
+            "value":"Help",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
-            "value":"After closing, the watermark will be removed when saving AI-generated images"
+            "value":"AI-generated images you save will no longer contain an \"AI-generated\" watermark.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_confirm_close",
-            "value":"Confirm close"
+            "value":"Disable",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"Add watermark"
+            "value":"Add watermark?",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"The image contains AI-generated content. Do you want to add an AI synthesis label? You can change this later in \"More\" > \"AI synthesis label\""
+            "value":"The image contains AI-generated content. Would you like to add an \"AI-generated\" watermark? You can change your preferences at any time in More > AI-generated watermark.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_remember_choice",
-            "value":"Remember my choice"
+            "value":"Remember my choice",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_add",
-            "value":"Add"
+            "value":"Add",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_do_not_add",
-            "value":"Don't add"
+            "value":"Don't add",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_preprocess_exception",
@@ -3415,7 +3445,10 @@
         },
         {
             "name":"image_generation_item_count_format",
-            "value":"Item %1$d of %2$d"
+            "value":"Item %1$d of %2$d",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_detail",
@@ -3538,7 +3571,10 @@
         },
         {
             "name":"image_generation_add_text_node",
-            "value":"Add text node"
+            "value":"Add text node",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_add_generator_node",
@@ -3609,31 +3645,52 @@
         },
         {
             "name":"image_generation_relative_position_prompt",
-            "value":"Create with reference to relative positions of added images"
+            "value":"Specify a layout by moving and resizing images above.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_preview",
-            "value":"Preview"
+            "value":"Preview image",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_text",
-            "value":"Text"
+            "value":"Text",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_generator",
-            "value":"Generator"
+            "value":"Generator",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_template",
-            "value":"Template"
+            "value":"Template",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_auto",
-            "value":"Auto"
+            "value":"Auto",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_material_format_invalid_partial_message",
-            "value":"Some materials do not meet format requirements. The remaining materials are displayed normally."
+            "value":"Only some materials are shown. The rest are in formats that aren't supported.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

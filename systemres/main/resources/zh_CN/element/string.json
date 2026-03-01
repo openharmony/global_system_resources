@@ -2534,7 +2534,10 @@
         },
         {
             "name":"ai_generating",
-            "value":"AI生成中"
+            "value":"AI 生成中",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"minimize",
@@ -3228,39 +3231,66 @@
         },
         {
             "name":"image_generation_ai_synthesis_label",
-            "value":"AI合成标识"
+            "value":"AI 合成标识",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_help",
-            "value":"帮助"
+            "value":"帮助",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
-            "value":"关闭后，由AI生成的图片在进行保存操作时，将去除水印标识"
+            "value":"关闭后，由 AI 生成的图片在进行保存操作时，将去除水印标识。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_confirm_close",
-            "value":"确认关闭"
+            "value":"确认关闭",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"是否添加水印"
+            "value":"是否添加水印？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"图片包含AI合成内容，请选择是否添加  AI合成标识？选择后可在\"更多\">\"AI 合成标识\"中更改"
+            "value":"图片包含 AI 合成内容，请选择是否添加 AI 合成标识？选择后可在“更多”>“ AI 合成标识”中更改。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_remember_choice",
-            "value":"记住我的选择"
+            "value":"记住我的选择",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_add",
-            "value":"添加"
+            "value":"添加",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_do_not_add",
-            "value":"不添加"
+            "value":"不添加",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_preprocess_exception",
@@ -3271,7 +3301,10 @@
         },
         {
             "name":"image_generation_item_count_format",
-            "value":"第 %1$d 项，共 %2$d 项"
+            "value":"第 %1$d 项，共 %2$d 项",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_detail",
@@ -3394,7 +3427,10 @@
         },
         {
             "name":"image_generation_add_text_node",
-            "value":"添加文字节点"
+            "value":"添加文字节点",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_add_generator_node",
@@ -3465,31 +3501,52 @@
         },
         {
             "name":"image_generation_relative_position_prompt",
-            "value":"将参考添加图片的相对位置关系进行创作"
+            "value":"将参考图片的相对位置关系进行创作",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_preview",
-            "value":"预览图"
+            "value":"预览图",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_text",
-            "value":"文字"
+            "value":"文字",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_generator",
-            "value":"生成器"
+            "value":"生成器",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_template",
-            "value":"模板"
+            "value":"模板",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_auto",
-            "value":"自动"
+            "value":"自动",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_material_format_invalid_partial_message",
-            "value":"部分素材不符合格式要求，其余素材已正常显示。"
+            "value":"部分素材不符合格式要求，其余素材已正常显示。",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -2799,6 +2799,132 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_relative_position_prompt",
+            "value":"အထက်ပါပုံများကို နေရာရွှေ့ခြင်းနှင့် အရွယ်အစားပြင်ခြင်းဖြင့် ပုံစံတစ်ခုကို သတ်မှတ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_label",
+            "value":"AI ဖြင့် ဖန်တီးထားသော ရေစာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generator",
+            "value":"ဖန်တီးထုတ်လုပ်ရေး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_material_format_invalid_partial_message",
+            "value":"အကြောင်းအရာအချို့ကိုသာ ပြသထားပါသည်။ ကျန်သည့်အရာများ၏ ဖောမတ်များမှာ တွဲဖက်လုပ်ဆောင်နိုင်ခြင်း မရှိပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_help",
+            "value":"အကူအညီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_template",
+            "value":"နမူနာပုံစံ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_generating",
+            "value":"ဖန်တီးထုတ်လုပ်နေဆဲ…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_remember_choice",
+            "value":"ကျွန်ုပ်၏ ရွေးချယ်မှုကို မှတ်ထားရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add",
+            "value":"ထည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto",
+            "value":"အော်တို",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_text",
+            "value":"စာသား",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview",
+            "value":"အစမ်းကြည့် ရုပ်ပုံ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_confirm_close",
+            "value":"ပိတ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_item_count_format",
+            "value":"%2$d ခုအနက်မှ %1$d ခုမြောက်အရာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_text_node",
+            "value":"စာသား နုတ် ထည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_add_dialog_title",
+            "value":"ရေစာ ထည့်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_close_confirm_message",
+            "value":"သင်သိမ်းလိုက်သည့် AI ဖြင့် ဖန်တီးထားသော ပုံများတွင် \"AI ဖြင့် ဖန်တီးထားသည်\" ဟူသော ရေစာ မပါဝင်တော့ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "value":"ပုံတွင် AI ဖြင့် ဖန်တီးထားသော အကြောင်းအရာ ပါဝင်နေပါသည်။ \"AI ဖြင့် ဖန်တီးမှု\" ဟူသော ရေစာ ထည့်လိုပါသလား။ နောက်ထပ် > AI ဖြင့် ဖန်တီးမှု ရေစာတွင် သင်နှစ်သက်ရာကို အချိန်မရွေး ပြောင်းလဲနိုင်ပါသည်။",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
