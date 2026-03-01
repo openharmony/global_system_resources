@@ -2004,7 +2004,7 @@
         },
         {
             "name":"prompt_to_clear_the_canvas",
-            "value":"འབྲི་རས་ཀྱི་ལོ་རྒྱུས་ཚིགས་ཚེག་ཚང་མ་འཕྲལ་མར་བསུབ་རྒྱུ་ཡིན། སྒྲིག་བཀོལ་འདི་ཕྱིར་འཐེན་བྱེད་མི་ཐུབ།",
+            "value":"འབྲི་རས་ཀྱི་ཚིགས་ཚེག་ནང་དོན་ཚང་མ་བསུབ་རྒྱུ་ཡིན། སྒྲིག་བཀོལ་འདི་ཕྲིར་འཐེན་བྱེད་མི་ཐུབ།",
             "attr":{
                 "priority":"translate"
             }
@@ -2866,6 +2866,13 @@
         {
             "name":"image_generation_add",
             "value":"སྣོན་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_do_not_add",
+            "value":"མི་སྣོན།",
             "attr":{
                 "priority":"translate"
             }

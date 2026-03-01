@@ -2864,8 +2864,15 @@
             }
         },
         {
+            "name":"image_generation_do_not_add",
+            "value":"Ekleme",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_auto",
-            "value":"Otomatik",
+r            "value":"Otomatik",
             "attr":{
                 "priority":"translate"
             }
