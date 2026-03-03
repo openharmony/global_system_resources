@@ -3658,6 +3658,90 @@
         {
             "name": "voice_button_text",
             "value": "Voice button"
+        },
+        {
+            "name": "image_generation_general_guide_first",
+            "value": "Add text descriptions, images, or doodles, then tap Generate to start creating AI images quickly."
+        },
+        {
+            "name": "image_generation_general_guide_second",
+            "value": "Tap an image, then use two fingers to zoom, rotate, or drag the handles to adjust its position. The selected image will be brought to the front."
+        },
+        {
+            "name": "image_generation_general_guide_third",
+            "value": "With Keep Layout enabled, the AI will generate new images based on the positions and relationships of your placed images."
+        },
+        {
+            "name": "image_generation_general_guide_fourth",
+            "value": "Circle the area you want to adjust, add a text description, and create precisely in that region."
+        },
+        {
+            "name": "image_generation_general_guide_fifth",
+            "value": "Draw shapes you want with the doodle tool, add text descriptions, and create precisely."
+        },
+        {
+            "name": "image_generation_general_guide_sixth",
+            "value": "After creation, you can save to Gallery, add to notes or sticker library, re-edit, or keep creating based on the result."
+        },
+        {
+            "name": "image_generation_canvas_guide_first",
+            "value": "Create on the canvas by connecting nodes with lines."
+        },
+        {
+            "name": "image_generation_canvas_guide_second",
+            "value": "Add image, text, and generator nodes from the toolbar, or use templates to create text-to-image and image-to-image workflows."
+        },
+        {
+            "name": "image_generation_canvas_guide_third",
+            "value": "Connect image, text, and generator nodes together."
+        },
+        {
+            "name": "image_generation_canvas_guide_fourth",
+            "value": "Tap a node and use the pop-up menu to edit its content."
+        },
+        {
+            "name": "image_generation_canvas_guide_fifth",
+            "value": "Tap a node, then tap the floating bubble to quickly connect it with other nodes."
+        },
+        {
+            "name": "image_generation_canvas_guide_sixth",
+            "value": "Tap the Generate button on the image generator node to finish creation."
+        },
+        {
+            "name": "image_generation_guide_learn_more",
+            "value": "Learn more"
+        },
+        {
+            "name": "image_generation_general_guide_adjust_image_position",
+            "value": "Adjust image position"
+        },
+        {
+            "name": "image_generation_general_guide_complete_creation",
+            "value": "Complete creation"
+        },
+        {
+            "name": "image_generation_canvas_guide_add_node",
+            "value": "Add node"
+        },
+        {
+            "name": "image_generation_canvas_guide_node_connection",
+            "value": "Node connection"
+        },
+        {
+            "name": "image_generation_canvas_guide_edit_node_content",
+            "value": "Edit node content"
+        },
+        {
+            "name": "image_generation_canvas_guide_quick_connect",
+            "value": "Quick connect"
+        },
+        {
+            "name": "image_generation_canvas_guide_generate_image",
+            "value": "Generate image"
+        },
+        {
+            "name": "image_generation_guide_try_it_now",
+            "value": "Try it now"
         }
     ]
 }
