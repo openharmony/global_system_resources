@@ -2941,13 +2941,6 @@
             }
         },
         {
-            "name":"ai_canvas",
-            "value":"Advanced mode",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"Clear canvas?",
             "attr":{
@@ -3006,13 +2999,6 @@
         {
             "name":"image_generation_from_graffiti",
             "value":"Doodle to image",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_expand",
-            "value":"Please switch to the main screen to use.",
             "attr":{
                 "priority":"translate"
             }
@@ -3159,7 +3145,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Your image generation task is not yet complete. Exiting Canvas mode will terminate this generation process. Do you want to exit?",
+            "value":"Your image generation task is not yet complete. Exiting will terminate this generation process. Do you want to exit?",
             "attr":{
                 "priority":"translate"
             }

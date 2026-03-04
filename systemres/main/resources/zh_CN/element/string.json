@@ -2793,13 +2793,6 @@
             }
         },
         {
-            "name":"ai_canvas",
-            "value":"画布模式",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"清空画布",
             "attr":{
@@ -2858,13 +2851,6 @@
         {
             "name":"image_generation_from_graffiti",
             "value":"涂鸦生图",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_expand",
-            "value":"请切换至内屏使用",
             "attr":{
                 "priority":"translate"
             }
@@ -3015,7 +3001,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"您的生图任务尚未完成，退出画布模式将终止本次生图进程，是否退出？",
+            "value":"您的生图任务尚未完成，退出将终止本次生图进程，是否退出？",
             "attr":{
                 "priority":"translate"
             }

@@ -36706,7 +36706,8 @@
         {
             "type": "string",
             "name": "ai_canvas",
-            "order": 7268
+            "order": 7268,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -36876,7 +36877,8 @@
         {
             "type": "string",
             "name": "node_graph_expand",
-            "order": 7302
+            "order": 7302,
+            "flags":"private"
         },
         {
             "type": "string",
