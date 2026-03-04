@@ -36897,12 +36897,14 @@
         {
             "type": "string",
             "name": "node_graph_graffiti_save_title",
-            "order": 7306
+            "order": 7306,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "node_graph_confirm_save",
-            "order": 7307
+            "order": 7307,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -37769,7 +37771,8 @@
         {
             "type": "string",
             "name": "node_graph_image_download_failed",
-            "order": 7479
+            "order": 7479,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -37805,17 +37808,20 @@
         {
             "type": "string",
             "name": "node_graph_saved_to_gallery",
-            "order": 7486
+            "order": 7486,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "node_graph_added_to_notes",
-            "order": 7487
+            "order": 7487,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "node_graph_added_to_stickers",
-            "order": 7488
+            "order": 7488,
+            "flags":"private"
         },
         {
             "type": "string",

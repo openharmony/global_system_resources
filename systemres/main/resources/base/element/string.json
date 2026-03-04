@@ -3032,14 +3032,6 @@
             }
         },
         {
-            "name":"node_graph_graffiti_save_title",
-            "value":"Graffiti record retention"
-        },
-        {
-            "name":"node_graph_confirm_save",
-            "value":"You have unsaved modifications, please confirm if you want to save them."
-        },
-        {
             "name":"node_graph_photo_save",
             "value":"Saved to Gallery.",
             "attr":{
@@ -3131,10 +3123,6 @@
             }
         },
         {
-            "name":"node_graph_image_download_failed",
-            "value":"Image download failed."
-        },
-        {
             "name":"node_graph_server_exception",
             "value":"Server error. Try again later.",
             "attr":{
@@ -3168,18 +3156,6 @@
             "attr":{
                 "priority":"translate"
             }
-        },
-        {
-            "name":"node_graph_saved_to_gallery",
-            "value":"Saved to the gallery."
-        },
-        {
-            "name":"node_graph_added_to_notes",
-            "value":"Added to notes."
-        },
-        {
-            "name":"node_graph_added_to_stickers",
-            "value":"Added to stickers."
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
