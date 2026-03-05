@@ -3854,6 +3854,14 @@
                 {
                     "name": "popup_arrow_width",
                     "value": "$float:popup_arrow_width"
+                },
+                {
+                    "name": "popup_button_response_region",
+                    "value": "$float:popup_button_response_region"
+                },
+                {
+                    "name": "popup_close_button_response_region",
+                    "value": "$float:popup_close_button_response_region"
                 }
             ]
         },

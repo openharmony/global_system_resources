@@ -38957,6 +38957,16 @@
             "type":"string",
             "name":"image_generation_guide_add_options",
             "order": 7714
+        },
+        {
+            "type": "float",
+            "name": "popup_button_response_region",
+            "order": 7715
+        },
+        {
+            "type": "float",
+            "name": "popup_close_button_response_region",
+            "order": 7716
         }
     ]
 }
