@@ -38959,24 +38959,34 @@
             "order": 7714
         },
         {
-            "type":"float",
-            "name":"chip_touch_hot_zone_x",
+            "type": "float",
+            "name": "popup_button_response_region",
             "order": 7715
         },
         {
-            "type":"float",
-            "name":"chip_touch_hot_zone_y",
+            "type": "float",
+            "name": "popup_close_button_response_region",
             "order": 7716
         },
-        {
+            {
             "type":"float",
-            "name":"chip_touch_hot_zone_width",
+            "name":"chip_touch_hot_zone_x",
             "order": 7717
         },
         {
             "type":"float",
-            "name":"chip_touch_hot_zone_height",
+            "name":"chip_touch_hot_zone_y",
             "order": 7718
+        },
+        {
+            "type":"float",
+            "name":"chip_touch_hot_zone_width",
+            "order": 7719
+        },
+        {
+            "type":"float",
+            "name":"chip_touch_hot_zone_height",
+            "order": 7720
         }
     ]
 }
