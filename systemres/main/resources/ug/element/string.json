@@ -2792,6 +2792,139 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_relative_position_prompt",
+            "value":"پايدىلانما رەسىملەرنىڭ ئورۇن مۇناسىۋىتى بويىچە قۇرۇلىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_label",
+            "value":"‏AI ئىشلىگەنلىك بەلگىسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generator",
+            "value":"قۇرغۇچ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_material_format_invalid_partial_message",
+            "value":"بەزى ماتېرىيالنىڭ فورماتى تەلەپكە ئۇيغۇن ئەمەس، باشقىلىرى كۆرسىتىلدى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_help",
+            "value":"ياردەم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_template",
+            "value":"قېلىپ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ai_generating",
+            "value":"‏AI ئىشلەۋاتىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_remember_choice",
+            "value":"تاللىشىم ساقلانسۇن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add",
+            "value":"قوشۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_do_not_add",
+            "value":"قوشمايمەن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto",
+            "value":"ئۆزلۈكىدىن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_text",
+            "value":"يېزىق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview",
+            "value":"كۆرەك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_confirm_close",
+            "value":"ئېتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_item_count_format",
+            "value":"%1$d-نەرسە، جەمئىي %2$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_text_node",
+            "value":"تېكىست تۈگۈنى قوشۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_add_dialog_title",
+            "value":"سۇباسما قوشامسىز؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_watermark_close_confirm_message",
+            "value":"ئەتسىڭىز، AI ئارقىلىق ئىشلىگەن رەسىمنى ساقلىغاندا سۇباسما بەلگە بىللە ساقلانمايدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_synthesis_watermark_message",
+            "value":"بۇ رەسىمدە AI ئارقىلىق بىرىكتۈرگەن مەزمۇن بار، AI ئىشلىگەنلىك بەلگىسى قوشامسىز؟ قوشۇشنى تاللاپ بولۇپ، كېيىن باشقىلار > AI ئىشلىگەنلىك بەلگىسى دېگەن ئورۇندىن ئۆزگەرتەلەيسىز.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
