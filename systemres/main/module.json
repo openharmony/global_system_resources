@@ -6787,6 +6787,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.HDR_BRIGHTNESS",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
