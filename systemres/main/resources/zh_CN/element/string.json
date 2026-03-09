@@ -3629,6 +3629,34 @@
         {
             "name":"image_generation_guide_add_options",
             "value":"选择“风格”、“比例”、“清晰度”，进行配置"
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"AI 合成标识"
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"多选"
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"完成"
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"轻点以选中单独节点，划动以框选多节点"
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"选择工作流"
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"套索"
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"网络连接已中断，请检查网络设置"
         }
     ]
 }
