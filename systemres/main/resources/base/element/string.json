@@ -2875,7 +2875,7 @@
         },
         {
             "name":"image_reference",
-            "value":"Image input",
+            "value":"Reference image",
             "attr":{
                 "priority":"translate"
             }
@@ -3680,7 +3680,7 @@
         },
         {
             "name": "image_generation_general_guide_first",
-            "value": "Add text descriptions, images, or doodles, then tap Generate to start creating AI images quickly."
+            "value": "Add text descriptions, images, or doodles, then tap Generate to start creating AI images quickly.%s"
         },
         {
             "name": "image_generation_general_guide_second",
@@ -3700,11 +3700,11 @@
         },
         {
             "name": "image_generation_general_guide_sixth",
-            "value": "After creation, you can save to Gallery, add to notes or sticker library, re-edit, or keep creating based on the result."
+            "value": "After creation, you can save to Gallery, add to notes or sticker library, re-edit, or keep creating based on the result.%s"
         },
         {
             "name": "image_generation_canvas_guide_first",
-            "value": "Create on the canvas by connecting nodes with lines."
+            "value": "Create on the canvas by connecting nodes with lines.%s"
         },
         {
             "name": "image_generation_canvas_guide_second",
@@ -3724,7 +3724,7 @@
         },
         {
             "name": "image_generation_canvas_guide_sixth",
-            "value": "Tap the Generate button on the image generator node to finish creation."
+            "value": "Tap the Generate button on the image generator node to finish creation.%s"
         },
         {
             "name": "image_generation_guide_learn_more",
