@@ -2918,6 +2918,13 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Döndürme kontrolü, mevcut açı %1$s. Çift dokunup basılı tutun, ardından çerçeveyi %2$d ila %3$d derece arasında bir değere ayarlamak için sürükleyin.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -2960,6 +2960,13 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Điều khiển xoay, góc hiện tại là %1$s. Chạm đúp và giữ, sau đó kéo để điều chỉnh khung hình từ %2$d đến %3$d độ.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

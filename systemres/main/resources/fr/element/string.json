@@ -2960,6 +2960,13 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Contrôle de rotation, l'angle actuel est de %1$s. Toucher deux fois et maintenir, puis faire glisser pour ajuster le cadre n'importe où entre %2$d et %3$d degrés.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

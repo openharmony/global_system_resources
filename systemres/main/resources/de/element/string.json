@@ -2918,6 +2918,13 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Drehungssteuerung, aktueller Winkel ist %1$s. Zweimal antippen und halten, dann ziehen, um den Rahmen zwischen %2$d und %3$d Grad anzupassen.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
