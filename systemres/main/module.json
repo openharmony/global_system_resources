@@ -6744,6 +6744,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.GET_LOCAL_ACCOUNT_IDENTIFIERS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.SCAN_REMEDIATE_VIRUS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
