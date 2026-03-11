@@ -3689,6 +3689,54 @@
         {
             "name":"image_generation_generated_failed",
             "value":"AI生成失败"
-        }
+        },
+ 	    {
+ 	        "name":"image_generation_region_selection_operation_guidance",
+ 	        "value":"请连接文字节点，并描述如何修改圈选区域"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_region_selection_prompt",
+ 	        "value":"圈选想要调整的区域"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_untitled_canvas",
+ 	        "value":"未命名画布"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_my_canvas",
+ 	        "value":"我的画布"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_extension",
+ 	        "value":"扩展"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_exit_extension",
+ 	        "value":"退出扩展"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_blue",
+ 	        "value":"蓝色"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_new_canvas",
+ 	        "value":"新建画布"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_hide_tab_bar_description",
+ 	        "value":"双指侧滑可隐藏更多操作"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_tab_bar_description",
+ 	        "value":"双击并按住左滑可进行更多操作"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_no_canvas",
+ 	        "value":"没有画布"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_canvas_loading",
+ 	        "value":"画布加载中"
+ 	    }
     ]
 }
