@@ -2960,6 +2960,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"Violation des droits d'auteur",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"Signaler le contenu",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

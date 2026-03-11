@@ -2960,6 +2960,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"著作権侵害",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"コンテンツの報告",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
