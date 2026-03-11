@@ -2920,6 +2920,13 @@
             }
         },
         {
+            "name":"image_generation_rotate_button_hint",
+            "value":"ການຄວບຄຸມການໝຸນ, ມຸມປະຈຸບັນແມ່ນ %1$s. ແຕະສອງຄັ້ງຄ້າງໄວ້, ຈາກນັ້ນລາກເພື່ອປັບເຟຣມບ່ອນໃດກໍໄດ້ຕັ້ງແຕ່ %2$d ຫາ %3$d ອົງສາ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"ການລະເມີດລິຂະສິດ",
             "attr":{

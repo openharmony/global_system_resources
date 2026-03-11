@@ -2962,6 +2962,13 @@
             }
         },
         {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Управление поворотом, текущий угол составляет %1$s. Нажмите дважды и удерживайте, затем перетащите, чтобы повернуть элемент, доступный диапазон от %2$d до %3$d градусов.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"Нарушение авторских прав",
             "attr":{

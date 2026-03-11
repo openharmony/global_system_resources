@@ -3561,7 +3561,10 @@
         },
         {
             "name":"image_generation_rotate_button_hint",
-            "value":"Rotation button, current angle %1$s, adjustable from %2$d to %3$d degrees, double-click and hold to slide and adjust the rotation angle of the edit box"
+            "value":"Rotation control, current angle is %1$s. Double-tap and hold, then drag to adjust the frame anywhere from %2$d to %3$d degrees.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_top_left_resize_handle_hint",
@@ -3607,7 +3610,7 @@
         },
         {
             "name":"image_generation_relative_position_prompt",
-            "value":"Specify a layout by moving and resizing images above.",
+            "value":"Specify a layout by moving and resizing the images above.",
             "attr":{
                 "priority":"translate"
             }
@@ -3833,6 +3836,54 @@
         {
             "name":"image_generation_generated_failed",
             "value":"AI generation failed"
-        }
+        },
+ 	    {
+ 	        "name":"image_generation_region_selection_operation_guidance",
+ 	        "value":"Please connect a prompt node and describe how to modify the selected area"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_region_selection_prompt",
+ 	        "value":"Select the area you want to adjust"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_untitled_canvas",
+ 	        "value":"Untitled canvas"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_my_canvas",
+ 	        "value":"My canvas"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_extension",
+ 	        "value":"Extension"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_exit_extension",
+ 	        "value":"Exit extension"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_blue",
+ 	        "value":"Blue"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_new_canvas",
+ 	        "value":"New canvas"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_hide_tab_bar_description",
+ 	        "value":"Swipe with two fingers to hide more options"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_tab_bar_description",
+ 	        "value":"Double tap and hold, then swipe left for more options"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_no_canvas",
+ 	        "value":"No canvas"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_canvas_loading",
+ 	        "value":"Canvas loading"
+ 	    }
     ]
 }

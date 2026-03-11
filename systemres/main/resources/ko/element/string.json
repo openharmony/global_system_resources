@@ -2962,6 +2962,13 @@
             }
         },
         {
+            "name":"image_generation_rotate_button_hint",
+            "value":"회전 제어, 현재 각도는 %1$s입니다. 두 번 탭하고 길게 누른 다음 드래그하여 프레임을 %2$d도에서 %3$d도 사이로 조정합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"저작권 침해",
             "attr":{

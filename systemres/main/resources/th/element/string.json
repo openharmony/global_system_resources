@@ -2920,6 +2920,13 @@
             }
         },
         {
+            "name":"image_generation_rotate_button_hint",
+            "value":"การควบคุมการหมุน มุมปัจจุบันคือ %1$s แตะสองครั้งค้างไว้ จากนั้นลากเพื่อปรับกรอบได้ตั้งแต่ %2$d ถึง %3$d องศา",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"การละเมิดลิขสิทธิ์",
             "attr":{

@@ -2920,6 +2920,13 @@
             }
         },
         {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Rotation control, current angle is %1$s. Double-tap and hold, then drag to adjust the frame anywhere from %2$d to %3$d degrees.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"Copyright infringement",
             "attr":{

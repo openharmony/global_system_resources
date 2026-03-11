@@ -39067,6 +39067,66 @@
             "type":"string",
             "name":"image_generation_generated_failed",
             "order": 7736
-        }
+        },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_region_selection_operation_guidance",
+ 	        "order": 7737
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_region_selection_prompt",
+ 	        "order": 7738
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_untitled_canvas",
+ 	        "order": 7739
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_my_canvas",
+ 	        "order": 7740
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_extension",
+ 	        "order": 7741
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_exit_extension",
+ 	        "order": 7742
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_blue",
+ 	        "order": 7743
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_new_canvas",
+ 	        "order": 7744
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_hide_tab_bar_description",
+ 	        "order": 7745
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_tab_bar_description",
+ 	        "order": 7746
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_no_canvas",
+ 	        "order": 7747
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_canvas_loading",
+ 	        "order": 7748
+ 	    }
     ]
 }

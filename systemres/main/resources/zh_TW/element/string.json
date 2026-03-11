@@ -2927,6 +2927,13 @@
             }
         },
         {
+            "name":"image_generation_rotate_button_hint",
+            "value":"旋轉按鈕，目前角度為 %1$s，可調範圍為 %2$d 至 %3$d 度，輕觸兩下並按住即可滑動調整編輯方塊旋轉角度",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"內容侵權",
             "attr":{

@@ -2962,6 +2962,13 @@
             }
         },
         {
+            "name":"image_generation_rotate_button_hint",
+            "value":"回転コントロール、現在の角度は%1$sです。2回タップして長押ししてから、ドラッグしてフレームを%2$d～%3$d度の間で自由に調整します。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"著作権侵害",
             "attr":{

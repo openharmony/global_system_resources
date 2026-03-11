@@ -1213,7 +1213,7 @@
         },
         {
             "name":"camera_use_continue",
-            "value":"Korzystaj nadal",
+            "value":"Kontynuuj",
             "attr":{
                 "priority":"translate"
             }
@@ -2915,6 +2915,13 @@
         {
             "name":"image_generation_ai_synthesis_watermark_message",
             "value":"Ten obraz zawiera treści wygenerowane przez sztuczną inteligencję. Czy chcesz dodać znak wodny „Wygenerowane przez AI”? Zawsze możesz zmienić preferencje w sekcji Więcej > Znak wodny „Wygenerowane przez AI”.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Obracanie, obecny kąt wynosi %1$s. Dotknij dwukrotnie i przytrzymaj, a następnie przeciągnij, aby dostosować ramkę w zakresie od %2$d do %3$d stopni.",
             "attr":{
                 "priority":"translate"
             }

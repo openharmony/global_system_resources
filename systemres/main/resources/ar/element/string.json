@@ -2959,6 +2959,13 @@
             }
         },
         {
+            "name":"image_generation_rotate_button_hint",
+            "value":"التحكم بالدوران، الزاوية الحالية %1$s. انقر مرتين مع الضغط مطولًا، ثم اسحب لضبط الإطار في أي مكان يتراوح بين %2$d و%3$d درجة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"انتهاك لحقوق الملكية",
             "attr":{

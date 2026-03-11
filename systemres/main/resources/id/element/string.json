@@ -2920,6 +2920,13 @@
             }
         },
         {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Kontrol rotasi, sudut saat ini %1$s. Ketuk dua kali dan tahan, lalu seret untuk menyesuaikan bingkai dari %2$d hingga %3$d derajat.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"Pelanggaran hak cipta",
             "attr":{
