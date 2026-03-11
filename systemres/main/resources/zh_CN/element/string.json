@@ -3417,7 +3417,10 @@
         },
         {
             "name":"image_generation_rotate_button_hint",
-            "value":"旋转按钮，当前角度%1$s，可调范围%2$d至%3$d度，双击按住即可滑动调节编辑框旋转角度"
+            "value":"旋转按钮，当前角度 %1$s，可调范围 %2$d 至 %3$d 度，双击按住即可滑动调节编辑框旋转角度",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_top_left_resize_handle_hint",

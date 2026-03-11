@@ -2918,6 +2918,13 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Controllo della rotazione, l'angolo corrente è %1$s. Tocca due volte e tieni premuto, quindi trascina per regolare la cornice da %2$d a %3$d gradi.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

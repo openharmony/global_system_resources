@@ -2387,6 +2387,10 @@
         {
             "name":"image_generation_ai_synthesis_watermark_message",
             "value":"[TS_1179998]_The image contains AI-generated content. Would you like to add an \"AI-generated\" watermark? You can change your preferences at any time in More > AI-generated watermark."
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"[TS_1180010]_Rotation control, current angle is %1$s. Double-tap and hold, then drag to adjust the frame anywhere from %2$d to %3$d degrees."
         }
     ]
 }

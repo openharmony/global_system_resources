@@ -2960,6 +2960,13 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Control de rotación, el ángulo actual es %1$s. Pulsa dos veces y mantén pulsado, y luego arrastra para ajustar el recuadro de %2$d a %3$d grados.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

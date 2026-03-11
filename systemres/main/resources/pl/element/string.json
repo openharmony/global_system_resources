@@ -2918,6 +2918,13 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Obracanie, obecny kąt wynosi %1$s. Dotknij dwukrotnie i przytrzymaj, a następnie przeciągnij, aby dostosować ramkę w zakresie od %2$d do %3$d stopni.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
