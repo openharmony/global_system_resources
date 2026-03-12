@@ -2927,6 +2927,111 @@
             }
         },
         {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"သင့်ဖန်တီးမှုကို အသုံးချခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"ပုံ ဖန်တီးထုတ်လုပ်ခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"ပုံအနေအထားကို ချိန်ညှိခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"ယခု စမ်းကြည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Node အကြောင်းအရာကို တည်းဖြတ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"ပုံ၊ စာသားနှင့် ဖန်တီးထုတ်လုပ်ရေး Node များကို အတူတကွ ချိတ်ဆက်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Node ကို နှိပ်ပြီးနောက် ၎င်း၏ အကြောင်းအရာများကို တည်းဖြတ်ရန်အတွက် Pop-up မီနျူးကို သုံးပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"တူးလ်ဘားမှတစ်ဆင့် ပုံ၊ စာသား၊ ဖန်တီးထုတ်လုပ်ရေး Node များကို ထည့်ပါ သို့မဟုတ် စာသားမှ ပုံပြောင်း၊ ပုံမှ ပုံပြောင်း လုပ်ဆောင်ပုံအဆင့်ဆင့်ကို ဖန်တီးရန် နမူနာပုံစံများကို အသုံးပြုပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Node ကို နှိပ်ပြီးနောက် အခြား Node များနှင့် အမြန်ချိတ်ဆက်ရန် Floating Bubble ကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Node များ ချိတ်ဆက်ခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Node များ ချိတ်ဆက်ခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Node ထည့်ခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"သင်ဖန်တီးထားသော လက်ရှိပုံစံအတိုင်း အနေအထားမပျက်ထိန်းသိမ်းပြီး ပုံအသစ်များ ဖန်တီးထုတ်လုပ်ပေးမည်ဖြစ်သည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"အခြေခံ ပုံကြမ်းများ ရေးဆွဲပြီးနောက် သင်ဖန်တီးထုတ်လုပ်လိုသော ပုံအကြောင်းကို ရှင်းလင်းဖော်ပြပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"ပုံကို နှိပ်ပြီးနောက် ထိုပုံ၏ အနေအထားကို ဇူးမ်ချဲ့ရန်၊ လှည့်ရန် သို့မဟုတ် ချိန်ညှိရန် လက်နှစ်ချောင်းကို သုံးပါ။ ရွေးချယ်ထားသော ပုံက ရှေ့မျက်နှာစာသို့ ရောက်လာပါမည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"မူပိုင်ခွင့် ချိုးဖောက်မှု",
             "attr":{
@@ -2936,6 +3041,13 @@
         {
             "name":"image_generation_report_content",
             "value":"အကြောင်းအရာကို ရီပို့(တ်)လုပ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"ပုံ၏ တစ်စိတ်တစ်ပိုင်းကို ရွေးချယ်ပြီးနောက် သင်ပြောင်းလဲလိုသည့် ပုံစံအကြောင်း ရှင်းလင်းဖော်ပြချက်ကို ရိုက်ထည့်ပါ။",
             "attr":{
                 "priority":"translate"
             }

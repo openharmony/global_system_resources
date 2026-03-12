@@ -2391,6 +2391,78 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"[TS_1180010]_Rotation control, current angle is %1$s. Double-tap and hold, then drag to adjust the frame anywhere from %2$d to %3$d degrees."
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"[TS_1184895]_Use your creation"
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"[TS_1184887]_Generate image"
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"[TS_1184879]_Adjust image position"
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"[TS_1184889]_Try it now"
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"[TS_1184888]_Edit node content"
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"[TS_1184885]_Connect image, text, and generator nodes together."
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"[TS_1184878]_Tap a node and use the pop-up menu to edit its contents."
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"[TS_1184890]_Add image, text, and generator nodes from the toolbar, or use templates to create text-to-image and image-to-image workflows."
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"[TS_1184880]_Tap a node, then tap the floating bubble to quickly connect it with other nodes."
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"[TS_1184896]_Connect nodes"
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"[TS_1184891]_Connect nodes"
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"[TS_1184884]_Add a node"
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"[TS_1184892]_Generate new images while preserving the current layout you've created."
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"[TS_1184898]_Sketch basic shapes and then describe what you want to generate an image."
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"[TS_1184894]_Tap an image, then use two fingers to zoom, rotate, or adjust its position. The selected image will be brought to the front."
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"[TS_1183927]_Report content"
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"[TS_1183930]_Copyright infringement"
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"[TS_1184886]_Select a part of the image, then enter a description to change it in any way you want."
         }
     ]
 }

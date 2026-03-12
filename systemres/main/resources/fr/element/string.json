@@ -1941,7 +1941,7 @@
         },
         {
             "name":"abandon_all_changes",
-            "value":"Supprimer les modifications ?",
+            "value":"Supprimer les modifications ?",
             "attr":{
                 "priority":"translate"
             }
@@ -2354,7 +2354,7 @@
         },
         {
             "name":"node_graph_image_replacement_cannot_preserve_operations",
-            "value":"Remplacer l'image ?",
+            "value":"Remplacer l'image ?",
             "attr":{
                 "priority":"translate"
             }
@@ -2969,6 +2969,111 @@
             }
         },
         {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"Utilisation de votre création",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"Génération d'une image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"Ajustement du positionnement de l'image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"Essayer maintenant",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Modification du contenu du nœud",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"Vous pouvez connecter les nœuds d'image, de texte et de générateur entre eux.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Vous pouvez toucher un nœud et utiliser le menu de la fenêtre pop-up pour modifier son contenu.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"Vous pouvez ajouter des nœuds d'image, de texte et de générateur à partir de la barre d'outils, ou utiliser des modèles pour créer des flux de travail texte-image et image-image.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Vous pouvez toucher un nœud, puis toucher la bulle flottante pour le connecter rapidement à d'autres nœuds.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Connexion des nœuds",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Connexion des nœuds",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Ajout d'un nœud",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"Vous pouvez générer de nouvelles images tout en conservant la mise en page actuelle que vous avez créée.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"Vous pouvez esquisser les formes de base, puis décrire ce que vous souhaitez générer pour créer une image.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"Vous pouvez toucher une image, puis utiliser deux doigts pour zoomer, faire pivoter ou ajuster sa position. L'image sélectionnée est affichée au premier plan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"Violation des droits d'auteur",
             "attr":{
@@ -2978,6 +3083,13 @@
         {
             "name":"image_generation_report_content",
             "value":"Signaler le contenu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"Vous pouvez sélectionner une partie de l'image, puis saisir une description pour la modifier à votre convenance.",
             "attr":{
                 "priority":"translate"
             }

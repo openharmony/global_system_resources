@@ -2927,6 +2927,111 @@
             }
         },
         {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"Use your creation",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"Generate image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"Adjust image position",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"Try it now",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Edit node content",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"Connect image, text, and generator nodes together.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Tap a node and use the pop-up menu to edit its contents.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"Add image, text, and generator nodes from the toolbar, or use templates to create text-to-image and image-to-image workflows.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Tap a node, then tap the floating bubble to quickly connect it with other nodes.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Connect nodes",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Connect nodes",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Add a node",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"Generate new images while preserving the current layout you've created.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"Sketch basic shapes and then describe what you want to generate an image.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"Tap an image, then use two fingers to zoom, rotate, or adjust its position. The selected image will be brought to the front.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_content_infringement",
             "value":"Copyright infringement",
             "attr":{
@@ -2936,6 +3041,13 @@
         {
             "name":"image_generation_report_content",
             "value":"Report content",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"Select a part of the image, then enter a description to change it in any way you want.",
             "attr":{
                 "priority":"translate"
             }
