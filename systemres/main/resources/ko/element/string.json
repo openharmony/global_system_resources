@@ -3074,6 +3074,20 @@
             }
         },
         {
+            "name":"image_generation_content_infringement",
+            "value":"저작권 침해",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"콘텐츠 신고",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_general_guide_fourth",
             "value":"이미지의 일부를 선택한 다음 설명을 입력하여 원하는 대로 변경합니다.",
             "attr":{

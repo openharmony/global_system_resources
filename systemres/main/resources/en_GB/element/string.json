@@ -3032,6 +3032,20 @@
             }
         },
         {
+            "name":"image_generation_content_infringement",
+            "value":"Copyright infringement",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"Report content",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_general_guide_fourth",
             "value":"Select a part of the image, then enter a description to change it in any way you want.",
             "attr":{
