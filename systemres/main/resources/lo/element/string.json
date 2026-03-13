@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"ເລືອກພື້ນທີ່ເພື່ອປັບ, ຈາກນັ້ນ ປ້ອນຄຳອະທິບາຍເຂົ້າເພື່ອສ້າງຮູບ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"ຖອນເລືອກ",
             "attr":{
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"ມີລາຍການປະເພດດຽວກັນຫຼາຍເກີນໄປທີ່ເຊື່ອມຕໍ່ກັບໂນດນີ້. ລຶບບາງອັນກ່ອນ.",
+            "value":"ມີການເຊື່ອມຕໍ່ໂນດປະເພດດຽວກັນຫຼາຍເກີນໄປ. ລຶບບາງລາຍການ ແລະ ລອງໃໝ່ອີກ.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"ການສ້າງຮູບພາບຍັງບໍ່ທັນສຳເລັດເທື່ອ. ການອອກໂໝດຂັ້ນສູງຕອນນີ້ຈະສິ້ນສຸດໜ້າວຽກ.",
+            "value":"ຮູບພາບກຳລັງຖືກສ້າງ. ຖ້າທ່ານອອກຕອນນີ້ ມັນຈະຖືກລຶບຖິ້ມ.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"ການລຶບໂນດນີ້ຈະຍົກເລີກໜ້າວຽກການສ້າງຮູບພາບປະຈຸບັນ.",
+            "value":"ຖ້າທ່ານລຶບໂນດນີ້, ໜ້າວຽກການສ້າງປະຈຸບັນຈະຖືກຍົກເລີກ.",
             "attr":{
                 "priority":"translate"
             }

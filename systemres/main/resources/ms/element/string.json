@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Pilih bahagian untuk dilaraskan, kemudian masukkan penerangan untuk menjanakan imej",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Nyahpilih",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Teks pada imej",
+            "value":"Teks kepada imej",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Imej pada imej",
+            "value":"Imej kepada imej",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Terlalu banyak item jenis yang sama disambungkan ke nod ini. Padamkan sesetengah dahulu.",
+            "value":"Terlalu banyak nod jenis yang sama disambungkan. Padamkan sesetengah dan cuba lagi.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Penjanaan imej belum selesai. Keluar dari Mod lanjutan sekarang akan menamatkan tugas.",
+            "value":"Imej sedang dijanakan. Ia akan dibuang jika anda keluar sekarang.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Memadamkan nod ini akan membatalkan tugas penjanaan imej semasa.",
+            "value":"Jika anda memadamkan nod ini, tugas penjanaan semasa akan dibatalkan.",
             "attr":{
                 "priority":"translate"
             }

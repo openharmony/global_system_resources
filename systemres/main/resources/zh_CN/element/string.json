@@ -2701,13 +2701,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"圈选想要调整的区域，通过添加提示词输入节点进行生图",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"reporting_results",
             "value":"举报",
             "attr":{
@@ -3647,7 +3640,7 @@
         },
         {
             "name":"image_generation_canvas_guide_select_tip",
-            "value":"轻点以选中单独节点，划动以框选多节点"
+            "value":"轻点选择单个节点，滑动框选多个节点"
         },
         {
             "name":"image_generation_canvas_guide_select_workflow",

@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"เลือกพื้นที่ที่ต้องการปรับ จากนั้นใส่คำอธิบายเพื่อสร้างรูปภาพ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"ยกเลิกการเลือก",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"ข้อความเพื่อสร้างรูปภาพ",
+            "value":"สร้างรูปภาพจากข้อความ",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"รูปภาพเพื่อสร้างรูปภาพ",
+            "value":"สร้างรูปภาพจากรูปภาพ",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"มีรายการประเภทเดียวกันเชื่อมต่อกับโหนดนี้มากเกินไป ลบบางส่วนออกก่อน",
+            "value":"มีการเชื่อมโยงโหนดประเภทเดียวกันมากเกินไป ลบบางโหนดและลองอีกครั้ง",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"การสร้างรูปภาพยังไม่เสร็จสมบูรณ์ การออกจากโหมดขั้นสูงในตอนนี้จะสิ้นสุดการทำงาน",
+            "value":"กำลังสร้างรูปภาพ หากคุณออกตอนนี้ การสร้างรูปภาพจะถูกยกเลิก",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"การลบจุดเชื่อมโยงนี้จะยกเลิกงานการสร้างรูปภาพปัจจุบัน",
+            "value":"หากคุณลบโหนดนี้ งานสร้างในปัจจุบันจะถูกยกเลิก",
             "attr":{
                 "priority":"translate"
             }
@@ -2774,7 +2767,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"เลือกพื้นที่ที่ต้องการปรับ จากนั้นใส่คำอธิบายเพื่อสร้างรูปภาพ",
+            "value":"เลือกบริเวณที่ต้องการปรับ จากนั้นใส่คำอธิบายเพื่อสร้างรูปภาพ",
             "attr":{
                 "priority":"translate"
             }

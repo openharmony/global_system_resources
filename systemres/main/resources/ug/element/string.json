@@ -1821,13 +1821,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"دۈگىلەك دائىرە تاللاپ، تېكىست چۈشەندۈرۈش قوشۇپ، رەسىم ئىشلەشكە بولىدۇ.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"قالدۇرۇش",
             "attr":{
@@ -1871,7 +1864,7 @@
         },
         {
             "name":"maintain_the_layout_keyword",
-            "value":"رەسىملەرنىڭ ئورۇن مۇناسىۋىتىنى ساقلاڭ",
+            "value":"رەسىملەرنىڭ ئورۇن مۇناسىۋىتىنى ساقلاپ قېلىڭ",
             "attr":{
                 "priority":"translate"
             }
@@ -1920,7 +1913,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"ئىككى بارماقتا چوڭ-كىچىكلىتىش ۋە چۆرۈپ تەڭشەشكە بولىدۇ.",
+            "value":"ئىككى بارماقتا چوڭ-كىچىكلىتىش ۋە چۆرۈپ رەسىم ئورنىنى تەڭشەشكە بولىدۇ.",
             "attr":{
                 "priority":"translate"
             }
@@ -2172,7 +2165,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"تېكىستتىن قۇرۇش",
+            "value":"خەتتىن قۇرۇش",
             "attr":{
                 "priority":"translate"
             }
@@ -2319,7 +2312,7 @@
         },
         {
             "name":"node_graph_image_replacement_cannot_preserve_operations",
-            "value":"رەسىم ئالماشتۇرۇش",
+            "value":"ئۆزگەرتىش ساقلانمايدۇ",
             "attr":{
                 "priority":"translate"
             }
@@ -2347,7 +2340,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"بۇ تۈگۈنگە ئۇلانغان ئوخشاش تۈرلۈك ماتېرىيال سانى چەكتىن ئارتۇق، بىر قىسىمىنى ئۆچۈرۈپ قايتا سىناڭ.",
+            "value":"ئۇلانغان ئوخشاش تۈرلۈك تۈگۈن سانى چەكتىن ئارتۇق، بىر قىسىمىنى ئۆچۈرۈپ قايتا سىناڭ.",
             "attr":{
                 "priority":"translate"
             }
@@ -2431,7 +2424,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"رەسىم قۇرۇش ۋەزىپىسى پۈتمىگەن، تەگ ھالەتتىن چېكىنسىڭىز ۋەزىپە ئۈزۈلۈپ قالىدۇ.",
+            "value":"رەسىم قۇرۇش ۋەزىپىسى تېخى پۈتمىدى، چېكىنسىڭىز ۋەزىپە ئەمەلدىن قالىدۇ.",
             "attr":{
                 "priority":"translate"
             }
@@ -2578,7 +2571,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"رەسىم قۇرۇش ۋەزىپىسى پۈتمىگەن، قۇرۇش تۈگۈنىنى ئۆچۈرسىڭىز، ۋەزىپە ئۈزۈلۈپ قالىدۇ.",
+            "value":"رەسىم قۇرۇش ۋەزىپىسى تېخى پۈتمىدى، تۈگۈن ئۆچۈرسىڭىز ۋەزىپە ئەمەلدىن قالىدۇ، ئۆچۈرەمسىز؟",
             "attr":{
                 "priority":"translate"
             }
@@ -2627,7 +2620,7 @@
         },
         {
             "name":"node_graph_delete_node_will_not_preserve_task",
-            "value":"تۈگۈن ئۆچۈرەمسىز؟",
+            "value":"ۋەزىپە ئەمەلدىن قالىدۇ",
             "attr":{
                 "priority":"translate"
             }
@@ -2648,14 +2641,14 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_task",
-            "value":"چېكىنسىڭىز ۋەزىپە ساقلانمايدۇ",
+            "value":"ۋەزىپە ئەمەلدىن قالىدۇ",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"node_graph_confirm_replace_image",
-            "value":"رەسىم ئالماشتۇرسىڭىز، ئەسلى رەسىمگە كىرگۈزگەن سىزما ۋە دۈگىلەك قاتارلىق ئۆزگەرتىشلەر ساقلانمايدۇ.",
+            "value":"رەسىم ئالماشتۇرسىڭىز، ئەسلىي رەسىمگە كىرگۈزگەن سىزما ۋە دۈگىلەك قاتارلىق ئۆزگەرتىشلەر ساقلانمايدۇ.",
             "attr":{
                 "priority":"translate"
             }
@@ -2781,7 +2774,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"دۈگىلەك دائىرە تاللاپ، تېكىست چۈشەندۈرۈش قوشۇپ، رەسىم ئىشلەشكە بولىدۇ.",
+            "value":"دائىرە تاللاپ، تېكىست چۈشەندۈرۈش قوشۇپ، ئەسەر ئىشلەشكە بولىدۇ.",
             "attr":{
                 "priority":"translate"
             }

@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Pilih area yang akan disesuaikan, lalu masukkan deskripsi untuk membuat gambar",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Batal pilih",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Teks menjadi gambar",
+            "value":"Teks-menjadi-gambar",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Gambar menjadi gambar",
+            "value":"Gambar-menjadi-gambar",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Terlalu banyak item berjenis sama yang dihubungkan ke node ini. Hapus beberapa terlebih dahulu.",
+            "value":"Terlalu banyak node berjenis sama yang dihubungkan. Hapus beberapa dan coba lagi.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Pembuatan gambar belum selesai. Keluar dari Mode lanjutan sekarang akan mengakhiri tugas tersebut.",
+            "value":"Gambar sedang dibuat. Jika Anda keluar sekarang, gambar tersebut akan dibuang.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Menghapus node ini akan membatalkan tugas pembuatan gambar saat ini.",
+            "value":"Jika Anda menghapus node ini, tugas pembuatan saat ini akan dibatalkan.",
             "attr":{
                 "priority":"translate"
             }

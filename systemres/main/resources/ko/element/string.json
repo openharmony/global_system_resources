@@ -1856,13 +1856,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"조정할 영역을 선택한 다음 설명을 입력하여 이미지를 생성합니다",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"선택 취소",
             "attr":{
@@ -2207,7 +2200,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"텍스트에서 이미지 생성",
+            "value":"텍스트-이미지",
             "attr":{
                 "priority":"translate"
             }
@@ -2284,7 +2277,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"이미지에서 이미지 생성",
+            "value":"이미지-이미지",
             "attr":{
                 "priority":"translate"
             }
@@ -2382,7 +2375,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"이 노드에 동일한 유형의 항목이 너무 많이 연결되어 있습니다. 먼저 일부를 삭제하십시오.",
+            "value":"같은 유형의 노드가 너무 많이 연결되어 있습니다. 일부를 삭제하고 다시 시도하십시오.",
             "attr":{
                 "priority":"translate"
             }
@@ -2466,7 +2459,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"아직 이미지 생성이 완료되지 않았습니다. 지금 고급 모드를 끝내면 현재 작업이 종료됩니다.",
+            "value":"이미지가 생성되는 중입니다. 지금 끝내면 이미지가 삭제됩니다.",
             "attr":{
                 "priority":"translate"
             }
@@ -2613,7 +2606,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"이 노드를 삭제하면 현재 이미지 생성 작업이 취소됩니다.",
+            "value":"이 노드를 삭제하면 현재 생성 작업이 취소됩니다.",
             "attr":{
                 "priority":"translate"
             }
@@ -2781,7 +2774,7 @@
         },
         {
             "name":"image_generation_two_finger_draw_hint",
-            "value":"화면에 두 손가락 대고 그래그하여 그리기",
+            "value":"화면에 두 손가락 대고 드래그하여 그리기",
             "attr":{
                 "priority":"translate"
             }

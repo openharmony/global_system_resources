@@ -1856,13 +1856,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Selecciona el área que quieres ajustar y, a continuación, introduce la descripción para generar la imagen",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Deseleccionar",
             "attr":{
@@ -2382,7 +2375,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Hay demasiados elementos del mismo tipo conectados a este nodo. Elimina algunos primero.",
+            "value":"Hay demasiados nodos del mismo tipo conectados. Elimina algunos y vuelve a intentarlo.",
             "attr":{
                 "priority":"translate"
             }
@@ -2466,7 +2459,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Aún no se ha completado la generación de la imagen. Si sales ahora del modo Avanzado, finalizará la tarea.",
+            "value":"Se está generando una imagen. Si sales ahora, se descartará.",
             "attr":{
                 "priority":"translate"
             }
@@ -2613,7 +2606,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Si eliminas este nodo, se cancelará la tarea de generación de imágenes actual.",
+            "value":"Si eliminas este nodo, se cancelará la tarea de generación actual.",
             "attr":{
                 "priority":"translate"
             }
@@ -2816,7 +2809,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Selecciona el área que quieres ajustar y, a continuación, introduce una descripción para generar una imagen",
+            "value":"Selecciona el área que quieres ajustar y, a continuación, introduce una descripción para generar la imagen",
             "attr":{
                 "priority":"translate"
             }

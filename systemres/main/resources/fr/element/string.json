@@ -1856,13 +1856,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Veuillez sélectionner une zone à ajuster, puis saisissez la description pour générer une image",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Désélectionner",
             "attr":{
@@ -2207,7 +2200,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Transformer du texte en image",
+            "value":"Texte en image",
             "attr":{
                 "priority":"translate"
             }
@@ -2284,7 +2277,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Transformer une image en image",
+            "value":"Image en image",
             "attr":{
                 "priority":"translate"
             }
@@ -2382,7 +2375,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Ce nœud est connecté à trop d'éléments du même type. Veuillez d'abord en supprimer quelques-uns.",
+            "value":"Trop de nœuds du même type sont connectés. Veuillez en supprimer quelques-uns et réessayez.",
             "attr":{
                 "priority":"translate"
             }
@@ -2466,7 +2459,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"La génération de l'image n'est pas encore terminée. Quitter le mode Avancé maintenant mettra fin à la tâche.",
+            "value":"Une image est en cours de génération. Elle va être supprimée si vous quittez maintenant.",
             "attr":{
                 "priority":"translate"
             }
@@ -2613,7 +2606,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"La suppression de ce nœud annulera la tâche de génération d'image en cours.",
+            "value":"Si vous supprimez ce nœud, la tâche de génération en cours va être annulée.",
             "attr":{
                 "priority":"translate"
             }

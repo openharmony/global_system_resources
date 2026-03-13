@@ -1856,13 +1856,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"調整する領域を選択し、説明を入力して画像を生成してください",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"選択解除",
             "attr":{
@@ -2207,7 +2200,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"テキストから画像へ",
+            "value":"テキストから画像",
             "attr":{
                 "priority":"translate"
             }
@@ -2284,7 +2277,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"画像から画像へ",
+            "value":"画像から画像",
             "attr":{
                 "priority":"translate"
             }
@@ -2382,7 +2375,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"このノードに接続されている同一タイプのアイテムが多すぎます。まずいくつか削除してください。",
+            "value":"つながれている同じタイプのノードが多すぎます。いくつか削除してから、再試行してください。",
             "attr":{
                 "priority":"translate"
             }
@@ -2466,7 +2459,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"画像生成はまだ完了していません。高度なモードを終了すると、タスクが終了します。",
+            "value":"画像を生成しています。今終了すると、破棄されます。",
             "attr":{
                 "priority":"translate"
             }
@@ -2613,7 +2606,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"このノードを削除すると、現在の画像生成タスクがキャンセルされます。",
+            "value":"このノードを削除すると、現在の生成タスクはキャンセルされます。",
             "attr":{
                 "priority":"translate"
             }

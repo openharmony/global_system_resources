@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"ချိန်ညှိလိုသော ဧရိယာကို ရွေးချယ်ပြီး ပုံထုတ်လုပ်ရန် ဖော်ပြချက်ကို ရိုက်ထည့်ပါ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"မရွေးရန်",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"စာသားမှ ရုပ်ပုံ",
+            "value":"စာသားမှ ပုံသို့",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"ရုပ်ပုံမှ ရုပ်ပုံ",
+            "value":"ပုံမှ ပုံသို့",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"ဤ Node ကို အမျိုးအစားတူ Node များစွာနှင့် ချိတ်ဆက်ထားပါသည်။ ဦးစွာ Node အချို့ကို ဖျက်ပါ။",
+            "value":"အမျိုးအစားတူ Node များစွာကို ချိတ်ဆက်ထားသည်။ Node အချို့ကို ဖျက်ပြီး ထပ်ကြိုးစားပါ။",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"ပုံ ဖန်တီးထုတ်လုပ်မှု မပြီးစီးသေးပါ။ အဆင့်မြင့်စနစ်မှ ယခုထွက်လိုက်လျှင် လုပ်ဆောင်မှုကို အဆုံးသတ်လိုက်ပါမည်။",
+            "value":"ပုံ ဖန်တီးထုတ်လုပ်နေပါသည်။ ယခုထွက်လိုက်လျှင် ထိုဖန်တီးထုတ်လုပ်မှုကို ဖယ်ရှားပါမည်။",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"ဤနုတ်ကို ဖျက်ပါက လက်ရှိ ပုံ ဖန်တီးထုတ်လုပ်မှုကို ပယ်ဖျက်ပါမည်။",
+            "value":"ဤ Node ကို ဖျက်လိုက်လျှင် လက်ရှိ ဖန်တီးထုတ်လုပ်နေသည့် လုပ်ဆောင်မှုကို ပယ်ဖျက်သွားပါမည်။",
             "attr":{
                 "priority":"translate"
             }
@@ -2774,7 +2767,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"ချိန်ညှိလိုသော ဧရိယာကို ရွေးချယ်ပြီး ပုံထုတ်လုပ်ရန် ဖော်ပြချက်ကို ရိုက်ထည့်ပါ",
+            "value":"ချိန်ညှိလိုသော ဧရိယာကို ရွေးချယ်ပြီးနောက် ပုံဖန်တီးထုတ်လုပ်ရန် ရှင်းလင်းဖော်ပြချက်ကို ရိုက်ထည့်ပါ",
             "attr":{
                 "priority":"translate"
             }
