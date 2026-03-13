@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Select area to adjust, then enter description to generate image",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Deselect",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Text to image",
+            "value":"Text-to-image",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Image to image",
+            "value":"Image-to-image",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Too many items of the same type connected to this node. Delete some first.",
+            "value":"Too many nodes of the same type are connected. Delete some and try again.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Image generation is not yet complete. Exiting Advanced mode now will end the task.",
+            "value":"An image is being generated. If you exit now it will be discarded.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Deleting this node will cancel the current image generation task.",
+            "value":"If you delete this node, the current generation task will be cancelled.",
             "attr":{
                 "priority":"translate"
             }
@@ -2774,7 +2767,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Select an area to adjust, then enter a description to generate an image",
+            "value":"Select area to adjust, then enter description to generate image",
             "attr":{
                 "priority":"translate"
             }

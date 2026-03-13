@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Seleziona l'area da regolare, quindi inserisci la descrizione per generare l'immagine",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Deseleziona",
             "attr":{
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Troppi elementi dello stesso tipo connessi a questo nodo. Prima eliminane alcuni.",
+            "value":"Sono collegati troppi nodi dello stesso tipo. Eliminane alcuni e riprova.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"La generazione di immagini non è ancora completata. Se esci ora dalla modalità Avanzata, l'attività verrà terminata.",
+            "value":"È in corso la generazione di un'immagine. Se esci ora, verrà interrotta.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Se elimini questo nodo annullerai l'attività di generazione dell'immagine corrente.",
+            "value":"Se elimini questo nodo, l'attività di generazione in corso verrà annullata.",
             "attr":{
                 "priority":"translate"
             }
@@ -2774,7 +2767,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Seleziona l'area da regolare, quindi inserisci la descrizione per generare un'immagine",
+            "value":"Seleziona l'area da regolare, quindi inserisci la descrizione per generare l'immagine",
             "attr":{
                 "priority":"translate"
             }

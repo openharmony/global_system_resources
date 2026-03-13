@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Ayarlanacak alanı seçin, ardından görsel oluşturmak için açıklama girin",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Seçimi kaldır",
             "attr":{
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Bu düğüme aynı türde çok fazla öğe bağlandı. Önce bazılarını silin.",
+            "value":"Aynı türden çok fazla düğüm bağlı. Bazılarını silin ve tekrar deneyin.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Görsel oluşturma henüz tamamlanmadı. Şimdi Gelişmiş moddan çıkmak görevi sonlandıracaktır.",
+            "value":"Görsel oluşturuluyor. Şimdi çıkarsanız yok sayılacaktır.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Bu düğümün silinmesi mevcut görsel oluşturma görevini iptal edecektir.",
+            "value":"Bu düğümü silerseniz mevcut oluşturma görevi iptal edilecektir.",
             "attr":{
                 "priority":"translate"
             }
@@ -2774,7 +2767,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Düzenlenecek alanı seçin, ardından görsel oluşturmak için açıklama girin",
+            "value":"Ayarlanacak alanı seçin, ardından görsel oluşturmak için açıklama girin",
             "attr":{
                 "priority":"translate"
             }

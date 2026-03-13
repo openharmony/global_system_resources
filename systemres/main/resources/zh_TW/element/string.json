@@ -1821,13 +1821,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"圈選想要調整的區域，新增文字描述即可產生圖片",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"取消選取範圍",
             "attr":{
@@ -1871,14 +1864,14 @@
         },
         {
             "name":"maintain_the_layout_keyword",
-            "value":"保持輸入圖形的位置關係",
+            "value":"保持輸入圖片的位置關係",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"ai_thinking",
-            "value":"思考中",
+            "value":"思考中…",
             "attr":{
                 "priority":"translate"
             }
@@ -1920,7 +1913,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"透過雙指縮放、旋轉編輯影像位置",
+            "value":"透過雙指縮放、旋轉編輯圖片位置",
             "attr":{
                 "priority":"translate"
             }
@@ -2144,7 +2137,7 @@
         },
         {
             "name":"node_graph_replace_image",
-            "value":"取代影像",
+            "value":"取代圖片",
             "attr":{
                 "priority":"translate"
             }
@@ -2186,7 +2179,7 @@
         },
         {
             "name":"image_generation",
-            "value":"影像產生",
+            "value":"圖片產生",
             "attr":{
                 "priority":"translate"
             }
@@ -2319,7 +2312,7 @@
         },
         {
             "name":"node_graph_image_replacement_cannot_preserve_operations",
-            "value":"若取代影像，將無法保留操作",
+            "value":"若取代圖片，將無法保留操作",
             "attr":{
                 "priority":"translate"
             }
@@ -2347,7 +2340,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"目前節點同類型素材連線超出限制，請刪除部分，然後重試",
+            "value":"目前節點同類型數量連線超出限制，請刪除部分節點，然後重試",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,14 +2417,14 @@
         },
         {
             "name":"node_graph_input_image_dimensions_invalid",
-            "value":"輸入圖像尺寸不符合規定，請重新輸入",
+            "value":"輸入圖片尺寸不符合規定，請重新輸入",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"您的圖片產生任務尚未完成，若結束畫布模式，會終止任務。是否繼續？",
+            "value":"您的產生圖片任務尚未完成，若結束，將終止本次產生圖片處理程序。是否結束？",
             "attr":{
                 "priority":"translate"
             }
@@ -2578,7 +2571,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"您的產生圖片任務尚未完成，若刪除產生節點，會終止任務。是否繼續？",
+            "value":"您的產生圖片任務尚未完成，若刪除產生的節點，將終止本次產生圖片處理程序。確認刪除？",
             "attr":{
                 "priority":"translate"
             }
@@ -2627,7 +2620,7 @@
         },
         {
             "name":"node_graph_delete_node_will_not_preserve_task",
-            "value":"刪除節點將無法保留任務",
+            "value":"若刪除，將中斷產生任務",
             "attr":{
                 "priority":"translate"
             }
@@ -2648,14 +2641,14 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_task",
-            "value":"結束將無法保留任務",
+            "value":"若結束，將中斷產生任務",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"node_graph_confirm_replace_image",
-            "value":"取代影像後，將不保留原始影像的塗鴉和圈選。是否繼續？",
+            "value":"取代圖片後，將不保留原始圖片的塗鴉和圈選。是否繼續？",
             "attr":{
                 "priority":"translate"
             }
@@ -2781,7 +2774,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"圈選想要調整的區域，新增文字描述即可產生圖片",
+            "value":"圈選想要調整的區域，新增文字描述即可創作",
             "attr":{
                 "priority":"translate"
             }

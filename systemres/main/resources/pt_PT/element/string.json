@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Selecione a área a ser ajustada e introduza a descrição para gerar a imagem",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Desmarcar",
             "attr":{
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Demasiados itens do mesmo tipo ligados a este nó.",
+            "value":"Existem demasiados nós do mesmo tipo ligados.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"A geração de imagens ainda não está concluída. Sair do modo avançado agora irá terminar a tarefa.",
+            "value":"Está a ser gerada uma imagem. Esta será eliminada se sair agora.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Eliminar este nó irá cancelar a tarefa de geração de imagem atual.",
+            "value":"A tarefa de geração atual será cancelada se eliminar este nó.",
             "attr":{
                 "priority":"translate"
             }

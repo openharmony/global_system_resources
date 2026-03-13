@@ -1757,10 +1757,6 @@
             "value":"[TS_1160839]_Add to stickers"
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"[TS_1160829]_Select area to adjust, then enter description to generate image"
-        },
-        {
             "name":"cancel_the_district",
             "value":"[TS_1160792]_Deselect"
         },
@@ -1958,7 +1954,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"[TS_1160787]_Text to image"
+            "value":"[TS_1160787]_Text-to-image"
         },
         {
             "name":"oil_painting",
@@ -2002,7 +1998,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"[TS_1160840]_Image to image"
+            "value":"[TS_1160840]_Image-to-image"
         },
         {
             "name":"image_style",
@@ -2058,7 +2054,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"[TS_1168845]_Too many items of the same type connected to this node. Delete some first."
+            "value":"[TS_1168845]_Too many nodes of the same type are connected. Delete some and try again."
         },
         {
             "name":"node_graph_input_violates_platform_rules",
@@ -2106,7 +2102,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"[TS_1168850]_Image generation is not yet complete. Exiting Advanced mode now will end the task."
+            "value":"[TS_1168850]_An image is being generated. If you exit now it will be discarded."
         },
         {
             "name":"node_graph_image_generation_not_supported",
@@ -2190,7 +2186,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"[TS_1176829]_Deleting this node will cancel the current image generation task."
+            "value":"[TS_1176829]_If you delete this node, the current generation task will be canceled."
         },
         {
             "name":"node_graph_wash_painting",
@@ -2306,7 +2302,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"[TS_1179985]_Select an area to adjust, then enter a description to generate an image"
+            "value":"[TS_1179985]_Select area to adjust, then enter description to generate image"
         },
         {
             "name":"image_generation_pen_ballpoint",

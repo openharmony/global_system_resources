@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Wählen Sie den Bereich aus, der angepasst werden soll, und geben Sie dann eine Beschreibung ein, um das Bild zu generieren.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Auswahl aufheben",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Text zu Bild",
+            "value":"Text-zu-Bild",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Bild zu Bild",
+            "value":"Bild-zu-Bild",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Mit diesem Knoten sind zu viele Elemente desselben Typs verbunden. Löschen Sie zuerst einige.",
+            "value":"Es sind zu viele Knoten desselben Typs verbunden. Löschen Sie einige und versuchen Sie es erneut.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Bildgenerierung ist noch nicht abgeschlossen. Beim Beenden des erweiterten Modus wird die Aufgabe beendet.",
+            "value":"Ein Bild wird erstellt. Wenn Sie den Vorgang jetzt beenden, wird das Bild verworfen.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Wenn dieser Knoten gelöscht wird, wird die aktuelle Bildgenerierungsaufgabe abgebrochen.",
+            "value":"Wenn Sie diesen Knoten löschen, wird die aktuelle Generierungsaufgabe abgebrochen.",
             "attr":{
                 "priority":"translate"
             }
@@ -2774,7 +2767,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Einen zu bearbeitenden Bereich auswählen und eine Beschreibung eingeben, um ein Bild zu generieren",
+            "value":"Wählen Sie den Bereich aus, der angepasst werden soll, und geben Sie dann eine Beschreibung ein, um das Bild zu generieren",
             "attr":{
                 "priority":"translate"
             }

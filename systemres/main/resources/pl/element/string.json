@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Wybierz obszar do dostosowania, a następnie wprowadź opis, aby wygenerować obraz",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Usuń zaznaczenie",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Tekst na obraz",
+            "value":"Tekst-obraz",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Obraz na obraz",
+            "value":"Obraz-obraz",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Z tym węzłem połączonych jest zbyt wiele elementów tego samego typu. Najpierw usuń część z nich.",
+            "value":"Połączono zbyt wiele węzłów tego samego typu. Usuń niektóre i spróbuj ponownie.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Generowanie obrazu nie zostało jeszcze zakończone. Wyjście z trybu zaawansowanego spowoduje zakończenie zadania.",
+            "value":"Trwa generowanie obrazu. Treść zostanie usunięta, jeśli wyjdziesz teraz.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Usunięcie tego węzła spowoduje anulowanie obecnego zadanie generowania obrazu.",
+            "value":"Jeśli usuniesz ten węzeł, bieżące zadanie generowania zostanie anulowane.",
             "attr":{
                 "priority":"translate"
             }
