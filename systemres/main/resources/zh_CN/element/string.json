@@ -3532,7 +3532,10 @@
         },
         {
             "name":"image_generation_general_guide_first",
-            "value":"添加文字描述、图片或涂鸦后，点击生成快速开启AI生图创作。%s"
+            "value":"添加文字描述、图片或涂鸦后，点击“生成”按钮快速开启 AI 生图创作。%s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_general_guide_second",
@@ -3564,11 +3567,17 @@
         },
         {
             "name":"image_generation_general_guide_sixth",
-            "value":"完成创作后，可以下载到图库、添加至笔记原文或贴纸库，也可以重新编辑或基于结果继续创作。%s"
+            "value":"完成创作后，可以下载到图库、添加至笔记原文或贴纸库，也可以重新编辑或基于结果继续创作。%s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_first",
-            "value":"通过节点连线的方式进行AI生图。%s"
+            "value":"通过节点连线的方式进行 AI 生图。%s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_second",
@@ -3600,11 +3609,17 @@
         },
         {
             "name":"image_generation_canvas_guide_sixth",
-            "value":"点击生成器节点上的生成按钮完成创作。%s"
+            "value":"点击生成器节点上的“生成”按钮完成创作。%s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_guide_learn_more",
-            "value":"了解更多"
+            "value":"了解更多",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_general_guide_adjust_image_position",

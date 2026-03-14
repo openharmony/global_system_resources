@@ -3086,6 +3086,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"Sau khi tạo ảnh, bạn có thể lưu vào Bộ sưu tập, thêm vào ghi chú hoặc bộ sưu tập nhãn dán, sửa ảnh đã tạo hoặc tạo lại. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Thêm mô tả văn bản, hình ảnh hoặc hình vẽ nguệch ngoạc, sau đó chạm vào Tạo để tạo ảnh. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Tìm hiểu thêm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Tạo trên khung vẽ bằng cách kết nối các nút bằng các đường thẳng. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Chạm vào nút Tạo trên trình tạo ảnh để tạo ảnh. %s",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

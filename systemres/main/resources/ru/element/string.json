@@ -3086,6 +3086,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"После генерации изображения вы можете сохранить его в Галерее, добавить его в заметку или коллекцию стикеров, отредактировать или сгенерировать его повторно. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Добавьте текстовые описания, изображения или рисунки, а затем нажмите Сгенерировать, чтобы создать изображение. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Подробнее",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Создавайте контент, соединяя блоки линиями. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Нажмите на кнопку Сгенерировать на блоке генерации изображений, чтобы создать изображение. %s",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
