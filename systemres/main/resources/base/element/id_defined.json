@@ -39133,6 +39133,11 @@
  	        "type":"string",
  	        "name":"image_generation_rename",
  	        "order": 7749
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_guide_add_generate",
+ 	        "order": 7750
  	    }
     ]
 }
