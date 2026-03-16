@@ -3086,6 +3086,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"画像の生成後、ギャラリーへの保存、メモまたはステッカーコレクションへの追加、生成画像の編集、もしくは再生成を行えます。%s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"テキストの説明、画像、または落書きを追加してから、[生成]をタップして画像を生成します。%s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"詳細を確認",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"ノードを線でつないでキャンバス上に作成します。%s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"画像生成ノードの[生成]ボタンをタップして、画像を作成します。%s",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

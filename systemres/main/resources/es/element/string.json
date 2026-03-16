@@ -3086,6 +3086,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"Una vez generada la imagen, puedes guardarla en Galería, añadirla a una nota o a una colección de pegatinas, editar la imagen generada o volver a generarla. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Añade descripciones de texto, imágenes o garabatos y, a continuación, pulsa Generar para crear una imagen. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Conocer más detalles",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Crea en el lienzo conectando nodos con líneas. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Pulsa el botón Generar en el nodo generador de imágenes para crear una imagen. %s",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

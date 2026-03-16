@@ -3044,6 +3044,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"หลังจากสร้างรูปภาพแล้ว คุณสามารถบันทึกลงในแกลเลอรี เพิ่มลงในโน้ตหรือคอลเลกชันสติ๊กเกอร์ แก้ไขรูปภาพที่สร้างขึ้น หรือสร้างอีกครั้งได้ %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"เพิ่มข้อความอธิบาย รูปภาพ หรือลายเส้น แล้วแตะที่ \"สร้าง\" เพื่อสร้างรูปภาพ %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"เรียนรู้เพิ่มเติม",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"สร้างบนแคนวาสโดยเชื่อมต่อโหนดด้วยเส้น %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"แตะปุ่ม \"สร้าง\" บนโหนดสร้างรูปภาพเพื่อสร้างรูปภาพ %s",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

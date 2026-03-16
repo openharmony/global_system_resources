@@ -3044,6 +3044,41 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"After your image is generated, you can save to Gallery, add to a note or a sticker collection, edit the generated image, or generate again. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Add text descriptions, images, or doodles, then tap Generate to create an image. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Learn more",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Create on the canvas by connecting nodes with lines. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Tap the Generate button on the image generator node to create an image. %s",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
