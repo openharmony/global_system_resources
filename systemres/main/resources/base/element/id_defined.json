@@ -39103,7 +39103,8 @@
  	    {
  	        "type":"string",
  	        "name":"image_generation_blue",
- 	        "order": 7743
+ 	        "order": 7743,
+            "flags": "private"
  	    },
  	    {
  	        "type":"string",
