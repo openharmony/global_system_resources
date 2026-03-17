@@ -2731,7 +2731,7 @@
         },
         {
             "name":"maintain_the_layout_keyword",
-            "value":"Maintain the positional relationship of input images",
+            "value":"Preserve the layout of graphical elements",
             "attr":{
                 "priority":"translate"
             }
@@ -2980,14 +2980,14 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Text to image",
+            "value":"Text-to-image",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_from_images",
-            "value":"Image to image",
+            "value":"Image-to-image",
             "attr":{
                 "priority":"translate"
             }
@@ -3099,7 +3099,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"The current node has exceeded the connection limit for this type. Please delete some and try again.",
+            "value":"Too many nodes of the same type are connected. Delete some and try again.",
             "attr":{
                 "priority":"translate"
             }
@@ -3141,7 +3141,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Your image generation task is not yet complete. Exiting will terminate this generation process. Do you want to exit?",
+            "value":"An image is being generated. If you exit now it will be discarded.",
             "attr":{
                 "priority":"translate"
             }
@@ -3323,7 +3323,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Select an area to adjust, then enter a description to generate an image",
+            "value":"Select area to adjust, then enter description to generate image",
             "attr":{
                 "priority":"translate"
             }
