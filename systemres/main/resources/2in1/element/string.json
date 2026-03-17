@@ -80,6 +80,76 @@
         {
             "name":"menu_animation_curve",
             "value":"smooth"
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Add text descriptions, images, or doodles, then click Generate to create an image. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Click a node and use the pop-up menu to edit its content.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rotate_button_hint",
+            "value":"Rotation control, current angle is %1$s. Double-click and hold, then drag to adjust the frame anywhere from %2$d to %3$d degrees.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Tap a node, then tap the floating bubble to quickly connect it with other nodes.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_preview_draw_hint",
+            "value":"Preview image, double-click and hold to draw",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_left_resize_handle_hint",
+            "value":"Bottom left corner of editing box, double-click and hold, then drag to adjust the size",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_right_resize_handle_hint",
+            "value":"Top right corner of editing box, double-click and hold, then drag to adjust the size",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_top_left_resize_handle_hint",
+            "value":"Top left corner of editing box, double-click and hold, then drag to adjust the size",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Click the Generate button on the image generator node to create an image. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_bottom_right_resize_handle_hint",
+            "value":"Bottom right corner of editing box, double-click and hold, then drag to adjust the size",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
