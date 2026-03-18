@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Ayarlanacak alanı seçin, ardından görsel oluşturmak için açıklama girin",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Seçimi kaldır",
             "attr":{
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Bu düğüme aynı türde çok fazla öğe bağlandı. Önce bazılarını silin.",
+            "value":"Aynı türden çok fazla düğüm bağlı. Bazılarını silin ve tekrar deneyin.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Görsel oluşturma henüz tamamlanmadı. Şimdi Gelişmiş moddan çıkmak görevi sonlandıracaktır.",
+            "value":"Görsel oluşturuluyor. Şimdi çıkarsanız yok sayılacaktır.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Bu düğümün silinmesi mevcut görsel oluşturma görevini iptal edecektir.",
+            "value":"Bu düğümü silerseniz mevcut oluşturma görevi iptal edilecektir.",
             "attr":{
                 "priority":"translate"
             }
@@ -2774,7 +2767,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Düzenlenecek alanı seçin, ardından görsel oluşturmak için açıklama girin",
+            "value":"Ayarlanacak alanı seçin, ardından görsel oluşturmak için açıklama girin",
             "attr":{
                 "priority":"translate"
             }
@@ -2922,6 +2915,174 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"Döndürme kontrolü, mevcut açı %1$s. Çift dokunup basılı tutun, ardından çerçeveyi %2$d ila %3$d derece arasında bir değere ayarlamak için sürükleyin.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"Eserinizi kullanma",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"Görsel oluşturma",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"Görsel konumunu ayarlama",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"Şimdi dene",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Düğüm içeriğini düzenleme",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"Görsel, metin ve üretici düğümlerini birbirine bağlayın.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Bir düğüme dokunun ve içeriğini düzenlemek için açılır menüyü kullanın.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"Araç çubuğundan görsel, metin ve üretici düğümleri ekleyin veya metinden görsele ve görselden görsele iş akışları oluşturmak için şablonları kullanın.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Bir düğüme dokunun, ardından düğümü diğer düğümlerle hızlı bir şekilde bağlamak için kayan balona dokunun.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Düğümleri bağlama",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Düğümleri bağlama",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Düğüm ekleme",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"Oluşturduğunuz mevcut düzeni korurken yeni görseller oluşturun.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"Temel şekiller çizin, ardından görselini oluşturmak istediğiniz şeyi tanımlayın.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"Bir görsele dokunun, ardından iki parmağınızı kullanarak yakınlaştırın, döndürün veya konumunu ayarlayın. Seçilen görsel öne getirilecektir.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"Telif hakkı ihlali",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"İçerik bildirme",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"voice_button_text",
+            "value":"Konuşarak yazma düğmesi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"Görselin bir kısmını seçin, ardından istediğiniz şekilde değiştirmek için bir açıklama girin.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"Görseliniz oluşturulduktan sonra Galeri'ye kaydedebilir, bir nota veya çıkartma koleksiyonuna ekleyebilir, oluşturulan görseli düzenleyebilir veya tekrar oluşturabilirsiniz. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Metin açıklamaları, görseller veya karalamalar ekleyin, ardından görsel oluşturmak için Oluştur düğmesine dokunun. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Daha fazla bilgi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Düğümleri çizgilerle birleştirerek tuval üzerinde oluşturun. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Görsel oluşturmak için görsel oluşturucu düğümündeki Oluştur düğmesine dokunun. %s",
             "attr":{
                 "priority":"translate"
             }

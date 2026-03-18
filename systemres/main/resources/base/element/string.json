@@ -2731,7 +2731,7 @@
         },
         {
             "name":"maintain_the_layout_keyword",
-            "value":"Maintain the positional relationship of input images",
+            "value":"Preserve the layout of graphical elements",
             "attr":{
                 "priority":"translate"
             }
@@ -2844,13 +2844,6 @@
         {
             "name":"regional_life_image",
             "value":"Select",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"selection_operation_prompt_words",
-            "value":"Select area to adjust, then enter description to generate image",
             "attr":{
                 "priority":"translate"
             }
@@ -2987,14 +2980,14 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Text to image",
+            "value":"Text-to-image",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_from_images",
-            "value":"Image to image",
+            "value":"Image-to-image",
             "attr":{
                 "priority":"translate"
             }
@@ -3106,7 +3099,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"The current node has exceeded the connection limit for this type. Please delete some and try again.",
+            "value":"Too many nodes of the same type are connected. Delete some and try again.",
             "attr":{
                 "priority":"translate"
             }
@@ -3148,7 +3141,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Your image generation task is not yet complete. Exiting will terminate this generation process. Do you want to exit?",
+            "value":"An image is being generated. If you exit now it will be discarded.",
             "attr":{
                 "priority":"translate"
             }
@@ -3330,7 +3323,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Select an area to adjust, then enter a description to generate an image",
+            "value":"Select area to adjust, then enter description to generate image",
             "attr":{
                 "priority":"translate"
             }
@@ -3662,10 +3655,6 @@
             "value": "Describe how to modify the selection area"
         },
         {
-            "name":"image_generation_some_resource_invalid",
-            "value": "Some resources do not meet the format requirements. Other resources are displayed properly"
-        },
-        {
             "name":"image_generation_exit_confirm_generating",
             "value": "If you exit, the creation process will be interrupted. The generated content cannot be saved. Are you sure you want to close it?"
         },
@@ -3675,95 +3664,158 @@
         },
         {
             "name":"image_generation_content_infringement",
-            "value":"Content infringement"
+            "value":"Copyright infringement"
         },
         {
             "name": "voice_button_text",
-            "value": "Voice button"
+            "value": "Voice input button"
         },
         {
-            "name": "image_generation_general_guide_first",
-            "value": "Add text descriptions, images, or doodles, then tap Generate to start creating AI images quickly.%s"
+            "name":"image_generation_general_guide_first",
+            "value":"Add text descriptions, images, or doodles, then tap Generate to create an image. %s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_general_guide_second",
-            "value": "Tap an image, then use two fingers to zoom, rotate, or drag the handles to adjust its position. The selected image will be brought to the front."
+            "name":"image_generation_general_guide_second",
+            "value":"Tap an image, then use two fingers to zoom, rotate, or adjust its position. The selected image will be brought to the front.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_general_guide_third",
-            "value": "With Keep Layout enabled, the AI will generate new images based on the positions and relationships of your placed images."
+            "name":"image_generation_general_guide_third",
+            "value":"Generate new images while preserving the current layout you've created.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_general_guide_fourth",
-            "value": "Circle the area you want to adjust, add a text description, and create precisely in that region."
+            "name":"image_generation_general_guide_fourth",
+            "value":"Select a part of the image, then enter a description to change it in any way you want.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_general_guide_fifth",
-            "value": "Draw shapes you want with the doodle tool, add text descriptions, and create precisely."
+            "name":"image_generation_general_guide_fifth",
+            "value":"Sketch basic shapes and then describe what you want to generate an image.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_general_guide_sixth",
-            "value": "After creation, you can save to Gallery, add to notes or sticker library, re-edit, or keep creating based on the result.%s"
+            "name":"image_generation_general_guide_sixth",
+            "value":"After your image is generated, you can save to Gallery, add to a note or a sticker collection, edit the generated image, or generate again. %s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_canvas_guide_first",
-            "value": "Create on the canvas by connecting nodes with lines.%s"
+            "name":"image_generation_canvas_guide_first",
+            "value":"Create on the canvas by connecting nodes with lines. %s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_canvas_guide_second",
-            "value": "Add image, text, and generator nodes from the toolbar, or use templates to create text-to-image and image-to-image workflows."
+            "name":"image_generation_canvas_guide_second",
+            "value":"Add image, text, and generator nodes from the toolbar, or use templates to create text-to-image and image-to-image workflows.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_canvas_guide_third",
-            "value": "Connect image, text, and generator nodes together."
+            "name":"image_generation_canvas_guide_third",
+            "value":"Connect image, text, and generator nodes together.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_canvas_guide_fourth",
-            "value": "Tap a node and use the pop-up menu to edit its content."
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Tap a node and use the pop-up menu to edit its contents.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_canvas_guide_fifth",
-            "value": "Tap a node, then tap the floating bubble to quickly connect it with other nodes."
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Tap a node, then tap the floating bubble to quickly connect it with other nodes.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_canvas_guide_sixth",
-            "value": "Tap the Generate button on the image generator node to finish creation.%s"
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Tap the Generate button on the image generator node to create an image. %s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_guide_learn_more",
-            "value": "Learn more"
+            "name":"image_generation_guide_learn_more",
+            "value":"Learn more",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_general_guide_adjust_image_position",
-            "value": "Adjust image position"
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"Adjust image position",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_general_guide_complete_creation",
-            "value": "Complete creation"
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"Use your creation",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_canvas_guide_add_node",
-            "value": "Add node"
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Add a node",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_canvas_guide_node_connection",
-            "value": "Node connection"
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Connect nodes",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_canvas_guide_edit_node_content",
-            "value": "Edit node content"
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Edit node content",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_canvas_guide_quick_connect",
-            "value": "Quick connect"
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Connect nodes",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_canvas_guide_generate_image",
-            "value": "Generate image"
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"Generate image",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "image_generation_guide_try_it_now",
-            "value": "Try it now"
+            "name":"image_generation_guide_try_it_now",
+            "value":"Try it now",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_guide_add_image",
@@ -3807,7 +3859,7 @@
         },
         {
             "name":"image_generation_upload_creative_materials",
-            "value":"Uploading your creative materials..."
+            "value":"Uploading your creative materials"
         },
         {
             "name":"image_generation_turn_inspiration_into_visuals",
@@ -3815,23 +3867,23 @@
         },
         {
             "name":"image_generation_optimize_composition_and_colors",
-            "value":"Optimizing composition and colors..."
+            "value":"Optimizing composition and colors"
         },
         {
             "name":"image_generation_enriche_creative_elements",
-            "value":"Enriching creative elements..."
+            "value":"Enriching creative elements"
         },
         {
             "name":"image_generation_fine_tuning_artistic_style",
-            "value":"Fine-tuning the artistic style..."
+            "value":"Fine-tuning the artistic style"
         },
         {
             "name":"image_generation_finishing_image_details_and_effects",
-            "value":"Perfecting image details and effects..."
+            "value":"Perfecting image details and effects"
         },
         {
             "name":"image_generation_artwork_about_to_appear",
-            "value":"Your artwork is about to appear..."
+            "value":"Your artwork is about to appear"
         },
         {
             "name":"image_generation_generated_failed",
@@ -3862,20 +3914,16 @@
  	        "value":"Exit extension"
  	    },
  	    {
- 	        "name":"image_generation_blue",
- 	        "value":"Blue"
- 	    },
- 	    {
  	        "name":"image_generation_new_canvas",
  	        "value":"New canvas"
  	    },
  	    {
  	        "name":"image_generation_hide_tab_bar_description",
- 	        "value":"Swipe with two fingers to hide more options"
+ 	        "value":"%s. Double finger side slide can hide more operations"
  	    },
  	    {
  	        "name":"image_generation_tab_bar_description",
- 	        "value":"Double tap and hold, then swipe left for more options"
+ 	        "value":"%s. Double-tap to activate. Double-tap and hold to display more options. Double-tap and hold and swipe left to perform more operations"
  	    },
  	    {
  	        "name":"image_generation_no_canvas",
@@ -3884,6 +3932,14 @@
  	    {
  	        "name":"image_generation_canvas_loading",
  	        "value":"Canvas loading"
+ 	    },
+        {
+ 	        "name":"image_generation_rename",
+ 	        "value":"Rename"
+ 	    },
+        {
+ 	        "name":"image_generation_guide_add_generate",
+ 	        "value":"After adding the text description, click \"Generate\" to start creation"
  	    }
     ]
 }

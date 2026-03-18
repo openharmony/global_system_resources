@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Wählen Sie den Bereich aus, der angepasst werden soll, und geben Sie dann eine Beschreibung ein, um das Bild zu generieren.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Auswahl aufheben",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Text zu Bild",
+            "value":"Text-zu-Bild",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Bild zu Bild",
+            "value":"Bild-zu-Bild",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Mit diesem Knoten sind zu viele Elemente desselben Typs verbunden. Löschen Sie zuerst einige.",
+            "value":"Es sind zu viele Knoten desselben Typs verbunden. Löschen Sie einige und versuchen Sie es erneut.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Bildgenerierung ist noch nicht abgeschlossen. Beim Beenden des erweiterten Modus wird die Aufgabe beendet.",
+            "value":"Ein Bild wird erstellt. Wenn Sie den Vorgang jetzt beenden, wird das Bild verworfen.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Wenn dieser Knoten gelöscht wird, wird die aktuelle Bildgenerierungsaufgabe abgebrochen.",
+            "value":"Wenn Sie diesen Knoten löschen, wird die aktuelle Generierungsaufgabe abgebrochen.",
             "attr":{
                 "priority":"translate"
             }
@@ -2774,7 +2767,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Einen zu bearbeitenden Bereich auswählen und eine Beschreibung eingeben, um ein Bild zu generieren",
+            "value":"Wählen Sie den Bereich aus, der angepasst werden soll, und geben Sie dann eine Beschreibung ein, um das Bild zu generieren",
             "attr":{
                 "priority":"translate"
             }
@@ -2922,6 +2915,174 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"Drehungssteuerung, aktueller Winkel ist %1$s. Zweimal antippen und halten, dann ziehen, um den Rahmen zwischen %2$d und %3$d Grad anzupassen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"Verwenden Sie Ihre Kreation",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"Bild generieren",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"Bildposition anpassen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"Jetzt ausprobieren",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Knoteninhalt bearbeiten",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"Verbinden Sie Bild-, Text- und Generator-Knoten miteinander.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Tippen Sie auf einen Knoten und bearbeiten Sie dessen Inhalt über das Pop-up-Menü.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"Fügen Sie Bild-, Text- und Generator-Knoten aus der Symbolleiste hinzu oder verwenden Sie Vorlagen, um Text-zu-Bild- und Bild-zu-Bild-Arbeitsabläufe zu erstellen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Tippen Sie auf einen Knoten und anschließend auf die schwebende Blase, damit er schnell mit anderen Knoten verbunden wird.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Knoten verbinden",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Knoten verbinden",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Knoten hinzufügen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"Es werden neue Bilder generiert, während das von Ihnen erstellte aktuelle Layout beibehalten wird.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"Skizzieren Sie einfache Formen und beschreiben Sie dann, welches Bild Sie generieren möchten.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"Tippen Sie auf ein Bild und verwenden Sie zwei Finger, um es zu vergrößern oder zu verkleinern, zu drehen oder zu verschieben. Das ausgewählte Bild wird in den Vordergrund gebracht.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"Urheberrechtsverletzung",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"Inhalt des Berichts",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"voice_button_text",
+            "value":"Schaltfläche für Spracheingabe",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"Wählen Sie einen Teil des Bildes aus und geben Sie dann eine Beschreibung ein, um es nach Ihren Vorstellungen zu ändern.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"Nachdem Ihr Bild generiert wurde, können Sie es in der Galerie speichern, zu einer Notiz oder einer Stickersammlung hinzufügen, das erstellte Bild bearbeiten oder erneut generieren. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Fügen Sie Textbeschreibungen, Bilder oder Kritzeleien hinzu und tippen Sie dann auf Generieren, um ein Bild zu erstellen. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Mehr erfahren",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Erstellen Sie auf der Leinwand, indem Sie Knoten mit Linien verbinden. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Tippen Sie auf die Schaltfläche Generieren auf dem Knoten des Bildgenerators, um ein Bild zu erstellen. %s",
             "attr":{
                 "priority":"translate"
             }

@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Wybierz obszar do dostosowania, a następnie wprowadź opis, aby wygenerować obraz",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Usuń zaznaczenie",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Tekst na obraz",
+            "value":"Tekst-obraz",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Obraz na obraz",
+            "value":"Obraz-obraz",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Z tym węzłem połączonych jest zbyt wiele elementów tego samego typu. Najpierw usuń część z nich.",
+            "value":"Połączono zbyt wiele węzłów tego samego typu. Usuń niektóre i spróbuj ponownie.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Generowanie obrazu nie zostało jeszcze zakończone. Wyjście z trybu zaawansowanego spowoduje zakończenie zadania.",
+            "value":"Trwa generowanie obrazu. Treść zostanie usunięta, jeśli wyjdziesz teraz.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Usunięcie tego węzła spowoduje anulowanie obecnego zadanie generowania obrazu.",
+            "value":"Jeśli usuniesz ten węzeł, bieżące zadanie generowania zostanie anulowane.",
             "attr":{
                 "priority":"translate"
             }
@@ -2922,6 +2915,174 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"Obracanie, obecny kąt wynosi %1$s. Dotknij dwukrotnie i przytrzymaj, a następnie przeciągnij, aby dostosować ramkę w zakresie od %2$d do %3$d stopni.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"Użyj własnej pracy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"Generuj obraz",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"Dostosuj położenie obrazu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"Wypróbuj teraz",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Edytuj zawartość węzła",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"Połącz ze sobą obraz, tekst i węzły generatora.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Dotknij węzła i użyj menu w oknie przestawnym, aby edytować jego zawartość.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"Dodaj obraz, tekst i węzły generatora z paska narzędzi lub użyj szablonów, aby utworzyć przepływy pracy tekst na obraz i obraz na obraz.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Dotknij węzła, a następnie dotknij dymka przestawnego, aby szybko połączyć go z innymi węzłami.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Połącz węzły",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Połącz węzły",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Dodaj węzeł",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"Generuj nowe obrazy, zachowując bieżący układ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"Naszkicuj podstawowe kształty, a następnie opisz, co chcesz wygenerować.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"Dotknij obrazu, a następnie dwoma palcami powiększaj go, obracaj lub dostosuj jego położenie. Wybrany obraz zostanie przeniesiony na pierwszy plan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"Naruszenie praw autorskich",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"Zgłoś treści",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"voice_button_text",
+            "value":"Przycisk wprowadzania głosowego",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"Wybierz część obrazu i wprowadź opis, aby zmienić go według własnego uznania.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"Po wygenerowaniu obrazu możesz go zapisać w Galerii, dodać do notatek lub kolekcji naklejek, edytować, bądź też wygenerować ponownie. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Dodawaj opisy tekstowe, obrazy lub bazgroły, a następnie wybierz Generuj, aby stworzyć obraz. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Dowiedz się więcej",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Twórz na kanwie, łącząc węzły liniami. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Dotknij przycisku Generuj w opcjach generatora obrazów, aby utworzyć obraz. %s",
             "attr":{
                 "priority":"translate"
             }

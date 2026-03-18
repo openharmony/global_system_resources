@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Pilih area yang akan disesuaikan, lalu masukkan deskripsi untuk membuat gambar",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Batal pilih",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Teks menjadi gambar",
+            "value":"Teks-menjadi-gambar",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Gambar menjadi gambar",
+            "value":"Gambar-menjadi-gambar",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Terlalu banyak item berjenis sama yang dihubungkan ke node ini. Hapus beberapa terlebih dahulu.",
+            "value":"Terlalu banyak node berjenis sama yang dihubungkan. Hapus beberapa dan coba lagi.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Pembuatan gambar belum selesai. Keluar dari Mode lanjutan sekarang akan mengakhiri tugas tersebut.",
+            "value":"Gambar sedang dibuat. Jika Anda keluar sekarang, gambar tersebut akan dibuang.",
             "attr":{
                 "priority":"translate"
             }
@@ -2438,7 +2431,7 @@
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
-            "value":"Pilihan melebihi batas maksimum %d gambar. Batal pilih beberapa.",
+            "value":"Pilihan melebihi batas maksimum %d gambar. Batal pilih beberapa.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Menghapus node ini akan membatalkan tugas pembuatan gambar saat ini.",
+            "value":"Jika Anda menghapus node ini, tugas pembuatan saat ini akan dibatalkan.",
             "attr":{
                 "priority":"translate"
             }
@@ -2922,6 +2915,174 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"Kontrol rotasi, sudut saat ini %1$s. Ketuk dua kali dan tahan, lalu seret untuk menyesuaikan bingkai dari %2$d hingga %3$d derajat.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"Gunakan kreasi Anda",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"Buat gambar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"Sesuaikan posisi gambar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"Cobalah sekarang",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Edit konten node",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"Hubungkan node gambar, teks, dan generator bersama-sama.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Ketuk node dan gunakan menu sembulan untuk mengedit kontennya.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"Tambahkan node gambar, teks, dan generator dari bilah alat, atau gunakan templat untuk membuat alur kerja teks-menjadi-gambar dan gambar-menjadi-gambar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Ketuk node, lalu ketuk gelembung melayang untuk cepat menghubungkannya dengan node lainnya.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Hubungkan node",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Hubungkan node",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Tambahkan node",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"Buat gambar baru sambil mempertahankan tata letak saat ini yang telah Anda buat.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"Buat sketsa bentuk dasar, lalu jelaskan gambar apa yang ingin Anda buat.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"Ketuk gambar, lalu gunakan dua jari untuk melakukan zum, merotasi, atau menyesuaikan posisinya. Gambar yang terpilih akan dibawa ke depan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"Pelanggaran hak cipta",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"Laporkan konten",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"voice_button_text",
+            "value":"Tombol masukan suara",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"Pilih bagian gambar, lalu masukkan deskripsi untuk mengubahnya sesuai keinginan Anda.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"Setelah gambar Anda dibuat, Anda dapat menyimpan ke Galeri, menambahkan ke catatan atau koleksi stiker, mengedit gambar yang dibuat, atau membuat lagi. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Tambahkan deskripsi teks, gambar, atau coretan, lalu ketuk Buat untuk membuat gambar. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Pelajari lebih lanjut",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Buat di kanvas dengan cara menghubungkan node dengan garis. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Ketuk tombol Buat di node pembuat gambar untuk membuat gambar. %s",
             "attr":{
                 "priority":"translate"
             }

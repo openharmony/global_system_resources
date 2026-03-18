@@ -1821,13 +1821,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"圈選想要調整的區域，新增文字描述即可產生圖片",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"取消選取範圍",
             "attr":{
@@ -1871,14 +1864,14 @@
         },
         {
             "name":"maintain_the_layout_keyword",
-            "value":"保持輸入圖形的位置關係",
+            "value":"保持輸入圖片的位置關係",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"ai_thinking",
-            "value":"思考中",
+            "value":"思考中…",
             "attr":{
                 "priority":"translate"
             }
@@ -1920,7 +1913,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"透過雙指縮放、旋轉編輯影像位置",
+            "value":"透過雙指縮放、旋轉編輯圖片位置",
             "attr":{
                 "priority":"translate"
             }
@@ -2144,7 +2137,7 @@
         },
         {
             "name":"node_graph_replace_image",
-            "value":"取代影像",
+            "value":"取代圖片",
             "attr":{
                 "priority":"translate"
             }
@@ -2186,7 +2179,7 @@
         },
         {
             "name":"image_generation",
-            "value":"影像產生",
+            "value":"圖片產生",
             "attr":{
                 "priority":"translate"
             }
@@ -2319,7 +2312,7 @@
         },
         {
             "name":"node_graph_image_replacement_cannot_preserve_operations",
-            "value":"若取代影像，將無法保留操作",
+            "value":"若取代圖片，將無法保留操作",
             "attr":{
                 "priority":"translate"
             }
@@ -2347,7 +2340,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"目前節點同類型素材連線超出限制，請刪除部分，然後重試",
+            "value":"目前節點同類型數量連線超出限制，請刪除部分節點，然後重試",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,14 +2417,14 @@
         },
         {
             "name":"node_graph_input_image_dimensions_invalid",
-            "value":"輸入圖像尺寸不符合規定，請重新輸入",
+            "value":"輸入圖片尺寸不符合規定，請重新輸入",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"您的圖片產生任務尚未完成，若結束畫布模式，會終止任務。是否繼續？",
+            "value":"您的產生圖片任務尚未完成，若結束，將終止本次產生圖片處理程序。是否結束？",
             "attr":{
                 "priority":"translate"
             }
@@ -2578,7 +2571,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"您的產生圖片任務尚未完成，若刪除產生節點，會終止任務。是否繼續？",
+            "value":"您的產生圖片任務尚未完成，若刪除產生的節點，將終止本次產生圖片處理程序。確認刪除？",
             "attr":{
                 "priority":"translate"
             }
@@ -2627,7 +2620,7 @@
         },
         {
             "name":"node_graph_delete_node_will_not_preserve_task",
-            "value":"刪除節點將無法保留任務",
+            "value":"若刪除，將中斷產生任務",
             "attr":{
                 "priority":"translate"
             }
@@ -2648,14 +2641,14 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_task",
-            "value":"結束將無法保留任務",
+            "value":"若結束，將中斷產生任務",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"node_graph_confirm_replace_image",
-            "value":"取代影像後，將不保留原始影像的塗鴉和圈選。是否繼續？",
+            "value":"取代圖片後，將不保留原始圖片的塗鴉和圈選。是否繼續？",
             "attr":{
                 "priority":"translate"
             }
@@ -2781,7 +2774,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"圈選想要調整的區域，新增文字描述即可產生圖片",
+            "value":"圈選想要調整的區域，新增文字描述即可創作",
             "attr":{
                 "priority":"translate"
             }
@@ -2929,6 +2922,174 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"旋轉按鈕，目前角度為 %1$s，可調範圍為 %2$d 至 %3$d 度，輕觸兩下並按住即可滑動調整編輯方塊旋轉角度",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"完成創作",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"產生影像",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"圖片位置調整",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"立即體驗",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"編輯節點內容",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"連線圖片、文字節點和產生器節點。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"輕觸節點，透過彈出的功能表編輯節點內容。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"透過工具列新增圖片、文字和產生器節點，或透過範本建立文轉圖和圖轉圖工作流程。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"輕觸節點，然後輕觸彈出的懸浮氣泡，快速進行節點連線。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"快速連線",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"節點連線",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"新增節點",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"啟用保持配置後，AI 將參考您擺放的圖片位置關係來產生新的圖片。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"使用塗鴉工具畫出想要的圖形，然後新增文字描述進行精準的創作。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"輕觸圖片，透過雙指縮放、旋轉或調整控制桿擺放圖片位置，選取的圖片將置於頂層。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"內容侵權",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"內容檢舉",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"voice_button_text",
+            "value":"語音按鈕",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"透過圈選想要調整的區域，新增文字描述進行精準的局部創作。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"完成創作後，可以將其下載到圖片庫、新增至筆記原文或貼圖庫，也可以重新編輯或基於結果繼續創作。%s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"新增文字描述、圖片或塗鴉後，輕觸「產生」按鈕快速開啟 AI 產生圖片創作。%s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"瞭解更多",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"透過節點連線的方式進行 AI 產生圖片。%s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"輕觸產生器節點上的「產生」按鈕完成創作。%s",
             "attr":{
                 "priority":"translate"
             }

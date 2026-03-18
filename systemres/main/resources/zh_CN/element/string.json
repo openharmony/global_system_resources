@@ -2701,13 +2701,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"圈选想要调整的区域，通过添加提示词输入节点进行生图",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"reporting_results",
             "value":"举报",
             "attr":{
@@ -3518,10 +3511,6 @@
             "value": "描述如何修改圈选区域"
         },
         {
-            "name":"image_generation_some_resource_invalid",
-            "value": "部分资源不符合格式要求，其余资源已正常显示"
-        },
-        {
             "name":"image_generation_exit_confirm_generating",
             "value": "退出将无法保留创作，关闭后将中断当前生图流程，已生成的内容无法保存，是否关闭？"
         },
@@ -3539,87 +3528,150 @@
         },
         {
             "name":"image_generation_general_guide_first",
-            "value":"添加文字描述、图片或涂鸦后，点击生成快速开启AI生图创作。%s"
+            "value":"添加文字描述、图片或涂鸦后，点击“生成”按钮快速开启 AI 生图创作。%s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_general_guide_second",
-            "value":"轻点图片，通过双指缩放、旋转或调整控制柄摆放图片位置，选中的图片将会置于顶层。"
+            "value":"轻点图片，通过双指缩放、旋转或调整控制柄摆放图片位置，选中的图片将会置于顶层。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_general_guide_third",
-            "value":"打开保持布局后，AI将参考您摆放的图片位置关系来生成新的图片。"
+            "value":"打开保持布局后，AI 将参考您摆放的图片位置关系来生成新的图片。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_general_guide_fourth",
-            "value":"通过圈选想要调整的区域，添加文字描述进行精准的局部创作。"
+            "value":"通过圈选想要调整的区域，添加文字描述进行精准的局部创作。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_general_guide_fifth",
-            "value":"使用涂鸦工具画出想要的图形，添加文字描述进行精准的创作。"
+            "value":"使用涂鸦工具画出想要的图形，添加文字描述进行精准的创作。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_general_guide_sixth",
-            "value":"完成创作后，可以下载到图库、添加至笔记原文或贴纸库，也可以重新编辑或基于结果继续创作。%s"
+            "value":"完成创作后，可以下载到图库、添加至笔记原文或贴纸库，也可以重新编辑或基于结果继续创作。%s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_first",
-            "value":"通过节点连线的方式进行AI生图。%s"
+            "value":"通过节点连线的方式进行 AI 生图。%s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_second",
-            "value":"通过工具栏添加图片、文字和生成器节点，或通过模板创建文生图和图生图工作流。"
+            "value":"通过工具栏添加图片、文字和生成器节点，或通过模板创建文生图和图生图工作流。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_third",
-            "value":"将图片、文字节点和生成器节点进行连接。"
+            "value":"将图片、文字节点和生成器节点进行连接。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_fourth",
-            "value":"轻点节点，通过弹出的功能菜单编辑节点内容。"
+            "value":"轻点节点，通过弹出的功能菜单编辑节点内容。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_fifth",
-            "value":"轻点节点、点击弹出的悬浮气泡快速进行节点连线。"
+            "value":"轻点节点、点击弹出的悬浮气泡快速进行节点连线。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_sixth",
-            "value":"点击生成器节点上的生成按钮完成创作。%s"
+            "value":"点击生成器节点上的“生成”按钮完成创作。%s",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_guide_learn_more",
-            "value":"了解更多"
+            "value":"了解更多",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_general_guide_adjust_image_position",
-            "value":"图片位置调整"
+            "value":"图片位置调整",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_general_guide_complete_creation",
-            "value":"完成创作"
+            "value":"完成创作",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_add_node",
-            "value":"添加节点"
+            "value":"添加节点",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_node_connection",
-            "value":"节点连接"
+            "value":"节点连接",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_edit_node_content",
-            "value":"编辑节点内容"
+            "value":"编辑节点内容",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_quick_connect",
-            "value":"快捷连线"
+            "value":"快捷连线",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_generate_image",
-            "value":"生成图像"
+            "value":"生成图像",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_guide_try_it_now",
-            "value":"立即体验"
+            "value":"立即体验",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_guide_add_image",
@@ -3647,7 +3699,7 @@
         },
         {
             "name":"image_generation_canvas_guide_select_tip",
-            "value":"轻点以选中单独节点，划动以框选多节点"
+            "value":"轻点选择单个节点，滑动框选多个节点"
         },
         {
             "name":"image_generation_canvas_guide_select_workflow",
@@ -3663,31 +3715,31 @@
         },
         {
             "name":"image_generation_upload_creative_materials",
-            "value":"正在上传您的创作素材..."
+            "value":"正在上传您的创作素材"
         },
         {
             "name":"image_generation_turn_inspiration_into_visuals",
-            "value":"正在将您的灵感变成画面..."
+            "value":"正在将您的灵感变成画面"
         },
         {
             "name":"image_generation_optimize_composition_and_colors",
-            "value":"正在优化画面构图和色彩..."
+            "value":"正在优化画面构图和色彩"
         },
         {
             "name":"image_generation_enriche_creative_elements",
-            "value":"正在丰富画面的创意元素..."
+            "value":"正在丰富画面的创意元素"
         },
         {
             "name":"image_generation_fine_tuning_artistic_style",
-            "value":"正在进行艺术风格的微调..."
+            "value":"正在进行艺术风格的微调"
         },
         {
             "name":"image_generation_finishing_image_details_and_effects",
-            "value":"正在完善画面细节和效果..."
+            "value":"正在完善画面细节和效果"
         },
         {
             "name":"image_generation_artwork_about_to_appear",
-            "value":"您的创作画面即将呈现..."
+            "value":"您的创作画面即将呈现"
         },
         {
             "name":"image_generation_generated_failed",
@@ -3718,20 +3770,16 @@
  	        "value":"退出扩展"
  	    },
  	    {
- 	        "name":"image_generation_blue",
- 	        "value":"蓝色"
- 	    },
- 	    {
  	        "name":"image_generation_new_canvas",
  	        "value":"新建画布"
  	    },
  	    {
  	        "name":"image_generation_hide_tab_bar_description",
- 	        "value":"双指侧滑可隐藏更多操作"
+ 	        "value":"%s，双指侧滑可隐藏更多操作"
  	    },
  	    {
  	        "name":"image_generation_tab_bar_description",
- 	        "value":"双击并按住左滑可进行更多操作"
+ 	        "value":"%s，单指双击即可执行，双击并按住即可弹出更多选项，双击并按住左滑可进行更多操作"
  	    },
  	    {
  	        "name":"image_generation_no_canvas",
@@ -3740,6 +3788,14 @@
  	    {
  	        "name":"image_generation_canvas_loading",
  	        "value":"画布加载中"
+ 	    },
+        {
+ 	        "name":"image_generation_rename",
+ 	        "value":"重命名"
+ 	    },
+        {
+ 	        "name":"image_generation_guide_add_generate",
+ 	        "value":"添加文字后，点击“生成”按钮进行创作"
  	    }
     ]
 }

@@ -1757,10 +1757,6 @@
             "value":"[TS_1160839]_Add to stickers"
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"[TS_1160829]_Select area to adjust, then enter description to generate image"
-        },
-        {
             "name":"cancel_the_district",
             "value":"[TS_1160792]_Deselect"
         },
@@ -1958,7 +1954,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"[TS_1160787]_Text to image"
+            "value":"[TS_1160787]_Text-to-image"
         },
         {
             "name":"oil_painting",
@@ -2002,7 +1998,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"[TS_1160840]_Image to image"
+            "value":"[TS_1160840]_Image-to-image"
         },
         {
             "name":"image_style",
@@ -2058,7 +2054,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"[TS_1168845]_Too many items of the same type connected to this node. Delete some first."
+            "value":"[TS_1168845]_Too many nodes of the same type are connected. Delete some and try again."
         },
         {
             "name":"node_graph_input_violates_platform_rules",
@@ -2106,7 +2102,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"[TS_1168850]_Image generation is not yet complete. Exiting Advanced mode now will end the task."
+            "value":"[TS_1168850]_An image is being generated. If you exit now it will be discarded."
         },
         {
             "name":"node_graph_image_generation_not_supported",
@@ -2190,7 +2186,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"[TS_1176829]_Deleting this node will cancel the current image generation task."
+            "value":"[TS_1176829]_If you delete this node, the current generation task will be canceled."
         },
         {
             "name":"node_graph_wash_painting",
@@ -2306,7 +2302,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"[TS_1179985]_Select an area to adjust, then enter a description to generate an image"
+            "value":"[TS_1179985]_Select area to adjust, then enter description to generate image"
         },
         {
             "name":"image_generation_pen_ballpoint",
@@ -2391,6 +2387,102 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"[TS_1180010]_Rotation control, current angle is %1$s. Double-tap and hold, then drag to adjust the frame anywhere from %2$d to %3$d degrees."
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"[TS_1184895]_Use your creation"
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"[TS_1184887]_Generate image"
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"[TS_1184879]_Adjust image position"
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"[TS_1184889]_Try it now"
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"[TS_1184888]_Edit node content"
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"[TS_1184885]_Connect image, text, and generator nodes together."
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"[TS_1184878]_Tap a node and use the pop-up menu to edit its contents."
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"[TS_1184890]_Add image, text, and generator nodes from the toolbar, or use templates to create text-to-image and image-to-image workflows."
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"[TS_1184880]_Tap a node, then tap the floating bubble to quickly connect it with other nodes."
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"[TS_1184896]_Connect nodes"
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"[TS_1184891]_Connect nodes"
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"[TS_1184884]_Add a node"
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"[TS_1184892]_Generate new images while preserving the current layout you've created."
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"[TS_1184898]_Sketch basic shapes and then describe what you want to generate an image."
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"[TS_1184894]_Tap an image, then use two fingers to zoom, rotate, or adjust its position. The selected image will be brought to the front."
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"[TS_1183927]_Report content"
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"[TS_1183930]_Copyright infringement"
+        },
+        {
+            "name":"voice_button_text",
+            "value":"[TS_1184838]_Voice input button"
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"[TS_1184886]_Select a part of the image, then enter a description to change it in any way you want."
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"[TS_1184897]_After your image is generated, you can save to Gallery, add to a note or a sticker collection, edit the generated image, or generate again. %s"
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"[TS_1184893]_Add text descriptions, images, or doodles, then tap Generate to create an image. %s"
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"[TS_1184883]_Learn more"
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"[TS_1184881]_Create on the canvas by connecting nodes with lines. %s"
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"[TS_1184882]_Tap the Generate button on the image generator node to create an image. %s"
         }
     ]
 }

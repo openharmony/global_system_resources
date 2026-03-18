@@ -36630,7 +36630,8 @@
         {
             "type": "string",
             "name": "selection_operation_prompt_words",
-            "order": 7253
+            "order": 7253,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -38816,7 +38817,8 @@
         {
             "type": "string",
             "name":"image_generation_some_resource_invalid",
-            "order": 7686
+            "order": 7686,
+            "flags": "private"
         },
         {
             "type": "string",
@@ -39101,7 +39103,8 @@
  	    {
  	        "type":"string",
  	        "name":"image_generation_blue",
- 	        "order": 7743
+ 	        "order": 7743,
+            "flags": "private"
  	    },
  	    {
  	        "type":"string",
@@ -39127,6 +39130,16 @@
  	        "type":"string",
  	        "name":"image_generation_canvas_loading",
  	        "order": 7748
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_rename",
+ 	        "order": 7749
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_guide_add_generate",
+ 	        "order": 7750
  	    }
     ]
 }

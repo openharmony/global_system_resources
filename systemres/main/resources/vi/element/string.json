@@ -1856,13 +1856,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Chọn vùng cần điều chỉnh, sau đó nhập mô tả để tạo hình ảnh",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Bỏ chọn",
             "attr":{
@@ -2207,7 +2200,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Chuyển văn bản thành hình ảnh",
+            "value":"Văn bản sang ảnh",
             "attr":{
                 "priority":"translate"
             }
@@ -2284,7 +2277,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Chuyển ảnh thành hình ảnh",
+            "value":"Ảnh sang ảnh",
             "attr":{
                 "priority":"translate"
             }
@@ -2382,7 +2375,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Quá nhiều mục cùng loại được kết nối với nút này. Hãy xóa bớt một số mục trước.",
+            "value":"Đã kết nối quá nhiều nút cùng loại. Hãy xóa một vài nút rồi thử lại.",
             "attr":{
                 "priority":"translate"
             }
@@ -2466,7 +2459,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Quá trình tạo hình ảnh chưa hoàn tất. Thoát khỏi chế độ Nâng cao ngay bây giờ sẽ kết thúc tác vụ.",
+            "value":"Đang tạo một ảnh. Nếu bạn thoát ngay bây giờ, tác vụ tạo sẽ bị hủy bỏ.",
             "attr":{
                 "priority":"translate"
             }
@@ -2613,7 +2606,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Việc xóa nút này sẽ hủy tác vụ tạo hình ảnh hiện tại.",
+            "value":"Nếu bạn xóa nút này, tác vụ tạo hiện tại sẽ bị hủy.",
             "attr":{
                 "priority":"translate"
             }
@@ -2816,7 +2809,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Chọn vùng cần điều chỉnh, sau đó nhập mô tả để tạo hình ảnh",
+            "value":"Chọn vùng cần điều chỉnh, sau đó nhập mô tả để tạo ảnh",
             "attr":{
                 "priority":"translate"
             }
@@ -2964,6 +2957,174 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"Điều khiển xoay, góc hiện tại là %1$s. Chạm đúp và giữ, sau đó kéo để điều chỉnh khung hình từ %2$d đến %3$d độ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"Sử dụng tác phẩm của bạn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"Tạo hình ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"Điều chỉnh vị trí hình ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"Dùng thử ngay",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Sửa nội dung nút",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"Kết nối các nút hình ảnh, văn bản và tạo nội dung với nhau.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Chạm vào một nút và sử dụng menu bật lên để sửa nội dung của nút đó.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"Thêm các nút hình ảnh, văn bản và tạo nội dung từ thanh công cụ hoặc sử dụng các mẫu để tạo quy trình tạo ảnh từ văn bản và từ ảnh sang ảnh.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Chạm vào một nút, sau đó chạm vào bong bóng di động để nhanh chóng kết nối nút đó với các nút khác.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Kết nối các nút",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Kết nối các nút",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Thêm nút",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"Tạo ảnh mới trong khi vẫn giữ nguyên bố cục hiện tại.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"Phác thảo các hình dạng cơ bản, sau đó mô tả những gì bạn muốn để tạo ảnh.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"Chạm vào ảnh, sau đó dùng hai ngón tay để phóng to, xoay hoặc điều chỉnh vị trí. Ảnh đã chọn sẽ được đưa lên phía trước.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"Vi phạm bản quyền",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"Báo cáo nội dung",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"voice_button_text",
+            "value":"Nút nhập bằng giọng nói",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"Chọn một phần của ảnh, sau đó nhập mô tả để chỉnh sửa theo ý muốn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"Sau khi tạo ảnh, bạn có thể lưu vào Bộ sưu tập, thêm vào ghi chú hoặc bộ sưu tập nhãn dán, sửa ảnh đã tạo hoặc tạo lại. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Thêm mô tả văn bản, hình ảnh hoặc hình vẽ nguệch ngoạc, sau đó chạm vào Tạo để tạo ảnh. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Tìm hiểu thêm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Tạo trên khung vẽ bằng cách kết nối các nút bằng các đường thẳng. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Chạm vào nút Tạo trên trình tạo ảnh để tạo ảnh. %s",
             "attr":{
                 "priority":"translate"
             }

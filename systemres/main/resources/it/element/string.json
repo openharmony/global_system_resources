@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Seleziona l'area da regolare, quindi inserisci la descrizione per generare l'immagine",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Deseleziona",
             "attr":{
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Troppi elementi dello stesso tipo connessi a questo nodo. Prima eliminane alcuni.",
+            "value":"Sono collegati troppi nodi dello stesso tipo. Eliminane alcuni e riprova.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"La generazione di immagini non è ancora completata. Se esci ora dalla modalità Avanzata, l'attività verrà terminata.",
+            "value":"È in corso la generazione di un'immagine. Se esci ora, verrà interrotta.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Se elimini questo nodo annullerai l'attività di generazione dell'immagine corrente.",
+            "value":"Se elimini questo nodo, l'attività di generazione in corso verrà annullata.",
             "attr":{
                 "priority":"translate"
             }
@@ -2774,7 +2767,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Seleziona l'area da regolare, quindi inserisci la descrizione per generare un'immagine",
+            "value":"Seleziona l'area da regolare, quindi inserisci la descrizione per generare l'immagine",
             "attr":{
                 "priority":"translate"
             }
@@ -2922,6 +2915,174 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"Controllo della rotazione, l'angolo corrente è %1$s. Tocca due volte e tieni premuto, quindi trascina per regolare la cornice da %2$d a %3$d gradi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"Usa la tua creazione",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"Crea immagine",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"Regola la posizione dell'immagine",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"Prova adesso",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Modifica il contenuto del nodo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"Collega tra loro i nodi immagine, testo e generatore.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Tocca un nodo e usa il menu popup per modificarne il contenuto.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"Aggiungi nodi immagine, testo e generatore dalla barra degli strumenti oppure usa modelli per creare flussi di lavoro testo-immagine e immagine-immagine.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Tocca un nodo, quindi tocca la bolla mobile per collegarlo rapidamente ad altri nodi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Collega i nodi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Collega i nodi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Aggiungi un nodo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"Genera nuove immagini mantenendo il layout corrente che hai creato.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"Fai uno schizzo delle forme di base e poi descrivi ciò che vuoi per creare un'immagine.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"Tocca un'immagine, quindi usa due dita per ingrandire, ruotare o regolarne la posizione. L'immagine selezionata verrà portata in primo piano.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"Violazione del copyright",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"Segnala contenuto",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"voice_button_text",
+            "value":"Tasto Comandi vocali",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"Seleziona una parte dell'immagine, quindi inserisci una descrizione per modificarla come preferisci.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"Dopo aver generato l'immagine, puoi salvarla nella Galleria, aggiungerla a una nota o a una raccolta di adesivi, modificare l'immagine generata o generarla di nuovo. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Aggiungi descrizioni testuali, immagini o schizzi, quindi tocca Genera per creare un'immagine. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Maggiori dettagli",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Crea sulla tela collegando i nodi con le linee. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Tocca il tasto Genera nel nodo del generatore di immagini per creare un'immagine. %s",
             "attr":{
                 "priority":"translate"
             }

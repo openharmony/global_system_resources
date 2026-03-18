@@ -1853,13 +1853,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"حدد المنطقة التي تريد تعديلها، ثم أدخل الوصف لإنشاء الصورة",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"إلغاء التحديد",
             "attr":{
@@ -2204,7 +2197,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"من نص إلى صورة",
+            "value":"نص إلى صورة",
             "attr":{
                 "priority":"translate"
             }
@@ -2281,7 +2274,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"من صورة إلى صورة",
+            "value":"صورة إلى صورة",
             "attr":{
                 "priority":"translate"
             }
@@ -2379,7 +2372,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"يتصل بهذه العقدة عدد كبير جدًا من العناصر المتطابقة في النوع، يُرجى أولاً حذف بعضها",
+            "value":"تم توصيل عدد كبير جدًا من العقد من نفس النوع، احذف بعضها وحاول مجددًا",
             "attr":{
                 "priority":"translate"
             }
@@ -2463,7 +2456,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"لم يكتمل إنشاء الصورة بعد. سيؤدي الخروج من الوضع المتقدم الآن إلى إنهاء المهمة.",
+            "value":"لا يزال إنشاء الصورة جاريًا. إذا خرجت الآن، فسيتم تجاهل الإنشاء.",
             "attr":{
                 "priority":"translate"
             }
@@ -2610,7 +2603,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"سيؤدي حذف هذه العقدة إلى إلغاء مهمة إنشاء الصورة الحالية.",
+            "value":"سيتم إلغاء مهمة الإنشاء الحالية إذا حذفت هذه العقدة.",
             "attr":{
                 "priority":"translate"
             }
@@ -2813,7 +2806,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"حدد منطقة تريد تعديلها، ثم أدخِل وصفًا لإنشاء صورة",
+            "value":"حدد المنطقة التي تريد تعديلها، ثم أدخل الوصف لإنشاء الصورة",
             "attr":{
                 "priority":"translate"
             }
@@ -2961,6 +2954,174 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"التحكم بالدوران، الزاوية الحالية %1$s. انقر مرتين مع الضغط مطولًا، ثم اسحب لضبط الإطار في أي مكان يتراوح بين %2$d و%3$d درجة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"استخدام إبداعاتك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"إنشاء صورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"ضبط موضع الصورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"جرِّب الآن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"تعديل محتوى العقدة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"توصيل عُقد المُولِد والصورة والنص معًا.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"انقر على عقدة واستخدم القائمة المنبثقة لتعديل محتوياتها.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"إضافة عقُد المُولِد والصور والنصوص من شريط الأدوات، أو استخدام القوالب لإنشاء سير عمل لتحويل النص إلى صورة أو الصورة إلى صورة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"انقر على عقدة، ثم انقر على الفقاعة العائمة لتوصيلها بسرعة بالعُقد الأخرى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"توصيل العُقد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"توصيل العُقد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"إضافة عقدة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"توليد صور جديدة مع الحفاظ على التخطيط الحالي الذي أنشأته.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"ارسم الأشكال الأساسية ثم قم بوصف ما تريد لتوليد صورة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"انقر على صورة، ثم استخدم إصبعين للتكبير/التصغير أو التدوير أو ضبط موضعها. سيتم إحضار الصورة المحددة إلى المقدمة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"انتهاك لحقوق الملكية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"الإبلاغ عن محتوى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"voice_button_text",
+            "value":"زر الإدخال الصوتي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"حدد جزءًا من الصورة، ثم أدخل وصفًا لتغييره بأي طريقة تريد.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"بعد إنشاء صورتك، يمكنك حفظها في المعرض، أو الإضافة إلى ملاحظة أو مجموعة ملصقات، أو تحرير الصورة المُنشأة، أو إعادة الإنشاء. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"أضف أوصافًا نصية أو صورًا أو رسومات، ثم انقر على إنشاء لإنشاء صورة. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"معرفة المزيد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"يمكنك إنشاء الصورة على اللوحة عن طريق توصيل العقُد بالخطوط. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"انقر على زر إنشاء الموجود على عقدة مولد الصور لإنشاء صورة. %s",
             "attr":{
                 "priority":"translate"
             }

@@ -1856,13 +1856,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Выберите область для изменения, а затем введите описание, чтобы сгенерировать изображение",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Отменить выбор",
             "attr":{
@@ -2382,7 +2375,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"К этому элементу подключено слишком много элементов одного типа. Сначала удалите ненужные.",
+            "value":"Соединено слишком много блоков одного типа. Удалите ненужные и повторите попытку.",
             "attr":{
                 "priority":"translate"
             }
@@ -2466,7 +2459,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Генерация изображения еще не завершена. Если вы выйдете из Расширенного режима сейчас, задача будет завершена.",
+            "value":"Изображение генерируется. Если выйти сейчас, оно не будет сохранено.",
             "attr":{
                 "priority":"translate"
             }
@@ -2613,7 +2606,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Удаление этого блока отменит текущую задачу генерации изображения.",
+            "value":"Если вы удалите этот блок, текущая задача генерации будет отменена.",
             "attr":{
                 "priority":"translate"
             }
@@ -2964,6 +2957,174 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"Управление поворотом, текущий угол составляет %1$s. Нажмите дважды и удерживайте, затем перетащите, чтобы повернуть элемент, доступный диапазон от %2$d до %3$d градусов.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"Будьте креативны",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"Генерация изображения",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"Изменение положения изображения",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"Попробовать",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Изменение содержимого блока",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"Соедините блоки изображения, текста и генерации вместе.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Нажмите на блок и используйте всплывающее меню, чтобы изменить его содержимое.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"Добавьте блоки изображения, текста и генерации на панели инструментов или используйте шаблоны для преобразования текста в изображение или изображения в изображение.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Нажмите на блок, затем нажмите на плавающий элемент, чтобы быстро соединить его с другими блоками.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Соединение блоков",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Соединение блоков",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Добавление блока",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"Генерируйте новые изображения, сохраняя текущий, уже заданный вами вид.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"Сделайте набросок основных форм, затем опишите, что вы хотите сгенерировать на изображении.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"Нажмите на изображение, затем двумя пальцами поверните его или измените его масштаб либо положение. Выбранное изображение будет отображаться на переднем плане.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"Нарушение авторских прав",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"Жалоба на контент",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"voice_button_text",
+            "value":"Кнопка голосового ввода",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"Выберите часть изображения, затем введите описание, чтобы изменить его нужным вам образом.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"После генерации изображения вы можете сохранить его в Галерее, добавить его в заметку или коллекцию стикеров, отредактировать или сгенерировать его повторно. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Добавьте текстовые описания, изображения или рисунки, а затем нажмите Сгенерировать, чтобы создать изображение. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Подробнее",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Создавайте контент, соединяя блоки линиями. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Нажмите на кнопку Сгенерировать на блоке генерации изображений, чтобы создать изображение. %s",
             "attr":{
                 "priority":"translate"
             }

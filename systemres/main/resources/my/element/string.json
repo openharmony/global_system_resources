@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"ချိန်ညှိလိုသော ဧရိယာကို ရွေးချယ်ပြီး ပုံထုတ်လုပ်ရန် ဖော်ပြချက်ကို ရိုက်ထည့်ပါ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"မရွေးရန်",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"စာသားမှ ရုပ်ပုံ",
+            "value":"စာသားမှ ပုံသို့",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"ရုပ်ပုံမှ ရုပ်ပုံ",
+            "value":"ပုံမှ ပုံသို့",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"ဤ Node ကို အမျိုးအစားတူ Node များစွာနှင့် ချိတ်ဆက်ထားပါသည်။ ဦးစွာ Node အချို့ကို ဖျက်ပါ။",
+            "value":"အမျိုးအစားတူ Node များစွာကို ချိတ်ဆက်ထားသည်။ Node အချို့ကို ဖျက်ပြီး ထပ်ကြိုးစားပါ။",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"ပုံ ဖန်တီးထုတ်လုပ်မှု မပြီးစီးသေးပါ။ အဆင့်မြင့်စနစ်မှ ယခုထွက်လိုက်လျှင် လုပ်ဆောင်မှုကို အဆုံးသတ်လိုက်ပါမည်။",
+            "value":"ပုံ ဖန်တီးထုတ်လုပ်နေပါသည်။ ယခုထွက်လိုက်လျှင် ထိုဖန်တီးထုတ်လုပ်မှုကို ဖယ်ရှားပါမည်။",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"ဤနုတ်ကို ဖျက်ပါက လက်ရှိ ပုံ ဖန်တီးထုတ်လုပ်မှုကို ပယ်ဖျက်ပါမည်။",
+            "value":"ဤ Node ကို ဖျက်လိုက်လျှင် လက်ရှိ ဖန်တီးထုတ်လုပ်နေသည့် လုပ်ဆောင်မှုကို ပယ်ဖျက်သွားပါမည်။",
             "attr":{
                 "priority":"translate"
             }
@@ -2774,7 +2767,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"ချိန်ညှိလိုသော ဧရိယာကို ရွေးချယ်ပြီး ပုံထုတ်လုပ်ရန် ဖော်ပြချက်ကို ရိုက်ထည့်ပါ",
+            "value":"ချိန်ညှိလိုသော ဧရိယာကို ရွေးချယ်ပြီးနောက် ပုံဖန်တီးထုတ်လုပ်ရန် ရှင်းလင်းဖော်ပြချက်ကို ရိုက်ထည့်ပါ",
             "attr":{
                 "priority":"translate"
             }
@@ -2922,6 +2915,174 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"လှည့်ပတ်မှု ထိန်းချုပ်ရေး၊ လက်ရှိ ထောင့်ချိုးမှာ %1$s ဖြစ်သည်။ ဘောင်ကို %2$d မှ %3$d ဒီဂရီအတွင်း စိတ်ကြိုက် ချိန်ညှိရန် နှစ်ချက်နှိပ်၍ ဖိထားပြီး ဆွဲယူပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"သင့်ဖန်တီးမှုကို အသုံးချခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"ပုံ ဖန်တီးထုတ်လုပ်ခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"ပုံအနေအထားကို ချိန်ညှိခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"ယခု စမ်းကြည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Node အကြောင်းအရာကို တည်းဖြတ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"ပုံ၊ စာသားနှင့် ဖန်တီးထုတ်လုပ်ရေး Node များကို အတူတကွ ချိတ်ဆက်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Node ကို နှိပ်ပြီးနောက် ၎င်း၏ အကြောင်းအရာများကို တည်းဖြတ်ရန်အတွက် Pop-up မီနျူးကို သုံးပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"တူးလ်ဘားမှတစ်ဆင့် ပုံ၊ စာသား၊ ဖန်တီးထုတ်လုပ်ရေး Node များကို ထည့်ပါ သို့မဟုတ် စာသားမှ ပုံပြောင်း၊ ပုံမှ ပုံပြောင်း လုပ်ဆောင်ပုံအဆင့်ဆင့်ကို ဖန်တီးရန် နမူနာပုံစံများကို အသုံးပြုပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Node ကို နှိပ်ပြီးနောက် အခြား Node များနှင့် အမြန်ချိတ်ဆက်ရန် Floating Bubble ကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Node များ ချိတ်ဆက်ခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Node များ ချိတ်ဆက်ခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Node ထည့်ခြင်း",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"သင်ဖန်တီးထားသော လက်ရှိပုံစံအတိုင်း အနေအထားမပျက်ထိန်းသိမ်းပြီး ပုံအသစ်များ ဖန်တီးထုတ်လုပ်ပေးမည်ဖြစ်သည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"အခြေခံ ပုံကြမ်းများ ရေးဆွဲပြီးနောက် သင်ဖန်တီးထုတ်လုပ်လိုသော ပုံအကြောင်းကို ရှင်းလင်းဖော်ပြပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"ပုံကို နှိပ်ပြီးနောက် ထိုပုံ၏ အနေအထားကို ဇူးမ်ချဲ့ရန်၊ လှည့်ရန် သို့မဟုတ် ချိန်ညှိရန် လက်နှစ်ချောင်းကို သုံးပါ။ ရွေးချယ်ထားသော ပုံက ရှေ့မျက်နှာစာသို့ ရောက်လာပါမည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"မူပိုင်ခွင့် ချိုးဖောက်မှု",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"အကြောင်းအရာကို ရီပို့(တ်)လုပ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"voice_button_text",
+            "value":"အသံဖြင့် စာရိုက်သွင်းခြင်း ခလုတ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"ပုံ၏ တစ်စိတ်တစ်ပိုင်းကို ရွေးချယ်ပြီးနောက် သင်ပြောင်းလဲလိုသည့် ပုံစံအကြောင်း ရှင်းလင်းဖော်ပြချက်ကို ရိုက်ထည့်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"ပုံဖန်တီးထုတ်လုပ်ပြီးချိန်၌ ထိုပုံကို ပုံပြခန်းတွင် သိမ်းခြင်း၊ မှတ်စုတွင် သို့မဟုတ် စတစ်ကာ စုဆောင်းမှုတွင် ထည့်ခြင်း၊ ဖန်တီးထုတ်လုပ်ထားသော ပုံကိုတည်းဖြတ်ခြင်း၊ ထပ်၍ ဖန်တီးထုတ်လုပ်ခြင်း တစ်မျိုးမျိုးကို လုပ်နိုင်ပါသည်။ %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"ပုံဖန်တီးရန်အတွက် စာသား ရှင်းလင်းဖော်ပြချက်များ၊ ပုံများ၊ သို့မဟုတ် Doodle များ ထည့်ပြီးနောက် ဖန်တီးထုတ်လုပ်ရန်ကို နှိပ်ပါ။ %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"ပိုမိုလေ့လာရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Node များကို မျဉ်းကြောင်းများနှင့် ချိတ်ဆက်ခြင်းဖြင့် ကင်းဗက်စ်ပေါ်တွင် ဖန်တီးလိုက်ပါ။ %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"ပုံဖန်တီးရန် ပုံဖန်တီးထုတ်လုပ်ရေး Node ပေါ်ရှိ ဖန်တီးထုတ်လုပ်ရန် ခလုတ်ကို နှိပ်ပါ။ %s",
             "attr":{
                 "priority":"translate"
             }

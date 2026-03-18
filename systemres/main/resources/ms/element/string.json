@@ -1814,13 +1814,6 @@
             }
         },
         {
-            "name":"selection_operation_prompt_words",
-            "value":"Pilih bahagian untuk dilaraskan, kemudian masukkan penerangan untuk menjanakan imej",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cancel_the_district",
             "value":"Nyahpilih",
             "attr":{
@@ -2165,7 +2158,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Teks pada imej",
+            "value":"Teks kepada imej",
             "attr":{
                 "priority":"translate"
             }
@@ -2242,7 +2235,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Imej pada imej",
+            "value":"Imej kepada imej",
             "attr":{
                 "priority":"translate"
             }
@@ -2340,7 +2333,7 @@
         },
         {
             "name":"node_graph_node_material_connection_limit_exceeded",
-            "value":"Terlalu banyak item jenis yang sama disambungkan ke nod ini. Padamkan sesetengah dahulu.",
+            "value":"Terlalu banyak nod jenis yang sama disambungkan. Padamkan sesetengah dan cuba lagi.",
             "attr":{
                 "priority":"translate"
             }
@@ -2424,7 +2417,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"Penjanaan imej belum selesai. Keluar dari Mod lanjutan sekarang akan menamatkan tugas.",
+            "value":"Imej sedang dijanakan. Ia akan dibuang jika anda keluar sekarang.",
             "attr":{
                 "priority":"translate"
             }
@@ -2571,7 +2564,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Memadamkan nod ini akan membatalkan tugas penjanaan imej semasa.",
+            "value":"Jika anda memadamkan nod ini, tugas penjanaan semasa akan dibatalkan.",
             "attr":{
                 "priority":"translate"
             }
@@ -2922,6 +2915,174 @@
         {
             "name":"image_generation_rotate_button_hint",
             "value":"Kawalan putaran, sudut semasa %1$s. Dwiketik dan tahan, kemudian seret untuk melaraskan bingkai di mana-mana sahaja daripada %2$d hingga %3$d darjah.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_complete_creation",
+            "value":"Gunakan ciptaan anda",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_generate_image",
+            "value":"Janakan imej",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_adjust_image_position",
+            "value":"Laraskan kedudukan imej",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_try_it_now",
+            "value":"Cuba sekarang",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_edit_node_content",
+            "value":"Edit kandungan nod",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_third",
+            "value":"Sambungkan imej, teks, dan nod penjana bersama.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fourth",
+            "value":"Ketik satu nod dan gunakan menu popup untuk mengedit kandungannya.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_second",
+            "value":"Tambah imej, teks, dan nod penjana daripada bar alat, atau gunakan templat untuk mencipta aliran kerja teks kepada imej dan imej kepada imej.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_fifth",
+            "value":"Ketik nod, kemudian ketik buih apungan untuk menyambungkannya dengan nod lain dengan pantas.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_quick_connect",
+            "value":"Sambungkan nod",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_node_connection",
+            "value":"Sambungkan nod",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_add_node",
+            "value":"Tambah nod",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_third",
+            "value":"Janakan imej baru sambil mengekalkan tataletak semasa yang anda cipta.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fifth",
+            "value":"Lakar bentuk asas kemudian terangkan hasil yang anda inginkan untuk menjanakan imej.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_second",
+            "value":"Ketik imej kemudian gunakan dua jari untuk mengezum, memutar, atau melaraskan kedudukannya. Imej yang dipilih akan dibawa ke depan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_content_infringement",
+            "value":"Pelanggaran hak cipta",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_report_content",
+            "value":"Laporkan kandungan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"voice_button_text",
+            "value":"Butang input suara",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_fourth",
+            "value":"Pilih bahagian imej, kemudian masukkan penerangan untuk mengubahnya mengikut apa-apa sahaja yang anda inginkan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_sixth",
+            "value":"Selepas imej anda dijanakan, anda boleh menyimpan ke Galeri, menambah kepada koleksi nota atau pelekat, mengedit imej dijanakan, atau menjanakan lagi. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_general_guide_first",
+            "value":"Tambah penerangan teks, imej, atau coretan, kemudian ketik Janakan untuk mencipta imej. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_learn_more",
+            "value":"Ketahui lebih lanjut",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_first",
+            "value":"Cipta pada kanvas dengan menyambungkan nod dengan garisan. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_sixth",
+            "value":"Ketik butang Janakan di nod penjana imej untuk mencipta imej. %s",
             "attr":{
                 "priority":"translate"
             }
