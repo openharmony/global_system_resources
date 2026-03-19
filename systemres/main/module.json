@@ -407,6 +407,15 @@
                 "description": "$string:ohos_desc_write_contacts"
             },
             {
+                "name": "ohos.permission.CHECK_CALL_LOG",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+ 	        },
+            {
                 "name": "ohos.permission.DISTRIBUTED_DATASYNC",
                 "grantMode": "user_grant",
                 "availableLevel": "normal",
