@@ -6780,6 +6780,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.DLP_POLICY_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.SCAN_REMEDIATE_VIRUS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
