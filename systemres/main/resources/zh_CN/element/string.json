@@ -3865,6 +3865,22 @@
             "attr":{
                 "priority":"translate"
             }
-        }
+ 	    },
+ 	    {
+ 	        "name":"image_generation_graph_guide_one",
+ 	        "value":"添加模板或者添加图片、文字、生成器节点来进行创作"
+ 	    },
+        {
+ 	        "name":"image_generation_graph_guide_two",
+ 	        "value":"将文字节点和图片节点连接到生成器节点上"
+ 	    },
+        {
+ 	        "name":"image_generation_graph_guide_three",
+ 	        "value":"点击“生成”按钮进行创作"
+ 	    },
+        {
+ 	        "name":"image_generation_graph_guide_title",
+ 	        "value":"新手指引"
+ 	    }
     ]
 }

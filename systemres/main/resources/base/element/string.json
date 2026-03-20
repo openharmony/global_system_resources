@@ -4009,6 +4009,22 @@
             "attr":{
                 "priority":"translate"
             }
-        }
+ 	    },
+        {
+ 	        "name":"image_generation_graph_guide_one",
+ 	        "value":"Add templates or add images, text, and generator nodes for creation."
+ 	    },
+        {
+ 	        "name":"image_generation_graph_guide_two",
+ 	        "value":"Connect the text nodes and image nodes to the generator node."
+ 	    },
+        {
+ 	        "name":"image_generation_graph_guide_three",
+ 	        "value":"Click \"Generate\" to start creation."
+ 	    },
+        {
+ 	        "name":"image_generation_graph_guide_title",
+ 	        "value":"Guide for Beginners"
+ 	    }
     ]
 }

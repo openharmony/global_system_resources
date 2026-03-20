@@ -39150,6 +39150,26 @@
             "type": "color",
             "name": "comp_common_mask",
             "order": 7752
-        }
+        },
+        {
+ 	        "type":"string",
+ 	        "name":"image_generation_graph_guide_one",
+ 	        "order": 7753
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_graph_guide_two",
+ 	        "order": 7754
+ 	    },
+ 	    {
+ 	        "type":"string",
+ 	        "name":"image_generation_graph_guide_three",
+ 	        "order": 7755
+ 	    },
+        {
+ 	        "type":"string",
+ 	        "name":"image_generation_graph_guide_title",
+ 	        "order": 7756
+ 	    }
     ]
 }
