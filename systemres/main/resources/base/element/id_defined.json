@@ -39140,6 +39140,16 @@
  	        "type":"string",
  	        "name":"image_generation_guide_add_generate",
  	        "order": 7750
- 	    }
+ 	    },
+        {
+            "type": "color",
+            "name": "comp_background_gray_secondary",
+            "order": 7751
+        },
+        {
+            "type": "color",
+            "name": "comp_common_mask",
+            "order": 7752
+        }
     ]
 }
