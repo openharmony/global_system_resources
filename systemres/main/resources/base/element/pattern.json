@@ -8923,7 +8923,7 @@
                 },
                 {
                     "name": "subtitle_text_font_color",
-                    "value": "$color:ohos_id_color_text_secondary"
+                    "value": "$color:font_secondary"
                 },
                 {
                     "name": "subtitle_text_margin",
@@ -8939,11 +8939,11 @@
                 },
                 {
                     "name": "sheet_background_color",
-                    "value": "$color:sheet_panel_background_color"
+                    "value": "$color:comp_background_gray_secondary"
                 },
                 {
                     "name": "drag_bar_color",
-                    "value": "$color:ohos_id_color_fourth"
+                    "value": "$color:icon_fourth"
                 },
                 {
                     "name": "sheet_type",
@@ -8955,7 +8955,7 @@
                 },
                 {
                     "name": "mask_color",
-                    "value": "$color:sheet_mask_color"
+                    "value": "$color:comp_common_mask"
                 },
                 {
                     "name": "close_icon_color",
@@ -8963,7 +8963,7 @@
                 },
                 {
                     "name": "close_icon_image_color",
-                    "value": "$color:ohos_id_color_primary"
+                    "value": "$color:icon_primary"
                 },
                 {
                     "name": "sheet_background_blur_style",

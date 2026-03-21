@@ -278,7 +278,7 @@
         },
         {
             "name": "button_background_color_transparent",
-            "value": "$color:ohos_id_color_button_normal"
+            "value": "$color:comp_background_tertiary"
         },
         {
             "name": "window_outline_color",
@@ -702,7 +702,7 @@
         },
         {
             "name": "sheet_title_text_font_color",
-            "value": "$color:ohos_id_color_text_primary"
+            "value": "$color:font_primary"
         },
         {
             "name": "sheet_panel_background_color",
@@ -1131,6 +1131,14 @@
         {
             "name": "navigation_focus_blend_bg_color",
             "value": "$color:titlebar_icon_background_color"
+        },
+        {
+            "name": "comp_background_gray_secondary",
+            "value": "$color:gray_01"
+        },
+        {
+            "name": "comp_common_mask",
+            "value": "$color:mask_fourth"
         }
     ]
   }

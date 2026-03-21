@@ -343,6 +343,14 @@
         {
             "name": "picker_selected_background_color",
             "value": "$color:comp_background_tertiary"
+        },
+        {
+            "name": "comp_background_gray_secondary",
+            "value": "$color:gray_02"
+        },
+        {
+            "name": "comp_common_mask",
+            "value": "$color:mask_tertiary"
         }
     ]
   }
