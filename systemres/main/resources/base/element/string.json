@@ -3819,15 +3819,24 @@
         },
         {
             "name":"image_generation_guide_add_image",
-            "value":"Click the \"+\" sign to add an image reference"
+            "value":"Tap \"+\" to add a reference image.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_guide_add_graffiti",
-            "value":"Click to doodle and create"
+            "value":"Tap here to start doodling.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_guide_add_options",
-            "value":"Select \"Style\", \"Aspect ratio\", \"Quality\" to configure"
+            "value":"Set a style, aspect ratio, and quality.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_ai_composite_label",
@@ -3938,8 +3947,11 @@
  	        "value":"Rename"
  	    },
         {
- 	        "name":"image_generation_guide_add_generate",
- 	        "value":"After adding the text description, click \"Generate\" to start creation"
+            "name":"image_generation_guide_add_generate",
+            "value":"Enter some text and then tap Generate.",
+            "attr":{
+                "priority":"translate"
+            }
  	    }
     ]
 }

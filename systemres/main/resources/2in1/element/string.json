@@ -150,6 +150,27 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_guide_add_generate",
+            "value":"Enter some text and then click Generate.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Click \"+\" to add a reference image.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Click here to start doodling.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -3074,6 +3074,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Bir metin girin ve ardından Oluştur düğmesine dokunun.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Referans görüntüsü eklemek için \"+\" simgesine dokunun.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Karalamaya başlamak için buraya dokunun.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Bir stil, görüntü oranı ve kalite ayarlayın.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Düğümleri çizgilerle birleştirerek tuval üzerinde oluşturun. %s",
             "attr":{

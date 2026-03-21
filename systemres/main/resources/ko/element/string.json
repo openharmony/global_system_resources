@@ -3116,6 +3116,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"일부 텍스트를 인력한 다음 생성을 탭합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"참조 이미지를 추가하려면 \"+\"를 탭합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"여기를 탭하여 낙서를 시작합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"스타일, 종횡비, 화질을 설정합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"ノードを線でつないでキャンバス上に作成します。%s",
             "attr":{

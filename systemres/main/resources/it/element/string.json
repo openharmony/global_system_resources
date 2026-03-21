@@ -3074,6 +3074,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Inserisci del testo, quindi tocca Genera.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Tocca \"+\" per aggiungere un'immagine di riferimento.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Tocca qui per iniziare a scarabocchiare.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Imposta stile, aspect ratio e qualità.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Crea sulla tela collegando i nodi con le linee. %s",
             "attr":{

@@ -3074,6 +3074,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Masukkan teks, lalu ketuk Buat.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Ketuk \"+\" untuk menambahkan gambar referensi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Ketuk di sini untuk mulai membuat coretan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Atur gaya, rasio aspek, dan kualitas.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Buat di kanvas dengan cara menghubungkan node dengan garis. %s",
             "attr":{

@@ -3116,6 +3116,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Введите текст и нажмите Сгенерировать.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Нажмите на значок \"+\", чтобы добавить референс.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Нажмите здесь, чтобы начать рисовать.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Выберите стиль, соотношение сторон и качество.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Создавайте контент, соединяя блоки линиями. %s",
             "attr":{

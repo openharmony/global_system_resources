@@ -3095,6 +3095,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Introduce texto y luego pulsa Generar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Pulsa “+” para añadir una imagen de referencia.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Pulsa aquí para empezar a garabatear.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Configura un estilo, una relación de aspecto y una calidad.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_general_guide_sixth",
             "value":"Una vez generada la imagen, puedes guardarla en Galería, añadirla a una nota o a una colección de pegatinas, editar la imagen generada o volver a generarla. %s",
             "attr":{

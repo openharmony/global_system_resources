@@ -3074,6 +3074,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"กรอกข้อความแล้วแตะสร้าง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"แตะ \"+\" เพื่อเพิ่มรูปภาพอ้างอิง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"แตะที่นี่เพื่อเริ่มวาดลายเส้น",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"กำหนดสไตล์ อัตราส่วนภาพ และคุณภาพ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"สร้างบนแคนวาสโดยเชื่อมต่อโหนดด้วยเส้น %s",
             "attr":{

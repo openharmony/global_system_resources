@@ -3081,6 +3081,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"新增文字後，輕觸「產生」按鈕進行創作",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"輕觸「+」號新增參考圖片",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"新增塗鴉進行創作",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"選取「風格」、「比例」、「清晰度」，進行設定",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"透過節點連線的方式進行 AI 產生圖片。%s",
             "attr":{

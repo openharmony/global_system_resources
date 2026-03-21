@@ -3116,6 +3116,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Nhập văn bản rồi chạm vào Tạo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Chạm vào \"+\" để thêm hình ảnh tham chiếu.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Chạm vào đây để bắt đầu vẽ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Đặt phong cách, tỷ lệ khung hình và chất lượng.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Tạo trên khung vẽ bằng cách kết nối các nút bằng các đường thẳng. %s",
             "attr":{

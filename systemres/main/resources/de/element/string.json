@@ -3060,6 +3060,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Geben Sie Text ein und tippen Sie dann auf Generieren.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Tippen Sie auf „+“, um ein Referenzbild hinzuzufügen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Tippen Sie hier, um mit dem Kritzeln zu beginnen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Legen Sie Stil, Seitenverhältnis und Qualität fest.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_general_guide_first",
             "value":"Fügen Sie Textbeschreibungen, Bilder oder Kritzeleien hinzu und tippen Sie dann auf Generieren, um ein Bild zu erstellen. %s",
             "attr":{
