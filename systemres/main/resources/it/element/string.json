@@ -3086,6 +3086,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"Tocca per selezionare un singolo nodo oppure scorri per selezionarne più di uno.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"Filigrana generata dall\u0027IA",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"Errore di connessione di rete. Verifica le impostazioni di rete.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"Seleziona flusso di lavoro",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"Fine",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"Lazo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"Selezione multipla",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

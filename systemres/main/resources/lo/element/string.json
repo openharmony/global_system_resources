@@ -3086,6 +3086,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"ແຕະເພື່ອເລືອກໂນດດຽວ ຫຼື ປັດເພື່ອເລືອກຫຼາຍໂນດ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"ເງົາພື້ນຫຼັງທີ່ສ້າງໂດຍ AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"ການເຊື່ອມຕໍ່ເຄືອຂ່າຍຂັດຂ້ອງ. ກວດເບິ່ງການຕັ້ງຄ່າເຄືອຂ່າຍຂອງທ່ານ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"ເລືອກຂັ້ນຕອນການເຮັດວຽກ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"ສໍາເລັດ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"ເສັ້ນຂີດ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"ເລືອກຫຼາຍອັນ",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -3093,6 +3093,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"輕觸選擇單個節點，滑動框選多個節點",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"AI 合成識別",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"網絡連線已中斷，請檢查網絡設定",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"選擇工作流",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"完成",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"套索",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"多選",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

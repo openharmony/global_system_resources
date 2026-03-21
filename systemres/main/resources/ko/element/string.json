@@ -3128,6 +3128,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"탭하여 단일 노드를 선택하거나 스와이프하여 다중 노드를 선택합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"AI 생성 워터마크",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"네트워크 연결 오류입니다. 네트워크 설정을 확인하십시오.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"워크플로 선택",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"완료",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"올가미",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"다중 선택",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

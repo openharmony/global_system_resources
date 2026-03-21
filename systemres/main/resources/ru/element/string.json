@@ -3128,6 +3128,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"Нажмите, чтобы выбрать один блок, или проведите, чтобы выбрать несколько блоков.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"Водяной знак \"Сгенерировано ИИ\"",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"Ошибка сетевого соединения. Проверьте настройки сети.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"Выбрать процесс",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"Готово",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"Лассо",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"Выбрать несколько",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

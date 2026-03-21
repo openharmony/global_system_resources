@@ -3086,6 +3086,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"แตะเพื่อเลือกโหนดเดียว หรือปัดนิ้วเพื่อเลือกหลายโหนด",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"ลายน้ำที่สร้างโดย AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"ข้อผิดพลาดการเชื่อมต่อเครือข่าย ตรวจสอบการตั้งค่าเครือข่ายของคุณ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"เลือกขั้นตอนการทำงาน",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"เสร็จสิ้น",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"Lasso",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"เลือกหลายรายการ",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

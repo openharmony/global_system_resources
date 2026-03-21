@@ -2483,6 +2483,34 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"[TS_1184882]_Tap the Generate button on the image generator node to create an image. %s"
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"[TS_1186541]_Tap to select a single node, or swipe to select multiple nodes."
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"[TS_1186535]_AI-generated watermark"
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"[TS_1186536]_Network connection error. Check your network settings."
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"[TS_1186537]_Select workflow"
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"[TS_1186538]_Done"
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"[TS_1186540]_Lasso"
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"[TS_1186539]_Select multiple"
         }
     ]
 }
