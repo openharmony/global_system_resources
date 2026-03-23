@@ -14,6 +14,7 @@
 declare_args() {
   system_resources_support_ext = false
   system_resources_font_feature_product = "default"
+  system_resources_font_feature_cfp_enable = false
 }
 
 certificate_profile_path =
