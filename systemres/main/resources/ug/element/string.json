@@ -3170,6 +3170,90 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"نام ئۆزگەرتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"تەڭشەيدىغان دائىرە تاللاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"نامسىز تەگ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"تەگ يوق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"تەگ قۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"يىغىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"يېيىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"تەگ يۈكلىنىۋاتىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"تەگلىرىم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"تېكىست تۈگۈنىنى ئۇلاپ، دائىرىنى قانداق ئۆزگەرتىشنى چۈشەندۈرۈڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"‏%s، بىر بارماقتا قوش چەكسىڭىز يۈرگۈزۈلىدۇ، قوش بېسىپ تۇرسىڭىز باشقا تاللانمىلار كۆرۈنىدۇ، قوش بېسىپ تۇرۇپ ئوڭغا سىيرىپ باشقا مەشغۇلات يۈرگۈزىسىز",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"‏%s، ئىككى بارماقتا يانغا سىيرىسىڭىز باشقا تاللانمىلار يوشۇرۇنىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -3170,6 +3170,90 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"བསྐྱར་དུ་མིང་འདོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"སྙོམ་སྒྲིག་བྱེད་འདོད་པའི་ཁུལ་འདེམས་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"མིང་བཏགས་མེད་པའི་འབྲི་རས་",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"འབྲི་རས་མེད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"འབྲི་རས་གསར་སྐྲུན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"རྒྱ་སྐྱེད་ལས་ཕྱིར་འཐེན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"རྒྱ་སྐྱེད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"འབྲི་རས་སྣོན་འཇུག་བྱེད་བཞིན་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"ངའི་འབྲི་རས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"ཡི་གེའི་ཚིགས་ཚེག་སྦྲེལ་རོགས། མ་ཟད་བདམས་ཁོངས་ཇི་ལྟར་བཟོ་བཅོས་བྱ་དགོས་ཚུལ་ཞིབ་བརྗོད་བྱོས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་སྟར་ཐུབ། ཉིས་རྡེབ་བྱས་ནས་མནན་ཚེ་གདམ་ག་དེ་ལས་མང་བ་འཕར་ཐོན་བྱེད། ཉིས་རྡེབ་བྱས་ནས་མནན་ཏེ་གཡོན་ལ་དེད་ན་སྒྲིག་བཀོལ་དེ་བས་མང་བ་བྱེད་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s མཛུབ་མོ་གཉིས་ཀྱིས་གཞོགས་ལ་དེད་ཚེ་སྒྲིག་བཀོལ་དེ་ལས་མང་བ་སྦེད་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -3163,6 +3163,90 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"เปลี่ยนชื่อ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"เลือกพื้นที่ที่ต้องการปรับ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"แคนวาสที่ไม่มีชื่อ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"ไม่มีแคนวาส",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"แคนวาสใหม่",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"คืนค่าหน้าต่าง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"ขยาย",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"กำลังโหลดแคนวาส…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"แคนวาสของฉัน",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"เชื่อมต่อโหนดข้อความและเขียนคำอธิบายว่าคุณต้องการปรับเปลี่ยนบริเวณที่เลือกอย่างไร",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s แตะสองครั้งเพื่อเปิดใช้งาน แตะสองครั้งแล้วกดค้างไว้เพื่อเปิดเมนูตัวเลือก แตะสองครั้งแล้วกดค้างไว้ จากนั้นปัดนิ้วไปทางซ้ายเพื่อดูการดำเนินการเพิ่มเติม",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s ปัดนิ้วด้วยสองนิ้วไปด้านข้างเพื่อซ่อนการดำเนินการเพิ่มเติม",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

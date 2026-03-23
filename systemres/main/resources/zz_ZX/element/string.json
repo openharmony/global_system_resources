@@ -2527,6 +2527,54 @@
         {
             "name":"image_generation_canvas_guide_multiple_select",
             "value":"[TS_1186539]_Select multiple"
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"[TS_1188474]_Rename"
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"[TS_1187773]_Select an area to adjust"
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"[TS_1187775]_Untitled canvas"
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"[TS_1187766]_No canvas"
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"[TS_1187769]_New canvas"
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"[TS_1187772]_Restore window"
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"[TS_1187768]_Enlarge"
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"[TS_1187774]_Loading canvas…"
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"[TS_1187777]_My canvases"
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"[TS_1187770]_Connect a text node and write a description of how you want to alter the selected area."
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"[TS_1187771]_%s. Double-tap to activate. Double-tap and hold to open the options menu. Double-tap and hold, then swipe left for additional operations."
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"[TS_1187776]_%s. Swipe sideways with two fingers to hide additional operations."
         }
     ]
 }

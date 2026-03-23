@@ -3163,6 +3163,90 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"ປ່ຽນຊື່",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"ເລືອກພື້ນທີ່ທີ່ຈະປັບ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"ແຄນວາສທີ່ບໍ່ມີຊື່",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"ບໍ່ມີແຄນວາສ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"ແຜ່ນແຕ້ມໃໝ່",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"ກູ້ຄືນໜ້າຈໍ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"ຂະຫຍາຍ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"ກຳລັງໂຫຼດແຄນວາສ…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"ແຄນວາສຂອງຂ້ອຍ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"ເຊື່ອມຕໍ່ກັບໂນດຂໍ້ຄວາມ ແລະ ຂຽນຄຳອະທິບາຍວ່າທ່ານຕ້ອງການດັດແປງພື້ນທີ່ທີ່ເລືອກແນວໃດ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. ແຕະສອງຄັ້ງເພື່ອເປີດນຳໃຊ້. ແຕະສອງຄັ້ງແລ້ວຄ້າງໄວ້ ເພື່ອເປີດເມນູຕົວເລືອກ. ແຕະສອງຄັ້ງແລ້ວຄ້າງໄວ້, ຈາກນັ້ນປັດໄປຊ້າຍສຳລັບການດຳເນີນການເພີ່ມເຕີມ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. ປັດໄປດ້ານຂ້າງດ້ວຍນິ້ວມືສອງນິ້ວເພື່ອເຊື່ອງການດຳເນີນການເພີ່ມເຕີມ.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -3163,6 +3163,90 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"အမည်ပြန်ပေးရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"ချိန်ညှိမည့်နေရာကို ရွေးချယ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"ခေါင်းစဉ်မတပ်ထားသော ကင်းဗက်စ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"ကင်းဗက်စ် မရှိပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"ကင်းဗက်စ်အသစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"ဝင်းဒိုးကို မူလအတိုင်း ပြန်ထားရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"ချဲ့ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"ကင်းဗက်စ် လုပ်ဆောင်နေဆဲ…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"ကျွန်ုပ်၏ ကင်းဗက်စ်များ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"စာသား Node တစ်ခုနှင့် ချိတ်ဆက်ပြီး ရွေးထားသည့် နေရာကို ပြင်စေလိုသည့်ပုံစံအကြောင်း ရှင်းလင်းဖော်ပြချက် ရေးသားပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. သက်ဝင်လုပ်ဆောင်ရန် နှစ်ချက်နှိပ်ပါ။ ရွေးချယ်စရာ မီနျူးကို ဖွင့်ရန် နှစ်ချက်နှိပ်ပြီး ဖိထားပါ။ ထပ်တိုးဆောင်ရွက်မှုများအတွက် နှစ်ချက်နှိပ်ပြီး ဖိထားပါ၊ ထို့နောက် ဘယ်ဘက်သို့ ပွတ်ဆွဲပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. ထပ်တိုးဆောင်ရွက်မှုများကို ဝှက်ရန် လက်နှစ်ချောင်းဖြင့် ဘေးတိုက် ပွတ်ဆွဲပါ။",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
