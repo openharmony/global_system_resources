@@ -1578,6 +1578,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ENTERPRISE_ACTIVATE_DEVICE_ADMIN",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.SET_ENTERPRISE_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
