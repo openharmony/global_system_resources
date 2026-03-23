@@ -3074,6 +3074,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Introduza texto e toque em Gerar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Toque em + para adicionar uma imagem de referência.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Toque aqui para começar a desenhar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Defina o estilo, o formato e a qualidade.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Ligue os nós com linhas para criar na tela. %s",
             "attr":{
