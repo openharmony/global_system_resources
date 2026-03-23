@@ -3114,6 +3114,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"Node တစ်ခုတည်း ရွေးရန် နှိပ်ပါ သို့မဟုတ် Node တစ်ခုထက်ပို၍ ရွေးရန် ပွတ်ဆွဲပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"AI ဖြင့် ဖန်တီးထုတ်လုပ်ထားသော ရေစာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"ကွန်ရက် ချိတ်ဆက်မှု ချို့ယွင်းချက်။ သင့်ကွန်ရက် ဆက်တင်ကို စစ်ဆေးပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"Workflow ရွေးချယ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"ပြီးပါပြီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"Lasso",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"တစ်ခုထက် ပိုရွေးရန်",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

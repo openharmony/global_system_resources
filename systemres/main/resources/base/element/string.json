@@ -3840,31 +3840,52 @@
         },
         {
             "name":"image_generation_ai_composite_label",
-            "value":"AI composite label"
+            "value":"AI-generated watermark",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_multiple_select",
-            "value":"Multiple select"
+            "value":"Select multiple",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_complete",
-            "value":"Complete"
+            "value":"Done",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_select_tip",
-            "value":"Tap to select a single node, swipe to select multiple nodes"
+            "value":"Tap to select a single node, or swipe to select multiple nodes.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_select_workflow",
-            "value":"Select workflow"
+            "value":"Select workflow",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_lasso",
-            "value":"Lasso"
+            "value":"Lasso",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_network_connection_interrupted",
-            "value":"Network connection interrupted, please check network settings"
+            "value":"Network connection error. Check your network settings.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_upload_creative_materials",
