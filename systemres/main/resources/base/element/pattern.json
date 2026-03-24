@@ -1395,7 +1395,7 @@
                 },
                 {
                     "name": "item_normal_color",
-                    "value": "$color:ohos_id_color_list_card_bg"
+                    "value": "$color:comp_background_primary"
                 },
                 {
                     "name": "item_margin_left",
@@ -1411,15 +1411,15 @@
                 },
                 {
                     "name": "item_focus_color",
-                    "value": "$color:ohos_id_color_focused_outline"
+                    "value": "$color:interactive_focus"
                 },
                 {
                     "name": "item_hover_color",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:interactive_hover"
                 },
                 {
                     "name": "item_press_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:interactive_click"
                 },
                 {
                     "name": "item_disabled_alpha",
@@ -1513,15 +1513,15 @@
             "value": [
                 {
                     "name": "item_normal_color",
-                    "value": "$color:ohos_id_color_list_card_bg"
+                    "value": "$color:comp_background_primary"
                 },
                 {
                     "name": "item_hover_color",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:interactive_hover"
                 },
                 {
                     "name": "item_press_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:interactive_click"
                 },
                 {
                     "name": "item_disabled_alpha",
@@ -1529,7 +1529,7 @@
                 },
                 {
                     "name": "item_focus_color",
-                    "value": "$color:ohos_id_color_focused_outline"
+                    "value": "$color:interactive_focus"
                 },
                 {
                     "name": "item_border_radius",
@@ -4236,7 +4236,7 @@
                 },
                 {
                     "name": "text_color",
-                    "value": "$color:ohos_id_color_text_secondary"
+                    "value": "$color:font_secondary"
                 },
                 {
                     "name": "progress_color",
@@ -7499,11 +7499,11 @@
                 },
                 {
                     "name": "grid_item_press_color",
-                    "value": "$color:ohos_id_color_click_effect"
+                    "value": "$color:interactive_click"
                 },
                 {
                     "name": "grid_item_hover_color",
-                    "value": "$color:ohos_id_color_hover"
+                    "value": "$color:interactive_hover"
                 },
                 {
                     "name": "grid_item_focus_border_radius",
@@ -7511,7 +7511,7 @@
                 },
                 {
                     "name": "grid_item_focus_color",
-                    "value": "$color:ohos_id_color_focused_outline"
+                    "value": "$color:interactive_focus"
                 }
             ]
         },
