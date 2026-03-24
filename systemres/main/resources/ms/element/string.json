@@ -3163,6 +3163,90 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Namakan semula",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Pilih bahagian untuk dilaraskan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Kanvas tanpa tajuk",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"Tiada kanvas",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"Kanvas baru",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Pulihkan tetingkap",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Besarkan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Memuatkan kanvas…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"Kanvas saya",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Sambungkan nod teks dan tulis deskripsi untuk cara anda ingin mengubah bahagian dipilih.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Dwiketik untuk mengaktifkan. Dwiketik dan tahan untuk membuka menu pilihan. Dwiketik dan tahan, kemudian leret ke kiri untuk operasi tambahan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Leret ke sisi dengan dua jari untuk menyembunyikan operasi tambahan.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

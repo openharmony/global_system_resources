@@ -3163,6 +3163,90 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Zmień nazwę",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Zaznacz obszar do dostosowania",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Podłoże bez nazwy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"Brak podłoży",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"Nowe podłoże",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Przywróć okno",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Powiększ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Wczytywanie podłoża…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"Moje podłoża",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Połącz węzeł źródłowy i wprowadź opis tego, jak chcesz zmienić wybrany obszar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Stuknij dwukrotnie, aby aktywować. Stuknij dwukrotnie i przytrzymaj, aby otworzyć menu opcji. Stuknij dwukrotnie i przytrzymaj, a następnie przeciągnij w lewo, aby wyświetlić dodatkowe działania.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Przeciągnij dwoma palcami w bok, aby ukryć dodatkowe działania.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

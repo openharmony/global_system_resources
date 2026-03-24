@@ -3163,6 +3163,90 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Ganti nama",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Pilih area yang akan disesuaikan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Kanvas tanpa judul",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"Tidak ada kanvas",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"Kanvas baru",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Pulihkan jendela",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Perbesar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Memuat kanvas…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"Kanvas saya",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Hubungkan node teks lalu tuliskan deskripsi tentang bagaimana Anda ingin mengubah area yang terpilih.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Ketuk dua kali untuk mengaktifkan. Ketuk dua kali dan tahan untuk membuka menu opsi. Ketuk dua kali dan tahan, lalu gesek ke kiri untuk operasi tambahan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Gesek ke samping dengan dua jari untuk menyembunyikan operasi tambahan.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

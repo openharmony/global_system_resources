@@ -3205,6 +3205,90 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Переименовать",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Выберите область для изменения",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Без названия",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"Нет холстов",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"Новый холст",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Восстановить окно",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Увеличить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Загрузка холста...",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"Мои холсты",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Подключите блок текста и опишите изменения, которые нужно применить к выбранной области.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Нажмите дважды, чтобы активировать. Дважды нажмите и удерживайте для открытия меню опций. Дважды нажмите и удерживайте, затем проведите влево, чтобы отобразить дополнительные опции.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Проведите в сторону двумя пальцами, чтобы скрыть дополнительные опции.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -3163,6 +3163,90 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Rinomina",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Seleziona un'area da regolare",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Tela senza titolo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"Nessuna tela",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"Nuova tela",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Ripristina finestra",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Ingrandisci",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Caricamento tela…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"Le mie tele",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Collega un nodo di testo e scrivi una descrizione di come desideri modificare l'area selezionata.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Tocca due volte per attivare. Tocca due volte e tieni premuto per aprire il menu delle opzioni. Tocca due volte e tieni premuto, quindi scorri verso sinistra per operazioni aggiuntive.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Scorri lateralmente con due dita per nascondere ulteriori operazioni.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
