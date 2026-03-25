@@ -3074,6 +3074,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"Если выйти сейчас, ваша работа не будет сохранена.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"Жалоба на контент",
             "attr":{

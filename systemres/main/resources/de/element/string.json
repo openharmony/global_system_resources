@@ -3032,6 +3032,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"Ihre Arbeit geht verloren, wenn Sie den Vorgang jetzt beenden.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"Inhalt des Berichts",
             "attr":{

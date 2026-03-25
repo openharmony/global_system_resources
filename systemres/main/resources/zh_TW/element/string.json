@@ -3039,6 +3039,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"若關閉，將無法保留創作並中斷目前產生圖片流程，已產生的內容也無法儲存。是否關閉？",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"內容檢舉",
             "attr":{
