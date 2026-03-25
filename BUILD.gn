@@ -43,6 +43,9 @@ ohos_shared_headers("ohos_fonts") {
   foreach(dep, dep_list) {
     deps += [ ":${dep}" ]
   }
+  if (system_resources_font_feature_cfp_enable) {
+    deps -= [ ":HarmonyOS_Sans_SC" ]
+  }
   include_dirs = []
   subsystem_name = "global"
   part_name = "system_resources"
