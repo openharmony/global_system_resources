@@ -39170,6 +39170,41 @@
  	        "type":"string",
  	        "name":"image_generation_graph_guide_title",
  	        "order": 7756
+ 	    },
+        {
+ 	        "type": "string",
+ 	        "name": "image_generation_auto_save",
+ 	        "order": 7757
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name": "image_generation_whether_enable_auto_save",
+ 	        "order": 7758
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name": "image_generation_enable_and_auto_save_photo",
+ 	        "order": 7759
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name": "image_generation_enable",
+ 	        "order": 7760
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name": "image_generation_enable_and_auto_save_photo_select_change",
+ 	        "order": 7761
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name": "image_generation_long_press_image_matting",
+ 	        "order": 7762
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name": "image_generation_has_save",
+ 	        "order": 7763
  	    }
     ]
 }

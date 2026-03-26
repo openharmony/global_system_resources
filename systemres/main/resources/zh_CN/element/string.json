@@ -3881,6 +3881,34 @@
         {
  	        "name":"image_generation_graph_guide_title",
  	        "value":"新手指引"
+ 	    },
+        {
+ 	        "name":"image_generation_auto_save",
+ 	        "value":"自动保存"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_whether_enable_auto_save",
+ 	        "value":"是否开启自动保存？"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_enable_and_auto_save_photo",
+ 	        "value":"开启后，由AI生成的图片将自动保存至“图库”>“灵感妙创”中。"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_enable",
+ 	        "value":"开启"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_enable_and_auto_save_photo_select_change",
+ 	        "value":"开启后，由AI生成的图片将自动保存至“图库”>“灵感妙创”中。选择后可在“更多”>“自动保存”中更改。"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_long_press_image_matting",
+ 	        "value":"长按对象可以选中并抠图"
+ 	    },
+ 	    {
+ 	        "name":"image_generation_has_save",
+ 	        "value":"已保存"
  	    }
     ]
 }
