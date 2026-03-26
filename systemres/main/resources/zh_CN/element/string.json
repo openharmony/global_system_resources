@@ -2927,7 +2927,7 @@
         },
         {
             "name":"node_graph_image_generation_daily_limit_reached",
-            "value":"您已达到今日的生图限额，限额将于明日重置",
+            "value":"生图额度已用完，请下月重试。",
             "attr":{
                 "priority":"translate"
             }
