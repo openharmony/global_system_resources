@@ -3656,7 +3656,10 @@
         },
         {
             "name":"image_generation_exit_confirm_generating",
-            "value": "If you exit, the creation process will be interrupted. The generated content cannot be saved. Are you sure you want to close it?"
+            "value":"Your work will be lost if you exit now.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_report_content",

@@ -3512,7 +3512,10 @@
         },
         {
             "name":"image_generation_exit_confirm_generating",
-            "value": "退出将无法保留创作，关闭后将中断当前生图流程，已生成的内容无法保存，是否关闭？"
+            "value":"关闭将无法保留创作，关闭后将中断当前生图流程，已生成的内容无法保存，是否关闭？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_report_content",
