@@ -4053,6 +4053,10 @@
  	    {
  	        "name":"image_generation_has_save",
  	        "value":"Saved"
- 	    }
+ 	    },
+        {
+            "name":"text_fallback_line_spacing",
+            "value":"false"
+        }
     ]
 }
