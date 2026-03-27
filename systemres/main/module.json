@@ -6915,6 +6915,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ASSET_CACHE_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ALLOW_ACCESSORY_ACCESS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -6946,15 +6955,6 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
                 "since": "26.0.0",
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
-                "name": "ohos.permission.ASSET_CACHE_MANAGER",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": 24,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
