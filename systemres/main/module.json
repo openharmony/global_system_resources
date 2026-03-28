@@ -6924,6 +6924,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_DEVELOPER_PCAP_SWITCH",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.EXEMPT_MOTION_SENSORS_RESTRICTION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
