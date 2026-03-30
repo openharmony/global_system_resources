@@ -39205,6 +39205,11 @@
  	        "type": "string",
  	        "name": "image_generation_has_save",
  	        "order": 7763
- 	    }
+ 	    },
+        {
+            "type": "string",
+            "name": "text_fallback_line_spacing",
+            "order": 7764
+        }
     ]
 }
