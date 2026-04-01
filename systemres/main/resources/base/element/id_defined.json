@@ -39210,6 +39210,11 @@
             "type": "string",
             "name": "text_fallback_line_spacing",
             "order": 7764
-        }
+        },
+        {
+ 	        "type": "string",
+ 	        "name": "image_generation_navigation_previewer",
+ 	        "order": 7765
+ 	    }
     ]
 }
