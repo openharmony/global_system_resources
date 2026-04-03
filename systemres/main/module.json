@@ -6036,6 +6036,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.FLOAT_VIEW",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.THEME_SKIN",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
