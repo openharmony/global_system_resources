@@ -3254,6 +3254,83 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Połącz węzły tekstu i obrazów z węzłem generatora.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Dodaj szablony, obrazy, tekst lub węzły generatora jako pomoc.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Włączyć zapisywanie automatyczne?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Włącz",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Dotknij i przytrzymaj obiekt, aby go zaznaczyć i wyciąć.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Zapisano",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Dotknij opcji Generuj, aby stworzyć treść.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Zapisuj automatycznie",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Samouczek",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Obrazy generowane przez AI będą automatycznie zapisywane w folderze Galeria > Inteligentna kanwa. Można później wyłączyć tę opcję w menu Więcej.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Obrazy generowane przez AI będą automatycznie zapisywane w folderze Galeria > Inteligentna kanwa.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

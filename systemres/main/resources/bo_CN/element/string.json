@@ -3265,6 +3265,83 @@
         {
             "name":"text_fallback_line_spacing",
             "value":"true"
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"ཡི་གེ་དང་པར་རིས་སྐྱེད་སྒྲུབ་ཆས་ཀྱི་སྟེང་དུ་འབྲེལ་མཐུད་བྱེད་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"མ་དཔེ་སྣོན་པའམ་པར་རིས་དང་ཡི་གེ། སྐྱེད་སྒྲུབ་ཆས་ཀྱི་གནས་ཚེག་བསྣན་ནས་གསར་རྩོམ་བྱེད་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"རང་འགུལ་ཉར་ཚགས་ཀྱི་ཁ་ཕྱེ་རྒྱུ་ཡིན་ནམ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"ཁ་ཕྱེ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"གནོན་ཡུལ་ལ་ཡུན་རིང་མནན་ན་འདེམས་ཤིང་རིས་ལེན་བྱེད་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"ཉར་ཚགས་བྱས་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"༼སྐྱེད་སྒྲུབ་༽ཅེས་པའི་འཐེབ་གནོན་ལ་བརྡབས་ནས་གསར་རྩོམ་བྱེད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"རང་འགུལ་ཉར་ཚགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"ལས་དང་པོ་བར་མཛུབ་སྟོན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"ཁ་ཕྱེ་རྗེས། AI སྐྱེད་སྒྲུབ་བྱས་པའི་པར་རིས་རང་འགུལ་གྱིས་༼པར་མཛོད་༽>༼ཚོར་བའི་གསར་རྩོམ་༽ཁྲོད་དུ་ཉར་ཚགས་བྱ་སྲིད། བདམས་རྗེས་༼དེ་ལས་མང་བ་༽>༼རང་འགུལ་ཉར་ཚགས་༽ཁྲོད་ནས་བཅོས་ཆོག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"ཁ་ཕྱེ་རྗེས། AI སྐྱེད་སྒྲུབ་བྱས་པའི་པར་རིས་རང་འགུལ་གྱིས་༼པར་མཛོད་༽>༼ཚོར་བའི་གསར་རྩོམ་༽ཁྲོད་དུ་ཉར་ཚགས་བྱ་སྲིད།",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -3254,6 +3254,83 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Ligue os nós de texto e de imagem ao nó gerador.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Adicione modelos, imagens, texto ou nós geradores para ajudar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Ativar guardar automaticamente?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Ativar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Toque continuamente num objeto para o selecionar e recortar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Guardado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Toque em Gerar para criar conteúdo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Guardar automaticamente",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Tutorial",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"As imagens geradas pela IA serão guardadas automaticamente em Galeria > Tela inteligente. Pode desativar isto mais tarde a partir do menu Mais.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"As imagens geradas pela IA serão guardadas automaticamente em Galeria > Tela inteligente.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

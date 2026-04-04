@@ -3297,6 +3297,83 @@
         {
             "name":"text_fallback_line_spacing",
             "value":"true"
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"وصّل عُقد النصوص والصور بعُقدة المولد.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"أضف القوالب أو الصور أو النصوص أو عُقد المولد لمساعدتك.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"هل تريد تشغيل الحفظ التلقائي؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"تشغيل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"انقر مطولًا على عنصرٍ ما لاقتصاصه.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"تم الحفظ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"انقر على \"إنشاء\" لإنشاء محتوى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"الحفظ التلقائي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"الإرشادات التعليمية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"ستُحفظ الصور المُنشئة بواسطة الذكاء الاصطناعي تلقائيًا في \"المعرض > لوحة رسم ذكية\". يمكنك إيقاف تشغيل هذا لاحقًا من قائمة \"المزيد\".",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"ستُحفظ الصور المُنشئة بواسطة الذكاء الاصطناعي تلقائيًا في \"المعرض > لوحة رسم ذكية\".",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

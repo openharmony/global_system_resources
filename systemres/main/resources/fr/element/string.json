@@ -3296,6 +3296,83 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Connectez les nœuds de texte et d'image au nœud générateur.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Vous pouvez ajouter des modèles, des images, du texte ou des nœuds de génération pour vous aider.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Activer l'enregistrement automatique ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Activer",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Touchez et maintenez un objet pour le sélectionner et le découper.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Enregistré",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Créez du contenu en touchant Générer.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Enregistrement automatique",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Tutoriel",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Les images générées par l'IA seront automatiquement enregistrées dans Galerie > Toiles intelligentes. Vous pouvez désactiver cette option ultérieurement depuis le menu Plus.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Les images générées par l'IA seront automatiquement enregistrées dans Galerie > Toiles intelligentes.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

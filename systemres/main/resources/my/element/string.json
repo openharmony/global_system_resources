@@ -3258,6 +3258,83 @@
         {
             "name":"text_fallback_line_spacing",
             "value":"true"
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"စာသားနှင့် ရုပ်ပုံ Node များကို ဖန်တီးထုတ်လုပ်ရေး Node နှင့် ချိတ်ဆက်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"သင့်ကို ကူညီမည့် နမူနာပုံစံများ၊ ရုပ်ပုံများ၊ စာသား သို့မဟုတ် ဖန်တီးထုတ်လုပ်ရေး Node များ ထည့်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"အော်တို သိမ်းဆည်းရန်ကို ဖွင့်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"ဖွင့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"ပုံထဲမှအရာတစ်ခုကို ရွေးချယ်ပြီး ဖြတ်ထုတ်ရန်အတွက် ၎င်းကို နှိပ်၍ ဖိထားပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"သိမ်းပြီး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"အကြောင်းအရာ ဖန်တီးရန်အတွက် ဖန်တီးထုတ်လုပ်ရန်ကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"အော်တို သိမ်းဆည်းရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"ကျူတိုရီရယ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"AI ဖြင့် ဖန်တီးထုတ်လုပ်ထားသော ပုံများကို ပုံပြခန်း > စမတ် ကင်းဗက်စ်တွင် အော်တို သိမ်းဆည်းပါမည်။ နောက်ထပ် မီနျူးမှတစ်ဆင့် ၎င်းကို နောက်မှပိတ်နိုင်သည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"AI ဖြင့် ဖန်တီးထုတ်လုပ်ထားသော ပုံများကို ပုံပြခန်း > စမတ် ကင်းဗက်စ်တွင် အော်တို သိမ်းဆည်းပါမည်။",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -3254,6 +3254,83 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"ເຊື່ອມຕໍ່ໂນດຂໍ້ຄວາມ ແລະ ຮູບພາບກັບໂນດຕົວສ້າງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"ເພີ່ມແມ່ແບບ, ຮູບພາບ, ຂໍ້ຄວາມ ຫຼື ໂນດຕົວສ້າງເພື່ອຊ່ວຍທ່ານ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"ເປີດໃຊ້ງານບັນທຶກອັດຕະໂນມັດບໍ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"ເປີດໃຊ້ງານ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"ສຳຜັດສິ່ງຄ້າງໄວ້ ເພື່ອເລືອກມັນ ແລະ ຕັດມັນອອກ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"ບັນທຶກແລ້ວ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"ແຕະ ສ້າງ ເພື່ອສ້າງເນື້ອຫາ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"ບັນທຶກອັດຕະໂນມັດ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"ແນະນຳເພີ່ມ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"ຮູບພາບທີ່ສ້າງໂດຍ AI ຈະຖືກບັນທຶກໂດຍອັດຕະໂນມັດໃສ່ ແກເລີຣີ > ແຜ່ນແຕ້ມອັດສະລິຍະ. ທ່ານສາມາດປິດສິ່ງນີ້ໄດ້ພາຍຫຼັງຈາກເມນູເພີ່ມເຕີມ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"ຮູບພາບທີ່ສ້າງໂດຍ AI ຈະຖືກບັນທຶກໂດຍອັດຕະໂນມັດໃສ່ ແກເລີຣີ > ແຜ່ນແຕ້ມອັດສະລິຍະ.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

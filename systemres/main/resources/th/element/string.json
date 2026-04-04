@@ -3258,6 +3258,83 @@
         {
             "name":"text_fallback_line_spacing",
             "value":"true"
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"เชื่อมต่อโหนดข้อความและรูปภาพเข้ากับโหนดเครื่องมือสร้าง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"เพิ่มโหนดเทมเพลต รูปภาพ ข้อความ หรือเครื่องมือสร้างเพื่อช่วยคุณ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"เปิดใช้งานการบันทึกอัตโนมัติหรือไม่",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"เปิดใช้งาน",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"แตะค้างที่วัตถุเพื่อเลือกและตัดออก",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"บันทึกแล้ว",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"แตะ สร้าง เพื่อสร้างเนื้อหา",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"บันทึกอัตโนมัติ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"การเรียนรู้",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"รูปภาพที่สร้างโดย AI จะบันทึกไปยัง แกลเลอรี > แคนวาสอัจฉริยะโดยอัตโนมัติ คุณสามารถปิดได้ในภายหลังจากเมนู เพิ่มเติม",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"รูปภาพที่สร้างโดย AI จะบันทึกไปยัง แกลเลอรี > แคนวาสอัจฉริยะโดยอัตโนมัติ",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

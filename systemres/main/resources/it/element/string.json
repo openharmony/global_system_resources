@@ -3254,6 +3254,83 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Collega i nodi di testo e di immagine al nodo generatore.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Aggiungi modelli, immagini, testo o nodi generatori per aiutarti.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Vuoi abilitare Salvataggio automatico?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Abilita",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Tocca e tieni premuto un oggetto per selezionarlo e ritagliarlo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Salvata",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Tocca Genera per creare contenuti.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Salvataggio automatico",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Tutorial",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Le immagini generate dall'AI verranno salvate automaticamente in Galleria > Tela intelligente. Puoi disattivare questa funzione in seguito dal menu Altro.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Le immagini generate dall'AI verranno salvate automaticamente in Galleria > Tela intelligente.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
