@@ -7039,6 +7039,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+            "name": "ohos.permission.EXECUTE_DISTRIBUTED_INTENT",
+            "grantMode": "system_grant",
+            "availableLevel": "system_basic",
+            "since": 26,
+            "deprecated": "",
+            "provisionEnable": true,
+            "distributedSceneEnable": true
             }
         ]
     }
