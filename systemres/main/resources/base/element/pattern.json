@@ -8683,6 +8683,14 @@
                 {
                     "name": "side_bar_width",
                     "value": "$float:sidebarcontainer_width"
+                },
+                {
+                    "name": "side_bar_shown",
+                    "value": "$string:sidebarcontainer_shown"
+                },
+                {
+                    "name": "side_bar_hidden",
+                    "value": "$string:sidebarcontainer_hidden"
                 }
             ]
         },
