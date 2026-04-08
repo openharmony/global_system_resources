@@ -3296,6 +3296,83 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"텍스트 및 이미지 노드를 생성기 노드에 연결합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"템플릿, 이미지, 텍스트 또는 생성기 노드를 추가하여 도움받으십시오.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"자동 저장을 실행하시겠습니까?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"실행",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"개체를 길게 터치하여 선택하고 잘라냅니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"저장됨",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"생성을 탭하여 콘텐츠를 생성합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"자동 저장",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"튜토리얼",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"AI가 생성한 이미지는 갤러리 > 스마트 캔버스에 자동으로 저장됩니다. 더 보기 메뉴에서 나중에 이 기능을 끌 수 있습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"AI가 생성한 이미지는 갤러리 > 스마트 캔버스에 자동으로 저장됩니다.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
