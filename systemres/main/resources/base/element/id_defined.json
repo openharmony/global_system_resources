@@ -39215,6 +39215,16 @@
  	        "type": "string",
  	        "name": "image_generation_navigation_previewer",
  	        "order": 7765
- 	    }
+ 	    },
+        {
+            "type": "string",
+            "name": "sidebarcontainer_shown",
+            "order": 7766
+        },
+        {
+            "type": "string",
+            "name": "sidebarcontainer_hidden",
+            "order": 7767
+        }
     ]
 }
