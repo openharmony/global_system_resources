@@ -3213,6 +3213,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CONTROL_DEVICE",
+                "grantMode": "manual_settings",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_SECURITY_PRIVACY_CENTER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
