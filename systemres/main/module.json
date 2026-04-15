@@ -5658,6 +5658,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MINORS_PROTECTION_UI",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.CHANGE_DEFAULT_APPLICATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
