@@ -7084,7 +7084,25 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
-            }
+            },
+			{
+				"name": "ohos.permission.ACCESS_SUPPORT_FEEDBACk",
+				"grantMode": "system_grant",
+				"availableLevel": "system_basic",
+				"since": "24",
+				"deprecated": "",
+				"provisionEnable": true,
+				"distributedSceneEnable": false
+			},
+			{
+				"name": "ohos.permission.ACCESS_SUPPORT_HELP",
+				"grantMode": "system_grant",
+				"availableLevel": "system_basic",
+				"since": "24",
+				"deprecated": "",
+				"provisionEnable": true,
+				"distributedSceneEnable": false
+			}
         ]
     }
 }
