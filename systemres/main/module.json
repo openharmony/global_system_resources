@@ -5658,6 +5658,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MINORS_PROTECTION_UI",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.CHANGE_DEFAULT_APPLICATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -6801,7 +6810,7 @@
                 "name": "ohos.permission.vehicle.CAR_MODE_MANAGEMENT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": 24,
+                "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -7078,6 +7087,15 @@
             },
             {
                 "name": "ohos.permission.ENTERPRISE_GET_INSTALLED_BUNDLE_LIST",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_CALL_TRANSFER_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": "26.0.0",
