@@ -39265,6 +39265,21 @@
             "type": "string",
             "name": "image_generation_emoji",
             "order": 7775
+        },
+        {
+            "type": "color",
+            "name": "primary",
+            "order": 7776
+        },
+        {
+            "type": "color",
+            "name": "on_primary",
+            "order": 7777
+        },
+        {
+            "type": "color",
+            "name": "container",
+            "order": 7778
         }
     ]
 }
