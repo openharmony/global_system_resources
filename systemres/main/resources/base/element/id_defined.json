@@ -39280,6 +39280,11 @@
             "type": "color",
             "name": "container",
             "order": 7778
+        },
+        {
+            "type": "string",
+            "name": "image_generation_compare_original",
+            "order": 7779
         }
     ]
 }
