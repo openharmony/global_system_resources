@@ -5658,6 +5658,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MINORS_PROTECTION_UI",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.CHANGE_DEFAULT_APPLICATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -7089,7 +7098,7 @@
 				"name": "ohos.permission.ACCESS_SUPPORT_FEEDBACk",
 				"grantMode": "system_grant",
 				"availableLevel": "system_basic",
-				"since": "24",
+				"since": "26.0.0",
 				"deprecated": "",
 				"provisionEnable": true,
 				"distributedSceneEnable": false
@@ -7098,11 +7107,38 @@
 				"name": "ohos.permission.ACCESS_SUPPORT_HELP",
 				"grantMode": "system_grant",
 				"availableLevel": "system_basic",
-				"since": "24",
+				"since": "26.0.0",
 				"deprecated": "",
 				"provisionEnable": true,
 				"distributedSceneEnable": false
 			}
+            {
+                "name": "ohos.permission.GET_CALL_TRANSFER_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SUBSCRIBE_OUTDOOR_EXPLORATION_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_DIGITAL_IDENTITY_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            }
         ]
     }
 }
