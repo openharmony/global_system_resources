@@ -7103,6 +7103,24 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
+			{
+				"name": "ohos.permission.ACCESS_SUPPORT_FEEDBACK",
+				"grantMode": "system_grant",
+				"availableLevel": "system_basic",
+				"since": "26.0.0",
+				"deprecated": "",
+				"provisionEnable": true,
+				"distributedSceneEnable": false
+			},
+			{
+				"name": "ohos.permission.ACCESS_SUPPORT_HELP",
+				"grantMode": "system_grant",
+				"availableLevel": "system_basic",
+				"since": "26.0.0",
+				"deprecated": "",
+				"provisionEnable": true,
+				"distributedSceneEnable": false
+			},
             {
                 "name": "ohos.permission.GET_CALL_TRANSFER_INFO",
                 "grantMode": "system_grant",
