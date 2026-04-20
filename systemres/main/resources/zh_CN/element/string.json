@@ -3960,35 +3960,59 @@
         },
         {
             "name":"image_generation_teach_example",
-            "value":"教学示例"
+            "value":"教学示例",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_profile_picture",
-            "value":"头像"
+            "value":"头像",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_emoji",
-            "value":"表情包"
+            "value":"表情包",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_magazine_cover",
-            "value":"杂志封面"
+            "value":"杂志封面",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_travel_diary",
-            "value":"旅行日记"
+            "value":"旅行日记",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_replace_photo_try",
-            "value":"替换成自己的图试试"
+            "value":"替换成自己的图试试",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_generate_photo_message",
-            "value":"生图信息将被替换"
+            "value":"生图信息将被替换",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_experiential_learning",
-            "value":"体验教学示例会替换当前的图片、文字和操作，确认替换？"
+            "value":"体验教学示例会替换当前的图片、文字和操作，确认替换？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_compare_original",
