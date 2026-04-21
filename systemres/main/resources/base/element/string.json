@@ -4173,6 +4173,22 @@
         {
             "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
             "value":"Click to view the creation result"
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"Delete this canvas?"
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"This will delete this canvas and all nodes within it. This action cannot be undone."
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"Add text descriptions for more precise results."
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"Exit multi-select"
         }
     ]
 }
