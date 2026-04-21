@@ -4165,6 +4165,14 @@
         {
             "name":"image_generation_compare_original",
             "value":"Compare with the original image"
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"The creation is complete"
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"Click to view the creation result"
         }
     ]
 }
