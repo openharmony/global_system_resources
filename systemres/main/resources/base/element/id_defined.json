@@ -39295,6 +39295,26 @@
             "type": "string",
             "name": "image_generation_ai_generate_click_to_foreground_for_liveview",
             "order": 7781
-        }
+        },
+        {
+ 	        "type": "string",
+ 	        "name":"image_generation_delete_graph_title",
+ 	        "order": 7782
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name":"image_generation_delete_graph_description",
+ 	        "order": 7783
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name":"image_generation_generate_toast",
+ 	        "order": 7784
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name":"image_generation_exit_multi_select",
+ 	        "order": 7785
+ 	    }
     ]
 }
