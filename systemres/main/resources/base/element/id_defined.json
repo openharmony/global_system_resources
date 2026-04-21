@@ -39285,6 +39285,16 @@
             "type": "string",
             "name": "image_generation_compare_original",
             "order": 7779
+        },
+        {
+            "type": "string",
+            "name": "image_generation_ai_generate_complete_for_liveview",
+            "order": 7780
+        },
+        {
+            "type": "string",
+            "name": "image_generation_ai_generate_click_to_foreground_for_liveview",
+            "order": 7781
         }
     ]
 }
