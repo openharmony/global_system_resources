@@ -2927,7 +2927,7 @@
         },
         {
             "name":"node_graph_image_generation_daily_limit_reached",
-            "value":"您已达到今日的生图限额，限额将于明日重置",
+            "value":"生图额度已用完，请下月重试。",
             "attr":{
                 "priority":"translate"
             }
@@ -3512,7 +3512,10 @@
         },
         {
             "name":"image_generation_exit_confirm_generating",
-            "value": "退出将无法保留创作，关闭后将中断当前生图流程，已生成的内容无法保存，是否关闭？"
+            "value":"关闭将无法保留创作，关闭后将中断当前生图流程，已生成的内容无法保存，是否关闭？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_report_content",
@@ -3675,43 +3678,73 @@
         },
         {
             "name":"image_generation_guide_add_image",
-            "value":"点击“+”号添加图片参考"
+            "value":"点击“+”号添加图片参考",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_guide_add_graffiti",
-            "value":"点击涂鸦进行创作"
+            "value":"添加涂鸦进行创作",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_guide_add_options",
-            "value":"选择“风格”、“比例”、“清晰度”，进行配置"
+            "value":"选择“风格”、“比例”、“清晰度”，进行配置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_ai_composite_label",
-            "value":"AI 合成标识"
+            "value":"AI 合成标识",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_multiple_select",
-            "value":"多选"
+            "value":"多选",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_complete",
-            "value":"完成"
+            "value":"完成",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_select_tip",
-            "value":"轻点选择单个节点，滑动框选多个节点"
+            "value":"轻点选择单个节点，滑动框选多个节点",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_select_workflow",
-            "value":"选择工作流"
+            "value":"选择工作流",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_lasso",
-            "value":"套索"
+            "value":"套索",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_network_connection_interrupted",
-            "value":"网络连接已中断，请检查网络设置"
+            "value":"网络连接已中断，请检查网络设置",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_upload_creative_materials",
@@ -3745,57 +3778,269 @@
             "name":"image_generation_generated_failed",
             "value":"AI生成失败"
         },
- 	    {
- 	        "name":"image_generation_region_selection_operation_guidance",
- 	        "value":"请连接文字节点，并描述如何修改圈选区域"
- 	    },
- 	    {
- 	        "name":"image_generation_region_selection_prompt",
- 	        "value":"圈选想要调整的区域"
- 	    },
- 	    {
- 	        "name":"image_generation_untitled_canvas",
- 	        "value":"未命名画布"
- 	    },
- 	    {
- 	        "name":"image_generation_my_canvas",
- 	        "value":"我的画布"
- 	    },
- 	    {
- 	        "name":"image_generation_extension",
- 	        "value":"扩展"
- 	    },
- 	    {
- 	        "name":"image_generation_exit_extension",
- 	        "value":"退出扩展"
- 	    },
- 	    {
- 	        "name":"image_generation_new_canvas",
- 	        "value":"新建画布"
- 	    },
- 	    {
- 	        "name":"image_generation_hide_tab_bar_description",
- 	        "value":"%s，双指侧滑可隐藏更多操作"
- 	    },
- 	    {
- 	        "name":"image_generation_tab_bar_description",
- 	        "value":"%s，单指双击即可执行，双击并按住即可弹出更多选项，双击并按住左滑可进行更多操作"
- 	    },
- 	    {
- 	        "name":"image_generation_no_canvas",
- 	        "value":"没有画布"
- 	    },
- 	    {
- 	        "name":"image_generation_canvas_loading",
- 	        "value":"画布加载中"
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"请连接文字节点，并描述如何修改圈选区域",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"圈选想要调整的区域",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"未命名画布",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"我的画布",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"扩展",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"退出扩展",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"新建画布",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s，双指侧滑可隐藏更多操作",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s，单指双击即可执行，双击并按住即可弹出更多选项，双击并按住左滑可进行更多操作",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"没有画布",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"画布加载中",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"重命名",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_generate",
+            "value":"添加文字后，点击“生成”按钮进行创作",
+            "attr":{
+                "priority":"translate"
+            }
  	    },
         {
- 	        "name":"image_generation_rename",
- 	        "value":"重命名"
- 	    },
+            "name":"image_generation_graph_guide_one",
+            "value":"添加模板或者添加图片、文字、生成器节点来进行创作",
+            "attr":{
+                "priority":"translate"
+            }
+        },
         {
- 	        "name":"image_generation_guide_add_generate",
- 	        "value":"添加文字后，点击“生成”按钮进行创作"
- 	    }
+            "name":"image_generation_graph_guide_two",
+            "value":"将文字和图片连接至生成器上",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"点击“生成”按钮进行创作",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"新手指引",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"自动保存",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"是否开启自动保存？",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"开启后，由 AI 生成的图片将自动保存至“图库”>“灵感妙创”中。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"开启",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"开启后，由 AI 生成的图片将自动保存至“图库”>“灵感妙创”中。选择后可在“更多”>“自动保存”中更改。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"长按对象可以选中并抠图",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"已保存",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_navigation_previewer",
+            "value":"全局预览"
+        },
+        {
+            "name": "sidebarcontainer_shown",
+            "value": "侧栏显示"
+        },
+        {
+            "name": "sidebarcontainer_hidden",
+            "value": "侧栏隐藏"
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"教学示例",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"头像",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"表情包",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"杂志封面",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"旅行日记",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_photo_try",
+            "value":"替换成自己的图试试",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"生图信息将被替换",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"体验教学示例会替换当前的图片、文字和操作，确认替换？",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_compare_original",
+            "value":"对比原图"
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"创作已完成"
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"点击查看创作结果"
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"是否删除此画布？"
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"将删除此画布及内部所有节点，此操作无法撤销。"
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"添加文字描述，生成效果会更精准"
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"退出多选"
+        }
     ]
 }

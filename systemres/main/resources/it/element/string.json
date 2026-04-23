@@ -36,6 +36,62 @@
             }
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"Prova a caricare le tue immagini.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"Esempi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"Copertina rivista",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"Diario di viaggio",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"Foto del profilo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"Le immagini e le descrizioni correnti verranno sostituite",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"Adesivo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"Le immagini e le descrizioni attualmente presenti sulla tela verranno sostituite dall'esempio. Vuoi procedere comunque?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"Alza il volume",
             "attr":{
@@ -3032,6 +3088,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"Perderai ciò che hai realizzato finora se esci ora.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"Segnala contenuto",
             "attr":{
@@ -3074,6 +3137,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Inserisci del testo, quindi tocca Genera.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Tocca \"+\" per aggiungere un'immagine di riferimento.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Tocca qui per iniziare a scarabocchiare.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Imposta stile, aspect ratio e qualità.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Crea sulla tela collegando i nodi con le linee. %s",
             "attr":{
@@ -3083,6 +3174,216 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"Tocca il tasto Genera nel nodo del generatore di immagini per creare un'immagine. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"Tocca per selezionare un singolo nodo oppure scorri per selezionarne più di uno.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"Filigrana generata dall\u0027IA",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"Errore di connessione di rete. Verifica le impostazioni di rete.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"Seleziona flusso di lavoro",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"Fine",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"Lazo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"Selezione multipla",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Rinomina",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Seleziona un'area da regolare",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Tela senza titolo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"Nessuna tela",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"Nuova tela",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Ripristina finestra",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Ingrandisci",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Caricamento tela…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"Le mie tele",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Collega un nodo di testo e scrivi una descrizione di come desideri modificare l'area selezionata.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Tocca due volte per attivare. Tocca due volte e tieni premuto per aprire il menu delle opzioni. Tocca due volte e tieni premuto, quindi scorri verso sinistra per operazioni aggiuntive.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Scorri lateralmente con due dita per nascondere ulteriori operazioni.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Collega i nodi di testo e di immagine al nodo generatore.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Aggiungi modelli, immagini, testo o nodi generatori per aiutarti.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Vuoi abilitare Salvataggio automatico?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Abilita",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Tocca e tieni premuto un oggetto per selezionarlo e ritagliarlo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Salvata",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Tocca Genera per creare contenuti.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Salvataggio automatico",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Tutorial",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Le immagini generate dall'AI verranno salvate automaticamente in Galleria > Tela intelligente. Puoi disattivare questa funzione in seguito dal menu Altro.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Le immagini generate dall'AI verranno salvate automaticamente in Galleria > Tela intelligente.",
             "attr":{
                 "priority":"translate"
             }

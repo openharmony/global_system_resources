@@ -36,6 +36,62 @@
             }
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"Laden Sie Ihre eigenen Bilder hoch.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"Beispiele",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"Zeitschriften-Cover",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"Reisetagebuch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"Profilbild",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"Aktuelle Bilder und Beschreibungen werden bald ersetzt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"Sticker",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"Die aktuellen Bilder und Beschreibungen auf den Leinwänden werden durch das Beispiel ersetzt. Trotzdem fortfahren?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"Lautstärke erhöhen",
             "attr":{
@@ -3032,6 +3088,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"Ihre Arbeit geht verloren, wenn Sie den Vorgang jetzt beenden.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"Inhalt des Berichts",
             "attr":{
@@ -3060,6 +3123,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Geben Sie Text ein und tippen Sie dann auf Generieren.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Tippen Sie auf „+“, um ein Referenzbild hinzuzufügen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Tippen Sie hier, um mit dem Kritzeln zu beginnen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Legen Sie Stil, Seitenverhältnis und Qualität fest.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_general_guide_first",
             "value":"Fügen Sie Textbeschreibungen, Bilder oder Kritzeleien hinzu und tippen Sie dann auf Generieren, um ein Bild zu erstellen. %s",
             "attr":{
@@ -3083,6 +3174,216 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"Tippen Sie auf die Schaltfläche Generieren auf dem Knoten des Bildgenerators, um ein Bild zu erstellen. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"Tippen Sie zum Auswählen eines einzelnen Knotens oder streichen Sie, um mehrere Knoten auszuwählen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"„KI-generiert“-Wasserzeichen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"Netzwerkverbindungsfehler, prüfen Sie die Netzwerkeinstellungen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"Workflow auswählen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"Fertig",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"Lasso",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"Mehrere auswählen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Umbenennen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Wählen Sie einen Bereich aus, der angepasst werden soll",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Unbenannte Arbeitsfläche",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"Keine Arbeitsfläche",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"Neue Arbeitsfläche",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Fenster wiederherstellen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Vergrößern",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Arbeitsfläche laden …",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"Meine Arbeitsflächen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Verbinden Sie einen Knoten und beschreiben Sie, wie Sie den ausgewählten Bereich ändern möchten.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Zum Aktivieren zweimal antippen. Zweimal tippen und gedrückt halten, um das Optionsmenü zu öffnen. Zweimal tippen und gedrückt halten, dann für weitere Vorgänge nach links streichen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Streichen Sie mit zwei Fingern seitwärts, um weitere Vorgänge auszublenden.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Verbinden Sie die Text- und Bildknoten mit dem Generatorknoten.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Fügen Sie zur Unterstützung Vorlagen, Bilder, Text oder Generatorknoten hinzu.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Auto-Speichern aktivieren?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Aktivieren",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Halten Sie ein Objekt gedrückt, um es auszuwählen und auszuschneiden.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Gespeichert",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Tippen Sie auf Generieren, um Inhalte zu erstellen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Auto-Speichern",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Tutorial",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Von KI generierte Bilder werden automatisch unter Galerie > Intelligente Leinwand gespeichert. Sie können dies später im Mehr-Menü deaktivieren.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Von KI generierte Bilder werden automatisch unter Galerie > Intelligente Leinwand gespeichert.",
             "attr":{
                 "priority":"translate"
             }

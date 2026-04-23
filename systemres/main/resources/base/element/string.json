@@ -3071,7 +3071,7 @@
         },
         {
             "name":"node_graph_image_generation_daily_limit_reached",
-            "value":"Daily limit reached. Limit will be reset tomorrow.",
+            "value":"The photo quota has been exhausted. Please try again next month.",
             "attr":{
                 "priority":"translate"
             }
@@ -3656,7 +3656,10 @@
         },
         {
             "name":"image_generation_exit_confirm_generating",
-            "value": "If you exit, the creation process will be interrupted. The generated content cannot be saved. Are you sure you want to close it?"
+            "value":"Your work will be lost if you exit now.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_report_content",
@@ -3819,43 +3822,73 @@
         },
         {
             "name":"image_generation_guide_add_image",
-            "value":"Click the \"+\" sign to add an image reference"
+            "value":"Tap \"+\" to add a reference image.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_guide_add_graffiti",
-            "value":"Click to doodle and create"
+            "value":"Tap here to start doodling.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_guide_add_options",
-            "value":"Select \"Style\", \"Aspect ratio\", \"Quality\" to configure"
+            "value":"Set a style, aspect ratio, and quality.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_ai_composite_label",
-            "value":"AI composite label"
+            "value":"AI-generated watermark",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_multiple_select",
-            "value":"Multiple select"
+            "value":"Select multiple",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_complete",
-            "value":"Complete"
+            "value":"Done",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_select_tip",
-            "value":"Tap to select a single node, swipe to select multiple nodes"
+            "value":"Tap to select a single node, or swipe to select multiple nodes.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_select_workflow",
-            "value":"Select workflow"
+            "value":"Select workflow",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_canvas_guide_lasso",
-            "value":"Lasso"
+            "value":"Lasso",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_network_connection_interrupted",
-            "value":"Network connection interrupted, please check network settings"
+            "value":"Network connection error. Check your network settings.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_upload_creative_materials",
@@ -3889,57 +3922,273 @@
             "name":"image_generation_generated_failed",
             "value":"AI generation failed"
         },
- 	    {
- 	        "name":"image_generation_region_selection_operation_guidance",
- 	        "value":"Please connect a prompt node and describe how to modify the selected area"
- 	    },
- 	    {
- 	        "name":"image_generation_region_selection_prompt",
- 	        "value":"Select the area you want to adjust"
- 	    },
- 	    {
- 	        "name":"image_generation_untitled_canvas",
- 	        "value":"Untitled canvas"
- 	    },
- 	    {
- 	        "name":"image_generation_my_canvas",
- 	        "value":"My canvas"
- 	    },
- 	    {
- 	        "name":"image_generation_extension",
- 	        "value":"Extension"
- 	    },
- 	    {
- 	        "name":"image_generation_exit_extension",
- 	        "value":"Exit extension"
- 	    },
- 	    {
- 	        "name":"image_generation_new_canvas",
- 	        "value":"New canvas"
- 	    },
- 	    {
- 	        "name":"image_generation_hide_tab_bar_description",
- 	        "value":"%s. Double finger side slide can hide more operations"
- 	    },
- 	    {
- 	        "name":"image_generation_tab_bar_description",
- 	        "value":"%s. Double-tap to activate. Double-tap and hold to display more options. Double-tap and hold and swipe left to perform more operations"
- 	    },
- 	    {
- 	        "name":"image_generation_no_canvas",
- 	        "value":"No canvas"
- 	    },
- 	    {
- 	        "name":"image_generation_canvas_loading",
- 	        "value":"Canvas loading"
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Connect a text node and write a description of how you want to alter the selected area.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Select an area to adjust",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Untitled canvas",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"My canvases",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Enlarge",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Restore window",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"New canvas",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Swipe sideways with two fingers to hide additional operations.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Double-tap to activate. Double-tap and hold to open the options menu. Double-tap and hold, then swipe left for additional operations.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"No canvas",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Loading canvas…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Rename",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_generate",
+            "value":"Enter some text and then tap Generate.",
+            "attr":{
+                "priority":"translate"
+            }
  	    },
         {
- 	        "name":"image_generation_rename",
- 	        "value":"Rename"
- 	    },
+            "name":"image_generation_graph_guide_one",
+            "value":"Add templates, images, text, or generator nodes to aid you.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
         {
- 	        "name":"image_generation_guide_add_generate",
- 	        "value":"After adding the text description, click \"Generate\" to start creation"
- 	    }
+            "name":"image_generation_graph_guide_two",
+            "value":"Connect the text and image nodes to the generator node.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Tap Generate to create content.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Tutorial",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Auto-save",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Enable auto-save?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Images generated by AI will be saved automatically to Gallery > Smart canvas.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Enable",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Images generated by AI will be saved automatically to Gallery > Smart canvas. You can turn this off later from the More menu.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Touch & hold an object to select it and cut it out.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Saved",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_fallback_line_spacing",
+            "value":"false"
+        },
+        {
+            "name":"image_generation_navigation_previewer",
+            "value":"Global preview"
+        },
+        {
+            "name": "sidebarcontainer_shown",
+            "value": "Show Sidebar"
+        },
+        {
+            "name": "sidebarcontainer_hidden",
+            "value": "Hide Sidebar"
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"Examples",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"Profile picture",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"Sticker",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"Magazine cover",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"Travel diary",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_photo_try",
+            "value":"Try uploading your own images.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"Current images and descriptions will be replaced",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"Images and descriptions currently on the canvas will be replaced by the example. Proceed anyway?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_compare_original",
+            "value":"Compare with the original image"
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"The creation is complete"
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"Click to view the creation result"
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"Delete this canvas?"
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"This will delete this canvas and all nodes within it. This action cannot be undone."
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"Add text descriptions for more precise results."
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"Exit multi-select"
+        }
     ]
 }

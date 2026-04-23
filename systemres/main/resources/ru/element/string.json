@@ -36,6 +36,62 @@
             }
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"Попробуйте выгрузить свои изображения.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"Примеры",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"Обложка журнала",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"Путевые заметки",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"Фото профиля",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"Текущие изображения и описания будут заменены",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"Стикер",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"Текущие изображения и описания на холсте будут заменены примерами. Продолжить?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"Увеличить громкость",
             "attr":{
@@ -3074,6 +3130,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"Если выйти сейчас, ваша работа не будет сохранена.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"Жалоба на контент",
             "attr":{
@@ -3116,6 +3179,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Введите текст и нажмите Сгенерировать.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Нажмите на значок \"+\", чтобы добавить референс.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Нажмите здесь, чтобы начать рисовать.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Выберите стиль, соотношение сторон и качество.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Создавайте контент, соединяя блоки линиями. %s",
             "attr":{
@@ -3125,6 +3216,216 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"Нажмите на кнопку Сгенерировать на блоке генерации изображений, чтобы создать изображение. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"Нажмите, чтобы выбрать один блок, или проведите, чтобы выбрать несколько блоков.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"Водяной знак \"Сгенерировано ИИ\"",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"Ошибка сетевого соединения. Проверьте настройки сети.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"Выбрать процесс",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"Готово",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"Лассо",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"Выбрать несколько",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Переименовать",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Выберите область для изменения",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Без названия",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"Нет холстов",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"Новый холст",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Восстановить окно",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Увеличить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Загрузка холста...",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"Мои холсты",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Подключите блок текста и опишите изменения, которые нужно применить к выбранной области.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Нажмите дважды, чтобы активировать. Дважды нажмите и удерживайте для открытия меню опций. Дважды нажмите и удерживайте, затем проведите влево, чтобы отобразить дополнительные опции.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Проведите в сторону двумя пальцами, чтобы скрыть дополнительные опции.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Соедините блоки текста и изображений с блоком генерации.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Используйте блоки шаблонов, изображений, текста или генерации для более удобной работы.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Включить автосохранение?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Включить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Нажмите на объект и удерживайте, чтобы выбрать и вырезать его.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Сохранено",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Нажмите Сгенерировать, чтобы создать контент.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Автосохранение",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Обучение",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Изображения, сгенерированные ИИ, будут автоматически сохраняться в альбом Умный холст приложения Галерея. Вы можете выключить эту функцию позже в меню Еще.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Изображения, сгенерированные ИИ, будут автоматически сохраняться в альбом Умный холст приложения Галерея.",
             "attr":{
                 "priority":"translate"
             }

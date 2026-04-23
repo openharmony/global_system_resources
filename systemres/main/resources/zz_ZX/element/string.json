@@ -225,6 +225,38 @@
             "value":"[TS_971305]_Volume automatically lowered"
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"[TS_1199492]_Try uploading your own images."
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"[TS_1199493]_Examples"
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"[TS_1199491]_Magazine cover"
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"[TS_1199490]_Travel diary"
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"[TS_1199494]_Profile picture"
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"[TS_1199495]_Current images and descriptions will be replaced"
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"[TS_1199489]_Sticker"
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"[TS_1199496]_Images and descriptions currently on the canvas will be replaced by the example. Proceed anyway?"
+        },
+        {
             "name":"ohos_id_notification_restore_volume_context",
             "value":"[TS_971307]_Listening at high volumes for a long time can damage your hearing."
         },
@@ -2449,6 +2481,10 @@
             "value":"[TS_1184894]_Tap an image, then use two fingers to zoom, rotate, or adjust its position. The selected image will be brought to the front."
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"[TS_1183929]_Your work will be lost if you exit now."
+        },
+        {
             "name":"image_generation_report_content",
             "value":"[TS_1183927]_Report content"
         },
@@ -2477,12 +2513,148 @@
             "value":"[TS_1184883]_Learn more"
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"[TS_1190737]_Enter some text and then tap Generate."
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"[TS_1185248]_Tap \"+\" to add a reference image."
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"[TS_1185247]_Tap here to start doodling."
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"[TS_1185249]_Set a style, aspect ratio, and quality."
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"[TS_1184881]_Create on the canvas by connecting nodes with lines. %s"
         },
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"[TS_1184882]_Tap the Generate button on the image generator node to create an image. %s"
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"[TS_1186541]_Tap to select a single node, or swipe to select multiple nodes."
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"[TS_1186535]_AI-generated watermark"
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"[TS_1186536]_Network connection error. Check your network settings."
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"[TS_1186537]_Select workflow"
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"[TS_1186538]_Done"
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"[TS_1186540]_Lasso"
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"[TS_1186539]_Select multiple"
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"[TS_1188474]_Rename"
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"[TS_1187773]_Select an area to adjust"
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"[TS_1187775]_Untitled canvas"
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"[TS_1187766]_No canvas"
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"[TS_1187769]_New canvas"
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"[TS_1187772]_Restore window"
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"[TS_1187768]_Enlarge"
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"[TS_1187774]_Loading canvas…"
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"[TS_1187777]_My canvases"
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"[TS_1187770]_Connect a text node and write a description of how you want to alter the selected area."
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"[TS_1187771]_%s. Double-tap to activate. Double-tap and hold to open the options menu. Double-tap and hold, then swipe left for additional operations."
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"[TS_1187776]_%s. Swipe sideways with two fingers to hide additional operations."
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"[TS_1194566]_Connect the text and image nodes to the generator node."
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"[TS_1194571]_Add templates, images, text, or generator nodes to aid you."
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"[TS_1194573]_Enable auto-save?"
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"[TS_1194574]_Enable"
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"[TS_1194564]_Touch & hold an object to select it and cut it out."
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"[TS_1194569]_Saved"
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"[TS_1194570]_Tap Generate to create content."
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"[TS_1194572]_Auto-save"
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"[TS_1194568]_Tutorial"
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"[TS_1194567]_Images generated by AI will be saved automatically to Gallery > Smart canvas. You can turn this off later from the More menu."
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"[TS_1194565]_Images generated by AI will be saved automatically to Gallery > Smart canvas."
         }
     ]
 }

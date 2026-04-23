@@ -36,6 +36,62 @@
             }
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"Cuba memuat naik imej anda sendiri.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"Contoh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"Kulit majalah",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"Diari pelancongan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"Gambar profil",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"Imej dan penerangan semasa akan digantikan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"Pelekat",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"Imej dan penerangan di kanvas pada masa ini akan digantikan oleh contoh. Teruskan juga?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"Naikkan kelantangan",
             "attr":{
@@ -3032,6 +3088,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"Karya anda akan hilang jika anda keluar sekarang.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"Laporkan kandungan",
             "attr":{
@@ -3074,6 +3137,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Masukkan sesetengah teks kemudian ketik Janakan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Ketik \"+\" untuk menambah imej rujukan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Ketik sini untuk memulakan coretan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Tetapkan gaya, nisbah aspek, dan kualiti.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Cipta pada kanvas dengan menyambungkan nod dengan garisan. %s",
             "attr":{
@@ -3083,6 +3174,216 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"Ketik butang Janakan di nod penjana imej untuk mencipta imej. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"Ketik untuk memilih nod tunggal, atau leret untuk memilih berbilang nod.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"Tera air dijanakan AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"Ralat sambungan rangkaian. Periksa tetapan rangkaian anda.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"Pilih aliran kerja",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"Selesai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"Lasso",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"Pilih berbilang",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Namakan semula",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Pilih bahagian untuk dilaraskan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Kanvas tanpa tajuk",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"Tiada kanvas",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"Kanvas baru",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Pulihkan tetingkap",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Besarkan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Memuatkan kanvas…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"Kanvas saya",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Sambungkan nod teks dan tulis deskripsi untuk cara anda ingin mengubah bahagian dipilih.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Dwiketik untuk mengaktifkan. Dwiketik dan tahan untuk membuka menu pilihan. Dwiketik dan tahan, kemudian leret ke kiri untuk operasi tambahan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Leret ke sisi dengan dua jari untuk menyembunyikan operasi tambahan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Sambungkan nod teks dan imej ke nod penjana.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Tambah templat, imej, teks atau nod penjana untuk membantu anda.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Dayakan auto-simpan?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Dayakan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Sentuh & tahan objek untuk memilihnya dan potong objek tersebut.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Disimpan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Ketik Janakan untuk mencipta kandungan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Auto-simpan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Tutorial",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Imej yang dijana oleh AI akan disimpan secara automatik ke Galeri > Kanvas pintar. Anda boleh mematikannya kemudian daripada menu Lagi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Imej yang dijana oleh AI akan disimpan secara automatik ke Galeri > Kanvas pintar.",
             "attr":{
                 "priority":"translate"
             }

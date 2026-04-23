@@ -36,6 +36,62 @@
             }
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"Spróbuj przesłać własne obrazy.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"Przykłady",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"Okładka magazynu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"Dziennik podróży",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"Zdjęcie profilowe",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"Obecne obrazy i opisy zostaną zastąpione",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"Naklejka",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"Obrazy i opisy znajdujące się obecnie na kanwie zostaną zastąpione przez treści przykładowe. Kontynuować mimo to?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"Podnieś poziom głośności",
             "attr":{
@@ -3032,6 +3088,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"Jeśli teraz wyjdziesz, praca nie zostanie zapisana.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"Zgłoś treści",
             "attr":{
@@ -3074,6 +3137,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Wprowadź tekst, a następnie dotknij polecenia Generuj.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Stuknij „+”, aby dodać obraz wzorcowy.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Kliknij tutaj, aby zacząć szkicować odręcznie.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Ustaw styl, współczynnik proporcji i jakość.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Twórz na kanwie, łącząc węzły liniami. %s",
             "attr":{
@@ -3083,6 +3174,216 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"Dotknij przycisku Generuj w opcjach generatora obrazów, aby utworzyć obraz. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"Dotknij, aby wybrać jeden węzeł, albo przeciągnij, aby wybrać ich wiele.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"Znak wodny „Wygenerowane przez AI”",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"Błąd połączenia sieciowego. Sprawdź ustawienia sieci.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"Wybierz proces",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"Gotowe",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"Lasso",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"Wybierz wiele",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Zmień nazwę",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Zaznacz obszar do dostosowania",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Podłoże bez nazwy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"Brak podłoży",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"Nowe podłoże",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Przywróć okno",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Powiększ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Wczytywanie podłoża…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"Moje podłoża",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Połącz węzeł źródłowy i wprowadź opis tego, jak chcesz zmienić wybrany obszar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Stuknij dwukrotnie, aby aktywować. Stuknij dwukrotnie i przytrzymaj, aby otworzyć menu opcji. Stuknij dwukrotnie i przytrzymaj, a następnie przeciągnij w lewo, aby wyświetlić dodatkowe działania.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Przeciągnij dwoma palcami w bok, aby ukryć dodatkowe działania.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Połącz węzły tekstu i obrazów z węzłem generatora.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Dodaj szablony, obrazy, tekst lub węzły generatora jako pomoc.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Włączyć zapisywanie automatyczne?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Włącz",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Dotknij i przytrzymaj obiekt, aby go zaznaczyć i wyciąć.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Zapisano",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Dotknij opcji Generuj, aby stworzyć treść.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Zapisuj automatycznie",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Samouczek",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Obrazy generowane przez AI będą automatycznie zapisywane w folderze Galeria > Inteligentna kanwa. Można później wyłączyć tę opcję w menu Więcej.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Obrazy generowane przez AI będą automatycznie zapisywane w folderze Galeria > Inteligentna kanwa.",
             "attr":{
                 "priority":"translate"
             }

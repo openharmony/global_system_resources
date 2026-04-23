@@ -736,6 +736,62 @@
             }
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"သင့်ပုံများကို အပ်လုဒ်လုပ်ကြည့်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"နမူနာများ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"မဂ္ဂဇင်း ကာဗာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"ခရီးသွားဒိုင်ယာရီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"ပရိုဖိုင်းပုံ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"လက်ရှိ ရှိနေသော ပုံများနှင့် ဖော်ပြချက်များကို အစားထိုးသွားပါမည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"စတစ်ကာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"ကင်းဗက်စ်များတွင် လက်ရှိ ရှိနေသော ပုံများနှင့် ဖော်ပြချက်များကို နမူနာအတိုင်း အစားထိုးသွားပါမည်။ မည်သို့ပင်ဖြစ်စေ ဆက်လုပ်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"Fifth_counter_accessibility_text",
             "value":"ငါး",
             "attr":{
@@ -3032,6 +3088,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"ယခုထွက်လိုက်လျှင် သင် ရေးဆွဲထားသည့်အလုပ် ပျက်သွားပါမည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"အကြောင်းအရာကို ရီပို့(တ်)လုပ်ရန်",
             "attr":{
@@ -3074,6 +3137,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"စာသားတချို့ ထည့်ပြီးနောက် ဖန်တီးထုတ်လုပ်ရန်ကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"ပုံအကိုးအကား ထည့်ရန် \"+\" ကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Doodle စဆွဲရန် ဤနေရာကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"စတိုင်၊ ရှုထောင့်အချိုးနှင့် အရည်အသွေးကို သတ်မှတ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Node များကို မျဉ်းကြောင်းများနှင့် ချိတ်ဆက်ခြင်းဖြင့် ကင်းဗက်စ်ပေါ်တွင် ဖန်တီးလိုက်ပါ။ %s",
             "attr":{
@@ -3083,6 +3174,220 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"ပုံဖန်တီးရန် ပုံဖန်တီးထုတ်လုပ်ရေး Node ပေါ်ရှိ ဖန်တီးထုတ်လုပ်ရန် ခလုတ်ကို နှိပ်ပါ။ %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"Node တစ်ခုတည်း ရွေးရန် နှိပ်ပါ သို့မဟုတ် Node တစ်ခုထက်ပို၍ ရွေးရန် ပွတ်ဆွဲပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"AI ဖြင့် ဖန်တီးထုတ်လုပ်ထားသော ရေစာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"ကွန်ရက် ချိတ်ဆက်မှု ချို့ယွင်းချက်။ သင့်ကွန်ရက် ဆက်တင်ကို စစ်ဆေးပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"Workflow ရွေးချယ်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"ပြီးပါပြီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"Lasso",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"တစ်ခုထက် ပိုရွေးရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"အမည်ပြန်ပေးရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"ချိန်ညှိမည့်နေရာကို ရွေးချယ်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"ခေါင်းစဉ်မတပ်ထားသော ကင်းဗက်စ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"ကင်းဗက်စ် မရှိပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"ကင်းဗက်စ်အသစ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"ဝင်းဒိုးကို မူလအတိုင်း ပြန်ထားရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"ချဲ့ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"ကင်းဗက်စ် လုပ်ဆောင်နေဆဲ…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"ကျွန်ုပ်၏ ကင်းဗက်စ်များ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"စာသား Node တစ်ခုနှင့် ချိတ်ဆက်ပြီး ရွေးထားသည့် နေရာကို ပြင်စေလိုသည့်ပုံစံအကြောင်း ရှင်းလင်းဖော်ပြချက် ရေးသားပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. သက်ဝင်လုပ်ဆောင်ရန် နှစ်ချက်နှိပ်ပါ။ ရွေးချယ်စရာ မီနျူးကို ဖွင့်ရန် နှစ်ချက်နှိပ်ပြီး ဖိထားပါ။ ထပ်တိုးဆောင်ရွက်မှုများအတွက် နှစ်ချက်နှိပ်ပြီး ဖိထားပါ၊ ထို့နောက် ဘယ်ဘက်သို့ ပွတ်ဆွဲပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. ထပ်တိုးဆောင်ရွက်မှုများကို ဝှက်ရန် လက်နှစ်ချောင်းဖြင့် ဘေးတိုက် ပွတ်ဆွဲပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_fallback_line_spacing",
+            "value":"true"
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"စာသားနှင့် ရုပ်ပုံ Node များကို ဖန်တီးထုတ်လုပ်ရေး Node နှင့် ချိတ်ဆက်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"သင့်ကို ကူညီမည့် နမူနာပုံစံများ၊ ရုပ်ပုံများ၊ စာသား သို့မဟုတ် ဖန်တီးထုတ်လုပ်ရေး Node များ ထည့်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"အော်တို သိမ်းဆည်းရန်ကို ဖွင့်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"ဖွင့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"ပုံထဲမှအရာတစ်ခုကို ရွေးချယ်ပြီး ဖြတ်ထုတ်ရန်အတွက် ၎င်းကို နှိပ်၍ ဖိထားပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"သိမ်းပြီး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"အကြောင်းအရာ ဖန်တီးရန်အတွက် ဖန်တီးထုတ်လုပ်ရန်ကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"အော်တို သိမ်းဆည်းရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"ကျူတိုရီရယ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"AI ဖြင့် ဖန်တီးထုတ်လုပ်ထားသော ပုံများကို ပုံပြခန်း > စမတ် ကင်းဗက်စ်တွင် အော်တို သိမ်းဆည်းပါမည်။ နောက်ထပ် မီနျူးမှတစ်ဆင့် ၎င်းကို နောက်မှပိတ်နိုင်သည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"AI ဖြင့် ဖန်တီးထုတ်လုပ်ထားသော ပုံများကို ပုံပြခန်း > စမတ် ကင်းဗက်စ်တွင် အော်တို သိမ်းဆည်းပါမည်။",
             "attr":{
                 "priority":"translate"
             }

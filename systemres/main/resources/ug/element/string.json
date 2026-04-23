@@ -659,6 +659,62 @@
             }
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"ئۆزىڭىزنىڭ رەسىمىنى يۈكلەپ سىناپ بېقىڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"ئۆرنەك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"ژۇرنال مۇقاۋىسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"سەپەر خاتىرىسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"باش سۈرەت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"مەزمۇن ئالمىشىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"چاپلاق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"نۆۋەتتىكى رەسىم ۋە يېزىق قاتارلىقلار مىسال مەزمۇنغا ئالمىشىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"ئۈنلۈكلىتىش",
             "attr":{
@@ -3039,6 +3095,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"ئەتسىڭىز، نۆۋەتتىكى رەسىم قۇرۇش ئېقىمى ئۈزۈلۈپ قالىدۇ، قۇرغان مەزمۇن ساقلانمايدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"پاش قىلىش",
             "attr":{
@@ -3081,6 +3144,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"تېكىست قوشۇپ، «قۇرۇش» نى چېكىڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"بۇ + نى بېسىپ پايدىلانما رەسىم قوشىسىز.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"بۇ يەردىن سىزما قوشۇپ ئەسەر ئىشلەيسىز.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"بۇ يەردىن ئۇسلۇب، بوي نىسبىتى ۋە سۈزۈكلۈك تاللايسىز.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"تۈگۈنلەرنى سىزىق بىلەن تۇتاشتۇرۇپ AI ئارقىلىق رەسىم قۇرۇشقا بولىدۇ. %s",
             "attr":{
@@ -3090,6 +3181,216 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"قۇرغۇچ تۈگۈنىدىكى قۇرۇش كۇنۇپكىسىنى چەكسىڭىز ئىش پۈتىدۇ. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"چېكىپ بىر تۈگۈن، سىيرىپ كۆپ تۈگۈن تاللايسىز.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"‏AI ئىشلىگەنلىك بەلگىسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"تور ئۈزۈلگەن، تور تەڭشىكىنى تەكشۈرۈڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"ئىش ئېقىمى تاللاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"پۈتتى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"ئارقان",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"كۆپ تاللاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"نام ئۆزگەرتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"تەڭشەيدىغان دائىرە تاللاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"نامسىز تەگ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"تەگ يوق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"تەگ قۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"يىغىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"يېيىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"تەگ يۈكلىنىۋاتىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"تەگلىرىم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"تېكىست تۈگۈنىنى ئۇلاپ، دائىرىنى قانداق ئۆزگەرتىشنى چۈشەندۈرۈڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"‏%s، بىر بارماقتا قوش چەكسىڭىز يۈرگۈزۈلىدۇ، قوش بېسىپ تۇرسىڭىز باشقا تاللانمىلار كۆرۈنىدۇ، قوش بېسىپ تۇرۇپ ئوڭغا سىيرىپ باشقا مەشغۇلات يۈرگۈزىسىز",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"‏%s، ئىككى بارماقتا يانغا سىيرىسىڭىز باشقا تاللانمىلار يوشۇرۇنىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"تېكىست ۋە رەسىمنى قۇرغۇچقا ئۇلاڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"قېلىپ، رەسىم، تېكىست ياكى تۈگۈن قوشۇپ مەزمۇن ئىشلەڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"ئۆزلۈكىدىن ساقلاشنى ئاچامسىز؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"ئېچىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"ئوبيېكتنى بېسىپ تۇرۇپ تاللاپ قىيىشقا بولىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"ساقلىغان",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"«قۇرۇش» نى چېكىپ مەزمۇن ئىشلەيسىز.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"ئۆزلۈكىدىن ساقلاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"ئىشلىتىش كۆرسەتمىسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"ئۆزلۈكىدىن ساقلاش ئىقتىدارىنى ئاچسىڭىز، AI ئىشلىگەن رەسىملەر ئۆزلۈكىدىن ئامبار > ئىلھاملىق قۇرغۇچ دېگەن ئورۇنغا ساقلىنىدۇ. بۇ تاللانمىنى باشقىلار > ئۆزلۈكىدىن ساقلاش دېگەن ئورۇندىن ئۆزگەرتەلەيسىز.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"ئۆزلۈكىدىن ساقلاش ئىقتىدارىنى ئاچسىڭىز، AI ئىشلىگەن رەسىملەر ئۆزلۈكىدىن ئامبار > ئىلھاملىق قۇرغۇچ دېگەن ئورۇنغا ساقلىنىدۇ.",
             "attr":{
                 "priority":"translate"
             }

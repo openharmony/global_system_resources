@@ -36,6 +36,62 @@
             }
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"حاول رفع صورك الخاصة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"النماذج",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"غلاف مجلة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"مذكرات السفر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"صورة الحساب الشخصي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"ستُستبدل الصور والأوصاف الحالية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"ملصق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"ستُستبدل الصور والأوصاف الموجودة حاليًا على اللوحة بالنموذج. هل حقًا تريد المتابعة؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"رفع مستوى الصوت",
             "attr":{
@@ -3071,6 +3127,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"لن يتم حفظ عملك في حال الخروج الآن.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"الإبلاغ عن محتوى",
             "attr":{
@@ -3106,6 +3169,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"أدخل نصًا ثم انقر على إنشاء.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"انقر على \"+\" لإضافة صورة مرجعية.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"انقر هنا لبدء العبث.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"عيّن النمط والأبعاد والجودة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_guide_learn_more",
             "value":"معرفة المزيد",
             "attr":{
@@ -3122,6 +3213,220 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"انقر على زر إنشاء الموجود على عقدة مولد الصور لإنشاء صورة. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"انقر لتحديد عُقدة واحدة، أو اسحب لتحديد عدة عُقد.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"العلامة المائية \"مُنشأة بواسطة الذكاء الاصطناعي\"",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"مشكلة في اتصال الشبكة، تحقق من إعدادات الشبكة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"تحديد سير العمل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"تم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"أداة التحديد الحر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"تحديد متعدد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"إعادة التسمية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"حدد منطقة لضبطها",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"لوحة بدون عنوان",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"لا توجد لوحات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"لوحة جديدة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"استعادة النافذة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"تكبير",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"جارٍ تحميل اللوحة…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"لوحاتي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"صِل عُقدة نصية واكتب وصفًا لكيفية تغيير المنطقة المحددة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. انقر مرتين للتفعيل. انقر مرتين واضغط مطولًا لفتح قائمة الخيارات. انقر مرتين واضغط مطولًا، ثم اسحب لليمين لعمليات إضافية.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. اسحب على الجانب بإصبعين لإخفاء العمليات الإضافية.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_fallback_line_spacing",
+            "value":"true"
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"وصّل عُقد النصوص والصور بعُقدة المولد.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"أضف القوالب أو الصور أو النصوص أو عُقد المولد لمساعدتك.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"هل تريد تشغيل الحفظ التلقائي؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"تشغيل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"انقر مطولًا على عنصرٍ ما لاقتصاصه.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"تم الحفظ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"انقر على \"إنشاء\" لإنشاء محتوى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"الحفظ التلقائي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"الإرشادات التعليمية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"ستُحفظ الصور المُنشئة بواسطة الذكاء الاصطناعي تلقائيًا في \"المعرض > لوحة رسم ذكية\". يمكنك إيقاف تشغيل هذا لاحقًا من قائمة \"المزيد\".",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"ستُحفظ الصور المُنشئة بواسطة الذكاء الاصطناعي تلقائيًا في \"المعرض > لوحة رسم ذكية\".",
             "attr":{
                 "priority":"translate"
             }

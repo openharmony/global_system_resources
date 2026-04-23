@@ -36,6 +36,62 @@
             }
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"Hãy thử tải lên hình ảnh của riêng bạn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"Ví dụ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"Bìa tạp chí",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"Nhật ký du lịch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"Ảnh hồ sơ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"Hình ảnh và mô tả hiện tại sẽ được thay thế",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"Hình dán",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"Các hình ảnh và mô tả hiện có trên khung vẽ sẽ được thay thế bằng ví dụ. Vẫn tiếp tục?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"Tăng âm lượng",
             "attr":{
@@ -1731,7 +1787,7 @@
         },
         {
             "name":"due_control_form",
-            "value":"Nội dung tiện ích không có sẵn. Chờ cập nhật ứng dụng.",
+            "value":"Nội dung tiện ích không có sẵn. Hãy chờ cập nhật ứng dụng.",
             "attr":{
                 "priority":"translate"
             }
@@ -3074,6 +3130,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"Công việc của bạn sẽ bị mất nếu bạn thoát ngay bây giờ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"Báo cáo nội dung",
             "attr":{
@@ -3116,6 +3179,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"Nhập văn bản rồi chạm vào Tạo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"Chạm vào \"+\" để thêm hình ảnh tham chiếu.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"Chạm vào đây để bắt đầu vẽ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"Đặt phong cách, tỷ lệ khung hình và chất lượng.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"Tạo trên khung vẽ bằng cách kết nối các nút bằng các đường thẳng. %s",
             "attr":{
@@ -3125,6 +3216,216 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"Chạm vào nút Tạo trên trình tạo ảnh để tạo ảnh. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"Chạm để chọn một nút hoặc vuốt để chọn nhiều nút.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"Hình chìm mờ do AI tạo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"Lỗi kết nối mạng. Hãy kiểm tra các cài đặt mạng của bạn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"Chọn quy trình làm việc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"Xong",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"Chọn tự do",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"Chọn nhiều mục",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"Đổi tên",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"Chọn vùng cần điều chỉnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"Khung vẽ không tên",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"Không có khung vẽ nào",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"Khung vẽ mới",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"Khôi phục cửa sổ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"Phóng to",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"Đang tải khung vẽ…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"Khung vẽ của tôi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"Kết nối một nút văn bản và viết mô tả về cách bạn muốn thay đổi vùng đã chọn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. Chạm đúp để kích hoạt. Chạm đúp và giữ để mở menu tùy chọn. Chạm đúp và giữ, sau đó vuốt sang trái để thực hiện các thao tác bổ sung.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. Dùng 2 ngón tay vuốt ngang để ẩn các thao tác bổ sung.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Kết nối các nút văn bản và hình ảnh với nút tạo nội dung.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Thêm các mẫu, hình ảnh, văn bản hoặc nút tạo nội dung để hỗ trợ bạn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Bật tự động lưu?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Bật",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Chạm và giữ một đối tượng để chọn và tách đối tượng đó ra.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Đã lưu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Chạm vào Tạo để tạo nội dung.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Tự động lưu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Hướng dẫn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Hình ảnh do AI tạo ra sẽ tự động được lưu vào Bộ sưu tập > Khung vẽ thông minh. Bạn có thể tắt tùy chọn này sau từ menu Thêm.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Hình ảnh do AI tạo ra sẽ tự động được lưu vào Bộ sưu tập > Khung vẽ thông minh.",
             "attr":{
                 "priority":"translate"
             }

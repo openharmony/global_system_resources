@@ -582,6 +582,62 @@
             }
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"ລອງອັບໂຫຼດຮູບພາບຂອງທ່ານເອງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"ຕົວຢ່າງ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"ໜ້າປົກວາລະສານ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"ບັນທຶກການເດີນທາງ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"ຮູບໂປຣໄຟລ໌",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"ຮູບພາບ ແລະ ຄຳອະທິບາຍປະຈຸບັນຈະຖືກປ່ຽນແທນ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"ສະຕິກເກີ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"ຮູບພາບ ແລະ ຄຳອະທິບາຍທີ່ຢູ່ໃນແຜ່ນແຕ້ມໃນປະຈຸບັນຈະຖືກປ່ຽນແທນໂດຍຕົວຢ່າງ. ແນວໃດກໍດຳເນີນຕໍ່ບໍ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"Fifth_counter_accessibility_text",
             "value":"ທີຫ້າ",
             "attr":{
@@ -3032,6 +3088,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"ວຽກຂອງທ່ານຈະສູນເສຍ ຖ້າທ່ານອອກຕອນນີ້.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"ລາຍງານເນື້ອຫາ",
             "attr":{
@@ -3074,6 +3137,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"ປ້ອນບາງຂໍ້ຄວາມ ແລະ ຈາກນັ້ນແຕະ ສ້າງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"ແຕະ \"+\" ເພື່ອເພີ່ມຮູບພາບອ້າງອີງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"ແຕະບ່ອນນີ້ເພື່ອເລີ່ມຕົ້ນການຂີດຂຽນ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"ຕັ້ງຮູບແບບ, ອັດຕາສ່ວນດ້ານ ແລະ ຄຸນນະພາບ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_canvas_guide_first",
             "value":"ສ້າງເທິງແຜ່ນແຕ້ມໂດຍການເຊື່ອມຕໍ່ໂນດດ້ວຍເສັ້ນ. %s",
             "attr":{
@@ -3083,6 +3174,216 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"ແຕະປຸ່ມສ້າງເທິງໂນດຕົວສ້າງຮູບພາບເພື່ອສ້າງຮູບພາບ. %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"ແຕະເພື່ອເລືອກໂນດດຽວ ຫຼື ປັດເພື່ອເລືອກຫຼາຍໂນດ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"ເງົາພື້ນຫຼັງທີ່ສ້າງໂດຍ AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"ການເຊື່ອມຕໍ່ເຄືອຂ່າຍຂັດຂ້ອງ. ກວດເບິ່ງການຕັ້ງຄ່າເຄືອຂ່າຍຂອງທ່ານ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"ເລືອກຂັ້ນຕອນການເຮັດວຽກ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"ສໍາເລັດ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"ເສັ້ນຂີດ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"ເລືອກຫຼາຍອັນ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"ປ່ຽນຊື່",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"ເລືອກພື້ນທີ່ທີ່ຈະປັບ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"ແຄນວາສທີ່ບໍ່ມີຊື່",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"ບໍ່ມີແຄນວາສ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"ແຜ່ນແຕ້ມໃໝ່",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"ກູ້ຄືນໜ້າຈໍ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"ຂະຫຍາຍ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"ກຳລັງໂຫຼດແຄນວາສ…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"ແຄນວາສຂອງຂ້ອຍ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"ເຊື່ອມຕໍ່ກັບໂນດຂໍ້ຄວາມ ແລະ ຂຽນຄຳອະທິບາຍວ່າທ່ານຕ້ອງການດັດແປງພື້ນທີ່ທີ່ເລືອກແນວໃດ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s. ແຕະສອງຄັ້ງເພື່ອເປີດນຳໃຊ້. ແຕະສອງຄັ້ງແລ້ວຄ້າງໄວ້ ເພື່ອເປີດເມນູຕົວເລືອກ. ແຕະສອງຄັ້ງແລ້ວຄ້າງໄວ້, ຈາກນັ້ນປັດໄປຊ້າຍສຳລັບການດຳເນີນການເພີ່ມເຕີມ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s. ປັດໄປດ້ານຂ້າງດ້ວຍນິ້ວມືສອງນິ້ວເພື່ອເຊື່ອງການດຳເນີນການເພີ່ມເຕີມ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"ເຊື່ອມຕໍ່ໂນດຂໍ້ຄວາມ ແລະ ຮູບພາບກັບໂນດຕົວສ້າງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"ເພີ່ມແມ່ແບບ, ຮູບພາບ, ຂໍ້ຄວາມ ຫຼື ໂນດຕົວສ້າງເພື່ອຊ່ວຍທ່ານ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"ເປີດໃຊ້ງານບັນທຶກອັດຕະໂນມັດບໍ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"ເປີດໃຊ້ງານ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"ສຳຜັດສິ່ງຄ້າງໄວ້ ເພື່ອເລືອກມັນ ແລະ ຕັດມັນອອກ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"ບັນທຶກແລ້ວ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"ແຕະ ສ້າງ ເພື່ອສ້າງເນື້ອຫາ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"ບັນທຶກອັດຕະໂນມັດ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"ແນະນຳເພີ່ມ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"ຮູບພາບທີ່ສ້າງໂດຍ AI ຈະຖືກບັນທຶກໂດຍອັດຕະໂນມັດໃສ່ ແກເລີຣີ > ແຜ່ນແຕ້ມອັດສະລິຍະ. ທ່ານສາມາດປິດສິ່ງນີ້ໄດ້ພາຍຫຼັງຈາກເມນູເພີ່ມເຕີມ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"ຮູບພາບທີ່ສ້າງໂດຍ AI ຈະຖືກບັນທຶກໂດຍອັດຕະໂນມັດໃສ່ ແກເລີຣີ > ແຜ່ນແຕ້ມອັດສະລິຍະ.",
             "attr":{
                 "priority":"translate"
             }

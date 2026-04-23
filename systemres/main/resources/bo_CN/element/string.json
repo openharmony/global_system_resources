@@ -659,6 +659,62 @@
             }
         },
         {
+            "name":"image_generation_replace_photo_try",
+            "value":"རང་གི་པར་རིས་ལ་བརྗེས་ནས་ཚོད་ལྟ་བྱེད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"སློབ་ཁྲིད་དཔེར་བརྗོད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"དུས་དེབ་ཀྱི་མདུན་ཤོག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"ཡུལ་སྐོར་ཉིན་ཐོ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"མགོ་པར།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"མ་པར་གྱི་ཆ་འཕྲིན་བརྗེ་ངེས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"རྣམ་འགྱུར་ཁུག་མ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"སློབ་ཁྲིད་དཔེར་བརྗོད་ཉམས་ལེན་བྱས་ཚེ། མིག་སྔའི་པར་རིས་དང་ཡི་གེ་སྒྲིག་བཀོལ་བཅས་བརྗེ་ངེས། བརྗེ་རྒྱུ་གཏན་འཁེལ་ཡིན་ནམ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"སྒྲ་ཚད་མཐོ་རུ་གཏོང་བ།",
             "attr":{
@@ -3039,6 +3095,13 @@
             }
         },
         {
+            "name":"image_generation_exit_confirm_generating",
+            "value":"ཁ་བརྒྱབ་ཚེ་གསར་རྩོམ་ཉར་འཇོག་བྱེད་མི་ཐུབ། ཁ་བརྒྱབ་རྗེས་མིག་སྔའི་པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་བརྒྱུད་རིམ་མཚམས་འཇོག་ངེས། སྐྱེད་སྒྲུབ་བྱུང་ཟིན་པའི་ནང་དོན་ཉར་ཚགས་བྱེད་མི་ཐུབ། ཁ་རྒྱག་དགོས་སམ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_report_content",
             "value":"ནང་དོན་ཐེར་འདོན་",
             "attr":{
@@ -3074,6 +3137,34 @@
             }
         },
         {
+            "name":"image_generation_guide_add_generate",
+            "value":"ཡི་གེ་བསྣན་རྗེས། ༼སྐྱེད་སྒྲུབ་༽གནོན་མཐེབ་ལ་བརྡབས་ནས། གསར་རྩོམ་བྱེད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_image",
+            "value":"རྟགས་ + ལ་བརྡབས་ནས་པར་རིས་ཀྱི་དཔྱད་གཞི་སྣོན་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_graffiti",
+            "value":"བརྐོས་རིས་བསྣན་ནས་གསར་རྩོམ་བྱེད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_guide_add_options",
+            "value":"༼ཁྱད་ཆོས་༽དང་༼བསྡུར་ཚད་༽དང་༼གསལ་ཚད་༽བཅས་བདམས་ནས། སྡེབ་སྒྲིག་བྱེད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_guide_learn_more",
             "value":"དེ་བས་མང་བར་རྒྱུས་ལོན།",
             "attr":{
@@ -3090,6 +3181,220 @@
         {
             "name":"image_generation_canvas_guide_sixth",
             "value":"སྐྱེད་སྒྲུབ་ཆས་ཀྱི་ཚིགས་ཚེག་ཐོག་གི་༼སྐྱེད་སྒྲུབ་༽གནོན་མཐེབ་ལ་བརྡབས་ནས་གསར་རྩོམ་གནང་རོགས། %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_tip",
+            "value":"ག་ལེར་བརྡབས་ནས་ཚིགས་ཚེག་རྐྱང་པ་འདེམས། འདེད་འགུལ་བྱས་ནས་ཚིགས་ཚེག་མང་པོ་འདེམས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_composite_label",
+            "value":"AI འདྲེས་གྲུབ་མཚོན་རྟགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_network_connection_interrupted",
+            "value":"དྲ་རྒྱའི་སྦྲེལ་མཐུད་ཆད། དྲ་རྒྱའི་སྒྲིག་འགོད་ལ་ཞིབ་བཤེར་གནང་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_select_workflow",
+            "value":"ལས་རྒྱུན་འདེམས་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_complete",
+            "value":"གྲུབ་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_lasso",
+            "value":"ཞགས་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_guide_multiple_select",
+            "value":"མང་པོ་འདེམས་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rename",
+            "value":"བསྐྱར་དུ་མིང་འདོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_prompt",
+            "value":"སྙོམ་སྒྲིག་བྱེད་འདོད་པའི་ཁུལ་འདེམས་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_untitled_canvas",
+            "value":"མིང་བཏགས་མེད་པའི་འབྲི་རས་",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_no_canvas",
+            "value":"འབྲི་རས་མེད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_new_canvas",
+            "value":"འབྲི་རས་གསར་སྐྲུན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_extension",
+            "value":"རྒྱ་སྐྱེད་ལས་ཕྱིར་འཐེན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_extension",
+            "value":"རྒྱ་སྐྱེད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_canvas_loading",
+            "value":"འབྲི་རས་སྣོན་འཇུག་བྱེད་བཞིན་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_my_canvas",
+            "value":"ངའི་འབྲི་རས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_region_selection_operation_guidance",
+            "value":"ཡི་གེའི་ཚིགས་ཚེག་སྦྲེལ་རོགས། མ་ཟད་བདམས་ཁོངས་ཇི་ལྟར་བཟོ་བཅོས་བྱ་དགོས་ཚུལ་ཞིབ་བརྗོད་བྱོས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_tab_bar_description",
+            "value":"%s མཛུབ་མོ་གཅིག་གིས་ཉིས་རྡེབ་བྱས་ཏེ་སྟར་ཐུབ། ཉིས་རྡེབ་བྱས་ནས་མནན་ཚེ་གདམ་ག་དེ་ལས་མང་བ་འཕར་ཐོན་བྱེད། ཉིས་རྡེབ་བྱས་ནས་མནན་ཏེ་གཡོན་ལ་དེད་ན་སྒྲིག་བཀོལ་དེ་བས་མང་བ་བྱེད་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_hide_tab_bar_description",
+            "value":"%s མཛུབ་མོ་གཉིས་ཀྱིས་གཞོགས་ལ་དེད་ཚེ་སྒྲིག་བཀོལ་དེ་ལས་མང་བ་སྦེད་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"text_fallback_line_spacing",
+            "value":"true"
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"ཡི་གེ་དང་པར་རིས་སྐྱེད་སྒྲུབ་ཆས་ཀྱི་སྟེང་དུ་འབྲེལ་མཐུད་བྱེད་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"མ་དཔེ་སྣོན་པའམ་པར་རིས་དང་ཡི་གེ། སྐྱེད་སྒྲུབ་ཆས་ཀྱི་གནས་ཚེག་བསྣན་ནས་གསར་རྩོམ་བྱེད་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"རང་འགུལ་ཉར་ཚགས་ཀྱི་ཁ་ཕྱེ་རྒྱུ་ཡིན་ནམ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"ཁ་ཕྱེ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"གནོན་ཡུལ་ལ་ཡུན་རིང་མནན་ན་འདེམས་ཤིང་རིས་ལེན་བྱེད་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"ཉར་ཚགས་བྱས་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"༼སྐྱེད་སྒྲུབ་༽ཅེས་པའི་འཐེབ་གནོན་ལ་བརྡབས་ནས་གསར་རྩོམ་བྱེད།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"རང་འགུལ་ཉར་ཚགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"ལས་དང་པོ་བར་མཛུབ་སྟོན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"ཁ་ཕྱེ་རྗེས། AI སྐྱེད་སྒྲུབ་བྱས་པའི་པར་རིས་རང་འགུལ་གྱིས་༼པར་མཛོད་༽>༼ཚོར་བའི་གསར་རྩོམ་༽ཁྲོད་དུ་ཉར་ཚགས་བྱ་སྲིད། བདམས་རྗེས་༼དེ་ལས་མང་བ་༽>༼རང་འགུལ་ཉར་ཚགས་༽ཁྲོད་ནས་བཅོས་ཆོག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"ཁ་ཕྱེ་རྗེས། AI སྐྱེད་སྒྲུབ་བྱས་པའི་པར་རིས་རང་འགུལ་གྱིས་༼པར་མཛོད་༽>༼ཚོར་བའི་གསར་རྩོམ་༽ཁྲོད་དུ་ཉར་ཚགས་བྱ་སྲིད།",
             "attr":{
                 "priority":"translate"
             }
