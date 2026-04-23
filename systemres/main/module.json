@@ -7014,6 +7014,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.QUERY_CLI_TOOL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.EXEC_CLI_TOOL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.EXEMPT_MOTION_SENSORS_RESTRICTION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
