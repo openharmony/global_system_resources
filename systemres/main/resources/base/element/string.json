@@ -4099,12 +4099,18 @@
             "value":"Global preview"
         },
         {
-            "name": "sidebarcontainer_shown",
-            "value": "Show Sidebar"
+            "name":"sidebarcontainer_shown",
+            "value":"Sidebar expanded",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
-            "name": "sidebarcontainer_hidden",
-            "value": "Hide Sidebar"
+            "name":"sidebarcontainer_hidden",
+            "value":"Sidebar hidden",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_teach_example",

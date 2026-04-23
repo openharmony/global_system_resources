@@ -3429,6 +3429,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"サイドバーを展開済み",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"サイドバーを非表示にする",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

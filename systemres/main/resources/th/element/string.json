@@ -3391,6 +3391,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"ขยายแถบด้านข้างแล้ว",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"แถบด้านข้างถูกซ่อนไว้",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
