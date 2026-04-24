@@ -7176,6 +7176,16 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.kernel.LOAD_INDEPENDENT_CERTSIGN_LIBRARY_FOR_WEB",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
+            },
+            {
                 "name": "ohos.permission.QUERY_VOLUME_ENCRYPTION_STATUS",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
