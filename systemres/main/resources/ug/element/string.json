@@ -659,6 +659,55 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"ئەسلى رەسىم بىلەن سېلىشتۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"ئەسەر قۇرۇلۇپ بولدى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"بۇ يەرنى چېكىپ نەتىجىسىنى كۆرۈڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"بۇ تەگنى ئۆچۈرەمسىز؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"بۇ تەگ ۋە تەگدىكى بارلىق تۈگۈن ئۆچۈرۈلىدۇ، بۇ مەشغۇلاتتىن يانغىلى بولمايدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"تېكىست چۈشەندۈرۈش قوشسىڭىز، ئۈنۈم تېخىمۇ ئېنىق چىقىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"تاللاشتىن قالدۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_replace_photo_try",
             "value":"ئۆزىڭىزنىڭ رەسىمىنى يۈكلەپ سىناپ بېقىڭ.",
             "attr":{

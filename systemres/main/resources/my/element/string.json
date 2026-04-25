@@ -736,6 +736,55 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"မူရင်းပုံကို ကြည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"သင့်ပုံ အဆင်သင့်ဖြစ်ပါပြီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"ကြည့်ရန် ဤနေရာကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"ဤကင်းဗက်စ်ကို ဖျက်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"ကင်းဗက်စ်ရှိ Node အားလုံးကို ဖယ်ရှားသွားမည် ဖြစ်ပြီး လုပ်ဆောင်မှုကို ပြန်ဖျက်သိမ်း၍ မရနိုင်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"ပိုမိုတိကျသော ရလဒ်များရရှိစေရန် စာသားဖော်ပြချက် ထည့်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"ရွေးချယ်မှုများစွာမှ ထွက်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_replace_photo_try",
             "value":"သင့်ပုံများကို အပ်လုဒ်လုပ်ကြည့်ပါ။",
             "attr":{
