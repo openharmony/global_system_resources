@@ -7167,6 +7167,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MANAGE_SKILL_PRIVILEGE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_SKILL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_VOLUME_ENCRYPTION_POLICY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
