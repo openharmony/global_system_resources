@@ -659,6 +659,55 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"對比原圖",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"創作已完成",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"輕觸以檢視創作結果",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"刪除此畫布？",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"將刪除此畫布及內部所有節點，此操作無法撤銷。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"新增文字描述，建立效果會更精準",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"退出多選",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_replace_photo_try",
             "value":"取代成自己的圖試試",
             "attr":{

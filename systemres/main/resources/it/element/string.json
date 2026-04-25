@@ -36,6 +36,55 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"Visualizza originale",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"L'immagine è pronta",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"Tocca qui per visualizzare.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"Vuoi eliminare questa tela?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"Questa operazione rimuoverà tutti i nodi dalla tela e non potrà essere annullata.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"Aggiungi una descrizione del testo per ottenere risultati più precisi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"Esci dalla selezione multipla",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_replace_photo_try",
             "value":"Prova a caricare le tue immagini.",
             "attr":{

@@ -736,6 +736,55 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"Lihat yang asli",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"Gambar Anda sudah siap",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"Ketuk di sini untuk melihat.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"Hapus kanvas ini?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"Ini akan menghapus semua node dari kanvas dan tidak dapat diurungkan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"Tambahkan deskripsi teks untuk hasil yang lebih tepat.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"Keluar dari multipilihan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_replace_photo_try",
             "value":"Coba mengunggah gambar Anda sendiri.",
             "attr":{

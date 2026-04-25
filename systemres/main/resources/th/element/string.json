@@ -36,6 +36,55 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"ดูต้นฉบับ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"รูปภาพของคุณพร้อมแล้ว",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"แตะที่นี่เพื่อดู",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"ลบแคนวาสนี้หรือไม่",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"การดำเนินการนี้จะลบโหนดทั้งหมดออกจากแคนวาสและไม่สามารถยกเลิกได้",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"เพิ่มคำอธิบายข้อความเพื่อผลลัพธ์ที่แม่นยำยิ่งขึ้น",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"ออกจากการเลือกแบบหลายรายการ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_replace_photo_try",
             "value":"ลองอัปโหลดรูปภาพของคุณเอง",
             "attr":{

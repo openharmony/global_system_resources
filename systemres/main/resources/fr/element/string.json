@@ -36,6 +36,55 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"Voir l'original",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"Votre image est prête",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"Veuillez toucher ici pour afficher.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"Supprimer cette toile ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"Cela retirera tous les nœuds de la toile, cette opération est irréversible.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"Veuillez ajouter un texte de description pour des résultats plus précis.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"Quitter la sélection multiple",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_replace_photo_try",
             "value":"Vous pouvez essayer de transférer vos propres images.",
             "attr":{

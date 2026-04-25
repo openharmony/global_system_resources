@@ -4016,31 +4016,52 @@
         },
         {
             "name":"image_generation_compare_original",
-            "value":"对比原图"
+            "value":"对比原图",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_ai_generate_complete_for_liveview",
-            "value":"创作已完成"
+            "value":"创作已完成",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
-            "value":"点击查看创作结果"
+            "value":"点击查看创作结果",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_delete_graph_title",
-            "value":"是否删除此画布？"
+            "value":"是否删除此画布？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_delete_graph_description",
-            "value":"将删除此画布及内部所有节点，此操作无法撤销。"
+            "value":"将删除此画布及内部所有节点，此操作无法撤销。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_generate_toast",
-            "value":"添加文字描述，生成效果会更精准"
+            "value":"添加文字描述，生成效果会更精准",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_exit_multi_select",
-            "value":"退出多选"
+            "value":"退出多选",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

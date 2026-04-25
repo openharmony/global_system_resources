@@ -4164,31 +4164,52 @@
         },
         {
             "name":"image_generation_compare_original",
-            "value":"Compare with the original image"
+            "value":"View original",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_ai_generate_complete_for_liveview",
-            "value":"The creation is complete"
+            "value":"Your image is ready",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
-            "value":"Click to view the creation result"
+            "value":"Tap here to view.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_delete_graph_title",
-            "value":"Delete this canvas?"
+            "value":"Delete this canvas?",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_delete_graph_description",
-            "value":"This will delete this canvas and all nodes within it. This action cannot be undone."
+            "value":"This will remove all nodes from the canvas and cannot be undone.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_generate_toast",
-            "value":"Add text descriptions for more precise results."
+            "value":"Add a text description for more precise results.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_exit_multi_select",
-            "value":"Exit multi-select"
+            "value":"Exit multi-select",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
