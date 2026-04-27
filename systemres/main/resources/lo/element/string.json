@@ -582,6 +582,111 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"ເບິ່ງຕົ້ນສະບັບ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"ຮູບພາບຂອງທ່ານພ້ອມແລ້ວ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"ແຕະບ່ອນນີ້ເພື່ອເບິ່ງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"ລຶບແຄນວາສນີ້ບໍ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"ນີ້ຈະເອົາໂນດທັງໝົດອອກຈາກແຄນວາສ ແລະ ບໍ່ສາມາດຍົກເລີກໄດ້.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"ເພີ່ມຄຳອະທິບາຍຂໍ້ຄວາມສຳລັບຜົນຮັບທີ່ແນ່ນອນກວ່າ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"ອອກຈາກເລືອກຫຼາຍຢ່າງ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_photo_try",
+            "value":"ລອງອັບໂຫຼດຮູບພາບຂອງທ່ານເອງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"ຕົວຢ່າງ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"ໜ້າປົກວາລະສານ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"ບັນທຶກການເດີນທາງ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"ຮູບໂປຣໄຟລ໌",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"ຮູບພາບ ແລະ ຄຳອະທິບາຍປະຈຸບັນຈະຖືກປ່ຽນແທນ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"ສະຕິກເກີ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"ຮູບພາບ ແລະ ຄຳອະທິບາຍທີ່ຢູ່ໃນແຜ່ນແຕ້ມໃນປະຈຸບັນຈະຖືກປ່ຽນແທນໂດຍຕົວຢ່າງ. ແນວໃດກໍດຳເນີນຕໍ່ບໍ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"Fifth_counter_accessibility_text",
             "value":"ທີຫ້າ",
             "attr":{
@@ -3251,6 +3356,97 @@
         {
             "name":"image_generation_hide_tab_bar_description",
             "value":"%s. ປັດໄປດ້ານຂ້າງດ້ວຍນິ້ວມືສອງນິ້ວເພື່ອເຊື່ອງການດຳເນີນການເພີ່ມເຕີມ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"ເຊື່ອມຕໍ່ໂນດຂໍ້ຄວາມ ແລະ ຮູບພາບກັບໂນດຕົວສ້າງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"ເພີ່ມແມ່ແບບ, ຮູບພາບ, ຂໍ້ຄວາມ ຫຼື ໂນດຕົວສ້າງເພື່ອຊ່ວຍທ່ານ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"ເປີດໃຊ້ງານບັນທຶກອັດຕະໂນມັດບໍ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"ເປີດໃຊ້ງານ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"ສຳຜັດສິ່ງຄ້າງໄວ້ ເພື່ອເລືອກມັນ ແລະ ຕັດມັນອອກ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"ບັນທຶກແລ້ວ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"ແຕະ ສ້າງ ເພື່ອສ້າງເນື້ອຫາ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"ບັນທຶກອັດຕະໂນມັດ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"ແນະນຳເພີ່ມ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"ຮູບພາບທີ່ສ້າງໂດຍ AI ຈະຖືກບັນທຶກໂດຍອັດຕະໂນມັດໃສ່ ແກເລີຣີ > ແຜ່ນແຕ້ມອັດສະລິຍະ. ທ່ານສາມາດປິດສິ່ງນີ້ໄດ້ພາຍຫຼັງຈາກເມນູເພີ່ມເຕີມ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"ຮູບພາບທີ່ສ້າງໂດຍ AI ຈະຖືກບັນທຶກໂດຍອັດຕະໂນມັດໃສ່ ແກເລີຣີ > ແຜ່ນແຕ້ມອັດສະລິຍະ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"ຂະຫຍາຍແຖບດ້ານຂ້າງແລ້ວ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"ເຊື່ອງແຖບດ້ານຂ້າງແລ້ວ",
             "attr":{
                 "priority":"translate"
             }

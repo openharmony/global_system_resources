@@ -3213,6 +3213,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CONTROL_DEVICE",
+                "grantMode": "manual_settings",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_SECURITY_PRIVACY_CENTER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -4009,6 +4018,15 @@
                 "since": 12,
                 "deprecated": "",
                 "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.STYLUS_FRAME_BOOST",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": false,
                 "distributedSceneEnable": false
             },
             {
@@ -5649,6 +5667,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.MINORS_PROTECTION_UI",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.CHANGE_DEFAULT_APPLICATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -6792,7 +6819,7 @@
                 "name": "ohos.permission.vehicle.CAR_MODE_MANAGEMENT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": 24,
+                "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -6865,6 +6892,33 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 24,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.REVOKE_FILE_ACCESS_PERSIST",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_SHARED_FILE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_FILE_ACCESS_PERSIST",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -6960,6 +7014,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.QUERY_CLI_TOOL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.EXEC_CLI_TOOL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.EXEMPT_MOTION_SENSORS_RESTRICTION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -6990,7 +7062,7 @@
                 "name": "ohos.permission.ALLOW_ACCESSORY_ACCESS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": "26.0.0",
+                "since": 24,
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -7039,15 +7111,123 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+},
+            {
+                "name": "ohos.permission.EXECUTE_DISTRIBUTED_INTENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": true
             },
             {
-            "name": "ohos.permission.EXECUTE_DISTRIBUTED_INTENT",
-            "grantMode": "system_grant",
-            "availableLevel": "system_basic",
-            "since": 26,
-            "deprecated": "",
-            "provisionEnable": true,
-            "distributedSceneEnable": true
+                "name": "ohos.permission.ENTERPRISE_GET_INSTALLED_BUNDLE_LIST",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+			{
+				"name": "ohos.permission.ACCESS_SUPPORT_FEEDBACK",
+				"grantMode": "system_grant",
+				"availableLevel": "system_basic",
+				"since": "26.0.0",
+				"deprecated": "",
+				"provisionEnable": true,
+				"distributedSceneEnable": false
+			},
+			{
+				"name": "ohos.permission.ACCESS_SUPPORT_HELP",
+				"grantMode": "system_grant",
+				"availableLevel": "system_basic",
+				"since": "26.0.0",
+				"deprecated": "",
+				"provisionEnable": true,
+				"distributedSceneEnable": false
+			},
+            {
+                "name": "ohos.permission.GET_CALL_TRANSFER_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SUBSCRIBE_OUTDOOR_EXPLORATION_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_DIGITAL_IDENTITY_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_SKILL_PRIVILEGE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_SKILL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_VOLUME_ENCRYPTION_POLICY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.QUERY_VOLUME_ENCRYPTION_STATUS",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.kernel.AS_LDK_DRIVER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+              "name": "ohos.permission.ACCESS_INTIMATE_RELATION_INFO",
+              "grantMode": "system_grant",
+              "availableLevel": "system_basic",
+              "since": "26.0.0",
+              "deprecated": "",
+              "provisionEnable": true,
+              "distributedSceneEnable": false
             }
         ]
     }

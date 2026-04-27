@@ -8063,6 +8063,10 @@
                 {
                     "name": "selected_background_color_arc",
                     "value": "$color:ohos_id_color_text_highlight_bg_arc"
+                },
+                {
+                    "name": "popup_low_material_color",
+                    "value": "$color:comp_background_primary"
                 }
             ]
         },
@@ -8683,6 +8687,14 @@
                 {
                     "name": "side_bar_width",
                     "value": "$float:sidebarcontainer_width"
+                },
+                {
+                    "name": "side_bar_shown",
+                    "value": "$string:sidebarcontainer_shown"
+                },
+                {
+                    "name": "side_bar_hidden",
+                    "value": "$string:sidebarcontainer_hidden"
                 }
             ]
         },

@@ -39210,6 +39210,111 @@
             "type": "string",
             "name": "text_fallback_line_spacing",
             "order": 7764
-        }
+        },
+        {
+ 	        "type": "string",
+ 	        "name": "image_generation_navigation_previewer",
+ 	        "order": 7765
+ 	    },
+        {
+            "type": "string",
+            "name": "sidebarcontainer_shown",
+            "order": 7766
+        },
+        {
+            "type": "string",
+            "name": "sidebarcontainer_hidden",
+            "order": 7767
+        },
+        {
+            "type": "string",
+            "name": "image_generation_magazine_cover",
+            "order": 7768
+        },
+        {
+            "type": "string",
+            "name": "image_generation_travel_diary",
+            "order": 7769
+        },
+        {
+            "type": "string",
+            "name": "image_generation_replace_photo_try",
+            "order": 7770
+        },
+        {
+            "type": "string",
+            "name": "image_generation_generate_photo_message",
+            "order": 7771
+        },
+        {
+            "type": "string",
+            "name": "image_generation_experiential_learning",
+            "order": 7772
+        },
+        {
+            "type": "string",
+            "name": "image_generation_teach_example",
+            "order": 7773
+        },
+        {
+            "type": "string",
+            "name": "image_generation_profile_picture",
+            "order": 7774
+        },
+        {
+            "type": "string",
+            "name": "image_generation_emoji",
+            "order": 7775
+        },
+        {
+            "type": "color",
+            "name": "primary",
+            "order": 7776
+        },
+        {
+            "type": "color",
+            "name": "on_primary",
+            "order": 7777
+        },
+        {
+            "type": "color",
+            "name": "container",
+            "order": 7778
+        },
+        {
+            "type": "string",
+            "name": "image_generation_compare_original",
+            "order": 7779
+        },
+        {
+            "type": "string",
+            "name": "image_generation_ai_generate_complete_for_liveview",
+            "order": 7780
+        },
+        {
+            "type": "string",
+            "name": "image_generation_ai_generate_click_to_foreground_for_liveview",
+            "order": 7781
+        },
+        {
+ 	        "type": "string",
+ 	        "name":"image_generation_delete_graph_title",
+ 	        "order": 7782
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name":"image_generation_delete_graph_description",
+ 	        "order": 7783
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name":"image_generation_generate_toast",
+ 	        "order": 7784
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name":"image_generation_exit_multi_select",
+ 	        "order": 7785
+ 	    }
     ]
 }

@@ -36,6 +36,111 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"Orijinali görüntüle",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"Görseliniz hazır",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"Görüntülemek için buraya dokunun.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"Bu tuval silinsin mi?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"Bu işlem tuvalden tüm düğümleri kaldırır ve geri alınamaz.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"Daha kesin sonuçlar için bir metin açıklaması ekleyin.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"Çoklu seçimden çık",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_photo_try",
+            "value":"Kendi görsellerinizi karşıya yüklemeyi deneyin.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"Örnekler",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"Dergi kapağı",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"Seyahat günlüğü",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"Profil fotoğrafı",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"Mevcut görseller ve açıklamalar değiştirilecektir",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"Çıkartma",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"Tuvalde şu anda bulunan görseller ve açıklamalar örnekle değiştirilecektir. Yine de devam edilsin mi?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"Ses seviyesini yükselt",
             "attr":{
@@ -3251,6 +3356,97 @@
         {
             "name":"image_generation_hide_tab_bar_description",
             "value":"%s. Ek işlemleri gizlemek için iki parmağınızla yana kaydırın.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Metin ve görsel düğümlerini üretici düğümüne bağlayın.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Size yardımcı olması için şablonlar, görseller, metinler veya üretici düğümleri ekleyin.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Otomatik kaydetme etkinleştirilsin mi?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Etkinleştir",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Bir nesneyi seçmek ve kesmek için üzerine dokunup basılı tutun.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Kaydedildi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"İçerik oluşturmak için Oluştur düğmesine dokunun.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Otomatik kaydet",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Öğretici",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Yapay zeka tarafından oluşturulan görseller otomatik olarak Galeri > Akıllı tuval bölümüne kaydedilecektir. Bunu daha sonra Diğer menüsünden kapatabilirsiniz.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Yapay zeka tarafından oluşturulan görseller otomatik olarak Galeri > Akıllı tuval bölümüne kaydedilecektir.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"Kenar çubuğu genişletildi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"Kenar çubuğu gizlendi",
             "attr":{
                 "priority":"translate"
             }

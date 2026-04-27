@@ -36,6 +36,111 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"Original anzeigen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"Ihr Bild ist fertig",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"Zum Anzeigen hier antippen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"Diese Arbeitsfläche löschen?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"Dadurch werden alle Knoten von der Arbeitsfläche entfernt und dies kann nicht rückgängig gemacht werden.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"Fügen Sie eine Textbeschreibung für genauere Ergebnisse hinzu.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"Mehrfachauswahl beenden",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_photo_try",
+            "value":"Laden Sie Ihre eigenen Bilder hoch.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"Beispiele",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"Zeitschriften-Cover",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"Reisetagebuch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"Profilbild",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"Aktuelle Bilder und Beschreibungen werden bald ersetzt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"Sticker",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"Die aktuellen Bilder und Beschreibungen auf den Leinwänden werden durch das Beispiel ersetzt. Trotzdem fortfahren?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"Lautstärke erhöhen",
             "attr":{
@@ -3251,6 +3356,97 @@
         {
             "name":"image_generation_hide_tab_bar_description",
             "value":"%s. Streichen Sie mit zwei Fingern seitwärts, um weitere Vorgänge auszublenden.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Verbinden Sie die Text- und Bildknoten mit dem Generatorknoten.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Fügen Sie zur Unterstützung Vorlagen, Bilder, Text oder Generatorknoten hinzu.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Auto-Speichern aktivieren?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Aktivieren",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Halten Sie ein Objekt gedrückt, um es auszuwählen und auszuschneiden.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Gespeichert",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Tippen Sie auf Generieren, um Inhalte zu erstellen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Auto-Speichern",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Tutorial",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Von KI generierte Bilder werden automatisch unter Galerie > Intelligente Leinwand gespeichert. Sie können dies später im Mehr-Menü deaktivieren.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Von KI generierte Bilder werden automatisch unter Galerie > Intelligente Leinwand gespeichert.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"Seitenleiste eingeblendet",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"Seitenleiste ausgeblendet",
             "attr":{
                 "priority":"translate"
             }

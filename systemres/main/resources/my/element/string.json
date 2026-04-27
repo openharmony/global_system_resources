@@ -736,6 +736,111 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"မူရင်းပုံကို ကြည့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"သင့်ပုံ အဆင်သင့်ဖြစ်ပါပြီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"ကြည့်ရန် ဤနေရာကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"ဤကင်းဗက်စ်ကို ဖျက်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"ကင်းဗက်စ်ရှိ Node အားလုံးကို ဖယ်ရှားသွားမည် ဖြစ်ပြီး လုပ်ဆောင်မှုကို ပြန်ဖျက်သိမ်း၍ မရနိုင်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"ပိုမိုတိကျသော ရလဒ်များရရှိစေရန် စာသားဖော်ပြချက် ထည့်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"ရွေးချယ်မှုများစွာမှ ထွက်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_photo_try",
+            "value":"သင့်ပုံများကို အပ်လုဒ်လုပ်ကြည့်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"နမူနာများ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"မဂ္ဂဇင်း ကာဗာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"ခရီးသွားဒိုင်ယာရီ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"ပရိုဖိုင်းပုံ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"လက်ရှိ ရှိနေသော ပုံများနှင့် ဖော်ပြချက်များကို အစားထိုးသွားပါမည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"စတစ်ကာ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"ကင်းဗက်စ်များတွင် လက်ရှိ ရှိနေသော ပုံများနှင့် ဖော်ပြချက်များကို နမူနာအတိုင်း အစားထိုးသွားပါမည်။ မည်သို့ပင်ဖြစ်စေ ဆက်လုပ်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"Fifth_counter_accessibility_text",
             "value":"ငါး",
             "attr":{
@@ -3258,6 +3363,97 @@
         {
             "name":"text_fallback_line_spacing",
             "value":"true"
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"စာသားနှင့် ရုပ်ပုံ Node များကို ဖန်တီးထုတ်လုပ်ရေး Node နှင့် ချိတ်ဆက်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"သင့်ကို ကူညီမည့် နမူနာပုံစံများ၊ ရုပ်ပုံများ၊ စာသား သို့မဟုတ် ဖန်တီးထုတ်လုပ်ရေး Node များ ထည့်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"အော်တို သိမ်းဆည်းရန်ကို ဖွင့်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"ဖွင့်ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"ပုံထဲမှအရာတစ်ခုကို ရွေးချယ်ပြီး ဖြတ်ထုတ်ရန်အတွက် ၎င်းကို နှိပ်၍ ဖိထားပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"သိမ်းပြီး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"အကြောင်းအရာ ဖန်တီးရန်အတွက် ဖန်တီးထုတ်လုပ်ရန်ကို နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"အော်တို သိမ်းဆည်းရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"ကျူတိုရီရယ်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"AI ဖြင့် ဖန်တီးထုတ်လုပ်ထားသော ပုံများကို ပုံပြခန်း > စမတ် ကင်းဗက်စ်တွင် အော်တို သိမ်းဆည်းပါမည်။ နောက်ထပ် မီနျူးမှတစ်ဆင့် ၎င်းကို နောက်မှပိတ်နိုင်သည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"AI ဖြင့် ဖန်တီးထုတ်လုပ်ထားသော ပုံများကို ပုံပြခန်း > စမတ် ကင်းဗက်စ်တွင် အော်တို သိမ်းဆည်းပါမည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"ဘေးဘက်ဘားကို ဖြန့်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"ဘေးဘက်ဘားကို ဝှက်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

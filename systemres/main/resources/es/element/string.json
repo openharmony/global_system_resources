@@ -36,6 +36,111 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"Ver original",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"Tu imagen está lista",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"Pulsa aquí para ver.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"¿Eliminar este lienzo?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"Esta acción eliminará todos los nodos del lienzo y no se podrá deshacer.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"Añade una descripción de texto para obtener resultados más precisos.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"Salir de selección múltiple",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_photo_try",
+            "value":"Prueba a subir tus propias imágenes.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"Ejemplos",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"Portada de revista",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"Diario de viajes",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"Foto de perfil",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"Las imágenes y descripciones actuales se reemplazarán",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"Pegatina",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"Las imágenes y descripciones actuales del lienzo se reemplazarán por el ejemplo. ¿Continuar de todos modos?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"Subir volumen",
             "attr":{
@@ -3293,6 +3398,97 @@
         {
             "name":"image_generation_hide_tab_bar_description",
             "value":"%s. Desliza con dos dedos hacia los lados para ocultar las operaciones adicionales.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Conecta los nodos de texto e imagen al nodo generador.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Añade plantillas, imágenes, texto o nodos generadores para ayudarte.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"¿Habilitar guardado automático?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Habilitar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Mantén pulsado un objeto para seleccionarlo y recortarlo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Guardado",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Pulsa Generar para crear contenido.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Guardar automáticamente",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Tutorial",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Las imágenes generadas por IA se guardarán automáticamente en Galería > Lienzo inteligente. Puedes desactivar esta función más tarde desde el menú Más.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Las imágenes generadas por IA se guardarán automáticamente en Galería > Lienzo inteligente.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"Barra lateral expandida",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"Barra lateral oculta",
             "attr":{
                 "priority":"translate"
             }

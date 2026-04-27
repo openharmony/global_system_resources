@@ -36,6 +36,111 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"Lihat asal",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"Imej anda bersedia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"Ketik sini untuk melihat.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"Padamkan kanvas ini?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"Ini akan mengeluarkan semua nod dari kanvas dan tidak boleh dibuat asal.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"Tambah penerangan teks untuk hasil yang lebih tepat.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"Keluar dari multipilih",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_photo_try",
+            "value":"Cuba memuat naik imej anda sendiri.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"Contoh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"Kulit majalah",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"Diari pelancongan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"Gambar profil",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"Imej dan penerangan semasa akan digantikan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"Pelekat",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"Imej dan penerangan di kanvas pada masa ini akan digantikan oleh contoh. Teruskan juga?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"Naikkan kelantangan",
             "attr":{
@@ -3251,6 +3356,97 @@
         {
             "name":"image_generation_hide_tab_bar_description",
             "value":"%s. Leret ke sisi dengan dua jari untuk menyembunyikan operasi tambahan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"Sambungkan nod teks dan imej ke nod penjana.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"Tambah templat, imej, teks atau nod penjana untuk membantu anda.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"Dayakan auto-simpan?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"Dayakan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Sentuh & tahan objek untuk memilihnya dan potong objek tersebut.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"Disimpan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Ketik Janakan untuk mencipta kandungan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"Auto-simpan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"Tutorial",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"Imej yang dijana oleh AI akan disimpan secara automatik ke Galeri > Kanvas pintar. Anda boleh mematikannya kemudian daripada menu Lagi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"Imej yang dijana oleh AI akan disimpan secara automatik ke Galeri > Kanvas pintar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"Bar sisi dikembangkan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"Bar sisi disembunyikan",
             "attr":{
                 "priority":"translate"
             }

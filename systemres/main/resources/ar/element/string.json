@@ -36,6 +36,111 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"عرض الصورة الأصلية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"الصورة جاهزة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"انقر هنا لعرض النتائج.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"هل تريد حذف هذه اللوحة؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"سيؤدي هذا إلى إزالة جميع عُقد اللوحة ولن تتمكن من التراجع عن هذا الإجراء.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"يُرجى إضافة وصفًا نصيًا للحصول على نتائج أكثر دقة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"الخروج من التحديد المتعدد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_photo_try",
+            "value":"حاول رفع صورك الخاصة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"النماذج",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"غلاف مجلة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"مذكرات السفر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"صورة الحساب الشخصي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"ستُستبدل الصور والأوصاف الحالية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"ملصق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"ستُستبدل الصور والأوصاف الموجودة حاليًا على اللوحة بالنموذج. هل حقًا تريد المتابعة؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"رفع مستوى الصوت",
             "attr":{
@@ -3297,6 +3402,97 @@
         {
             "name":"text_fallback_line_spacing",
             "value":"true"
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"وصّل عُقد النصوص والصور بعُقدة المولد.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"أضف القوالب أو الصور أو النصوص أو عُقد المولد لمساعدتك.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"هل تريد تشغيل الحفظ التلقائي؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"تشغيل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"انقر مطولًا على عنصرٍ ما لاقتصاصه.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"تم الحفظ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"انقر على \"إنشاء\" لإنشاء محتوى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"الحفظ التلقائي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"الإرشادات التعليمية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"ستُحفظ الصور المُنشئة بواسطة الذكاء الاصطناعي تلقائيًا في \"المعرض > لوحة رسم ذكية\". يمكنك إيقاف تشغيل هذا لاحقًا من قائمة \"المزيد\".",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"ستُحفظ الصور المُنشئة بواسطة الذكاء الاصطناعي تلقائيًا في \"المعرض > لوحة رسم ذكية\".",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"الشريط الجانبي موسّع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"الشريط الجانبي مخفي",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

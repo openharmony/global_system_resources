@@ -36,6 +36,111 @@
             }
         },
         {
+            "name":"image_generation_compare_original",
+            "value":"ดูต้นฉบับ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_complete_for_liveview",
+            "value":"รูปภาพของคุณพร้อมแล้ว",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"แตะที่นี่เพื่อดู",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_title",
+            "value":"ลบแคนวาสนี้หรือไม่",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_delete_graph_description",
+            "value":"การดำเนินการนี้จะลบโหนดทั้งหมดออกจากแคนวาสและไม่สามารถยกเลิกได้",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_toast",
+            "value":"เพิ่มคำอธิบายข้อความเพื่อผลลัพธ์ที่แม่นยำยิ่งขึ้น",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_exit_multi_select",
+            "value":"ออกจากการเลือกแบบหลายรายการ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_photo_try",
+            "value":"ลองอัปโหลดรูปภาพของคุณเอง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_teach_example",
+            "value":"ตัวอย่าง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_magazine_cover",
+            "value":"ปกนิตยสาร",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_travel_diary",
+            "value":"บันทึกการเดินทาง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_profile_picture",
+            "value":"รูปภาพโปรไฟล์",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_generate_photo_message",
+            "value":"รูปภาพและคำอธิบายปัจจุบันจะถูกแทนที่",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_emoji",
+            "value":"สติ๊กเกอร์",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_experiential_learning",
+            "value":"รูปภาพและคำอธิบายที่อยู่บนแคนวาสในขณะนี้จะถูกแทนที่ด้วยตัวอย่าง ยืนยันที่จะดำเนินการต่อหรือไม่",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"ohos_id_notification_increase_volume_button",
             "value":"เพิ่มระดับเสียง",
             "attr":{
@@ -2081,7 +2186,7 @@
         },
         {
             "name":"clear_canvas",
-            "value":"ล้าง Canva หรือไม่",
+            "value":"ล้างแคนวาสหรือไม่",
             "attr":{
                 "priority":"translate"
             }
@@ -2375,7 +2480,7 @@
         },
         {
             "name":"node_graph_selected_materials_count_exceed_limit",
-            "value":"เลือกรายการครบจำนวนสูงสุดแล้ว",
+            "value":"เลือกรายการจำนวนสูงสุดแล้ว",
             "attr":{
                 "priority":"translate"
             }
@@ -3258,6 +3363,97 @@
         {
             "name":"text_fallback_line_spacing",
             "value":"true"
+        },
+        {
+            "name":"image_generation_graph_guide_two",
+            "value":"เชื่อมต่อโหนดข้อความและรูปภาพเข้ากับโหนดเครื่องมือสร้าง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_one",
+            "value":"เพิ่มโหนดเทมเพลต รูปภาพ ข้อความ หรือเครื่องมือสร้างเพื่อช่วยคุณ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_whether_enable_auto_save",
+            "value":"เปิดใช้งานการบันทึกอัตโนมัติหรือไม่",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable",
+            "value":"เปิดใช้งาน",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"แตะค้างที่วัตถุเพื่อเลือกและตัดออก",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_save",
+            "value":"บันทึกแล้ว",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"แตะ สร้าง เพื่อสร้างเนื้อหา",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_auto_save",
+            "value":"บันทึกอัตโนมัติ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_title",
+            "value":"การเรียนรู้",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo_select_change",
+            "value":"รูปภาพที่สร้างโดย AI จะบันทึกไปยัง แกลเลอรี > แคนวาสอัจฉริยะโดยอัตโนมัติ คุณสามารถปิดได้ในภายหลังจากเมนู เพิ่มเติม",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_and_auto_save_photo",
+            "value":"รูปภาพที่สร้างโดย AI จะบันทึกไปยัง แกลเลอรี > แคนวาสอัจฉริยะโดยอัตโนมัติ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"ขยายแถบด้านข้างแล้ว",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"แถบด้านข้างถูกซ่อนไว้",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
