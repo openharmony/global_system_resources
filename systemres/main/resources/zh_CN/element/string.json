@@ -3952,11 +3952,17 @@
         },
         {
             "name": "sidebarcontainer_shown",
-            "value": "侧栏显示"
+            "value": "侧栏显示",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name": "sidebarcontainer_hidden",
-            "value": "侧栏隐藏"
+            "value": "侧栏隐藏",
+            "attr": {
+                "priority": "translate"
+            }
         },
         {
             "name":"image_generation_teach_example",

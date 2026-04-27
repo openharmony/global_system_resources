@@ -3478,6 +3478,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"사이드바 확장됨",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"사이드바 숨겨짐",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

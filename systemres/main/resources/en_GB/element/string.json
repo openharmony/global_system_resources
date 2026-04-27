@@ -3436,6 +3436,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"sidebarcontainer_shown",
+            "value":"Sidebar expanded",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebarcontainer_hidden",
+            "value":"Sidebar hidden",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
