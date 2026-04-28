@@ -7221,6 +7221,15 @@
               "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.KNOCK_COLLABORATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.SUPPORT_NP_PLUGIN_FOR_WEB",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
