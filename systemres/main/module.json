@@ -7111,15 +7111,6 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
-},
-            {
-                "name": "ohos.permission.EXECUTE_DISTRIBUTED_INTENT",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": "26.0.0",
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": true
             },
             {
                 "name": "ohos.permission.ENTERPRISE_GET_INSTALLED_BUNDLE_LIST",
@@ -7229,7 +7220,7 @@
               "provisionEnable": true,
               "distributedSceneEnable": false
             },
-            {
+{
                 "name": "ohos.permission.SUPPORT_NP_PLUGIN_FOR_WEB",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -7237,6 +7228,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.EXECUTE_DISTRIBUTED_INTENT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": true
             }
         ]
     }
