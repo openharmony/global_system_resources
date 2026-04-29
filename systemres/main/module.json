@@ -7194,6 +7194,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.GET_TICKET_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_VOLUME_ENCRYPTION_POLICY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
