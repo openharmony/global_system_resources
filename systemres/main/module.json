@@ -7122,6 +7122,15 @@
                 "distributedSceneEnable": false
             },
             {
+ 	            "name": "ohos.permission.MANAGE_AOD",
+ 	            "grantMode": "system_grant",
+ 	            "availableLevel": "system_core",
+ 	            "since": "26.0.0",
+ 	            "deprecated": "",
+ 	            "provisionEnable": true,
+ 	            "distributedSceneEnable": false
+ 	        },
+            {
                 "name": "ohos.permission.ENTERPRISE_GET_INSTALLED_BUNDLE_LIST",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
