@@ -39315,6 +39315,16 @@
  	        "type": "string",
  	        "name":"image_generation_exit_multi_select",
  	        "order": 7785
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name":"media_video_playback_speed_button",
+ 	        "order": 7786
+ 	    },
+ 	    {
+ 	        "type": "string",
+ 	        "name":"media_video_playback_speed_value_pattern",
+ 	        "order": 7787
  	    }
     ]
 }

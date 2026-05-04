@@ -2270,6 +2270,20 @@
             }
         },
         {
+            "name":"media_video_playback_speed_button",
+            "value":"倍速",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sX",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"gallery",
             "value":"图库",
             "attr":{

@@ -2425,6 +2425,20 @@
             }
         },
         {
+            "name":"media_video_playback_speed_button",
+            "value":"1.0x",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sx",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"gallery",
             "value":"Select photo or video",
             "attr":{
