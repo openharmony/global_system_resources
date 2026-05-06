@@ -4230,6 +4230,26 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"Search for input content on the network to enhance the timeliness of the generated images."
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"Do you want to enable online search?"
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"Once activated, the AI will search the internet for your input content to enhance the timeliness of the generated images. However, the time it takes to generate the images will increase. Would you like to enable it?"
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"Currently, it is searching for the input content on the network."
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"Click the \"Return\" button to return to the editing state."
         }
     ]
 }
