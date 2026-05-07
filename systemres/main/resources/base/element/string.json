@@ -3372,14 +3372,14 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"Add watermark?",
+            "value":"Add ai watermark?",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"The image contains AI-generated content. Would you like to add an \"AI-generated\" watermark? You can change your preferences at any time in More > AI-generated watermark.",
+            "value":"AI-generated watermark will be added to the image; if you want an image without the watermark, you can choose not to add it. After setting, you can change it in More > AI-generated watermark.",
             "attr":{
                 "priority":"translate"
             }

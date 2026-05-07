@@ -3228,14 +3228,14 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"是否添加水印？",
+            "value":"是否添加AI 合成标识？",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"图片包含 AI 合成内容，请选择是否添加 AI 合成标识？选择后可在“更多”>“ AI 合成标识”中更改。",
+            "value":"将在图片上添加AI 合成标识；若您想要不含标识的图片，可选择不添加。设定后可在“更多”>“AI合成标识”中更改。",
             "attr":{
                 "priority":"translate"
             }
