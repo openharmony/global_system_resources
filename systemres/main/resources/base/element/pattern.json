@@ -7229,6 +7229,54 @@
                 {
                     "name": "menu_animation_curve",
                     "value": "$string:menu_animation_curve"
+                },
+                {
+                    "name": "grid_menu_text_font_size",
+                    "value": "$float:grid_menu_normal_text_size"
+                },
+                {
+                    "name": "grid_menu_font_weight",
+                    "value": "$float:grid_menu_font_weight"
+                },
+                {
+                    "name": "grid_menu_font_color",
+                    "value": "$color:grid_menu_font_color"
+                },
+                {
+                    "name": "grid_menu_icon_color",
+                    "value": "$color:grid_menu_icon_color"
+                },
+                {
+                    "name": "grid_menu_hover_color",
+                    "value": "$color:grid_menu_hover_color"
+                },
+                {
+                    "name": "grid_menu_clicked_color",
+                    "value": "$color:grid_menu_clicked_color"
+                },
+                {
+                    "name": "grid_menu_divider_color",
+                    "value": "$color:grid_menu_divider_color"
+                },
+                {
+                    "name": "grid_menu_icon_text_space",
+                    "value": "$float:grid_menu_icon_text_space"
+                },
+                {
+                    "name": "grid_menu_item_padding",
+                    "value": "$float:grid_menu_item_padding"
+                },
+                {
+                    "name": "grid_menu_corner_radius",
+                    "value": "$float:grid_menu_corner_radius"
+                },
+                {
+                    "name": "grid_menu_container_padding",
+                    "value": "$float:grid_menu_container_padding"
+                },
+                {
+                    "name": "grid_menu_divider_height",
+                    "value": "$float:grid_menu_divider_height"
                 }
             ]
         },

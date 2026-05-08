@@ -39355,6 +39355,66 @@
  	        "type": "string",
  	        "name":"image_generation_web_search",
  	        "order": 7793
- 	    }
+        },
+        {
+            "type": "float",
+            "name": "grid_menu_normal_text_size",
+            "order": 7794
+        },
+        {
+            "type": "float",
+            "name": "grid_menu_font_weight",
+            "order": 7795
+        },
+        {
+            "type": "float",
+            "name": "grid_menu_icon_text_space",
+            "order": 7796
+        },
+        {
+            "type": "float",
+            "name": "grid_menu_item_padding",
+            "order": 7797
+        },
+        {
+            "type": "float",
+            "name": "grid_menu_corner_radius",
+            "order": 7798
+        },
+        {
+            "type": "float",
+            "name": "grid_menu_container_padding",
+            "order": 7799
+        },
+        {
+            "type": "float",
+            "name": "grid_menu_divider_height",
+            "order": 7800
+        },
+        {
+            "type": "color",
+            "name": "grid_menu_font_color",
+            "order": 7801
+        },
+        {
+            "type": "color",
+            "name": "grid_menu_icon_color",
+            "order": 7802
+        },
+        {
+            "type": "color",
+            "name": "grid_menu_hover_color",
+            "order": 7803
+        },
+        {
+            "type": "color",
+            "name": "grid_menu_clicked_color",
+            "order": 7804
+        },
+        {
+            "type": "color",
+            "name": "grid_menu_divider_color",
+            "order": 7805
+        }
     ]
 }
