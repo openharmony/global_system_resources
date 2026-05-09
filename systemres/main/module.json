@@ -552,6 +552,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.cli.CONTROL_LOCATION_SWITCH",
+                "grantMode": "user_grant",
+                "availableLevel": "system_core",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MEDIA_LOCATION",
                 "grantMode": "user_grant",
                 "availableLevel": "normal",
