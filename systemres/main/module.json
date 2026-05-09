@@ -7310,6 +7310,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": true
+            },
+            {
+                "name": "ohos.permission.cli.BUNDLE_ACTIVE_INFO",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
