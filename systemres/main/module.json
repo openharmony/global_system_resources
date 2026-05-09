@@ -6852,6 +6852,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.DLP_POLICY_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.SET_WINDOW_TOUCH_AREAS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
