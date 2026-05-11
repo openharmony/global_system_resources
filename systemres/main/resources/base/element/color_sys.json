@@ -1139,6 +1139,26 @@
         {
             "name": "comp_common_mask",
             "value": "$color:mask_fourth"
+        },
+        {
+            "name": "grid_menu_font_color",
+            "value": "$color:font_primary"
+        },
+        {
+            "name": "grid_menu_icon_color",
+            "value": "$color:icon_primary"
+        },
+        {
+            "name": "grid_menu_hover_color",
+            "value": "$color:interactive_hover"
+        },
+        {
+            "name": "grid_menu_clicked_color",
+            "value": "$color:interactive_click"
+        },
+        {
+            "name": "grid_menu_divider_color",
+            "value": "$color:comp_background_tertiary"
         }
     ]
   }

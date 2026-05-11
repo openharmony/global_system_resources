@@ -1975,6 +1975,34 @@
         {
             "name": "chip_touch_hot_zone_height",
             "value": "100%"
-        }
+        },
+        {
+            "name": "grid_menu_normal_text_size",
+            "value": "$float:Caption_L"
+        },
+        {
+            "name": "grid_menu_font_weight",
+            "value": "3.0"
+        },
+        {
+            "name": "grid_menu_icon_text_space",
+            "value": "$float:padding_level1"
+        },
+        {
+            "name": "grid_menu_item_padding",
+            "value": "$float:padding_level1"
+        },
+        {
+            "name": "grid_menu_corner_radius",
+            "value": "$float:corner_radius_level8"
+        },
+        {
+            "name": "grid_menu_container_padding",
+            "value": "$float:padding_level1"
+        },
+        {
+            "name": "grid_menu_divider_height",
+            "value": "$float:padding_level2"
+         }
     ]
 }
