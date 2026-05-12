@@ -4934,6 +4934,16 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_CAR_CONTROL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "availableType": "SYSTEM",
+                "since": 13,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_APP_KEEP_ALIVE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
