@@ -36,6 +36,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"ستبحث لوحة الرسم الذكية عبر الإنترنت للمساعدة على فهم وصف الصورة التي تريد إنشائها بشكلٍ أفضل.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"هل تريد تشغيل البحث عبر الإنترنت؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"يتيح ذلك للوحة الرسم الذكية البحث عبر الإنترنت، ما يساعدها على فهم وصف الصورة التي تريد إنشاءها بشكل أفضل. ويساعد ذلك على تحسين دقة الصور التي يتم إنشاؤها. علمًا بأنه قد تستغرق عملية إنشاء الصور وقتًا أطول. ينطبق هذا على إنشاء الصور من النصوص فقط.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"جارٍ البحث عبر الإنترنت عن الوصف الذي أدخلته",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"انقر هنا للرجوع إلى شاشة تعديل الصورة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"البحث عبر الإنترنت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"عرض الصورة الأصلية",
             "attr":{
@@ -3037,7 +3079,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"هل تريد إضافة علامة مائية؟",
+            "value":"هل تريد إضافة علامة \"مُنشأة بواسطة الذكاء الاصطناعي\" المائية؟",
             "attr":{
                 "priority":"translate"
             }
@@ -3051,7 +3093,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"تحتوي الصورة على محتوى مُنشأ بواسطة الذكاء الاصطناعي. هل تريد إضافة العلامة المائية \"مُنشأة بواسطة الذكاء الاصطناعي\"؟ يمكنك تغيير تفضيلاتك في أي وقت من \"المزيد > إضافة العلامة المائية \"مُنشأة بواسطة الذكاء الاصطناعي\"\".",
+            "value":"ستُضاف علامة \"مُنشأة بواسطة الذكاء الاصطناعي\" المائية إلى هذه الصورة. يمكنك تغيير تفضيلاتك في أي وقت من \"المزيد > إضافة علامة \"مُنشأة بواسطة الذكاء الاصطناعي\" المائية\"",
             "attr":{
                 "priority":"translate"
             }

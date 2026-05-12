@@ -582,6 +582,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"ແຜ່ນແຕ້ມອັດສະລິຍະຈະຊອກຫາທາງອອນລາຍ ເພື່ອຊ່ວຍໃຫ້ມັນເຂົ້າໃຈຄຳອະທິບາຍຂອງຮູບແຕ້ມທີ່ທ່ານຕ້ອງການສ້າງໄດ້ດີຂຶ້ນ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"ເປີດໃຊ້ງານການຊອກຫາທາງອອນລາຍບໍ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"ສິ່ງນີ້ອະນຸຍາດໃຫ້ແຜ່ນແຕ້ມອັດສະລິຍະຊອກຫາທາງອອນລາຍ, ເຊິ່ງຊ່ວຍໃຫ້ມັນເຂົ້າໃຈຄຳອະທິບາຍຂອງຮູບແຕ້ມທີ່ທ່ານຕ້ອງການສ້າງໄດ້ດີຂຶ້ນ. ສິ່ງນີ້ເພີ່ມຄວາມຖືກຕ້ອງຂອງຮູບພາບທີ່ສ້າງ. ການສ້າງຮູບພາບອາດຈະໃຊ້ເວລາເພີ່ມເຕີມ. ນຳໃຊ້ກັບການສ້າງຂໍ້ຄວາມເປັນຮູບພາບເທົ່ານັ້ນ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"ກຳລັງຊອກຫາຄຳອະທິບາຍຂອງທ່ານທາງອອນລາຍ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"ແຕະເພື່ອກັບຄືນຫາໜ້າຈໍການແກ້ໄຂຮູບພາບ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"ການຊອກຫາທາງອອນລາຍ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"ເບິ່ງຕົ້ນສະບັບ",
             "attr":{
@@ -2998,7 +3040,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"ເພີ່ມເງົາພື້ນຫຼັງບໍ?",
+            "value":"ເພີ່ມເງົາພື້ນຫຼັງ \"ທີ່ສ້າງໂດຍ AI\" ບໍ?",
             "attr":{
                 "priority":"translate"
             }
@@ -3012,7 +3054,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"ຮູບພາບມີເນື້ອຫາທີ່ສ້າງດ້ວຍ AI. ທ່ານຕ້ອງການເພີ່ມເງົາພື້ນຫຼັງ \"ສ້າງດ້ວຍ AI\" ບໍ? ທ່ານສາມາດປ່ຽນການຕັ້ງຄ່າຂອງທ່ານໄດ້ທຸກເວລາໃນ ເພີ່ມເຕີມ > ເງົາພື້ນຫຼັງທີ່ສ້າງດ້ວຍ AI.",
+            "value":"ສິ່ງນີ້ຈະເພີ່ມເງົາພື້ນຫຼັງ \"ທີ່ສ້າງໂດຍ AI\" ໃສ່ຮູບພາບນີ້. ທ່ານສາມາດປ່ຽນການຕັ້ງຄ່າຂອງທ່ານໄດ້ທຸກເວລາໃນ ເພີ່ມເຕີມ > ເງົາພື້ນຫຼັງທີ່ສ້າງໂດຍ AI.",
             "attr":{
                 "priority":"translate"
             }

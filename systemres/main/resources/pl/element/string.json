@@ -36,6 +36,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"Inteligentna kanwa wyszuka tekst w Internecie, aby lepiej zrozumieć opis obrazu, który chcesz wygenerować.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"Włączyć wyszukiwanie online?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"Umożliwia to inteligentnej kanwie korzystanie z funkcji wyszukiwania online, zapewniając lepsze zrozumienie opisu obrazu, który chcesz wygenerować. Zwiększa to dokładność generowanych obrazów. Generowanie obrazu może trochę potrwać. Dotyczy tylko generowania przy użyciu funkcji Tekst na obraz.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"Wyszukiwanie opisu w Internecie",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"Dotknij, aby wrócić do ekranu edycji obrazu.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"Wyszukiwanie online",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"Wyświetl oryginał",
             "attr":{
@@ -2998,7 +3040,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"Dodać znak wodny?",
+            "value":"Dodać znak wodny „Materiał wygenerowany przez AI”?",
             "attr":{
                 "priority":"translate"
             }
@@ -3012,7 +3054,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"Ten obraz zawiera treści wygenerowane przez sztuczną inteligencję. Czy chcesz dodać znak wodny „Wygenerowane przez AI”? Zawsze możesz zmienić preferencje w sekcji Więcej > Znak wodny „Wygenerowane przez AI”.",
+            "value":"Spowoduje to dodanie znaku wodnego „Materiał wygenerowany przez AI” do tego obrazu. Zawsze możesz zmienić preferencje w sekcji Więcej > Znak wodny wygenerowane przez AI.",
             "attr":{
                 "priority":"translate"
             }

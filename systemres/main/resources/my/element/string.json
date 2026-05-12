@@ -736,6 +736,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"သင်ထုတ်လိုသော ပုံ၏ ဖော်ပြချက်ကို ပိုမိုနားလည်နိုင်စေရန် စမတ် ကင်းဗက်စ်က အွန်လိုင်းတွင် ရှာဖွေပါမည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"အွန်လိုင်း ရှာဖွေရေးကို ဖွင့်မည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"၎င်းက စမတ် ကင်းဗက်စ်အား အွန်လိုင်းတွင် ရှာဖွေခွင့်ပြုပြီး သင်ထုတ်လိုသော ပုံ၏ ဖော်ပြချက်ကို ပိုမိုနားလည်နိုင်စေပါသည်။ ၎င်းက ပုံများ ထုတ်ပေးရာတွင် ပိုမိုတိကျစေပါသည်။ ပုံထုတ်ခြင်းက အချိန်ပိုလိုနိုင်ပါသည်။ စာသားမှ ပုံ ထုတ်ခြင်းတွင်သာ သုံးပါသည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"သင့်ဖော်ပြချက်ကို အွန်လိုင်းတွင် ရှာဖွေနေသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"ပုံတည်းဖြတ်မှု မျက်နှာပြင်သို့ ပြန်သွားရန် နှိပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"အွန်လိုင်း ရှာဖွေရေး",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"မူရင်းပုံကို ကြည့်ရန်",
             "attr":{
@@ -2998,7 +3040,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"ရေစာ ထည့်မည်လား။",
+            "value":"\"AI ဖြင့် ဖန်တီးထားသော\" ရေစာကို ထည့်မည်လား။",
             "attr":{
                 "priority":"translate"
             }
@@ -3012,7 +3054,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"ပုံတွင် AI ဖြင့် ဖန်တီးထားသော အကြောင်းအရာ ပါဝင်နေပါသည်။ \"AI ဖြင့် ဖန်တီးမှု\" ဟူသော ရေစာ ထည့်လိုပါသလား။ နောက်ထပ် > AI ဖြင့် ဖန်တီးမှု ရေစာတွင် သင်နှစ်သက်ရာကို အချိန်မရွေး ပြောင်းလဲနိုင်ပါသည်။",
+            "value":"ဤလုပ်ဆောင်ချက်က ဤပုံတွင် \"AI ဖြင့် ဖန်တီးထားသော\" ရေစာကို ထည့်လိုက်ပါမည်။ နောက်ထပ် > AI ဖြင့် ဖန်တီးထားသော ရေစာတွင် သင့်ဦးစားပေးမှုများကို အချိန်မရွေး ပြောင်းလဲနိုင်ပါသည်။",
             "attr":{
                 "priority":"translate"
             }

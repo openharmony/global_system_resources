@@ -36,6 +36,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"Intelligente Leinwand wird online suchen und so die Beschreibung des zu generierenden Bildes besser verstehen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"Online-Suche aktivieren?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"Dadurch kann Intelligente Leinwand online suchen und die Beschreibung des zu generierenden Bildes besser verstehen. Dies erhöht die Genauigkeit der generierten Bilder. Die Bildgenerierung kann mehr Zeit in Anspruch nehmen. Nur anwendbar für die Text-zu-Bild-Generierung.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"Ihre Beschreibung online suchen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"Tippen Sie, um zum Bildbearbeitungsbildschirm zurückzukehren.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"Online suchen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"Original anzeigen",
             "attr":{
@@ -2998,7 +3040,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"Wasserzeichen hinzufügen?",
+            "value":"„KI-generiert“-Wasserzeichen hinzufügen?",
             "attr":{
                 "priority":"translate"
             }
@@ -3012,7 +3054,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"Das Bild enthält KI-generierte Inhalte. Möchten Sie ein Wasserzeichen „KI-generiert“ hinzufügen? Sie können Ihre Einstellungen jederzeit unter Mehr > Wasserzeichen KI-generiert ändern.",
+            "value":"Dadurch wird ein „KI-generiert“-Wasserzeichen zu diesem Bild hinzugefügt. Sie können Ihre Präferenzen jederzeit unter Mehr > „KI-generiert“-Wasserzeichen ändern.",
             "attr":{
                 "priority":"translate"
             }

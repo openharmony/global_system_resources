@@ -36,6 +36,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"Khung vẽ thông minh sẽ tìm kiếm trực tuyến để giúp tính năng này hiểu rõ hơn mô tả về hình ảnh bạn muốn tạo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"Bật tìm kiếm trực tuyến?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"Thao tác này cho phép Khung vẽ thông minh tìm kiếm trực tuyến, giúp tính năng này hiểu rõ hơn mô tả về hình ảnh bạn muốn tạo. Thao tác này giúp tăng độ chính xác của hình ảnh được tạo. Quá trình tạo hình ảnh có thể mất nhiều thời gian hơn. Chỉ áp dụng cho việc tạo hình ảnh từ văn bản.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"Đang tìm kiếm trực tuyến mô tả của bạn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"Chạm để quay lại màn hình sửa hình ảnh.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"Tìm kiếm trực tuyến",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"Xem bản gốc",
             "attr":{
@@ -3040,7 +3082,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"Thêm hình chìm mờ?",
+            "value":"Thêm hình chìm mờ \"Do AI tạo\"?",
             "attr":{
                 "priority":"translate"
             }
@@ -3054,7 +3096,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"Hình ảnh chứa nội dung do AI tạo ra. Bạn có muốn thêm hình chìm mờ \"Do AI tạo ra\" không? Bạn có thể thay đổi các tùy chọn ưu tiên của mình bất cứ lúc nào trong Thêm > Hình chìm mờ do AI tạo ra.",
+            "value":"Thao tác này sẽ thêm hình chìm mờ \"Do AI tạo\" vào hình ảnh này. Bạn có thể thay đổi các tùy chọn ưu tiên của mình bất cứ lúc nào trong Thêm > Hình chìm mờ do AI tạo.",
             "attr":{
                 "priority":"translate"
             }

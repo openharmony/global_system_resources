@@ -659,6 +659,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"線上搜尋輸入內容，提升產生圖片的時效性。此功能僅對文字轉圖片生效",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"是否啟用線上搜尋？",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"啟用後，AI 將線上搜尋您的輸入內容，提升產生圖片的時效性，但產生圖片所需時間會增加。線上搜尋功能僅對文字轉圖片生效。是否啟用？",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"正在線上搜尋輸入內容",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"輕觸「返回」按鈕回到編輯狀態",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"線上搜尋",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"對比原圖",
             "attr":{
@@ -3005,7 +3047,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"是否新增浮水印？",
+            "value":"是否新增 AI 合成標記？",
             "attr":{
                 "priority":"translate"
             }
@@ -3019,7 +3061,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"圖片包含 AI 合成內容，請選取是否新增 AI 合成標記？選取後，可以在「更多」>「AI 合成標記」中變更。",
+            "value":"將在圖片上新增 AI 合成標記；若您想要不含標記的圖片，可選擇不新增。設定後，可在「更多」>「AI 合成標記」中變更。",
             "attr":{
                 "priority":"translate"
             }

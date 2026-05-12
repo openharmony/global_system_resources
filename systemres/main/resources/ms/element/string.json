@@ -36,6 +36,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"Kanvas pintar akan membuat carian dalam talian untuk membantunya lebih memahami penerangan imej yang ingin anda janakan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"Dayakan carian dalam talian?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"Ini membenarkan Kanvas pintar membuat carian dalam talian, membantunya lebih memahami penerangan imej yang ingin anda janakan. Ini meningkatkan ketepatan imej dijanakan. Penjanaan imej mungkin mengambil lebih banyak masa. Hanya dipakai kepada penjanaan teks kepada imej.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"Mencari penerangan anda dalam talian",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"Ketik untuk kembali ke skrin pengeditan imej.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"Carian dalam talian",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"Lihat asal",
             "attr":{
@@ -2998,7 +3040,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"Tambah tera air?",
+            "value":"Tambah tera air \"Dijanakan AI\"?",
             "attr":{
                 "priority":"translate"
             }
@@ -3012,7 +3054,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"Imej mengandungi kandungan dijanakan AI. Inginkah anda menambah tera air \"Dijanakan AI\"? Anda boleh menukarkan keutamaan anda pada bila-bila masa dalam Lagi > Tera air dijanakan AI.",
+            "value":"Ini akan menambah tera air \"Dijanakan AI\" kepada imej ini. Anda boleh menukarkan keutamaan anda pada bila-bila masa dalam Lagi > Tera air dijanakan AI.",
             "attr":{
                 "priority":"translate"
             }

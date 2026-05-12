@@ -36,6 +36,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"Tela intelligente effettuerà ricerche online per aiutare a comprendere meglio la descrizione dell'immagine che desideri generare.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"Vuoi abilitare la ricerca online?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"Ciò consente a Tela intelligente di effettuare ricerche online, aiutandola a comprendere meglio la descrizione dell'immagine che desideri generare. Ciò aumenta la precisione delle immagini generate. La generazione dell'immagine potrebbe richiedere più tempo. Si applica solo alla generazione di immagini da testo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"Ricerca della descrizione online in corso",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"Tocca per tornare alla schermata di modifica delle immagini.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"Ricerca online",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"Visualizza originale",
             "attr":{
@@ -2998,7 +3040,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"Vuoi aggiungere la filigrana?",
+            "value":"Vuoi aggiungere \"Filigrana generata dall'IA\"?",
             "attr":{
                 "priority":"translate"
             }
@@ -3012,7 +3054,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"Le immagini contengono contenuti generati dall'IA. Vuoi aggiungere una filigrana \"Generata dall'AI\"? Puoi modificare le tue preferenze in qualsiasi momento in Altro > Filigrana generata dall'IA.",
+            "value":"In questo modo, verrà aggiunta una \"Filigrana generata dall'IA\" all'immagine. Puoi modificare le tue preferenze in qualsiasi momento in Altro > Filigrana generata dall'IA.",
             "attr":{
                 "priority":"translate"
             }

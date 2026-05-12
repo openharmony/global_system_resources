@@ -3372,14 +3372,14 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"Add ai watermark?",
+            "value":"Add \"AI-generated\" watermark?",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"AI-generated watermark will be added to the image; if you want an image without the watermark, you can choose not to add it. After setting, you can change it in More > AI-generated watermark.",
+            "value":"This will add an \"AI-generated\" watermark to this image. You can change your preferences at any time in More > AI-generated watermark.",
             "attr":{
                 "priority":"translate"
             }
@@ -4233,27 +4233,45 @@
         },
         {
             "name":"image_generation_web_search_generate_photo",
-            "value":"Search for input content on the network to enhance the timeliness of the generated images."
+            "value":"Smart canvas will search online to help it better understand the description of the image you want to generate.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_enable_web_search",
-            "value":"Do you want to enable online search?"
+            "value":"Enable online search?",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_web_search_add_time",
-            "value":"Once activated, the AI will search the internet for your input content to enhance the timeliness of the generated images. However, the time it takes to generate the images will increase. Would you like to enable it?"
+            "value":"This allows Smart canvas to search online, helping it better understand the description of the image you want to generate. This increases the accuracy of generated images. Image generation may take more time. Only applies to text-to-image generation.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_web_searching",
-            "value":"Currently, it is searching for the input content on the network."
+            "value":"Searching your description online",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_click_back_editing",
-            "value":"Click the \"Return\" button to return to the editing state."
+            "value":"Tap to return to the image editing screen.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_web_search",
-            "value":"Internet search"
+            "value":"Online search",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
