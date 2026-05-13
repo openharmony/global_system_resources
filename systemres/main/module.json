@@ -754,6 +754,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.cli.POWER_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.REFRESH_USER_ACTION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -767,6 +776,33 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": 7,
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.cli.POWER_OPTIMIZATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.cli.BATTERY_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.cli.BRIGHTNESS_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
