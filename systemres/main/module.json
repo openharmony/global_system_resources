@@ -2201,6 +2201,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.cli.GET_STORAGE_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.BACKUP",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
