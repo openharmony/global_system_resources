@@ -7375,6 +7375,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.cli.START_ABILITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.cli.KILL_APP_PROCESSES",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.EXECUTE_DISTRIBUTED_INTENT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
