@@ -36,6 +36,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"スマートキャンバスがオンラインで検索を行い、生成したい画像の説明をよりよく理解できるようになります。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"オンライン検索を有効にしますか？",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"これを有効にすると、スマートキャンバスがオンラインで検索を行い、生成したい画像の説明をよりよく理解できるようになります。これにより、生成される画像の精度が向上します。画像の生成には、通常よりも時間がかかる場合があります。この機能は、テキストから画像への生成にのみ適用されます。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"オンラインで説明を検索中",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"タップすると、画像の編集画面に戻ります。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"オンライン検索",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"オリジナルの表示",
             "attr":{
@@ -3040,7 +3082,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"ウォーターマークを追加しますか？",
+            "value":"「AI生成」ウォーターマークを追加しますか？",
             "attr":{
                 "priority":"translate"
             }
@@ -3054,7 +3096,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"この画像には、AI生成コンテンツが含まれます。「AI生成」のウォーターマークを追加しますか？設定はいつでも[詳細] > [AI生成のウォーターマーク]で変更できます。",
+            "value":"この画像には、「AI生成」のウォーターマークが追加されます。この設定は、[その他] > [AI生成ウォーターマーク]でいつでも変更できます。",
             "attr":{
                 "priority":"translate"
             }

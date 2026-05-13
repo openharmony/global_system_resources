@@ -36,6 +36,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"A Tela inteligente irá pesquisar na Internet para ajudar a compreender melhor a descrição da imagem que pretende gerar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"Ativar pesquisa online?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"Isto permite que a Tela inteligente pesquise na Internet, ajudando-a a compreender melhor a descrição da imagem que pretende gerar. Isto aumenta a precisão das imagens geradas. A geração de imagens pode demorar mais tempo. Aplica-se apenas à geração de texto para imagem.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"A pesquisar a sua descrição online",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"Toque aqui para voltar ao ecrã de edição de imagens.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"Pesquisa online",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"Ver original",
             "attr":{
@@ -2998,7 +3040,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"Adicionar marca de água?",
+            "value":"Adicionar marca de água Gerado por IA?",
             "attr":{
                 "priority":"translate"
             }
@@ -3012,7 +3054,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"A imagem contém conteúdo gerado por IA. Adicionar a marca de água \"Gerado por IA\"? Pode mudar as preferências em qualquer momento em Mais > Marca de água gerada por IA.",
+            "value":"Isto irá adicionar uma marca de água Gerado por IA a esta imagem. Pode mudar as preferências em qualquer momento em Mais > Marca de água gerada por IA.",
             "attr":{
                 "priority":"translate"
             }

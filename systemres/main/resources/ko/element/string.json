@@ -36,6 +36,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"스마트 캔버스는 생성하려는 이미지에 대한 설명을 더 잘 이해하기 위해 온라인 검색을 진행합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"온라인 검색을 실행하시겠습니까?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"스마트 캔버스는 온라인 검색을 통해 생성하려는 이미지에 대한 설명을 더 잘 이해할 수 있습니다. 이렇게 하면 생성된 이미지의 정확도가 높아집니다. 이미지 생성에는 더 오랜 시간이 걸릴 수 있습니다. 텍스트 이미지 변환을 생성하는 데만 적용됩니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"온라인에서 해당 설명 검색 중",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"탭하면 이미지 편집 화면으로 돌아갑니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"온라인 검색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"원본 보기",
             "attr":{
@@ -3040,7 +3082,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"워터마크를 추가하시겠습니까?",
+            "value":"\"AI 생성\" 워터마크를 추가하시겠습니까?",
             "attr":{
                 "priority":"translate"
             }
@@ -3054,7 +3096,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"이 이미지에는 AI 생성 콘텐츠가 포함되어 있습니다. \"AI 생성\" 워터마크를 추가하시겠습니까? 기본 설정은 언제든지 더 보기 > AI 생성 워터마크에서 변경할 수 있습니다.",
+            "value":"이미지에 \"AI 생성\" 워터마크가 추가됩니다. 언제든지 더 보기 > AI 생성 워터마크에서 기본 설정을 변경할 수 있습니다.",
             "attr":{
                 "priority":"translate"
             }

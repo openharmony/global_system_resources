@@ -36,6 +36,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"แคนวาสอัจฉริยะจะค้นหาข้อมูลออนไลน์เพื่อช่วยให้เข้าใจคำอธิบายของรูปภาพที่คุณต้องการสร้างได้ดียิ่งขึ้น",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"เปิดใช้งานค้นหาออนไลน์หรือไม่",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"การดำเนินการนี้ช่วยให้แคนวาสอัจฉริยะสามารถค้นหาข้อมูลออนไลน์ ซึ่งช่วยให้เข้าใจคำอธิบายของรูปภาพที่คุณต้องการสร้างได้ดียิ่งขึ้น ซึ่งจะช่วยเพิ่มความแม่นยำของรูปภาพที่สร้างขึ้น การสร้างรูปภาพอาจใช้เวลานานขึ้น ใช้ได้เฉพาะกับการสร้างรูปภาพจากข้อความเท่านั้น",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"กำลังค้นหาคำอธิบายของคุณออนไลน์",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"แตะเพื่อกลับไปยังหน้าจอแก้ไขรูปภาพ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"การค้นหาออนไลน์",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"ดูต้นฉบับ",
             "attr":{
@@ -2998,7 +3040,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"เพิ่มลายน้ำหรือไม่",
+            "value":"เพิ่มลายน้ำที่ \"สร้างโดย AI\" หรือไม่",
             "attr":{
                 "priority":"translate"
             }
@@ -3012,7 +3054,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"รูปภาพนี้มีเนื้อหาที่สร้างโดย AI คุณต้องการเพิ่มลายน้ำ \"สร้างโดย AI\" หรือไม่ คุณสามารถเปลี่ยนการตั้งค่าได้ทุกเมื่อใน เพิ่มเติม > ลายน้ำที่สร้างโดย AI",
+            "value":"การดำเนินการนี้จะเพิ่มลายน้ำที่ \"สร้างโดย AI\" ลงบนรูปภาพนี้ คุณสามารถเปลี่ยนการตั้งค่าได้ทุกเมื่อใน เพิ่มเติม > ลายน้ำที่สร้างโดย AI",
             "attr":{
                 "priority":"translate"
             }

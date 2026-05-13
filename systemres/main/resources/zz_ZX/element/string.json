@@ -225,6 +225,30 @@
             "value":"[TS_971305]_Volume automatically lowered"
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"[TS_1206705]_Smart canvas will search online to help it better understand the description of the image you want to generate."
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"[TS_1206708]_Enable online search?"
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"[TS_1206706]_This allows Smart canvas to search online, helping it better understand the description of the image you want to generate. This increases the accuracy of generated images. Image generation may take more time. Only applies to text-to-image generation."
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"[TS_1206707]_Searching your description online"
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"[TS_1206709]_Tap to return to the image editing screen."
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"[TS_1206918]_Online search"
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"[TS_1201501]_View original"
         },
@@ -2434,7 +2458,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"[TS_1179995]_Add watermark?"
+            "value":"[TS_1179995]_Add \"AI-generated\" watermark?"
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
@@ -2442,7 +2466,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"[TS_1179998]_The image contains AI-generated content. Would you like to add an \"AI-generated\" watermark? You can change your preferences at any time in More > AI-generated watermark."
+            "value":"[TS_1179998]_This will add an \"AI-generated\" watermark to this image. You can change your preferences at any time in More > AI-generated watermark."
         },
         {
             "name":"image_generation_rotate_button_hint",

@@ -659,6 +659,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"توردىن ئىزدەش ئىقتىدارى رەسىم قۇرۇش ئۈنۈمىنى ئاشۇرىدۇ. پەقەت تېكىستتىن رەسىم قۇرۇش ئىقتىدارىغا قوللىنىلىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"توردىن ئىزدەش مۇلازىمىتىنى ئاچامسىز؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"ئاچسىڭىز، AI توردىن مەزمۇن ئىزدەپ، رەسىم قۇرۇش ئۈنۈمىنى ئاشۇرىدۇ، ئەمما رەسىم قۇرۇشقا ئۇزۇنراق ۋاقىت كېتىدۇ. توردىن ئىزدەش پەقەت تېكىستتىن رەسىم قۇرۇش ئىقتىدارىغا قوللىنىلىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"توردىن ئىزدەۋاتىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"بۇ يەردىن تەھرىرلەش ھالىتىگە قايتىسىز.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"توردىن ئىزدەش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"ئەسلى رەسىم بىلەن سېلىشتۇرۇش",
             "attr":{
@@ -3005,7 +3047,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"سۇباسما قوشامسىز؟",
+            "value":"‏AI ئىشلىگەنلىك بەلگىسى قوشامسىز؟",
             "attr":{
                 "priority":"translate"
             }
@@ -3019,7 +3061,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"بۇ رەسىمدە AI ئارقىلىق بىرىكتۈرگەن مەزمۇن بار، AI ئىشلىگەنلىك بەلگىسى قوشامسىز؟ قوشۇشنى تاللاپ بولۇپ، كېيىن باشقىلار > AI ئىشلىگەنلىك بەلگىسى دېگەن ئورۇندىن ئۆزگەرتەلەيسىز.",
+            "value":"رەسىمگە AI ئىشلىگەنلىك بەلگىسى قوشۇش-قوشماسلىقنى تاللاڭ. بۇ تەڭشەكنى باشقىلار > AI ئىشلىگەنلىك بەلگىسى دېگەن ئورۇندىن ئۆزگەرتەلەيسىز.",
             "attr":{
                 "priority":"translate"
             }

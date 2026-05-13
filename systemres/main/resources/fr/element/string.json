@@ -36,6 +36,48 @@
             }
         },
         {
+            "name":"image_generation_web_search_generate_photo",
+            "value":"Toiles intelligentes recherche en ligne pour mieux comprendre la description de l'image que vous souhaitez générer.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_enable_web_search",
+            "value":"Activer la recherche en ligne ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search_add_time",
+            "value":"Ceci permet à Toiles intelligentes de rechercher en ligne, ce qui l'aide à mieux comprendre la description de l'image que vous souhaitez générer. Ceci augmente la précision des images générées. La génération d'images peut prendre plus de temps. Ceci s'applique uniquement à la génération de texte en image.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_searching",
+            "value":"Recherche de votre description en ligne en cours",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_click_back_editing",
+            "value":"Touchez pour revenir à l'écran de modification de l'image.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_web_search",
+            "value":"Recherche en ligne",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_compare_original",
             "value":"Voir l'original",
             "attr":{
@@ -3040,7 +3082,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"Ajouter un filigrane ?",
+            "value":"Ajouter un filigrane \"Généré par l'IA\" ?",
             "attr":{
                 "priority":"translate"
             }
@@ -3054,7 +3096,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"L'image contient du contenu généré par l'IA. Ajouter un filigrane \"Généré par l'IA\" ? Vous pouvez modifier vos préférences à tout moment sous Plus > Filigrane généré par l'IA.",
+            "value":"Ceci ajoutera un filigrane \"Généré par l'IA\" à cette image. Vous pouvez modifier vos préférences à tout moment sous Plus > Filigrane généré par l'IA.",
             "attr":{
                 "priority":"translate"
             }
