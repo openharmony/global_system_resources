@@ -561,6 +561,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.cli.SET_HOTSPOT",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.cli.GET_HOTSPOT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MEDIA_LOCATION",
                 "grantMode": "user_grant",
                 "availableLevel": "normal",
