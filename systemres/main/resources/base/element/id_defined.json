@@ -39415,6 +39415,16 @@
             "type": "color",
             "name": "grid_menu_divider_color",
             "order": 7805
+        },
+        {
+ 	        "type": "string",
+ 	        "name":"image_generation_add_emoji",
+            "order": 7806
+        },
+        {
+ 	        "type": "string",
+ 	        "name":"image_generation_has_added_emoji",
+            "order": 7807
         }
     ]
 }
