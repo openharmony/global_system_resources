@@ -7510,6 +7510,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CONNECT_GAME_ACCELERATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.cli.READ_ACCESSIBILITY_CONFIG_HEARING",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
