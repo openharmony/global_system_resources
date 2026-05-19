@@ -7553,7 +7553,17 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
-            }
+            },
+            {
+ 	                 "name": "ohos.permission.ENTERPRISE_VPN",
+ 	                 "grantMode": "system_grant",
+ 	                 "availableLevel": "system_basic",
+ 	                 "availableType": "MDM",
+ 	                 "since": "26.0.0",
+ 	                 "deprecated": "",
+ 	                 "provisionEnable": true,
+ 	                 "distributedSceneEnable": false
+ 	        }
         ]
     }
 }
