@@ -4132,6 +4132,42 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_smart_cutout",
+            "value":"智能抠图"
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"智能选择"
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"手动涂抹"
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"画线可选中主体"
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"涂抹可增加选区"
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"替换原图"
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"撤销抠图"
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"画笔粗细调节，可调范围1到5，双击按住左右滑动可调节画笔粗细值，当前画笔粗细值为%s。"
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"已调节画笔粗细，当前数值：%s。"
         }
     ]
 }
