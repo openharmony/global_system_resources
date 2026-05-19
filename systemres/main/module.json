@@ -1713,6 +1713,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ENTERPRISE_MANAGE_LOCAL_ACCOUNTS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ENTERPRISE_INTERACT_ACROSS_LOCAL_ACCOUNTS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.SET_ENTERPRISE_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
