@@ -193,28 +193,28 @@
             "name":"request_agent_upload_success",
             "value":"Hochladen erfolgreich",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_upload_fail",
             "value":"Hochladen fehlgeschlagen",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_fail",
             "value":"Download fehlgeschlagen",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_success",
             "value":"Download erfolgreich",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -464,7 +464,7 @@
         },
         {
             "name":"request_agent_download_complete",
-            "value":"Herunterladen abgeschlossen (%s)",
+            "value":"Download abgeschlossen (%s)",
             "attr":{
                 "priority":"LT"
             }
@@ -494,7 +494,7 @@
             "name":"request_agent_download_file",
             "value":"Datei herunterladen … (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1829,9 +1829,9 @@
         },
         {
             "name":"request_agent_upload_file",
-            "value":"Datei hochladen … (%s)",
+            "value":"Datei hochladen … (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

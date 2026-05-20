@@ -193,28 +193,28 @@
             "name":"request_agent_upload_success",
             "value":"Muat naik berjaya",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_upload_fail",
             "value":"Muat naik gagal",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_fail",
             "value":"Muat turun gagal",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_success",
             "value":"Muat turun berjaya",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -459,7 +459,7 @@
             "name":"request_agent_task_count",
             "value":"Berjaya: %1$d, Gagal: %2$d",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -473,7 +473,7 @@
             "name":"request_agent_download_complete",
             "value":"Muat turun selesai (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -501,7 +501,7 @@
             "name":"request_agent_download_file",
             "value":"Memuat turun fail… (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1831,7 +1831,7 @@
             "name":"request_agent_upload_file",
             "value":"Memuat naik fail… (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

@@ -193,28 +193,28 @@
             "name":"request_agent_upload_success",
             "value":"Caricamento riuscito",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_upload_fail",
             "value":"Caricamento non riuscito",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_fail",
             "value":"Download non riuscito",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_success",
             "value":"Download riuscito",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -450,7 +450,7 @@
         },
         {
             "name":"request_agent_task_count",
-            "value":"Riuscite: %1$d, Non riuscite: %2$d",
+            "value":"Riusciti: %1$d, Non riusciti: %2$d",
             "attr":{
                 "priority":"LT"
             }
@@ -494,7 +494,7 @@
             "name":"request_agent_download_file",
             "value":"Download del file… (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1831,7 +1831,7 @@
             "name":"request_agent_upload_file",
             "value":"Caricamento file… (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

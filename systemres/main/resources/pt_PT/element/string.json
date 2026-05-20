@@ -193,28 +193,28 @@
             "name":"request_agent_upload_success",
             "value":"Carregado",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_upload_fail",
             "value":"Falha ao carregar",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_fail",
             "value":"Falha ao transferir",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"request_agent_download_success",
             "value":"Transferido",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -494,7 +494,7 @@
             "name":"request_agent_download_file",
             "value":"A transferir ficheiro... (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1831,7 +1831,7 @@
             "name":"request_agent_upload_file",
             "value":"A carregar ficheiro... (%s)",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
