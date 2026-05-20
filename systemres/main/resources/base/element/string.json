@@ -4280,6 +4280,42 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_smart_cutout",
+            "value":"Smart cutout"
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"Smart selection"
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"Manual brush"
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"Draw a line to select the subject"
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"Brush to add to selection"
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"Replace original image"
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"Undo cutout"
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"Brush thickness adjustment, adjustable range 1 to 5, double tap and hold to slide left or right to adjust brush thickness, current brush thickness is %s."
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"Brush thickness adjusted, current value: %s."
         }
     ]
 }
