@@ -39425,6 +39425,51 @@
  	        "type": "string",
  	        "name":"image_generation_has_added_emoji",
             "order": 7807
+        },
+        {
+            "type": "string",
+            "name":"image_generation_smart_cutout",
+            "order": 7808
+        },
+        {
+            "type": "string",
+            "name":"image_generation_smart_selection",
+            "order": 7809
+        },
+        {
+            "type": "string",
+            "name":"image_generation_manual_brush",
+            "order": 7810
+        },
+        {
+            "type": "string",
+            "name":"image_generation_smart_selection_tip",
+            "order": 7811
+        },
+        {
+            "type": "string",
+            "name":"image_generation_manual_brush_tip",
+            "order": 7812
+        },
+        {
+            "type": "string",
+            "name":"image_generation_replace_origin_image",
+            "order": 7813
+        },
+        {
+            "type": "string",
+            "name":"image_generation_undo_cutout",
+            "order": 7814
+        },
+        {
+            "type": "string",
+            "name":"image_generation_adjust_brush",
+            "order": 7815
+        },
+        {
+            "type": "string",
+            "name":"image_generation_brush_thickness",
+            "order": 7816
         }
     ]
 }
