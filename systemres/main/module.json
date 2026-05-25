@@ -844,7 +844,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_vibrate",
                 "description": "$string:ohos_desc_vibrate"
@@ -864,7 +864,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_activity_motion",
                 "description": "$string:ohos_desc_activity_motion"
@@ -875,7 +875,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_read_health_data",
                 "description": "$string:ohos_desc_read_health_data"
@@ -1110,7 +1110,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_accelerometer",
                 "description": "$string:ohos_desc_accelerometer"
@@ -1121,7 +1121,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_gyroscope",
                 "description": "$string:ohos_desc_gyroscope"
