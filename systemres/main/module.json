@@ -6978,6 +6978,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_CAR_AUDIO",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACQUIRE_LOCAL_ACCOUNT_AUTHORIZATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
