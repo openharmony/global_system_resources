@@ -36,6 +36,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"Tách nền",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"Tự động",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"Điều chỉnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"Vẽ một đường cắt ngang qua đối tượng để chọn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"Bạn có thể vuốt trên màn hình để mở rộng vùng đã chọn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"Thay thế bản gốc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"Hoàn tác tách nền",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"Điều chỉnh kích thước cọ vẽ, phạm vi điều chỉnh là từ %1$d đến %2$d, chạm đúp và giữ, sau đó trượt sang trái hoặc phải để điều chỉnh. Kích thước hiện tại là %3$d.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"Kích thước cọ vẽ đã được điều chỉnh, kích thước hiện tại là %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"Lưu biểu tượng cảm xúc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"Đã lưu biểu tượng cảm xúc.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"Khung vẽ thông minh sẽ tìm kiếm trực tuyến để giúp tính năng này hiểu rõ hơn mô tả về hình ảnh bạn muốn tạo.",
             "attr":{

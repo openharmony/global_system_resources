@@ -582,6 +582,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"ສ່ວນຕັດອອກ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"ອັດຕະໂນມັດ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"ປັບ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"ແຕ້ມເສັ້ນຮອບວັດຖຸທີ່ຈະເລືອກມັນ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"ທ່ານສາມາດຂະຫຍາຍເຂດທີ່ເລືອກໄວ້ໂດຍການປັດໃນໜ້າຈໍ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"ປ່ຽນແທນຕົ້ນສະບັບ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"ຍົກເລີກສ່ວນຕັດອອກ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"ການປັບຂະໜາດແປງ, ຂອບເຂດທີ່ປັບໄດ້ແມ່ນ %1$d ເຖິງ %2$d, ແຕະສອງຄັ້ງຄ້າງໄວ້ ແລະ ຈາກນັ້ນ ເລື່ອນໄປຊ້າຍ ຫຼື ຂວາເພື່ອປັບ. ຂະໜາດປະຈຸບັນແມ່ນ %3$d.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"ຂະໜາດແປງໄດ້ຖືກປັບແລ້ວ, ຂະໜາດປະຈຸບັນແມ່ນ %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"ບັນທຶກອີໂມຈິ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"ບັນທຶກອີໂມຈິແລ້ວ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"ແຜ່ນແຕ້ມອັດສະລິຍະຈະຊອກຫາທາງອອນລາຍ ເພື່ອຊ່ວຍໃຫ້ມັນເຂົ້າໃຈຄຳອະທິບາຍຂອງຮູບແຕ້ມທີ່ທ່ານຕ້ອງການສ້າງໄດ້ດີຂຶ້ນ.",
             "attr":{

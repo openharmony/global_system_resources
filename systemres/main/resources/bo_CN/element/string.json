@@ -659,6 +659,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"རིག་ལྡན་པར་འབྲེག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"རིག་ལྡན་འདེམས་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"ལག་འགུལ་བཅོས་སྒྲིག",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"ཐིག་འཐེན་ཏེ་གཙོ་གཞི་འདེམས་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"བྱུགས་ཚེ་འདེམས་ཁོངས་རྒྱ་སྐྱེད་ཐུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"ཐོག་མའི་པར་བརྗེ་བ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"པར་འབྲེག་ཕྱིར་འཐེན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"པིར་སྨྱུག་གི་སྦོམ་ཕྲ་བསྒྲིག་ཆོག་པ་སྟེ། %1$d ནས་ %2$d བར་གྱི་ཁྱབ་ཁོངས་ནང་དུ་བསྒྲིག་ཆོག ཉིས་རྡེབ་བྱས་ཏེ་མནན་ནས་གཡས་གཡོན་ལ་དེད་ཚེ་པིར་སྨྱུག་གི་སྦོམ་ཕྲའི་གྲངས་ཐང་སྒྲིག་ཐུབ། མིག་སྔའི་པིར་སྨྱུག་གི་སྦོམ་ཕྲའི་གྲངས་ཐང་ནི་ %3$d ཡིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"པིར་སྨྱུག་གི་སྦོམ་ཕྲ་བསྒྲིགས་ཟིན། མིག་སྔའི་གྲངས་ཐང་ནི་ %d ཡིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"རྣམ་འགྱུར་ལ་སྣོན་པ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"ནང་འཇུག་བྱེད་ཐབས་ཀྱི་རྣམ་འགྱུར་ལ་བསྣན་ཟིན།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"དྲ་སྦྲེལ་ནས་བཅུག་པའི་ནང་དོན་བཤེར་འཚོལ་བྱེད་ཅིང་། པར་རིས་བཟོ་བའི་དུས་ཐོག་རང་བཞིན་མཐོ་རུ་གཏོང་། ནུས་པ་དེ་ཡི་གེ་ལས་པར་རིས་སྐྱེད་སྒྲུབ་ཁོ་ནར་ནུས་པ་འཐོན་ཐུབ།",
             "attr":{

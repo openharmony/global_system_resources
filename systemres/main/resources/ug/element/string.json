@@ -659,6 +659,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"ئاڭلىق قىيىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"ئاڭلىق تاللاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"تاللاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"سىزىق سىزىپ ئوبيېكت تاللايسىز.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"تاللىغان رايوننى سۇۋاش ئارقىلىق كېڭەيتىشكە بولىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"ئالماشتۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"قىيىشتىن يېنىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"قەلەم توملۇقى تەڭشىكى، %1$d دىن %2$d گىچە تەڭشىلىدۇ، قوش بېسىپ تۇرۇپ ئوڭ-سولغا سىيرىپ توملۇق قىممىتىنى تەڭشەيسىز، نۆۋەتتىكى قىممەت %3$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"قەلەم توملۇقى تەڭشەلدى، نۆۋەتتە: %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"ئىپادىگە قوشۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"كىرگۈزگۈچ ئىپادىسى قاتارىغا قوشۇلدى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"توردىن ئىزدەش ئىقتىدارى رەسىم قۇرۇش ئۈنۈمىنى ئاشۇرىدۇ. پەقەت تېكىستتىن رەسىم قۇرۇش ئىقتىدارىغا قوللىنىلىدۇ.",
             "attr":{

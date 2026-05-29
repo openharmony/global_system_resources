@@ -36,6 +36,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"คัทเอาท์",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"อัตโนมัติ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"ปรับ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"วาดเส้นรอบวัตถุเพื่อเลือกวัตถุนั้น",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"คุณสามารถขยายพื้นที่ที่เลือกได้โดยการปัดนิ้วบนหน้าจอ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"แทนที่ต้นฉบับ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"เลิกทำการคัทเอาท์",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"การปรับขนาดแปรง สามารถปรับระยะได้ %1$d ถึง %2$d แตะสองครั้งค้างไว้ จากนั้นเลื่อนไปทางซ้ายหรือขวาเพื่อทำการปรับ ขนาดปัจจุบันคือ %3$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"ขนาดแปรงถูกปรับ ขนาดปัจจุบันคือ %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"บันทึกอีโมจิ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"บันทึกอีโมจิแล้ว",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"แคนวาสอัจฉริยะจะค้นหาข้อมูลออนไลน์เพื่อช่วยให้เข้าใจคำอธิบายของรูปภาพที่คุณต้องการสร้างได้ดียิ่งขึ้น",
             "attr":{
