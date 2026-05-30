@@ -844,7 +844,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_vibrate",
                 "description": "$string:ohos_desc_vibrate"
@@ -864,7 +864,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_activity_motion",
                 "description": "$string:ohos_desc_activity_motion"
@@ -875,7 +875,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_read_health_data",
                 "description": "$string:ohos_desc_read_health_data"
@@ -1110,7 +1110,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_accelerometer",
                 "description": "$string:ohos_desc_accelerometer"
@@ -1121,7 +1121,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_gyroscope",
                 "description": "$string:ohos_desc_gyroscope"
@@ -6978,6 +6978,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_CAR_AUDIO",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACQUIRE_LOCAL_ACCOUNT_AUTHORIZATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -7727,31 +7736,15 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.vehicle.MMA_SPATIALACTION",
+                "name": "ohos.permission.kernel.SUPPORT_LOCAL_PLUGIN",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
-                "name": "ohos.permission.vehicle.MMA_WEATHER",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": "26.0.0",
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
-                "name": "ohos.permission.vehicle.MMA_ENERGYREFILL",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": "26.0.0",
-                "deprecated": "",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
+                "distributedSceneEnable": false,
+                "isKernelEffect": true,
+                "hasValue": false
             }
         ]
     }

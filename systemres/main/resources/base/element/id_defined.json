@@ -39470,6 +39470,21 @@
             "type": "string",
             "name":"image_generation_brush_thickness",
             "order": 7816
-        }
+        },
+ 	    {
+ 	        "type": "float",
+ 	        "name": "scroll_bar_height",
+ 	        "order": 7817
+ 	    },
+ 	    {
+ 	        "type": "float",
+ 	        "name": "scroll_bar_start_margin",
+ 	        "order": 7818
+ 	    },
+ 	    {
+ 	        "type": "float",
+ 	        "name": "scroll_bar_interactive",
+ 	        "order": 7819
+ 	    }
     ]
 }
