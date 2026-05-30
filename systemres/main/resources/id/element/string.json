@@ -736,6 +736,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"Potongan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"Otomatis",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"Sesuaikan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"Gambar garis melintasi objek untuk memilihnya.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"Anda dapat meluaskan area terpilih dengan cara menggesek pada layar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"Ganti yang asli",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"Urungkan potongan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"Penyesuaian ukuran kuas, rentang yang dapat disesuaikan sebesar %1$d hingga %2$d, ketuk dua kali dan tahan, lalu geser ke kiri atau ke kanan untuk melakukan penyesuaian. Ukuran kuas saat ini %3$d.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"Ukuran kuas telah disesuaikan, ukuran saat ini %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"Simpan emoji",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"Emoji tersimpan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"Kanvas pintar akan mencari secara online untuk membantunya lebih baik dalam memahami deskripsi gambar yang ingin Anda buat.",
             "attr":{
