@@ -184,6 +184,27 @@
             "value":"Click to return to the image editing screen.",
             "attr":{
                 "priority":"translate"
+}
+        },
+        {
+            "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
+            "value":"Click here to view.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_graph_guide_three",
+            "value":"Click Generate to create content.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_long_press_image_matting",
+            "value":"Click & hold an object to select it and cut it out.",
+            "attr":{
+                "priority":"translate"
             }
         }
     ]

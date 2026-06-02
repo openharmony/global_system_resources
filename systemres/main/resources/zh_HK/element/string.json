@@ -830,14 +830,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"取代成自己的圖試試",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"教學示例",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -851,7 +851,7 @@
             "name":"image_generation_travel_diary",
             "value":"旅行日記",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -865,21 +865,21 @@
             "name":"image_generation_generate_photo_message",
             "value":"建圖資訊將被取代",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"表情包",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"體驗教學示例會取代目前的圖片、文字和操作。確認取代？",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3357,21 +3357,21 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"輕觸選擇單個節點，滑動框選多個節點",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
             "value":"AI 合成識別",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_network_connection_interrupted",
             "value":"網絡連線已中斷，請檢查網絡設定",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
