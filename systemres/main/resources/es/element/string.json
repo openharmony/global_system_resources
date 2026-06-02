@@ -207,14 +207,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"Prueba a subir tus propias imágenes.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"Ejemplos",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -228,7 +228,7 @@
             "name":"image_generation_travel_diary",
             "value":"Diario de viajes",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -242,21 +242,21 @@
             "name":"image_generation_generate_photo_message",
             "value":"Las imágenes y descripciones actuales se reemplazarán",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"Pegatina",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"Las imágenes y descripciones actuales del lienzo se reemplazarán por el ejemplo. ¿Continuar de todos modos?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2200,7 +2200,7 @@
         },
         {
             "name":"sticker_effect_keyword",
-            "value":"Crear etiqueta con contorno blanco",
+            "value":"Crear pegatina con contorno blanco",
             "attr":{
                 "priority":"translate"
             }
@@ -3392,21 +3392,21 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"Pulsa para seleccionar un solo nodo o desliza el dedo para seleccionar varios nodos.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
             "value":"Marca de agua generada con IA",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_network_connection_interrupted",
             "value":"Error de conexión de red. Comprueba los ajustes de red.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

@@ -207,14 +207,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"حاول رفع صورك الخاصة.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
-            "value":"النماذج",
+            "value":"الأمثلة",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -226,9 +226,9 @@
         },
         {
             "name":"image_generation_travel_diary",
-            "value":"مذكرات السفر",
+            "value":"يومياتي أثناء السفر",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -242,21 +242,21 @@
             "name":"image_generation_generate_photo_message",
             "value":"ستُستبدل الصور والأوصاف الحالية",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"ملصق",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
-            "value":"ستُستبدل الصور والأوصاف الموجودة حاليًا على اللوحة بالنموذج. هل حقًا تريد المتابعة؟",
+            "value":"ستُستبدل الصور والأوصاف الموجودة حاليًا على اللوحة بالمثال. هل حقًا تريد المتابعة؟",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3051,7 +3051,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_label",
-            "value":"إضافة العلامة المائية \"مُنشأة بواسطة الذكاء الاصطناعي\"",
+            "value":"إضافة علامة \"مُنشأة بواسطة الذكاء الاصطناعي\" المائية",
             "attr":{
                 "priority":"translate"
             }
@@ -3387,16 +3387,16 @@
         },
         {
             "name":"image_generation_canvas_guide_select_tip",
-            "value":"انقر لتحديد عُقدة واحدة، أو اسحب لتحديد عدة عُقد.",
+            "value":"انقر هنا لتحديد عُقدة واحدة، أو اسحب لتحديد عدة عُقد.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
             "value":"العلامة المائية \"مُنشأة بواسطة الذكاء الاصطناعي\"",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
