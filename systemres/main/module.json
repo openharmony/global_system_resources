@@ -1145,6 +1145,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ALLOW_USE_BM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.cli.INSTALL_BUNDLE",
                 "grantMode": "user_grant",
                 "availableLevel": "system_core",
