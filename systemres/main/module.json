@@ -7573,6 +7573,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.kernel.TRAFFIC_FILTER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.QUERY_SPACE_OPTIMIZATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -7692,6 +7701,15 @@
  	        },
             {
                 "name": "ohos.permission.TV_ACCESSORY_MANAGE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.vehicle.VEHICLE_THERMAL",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": "26.0.0",

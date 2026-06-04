@@ -3882,7 +3882,7 @@
             "attr":{
                 "priority":"translate"
             }
- 	    },
+        },
         {
             "name":"image_generation_graph_guide_one",
             "value":"添加模板或者添加图片、文字、生成器节点来进行创作",
@@ -4112,14 +4112,6 @@
             }
         },
         {
-            "name":"image_generation_add_emoji",
-            "value":"添加至表情"
-        },
-        {
-            "name":"image_generation_has_added_emoji",
-            "value":"已添加至输入法表情"
-        },
-        {
             "name":"image_generation_click_back_editing",
             "value":"点击“返回”按钮回到编辑状态",
             "attr":{
@@ -4135,39 +4127,80 @@
         },
         {
             "name":"image_generation_smart_cutout",
-            "value":"智能抠图"
+            "value":"智能抠图",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_smart_selection",
-            "value":"智能选择"
+            "value":"智能选择",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_manual_brush",
-            "value":"手动涂抹"
+            "value":"手动涂抹",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_smart_selection_tip",
-            "value":"画线可选中主体"
+            "value":"画线可选中主体",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_manual_brush_tip",
-            "value":"涂抹可增加选区"
+            "value":"涂抹可增加选区",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_replace_origin_image",
-            "value":"替换原图"
+            "value":"替换原图",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_undo_cutout",
-            "value":"撤销抠图"
+            "value":"撤销抠图",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_adjust_brush",
-            "value":"画笔粗细调节，可调范围1到5，双击按住左右滑动可调节画笔粗细值，当前画笔粗细值为%s。"
+            "value":"画笔粗细调节，可调范围 %1$d 到 %2$d，双击按住左右滑动可调节画笔粗细值，当前画笔粗细值为 %3$d。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_brush_thickness",
-            "value":"已调节画笔粗细，当前数值：%s。"
+            "value":"已调节画笔粗细，当前数值：%d。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"添加至表情",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"已添加至输入法表情",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

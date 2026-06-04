@@ -3246,7 +3246,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Deleting this node will cancel the current image generation task.",
+            "value":"If you delete this node, the current generation task will be canceled.",
             "attr":{
                 "priority":"translate"
             }
@@ -3859,7 +3859,7 @@
             "name":"image_generation_ai_composite_label",
             "value":"AI-generated watermark",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3880,7 +3880,7 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"Tap to select a single node, or swipe to select multiple nodes.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3901,7 +3901,7 @@
             "name":"image_generation_network_connection_interrupted",
             "value":"Network connection error. Check your network settings.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -4026,7 +4026,7 @@
             "attr":{
                 "priority":"translate"
             }
- 	    },
+        },
         {
             "name":"image_generation_graph_guide_one",
             "value":"Add templates, images, text, or generator nodes to aid you.",
@@ -4130,7 +4130,7 @@
             "name":"image_generation_teach_example",
             "value":"Examples",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -4144,7 +4144,7 @@
             "name":"image_generation_emoji",
             "value":"Sticker",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -4158,28 +4158,28 @@
             "name":"image_generation_travel_diary",
             "value":"Travel diary",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_replace_photo_try",
             "value":"Try uploading your own images.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_generate_photo_message",
             "value":"Current images and descriptions will be replaced",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"Images and descriptions currently on the canvas will be replaced by the example. Proceed anyway?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -4260,14 +4260,6 @@
             }
         },
         {
-            "name":"image_generation_add_emoji",
-            "value":"Add to emoji"
-        },
-        {
-            "name":"image_generation_has_added_emoji",
-            "value":"Added emoji to input method"
-        },
-        {
             "name":"image_generation_click_back_editing",
             "value":"Tap to return to the image editing screen.",
             "attr":{
@@ -4283,39 +4275,80 @@
         },
         {
             "name":"image_generation_smart_cutout",
-            "value":"Smart cutout"
+            "value":"Cutout",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_smart_selection",
-            "value":"Smart selection"
+            "value":"Auto",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_manual_brush",
-            "value":"Manual brush"
+            "value":"Adjust",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_smart_selection_tip",
-            "value":"Draw a line to select the subject"
+            "value":"Draw a line across an object to select it.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_manual_brush_tip",
-            "value":"Brush to add to selection"
+            "value":"You can expand the selected area by swiping on the screen.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_replace_origin_image",
-            "value":"Replace original image"
+            "value":"Replace original",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_undo_cutout",
-            "value":"Undo cutout"
+            "value":"Undo cutout",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_adjust_brush",
-            "value":"Brush thickness adjustment, adjustable range 1 to 5, double tap and hold to slide left or right to adjust brush thickness, current brush thickness is %s."
+            "value":"Brush size adjustment, adjustable range is %1$d to %2$d, double-tap and hold, then slide left or right to adjust. Current size is %3$d.",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_brush_thickness",
-            "value":"Brush thickness adjusted, current value: %s."
+            "value":"Brush size has been adjusted, current size is %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"Save emoji",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"Emoji saved.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
