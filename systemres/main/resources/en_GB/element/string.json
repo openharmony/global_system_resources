@@ -1947,6 +1947,20 @@
             }
         },
         {
+            "name":"media_video_playback_speed_button",
+            "value":"1.0x",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sx",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"video_recording",
             "value":"Record video",
             "attr":{
