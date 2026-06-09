@@ -844,7 +844,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_vibrate",
                 "description": "$string:ohos_desc_vibrate"
@@ -864,7 +864,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_activity_motion",
                 "description": "$string:ohos_desc_activity_motion"
@@ -875,7 +875,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_read_health_data",
                 "description": "$string:ohos_desc_read_health_data"
@@ -1110,7 +1110,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_accelerometer",
                 "description": "$string:ohos_desc_accelerometer"
@@ -1121,7 +1121,7 @@
                 "availableLevel": "normal",
                 "since": 7,
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_gyroscope",
                 "description": "$string:ohos_desc_gyroscope"
@@ -7501,6 +7501,15 @@
                 "distributedSceneEnable": true
             },
             {
+            "name": "ohos.permission.CAMERA_SHARED",
+            "grantMode": "system_grant",
+            "availableLevel": "system_core",
+            "since": "26.0.0",
+            "deprecated": "",
+            "provisionEnable": true,
+            "distributedSceneEnable": false
+           },
+            {
                 "name": "ohos.permission.cli.BUNDLE_ACTIVE_INFO",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",
@@ -7565,6 +7574,15 @@
             },
             {
                 "name": "ohos.permission.cli.READ_ACCESSIBILITY_CONFIG_ACTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.kernel.TRAFFIC_FILTER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": "26.0.0",
@@ -7700,7 +7718,45 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.vehicle.VEHICLE_THERMAL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.kernel.SUPPORT_LOCAL_PLUGIN",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "isKernelEffect": true,
+                "hasValue": false
+            },
+            {
+                "name": "ohos.permission.ARKWEBCORE_SYS_CAP",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_AUDIO_ACCESSORY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_DIGITAL_IDENTITY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": "26.0.0",

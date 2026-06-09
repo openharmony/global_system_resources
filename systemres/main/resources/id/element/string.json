@@ -736,6 +736,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"Potongan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"Otomatis",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"Sesuaikan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"Gambar garis melintasi objek untuk memilihnya.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"Anda dapat meluaskan area terpilih dengan cara menggesek pada layar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"Ganti yang asli",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"Urungkan potongan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"Penyesuaian ukuran kuas, rentang yang dapat disesuaikan sebesar %1$d hingga %2$d, ketuk dua kali dan tahan, lalu geser ke kiri atau ke kanan untuk melakukan penyesuaian. Ukuran kuas saat ini %3$d.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"Ukuran kuas telah disesuaikan, ukuran saat ini %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"Simpan emoji",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"Emoji tersimpan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"Kanvas pintar akan mencari secara online untuk membantunya lebih baik dalam memahami deskripsi gambar yang ingin Anda buat.",
             "attr":{
@@ -830,14 +907,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"Coba mengunggah gambar Anda sendiri.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"Contoh",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -851,7 +928,7 @@
             "name":"image_generation_travel_diary",
             "value":"Buku harian perjalanan",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -865,21 +942,21 @@
             "name":"image_generation_generate_photo_message",
             "value":"Gambar dan deskripsi saat ini akan digantikan",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"Stiker",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"Gambar dan deskripsi yang saat ini ada di kanvas akan digantikan oleh contoh tersebut. Tetap lanjutkan?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3273,21 +3350,21 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"Ketuk untuk memilih satu node, atau gesek untuk memilih beberapa node.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
-            "value":"Tanda air hasil AI",
+            "value":"Tanda air Dihasilkan oleh AI",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_network_connection_interrupted",
             "value":"Kesalahan koneksi jaringan. Periksa pengaturan jaringan Anda.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3489,6 +3566,20 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"Bilah samping disembunyikan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"1,0x",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sx",
             "attr":{
                 "priority":"translate"
             }

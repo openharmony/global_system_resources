@@ -36,6 +36,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"切り抜き",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"自動",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"調整",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"被写体に線を引いて選択します。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"画面をスワイプすると、選択範囲を拡張できます。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"オリジナルを置き換え",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"切り抜き解除",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"ブラシサイズの調整、調整範囲は%1$d～%2$dです。ダブルタップして長押しし、左右にスライドして調整します。現在のサイズは%3$dです。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"ブラシサイズが調整されました。現在のサイズは%dです",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"絵文字を保存",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"絵文字が保存されました。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"スマートキャンバスがオンラインで検索を行い、生成したい画像の説明をよりよく理解できるようになります。",
             "attr":{
@@ -130,14 +207,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"独自の画像をアップロードしてみてください。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"例",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -151,7 +228,7 @@
             "name":"image_generation_travel_diary",
             "value":"旅行記",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -165,21 +242,21 @@
             "name":"image_generation_generate_photo_message",
             "value":"現在の画像と説明が置換わります",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"ステッカー",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"現在キャンバス上にある画像と説明は、例に置換わります。続行しますか？",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3315,21 +3392,21 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"タップして1つのノードを選択するか、スワイプして複数のノードを選択します。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
             "value":"AI生成ウォーターマーク",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_network_connection_interrupted",
             "value":"ネットワーク接続エラーです。ネットワーク設定を確認してください。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3531,6 +3608,20 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"サイドバーを非表示にする",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"1.0倍",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sx",
             "attr":{
                 "priority":"translate"
             }

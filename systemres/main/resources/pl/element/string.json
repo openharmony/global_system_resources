@@ -36,6 +36,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"Wycięcie",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"Automatycznie",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"Dostosuj",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"Przeciągnij linię przez obiekt, aby go zaznaczyć.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"Możesz powiększyć zaznaczony obszar, przeciągając palcem po ekranie.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"Zastąp oryginał",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"Cofnij wycięcie",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"Dostosowanie rozmiaru pędzla, zakres regulacji od %1$d do %2$d, dotknij dwukrotnie i przytrzymaj, następnie przesuń w lewo lub prawo, aby dostosować. Bieżący rozmiar to %3$d.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"Zmieniono rozmiar pędzla, bieżący rozmiar to %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"Zapisz emoji",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"Zapisano emoji.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"Inteligentna kanwa wyszuka tekst w Internecie, aby lepiej zrozumieć opis obrazu, który chcesz wygenerować.",
             "attr":{
@@ -128,16 +205,16 @@
         },
         {
             "name":"image_generation_replace_photo_try",
-            "value":"Spróbuj przesłać własne obrazy.",
+            "value":"Spróbuj przekazać własne obrazy.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"Przykłady",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -151,7 +228,7 @@
             "name":"image_generation_travel_diary",
             "value":"Dziennik podróży",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -163,23 +240,23 @@
         },
         {
             "name":"image_generation_generate_photo_message",
-            "value":"Obecne obrazy i opisy zostaną zastąpione",
+            "value":"Bieżące obrazy i opisy zostaną zastąpione",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"Naklejka",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"Obrazy i opisy znajdujące się obecnie na kanwie zostaną zastąpione przez treści przykładowe. Kontynuować mimo to?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2578,7 +2655,7 @@
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
-            "value":"Wybrana opcja przekracza dopuszczalny limit %d obrazów. Usuń wybór niektórych obrazów.",
+            "value":"Wybrana opcja przekracza dopuszczalny limit %d obrazów. Usuń zaznaczenie niektórych obrazów.",
             "attr":{
                 "priority":"translate"
             }
@@ -2711,7 +2788,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Jeśli usuniesz ten węzeł, bieżące zadanie generowania zostanie anulowane.",
+            "value":"Jeśli usuniesz ten węzeł, obecne zadanie generowania zostanie anulowane.",
             "attr":{
                 "priority":"translate"
             }
@@ -2788,14 +2865,14 @@
         },
         {
             "name":"node_graph_confirm_replace_image",
-            "value":"Rysunki i wybrane elementy w oryginalnym obrazie zostaną odrzucone.",
+            "value":"Rysunki i wybrane elementy w pierwotnym obrazie zostaną odrzucone.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"node_graph_original_ratio",
-            "value":"Oryginał",
+            "value":"Pierwotny",
             "attr":{
                 "priority":"translate"
             }
@@ -2907,7 +2984,7 @@
         },
         {
             "name":"image_generation_recover",
-            "value":"Wykonaj ponownie",
+            "value":"Ponów",
             "attr":{
                 "priority":"translate"
             }
@@ -3061,7 +3138,7 @@
         },
         {
             "name":"image_generation_rotate_button_hint",
-            "value":"Obracanie, obecny kąt wynosi %1$s. Dotknij dwukrotnie i przytrzymaj, a następnie przeciągnij, aby dostosować ramkę w zakresie od %2$d do %3$d stopni.",
+            "value":"Sterowanie obracaniem, obecny kąt wynosi %1$s. Dotknij dwukrotnie i przytrzymaj, a następnie przeciągnij ramkę, aby dostosować ją w zakresie od %2$d do %3$d stopni.",
             "attr":{
                 "priority":"translate"
             }
@@ -3110,7 +3187,7 @@
         },
         {
             "name":"image_generation_canvas_guide_fourth",
-            "value":"Dotknij węzła i użyj menu w oknie przestawnym, aby edytować jego zawartość.",
+            "value":"Dotknij węzła i użyj menu w wyskakującym okienku, aby edytować jego zawartość.",
             "attr":{
                 "priority":"translate"
             }
@@ -3236,14 +3313,14 @@
         },
         {
             "name":"image_generation_guide_add_image",
-            "value":"Stuknij „+”, aby dodać obraz wzorcowy.",
+            "value":"Dotknij „+”, aby dodać obraz referencyjny.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_guide_add_graffiti",
-            "value":"Kliknij tutaj, aby zacząć szkicować odręcznie.",
+            "value":"Dotknij tutaj, aby zacząć szkicować odręcznie.",
             "attr":{
                 "priority":"translate"
             }
@@ -3273,21 +3350,21 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"Dotknij, aby wybrać jeden węzeł, albo przeciągnij, aby wybrać ich wiele.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
-            "value":"Znak wodny „Wygenerowane przez AI”",
+            "value":"Znak wodny „Materiał wygenerowany przez AI”",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_network_connection_interrupted",
             "value":"Błąd połączenia sieciowego. Sprawdź ustawienia sieci.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3489,6 +3566,20 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"Pasek boczny ukryty",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"1,0 x",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sx",
             "attr":{
                 "priority":"translate"
             }

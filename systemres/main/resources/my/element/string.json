@@ -736,6 +736,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"ဖြတ်ထုတ်မှု",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"အော်တို",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"ချိန်ညှိရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"အရာဝတ္ထုတစ်ခုကို ရွေးချယ်ရန်အတွက် ထိုအရာကို ဖြတ်၍ မျဉ်းတစ်ကြောင်းဆွဲပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"စက်မျက်နှာပြင်ပေါ်တွင် ပွတ်ဆွဲခြင်းဖြင့် ရွေးချယ်ထားသော ဧရိယာကို ဖြန့်ကားနိုင်သည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"မူရင်းပုံကို အစားထိုးရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"ဖြတ်ထုတ်မှု မလုပ်တော့ရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"စုတ်တံအရွယ်အစား ချိန်ညှိမှု၊ ချိန်ညှိနိုင်သော အတိုင်းအတာသည် %1$d မှ %2$d အထိ ဖြစ်ပါသည်၊ နှစ်ချက်နှိပ်ပြီး ဖိထားပါ၊ ထို့နောက် ချိန်ညှိရန် ဘယ်ဘက် သို့မဟုတ် ညာဘက်သို့ ပွတ်ဆွဲပါ။ လက်ရှိအရွယ်အစားမှာ %3$d ဖြစ်သည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"စုတ်တံအရွယ်အစားကို ချိန်ညှိထားပါသည်၊ လက်ရှိအရွယ်အစားမှာ %d ဖြစ်သည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"အီမိုဂျိ သိမ်းရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"အီမိုဂျိကို သိမ်းပြီးပါပြီ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"သင်ထုတ်လိုသော ပုံ၏ ဖော်ပြချက်ကို ပိုမိုနားလည်နိုင်စေရန် စမတ် ကင်းဗက်စ်က အွန်လိုင်းတွင် ရှာဖွေပါမည်။",
             "attr":{
@@ -830,14 +907,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"သင့်ပုံများကို အပ်လုဒ်လုပ်ကြည့်ပါ။",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"နမူနာများ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -851,7 +928,7 @@
             "name":"image_generation_travel_diary",
             "value":"ခရီးသွားဒိုင်ယာရီ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -865,21 +942,21 @@
             "name":"image_generation_generate_photo_message",
             "value":"လက်ရှိ ရှိနေသော ပုံများနှင့် ဖော်ပြချက်များကို အစားထိုးသွားပါမည်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"စတစ်ကာ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"ကင်းဗက်စ်များတွင် လက်ရှိ ရှိနေသော ပုံများနှင့် ဖော်ပြချက်များကို နမူနာအတိုင်း အစားထိုးသွားပါမည်။ မည်သို့ပင်ဖြစ်စေ ဆက်လုပ်မည်လား။",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3273,21 +3350,21 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"Node တစ်ခုတည်း ရွေးရန် နှိပ်ပါ သို့မဟုတ် Node တစ်ခုထက်ပို၍ ရွေးရန် ပွတ်ဆွဲပါ။",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
             "value":"AI ဖြင့် ဖန်တီးထုတ်လုပ်ထားသော ရေစာ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_network_connection_interrupted",
             "value":"ကွန်ရက် ချိတ်ဆက်မှု ချို့ယွင်းချက်။ သင့်ကွန်ရက် ဆက်တင်ကို စစ်ဆေးပါ။",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3493,6 +3570,20 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"ဘေးဘက်ဘားကို ဝှက်ထားသည်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"1.0x",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sx",
             "attr":{
                 "priority":"translate"
             }

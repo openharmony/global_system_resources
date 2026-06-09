@@ -36,6 +36,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"Ritaglia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"Automatica",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"Regola",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"Disegna una linea attorno a un oggetto per selezionarlo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"Puoi espandere l'area selezionata scorrendo sullo schermo.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"Sostituisci originale",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"Annulla ritaglia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"Regolazione della dimensione del pennello. L'intervallo di regolazione è da %1$d a %2$d. Tocca due volte e tieni premuto, quindi scorri verso sinistra o verso destra per regolare. La dimensione corrente è %3$d.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"Le dimensioni del pennello sono state regolate, la dimensione corrente è %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"Salva emoji",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"Emoji salvato.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"Tela intelligente effettuerà ricerche online per aiutare a comprendere meglio la descrizione dell'immagine che desideri generare.",
             "attr":{
@@ -130,14 +207,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"Prova a caricare le tue immagini.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"Esempi",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -151,7 +228,7 @@
             "name":"image_generation_travel_diary",
             "value":"Diario di viaggio",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -165,21 +242,21 @@
             "name":"image_generation_generate_photo_message",
             "value":"Le immagini e le descrizioni correnti verranno sostituite",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"Adesivo",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"Le immagini e le descrizioni attualmente presenti sulla tela verranno sostituite dall'esempio. Vuoi procedere comunque?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3273,21 +3350,21 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"Tocca per selezionare un singolo nodo oppure scorri per selezionarne più di uno.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
-            "value":"Filigrana generata dall\u0027IA",
+            "value":"Filigrana generata dall'IA",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_network_connection_interrupted",
             "value":"Errore di connessione di rete. Verifica le impostazioni di rete.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3489,6 +3566,20 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"Barra laterale nascosta",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"1,0x",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sx",
             "attr":{
                 "priority":"translate"
             }

@@ -225,6 +225,50 @@
             "value":"[TS_971305]_Volume automatically lowered"
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"[TS_1211873]_Cutout"
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"[TS_1211876]_Auto"
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"[TS_1211870]_Adjust"
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"[TS_1211877]_Draw a line across an object to select it."
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"[TS_1211872]_You can expand the selected area by swiping on the screen."
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"[TS_1211874]_Replace original"
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"[TS_1211869]_Undo cutout"
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"[TS_1211875]_Brush size adjustment, adjustable range is %1$d to %2$d, double-tap and hold, then slide left or right to adjust. Current size is %3$d."
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"[TS_1211871]_Brush size has been adjusted, current size is %d"
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"[TS_1209567]_Save emoji"
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"[TS_1209568]_Emoji saved."
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"[TS_1206705]_Smart canvas will search online to help it better understand the description of the image you want to generate."
         },
@@ -2715,6 +2759,14 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"[TS_1197834]_Sidebar hidden"
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"[TS_1206595]_1.0x"
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"[TS_1206594]_%sx"
         }
     ]
 }

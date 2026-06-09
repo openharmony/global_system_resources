@@ -36,6 +36,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"اقتطاع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"تلقائي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"ضبط",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"ارسم خطًا على أي عنصر لتحديده.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"يمكنك توسيع المنطقة المحددة عن طريق السحب على الشاشة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"استبدال الصورة الأصلية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"التراجع عن الاقتطاع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"تعديل حجم الفرشاة، تتراوح النسبة المعدلة من %1$d إلى %2$d، انقر مرتين مع الاستمرار بالضغط مطولًا، ثم اسحب لليمين أو اليسار للتعديل. الحجم الحالي هو %3$d.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"تم تعديل حجم الفرشاة، الحجم الحالي هو %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"حفظ الرمز التعبيري",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"تم حفظ الرمز التعبيري",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"ستبحث لوحة الرسم الذكية عبر الإنترنت للمساعدة على فهم وصف الصورة التي تريد إنشائها بشكلٍ أفضل.",
             "attr":{
@@ -130,14 +207,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"حاول رفع صورك الخاصة.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
-            "value":"النماذج",
+            "value":"الأمثلة",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -149,9 +226,9 @@
         },
         {
             "name":"image_generation_travel_diary",
-            "value":"مذكرات السفر",
+            "value":"يومياتي أثناء السفر",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -165,21 +242,21 @@
             "name":"image_generation_generate_photo_message",
             "value":"ستُستبدل الصور والأوصاف الحالية",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"ملصق",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
-            "value":"ستُستبدل الصور والأوصاف الموجودة حاليًا على اللوحة بالنموذج. هل حقًا تريد المتابعة؟",
+            "value":"ستُستبدل الصور والأوصاف الموجودة حاليًا على اللوحة بالمثال. هل حقًا تريد المتابعة؟",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2974,7 +3051,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_label",
-            "value":"إضافة العلامة المائية \"مُنشأة بواسطة الذكاء الاصطناعي\"",
+            "value":"إضافة علامة \"مُنشأة بواسطة الذكاء الاصطناعي\" المائية",
             "attr":{
                 "priority":"translate"
             }
@@ -3310,16 +3387,16 @@
         },
         {
             "name":"image_generation_canvas_guide_select_tip",
-            "value":"انقر لتحديد عُقدة واحدة، أو اسحب لتحديد عدة عُقد.",
+            "value":"انقر هنا لتحديد عُقدة واحدة، أو اسحب لتحديد عدة عُقد.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
             "value":"العلامة المائية \"مُنشأة بواسطة الذكاء الاصطناعي\"",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3532,6 +3609,20 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"الشريط الجانبي مخفي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"1.0x",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%s‏x",
             "attr":{
                 "priority":"translate"
             }

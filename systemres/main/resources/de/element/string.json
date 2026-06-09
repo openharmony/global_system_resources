@@ -36,6 +36,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"Ausschneiden",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"Automatisch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"Anpassen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"Zeichnen Sie eine Linie über ein Objekt, um es auszuwählen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"Sie können den ausgewählten Bereich durch Streichen auf dem Bildschirm erweitern.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"Original ersetzen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"Ausschneiden rückgängig machen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"Einstellung der Pinselgröße, der einstellbare Bereich beträgt von %1$d bis %2$d, zum Anpassen zweimal antippen, gedrückt halten, dann nach links oder rechts streichen. Die aktuelle Größe beträgt %3$d.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"Die Pinselgröße wurde angepasst, die aktuelle Größe beträgt %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"Emoji speichern",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"Emoji gespeichert",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"Intelligente Leinwand wird online suchen und so die Beschreibung des zu generierenden Bildes besser verstehen.",
             "attr":{
@@ -130,14 +207,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"Laden Sie Ihre eigenen Bilder hoch.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"Beispiele",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -151,7 +228,7 @@
             "name":"image_generation_travel_diary",
             "value":"Reisetagebuch",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -163,23 +240,23 @@
         },
         {
             "name":"image_generation_generate_photo_message",
-            "value":"Aktuelle Bilder und Beschreibungen werden bald ersetzt",
+            "value":"Aktuelle Bilder und Beschreibungen werden ersetzt",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"Sticker",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"Die aktuellen Bilder und Beschreibungen auf den Leinwänden werden durch das Beispiel ersetzt. Trotzdem fortfahren?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2935,7 +3012,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_label",
-            "value":"Durch KI generiertes Wasserzeichen",
+            "value":"„KI-generiert“-Wasserzeichen",
             "attr":{
                 "priority":"translate"
             }
@@ -3273,21 +3350,21 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"Tippen Sie zum Auswählen eines einzelnen Knotens oder streichen Sie, um mehrere Knoten auszuwählen.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
             "value":"„KI-generiert“-Wasserzeichen",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_network_connection_interrupted",
             "value":"Netzwerkverbindungsfehler, prüfen Sie die Netzwerkeinstellungen.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3489,6 +3566,20 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"Seitenleiste ausgeblendet",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"1,0x",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sx",
             "attr":{
                 "priority":"translate"
             }

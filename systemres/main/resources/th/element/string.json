@@ -36,6 +36,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"คัทเอาท์",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"อัตโนมัติ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"ปรับ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"วาดเส้นรอบวัตถุเพื่อเลือกวัตถุนั้น",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"คุณสามารถขยายพื้นที่ที่เลือกได้โดยการปัดนิ้วบนหน้าจอ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"แทนที่ต้นฉบับ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"เลิกทำการคัทเอาท์",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"การปรับขนาดแปรง สามารถปรับระยะได้ %1$d ถึง %2$d แตะสองครั้งค้างไว้ จากนั้นเลื่อนไปทางซ้ายหรือขวาเพื่อทำการปรับ ขนาดปัจจุบันคือ %3$d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"ขนาดแปรงถูกปรับ ขนาดปัจจุบันคือ %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"บันทึกอีโมจิ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"บันทึกอีโมจิแล้ว",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"แคนวาสอัจฉริยะจะค้นหาข้อมูลออนไลน์เพื่อช่วยให้เข้าใจคำอธิบายของรูปภาพที่คุณต้องการสร้างได้ดียิ่งขึ้น",
             "attr":{
@@ -130,14 +207,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"ลองอัปโหลดรูปภาพของคุณเอง",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"ตัวอย่าง",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -151,7 +228,7 @@
             "name":"image_generation_travel_diary",
             "value":"บันทึกการเดินทาง",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -165,21 +242,21 @@
             "name":"image_generation_generate_photo_message",
             "value":"รูปภาพและคำอธิบายปัจจุบันจะถูกแทนที่",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"สติ๊กเกอร์",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"รูปภาพและคำอธิบายที่อยู่บนแคนวาสในขณะนี้จะถูกแทนที่ด้วยตัวอย่าง ยืนยันที่จะดำเนินการต่อหรือไม่",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -1220,7 +1297,7 @@
         },
         {
             "name":"advanced_dialog_accessibility_checkbox",
-            "value":"กล่องทำเครื่องหมาย",
+            "value":"ช่องกาเครื่องหมาย",
             "attr":{
                 "priority":"translate"
             }
@@ -1969,7 +2046,7 @@
         },
         {
             "name":"continue_creating",
-            "value":"สร้างการดำเนินการต่อ",
+            "value":"สร้างต่อ",
             "attr":{
                 "priority":"translate"
             }
@@ -2760,7 +2837,7 @@
         },
         {
             "name":"node_graph_delete_node_will_not_preserve_task",
-            "value":"ลบจุดเชื่อมโยงหรือไม่",
+            "value":"ลบโหนดหรือไม่",
             "attr":{
                 "priority":"translate"
             }
@@ -3273,21 +3350,21 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"แตะเพื่อเลือกโหนดเดียว หรือปัดนิ้วเพื่อเลือกหลายโหนด",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
             "value":"ลายน้ำที่สร้างโดย AI",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_network_connection_interrupted",
             "value":"ข้อผิดพลาดการเชื่อมต่อเครือข่าย ตรวจสอบการตั้งค่าเครือข่ายของคุณ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3493,6 +3570,20 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"แถบด้านข้างถูกซ่อนไว้",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"1.0x",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sx",
             "attr":{
                 "priority":"translate"
             }

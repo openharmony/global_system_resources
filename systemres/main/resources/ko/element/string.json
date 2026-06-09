@@ -36,6 +36,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"컷아웃",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"자동",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"조정",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"개체를 가로지르는 선을 그려서 선택합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"화면에서 스와이프하여 선택된 영역을 확장할 수 있습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"원본 바꾸기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"컷아웃 실행취소",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"브러시 크기 조정, %1$d에서 %2$d의 조정 범위, 두 번 탭하고 길게 누른 상태에서 왼쪽이나 오른쪽으로 밀어서 조정합니다. 현재 크기는 %3$d입니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"브러시 크기 조정됨, 현재 크기 %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"이모지 저장",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"이모지가 저장되었습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"스마트 캔버스는 생성하려는 이미지에 대한 설명을 더 잘 이해하기 위해 온라인 검색을 진행합니다.",
             "attr":{
@@ -130,14 +207,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"내 이미지를 업로드해 봅니다.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"예시",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -151,7 +228,7 @@
             "name":"image_generation_travel_diary",
             "value":"여행 다이어리",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -163,23 +240,23 @@
         },
         {
             "name":"image_generation_generate_photo_message",
-            "value":"현재 이미지 및 설명이 대체됨",
+            "value":"현재 이미지 및 설명 대체 안내",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"스티커",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"현재 캔버스의 이미지와 설명이 예시로 바뀝니다. 그래도 진행하시겠습니까?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3271,7 +3348,7 @@
         },
         {
             "name":"image_generation_guide_add_generate",
-            "value":"일부 텍스트를 인력한 다음 생성을 탭합니다.",
+            "value":"일부 텍스트를 입력한 다음 생성을 탭합니다.",
             "attr":{
                 "priority":"translate"
             }
@@ -3315,14 +3392,14 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"탭하여 단일 노드를 선택하거나 스와이프하여 다중 노드를 선택합니다.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
             "value":"AI 생성 워터마크",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3531,6 +3608,20 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"사이드바 숨겨짐",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"1.0x",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sx",
             "attr":{
                 "priority":"translate"
             }

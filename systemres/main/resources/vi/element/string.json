@@ -36,6 +36,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"Tách nền",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"Tự động",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"Điều chỉnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"Vẽ một đường cắt ngang qua đối tượng để chọn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"Bạn có thể vuốt trên màn hình để mở rộng vùng đã chọn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"Thay thế bản gốc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"Hoàn tác tách nền",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"Điều chỉnh kích thước cọ vẽ, phạm vi điều chỉnh là từ %1$d đến %2$d, chạm đúp và giữ, sau đó trượt sang trái hoặc phải để điều chỉnh. Kích thước hiện tại là %3$d.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"Kích thước cọ vẽ đã được điều chỉnh, kích thước hiện tại là %d",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"Lưu biểu tượng cảm xúc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"Đã lưu biểu tượng cảm xúc.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"Khung vẽ thông minh sẽ tìm kiếm trực tuyến để giúp tính năng này hiểu rõ hơn mô tả về hình ảnh bạn muốn tạo.",
             "attr":{
@@ -130,14 +207,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"Hãy thử tải lên hình ảnh của riêng bạn.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"Ví dụ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -151,7 +228,7 @@
             "name":"image_generation_travel_diary",
             "value":"Nhật ký du lịch",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -165,21 +242,21 @@
             "name":"image_generation_generate_photo_message",
             "value":"Hình ảnh và mô tả hiện tại sẽ được thay thế",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"Hình dán",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"Các hình ảnh và mô tả hiện có trên khung vẽ sẽ được thay thế bằng ví dụ. Vẫn tiếp tục?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3315,21 +3392,21 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"Chạm để chọn một nút hoặc vuốt để chọn nhiều nút.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
             "value":"Hình chìm mờ do AI tạo",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_network_connection_interrupted",
-            "value":"Lỗi kết nối mạng. Hãy kiểm tra các cài đặt mạng của bạn.",
+            "value":"Lỗi kết nối mạng. Hãy kiểm tra cài đặt mạng của bạn.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3531,6 +3608,20 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"Đã ẩn thanh bên",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"1,0x",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sx",
             "attr":{
                 "priority":"translate"
             }

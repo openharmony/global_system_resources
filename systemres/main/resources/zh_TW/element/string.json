@@ -659,6 +659,83 @@
             }
         },
         {
+            "name":"image_generation_smart_cutout",
+            "value":"智慧去背",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection",
+            "value":"智慧選取",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush",
+            "value":"手動塗抹",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_smart_selection_tip",
+            "value":"畫線可選取主體",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_manual_brush_tip",
+            "value":"塗抹可增加選取範圍",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_replace_origin_image",
+            "value":"取代原圖",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_undo_cutout",
+            "value":"復原去背",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"畫筆粗細調整，可調範圍為 %1$d 到 %2$d，輕觸兩下並按住左右滑動可調整畫筆粗細值，目前畫筆粗細值為 %3$d。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_brush_thickness",
+            "value":"已調整畫筆粗細，目前數值：%d。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_add_emoji",
+            "value":"新增至表情",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_has_added_emoji",
+            "value":"已新增至輸入法表情",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"image_generation_web_search_generate_photo",
             "value":"線上搜尋輸入內容，提升產生圖片的時效性。此功能僅對文字轉圖片生效",
             "attr":{
@@ -753,14 +830,14 @@
             "name":"image_generation_replace_photo_try",
             "value":"取代成自己的圖試試",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_teach_example",
             "value":"教學範例",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -774,7 +851,7 @@
             "name":"image_generation_travel_diary",
             "value":"旅行日記",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -788,21 +865,21 @@
             "name":"image_generation_generate_photo_message",
             "value":"將取代產生圖片資訊",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_emoji",
             "value":"表情貼圖",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_experiential_learning",
             "value":"體驗教學範例會取代目前的圖片、文字和操作。確認取代？",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3280,21 +3357,21 @@
             "name":"image_generation_canvas_guide_select_tip",
             "value":"輕觸選取單個節點，滑動框選多個節點",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_composite_label",
             "value":"AI 合成標記",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_network_connection_interrupted",
             "value":"網路連線已中斷，請檢查網路設定",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3496,6 +3573,20 @@
         {
             "name":"sidebarcontainer_hidden",
             "value":"側邊欄隱藏",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_button",
+            "value":"倍速",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"media_video_playback_speed_value_pattern",
+            "value":"%sX",
             "attr":{
                 "priority":"translate"
             }

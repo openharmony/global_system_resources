@@ -4349,7 +4349,19 @@
                 },
                 {
                     "name": "scroll_bar_normal_background_width",
-                    "value": "4.0vp"
+                    "value": "$float:scroll_bar_normal_background_width"
+                },
+                {
+                    "name": "scroll_bar_height",
+                    "value": "$float:scroll_bar_height"
+                },
+                {
+                    "name": "scroll_bar_start_margin",
+                    "value": "$float:scroll_bar_start_margin"
+                },
+                {
+                    "name": "scroll_bar_interactive",
+                    "value": "$float:scroll_bar_interactive"
                 },
                 {
                     "name": "scroll_bar_active_background_width",
