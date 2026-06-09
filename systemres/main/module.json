@@ -7754,6 +7754,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ENTERPRISE_SPACE_FILE_TRANSFER_DATA_ACCESS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "20.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
