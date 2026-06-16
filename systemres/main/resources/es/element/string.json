@@ -2122,13 +2122,6 @@
             }
         },
         {
-            "name":"maintain_the_layout_keyword",
-            "value":"Conservar la distribución de los elementos gráficos",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"ai_thinking",
             "value":"Pensando...",
             "attr":{
@@ -2199,13 +2192,6 @@
             }
         },
         {
-            "name":"sticker_effect_keyword",
-            "value":"Crear pegatina con contorno blanco",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"sticker_effect",
             "value":"Efectos de pegatinas",
             "attr":{
@@ -2213,36 +2199,8 @@
             }
         },
         {
-            "name":"node_graph_standard_definition",
-            "value":"Estándar",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chibi_art",
-            "value":"Adorable",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"standard_definition_1k",
-            "value":"Estándar (1K)",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"wash_painting",
             "value":"Tinta aguada",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"grass_weaving_painting",
-            "value":"Tejido de paja",
             "attr":{
                 "priority":"translate"
             }
@@ -2339,22 +2297,8 @@
             }
         },
         {
-            "name":"chalk_drawing",
-            "value":"Cera",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"¿Borrar el lienzo?",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"clay_painting",
-            "value":"Terroso",
             "attr":{
                 "priority":"translate"
             }
@@ -2369,13 +2313,6 @@
         {
             "name":"image_reference",
             "value":"Imagen de referencia",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"comic_strip",
-            "value":"Tira cómica",
             "attr":{
                 "priority":"translate"
             }
@@ -2404,13 +2341,6 @@
         {
             "name":"node_graph_confirm",
             "value":"Aceptar",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"impressionist_painting",
-            "value":"Impresionista",
             "attr":{
                 "priority":"translate"
             }
@@ -2451,13 +2381,6 @@
             }
         },
         {
-            "name":"resin_painting",
-            "value":"Resina",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"watercolour_painting",
             "value":"Acuarela",
             "attr":{
@@ -2493,13 +2416,6 @@
             }
         },
         {
-            "name":"line_drawing",
-            "value":"Dibujo lineal",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_from_images",
             "value":"Imagen a imagen",
             "attr":{
@@ -2516,48 +2432,6 @@
         {
             "name":"image_clarity",
             "value":"Calidad",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"sketch_drawing",
-            "value":"Boceto",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"renaissance_painting",
-            "value":"Renacimiento",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"classical_painting",
-            "value":"Clásico",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"blind_box",
-            "value":"Caja sorpresa",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_from_graffiti",
-            "value":"Garabato a imagen",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"transparent_painting",
-            "value":"Transparente",
             "attr":{
                 "priority":"translate"
             }
@@ -2619,13 +2493,6 @@
             }
         },
         {
-            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"Se descartarán los dibujos y las selecciones que hayas realizado en la imagen original.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_resource_download_failed",
             "value":"Error al descargar el recurso.",
             "attr":{
@@ -2649,13 +2516,6 @@
         {
             "name":"node_graph_material_type_invalid",
             "value":"No se admite el tipo de elemento.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_selected_text_exceeds_limit",
-            "value":"El texto seleccionado supera el límite de caracteres. Selecciona menos caracteres y vuelve a intentarlo.",
             "attr":{
                 "priority":"translate"
             }

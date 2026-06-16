@@ -2094,13 +2094,6 @@
             }
         },
         {
-            "name":"maintain_the_layout_keyword",
-            "value":"Preserve the layout of graphical elements",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"ai_thinking",
             "value":"Thinking…",
             "attr":{
@@ -2171,13 +2164,6 @@
             }
         },
         {
-            "name":"sticker_effect_keyword",
-            "value":"Create sticker with white outline",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"sticker_effect",
             "value":"Sticker effects",
             "attr":{
@@ -2185,36 +2171,8 @@
             }
         },
         {
-            "name":"node_graph_standard_definition",
-            "value":"Standard",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chibi_art",
-            "value":"Cute",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"standard_definition_1k",
-            "value":"SD (1K)",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"wash_painting",
             "value":"Ink wash",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"grass_weaving_painting",
-            "value":"Straw weaving",
             "attr":{
                 "priority":"translate"
             }
@@ -2311,22 +2269,8 @@
             }
         },
         {
-            "name":"chalk_drawing",
-            "value":"Crayon",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"Clear canvas?",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"clay_painting",
-            "value":"Earthen",
             "attr":{
                 "priority":"translate"
             }
@@ -2341,13 +2285,6 @@
         {
             "name":"image_reference",
             "value":"Reference image",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"comic_strip",
-            "value":"Comic strip",
             "attr":{
                 "priority":"translate"
             }
@@ -2376,13 +2313,6 @@
         {
             "name":"node_graph_confirm",
             "value":"OK",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"impressionist_painting",
-            "value":"Impressionist",
             "attr":{
                 "priority":"translate"
             }
@@ -2423,13 +2353,6 @@
             }
         },
         {
-            "name":"resin_painting",
-            "value":"Resin",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"watercolour_painting",
             "value":"Watercolour",
             "attr":{
@@ -2465,13 +2388,6 @@
             }
         },
         {
-            "name":"line_drawing",
-            "value":"Line drawing",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_from_images",
             "value":"Image-to-image",
             "attr":{
@@ -2488,48 +2404,6 @@
         {
             "name":"image_clarity",
             "value":"Quality",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"sketch_drawing",
-            "value":"Sketch",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"renaissance_painting",
-            "value":"Renaissance",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"classical_painting",
-            "value":"Classical",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"blind_box",
-            "value":"Blind box",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_from_graffiti",
-            "value":"Doodle to image",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"transparent_painting",
-            "value":"Transparent",
             "attr":{
                 "priority":"translate"
             }
@@ -2591,13 +2465,6 @@
             }
         },
         {
-            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"Doodles and selections you made in the original image will be discarded.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_resource_download_failed",
             "value":"Resource download failed.",
             "attr":{
@@ -2621,13 +2488,6 @@
         {
             "name":"node_graph_material_type_invalid",
             "value":"Item type is not supported.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_selected_text_exceeds_limit",
-            "value":"Selected text exceeds character limit. Select fewer characters and try again.",
             "attr":{
                 "priority":"translate"
             }

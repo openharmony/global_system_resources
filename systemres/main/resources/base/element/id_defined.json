@@ -36412,27 +36412,32 @@
         {
             "type": "string",
             "name": "line_drawing",
-            "order": 7210
+            "order": 7210,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "chibi_art",
-            "order": 7211
+            "order": 7211,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "comic_strip",
-            "order": 7212
+            "order": 7212,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "blind_box",
-            "order": 7213
+            "order": 7213,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "chalk_drawing",
-            "order": 7214
+            "order": 7214,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -36442,27 +36447,32 @@
         {
             "type": "string",
             "name": "sketch_drawing",
-            "order": 7216
+            "order": 7216,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "impressionist_painting",
-            "order": 7217
+            "order": 7217,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "classical_painting",
-            "order": 7218
+            "order": 7218,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "renaissance_painting",
-            "order": 7219
+            "order": 7219,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "grass_weaving_painting",
-            "order": 7220
+            "order": 7220,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -36472,17 +36482,20 @@
         {
             "type": "string",
             "name": "resin_painting",
-            "order": 7222
+            "order": 7222,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "clay_painting",
-            "order": 7223
+            "order": 7223,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "transparent_painting",
-            "order": 7224
+            "order": 7224,
+            "flags": "private"
         },
         {
             "type": "string",
@@ -36545,12 +36558,14 @@
         {
             "type": "string",
             "name": "maintain_the_layout_keyword",
-            "order": 7236
+            "order": 7236,
+            "flags":"private"
         },
         {
             "type": "string",
             "name": "sticker_effect_keyword",
-            "order": 7237
+            "order": 7237,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -36692,7 +36707,8 @@
         {
             "type": "string",
             "name": "standard_definition_1k",
-            "order": 7265
+            "order": 7265,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -36753,7 +36769,8 @@
         {
             "type": "string",
             "name": "image_generation_from_graffiti",
-            "order": 7277
+            "order": 7277,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -36923,7 +36940,8 @@
         {
             "type": "string",
             "name": "node_graph_standard_definition",
-            "order": 7310
+            "order": 7310,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -37727,7 +37745,8 @@
         {
             "type": "string",
             "name": "node_graph_selected_text_exceeds_limit",
-            "order": 7470
+            "order": 7470,
+            "flags":"private"
         },
         {
             "type": "string",
@@ -37839,7 +37858,8 @@
         {
             "type": "string",
             "name": "node_graph_doodles_selections_not_preserved_confirm_operation",
-            "order": 7491
+            "order": 7491,
+            "flags":"private"
         },
         {
             "type": "string",

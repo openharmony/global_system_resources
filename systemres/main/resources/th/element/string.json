@@ -2080,13 +2080,6 @@
             }
         },
         {
-            "name":"maintain_the_layout_keyword",
-            "value":"รักษาเค้าโครงขององค์ประกอบกราฟิกไว้",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"ai_thinking",
             "value":"กำลังคิด…",
             "attr":{
@@ -2157,13 +2150,6 @@
             }
         },
         {
-            "name":"sticker_effect_keyword",
-            "value":"สร้างสติ๊กเกอร์ด้วยเค้าร่างสีขาว",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"sticker_effect",
             "value":"เอฟเฟ็กต์สติ๊กเกอร์",
             "attr":{
@@ -2171,36 +2157,8 @@
             }
         },
         {
-            "name":"node_graph_standard_definition",
-            "value":"มาตรฐาน",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chibi_art",
-            "value":"น่ารัก",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"standard_definition_1k",
-            "value":"SD (1K)",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"wash_painting",
             "value":"สีน้ำหมึก",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"grass_weaving_painting",
-            "value":"การถักฟาง",
             "attr":{
                 "priority":"translate"
             }
@@ -2297,22 +2255,8 @@
             }
         },
         {
-            "name":"chalk_drawing",
-            "value":"สีเทียน",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"ล้างแคนวาสหรือไม่",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"clay_painting",
-            "value":"ดิน",
             "attr":{
                 "priority":"translate"
             }
@@ -2327,13 +2271,6 @@
         {
             "name":"image_reference",
             "value":"รูปภาพอ้างอิง",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"comic_strip",
-            "value":"การ์ตูนช่อง",
             "attr":{
                 "priority":"translate"
             }
@@ -2362,13 +2299,6 @@
         {
             "name":"node_graph_confirm",
             "value":"ตกลง",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"impressionist_painting",
-            "value":"อิมเพรสชันนิสต์",
             "attr":{
                 "priority":"translate"
             }
@@ -2409,13 +2339,6 @@
             }
         },
         {
-            "name":"resin_painting",
-            "value":"เรซิน",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"watercolour_painting",
             "value":"สีน้ำ",
             "attr":{
@@ -2451,13 +2374,6 @@
             }
         },
         {
-            "name":"line_drawing",
-            "value":"การวาดเส้น",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_from_images",
             "value":"สร้างรูปภาพจากรูปภาพ",
             "attr":{
@@ -2474,48 +2390,6 @@
         {
             "name":"image_clarity",
             "value":"คุณภาพ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"sketch_drawing",
-            "value":"ร่างแบบ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"renaissance_painting",
-            "value":"เรเนซองส์",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"classical_painting",
-            "value":"คลาสสิก",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"blind_box",
-            "value":"กล่องสุ่ม",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_from_graffiti",
-            "value":"ขีดเขียนเพื่อสร้างรูปภาพ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"transparent_painting",
-            "value":"โปร่งใส",
             "attr":{
                 "priority":"translate"
             }
@@ -2577,13 +2451,6 @@
             }
         },
         {
-            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"การขีดเขียนและการเลือกที่คุณทำไว้ในรูปภาพต้นฉบับจะถูกลบทิ้ง",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_resource_download_failed",
             "value":"การดาวน์โหลดทรัพยากรล้มเหลว",
             "attr":{
@@ -2607,13 +2474,6 @@
         {
             "name":"node_graph_material_type_invalid",
             "value":"ไม่รองรับประเภทของรายการ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_selected_text_exceeds_limit",
-            "value":"ข้อความที่เลือกมีจำนวนอักขระเกินขีดจำกัด เลือกจำนวนอักขระให้น้อยลงและลองอีกครั้ง",
             "attr":{
                 "priority":"translate"
             }

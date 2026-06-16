@@ -2080,13 +2080,6 @@
             }
         },
         {
-            "name":"maintain_the_layout_keyword",
-            "value":"ဂရပ်ဖစ် အစိတ်အပိုင်းများ၏ အသွင်အပြင်ကို ထိန်းသိမ်းပါ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"ai_thinking",
             "value":"စဉ်းစားနေဆဲ…",
             "attr":{
@@ -2157,13 +2150,6 @@
             }
         },
         {
-            "name":"sticker_effect_keyword",
-            "value":"အဖြူရောင်ဘောင်ဖြင့် စတစ်ကာ ဖန်တီးပါ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"sticker_effect",
             "value":"စတစ်ကာ အထူးပြုလုပ်ချက်",
             "attr":{
@@ -2171,36 +2157,8 @@
             }
         },
         {
-            "name":"node_graph_standard_definition",
-            "value":"ပုံမှန်",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chibi_art",
-            "value":"Cute",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"standard_definition_1k",
-            "value":"SD (1K)",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"wash_painting",
             "value":"Ink wash",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"grass_weaving_painting",
-            "value":"Straw weaving",
             "attr":{
                 "priority":"translate"
             }
@@ -2297,22 +2255,8 @@
             }
         },
         {
-            "name":"chalk_drawing",
-            "value":"Crayon",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"ကင်းဗက်စ်ကို ရှင်းမည်လား။",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"clay_painting",
-            "value":"Earthen",
             "attr":{
                 "priority":"translate"
             }
@@ -2327,13 +2271,6 @@
         {
             "name":"image_reference",
             "value":"အကိုးအကား ရုပ်ပုံ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"comic_strip",
-            "value":"Comic strip",
             "attr":{
                 "priority":"translate"
             }
@@ -2362,13 +2299,6 @@
         {
             "name":"node_graph_confirm",
             "value":"အိုကေ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"impressionist_painting",
-            "value":"Impressionist",
             "attr":{
                 "priority":"translate"
             }
@@ -2409,13 +2339,6 @@
             }
         },
         {
-            "name":"resin_painting",
-            "value":"Resin",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"watercolour_painting",
             "value":"Watercolor",
             "attr":{
@@ -2451,13 +2374,6 @@
             }
         },
         {
-            "name":"line_drawing",
-            "value":"Line drawing",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_from_images",
             "value":"ပုံမှ ပုံသို့",
             "attr":{
@@ -2474,48 +2390,6 @@
         {
             "name":"image_clarity",
             "value":"အရည်အသွေး",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"sketch_drawing",
-            "value":"Sketch",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"renaissance_painting",
-            "value":"Renaissance",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"classical_painting",
-            "value":"Classical",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"blind_box",
-            "value":"Blind box",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_from_graffiti",
-            "value":"Doodle မှ ရုပ်ပုံ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"transparent_painting",
-            "value":"Transparent",
             "attr":{
                 "priority":"translate"
             }
@@ -2576,14 +2450,7 @@
                 "priority":"translate"
             }
         },
-        {
-            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"မူရင်းပုံပေါ်တွင် သင်လုပ်ဆောင်ခဲ့သော Doodle များနှင့် ရွေးချယ်မှုများကို ဖယ်ရှားသွားပါမည်။",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
+{
             "name":"node_graph_resource_download_failed",
             "value":"အရင်းအမြစ် ဒေါင်းလုဒ်လုပ်မှု မအောင်မြင်ပါ။",
             "attr":{
@@ -2611,14 +2478,7 @@
                 "priority":"translate"
             }
         },
-        {
-            "name":"node_graph_selected_text_exceeds_limit",
-            "value":"ရွေးချယ်ထားသော စာသားသည် စာလုံးရေ ကန့်သတ်ချက်ကို ကျော်လွန်နေပါသည်။ စာလုံးရေပိုနည်းသော စာသားကို ရွေးပြီး ထပ်ကြိုးစားပါ။",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
+{
             "name":"node_graph_material_drag_and_drop_failed",
             "value":"ဤပုံကို ဆွဲယူ ထည့်၍ မရနိုင်ပါ။",
             "attr":{

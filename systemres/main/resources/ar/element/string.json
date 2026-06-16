@@ -2119,13 +2119,6 @@
             }
         },
         {
-            "name":"maintain_the_layout_keyword",
-            "value":"الاحتفاظ بتخطيط العناصر الرسومية",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"ai_thinking",
             "value":"جارٍ البحث…",
             "attr":{
@@ -2196,13 +2189,6 @@
             }
         },
         {
-            "name":"sticker_effect_keyword",
-            "value":"إنشاء ملصق بمخطط أبيض",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"sticker_effect",
             "value":"تأثيرات الملصقات",
             "attr":{
@@ -2210,36 +2196,8 @@
             }
         },
         {
-            "name":"node_graph_standard_definition",
-            "value":"قياسي",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chibi_art",
-            "value":"لطيف",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"standard_definition_1k",
-            "value":"دقة عادية (1K)",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"wash_painting",
             "value":"حبر سائل",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"grass_weaving_painting",
-            "value":"نسج القش",
             "attr":{
                 "priority":"translate"
             }
@@ -2336,22 +2294,8 @@
             }
         },
         {
-            "name":"chalk_drawing",
-            "value":"ألوان شمعية",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"هل تريد مسح اللوحة؟",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"clay_painting",
-            "value":"ترابي",
             "attr":{
                 "priority":"translate"
             }
@@ -2366,13 +2310,6 @@
         {
             "name":"image_reference",
             "value":"الصورة المرجعية",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"comic_strip",
-            "value":"شريط مصور",
             "attr":{
                 "priority":"translate"
             }
@@ -2401,13 +2338,6 @@
         {
             "name":"node_graph_confirm",
             "value":"موافق",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"impressionist_painting",
-            "value":"انطباعي",
             "attr":{
                 "priority":"translate"
             }
@@ -2448,13 +2378,6 @@
             }
         },
         {
-            "name":"resin_painting",
-            "value":"راتنجي",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"watercolour_painting",
             "value":"لون مائي",
             "attr":{
@@ -2490,13 +2413,6 @@
             }
         },
         {
-            "name":"line_drawing",
-            "value":"رسم خط",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_from_images",
             "value":"صورة إلى صورة",
             "attr":{
@@ -2513,48 +2429,6 @@
         {
             "name":"image_clarity",
             "value":"الجودة",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"sketch_drawing",
-            "value":"رسم تخطيطي",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"renaissance_painting",
-            "value":"نهضة",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"classical_painting",
-            "value":"كلاسيكي",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"blind_box",
-            "value":"صندوق مفاجآت",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_from_graffiti",
-            "value":"من رسم إلى صورة",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"transparent_painting",
-            "value":"شفاف",
             "attr":{
                 "priority":"translate"
             }
@@ -2616,13 +2490,6 @@
             }
         },
         {
-            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"سيتم تجاهل الرسومات والتحديدات التي أجريتها على الصورة الأصلية.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_resource_download_failed",
             "value":"تعذر تنزيل المصدر",
             "attr":{
@@ -2646,13 +2513,6 @@
         {
             "name":"node_graph_material_type_invalid",
             "value":"نوع العنصر غير مدعوم",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_selected_text_exceeds_limit",
-            "value":"يتجاوز النص المُحدد الحد الأقصى للحروف، يُرجى تحديد عدد حروف أقل وإعادة المحاولة",
             "attr":{
                 "priority":"translate"
             }

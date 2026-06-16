@@ -2122,13 +2122,6 @@
             }
         },
         {
-            "name":"maintain_the_layout_keyword",
-            "value":"グラフィカル要素のレイアウトを維持",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"ai_thinking",
             "value":"考え中…",
             "attr":{
@@ -2199,13 +2192,6 @@
             }
         },
         {
-            "name":"sticker_effect_keyword",
-            "value":"白いアウトラインでステッカーを作成",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"sticker_effect",
             "value":"ステッカー効果",
             "attr":{
@@ -2213,36 +2199,8 @@
             }
         },
         {
-            "name":"node_graph_standard_definition",
-            "value":"標準",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chibi_art",
-            "value":"キュート",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"standard_definition_1k",
-            "value":"SD（1K）",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"wash_painting",
             "value":"水墨",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"grass_weaving_painting",
-            "value":"わら編み",
             "attr":{
                 "priority":"translate"
             }
@@ -2339,22 +2297,8 @@
             }
         },
         {
-            "name":"chalk_drawing",
-            "value":"クレヨン",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"キャンバスを消去しますか？",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"clay_painting",
-            "value":"粘土",
             "attr":{
                 "priority":"translate"
             }
@@ -2369,13 +2313,6 @@
         {
             "name":"image_reference",
             "value":"参照画像",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"comic_strip",
-            "value":"漫画",
             "attr":{
                 "priority":"translate"
             }
@@ -2404,13 +2341,6 @@
         {
             "name":"node_graph_confirm",
             "value":"OK",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"impressionist_painting",
-            "value":"印象派",
             "attr":{
                 "priority":"translate"
             }
@@ -2451,13 +2381,6 @@
             }
         },
         {
-            "name":"resin_painting",
-            "value":"樹脂",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"watercolour_painting",
             "value":"水彩",
             "attr":{
@@ -2493,13 +2416,6 @@
             }
         },
         {
-            "name":"line_drawing",
-            "value":"線画",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_from_images",
             "value":"画像から画像",
             "attr":{
@@ -2516,48 +2432,6 @@
         {
             "name":"image_clarity",
             "value":"画質",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"sketch_drawing",
-            "value":"スケッチ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"renaissance_painting",
-            "value":"ルネサンス",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"classical_painting",
-            "value":"クラシック",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"blind_box",
-            "value":"ブラインドボックス",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_from_graffiti",
-            "value":"落書きから画像へ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"transparent_painting",
-            "value":"透明",
             "attr":{
                 "priority":"translate"
             }
@@ -2619,13 +2493,6 @@
             }
         },
         {
-            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"元の画像で行った落書きや選択範囲は破棄されます。",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_resource_download_failed",
             "value":"リソースのダウンロードに失敗しました。",
             "attr":{
@@ -2649,13 +2516,6 @@
         {
             "name":"node_graph_material_type_invalid",
             "value":"アイテムタイプはサポートされていません。",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_selected_text_exceeds_limit",
-            "value":"選択されたテキストが文字数制限を超えています。選択する文字数を減らして、再試行してください。",
             "attr":{
                 "priority":"translate"
             }

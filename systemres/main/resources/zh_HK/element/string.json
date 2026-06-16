@@ -2087,13 +2087,6 @@
             }
         },
         {
-            "name":"maintain_the_layout_keyword",
-            "value":"保持輸入圖片的位置關係",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"ai_thinking",
             "value":"思考中…",
             "attr":{
@@ -2164,13 +2157,6 @@
             }
         },
         {
-            "name":"sticker_effect_keyword",
-            "value":"帶白色描邊的貼紙效果",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"sticker_effect",
             "value":"貼紙效果",
             "attr":{
@@ -2178,36 +2164,8 @@
             }
         },
         {
-            "name":"node_graph_standard_definition",
-            "value":"標清",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chibi_art",
-            "value":"Q 版",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"standard_definition_1k",
-            "value":"標清 1K",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"wash_painting",
             "value":"水墨畫",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"grass_weaving_painting",
-            "value":"草編",
             "attr":{
                 "priority":"translate"
             }
@@ -2304,22 +2262,8 @@
             }
         },
         {
-            "name":"chalk_drawing",
-            "value":"蠟筆畫",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"清除畫布",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"clay_painting",
-            "value":"黏土",
             "attr":{
                 "priority":"translate"
             }
@@ -2334,13 +2278,6 @@
         {
             "name":"image_reference",
             "value":"圖片參考",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"comic_strip",
-            "value":"分格漫畫",
             "attr":{
                 "priority":"translate"
             }
@@ -2369,13 +2306,6 @@
         {
             "name":"node_graph_confirm",
             "value":"確認",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"impressionist_painting",
-            "value":"印象派",
             "attr":{
                 "priority":"translate"
             }
@@ -2416,13 +2346,6 @@
             }
         },
         {
-            "name":"resin_painting",
-            "value":"樹脂",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"watercolour_painting",
             "value":"水彩",
             "attr":{
@@ -2458,13 +2381,6 @@
             }
         },
         {
-            "name":"line_drawing",
-            "value":"線描",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_from_images",
             "value":"圖片建立圖片",
             "attr":{
@@ -2481,48 +2397,6 @@
         {
             "name":"image_clarity",
             "value":"清晰度",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"sketch_drawing",
-            "value":"速寫",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"renaissance_painting",
-            "value":"文藝復興",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"classical_painting",
-            "value":"古典主義",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"blind_box",
-            "value":"盲盒",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_from_graffiti",
-            "value":"塗鴉建圖",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"transparent_painting",
-            "value":"透明",
             "attr":{
                 "priority":"translate"
             }
@@ -2584,13 +2458,6 @@
             }
         },
         {
-            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"操作後將不保留在原始圖像上的塗鴉和圈選。繼續？",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_resource_download_failed",
             "value":"資源無法下載",
             "attr":{
@@ -2614,13 +2481,6 @@
         {
             "name":"node_graph_material_type_invalid",
             "value":"素材類型不符合規定",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_selected_text_exceeds_limit",
-            "value":"已選文字超過規定字數，請修改後重試",
             "attr":{
                 "priority":"translate"
             }
