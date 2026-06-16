@@ -2122,13 +2122,6 @@
             }
         },
         {
-            "name":"maintain_the_layout_keyword",
-            "value":"그래픽 요소의 레이아웃 유지",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"ai_thinking",
             "value":"생각하는 중…",
             "attr":{
@@ -2199,13 +2192,6 @@
             }
         },
         {
-            "name":"sticker_effect_keyword",
-            "value":"흰색 윤곽선이 있는 스티커 생성",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"sticker_effect",
             "value":"스티커 효과",
             "attr":{
@@ -2213,36 +2199,8 @@
             }
         },
         {
-            "name":"node_graph_standard_definition",
-            "value":"표준",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chibi_art",
-            "value":"귀여움",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"standard_definition_1k",
-            "value":"SD(1K)",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"wash_painting",
             "value":"수묵화",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"grass_weaving_painting",
-            "value":"짚 직조",
             "attr":{
                 "priority":"translate"
             }
@@ -2339,22 +2297,8 @@
             }
         },
         {
-            "name":"chalk_drawing",
-            "value":"크레용",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"캔버스를 삭제하시겠습니까?",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"clay_painting",
-            "value":"점토",
             "attr":{
                 "priority":"translate"
             }
@@ -2369,13 +2313,6 @@
         {
             "name":"image_reference",
             "value":"참조 이미지",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"comic_strip",
-            "value":"연재 만화",
             "attr":{
                 "priority":"translate"
             }
@@ -2404,13 +2341,6 @@
         {
             "name":"node_graph_confirm",
             "value":"확인",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"impressionist_painting",
-            "value":"인상파",
             "attr":{
                 "priority":"translate"
             }
@@ -2451,13 +2381,6 @@
             }
         },
         {
-            "name":"resin_painting",
-            "value":"레진",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"watercolour_painting",
             "value":"수채화",
             "attr":{
@@ -2493,13 +2416,6 @@
             }
         },
         {
-            "name":"line_drawing",
-            "value":"선 그리기",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_from_images",
             "value":"이미지-이미지",
             "attr":{
@@ -2516,48 +2432,6 @@
         {
             "name":"image_clarity",
             "value":"화질",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"sketch_drawing",
-            "value":"스케치",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"renaissance_painting",
-            "value":"르네상스",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"classical_painting",
-            "value":"클래식",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"blind_box",
-            "value":"블라인드 박스",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_from_graffiti",
-            "value":"낙서에서 이미지 생성",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"transparent_painting",
-            "value":"투명",
             "attr":{
                 "priority":"translate"
             }
@@ -2619,13 +2493,6 @@
             }
         },
         {
-            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"원본 이미지의 낙서나 선택한 부분이 모두 삭제됩니다.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_resource_download_failed",
             "value":"리소스 다운로드에 실패했습니다.",
             "attr":{
@@ -2649,13 +2516,6 @@
         {
             "name":"node_graph_material_type_invalid",
             "value":"항목 유형이 지원되지 않습니다.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_selected_text_exceeds_limit",
-            "value":"선택한 텍스트가 문자 수 제한을 초과합니다. 더 적은 문자를 선택하고 다시 시도하십시오.",
             "attr":{
                 "priority":"translate"
             }

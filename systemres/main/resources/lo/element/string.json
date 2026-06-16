@@ -2080,13 +2080,6 @@
             }
         },
         {
-            "name":"maintain_the_layout_keyword",
-            "value":"ຮັກສາແຜນຜັງຂອງອົງປະກອບກຣາບຟິກໄວ້",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"ai_thinking",
             "value":"ກຳລັງຄິດ…",
             "attr":{
@@ -2157,13 +2150,6 @@
             }
         },
         {
-            "name":"sticker_effect_keyword",
-            "value":"ສ້າງສະຕິກເກີດ້ວຍໂຄງຮ່າງສີຂາວ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"sticker_effect",
             "value":"ເອັບເຝັກສະຕິກເກີ",
             "attr":{
@@ -2171,36 +2157,8 @@
             }
         },
         {
-            "name":"node_graph_standard_definition",
-            "value":"ມາດຕະຖານ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chibi_art",
-            "value":"ງາມ​ເປັນຕາຮັກ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"standard_definition_1k",
-            "value":"SD (1K)",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"wash_painting",
             "value":"ການລ້າງນ້ຳເມິກ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"grass_weaving_painting",
-            "value":"ການສານເຟືອງ",
             "attr":{
                 "priority":"translate"
             }
@@ -2297,22 +2255,8 @@
             }
         },
         {
-            "name":"chalk_drawing",
-            "value":"ສໍສີ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"ລຶບລ້າງແຄນວາສບໍ?",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"clay_painting",
-            "value":"ເຄື່ອງປັ້ນດິນເຜົາ",
             "attr":{
                 "priority":"translate"
             }
@@ -2327,13 +2271,6 @@
         {
             "name":"image_reference",
             "value":"ຮູບພາບອ້າງອີງ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"comic_strip",
-            "value":"ກາຕູນຊ່ອງ",
             "attr":{
                 "priority":"translate"
             }
@@ -2362,13 +2299,6 @@
         {
             "name":"node_graph_confirm",
             "value":"ຕົກລົງ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"impressionist_painting",
-            "value":"ນັກແຕ້ມຮູບແບບມົວໆ",
             "attr":{
                 "priority":"translate"
             }
@@ -2409,13 +2339,6 @@
             }
         },
         {
-            "name":"resin_painting",
-            "value":"ຢາງຕົ້ນໄມ້",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"watercolour_painting",
             "value":"ສີນ້ຳ",
             "attr":{
@@ -2451,13 +2374,6 @@
             }
         },
         {
-            "name":"line_drawing",
-            "value":"ການແຕ້ມເສັ້ນ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_from_images",
             "value":"ຮູບພາບເປັນຮູບພາບ",
             "attr":{
@@ -2474,48 +2390,6 @@
         {
             "name":"image_clarity",
             "value":"ຄຸນນະພາບ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"sketch_drawing",
-            "value":"ຮູບສະເກັດ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"renaissance_painting",
-            "value":"ສະໄໝຟື້ນຟູສິລະປະ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"classical_painting",
-            "value":"ແບບຄລາສສິກ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"blind_box",
-            "value":"ກ່ອງສຸ່ມ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_from_graffiti",
-            "value":"ການຂີດຂຽນເປັນຮູບພາບ",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"transparent_painting",
-            "value":"ໂປ່ງແສງ",
             "attr":{
                 "priority":"translate"
             }
@@ -2577,13 +2451,6 @@
             }
         },
         {
-            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"ການແຕ້ມຫຼິ້ນ ແລະ ການເລືອກທີ່ທ່ານເຮັດໃນຮູບພາບຕົ້ນສະບັບຈະຖືກລຶບຖິ້ມ.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_resource_download_failed",
             "value":"ການດາວໂຫຼດຊັບພະຍາກອນບໍ່ສຳເລັດ.",
             "attr":{
@@ -2607,13 +2474,6 @@
         {
             "name":"node_graph_material_type_invalid",
             "value":"ປະເພດລາຍການບໍ່ຖືກຮອງຮັບ.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_selected_text_exceeds_limit",
-            "value":"ຂໍ້ຄວາມທີ່ເລືອກແລ້ວເກີນຂີດຈຳກັດຕົວອັກຂະລະແລ້ວ. ເລືອກຕົວອັກຂະລະໜ້ອຍລົງ ແລະ ລອງໃໝ່ອີກ.",
             "attr":{
                 "priority":"translate"
             }

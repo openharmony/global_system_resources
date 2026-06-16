@@ -2435,41 +2435,6 @@
             }
         },
         {
-            "name":"line_drawing",
-            "value":"线描",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chibi_art",
-            "value":"Q 版",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"comic_strip",
-            "value":"分格漫画",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"blind_box",
-            "value":"盲盒",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chalk_drawing",
-            "value":"蜡笔画",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"cyberpunk",
             "value":"赛博朋克",
             "attr":{
@@ -2477,64 +2442,8 @@
             }
         },
         {
-            "name":"sketch_drawing",
-            "value":"速写",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"impressionist_painting",
-            "value":"印象派",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"classical_painting",
-            "value":"古典主义",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"renaissance_painting",
-            "value":"文艺复兴",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"grass_weaving_painting",
-            "value":"草编",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"plush_painting",
             "value":"毛绒",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"resin_painting",
-            "value":"树脂",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"clay_painting",
-            "value":"粘土",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"transparent_painting",
-            "value":"透明",
             "attr":{
                 "priority":"translate"
             }
@@ -2591,20 +2500,6 @@
         {
             "name":"sticker_effect",
             "value":"贴纸效果",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"maintain_the_layout_keyword",
-            "value":"保持输入图片的位置关系",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"sticker_effect_keyword",
-            "value":"带白色描边的贴纸效果",
             "attr":{
                 "priority":"translate"
             }
@@ -2782,13 +2677,6 @@
             }
         },
         {
-            "name":"standard_definition_1k",
-            "value":"标清 1K",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"high_definition_2k",
             "value":"高清 2K",
             "attr":{
@@ -2859,13 +2747,6 @@
             }
         },
         {
-            "name":"image_generation_from_graffiti",
-            "value":"涂鸦生图",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_confirm",
             "value":"确认",
             "attr":{
@@ -2882,13 +2763,6 @@
         {
             "name":"node_graph_photo_save",
             "value":"已保存至图库",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_standard_definition",
-            "value":"标清",
             "attr":{
                 "priority":"translate"
             }
@@ -2917,13 +2791,6 @@
         {
             "name":"node_graph_copy_node_fail",
             "value":"复制节点失败！",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_selected_text_exceeds_limit",
-            "value":"已选文字超过规定字数，请修改后重试",
             "attr":{
                 "priority":"translate"
             }
@@ -3019,13 +2886,6 @@
         {
             "name":"node_graph_image_replacement_cannot_preserve_operations",
             "value":"替换图片无法保留操作",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"操作后将不保留在原始图像上的涂鸦和圈选，是否继续？",
             "attr":{
                 "priority":"translate"
             }

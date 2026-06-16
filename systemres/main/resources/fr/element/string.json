@@ -2122,13 +2122,6 @@
             }
         },
         {
-            "name":"maintain_the_layout_keyword",
-            "value":"Conserver la disposition des éléments graphiques",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"ai_thinking",
             "value":"Réflexion en cours.",
             "attr":{
@@ -2199,13 +2192,6 @@
             }
         },
         {
-            "name":"sticker_effect_keyword",
-            "value":"Créer un autocollant avec un contour blanc",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"sticker_effect",
             "value":"Effets d'autocollants",
             "attr":{
@@ -2213,36 +2199,8 @@
             }
         },
         {
-            "name":"node_graph_standard_definition",
-            "value":"Standard",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"chibi_art",
-            "value":"Mignon",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"standard_definition_1k",
-            "value":"SD (1K)",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"wash_painting",
             "value":"Lavis à l'encre",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"grass_weaving_painting",
-            "value":"Tressage de la paille",
             "attr":{
                 "priority":"translate"
             }
@@ -2339,22 +2297,8 @@
             }
         },
         {
-            "name":"chalk_drawing",
-            "value":"Crayon",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"clear_canvas",
             "value":"Effacer la toile ?",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"clay_painting",
-            "value":"En argile",
             "attr":{
                 "priority":"translate"
             }
@@ -2369,13 +2313,6 @@
         {
             "name":"image_reference",
             "value":"Image de référence",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"comic_strip",
-            "value":"Bande dessinée",
             "attr":{
                 "priority":"translate"
             }
@@ -2404,13 +2341,6 @@
         {
             "name":"node_graph_confirm",
             "value":"OK",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"impressionist_painting",
-            "value":"Impressionnisme",
             "attr":{
                 "priority":"translate"
             }
@@ -2451,13 +2381,6 @@
             }
         },
         {
-            "name":"resin_painting",
-            "value":"Résine",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"watercolour_painting",
             "value":"Aquarelle",
             "attr":{
@@ -2493,13 +2416,6 @@
             }
         },
         {
-            "name":"line_drawing",
-            "value":"Dessin au trait",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_from_images",
             "value":"Image en image",
             "attr":{
@@ -2516,48 +2432,6 @@
         {
             "name":"image_clarity",
             "value":"Qualité",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"sketch_drawing",
-            "value":"Esquisse",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"renaissance_painting",
-            "value":"Renaissance",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"classical_painting",
-            "value":"Classique",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"blind_box",
-            "value":"Boîte mystère",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_from_graffiti",
-            "value":"Transformer un gribouillage en image",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"transparent_painting",
-            "value":"Transparent",
             "attr":{
                 "priority":"translate"
             }
@@ -2619,13 +2493,6 @@
             }
         },
         {
-            "name":"node_graph_doodles_selections_not_preserved_confirm_operation",
-            "value":"Les griffonnages et les sélections réalisées sur l'image originale seront supprimés.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"node_graph_resource_download_failed",
             "value":"Le téléchargement des ressources a échoué.",
             "attr":{
@@ -2649,13 +2516,6 @@
         {
             "name":"node_graph_material_type_invalid",
             "value":"Ce type d'élément n'est pas pris en charge.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"node_graph_selected_text_exceeds_limit",
-            "value":"Le texte sélectionné dépasse la limite de caractères. Veuillez sélectionner moins de caractères, puis réessayez.",
             "attr":{
                 "priority":"translate"
             }
