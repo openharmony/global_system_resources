@@ -3032,7 +3032,7 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_creations",
-            "value":"退出将无法保留创作",
+            "value":"关闭将无法保留创作",
             "attr":{
                 "priority":"translate"
             }
@@ -3526,7 +3526,7 @@
         },
         {
             "name":"image_generation_exit_confirm_generating",
-            "value":"关闭将无法保留创作，关闭后将中断当前生图流程，已生成的内容无法保存，是否关闭？",
+            "value":"关闭后将终止当前生图进程，已生成的内容无法保存，是否关闭？",
             "attr":{
                 "priority":"translate"
             }
@@ -3580,7 +3580,7 @@
         },
         {
             "name":"image_generation_general_guide_sixth",
-            "value":"完成创作后，可以下载到图库、添加至笔记原文或贴纸库，也可以重新编辑或基于结果继续创作。%s",
+            "value":"完成创作后，可以重新编辑或基于结果继续创作，也可以将作品保存至图库或分享。%s",
             "attr":{
                 "priority":"translate"
             }
@@ -3927,7 +3927,7 @@
         },
         {
             "name":"image_generation_enable_and_auto_save_photo",
-            "value":"开启后，由 AI 生成的图片将自动保存至“图库”>“灵感妙创”中。",
+            "value":"开启后，由 AI 生成的图片将自动保存至“图库”中。",
             "attr":{
                 "priority":"translate"
             }
@@ -3941,7 +3941,7 @@
         },
         {
             "name":"image_generation_enable_and_auto_save_photo_select_change",
-            "value":"开启后，由 AI 生成的图片将自动保存至“图库”>“灵感妙创”中。选择后可在“更多”>“自动保存”中更改。",
+            "value":"开启后，由 AI 生成的图片将自动保存至“图库”中。选择后可在“更多”>“自动保存”中更改。",
             "attr":{
                 "priority":"translate"
             }
@@ -4201,6 +4201,14 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_switch_graph_title",
+            "value":"切换画布将中断生成任务"
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"您的生图任务尚未完成，切换画布将终止本次生图进程。"
         }
     ]
 }
