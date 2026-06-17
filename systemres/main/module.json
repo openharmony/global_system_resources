@@ -7320,6 +7320,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.DCAS_RUN_MODEL",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
  	            "name": "ohos.permission.MANAGE_AOD",
  	            "grantMode": "system_grant",
  	            "availableLevel": "system_core",
