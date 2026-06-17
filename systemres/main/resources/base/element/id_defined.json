@@ -39505,6 +39505,16 @@
  	        "type": "float",
  	        "name": "scroll_bar_interactive",
  	        "order": 7819
- 	    }
+ 	    },
+        {
+            "type": "string",
+            "name":"image_generation_switch_graph_title",
+            "order": 7820
+        },
+        {
+            "type": "string",
+            "name":"image_generation_switch_graph_description",
+            "order": 7821
+        }
     ]
 }
