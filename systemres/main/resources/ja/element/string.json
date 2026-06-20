@@ -3187,7 +3187,7 @@
         },
         {
             "name":"image_generation_general_guide_sixth",
-            "value":"画像の生成後、ギャラリーへの保存、メモまたはステッカーコレクションへの追加、生成画像の編集、もしくは再生成を行えます。%s",
+            "value":"画像が生成されたら、再生成したり、生成された画像を編集したり、[ギャラリー]に保存したり、共有したりすることができます。%s",
             "attr":{
                 "priority":"translate"
             }
@@ -3446,14 +3446,14 @@
         },
         {
             "name":"image_generation_enable_and_auto_save_photo_select_change",
-            "value":"AIによって生成された画像は、自動的に[ギャラリー] > [スマートキャンバス]に保存されます。この設定は、後で[詳細]メニューからオフにできます。",
+            "value":"AIによって生成された画像は、自動的に[ギャラリー]に保存されます。この設定は、後で[詳細メニュー]からオフにすることができます。",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_enable_and_auto_save_photo",
-            "value":"AIによって生成された画像は、自動的に[ギャラリー] > [スマートキャンバス]に保存されます。",
+            "value":"AIによって生成された画像は、自動的に[ギャラリー]に保存されます。",
             "attr":{
                 "priority":"translate"
             }
