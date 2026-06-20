@@ -7248,6 +7248,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_FUNCTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_DLP_SERVICE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -7317,6 +7326,15 @@
                 "since": 24,
                 "deprecated": "",
                 "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.DCAS_RUN_MODEL",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": false,
                 "distributedSceneEnable": false
             },
             {
@@ -7892,6 +7910,15 @@
             },
             {
                 "name": "ohos.permission.MANAGE_AUDIO_ACCESSORY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.HDC_REPORT_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": "26.0.0",
