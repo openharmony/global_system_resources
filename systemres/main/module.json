@@ -6987,6 +6987,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.vehicle.ACCESS_DFT_LOG",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.vehicle.AUTO_UPDATER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
