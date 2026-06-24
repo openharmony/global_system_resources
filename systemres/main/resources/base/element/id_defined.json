@@ -39515,6 +39515,21 @@
             "type": "string",
             "name":"image_generation_switch_graph_description",
             "order": 7821
+        },
+        {
+            "type": "string",
+            "name":"popup_button_enable_flex_grow",
+            "order": 7822
+        },
+        {
+            "type": "float",
+            "name":"popup_age_text_left_padding",
+            "order": 7823
+        },
+        {
+            "type": "float",
+            "name":"popup_age_text_right_padding",
+            "order": 7824
         }
     ]
 }
