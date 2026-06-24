@@ -7594,7 +7594,7 @@
             {
                 "name": "ohos.permission.vehicle.ACCESS_CAR_SECURITY_PRIVACY",
                 "grantMode": "system_grant",
-                "availableType": "NORMAL",
+                "availableLevel": "normal",
                 "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": false,
@@ -7603,7 +7603,7 @@
             {
                 "name": "ohos.permission.vehicle.CAR_SECURITY_PRIVACY_SET_PRIVACY_CONSENT",
                 "grantMode": "system_grant",
-                "availableType": "SYSTEM",
+                "availableLevel": "system_basic",
                 "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
@@ -7612,7 +7612,7 @@
             {
                 "name": "ohos.permission.vehicle.CAR_SECURITY_PRIVACY_SET_DRIVER_SEAT_PRIVACY",
                 "grantMode": "system_grant",
-                "availableType": "SYSTEM",
+                "availableLevel": "system_basic",
                 "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
@@ -7621,7 +7621,7 @@
             {
                 "name": "ohos.permission.vehicle.CAR_SECURITY_PRIVACY_SET_CLEAR_TRACE",
                 "grantMode": "system_grant",
-                "availableType": "SYSTEM",
+                "availableLevel": "system_basic",
                 "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
@@ -7630,7 +7630,7 @@
             {
                 "name": "ohos.permission.vehicle.CAR_SECURITY_PRIVACY_SET_SENSORTYPE_STATE",
                 "grantMode": "system_grant",
-                "availableType": "SYSTEM",
+                "availableLevel": "system_basic",
                 "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
@@ -7639,7 +7639,7 @@
             {
                 "name": "ohos.permission.vehicle.CAR_SECURITY_PRIVACY_SET_REMOTELOCATION",
                 "grantMode": "system_grant",
-                "availableType": "SYSTEM",
+                "availableLevel": "system_basic",
                 "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
@@ -7648,7 +7648,7 @@
             {
                 "name": "ohos.permission.vehicle.CAR_SECURITY_PRIVACY_ANONYMIZE_VOICE",
                 "grantMode": "system_grant",
-                "availableType": "SYSTEM",
+                "availableLevel": "system_basic",
                 "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
