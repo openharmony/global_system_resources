@@ -3862,6 +3862,18 @@
                 {
                     "name": "popup_close_button_response_region",
                     "value": "$float:popup_close_button_response_region"
+                },
+                {
+                    "name": "popup_button_enable_flex_grow",
+                    "value": "$string:popup_button_enable_flex_grow"
+                },
+                {
+                    "name": "popup_age_text_left_padding",
+                    "value": "$float:popup_age_text_left_padding"
+                },
+                {
+                    "name": "popup_age_text_right_padding",
+                    "value": "$float:popup_age_text_right_padding"
                 }
             ]
         },
