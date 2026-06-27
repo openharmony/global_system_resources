@@ -8061,6 +8061,42 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.vehicle.ACCESS_HUD_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.vehicle.MDCS_SEAMLESS_SHOW",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.vehicle.DISTRACTION_STRATEGY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.vehicle.VEHICLE_CONTROL_STRATEGY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.kernel.SUPPORT_LOCAL_PLUGIN",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
