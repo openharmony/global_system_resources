@@ -51,7 +51,7 @@
         },
         {
             "name":"image_generation_manual_brush",
-            "value":"Ajustar",
+            "value":"Manual",
             "attr":{
                 "priority":"translate"
             }
@@ -2025,7 +2025,7 @@
         },
         {
             "name":"canvas_textiput_placeholder",
-            "value":"Descrever o que se pretende criar",
+            "value":"Descrever o que pretende criar",
             "attr":{
                 "priority":"translate"
             }
@@ -2179,7 +2179,7 @@
         },
         {
             "name":"describe_what_you_want_to_create",
-            "value":"Descrever o que se pretende criar",
+            "value":"Descrever o que pretende criar",
             "attr":{
                 "priority":"translate"
             }
@@ -2851,7 +2851,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Selecione a área a ser ajustada e introduza a descrição para gerar a imagem",
+            "value":"Selecione a área a ser ajustada e introduza a descrição para gerar a imagem.",
             "attr":{
                 "priority":"translate"
             }
@@ -2907,7 +2907,7 @@
         },
         {
             "name":"ai_generating",
-            "value":"A gerar...",
+            "value":"A gerar",
             "attr":{
                 "priority":"translate"
             }
@@ -2984,7 +2984,7 @@
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
-            "value":"As imagens geradas por IA que guardar deixarão de conter a marca de água \"gerada por IA\".",
+            "value":"As imagens geradas por IA que guardar deixarão de conter a marca de água Gerado por IA.",
             "attr":{
                 "priority":"translate"
             }
@@ -3306,7 +3306,7 @@
         },
         {
             "name":"image_generation_canvas_loading",
-            "value":"A carregar a tela...",
+            "value":"A carregar a tela",
             "attr":{
                 "priority":"translate"
             }

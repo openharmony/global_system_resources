@@ -2529,7 +2529,7 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_creations",
-            "value":"結束將無法保留創作",
+            "value":"若關閉，將無法保留創作",
             "attr":{
                 "priority":"translate"
             }
@@ -3124,7 +3124,7 @@
         },
         {
             "name":"image_generation_exit_confirm_generating",
-            "value":"若關閉，將無法保留創作並中斷目前產生圖片流程，已產生的內容也無法儲存。是否關閉？",
+            "value":"關閉後，將終止目前產生圖片處理程序，已產生的內容無法儲存。是否關閉？",
             "attr":{
                 "priority":"translate"
             }

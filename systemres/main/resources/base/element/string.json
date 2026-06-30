@@ -2693,7 +2693,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Pinch or rotate fingers to edit image position",
+            "value":"Pinch or rotate fingers to edit image position.",
             "attr":{
                 "priority":"translate"
             }
@@ -3040,7 +3040,7 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_creations",
-            "value":"Close without saving?",
+            "value":"Exit without saving?",
             "attr":{
                 "priority":"translate"
             }
@@ -3201,7 +3201,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Select area to adjust, then enter description to generate image",
+            "value":"Select area to adjust, then enter description to generate image.",
             "attr":{
                 "priority":"translate"
             }
@@ -3534,7 +3534,7 @@
         },
         {
             "name":"image_generation_exit_confirm_generating",
-            "value":"Closing will terminate the current generation process. Generated content cannot be saved. Close anyway?",
+            "value":"Your work will be lost if you exit now.",
             "attr":{
                 "priority":"translate"
             }
@@ -3794,11 +3794,11 @@
         },
         {
             "name":"image_generation_artwork_about_to_appear",
-            "value":"Your artwork is about to appear"
+            "value":"Almost done"
         },
         {
             "name":"image_generation_generated_failed",
-            "value":"AI generation failed"
+            "value":"AI generation failed."
         },
         {
             "name":"image_generation_region_selection_operation_guidance",

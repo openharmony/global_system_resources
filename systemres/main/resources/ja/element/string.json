@@ -51,7 +51,7 @@
         },
         {
             "name":"image_generation_manual_brush",
-            "value":"調整",
+            "value":"手動",
             "attr":{
                 "priority":"translate"
             }
@@ -156,7 +156,7 @@
         },
         {
             "name":"image_generation_compare_original",
-            "value":"オリジナルの表示",
+            "value":"元画像を表示",
             "attr":{
                 "priority":"translate"
             }
@@ -184,7 +184,7 @@
         },
         {
             "name":"image_generation_delete_graph_description",
-            "value":"これによりキャンバス上のすべてのノードが削除され、元に戻すことはできません。",
+            "value":"これにより、キャンバス上のすべてのノードが削除され、元に戻すことはできません。",
             "attr":{
                 "priority":"translate"
             }
@@ -2214,7 +2214,7 @@
         },
         {
             "name":"prompt_to_clear_the_canvas",
-            "value":"これによりキャンバス上のすべてのノードが削除され、元に戻すことはできません。",
+            "value":"これにより、キャンバス上のすべてのノードが削除され、元に戻すことはできません。",
             "attr":{
                 "priority":"translate"
             }
@@ -2235,7 +2235,7 @@
         },
         {
             "name":"confirm_deletion",
-            "value":"消去する",
+            "value":"消去",
             "attr":{
                 "priority":"translate"
             }
@@ -2459,7 +2459,7 @@
         },
         {
             "name":"node_graph_server_exception",
-            "value":"サーバーエラーが発生しました。後で再試行してください。",
+            "value":"サーバーエラーです。後で再試行してください。",
             "attr":{
                 "priority":"translate"
             }
@@ -2725,7 +2725,7 @@
         },
         {
             "name":"node_graph_confirm_replace",
-            "value":"置換える",
+            "value":"置換え",
             "attr":{
                 "priority":"translate"
             }
@@ -3229,7 +3229,7 @@
         },
         {
             "name":"image_generation_guide_add_options",
-            "value":"スタイル、アスペクト比、品質を設定します。",
+            "value":"スタイル、アスペクト比、画質を設定します。",
             "attr":{
                 "priority":"translate"
             }
@@ -3320,7 +3320,7 @@
         },
         {
             "name":"image_generation_no_canvas",
-            "value":"キャンバスなし",
+            "value":"キャンバスはありません",
             "attr":{
                 "priority":"translate"
             }
@@ -3404,7 +3404,7 @@
         },
         {
             "name":"image_generation_enable",
-            "value":"有効にする",
+            "value":"有効化",
             "attr":{
                 "priority":"translate"
             }

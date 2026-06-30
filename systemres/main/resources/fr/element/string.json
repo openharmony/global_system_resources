@@ -51,7 +51,7 @@
         },
         {
             "name":"image_generation_manual_brush",
-            "value":"Ajuster",
+            "value":"Manuel",
             "attr":{
                 "priority":"translate"
             }
@@ -184,7 +184,7 @@
         },
         {
             "name":"image_generation_delete_graph_description",
-            "value":"Cela retirera tous les nœuds de la toile, cette opération est irréversible.",
+            "value":"Cela retirera tous les nœuds de la toile, et cette opération est irréversible.",
             "attr":{
                 "priority":"translate"
             }
@@ -2067,7 +2067,7 @@
         },
         {
             "name":"canvas_textiput_placeholder",
-            "value":"Description du contenu que vous souhaitez créer",
+            "value":"Description de ce que vous souhaitez créer",
             "attr":{
                 "priority":"translate"
             }
@@ -2095,14 +2095,14 @@
         },
         {
             "name":"maintain_the_layout",
-            "value":"Conserver la disposition",
+            "value":"Conserver la mise en page",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"start_graffiti",
-            "value":"Esquisse",
+            "value":"Griffonnage",
             "attr":{
                 "priority":"translate"
             }
@@ -2151,7 +2151,7 @@
         },
         {
             "name":"abandon_all_changes",
-            "value":"Supprimer les modifications ?",
+            "value":"Supprimer les modifications ?",
             "attr":{
                 "priority":"translate"
             }
@@ -2214,7 +2214,7 @@
         },
         {
             "name":"prompt_to_clear_the_canvas",
-            "value":"Cela retirera tous les nœuds de la toile, cette opération est irréversible.",
+            "value":"Cela retirera tous les nœuds de la toile, et cette opération est irréversible.",
             "attr":{
                 "priority":"translate"
             }
@@ -2396,7 +2396,7 @@
         },
         {
             "name":"prompt_input",
-            "value":"Saisir l'invite",
+            "value":"Saisie de l'invite",
             "attr":{
                 "priority":"translate"
             }
@@ -2445,7 +2445,7 @@
         },
         {
             "name":"node_graph_image_replacement_cannot_preserve_operations",
-            "value":"Remplacer l'image ?",
+            "value":"Remplacer l'image ?",
             "attr":{
                 "priority":"translate"
             }
@@ -2564,7 +2564,7 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_creations",
-            "value":"Quitter sans enregistrer ?",
+            "value":"Quitter sans enregistrer ?",
             "attr":{
                 "priority":"translate"
             }
@@ -2697,7 +2697,7 @@
         },
         {
             "name":"node_graph_wash_painting",
-            "value":"Lavis",
+            "value":"Lavis à l'encre",
             "attr":{
                 "priority":"translate"
             }
@@ -3180,28 +3180,28 @@
         },
         {
             "name":"image_generation_guide_add_generate",
-            "value":"Saisissez du texte, puis touchez Générer.",
+            "value":"Veuillez saisir du texte, puis touchez Générer.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_guide_add_image",
-            "value":"Touchez \"+\" pour ajouter une image de référence.",
+            "value":"Toucher \"+\" permet d'ajouter une image de référence.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_guide_add_graffiti",
-            "value":"Touchez ici pour commencer à gribouiller.",
+            "value":"Toucher ici permet de commencer à gribouiller.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_guide_add_options",
-            "value":"Définissez un style, un format et une qualité d'image.",
+            "value":"Vous pouvez définir un style, un format et une qualité d'image.",
             "attr":{
                 "priority":"translate"
             }
@@ -3236,7 +3236,7 @@
         },
         {
             "name":"image_generation_canvas_guide_first",
-            "value":"Créer sur la toile en reliant les nœuds à l'aide de traits. %s",
+            "value":"Vous pouvez créer sur la toile en reliant les nœuds à l'aide de traits. %s",
             "attr":{
                 "priority":"translate"
             }
@@ -3362,7 +3362,7 @@
         },
         {
             "name":"image_generation_region_selection_operation_guidance",
-            "value":"Connectez un nœud de texte et décrivez la manière dont vous souhaitez modifier la zone sélectionnée.",
+            "value":"Vous pouvez connecter un nœud de texte et décrire la manière dont vous souhaitez modifier la zone sélectionnée.",
             "attr":{
                 "priority":"translate"
             }
@@ -3383,7 +3383,7 @@
         },
         {
             "name":"image_generation_graph_guide_two",
-            "value":"Connectez les nœuds de texte et d'image au nœud générateur.",
+            "value":"Vous pouvez connecter les nœuds de texte et d'image au nœud générateur.",
             "attr":{
                 "priority":"translate"
             }
@@ -3411,7 +3411,7 @@
         },
         {
             "name":"image_generation_long_press_image_matting",
-            "value":"Touchez et maintenez un objet pour le sélectionner et le découper.",
+            "value":"Vous pouvez toucher et maintenir un objet pour le sélectionner et le découper.",
             "attr":{
                 "priority":"translate"
             }
@@ -3425,7 +3425,7 @@
         },
         {
             "name":"image_generation_graph_guide_three",
-            "value":"Créez du contenu en touchant Générer.",
+            "value":"Toucher Générer permet de créer du contenu.",
             "attr":{
                 "priority":"translate"
             }
