@@ -49,7 +49,9 @@
         "rom": "792KB",
         "ram": "700KB",
         "deps": {
-            "components": [],
+            "components": [
+              "ets_frontend"
+            ],
             "third_party": []
         },
         "build": {
