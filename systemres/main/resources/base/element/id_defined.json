@@ -39530,6 +39530,11 @@
             "type": "float",
             "name":"popup_age_text_right_padding",
             "order": 7824
+        },
+        {
+            "type": "string",
+            "name": "text_punctuation_overflow",
+            "order": 7825
         }
     ]
 }
