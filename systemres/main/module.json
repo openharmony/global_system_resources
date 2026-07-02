@@ -8187,6 +8187,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.DETECT_DEVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
