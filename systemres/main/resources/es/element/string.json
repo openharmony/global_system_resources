@@ -51,7 +51,7 @@
         },
         {
             "name":"image_generation_manual_brush",
-            "value":"Ajustar",
+            "value":"Manual",
             "attr":{
                 "priority":"translate"
             }
@@ -170,7 +170,7 @@
         },
         {
             "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
-            "value":"Pulsa aquí para ver.",
+            "value":"Toca aquí para ver.",
             "attr":{
                 "priority":"translate"
             }
@@ -2088,7 +2088,7 @@
         },
         {
             "name":"continue_creating",
-            "value":"Continuar creando",
+            "value":"Seguir creando",
             "attr":{
                 "priority":"translate"
             }
@@ -2165,7 +2165,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Pellizca o gira los dedos para editar la posición de la imagen",
+            "value":"Pellizca o gira con los dedos para ajustar la posición de la imagen",
             "attr":{
                 "priority":"translate"
             }
@@ -2326,7 +2326,7 @@
         },
         {
             "name":"illustration",
-            "value":"Ilustración",
+            "value":"Dibujo",
             "attr":{
                 "priority":"translate"
             }
@@ -2893,7 +2893,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Selecciona el área que quieres ajustar y, a continuación, introduce una descripción para generar la imagen",
+            "value":"Selecciona el área a ajustar e introduce una descripción para generar la imagen.",
             "attr":{
                 "priority":"translate"
             }
@@ -2977,7 +2977,7 @@
         },
         {
             "name":"image_generation_auto",
-            "value":"Automático",
+            "value":"Auto",
             "attr":{
                 "priority":"translate"
             }
@@ -3026,7 +3026,7 @@
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
-            "value":"Las imágenes generadas con IA que guardes ya no contendrán una marca de agua “Generada con IA”.",
+            "value":"Las imágenes generadas con IA que guardes ya no contendrán la marca de agua “Generada con IA”.",
             "attr":{
                 "priority":"translate"
             }
@@ -3061,14 +3061,14 @@
         },
         {
             "name":"image_generation_general_guide_adjust_image_position",
-            "value":"Ajustar la posición de la imagen",
+            "value":"Ajustar posición",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_guide_try_it_now",
-            "value":"Prueba la función ahora",
+            "value":"Probar la función ahora",
             "attr":{
                 "priority":"translate"
             }
@@ -3082,7 +3082,7 @@
         },
         {
             "name":"image_generation_canvas_guide_third",
-            "value":"Conecta los nodos de imagen, texto y generador.",
+            "value":"Conecta los nodos de imagen, texto y generación.",
             "attr":{
                 "priority":"translate"
             }
@@ -3096,14 +3096,14 @@
         },
         {
             "name":"image_generation_canvas_guide_second",
-            "value":"Añade nodos de imagen, texto y generador desde la barra de herramientas o utiliza plantillas para crear flujos de trabajo de texto a imagen y de imagen a imagen.",
+            "value":"Añade nodos de imagen, texto y generación, o utiliza plantillas para crear flujos de texto a imagen e imagen a imagen.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_canvas_guide_fifth",
-            "value":"Pulsa un nodo y, a continuación, pulsa la burbuja flotante para conectarlo rápidamente con otros nodos.",
+            "value":"Pulsa un nodo y luego la burbuja flotante para conectarlo a otros nodos.",
             "attr":{
                 "priority":"translate"
             }
@@ -3145,7 +3145,7 @@
         },
         {
             "name":"image_generation_general_guide_second",
-            "value":"Pulsa una imagen y, a continuación, utiliza dos dedos para ampliarla, girarla o ajustar su posición. La imagen seleccionada se colocará en primer plano.",
+            "value":"Pulsa una imagen y utiliza dos dedos para ampliarla, girarla o moverla. Se colocará en primer plano.",
             "attr":{
                 "priority":"translate"
             }
@@ -3180,7 +3180,7 @@
         },
         {
             "name":"image_generation_general_guide_fourth",
-            "value":"Selecciona una parte de la imagen y, a continuación, introduce una descripción para cambiarla como quieras.",
+            "value":"Selecciona una parte de la imagen y escribe qué quieres cambiar.",
             "attr":{
                 "priority":"translate"
             }
@@ -3222,7 +3222,7 @@
         },
         {
             "name":"image_generation_general_guide_first",
-            "value":"Añade descripciones de texto, imágenes o garabatos y, a continuación, pulsa Generar para crear una imagen. %s",
+            "value":"Añade descripciones de texto, imágenes o garabatos y pulsa Generar para crear una imagen. %s",
             "attr":{
                 "priority":"translate"
             }
@@ -3236,7 +3236,7 @@
         },
         {
             "name":"image_generation_canvas_guide_first",
-            "value":"Crea en el lienzo conectando nodos con líneas. %s",
+            "value":"Crea en el lienzo conectando nodos con líneas.\n%s",
             "attr":{
                 "priority":"translate"
             }
@@ -3362,7 +3362,7 @@
         },
         {
             "name":"image_generation_region_selection_operation_guidance",
-            "value":"Conecta un nodo de texto y escribe una descripción de cómo te gustaría modificar el área seleccionada.",
+            "value":"Conecta un nodo de texto y describe cómo modificar el área seleccionada.",
             "attr":{
                 "priority":"translate"
             }
@@ -3432,7 +3432,7 @@
         },
         {
             "name":"image_generation_auto_save",
-            "value":"Guardar automáticamente",
+            "value":"Autoguardar",
             "attr":{
                 "priority":"translate"
             }

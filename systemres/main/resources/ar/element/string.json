@@ -51,7 +51,7 @@
         },
         {
             "name":"image_generation_manual_brush",
-            "value":"ضبط",
+            "value":"يدوي",
             "attr":{
                 "priority":"translate"
             }
@@ -2267,7 +2267,7 @@
         },
         {
             "name":"node_graph_ultra_hd",
-            "value":"فائق",
+            "value":"فائقة",
             "attr":{
                 "priority":"translate"
             }
@@ -2288,7 +2288,7 @@
         },
         {
             "name":"node_graph_copy_node_fail",
-            "value":"يتعذر نسخ العقدة",
+            "value":"تعذر نسخ العقدة",
             "attr":{
                 "priority":"translate"
             }
@@ -2365,7 +2365,7 @@
         },
         {
             "name":"image_generation",
-            "value":"إنشاء الصور",
+            "value":"إنشاء الصورة",
             "attr":{
                 "priority":"translate"
             }
@@ -2393,14 +2393,14 @@
         },
         {
             "name":"prompt_input",
-            "value":"إدخال رسالة التنبيه",
+            "value":"إدخال الأوامر",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"node_graph_high_definition",
-            "value":"عالٍ",
+            "value":"عالية",
             "attr":{
                 "priority":"translate"
             }
@@ -2918,7 +2918,7 @@
         },
         {
             "name":"image_generation_generator",
-            "value":"المُنشِئ",
+            "value":"معالج الإنشاء",
             "attr":{
                 "priority":"translate"
             }
@@ -2974,7 +2974,7 @@
         },
         {
             "name":"image_generation_auto",
-            "value":"تلقائي",
+            "value":"تلقائية",
             "attr":{
                 "priority":"translate"
             }
@@ -3016,7 +3016,7 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"هل تريد إضافة علامة \"مُنشأة بواسطة الذكاء الاصطناعي\" المائية؟",
+            "value":"هل تريد إضافة العلامة \"مُنشأة بواسطة الذكاء الاصطناعي\" المائية؟",
             "attr":{
                 "priority":"translate"
             }
@@ -3079,7 +3079,7 @@
         },
         {
             "name":"image_generation_canvas_guide_third",
-            "value":"توصيل عُقد المُولِد والصورة والنص معًا.",
+            "value":"توصيل عُقد المُنشئ والصورة والنص معًا.",
             "attr":{
                 "priority":"translate"
             }
@@ -3093,7 +3093,7 @@
         },
         {
             "name":"image_generation_canvas_guide_second",
-            "value":"إضافة عقُد المُولِد والصور والنصوص من شريط الأدوات، أو استخدام القوالب لإنشاء سير عمل لتحويل النص إلى صورة أو الصورة إلى صورة.",
+            "value":"إضافة عقُد المُنشئ والصور والنصوص من شريط الأدوات، أو استخدام القوالب لإنشاء مخطط سير عمل لتحويل النص إلى صورة أو الصورة إلى صورة.",
             "attr":{
                 "priority":"translate"
             }
@@ -3128,14 +3128,14 @@
         },
         {
             "name":"image_generation_general_guide_third",
-            "value":"توليد صور جديدة مع الحفاظ على التخطيط الحالي الذي أنشأته.",
+            "value":"إنشاء صور جديدة مع الحفاظ على التخطيط الحالي الذي أنشأته.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_general_guide_fifth",
-            "value":"ارسم الأشكال الأساسية ثم قم بوصف ما تريد لتوليد صورة.",
+            "value":"ارسم الأشكال الأساسية ثم قم بوصف ما تريد لإنشاء صورة.",
             "attr":{
                 "priority":"translate"
             }
@@ -3198,7 +3198,7 @@
         },
         {
             "name":"image_generation_guide_add_generate",
-            "value":"أدخل نصًا ثم انقر على إنشاء.",
+            "value":"أدخل نصًا ثم انقر على \"إنشاء\".",
             "attr":{
                 "priority":"translate"
             }
@@ -3212,7 +3212,7 @@
         },
         {
             "name":"image_generation_guide_add_graffiti",
-            "value":"انقر هنا لبدء العبث.",
+            "value":"انقر هنا لبدء الرسم.",
             "attr":{
                 "priority":"translate"
             }
@@ -3240,7 +3240,7 @@
         },
         {
             "name":"image_generation_canvas_guide_sixth",
-            "value":"انقر على زر إنشاء الموجود على عقدة مولد الصور لإنشاء صورة. %s",
+            "value":"انقر على زر إنشاء الموجود على عقدة مُنشئ الصور لإنشاء صورة. %s",
             "attr":{
                 "priority":"translate"
             }
@@ -3384,14 +3384,14 @@
         },
         {
             "name":"image_generation_graph_guide_two",
-            "value":"وصّل عُقد النصوص والصور بعُقدة المولد.",
+            "value":"وصّل عُقد النصوص والصور بعُقدة المُنشِئ.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_graph_guide_one",
-            "value":"أضف القوالب أو الصور أو النصوص أو عُقد المولد لمساعدتك.",
+            "value":"أضف القوالب أو الصور أو النصوص أو عُقد المُنشئ لمساعدتك.",
             "attr":{
                 "priority":"translate"
             }
@@ -3412,7 +3412,7 @@
         },
         {
             "name":"image_generation_long_press_image_matting",
-            "value":"انقر مطولًا على عنصرٍ ما لاقتصاصه.",
+            "value":"انقر مطولًا على عنصرٍ ما لاقتصاصه",
             "attr":{
                 "priority":"translate"
             }

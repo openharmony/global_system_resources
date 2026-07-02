@@ -51,7 +51,7 @@
         },
         {
             "name":"image_generation_manual_brush",
-            "value":"Anpassen",
+            "value":"Manuell",
             "attr":{
                 "priority":"translate"
             }
@@ -2172,7 +2172,7 @@
         },
         {
             "name":"prompt_to_clear_the_canvas",
-            "value":"Dadurch werden alle Knoten aus der Leinwand entfernt, und dieser Vorgang kann nicht rückgängig gemacht werden.",
+            "value":"Dadurch werden alle Knoten von der Arbeitsfläche entfernt und dies kann nicht rückgängig gemacht werden.",
             "attr":{
                 "priority":"translate"
             }
@@ -2368,7 +2368,7 @@
         },
         {
             "name":"prompt_for_exceeding_the_node_limit",
-            "value":"Maximal %d Knoten erreicht. Entfernen Sie einige und versuchen Sie es erneut.",
+            "value":"Maximum von %d Knoten erreicht. Entfernen Sie einige und versuchen Sie es erneut.",
             "attr":{
                 "priority":"translate"
             }

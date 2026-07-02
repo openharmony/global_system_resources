@@ -51,7 +51,7 @@
         },
         {
             "name":"image_generation_manual_brush",
-            "value":"Regola",
+            "value":"Manuale",
             "attr":{
                 "priority":"translate"
             }
@@ -191,7 +191,7 @@
         },
         {
             "name":"image_generation_generate_toast",
-            "value":"Aggiungi una descrizione del testo per ottenere risultati più precisi.",
+            "value":"Aggiungi una descrizione testuale per ottenere risultati più precisi.",
             "attr":{
                 "priority":"translate"
             }
@@ -2025,7 +2025,7 @@
         },
         {
             "name":"canvas_textiput_placeholder",
-            "value":"Descrivi ciò che desideri creare",
+            "value":"Descrivi cosa desideri creare",
             "attr":{
                 "priority":"translate"
             }
@@ -2186,7 +2186,7 @@
         },
         {
             "name":"plush_painting",
-            "value":"Peluche",
+            "value":"Morbido",
             "attr":{
                 "priority":"translate"
             }
@@ -2200,7 +2200,7 @@
         },
         {
             "name":"realistic_painting",
-            "value":"Realistica",
+            "value":"Realistico",
             "attr":{
                 "priority":"translate"
             }
@@ -2256,7 +2256,7 @@
         },
         {
             "name":"clear_canvas",
-            "value":"Vuoi cancellare la tela?",
+            "value":"Vuoi cancellare il contenuto della tela?",
             "attr":{
                 "priority":"translate"
             }
@@ -2501,7 +2501,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"È in corso la generazione di un'immagine. Se esci ora, verrà interrotta.",
+            "value":"È in corso la generazione di un'immagine. Se esci ora, questa verrà abbandonata.",
             "attr":{
                 "priority":"translate"
             }
@@ -2725,7 +2725,7 @@
         },
         {
             "name":"node_graph_confirm_replace_image",
-            "value":"I disegni e le selezioni che hai fatto sull'immagine originale verranno eliminati.",
+            "value":"I disegni e le selezioni che hai fatto sull'immagine originale verranno ignorati.",
             "attr":{
                 "priority":"translate"
             }
@@ -2872,7 +2872,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_label",
-            "value":"Filigrana generata dall'IA",
+            "value":"Filigrana Generato dall'IA",
             "attr":{
                 "priority":"translate"
             }
@@ -2977,21 +2977,21 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"Vuoi aggiungere \"Filigrana generata dall'IA\"?",
+            "value":"Vuoi aggiungere la filigrana \"Generato dall'IA\"?",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
-            "value":"Le immagini generate dall'IA salvate non conterranno più una filigrana \"Generata dall'IA\".",
+            "value":"Le immagini generate dall'IA salvate non conterranno più una filigrana \"Generato dall'IA\".",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"In questo modo, verrà aggiunta una \"Filigrana generata dall'IA\" all'immagine. Puoi modificare le tue preferenze in qualsiasi momento in Altro > Filigrana generata dall'IA.",
+            "value":"In questo modo, all'immagine verrà aggiunta la filigrana \"Generato dall'IA\". Puoi modificare le tue preferenze in qualsiasi momento in Altro > Filigrana Generato dall'IA.",
             "attr":{
                 "priority":"translate"
             }
@@ -3012,7 +3012,7 @@
         },
         {
             "name":"image_generation_canvas_guide_generate_image",
-            "value":"Crea immagine",
+            "value":"Genera immagine",
             "attr":{
                 "priority":"translate"
             }
@@ -3054,7 +3054,7 @@
         },
         {
             "name":"image_generation_canvas_guide_second",
-            "value":"Aggiungi nodi immagine, testo e generatore dalla barra degli strumenti oppure usa modelli per creare flussi di lavoro testo-immagine e immagine-immagine.",
+            "value":"Aggiungi nodi di immagine, testo e generazione dalla barra degli strumenti oppure usa modelli per creare flussi di lavoro testo-immagine e immagine-immagine.",
             "attr":{
                 "priority":"translate"
             }
@@ -3152,21 +3152,21 @@
         },
         {
             "name":"image_generation_general_guide_first",
-            "value":"Aggiungi descrizioni testuali, immagini o schizzi, quindi tocca Genera per creare un'immagine. %s",
+            "value":"Aggiungi descrizioni testuali, immagini o disegni, quindi tocca Genera per creare un'immagine. %s",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_guide_learn_more",
-            "value":"Maggiori dettagli",
+            "value":"Ulteriori informazioni",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_guide_add_generate",
-            "value":"Inserisci del testo, quindi tocca Genera.",
+            "value":"Inserisci testo, quindi tocca Genera.",
             "attr":{
                 "priority":"translate"
             }
@@ -3180,7 +3180,7 @@
         },
         {
             "name":"image_generation_guide_add_graffiti",
-            "value":"Tocca qui per iniziare a scarabocchiare.",
+            "value":"Tocca qui per iniziare a disegnare.",
             "attr":{
                 "priority":"translate"
             }
@@ -3194,14 +3194,14 @@
         },
         {
             "name":"image_generation_canvas_guide_first",
-            "value":"Crea sulla tela collegando i nodi con le linee. %s",
+            "value":"Crea contenuti sulla tela collegando i nodi con le linee. %s",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_canvas_guide_sixth",
-            "value":"Tocca il tasto Genera nel nodo del generatore di immagini per creare un'immagine. %s",
+            "value":"Tocca il tasto Genera nel nodo generatore di immagini per creare un'immagine. %s",
             "attr":{
                 "priority":"translate"
             }
@@ -3355,7 +3355,7 @@
         },
         {
             "name":"image_generation_whether_enable_auto_save",
-            "value":"Vuoi abilitare Salvataggio automatico?",
+            "value":"Vuoi abilitare il salvataggio automatico?",
             "attr":{
                 "priority":"translate"
             }

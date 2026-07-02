@@ -51,7 +51,7 @@
         },
         {
             "name":"image_generation_manual_brush",
-            "value":"Adjust",
+            "value":"Manual",
             "attr":{
                 "priority":"translate"
             }
@@ -2137,7 +2137,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Pinch or rotate fingers to edit image position",
+            "value":"Pinch or rotate fingers to edit image position.",
             "attr":{
                 "priority":"translate"
             }
@@ -2865,7 +2865,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Select area to adjust, then enter description to generate image",
+            "value":"Select area to adjust, then enter description to generate image.",
             "attr":{
                 "priority":"translate"
             }

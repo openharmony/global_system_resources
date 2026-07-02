@@ -2529,7 +2529,7 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_creations",
-            "value":"退出將無法保留創作",
+            "value":"關閉將無法保留創作",
             "attr":{
                 "priority":"translate"
             }
@@ -2718,7 +2718,7 @@
         },
         {
             "name":"node_graph_multi_region_selection",
-            "value":"和僅支援單個圖片設定選區，請取消多餘選區後再建立",
+            "value":"僅支援單個圖片設定選區，請取消多餘選區後再建立",
             "attr":{
                 "priority":"translate"
             }
@@ -3124,7 +3124,7 @@
         },
         {
             "name":"image_generation_exit_confirm_generating",
-            "value":"關閉將無法保留創作，關閉後將中斷目前建圖流程，已建立的內容無法儲存。關閉？",
+            "value":"關閉後將終止目前建圖進程，已建立的內容無法儲存。關閉？",
             "attr":{
                 "priority":"translate"
             }

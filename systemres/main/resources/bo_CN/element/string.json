@@ -779,7 +779,7 @@
         },
         {
             "name":"image_generation_compare_original",
-            "value":"དང་ཐོག་གི་འདྲ་པར་དང་བསྡུར།",
+            "value":"མ་པར་དང་བསྡུར་བ།",
             "attr":{
                 "priority":"translate"
             }
@@ -2151,7 +2151,7 @@
         },
         {
             "name":"abandon_changes",
-            "value":"བཟོ་བཅོས་མི་བྱ།",
+            "value":"བཟོ་བཅོས་བློས་གཏོང་།",
             "attr":{
                 "priority":"translate"
             }
@@ -2529,7 +2529,7 @@
         },
         {
             "name":"node_graph_exit_will_not_preserve_creations",
-            "value":"ཕྱིར་འཐེན་བྱས་ཚེ། གསར་རྩོམ་ཉར་ཚགས་བྱེད་མི་ཐུབ།",
+            "value":"ཁ་བརྒྱབ་ཚེ་གསར་རྩོམ་ཉར་ཚགས་བྱེད་མི་ཐུབ།",
             "attr":{
                 "priority":"translate"
             }
@@ -2704,7 +2704,7 @@
         },
         {
             "name":"node_graph_delete_node_will_not_preserve_task",
-            "value":"བསུབས་ཚེ་སྐྱེད་སྒྲུབ་ལས་འགན་མཚམས་འཇོག",
+            "value":"བསུབས་ཚེ་ལས་འགན་སྐྱེད་སྒྲུབ་བྱེད་མཚམས་འཇོག",
             "attr":{
                 "priority":"translate"
             }
@@ -2746,7 +2746,7 @@
         },
         {
             "name":"node_graph_max_prompt_node_input_length",
-            "value":"ཡིག་གྲངས་ཀྱི་ཚད་བཀག་ལ་སླེབས།",
+            "value":"ཡིག་གྲངས་ཚད་བཀག་ལ་སླེབས།",
             "attr":{
                 "priority":"translate"
             }
@@ -3124,7 +3124,7 @@
         },
         {
             "name":"image_generation_exit_confirm_generating",
-            "value":"ཁ་བརྒྱབ་ཚེ་གསར་རྩོམ་ཉར་འཇོག་བྱེད་མི་ཐུབ། ཁ་བརྒྱབ་རྗེས་མིག་སྔའི་པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་བརྒྱུད་རིམ་མཚམས་འཇོག་ངེས། སྐྱེད་སྒྲུབ་བྱུང་ཟིན་པའི་ནང་དོན་ཉར་ཚགས་བྱེད་མི་ཐུབ། ཁ་རྒྱག་དགོས་སམ།",
+            "value":"ཁ་བརྒྱབ་རྗེས་མིག་སྔའི་པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་འཕེལ་རིམ་མཇུག་སྒྲིལ་ངེས། སྐྱེད་སྒྲུབ་བྱུང་ཟིན་པའི་ནང་དོན་ཉར་ཚགས་བྱེད་མི་ཐུབ། ཁ་རྒྱག་དགོས་སམ།",
             "attr":{
                 "priority":"translate"
             }
@@ -3278,7 +3278,7 @@
         },
         {
             "name":"image_generation_untitled_canvas",
-            "value":"མིང་བཏགས་མེད་པའི་འབྲི་རས་",
+            "value":"མིང་བཏགས་མེད་པའི་འབྲི་རས།",
             "attr":{
                 "priority":"translate"
             }
@@ -3352,28 +3352,28 @@
         },
         {
             "name":"image_generation_graph_guide_two",
-            "value":"ཡི་གེ་དང་པར་རིས་སྐྱེད་སྒྲུབ་ཆས་ཀྱི་སྟེང་དུ་འབྲེལ་མཐུད་བྱེད་པ།",
+            "value":"ཡི་གེ་དང་པར་རིས་གཉིས་སྐྱེད་སྒྲུབ་ཆས་ཀྱི་སྟེང་དུ་སྦྲེལ་བ།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_graph_guide_one",
-            "value":"མ་དཔེ་སྣོན་པའམ་པར་རིས་དང་ཡི་གེ། སྐྱེད་སྒྲུབ་ཆས་ཀྱི་གནས་ཚེག་བསྣན་ནས་གསར་རྩོམ་བྱེད་པ།",
+            "value":"མ་དཔེ་སྣོན་པའམ་པར་རིས་དང་ཡི་གེ། སྐྱེད་སྒྲུབ་ཆས་ཀྱི་ཚིགས་ཚེག་བསྣན་ནས་གསར་རྩོམ་བྱེད་པ།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_whether_enable_auto_save",
-            "value":"རང་འགུལ་ཉར་ཚགས་ཀྱི་ཁ་ཕྱེ་རྒྱུ་ཡིན་ནམ།",
+            "value":"རང་འགུལ་ཉར་ཚགས་ཁ་འབྱེད་རྒྱུ་ཡིན་ནམ།",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_enable",
-            "value":"ཁ་ཕྱེ།",
+            "value":"ཁ་འབྱེད།",
             "attr":{
                 "priority":"translate"
             }

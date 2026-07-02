@@ -51,7 +51,7 @@
         },
         {
             "name":"image_generation_manual_brush",
-            "value":"Dostosuj",
+            "value":"Ręczne",
             "attr":{
                 "priority":"translate"
             }
@@ -170,7 +170,7 @@
         },
         {
             "name":"image_generation_ai_generate_click_to_foreground_for_liveview",
-            "value":"Dotknij, aby wyświetlić.",
+            "value":"Dotknij tutaj, aby wyświetlić.",
             "attr":{
                 "priority":"translate"
             }
@@ -2060,7 +2060,7 @@
         },
         {
             "name":"start_graffiti",
-            "value":"Szkicownik",
+            "value":"Szkic",
             "attr":{
                 "priority":"translate"
             }
@@ -2081,7 +2081,7 @@
         },
         {
             "name":"ai_thinking",
-            "value":"Rozmyślanie…",
+            "value":"Myślę…",
             "attr":{
                 "priority":"translate"
             }
@@ -2123,7 +2123,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Uszczypnij lub obróć palce, aby zmienić pozycję obrazu",
+            "value":"Wykonaj gest uszczypnięcia lub obróć palce, aby zmienić położenie obrazu",
             "attr":{
                 "priority":"translate"
             }
@@ -2158,7 +2158,7 @@
         },
         {
             "name":"wash_painting",
-            "value":"Malowanie tuszem",
+            "value":"Rozwodniony tusz",
             "attr":{
                 "priority":"translate"
             }
@@ -2179,7 +2179,7 @@
         },
         {
             "name":"describe_what_you_want_to_create",
-            "value":"Opisz, co chcesz utworzyć",
+            "value":"Opisz, co chcesz stworzyć",
             "attr":{
                 "priority":"translate"
             }
@@ -2291,7 +2291,7 @@
         },
         {
             "name":"node_graph_replace_image",
-            "value":"Zamień obraz",
+            "value":"Zastąp obraz",
             "attr":{
                 "priority":"translate"
             }
@@ -2312,7 +2312,7 @@
         },
         {
             "name":"image_generation_from_text",
-            "value":"Tekst-obraz",
+            "value":"Tekst na obraz",
             "attr":{
                 "priority":"translate"
             }
@@ -2354,7 +2354,7 @@
         },
         {
             "name":"prompt_input",
-            "value":"Wprowadź komunikat",
+            "value":"Wprowadź polecenie",
             "attr":{
                 "priority":"translate"
             }
@@ -2375,7 +2375,7 @@
         },
         {
             "name":"image_generation_from_images",
-            "value":"Obraz-obraz",
+            "value":"Obraz na obraz",
             "attr":{
                 "priority":"translate"
             }
@@ -2403,7 +2403,7 @@
         },
         {
             "name":"node_graph_image_replacement_cannot_preserve_operations",
-            "value":"Zamienić obraz?",
+            "value":"Zastąpić obraz?",
             "attr":{
                 "priority":"translate"
             }
@@ -2536,7 +2536,7 @@
         },
         {
             "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
-            "value":"Dane, których nie zapiszesz, zostaną nieodwracalnie utracone.",
+            "value":"Efekty pracy, których nie zapiszesz, zostaną nieodwracalnie utracone.",
             "attr":{
                 "priority":"translate"
             }
@@ -2648,7 +2648,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"Jeśli usuniesz ten węzeł, obecne zadanie generowania zostanie anulowane.",
+            "value":"Jeśli usuniesz ten węzeł, bieżące zadanie generowania zostanie anulowane.",
             "attr":{
                 "priority":"translate"
             }
@@ -2732,7 +2732,7 @@
         },
         {
             "name":"node_graph_original_ratio",
-            "value":"Pierwotny",
+            "value":"Oryginał",
             "attr":{
                 "priority":"translate"
             }
@@ -2872,7 +2872,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_label",
-            "value":"Znak wodny wygenerowane przez AI",
+            "value":"Znak wodny Materiał wygenerowany przez AI",
             "attr":{
                 "priority":"translate"
             }
@@ -2984,14 +2984,14 @@
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
-            "value":"Zapisane przez Ciebie zdjęcia wygenerowane przez AI nie będą odtąd zawierać znaku wodnego „wygenerowane przez AI”.",
+            "value":"Zapisane przez Ciebie obrazy wygenerowane przez AI nie będą już zawierać znaku wodnego „Materiał wygenerowany przez AI”.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"Spowoduje to dodanie znaku wodnego „Materiał wygenerowany przez AI” do tego obrazu. Zawsze możesz zmienić preferencje w sekcji Więcej > Znak wodny wygenerowane przez AI.",
+            "value":"Spowoduje to dodanie znaku wodnego „Materiał wygenerowany przez AI” do tego obrazu. Zawsze możesz zmienić preferencje w sekcji Więcej > Znak wodny Materiał wygenerowany przez AI.",
             "attr":{
                 "priority":"translate"
             }
@@ -3152,7 +3152,7 @@
         },
         {
             "name":"image_generation_general_guide_first",
-            "value":"Dodawaj opisy tekstowe, obrazy lub bazgroły, a następnie wybierz Generuj, aby stworzyć obraz. %s",
+            "value":"Dodawaj opisy tekstowe, obrazy lub szkice, a następnie dotknij przycisku Generuj, aby stworzyć obraz. %s",
             "attr":{
                 "priority":"translate"
             }
@@ -3166,7 +3166,7 @@
         },
         {
             "name":"image_generation_guide_add_generate",
-            "value":"Wprowadź tekst, a następnie dotknij polecenia Generuj.",
+            "value":"Wprowadź tekst, a następnie dotknij przycisku Generuj.",
             "attr":{
                 "priority":"translate"
             }
@@ -3271,21 +3271,21 @@
         },
         {
             "name":"image_generation_untitled_canvas",
-            "value":"Podłoże bez nazwy",
+            "value":"Kanwa bez nazwy",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_no_canvas",
-            "value":"Brak podłoży",
+            "value":"Brak kanw",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_new_canvas",
-            "value":"Nowe podłoże",
+            "value":"Nowa kanwa",
             "attr":{
                 "priority":"translate"
             }
@@ -3306,28 +3306,28 @@
         },
         {
             "name":"image_generation_canvas_loading",
-            "value":"Wczytywanie podłoża…",
+            "value":"Wczytywanie kanwy…",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_my_canvas",
-            "value":"Moje podłoża",
+            "value":"Moje kanwy",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_region_selection_operation_guidance",
-            "value":"Połącz węzeł źródłowy i wprowadź opis tego, jak chcesz zmienić wybrany obszar.",
+            "value":"Połącz węzeł tekstowy i wprowadź opis tego, jak chcesz zmienić wybrany obszar.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_tab_bar_description",
-            "value":"%s. Stuknij dwukrotnie, aby aktywować. Stuknij dwukrotnie i przytrzymaj, aby otworzyć menu opcji. Stuknij dwukrotnie i przytrzymaj, a następnie przeciągnij w lewo, aby wyświetlić dodatkowe działania.",
+            "value":"%s. Dotknij dwukrotnie, aby aktywować. Dotknij dwukrotnie i przytrzymaj, aby otworzyć menu opcji. Dotknij dwukrotnie i przytrzymaj, a następnie przeciągnij w lewo, aby wyświetlić dodatkowe działania.",
             "attr":{
                 "priority":"translate"
             }
@@ -3383,7 +3383,7 @@
         },
         {
             "name":"image_generation_graph_guide_three",
-            "value":"Dotknij opcji Generuj, aby stworzyć treść.",
+            "value":"Dotknij polecenia Generuj, aby utworzyć treść.",
             "attr":{
                 "priority":"translate"
             }
