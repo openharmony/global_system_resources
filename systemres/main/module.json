@@ -8250,6 +8250,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_ASSOCIATE_ASSISTANT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": true
             }
         ]
     }
