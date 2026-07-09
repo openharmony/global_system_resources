@@ -8225,6 +8225,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_SE_KEY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.FILE_MANAGER_SERVICE_ACCESS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
