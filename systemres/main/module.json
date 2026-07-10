@@ -7583,15 +7583,6 @@
                 "isKernelEffect": true
             },
             {
-                "name": "ohos.permission.LOAD_NATIVE_LIBRARY",
-                "grantMode": "system_grant",
-                "availableLevel": "system_basic",
-                "since": "26.0.0",
-                "deprecated": "",
-                "provisionEnable": false,
-                "distributedSceneEnable": false
-            },
-            {
                 "name": "ohos.permission.QUERY_VOLUME_ENCRYPTION_STATUS",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
