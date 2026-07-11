@@ -8097,6 +8097,24 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CREATE_SIGN_CONTENT_TRUST",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.APPEND_SIGN_CONTENT_TRUST",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.vehicle.MDCS_SEAMLESS_SHOW",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
