@@ -1,16 +1,24 @@
 {
-  "float": [
-    {
-      "name": "bottom_tab_text_size_normal",
-      "value": "12.0vp"
-    },
-    {
-      "name": "alert_container_max_width",
-      "value": "440vp"
-    },
-    {
-      "name": "titlebar_icon_background_space_horizontal",
-      "value": "$float:padding_level8"
-    }
-  ]
+    "float": [
+        {
+            "name": "sheet_title_text_horizontal_margin",
+            "value": "$float:padding_level12"
+        },
+        {
+            "name": "sheet_close_icon_title_space",
+            "value": "$float:padding_level8"
+        },
+        {
+            "name": "bottom_tab_text_size_normal",
+            "value": "12.0vp"
+        },
+        {
+            "name": "alert_container_max_width",
+            "value": "440vp"
+        },
+        {
+            "name": "titlebar_icon_background_space_horizontal",
+            "value": "$float:padding_level8"
+        }
+    ]
 }
