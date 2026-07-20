@@ -7573,6 +7573,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.vehicle.CAR_SECURITY_PRIVACY_SET_SUPER_PRIVACY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.cli.BUNDLE_ACTIVE_INFO",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",
