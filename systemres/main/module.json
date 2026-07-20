@@ -8351,6 +8351,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.UPDATE_FORM_CROSS_BUNDLE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.AGENT_FILE_ACCESS",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",
