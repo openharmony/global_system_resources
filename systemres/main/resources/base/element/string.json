@@ -1366,7 +1366,10 @@
         },
         {
             "name":"cont_developer_mode_tips",
-            "value":"%s Developer options needs to be enabled to run this."
+            "value":"Developer options needs to be enabled to run %s.",
+            "attr":{
+                "priority":"LT"
+            }
         },
         {
             "name":"desc_developer_mode_tips",
