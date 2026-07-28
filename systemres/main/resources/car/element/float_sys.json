@@ -23,6 +23,14 @@
         {
             "name": "titlebar_icon_background_space_horizontal",
             "value": "$float:padding_level8"
+        },
+        {
+            "name": "titlebar_title_margin_left",
+            "value": "$float:padding_level12"
+        },
+        {
+            "name": "titlebar_title_margin_right",
+            "value": "$float:padding_level12"
         }
     ]
 }
