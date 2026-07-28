@@ -4227,11 +4227,17 @@
         },
         {
             "name":"image_generation_switch_graph_title",
-            "value":"Switching canvas will interrupt generation"
+            "value":"Switch canvas?",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_switch_graph_description",
-            "value":"Your image generation task is not yet complete. Switching canvas will terminate the current generation process."
+            "value":"An image is being generated. If you switch to a different canvas, it will be discarded.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

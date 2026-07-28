@@ -1842,6 +1842,20 @@
             }
         },
         {
+            "name":"image_generation_switch_graph_title",
+            "value":"ສັບປ່ຽນແຜ່ນແຕ້ມບໍ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"ຮູບພາບກຳລັງຖືກສ້າງ. ຖ້າທ່ານສັບປ່ຽນເປັນແຜ່ນແຕ້ມອື່ນ, ມັນຈະຖືກລຶບຖິ້ມ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_file",
             "value":"ກຳລັງອັບໂຫຼດໄຟລ໌… (%s)",
             "attr":{

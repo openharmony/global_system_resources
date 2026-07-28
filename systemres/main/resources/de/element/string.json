@@ -267,6 +267,20 @@
             }
         },
         {
+            "name":"image_generation_switch_graph_title",
+            "value":"Arbeitsfläche wechseln?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"Ein Bild wird gerade erstellt. Wenn Sie zu einer anderen Arbeitsfläche wechseln, wird es verworfen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"Hochladen erfolgreich",
             "attr":{

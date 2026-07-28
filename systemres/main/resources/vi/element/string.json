@@ -267,6 +267,20 @@
             }
         },
         {
+            "name":"image_generation_switch_graph_title",
+            "value":"Chuyển đổi khung vẽ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"Đang tạo ảnh. Nếu bạn chuyển đổi sang khung vẽ khác, khung vẽ hiện tại sẽ bị loại bỏ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"Tải lên thành công",
             "attr":{
