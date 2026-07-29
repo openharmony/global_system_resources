@@ -267,6 +267,20 @@
             }
         },
         {
+            "name":"image_generation_switch_graph_title",
+            "value":"เปลี่ยนแคนวาสหรือไม่",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"กำลังสร้างรูปภาพอยู่ หากคุณเปลี่ยนไปยังแคนวาสอื่น รูปภาพนี้จะถูกยกเลิก",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"อัปโหลดสำเร็จ",
             "attr":{

@@ -267,6 +267,20 @@
             }
         },
         {
+            "name":"image_generation_switch_graph_title",
+            "value":"¿Cambiar lienzo?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"Se está generando una imagen. Si cambias a un lienzo diferente, se descartará.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"Se ha cargado correctamente",
             "attr":{

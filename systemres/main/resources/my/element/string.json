@@ -1905,6 +1905,20 @@
             }
         },
         {
+            "name":"image_generation_switch_graph_title",
+            "value":"ကင်းဗက်စ် ပြောင်းမည်လား။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"ပုံတစ်ပုံကို ဖန်တီးထုတ်လုပ်နေပါသည်။ အခြား ကင်းဗက်စ်သို့ သင်ပြောင်းလိုက်ပါက ၎င်းကို ဖယ်ရှားသွားပါမည်။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_file",
             "value":"ဖိုင်ကို အပ်လုဒ်လုပ်နေဆဲ… (%s)",
             "attr":{

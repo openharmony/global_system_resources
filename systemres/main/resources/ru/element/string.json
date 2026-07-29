@@ -267,6 +267,20 @@
             }
         },
         {
+            "name":"image_generation_switch_graph_title",
+            "value":"Переключить холст?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"Изображение генерируется. Если переключить на другой холст, оно не будет сохранено.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"Выгружено",
             "attr":{

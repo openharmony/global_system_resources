@@ -1905,6 +1905,20 @@
             }
         },
         {
+            "name":"image_generation_switch_graph_title",
+            "value":"Beralih ke kanvas lain?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"Gambar sedang dibuat. Jika Anda beralih ke kanvas lain, gambar ini akan dibuang.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_file",
             "value":"Mengunggah file… (%s)",
             "attr":{

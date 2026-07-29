@@ -267,6 +267,20 @@
             }
         },
         {
+            "name":"image_generation_switch_graph_title",
+            "value":"هل تريد تبديل اللوحة؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"يجري حاليًا إنشاء الصورة، وإذا انتقلت إلى لوحة أخرى، فسيتم إلغاء العملية.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"تم الرفع بنجاح",
             "attr":{

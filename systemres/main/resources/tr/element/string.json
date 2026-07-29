@@ -267,6 +267,20 @@
             }
         },
         {
+            "name":"image_generation_switch_graph_title",
+            "value":"Farklı bir tuvale geçilsin mi?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"Bir görsel oluşturuluyor. Farklı bir tuvale geçerseniz bu görsel silinecektir.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"Karşıya yükleme başarılı",
             "attr":{

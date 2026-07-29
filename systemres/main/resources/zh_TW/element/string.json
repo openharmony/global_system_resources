@@ -890,6 +890,20 @@
             }
         },
         {
+            "name":"image_generation_switch_graph_title",
+            "value":"若切換畫布，將中斷產生任務",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description",
+            "value":"您的產生圖片任務尚未完成，若切換畫布，將終止本次產生圖片處理程序。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"request_agent_upload_success",
             "value":"上傳成功",
             "attr":{
