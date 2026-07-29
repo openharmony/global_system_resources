@@ -9503,6 +9503,32 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.vehicle.MMA_SPATIALACTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },{
+                "name": "ohos.permission.vehicle.MMA_WEATHER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.vehicle.MMA_ENERGYREFILL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MUTE_VOIP_CAPTURE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
