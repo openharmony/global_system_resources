@@ -1730,6 +1730,13 @@
             }
         },
         {
+            "name":"cont_developer_mode_tips",
+            "value":"Для работы приложения %s требуется включить раздел Для разработчиков.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
             "name":"desc_developer_mode_tips",
             "value":"Для этого требуется включить раздел Для разработчиков.",
             "attr":{
