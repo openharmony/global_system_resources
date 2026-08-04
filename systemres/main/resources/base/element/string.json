@@ -3879,7 +3879,7 @@
         },
         {
             "name":"image_generation_canvas_loading",
-            "value":"Loading canvas…",
+            "value":"Loading canvas",
             "attr":{
                 "priority":"translate"
             }
@@ -4238,6 +4238,42 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"AI Points Management"
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"Insufficient AI points"
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"Activate a membership for more AI points"
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"Activate Membership"
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"Upgrade Membership"
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"Purchase Points"
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"Please purchase points or upgrade your membership to continue creating."
+        },
+        {
+            "name":"image_generation_points_cost",
+            "value":"This operation consumed %s points."
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"The points policy has been updated. Please regenerate."
         }
     ]
 }
