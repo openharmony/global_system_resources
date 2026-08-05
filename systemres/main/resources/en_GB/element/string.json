@@ -3464,6 +3464,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"Almost done",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"Enriching creative elements",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"AI generation failed.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"Optimising composition and colours",
+            "attr":{
+                "priority":"LT"
+            }
         }
     ]
 }

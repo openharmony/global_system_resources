@@ -2102,7 +2102,7 @@
         },
         {
             "name":"ai_thinking",
-            "value":"A pensar...",
+            "value":"A pensar",
             "attr":{
                 "priority":"translate"
             }
@@ -2144,7 +2144,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Aproximar ou rodar os dedos para editar a posição da imagem",
+            "value":"Aproxime ou rode os dedos para editar a posição da imagem.",
             "attr":{
                 "priority":"translate"
             }
@@ -3463,6 +3463,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"Quase pronto",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"A enriquecer os elementos criativos",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"Falha na geração por IA.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"A otimizar a composição e as cores",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

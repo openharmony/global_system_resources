@@ -3475,6 +3475,34 @@
         {
             "name":"text_punctuation_overflow",
             "value":"true"
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"您的創作畫面即將呈現",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"正在充實畫面的創意元素",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"AI 產生失敗",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"正在最佳化畫面構圖和色彩",
+            "attr":{
+                "priority":"LT"
+            }
         }
     ]
 }

@@ -2039,7 +2039,7 @@
         },
         {
             "name":"content_generated_by_ai",
-            "value":"Contenuti generati dall'IA",
+            "value":"Contenuti generati dall'AI",
             "attr":{
                 "priority":"translate"
             }
@@ -3425,14 +3425,14 @@
         },
         {
             "name":"image_generation_enable_and_auto_save_photo_select_change",
-            "value":"Le immagini generate dall'AI verranno salvate automaticamente nella Galleria. È possibile disattivare questa funzione più tardi dal menu Altro.",
+            "value":"Le immagini generate dall'IA verranno salvate automaticamente nella Galleria. È possibile disattivare questa funzione più tardi dal menu Altro.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_enable_and_auto_save_photo",
-            "value":"Le immagini generate dall'AI verranno salvate automaticamente nella Galleria.",
+            "value":"Le immagini generate dall'IA verranno salvate automaticamente nella Galleria.",
             "attr":{
                 "priority":"translate"
             }
@@ -3463,6 +3463,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"Quasi fatto",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"Arricchimento degli elementi creativi",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"Generazione AI non riuscita.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"Ottimizzazione della composizione e dei colori",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

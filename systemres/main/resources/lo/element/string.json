@@ -3464,6 +3464,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"ໃກ້ຈະສຳເລັດແລ້ວ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"ກຳລັງເສີມສ້າງອົງປະກອບທີ່ສ້າງສັນ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"ການສ້າງດ້ວຍ AI ບໍ່ສຳເລັດ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"ກຳລັງປັບອົງປະກອບ ແລະ ສີໃຫ້ເໝາະສົມ",
+            "attr":{
+                "priority":"LT"
+            }
         }
     ]
 }

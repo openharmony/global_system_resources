@@ -2144,7 +2144,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Jepit atau rotasikan dengan jari untuk mengedit posisi gambar",
+            "value":"Jepit atau rotasikan dengan jari untuk mengedit posisi gambar.",
             "attr":{
                 "priority":"translate"
             }
@@ -2872,7 +2872,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Pilih area yang akan disesuaikan, lalu masukkan deskripsi untuk membuat gambar",
+            "value":"Pilih area yang akan disesuaikan, lalu masukkan deskripsi untuk membuat gambar.",
             "attr":{
                 "priority":"translate"
             }
@@ -3463,6 +3463,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"Hampir selesai",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"Memperkaya elemen kreatif",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"Pembuatan dengan AI gagal.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"Mengoptimalkan komposisi dan warna",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

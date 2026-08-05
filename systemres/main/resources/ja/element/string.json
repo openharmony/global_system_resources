@@ -2277,7 +2277,7 @@
         },
         {
             "name":"edit_graffiti",
-            "value":"落書きの編集",
+            "value":"落書きを編集",
             "attr":{
                 "priority":"translate"
             }
@@ -2578,7 +2578,7 @@
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
-            "value":"選択した画像数が上限の%dを超えています。いくつか選択を解除してください。",
+            "value":"選択した画像数が上限（%d枚）を超えています。いくつか選択を解除してください。",
             "attr":{
                 "priority":"translate"
             }
@@ -2599,7 +2599,7 @@
         },
         {
             "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
-            "value":"保存していない作業は永久に失われます。",
+            "value":"保存していない変更内容は永久に失われます。",
             "attr":{
                 "priority":"translate"
             }
@@ -3467,7 +3467,7 @@
         },
         {
             "name":"image_generation_enable_and_auto_save_photo_select_change",
-            "value":"AIによって生成された画像は、自動的に[ギャラリー]に保存されます。この設定は、後で[詳細メニュー]からオフにすることができます。",
+            "value":"AIによって生成された画像は、自動的に[ギャラリー]に保存されます。この設定は、後で[詳細]メニューからオフにすることができます。",
             "attr":{
                 "priority":"translate"
             }
@@ -3505,6 +3505,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"ほぼ完了",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"クリエイティブな要素を高めています",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"AI生成に失敗しました。",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"構図と色を最適化中",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

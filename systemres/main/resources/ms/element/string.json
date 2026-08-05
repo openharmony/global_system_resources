@@ -2144,7 +2144,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Picit atau putarkan jari untuk mengedit kedudukan imej",
+            "value":"Picit atau putarkan jari untuk mengedit kedudukan imej.",
             "attr":{
                 "priority":"translate"
             }
@@ -2872,7 +2872,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Pilih bahagian untuk dilaraskan, kemudian masukkan penerangan untuk menjanakan imej",
+            "value":"Pilih bahagian untuk dilaraskan, kemudian masukkan penerangan untuk menjanakan imej.",
             "attr":{
                 "priority":"translate"
             }
@@ -3390,7 +3390,7 @@
         },
         {
             "name":"image_generation_long_press_image_matting",
-            "value":"Sentuh & tahan objek untuk memilihnya dan potong objek tersebut.",
+            "value":"Sentuh & tahan objek untuk memilih dan memotong objek tersebut.",
             "attr":{
                 "priority":"translate"
             }
@@ -3463,6 +3463,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"Hampir selesai",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"Memperkaya unsur-unsur kreatif",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"Penjanaan AI gagal.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"Mengoptimumkan komposisi dan warna",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

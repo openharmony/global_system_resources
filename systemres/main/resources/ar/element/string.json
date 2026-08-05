@@ -3507,6 +3507,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"أوشكت على الانتهاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"جارٍ إثراء العناصر الإبداعية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"تعذر الإنشاء الذكي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"جارٍ تحسين التركيب والألوان",
+            "attr":{
+                "priority":"LT"
+            }
         }
     ]
 }

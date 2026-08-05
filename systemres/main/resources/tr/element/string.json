@@ -2144,7 +2144,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Görselin konumunu düzenlemek için parmaklarınızı sıkıştırın veya döndürün",
+            "value":"Görselin konumunu düzenlemek için parmaklarınızı sıkıştırın veya döndürün.",
             "attr":{
                 "priority":"translate"
             }
@@ -2536,7 +2536,7 @@
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
-            "value":"Seçim, maksimum %d görseli aşıyor. Lütfen bazılarının seçimini kaldırın.",
+            "value":"Seçilenler maksimum %d görsel sınırını aşıyor. Lütfen bazılarının seçimini kaldırın.",
             "attr":{
                 "priority":"translate"
             }
@@ -2872,7 +2872,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Ayarlanacak alanı seçin, ardından görsel oluşturmak için açıklama girin",
+            "value":"Ayarlanacak alanı seçin, ardından görsel oluşturmak için açıklama girin.",
             "attr":{
                 "priority":"translate"
             }
@@ -3463,6 +3463,34 @@
             "value":"x%s",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"Neredeyse tamamlandı",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"Yaratıcı unsurlar zenginleştiriliyor",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"Yapay zeka ile oluşturma başarısız.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"Kompozisyon ve renkler optimize ediliyor",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]
