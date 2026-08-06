@@ -2144,7 +2144,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"จีบนิ้วหรือหมุนนิ้วเพื่อแก้ไขตําแหน่งรูปภาพ",
+            "value":"จีบหรือบิดนิ้วเพื่อแก้ไขตำแหน่งรูปภาพ",
             "attr":{
                 "priority":"translate"
             }
@@ -3467,6 +3467,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"ใกล้เสร็จแล้ว",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"กำลังเติมแต่งองค์ประกอบสร้างสรรค์",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"การสร้างโดย AI ล้มเหลว",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"กำลังปรับปรุงองค์ประกอบภาพและสีสัน",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

@@ -39620,6 +39620,56 @@
             "type": "symbol",
             "name": "statusbar_performance",
             "order": 7842
+        },
+        {
+            "type": "string",
+            "name": "image_generation_points_management",
+            "order": 7843
+        },
+        {
+            "type": "string",
+            "name": "image_generation_insufficient_points",
+            "order": 7844
+        },
+        {
+            "type": "string",
+            "name": "image_generation_more_points",
+            "order": 7845
+        },
+        {
+            "type": "string",
+            "name": "image_generation_activate_membership",
+            "order": 7846
+        },
+        {
+            "type": "string",
+            "name": "image_generation_upgrade_membership",
+            "order": 7847
+        },
+        {
+            "type": "string",
+            "name": "image_generation_purchase_points",
+            "order": 7848
+        },
+        {
+            "type": "string",
+            "name": "image_generation_purchase_points_or_upgrade_membership",
+            "order": 7849
+        },
+        {
+            "type": "string",
+            "name": "image_generation_points_cost",
+            "order": 7850
+        },
+        {
+            "type": "string",
+            "name": "image_generation_rule_updated",
+            "order": 7851
+        },
+        {
+            "type": "float",
+            "name": "swiper_indicator_dot_item_space",
+            "order": 7852
         }
     ]
 }

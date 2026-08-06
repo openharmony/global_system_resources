@@ -2151,7 +2151,7 @@
         },
         {
             "name":"use_the_polished_results",
-            "value":"Sử dụng văn bản đã được sửa",
+            "value":"Sử dụng văn bản đã được trau chuốt",
             "attr":{
                 "priority":"translate"
             }
@@ -2186,7 +2186,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Đưa hai ngón tay về gần nhau hoặc xoay ngón tay để sửa vị trí hình ảnh",
+            "value":"Đưa hai ngón tay về gần nhau hoặc xoay ngón tay để sửa vị trí hình ảnh.",
             "attr":{
                 "priority":"translate"
             }
@@ -2914,7 +2914,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Chọn vùng cần điều chỉnh, sau đó nhập mô tả để tạo ảnh",
+            "value":"Chọn vùng cần điều chỉnh, sau đó nhập mô tả để tạo ảnh.",
             "attr":{
                 "priority":"translate"
             }
@@ -3505,6 +3505,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"Sắp xong",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"Đang làm phong phú các yếu tố sáng tạo",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"Tạo bằng AI không thành công.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"Đang tối ưu hóa bố cục và màu sắc",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

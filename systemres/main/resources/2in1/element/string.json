@@ -206,6 +206,13 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_adjust_brush",
+            "value":"Brush size adjustment, adjustable range is %1$d to %2$d, double-click and hold, then slide left or right to adjust. Current size is %3$d.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -142,7 +142,7 @@
         },
         {
             "name":"image_generation_click_back_editing",
-            "value":"Touchez pour revenir à l'écran de modification de l'image.",
+            "value":"Toucher ici permet de revenir à l'écran de modification de l'image.",
             "attr":{
                 "priority":"translate"
             }
@@ -3505,6 +3505,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"Bientôt terminé",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"Enrichissement des éléments créatifs",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"La génération par IA a échoué.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"Optimisation de la composition et des couleurs",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

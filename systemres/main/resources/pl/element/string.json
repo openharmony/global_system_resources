@@ -2144,7 +2144,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Wykonaj gest uszczypnięcia lub obróć palce, aby zmienić położenie obrazu",
+            "value":"Wykonaj gest uszczypnięcia lub obróć palce, aby zmienić położenie obrazu.",
             "attr":{
                 "priority":"translate"
             }
@@ -2291,7 +2291,7 @@
         },
         {
             "name":"image_reference",
-            "value":"Obraz źródłowy",
+            "value":"Obraz referencyjny",
             "attr":{
                 "priority":"translate"
             }
@@ -2557,7 +2557,7 @@
         },
         {
             "name":"node_graph_unsaved_creation_will_be_cleared_confirm_close",
-            "value":"Efekty pracy, których nie zapiszesz, zostaną nieodwracalnie utracone.",
+            "value":"Prace, których nie zapiszesz, zostaną trwale utracone.",
             "attr":{
                 "priority":"translate"
             }
@@ -2872,7 +2872,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"Wybierz obszar do dostosowania, a następnie wprowadź opis, aby wygenerować obraz",
+            "value":"Wybierz obszar do dostosowania, a następnie wprowadź opis, aby wygenerować obraz.",
             "attr":{
                 "priority":"translate"
             }
@@ -2893,7 +2893,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_label",
-            "value":"Znak wodny Materiał wygenerowany przez AI",
+            "value":"Znak wodny „Materiał wygenerowany przez AI”",
             "attr":{
                 "priority":"translate"
             }
@@ -3012,7 +3012,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"Spowoduje to dodanie znaku wodnego „Materiał wygenerowany przez AI” do tego obrazu. Zawsze możesz zmienić preferencje w sekcji Więcej > Znak wodny Materiał wygenerowany przez AI.",
+            "value":"Spowoduje to dodanie znaku wodnego „Materiał wygenerowany przez AI” do tego obrazu. Preferencje możesz zawsze zmienić w sekcji Więcej > Znak wodny „Materiał wygenerowany przez AI”.",
             "attr":{
                 "priority":"translate"
             }
@@ -3463,6 +3463,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"Prawie koniec",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"Wzbogacanie elementów kreatywnych",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"Niepowodzenie generowania przez AI.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"Optymalizowanie kompozycji i kolorów",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

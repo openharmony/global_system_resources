@@ -128,7 +128,7 @@
         },
         {
             "name":"image_generation_web_search_add_time",
-            "value":"스마트 캔버스는 온라인 검색을 통해 생성하려는 이미지에 대한 설명을 더 잘 이해할 수 있습니다. 이렇게 하면 생성된 이미지의 정확도가 높아집니다. 이미지 생성에는 더 오랜 시간이 걸릴 수 있습니다. 텍스트 이미지 변환을 생성하는 데만 적용됩니다.",
+            "value":"스마트 캔버스는 온라인 검색을 통해 생성하려는 이미지에 대한 설명을 더 잘 이해할 수 있습니다. 따라서 생성되는 이미지의 정확도가 높아집니다. 이미지 생성에는 더 오랜 시간이 걸릴 수 있습니다. 텍스트 이미지 변환을 생성하는 데만 적용됩니다.",
             "attr":{
                 "priority":"translate"
             }
@@ -2186,7 +2186,7 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"손가락을 모으거나 회전하여 이미지 위치 편집하기",
+            "value":"손가락을 모으거나 회전하여 이미지 위치를 편집합니다.",
             "attr":{
                 "priority":"translate"
             }
@@ -2914,7 +2914,7 @@
         },
         {
             "name":"image_generation_region_selection_instruction",
-            "value":"조정할 영역을 선택한 다음 설명을 입력하여 이미지를 생성합니다",
+            "value":"조정할 영역을 선택한 다음 설명을 입력하여 이미지를 생성합니다.",
             "attr":{
                 "priority":"translate"
             }
@@ -3467,14 +3467,14 @@
         },
         {
             "name":"image_generation_enable_and_auto_save_photo_select_change",
-            "value":"AI가 생성한 이미지는 갤러리에 자동으로 저장됩니다. 나중에 더 보기 메뉴에서 이 기능을 끌 수 있습니다.",
+            "value":"AI에서 생성된 이미지는 갤러리에 자동으로 저장됩니다. 나중에 더 보기 메뉴에서 이 기능을 끌 수 있습니다.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_enable_and_auto_save_photo",
-            "value":"AI가 생성한 이미지는 갤러리에 자동으로 저장됩니다.",
+            "value":"AI에서 생성된 이미지는 갤러리에 자동으로 저장됩니다.",
             "attr":{
                 "priority":"translate"
             }
@@ -3505,6 +3505,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"거의 다 됐습니다",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"크리에이티브 요소 다양화 중",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"AI 생성에 실패했습니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"구도 및 색상 최적화 중",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

@@ -3468,6 +3468,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"ပြီးခါနီးပါပြီ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"ဖန်တီးမှုပိုင်းဆိုင်ရာ အစိတ်အပိုင်းများကို မြှင့်တင်နေပါသည်",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"AI ဖြင့် ဖန်တီးမှု မအောင်မြင်ပါ။",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"ကွန်ပိုဇေးရှင်းနှင့် အရောင်များကို အကောင်းဆုံးချိန်ညှိနေသည်",
+            "attr":{
+                "priority":"LT"
+            }
         }
     ]
 }

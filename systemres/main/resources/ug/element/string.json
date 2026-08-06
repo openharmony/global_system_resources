@@ -3471,6 +3471,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"ئەسەر پۈتەي دەپ قالدى.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"كۆرۈنۈش ئېلېمېنتلىرى تولۇقلىنىۋاتىدۇ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"قۇرۇلمىدى.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"تۈزۈلۈش ۋە رەڭ ياخشىلىنىۋاتىدۇ.",
+            "attr":{
+                "priority":"LT"
+            }
         }
     ]
 }
