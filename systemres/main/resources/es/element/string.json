@@ -2417,7 +2417,7 @@
         },
         {
             "name":"prompt_input",
-            "value":"Introducir aviso",
+            "value":"Introducir indicación",
             "attr":{
                 "priority":"translate"
             }
@@ -3243,7 +3243,7 @@
         },
         {
             "name":"image_generation_general_guide_first",
-            "value":"Añade descripciones de texto, imágenes o garabatos y pulsa Generar para crear una imagen. %s",
+            "value":"Añade descripciones de texto, imágenes o garabatos y toca Generar para crear una imagen. %s",
             "attr":{
                 "priority":"translate"
             }
@@ -3505,6 +3505,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"Ya casi está",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"Enriqueciendo los elementos creativos",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"Error al generar con IA.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"Optimizando composiciones y colores",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

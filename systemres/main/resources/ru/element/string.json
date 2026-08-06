@@ -2578,7 +2578,7 @@
         },
         {
             "name":"node_graph_selected_images_exceeds_limit",
-            "value":"Количество выбранных изображений превышает максимум (%d). Отмените выбор части изображений.",
+            "value":"Количество выбранных изображений превышает максимум (%d). Отмените выбор некоторых изображений.",
             "attr":{
                 "priority":"translate"
             }
@@ -3505,6 +3505,34 @@
             "value":"%sx",
             "attr":{
                 "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"Почти готово",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"Добавление креативных элементов",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"Сбой генерации с помощью ИИ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"Оптимизация композиции и цвета",
+            "attr":{
+                "priority":"LT"
             }
         }
     ]

@@ -3475,6 +3475,34 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_artwork_about_to_appear",
+            "value":"ཁྱེད་ཀྱི་གསར་རྩོམ་གཟུགས་བརྙན་མངོན་ལ་ཉེ།",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_enriche_creative_elements",
+            "value":"གཟུགས་བརྙན་གྱི་གསར་གཏོད་གཞི་རྒྱུ་ཕུན་སུམ་ཚོགས་པར་བཟོ་བཞིན་ཡོད།",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_generated_failed",
+            "value":"AI ཡིས་སྐྱེད་སྒྲུབ་བྱེད་མ་ཐུབ།",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_optimize_composition_and_colors",
+            "value":"པར་ངོས་སྒྲོམ་སྒྲིག་དང་ཚོན་མདོག་ལེགས་སྒྱུར་བྱེད་བཞིན་ཡོད།",
+            "attr":{
+                "priority":"LT"
+            }
         }
     ]
 }
