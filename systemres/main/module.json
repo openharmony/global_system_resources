@@ -9592,6 +9592,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.AUTH_MODEL_DOWNLOAD",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_FILE_MONITOR_DIR",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
