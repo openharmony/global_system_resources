@@ -2176,6 +2176,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.GET_ALL_BUNDLE_INFO",
+                "grantMode": "user_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCELEROMETER",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
