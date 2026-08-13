@@ -56,6 +56,19 @@
                     }
                 }
             ]
+        },
+        {
+            "name":"image_generation_points_cost",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"This operation consumed %d point."
+                },
+                {
+                    "quantity":"other",
+                    "value":"This operation consumed %d points."
+                }
+            ]
         }
     ]
 }
