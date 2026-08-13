@@ -3535,6 +3535,62 @@
             "attr":{
                 "priority":"LT"
             }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"اشترك في العضوية لتحصل على رصيد إضافي.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"تم تحديث رصيد استخدام الذكاء الاصطناعي، يُرجى إعادة المحاولة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"يمكنك شراء رصيد إضافي أو ترقية عضويتك لمتابعة الاستخدام.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"إدارة رصيد استخدام الذكاء الاصطناعي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"الاشتراك في العضوية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"شراء رصيد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"رصيد استخدام الذكاء الاصطناعي غير كافٍ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"ترقية العضوية",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

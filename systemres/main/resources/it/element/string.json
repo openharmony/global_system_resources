@@ -3492,6 +3492,62 @@
             "attr":{
                 "priority":"LT"
             }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"Diventa membro per ottenere più crediti.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"Crediti AI aggiornati. Riprova.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"Acquista altro o esegui l'upgrade dell'abbonamento per continuare a creare.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"Gestisci crediti AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"Ottieni abbonamento",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"Acquista crediti",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"Crediti AI insufficienti",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"Esegui l'upgrade dell'abbonamento",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

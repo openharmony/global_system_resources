@@ -3503,6 +3503,62 @@
             "attr":{
                 "priority":"LT"
             }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"ཚོགས་མི་ཤར་གཏོང་བྱས་རྗེས་དེ་བས་མང་བའི་ AI བསགས་སྐར་འཐོབ་པར་གནང་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"བསགས་སྐར་སྒྲིག་སྲོལ་གསར་སྒྱུར་བྱས་ཟིན། ཡང་བསྐྱར་སྐྱེད་སྒྲུབ་གནང་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"བསགས་སྐར་ཉོ་སྒྲུབ་བམ་ཚོགས་མིར་རིམ་པ་སྤར་ནས་མུ་མཐུད་གསར་རྩོམ་གནང་རོགས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"AI བསགས་སྐར་དོ་དམ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"ཚོགས་མི་ཤར་གཏོང་།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"བསགས་སྐར་ཉོ་སྒྲུབ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"AI བསགས་སྐར་མི་འདང་།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"ཚོགས་མི་རིམ་སྤོར།",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

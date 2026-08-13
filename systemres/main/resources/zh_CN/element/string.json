@@ -4089,31 +4089,52 @@
         },
         {
             "name":"image_generation_points_management",
-            "value":"AI 积分管理"
+            "value":"AI 积分管理",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_insufficient_points",
-            "value":"AI 积分不足"
+            "value":"AI 积分不足",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_more_points",
-            "value":"请开通会员获得更多AI 积分"
+            "value":"请开通会员获得更多 AI 积分。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_activate_membership",
-            "value":"开通会员"
+            "value":"开通会员",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_upgrade_membership",
-            "value":"升级会员"
+            "value":"升级会员",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_purchase_points",
-            "value":"购买积分"
+            "value":"购买积分",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_purchase_points_or_upgrade_membership",
-            "value":"请购买积分或升级会员以继续创作"
+            "value":"请购买积分或升级会员以继续创作。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_points_cost",
@@ -4121,7 +4142,10 @@
         },
         {
             "name":"image_generation_rule_updated",
-            "value":"积分规则已更新，请重新生成"
+            "value":"积分规则已更新，请重新生成",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

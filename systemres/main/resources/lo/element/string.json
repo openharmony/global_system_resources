@@ -3492,6 +3492,62 @@
             "attr":{
                 "priority":"LT"
             }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"ສະໝັກສະມາຊິກເພື່ອຮັບເອົາບັດເຄຣດິດເພີ່ມເຕີມ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"ອັບເດດບັດເຄຣດິດ AI ແລ້ວ. ກະລຸນາລອງໃໝ່ອີກ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"ຊື້ເພີ່ມເຕີມ ຫຼື ອັບເກຣດການເປັນສະມາຊິກຂອງທ່ານເພື່ອສືບຕໍ່ສ້າງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"ຈັດການບັດເຄຣດິດ AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"ຮັບການເປັນສະມາຊິກ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"ຊື້ບັດເຄຣດິດ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"ບັດເຄຣດິດ AI ບໍ່ພຽງພໍ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"ອັບເກຣດການເປັນສະມາຊິກ",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

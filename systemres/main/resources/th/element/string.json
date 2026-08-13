@@ -3496,6 +3496,62 @@
             "attr":{
                 "priority":"LT"
             }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"สมัครเป็นสมาชิกเพื่อรับเครดิตเพิ่มเติม",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"อัปเดตเครดิต AI แล้ว โปรดลองอีกครั้ง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"ซื้อเพิ่มเติมหรืออัปเกรดการเป็นสมาชิกของคุณเพื่อสร้างต่อไป",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"จัดการเครดิต AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"สมัครสมาชิก",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"ซื้อเครดิต",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"เครดิต AI ไม่เพียงพอ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"การอัปเกรดสมาชิก",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
