@@ -2970,7 +2970,7 @@
         },
         {
             "name":"ai_generating",
-            "value":"Генерация...",
+            "value":"Генерация",
             "attr":{
                 "priority":"translate"
             }
@@ -3369,7 +3369,7 @@
         },
         {
             "name":"image_generation_canvas_loading",
-            "value":"Загрузка холста...",
+            "value":"Загрузка холста",
             "attr":{
                 "priority":"translate"
             }
@@ -3533,6 +3533,62 @@
             "value":"Оптимизация композиции и цвета",
             "attr":{
                 "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"Станьте участником, чтобы получить больше квот.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"Правила использования квот ИИ-функций обновлены. Повторите попытку.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"Купите нужное количество квот или повысьте уровень участника, чтобы продолжить создание.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"Управление квотами ИИ-функций",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"Стать участником",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"Купить квоты",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"Недостаточно квот на использование ИИ-функций",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"Повысить уровень участника",
+            "attr":{
+                "priority":"translate"
             }
         }
     ]

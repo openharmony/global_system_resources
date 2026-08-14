@@ -3503,6 +3503,62 @@
             "attr":{
                 "priority":"LT"
             }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"請開通會員以獲得更多 AI 積分。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"積分規則已更新，請重新建立",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"請購買積分或升級會員以繼續創作。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"AI 積分管理",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"開通會員",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"購買積分",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"AI 積分不足",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"升級會員",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -2970,7 +2970,7 @@
         },
         {
             "name":"ai_generating",
-            "value":"생성 중…",
+            "value":"생성 중",
             "attr":{
                 "priority":"translate"
             }
@@ -3369,7 +3369,7 @@
         },
         {
             "name":"image_generation_canvas_loading",
-            "value":"캔버스 로드 중…",
+            "value":"캔버스 로드 중",
             "attr":{
                 "priority":"translate"
             }
@@ -3533,6 +3533,62 @@
             "value":"구도 및 색상 최적화 중",
             "attr":{
                 "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"회원이 되면 더 많은 크레딧을 얻을 수 있습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"AI 크레딧이 업데이트되었습니다. 다시 시도하세요.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"계속 만들려면 추가로 구매하거나 멤버십을 업그레이드하세요.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"AI 크레딧 관리",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"멤버십 가입",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"크레딧 구매",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"AI 크레딧 부족",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"멤버십 업그레이드",
+            "attr":{
+                "priority":"translate"
             }
         }
     ]

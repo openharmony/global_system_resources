@@ -3492,6 +3492,62 @@
             "attr":{
                 "priority":"LT"
             }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"Für weitere Guthabenpunkte Mitglied werden.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"KI-Guthabenpunkte aktualisiert. Versuchen Sie es erneut.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"Kaufen Sie weitere Guthabenpunkte oder erweitern Sie Ihre Mitgliedschaft, um weiterhin zu erstellen.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"KI-Guthabenpunkte verwalten",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"Mitglied werden",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"Guthabenpunkte kaufen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"Nicht genügend KI-Guthabenpunkte",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"Mitgliedschaft erweitern",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

@@ -2928,7 +2928,7 @@
         },
         {
             "name":"ai_generating",
-            "value":"Generowanie…",
+            "value":"Generowanie",
             "attr":{
                 "priority":"translate"
             }
@@ -3327,7 +3327,7 @@
         },
         {
             "name":"image_generation_canvas_loading",
-            "value":"Wczytywanie kanwy…",
+            "value":"Wczytywanie kanwy",
             "attr":{
                 "priority":"translate"
             }
@@ -3491,6 +3491,62 @@
             "value":"Optymalizowanie kompozycji i kolorów",
             "attr":{
                 "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"Uzyskaj subskrypcję, aby otrzymać więcej kredytów.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"Zaktualizowano kredyty AI. Spróbuj ponownie.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"Kup więcej kredytów lub przejdź na wyższy poziom subskrypcji, aby kontynuować tworzenie.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"Zarządzaj kredytami AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"Uzyskaj subskrypcję",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"Kup kredyty",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"Za mało kredytów AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"Przejdź na wyższy poziom subskrypcji",
+            "attr":{
+                "priority":"translate"
             }
         }
     ]

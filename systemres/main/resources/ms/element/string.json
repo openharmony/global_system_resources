@@ -2928,7 +2928,7 @@
         },
         {
             "name":"ai_generating",
-            "value":"Menjanakan…",
+            "value":"Menjanakan",
             "attr":{
                 "priority":"translate"
             }
@@ -3327,7 +3327,7 @@
         },
         {
             "name":"image_generation_canvas_loading",
-            "value":"Memuatkan kanvas…",
+            "value":"Memuatkan kanvas",
             "attr":{
                 "priority":"translate"
             }
@@ -3491,6 +3491,62 @@
             "value":"Mengoptimumkan komposisi dan warna",
             "attr":{
                 "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"Jadilah ahli untuk mendapat lebih banyak kredit.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"Kredit AI dikemas kini. Sila cuba lagi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"Beli lebih banyak atau naikkan taraf keahlian anda untuk meneruskan penciptaan.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"Urus kredit AI",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"Dapatkan keahlian",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"Beli kredit",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"Kredit AI tidak mencukupi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"Naikkan taraf keahlian",
+            "attr":{
+                "priority":"translate"
             }
         }
     ]

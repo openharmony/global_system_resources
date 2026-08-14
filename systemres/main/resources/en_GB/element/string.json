@@ -2942,7 +2942,7 @@
         },
         {
             "name":"ai_generating",
-            "value":"Generating…",
+            "value":"Generating",
             "attr":{
                 "priority":"translate"
             }
@@ -3341,7 +3341,7 @@
         },
         {
             "name":"image_generation_canvas_loading",
-            "value":"Loading canvas…",
+            "value":"Loading canvas",
             "attr":{
                 "priority":"translate"
             }
@@ -3491,6 +3491,62 @@
             "value":"Optimising composition and colours",
             "attr":{
                 "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"Become a member to get more credits.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"AI credits updated. Please try again.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"Purchase more or upgrade your membership to continue creating.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"Manage AI credits",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"Get membership",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"Purchase credits",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"Insufficient AI credits",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"Upgrade membership",
+            "attr":{
+                "priority":"translate"
             }
         }
     ]

@@ -2970,7 +2970,7 @@
         },
         {
             "name":"ai_generating",
-            "value":"生成中…",
+            "value":"生成中",
             "attr":{
                 "priority":"translate"
             }
@@ -3369,7 +3369,7 @@
         },
         {
             "name":"image_generation_canvas_loading",
-            "value":"キャンバスを読み込み中…",
+            "value":"キャンバスを読み込み中",
             "attr":{
                 "priority":"translate"
             }
@@ -3533,6 +3533,62 @@
             "value":"構図と色を最適化中",
             "attr":{
                 "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"クレジットを増やすには、会員になってください。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"AIクレジットが更新されました。再試行してください。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"作成を続行するには、さらに購入するか、会員資格をアップグレードしてください。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"AIクレジットを管理",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"会員登録",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"クレジットを購入",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"AIクレジットの不足",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"会員資格をアップグレード",
+            "attr":{
+                "priority":"translate"
             }
         }
     ]

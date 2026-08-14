@@ -2928,7 +2928,7 @@
         },
         {
             "name":"ai_generating",
-            "value":"ဖန်တီးထုတ်လုပ်နေဆဲ…",
+            "value":"ဖန်တီးထုတ်လုပ်နေဆဲ",
             "attr":{
                 "priority":"translate"
             }
@@ -3327,7 +3327,7 @@
         },
         {
             "name":"image_generation_canvas_loading",
-            "value":"ကင်းဗက်စ် လုပ်ဆောင်နေဆဲ…",
+            "value":"ကင်းဗက်စ်ကို ဖွင့်နေသည်",
             "attr":{
                 "priority":"translate"
             }
@@ -3495,6 +3495,62 @@
             "value":"ကွန်ပိုဇေးရှင်းနှင့် အရောင်များကို အကောင်းဆုံးချိန်ညှိနေသည်",
             "attr":{
                 "priority":"LT"
+            }
+        },
+        {
+            "name":"image_generation_more_points",
+            "value":"ခရက်ဒစ်များ ပိုမိုရရှိရန် အဖွဲ့ဝင် ဖြစ်အောင်လုပ်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_rule_updated",
+            "value":"AI ခရက်ဒစ်များကို အပ်ဒိတ်လုပ်ပြီးပါပြီ။ ထပ်ကြိုးစားကြည့်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points_or_upgrade_membership",
+            "value":"ဆက်လက် ဖန်တီးရန် ထပ်မံဝယ်ယူပါ သို့မဟုတ် သင့်မန်ဘာပလန်ကို အဆင့်မြှင့်တင်ပါ။",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_points_management",
+            "value":"AI ခရက်ဒစ်များကို စီမံရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_activate_membership",
+            "value":"မန်ဘာပလန် ရယူရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_purchase_points",
+            "value":"ခရက်ဒစ်များ ဝယ်ယူရန်",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_insufficient_points",
+            "value":"AI ခရက်ဒစ် မလုံလောက်ပါ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_upgrade_membership",
+            "value":"မန်ဘာပလန် အဆင့်မြှင့်တင်ရန်",
+            "attr":{
+                "priority":"translate"
             }
         }
     ]
