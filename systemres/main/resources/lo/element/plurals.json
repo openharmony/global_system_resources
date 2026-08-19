@@ -35,6 +35,18 @@
                     }
                 }
             ]
+        },
+        {
+            "name":"image_generation_points_cost",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"ສິ່ງນີ້ຈະໃຊ້ບັດເຄຣດິດ AI %d ໃບ",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
         }
     ]
 }

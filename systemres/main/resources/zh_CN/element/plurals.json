@@ -41,7 +41,10 @@
             "value":[
                 {
                     "quantity":"other",
-                    "value":"本次消耗 %d 个积分"
+                    "value":"本次消耗 %d 个积分",
+                    "attr":{
+                        "priority":"translate"
+                    }
                 }
             ]
         }

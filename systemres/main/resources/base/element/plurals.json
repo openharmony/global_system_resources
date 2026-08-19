@@ -62,11 +62,17 @@
             "value":[
                 {
                     "quantity":"one",
-                    "value":"This operation consumed %d point."
+                    "value":"This will use %d AI credit",
+                    "attr":{
+                        "priority":"translate"
+                    }
                 },
                 {
                     "quantity":"other",
-                    "value":"This operation consumed %d points."
+                    "value":"This will use %d AI credits",
+                    "attr":{
+                        "priority":"translate"
+                    }
                 }
             ]
         }
