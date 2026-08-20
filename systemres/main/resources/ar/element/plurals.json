@@ -140,6 +140,53 @@
                     }
                 }
             ]
+        },
+        {
+            "name":"image_generation_points_cost",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"سيستهلك %d من رصيد الذكاء الاصطناعي",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"one",
+                    "value":"سيستهلك %d من رصيد الذكاء الاصطناعي",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"zero",
+                    "value":"سيستهلك %d من رصيد الذكاء الاصطناعي",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"few",
+                    "value":"سيستهلك %d من رصيد الذكاء الاصطناعي",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"many",
+                    "value":"سيستهلك %d من رصيد الذكاء الاصطناعي",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"two",
+                    "value":"سيستهلك %d من رصيد الذكاء الاصطناعي",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
         }
     ]
 }

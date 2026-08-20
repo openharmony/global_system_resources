@@ -35,6 +35,18 @@
                     }
                 }
             ]
+        },
+        {
+            "name":"image_generation_points_cost",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"本次將消耗 %d 個積分",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
         }
     ]
 }

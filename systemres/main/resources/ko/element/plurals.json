@@ -35,6 +35,18 @@
                     }
                 }
             ]
+        },
+        {
+            "name":"image_generation_points_cost",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"이 기능은 %d의 AI 크레딧을 사용합니다.",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
         }
     ]
 }

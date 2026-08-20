@@ -86,6 +86,35 @@
                     "value":"[TS_1113943]_limit is %d characters"
                 }
             ]
+        },
+        {
+            "name":"image_generation_points_cost",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_1249774]_This will use %d AI credits"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_1249779]_This will use %d AI credit"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1249775]_This will use %d AI credits"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1249777]_This will use %d AI credits"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1249778]_This will use %d AI credits"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1249776]_This will use %d AI credits"
+                }
+            ]
         }
     ]
 }

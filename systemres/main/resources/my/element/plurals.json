@@ -35,6 +35,18 @@
                     }
                 }
             ]
+        },
+        {
+            "name":"image_generation_points_cost",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"ဤလုပ်ဆောင်မှုသည် AI ခရက်ဒစ် %d ခုကို သုံးပါမည်",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
         }
     ]
 }
