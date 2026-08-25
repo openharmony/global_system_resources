@@ -2802,6 +2802,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.REQUEST_LOCAL_ACCOUNT_AUTHORIZATION",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_ENTERPRISE_DEVICE_ADMIN",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
