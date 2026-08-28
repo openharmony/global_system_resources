@@ -2871,7 +2871,7 @@
         },
         {
             "name":"node_graph_input_violates_platform_rules",
-            "value":"输入不符合平台规则，请修改后重试",
+            "value":"输入内容不符合规则，积分将在 24 小时内返还",
             "attr":{
                 "priority":"translate"
             }
@@ -2885,7 +2885,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"您的生图任务尚未完成，退出将终止本次生图进程，是否退出？",
+            "value":"您的生图任务尚未完成，退出将终止本次生图进程，消耗的积分将在 24 小时内返还",
             "attr":{
                 "priority":"translate"
             }
@@ -2969,7 +2969,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"您的生图任务尚未完成，删除生成节点将终止本次生图进程，确认删除？",
+            "value":"您的生图任务尚未完成，删除生成节点将终止本次生图进程，消耗的积分将在 24 小时内返还",
             "attr":{
                 "priority":"translate"
             }
@@ -4078,7 +4078,7 @@
         },
         {
             "name":"image_generation_switch_graph_description",
-            "value":"您的生图任务尚未完成，切换画布将终止本次生图进程。",
+            "value":"您的生图任务尚未完成，切换画布将终止本次生图进程，消耗的积分将在 24 小时内返还",
             "attr":{
                 "priority":"translate"
             }
@@ -4138,6 +4138,18 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"是否放弃本次生成？"
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"放弃生成后，本次消耗的积分将在 24 小时内返还"
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"放弃生成"
         }
     ]
 }

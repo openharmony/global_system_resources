@@ -39671,6 +39671,21 @@
             "type": "float",
             "name": "swiper_indicator_dot_item_space",
             "order": 7852
+        },
+        {
+            "type": "string",
+            "name": "image_generation_abandon_generation_title",
+            "order": 7853
+        },
+        {
+            "type": "string",
+            "name": "image_generation_abandon_generation_content",
+            "order": 7854
+        },
+        {
+            "type": "string",
+            "name": "image_generation_abandon_generation",
+            "order": 7855
         }
     ]
 }
