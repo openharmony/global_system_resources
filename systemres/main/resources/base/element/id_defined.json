@@ -40291,6 +40291,26 @@
             "type": "symbol",
             "name": "car_badge_arrowshape_turn_up_right",
             "order": 7976
+        },
+        {
+            "type": "string",
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "order": 7977
+        },
+        {
+            "type": "string",
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "order": 7978
+        },
+        {
+            "type": "string",
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "order": 7979
+        },
+        {
+            "type": "string",
+            "name":"image_generation_switch_graph_description_rollback",
+            "order": 7980
         }
     ]
 }
