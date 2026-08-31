@@ -3019,7 +3019,7 @@
         },
         {
             "name":"node_graph_input_violates_platform_rules",
-            "value":"Content entered is invalid. Credits will be refunded within %d hours.",
+            "value":"Content entered is invalid. Edit and try again.",
             "attr":{
                 "priority":"translate"
             }
@@ -3033,7 +3033,7 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit",
-            "value":"An image is being generated. If you exit now, the generation process will be terminated, and the credits consumed will be refunded within %d hours.",
+            "value":"An image is being generated. If you exit now it will be discarded.",
             "attr":{
                 "priority":"translate"
             }
@@ -3117,7 +3117,7 @@
         },
         {
             "name":"node_graph_confirm_delete_generate_node",
-            "value":"An image is being generated. If you delete this node, the generation process will be terminated, and the credits consumed will be refunded within %d hours.",
+            "value":"If you delete this node, the current generation task will be canceled.",
             "attr":{
                 "priority":"translate"
             }
@@ -4234,7 +4234,7 @@
         },
         {
             "name":"image_generation_switch_graph_description",
-            "value":"An image is being generated. If you switch to a different canvas, the generation process will be terminated, and the credits consumed will be refunded within %d hours.",
+            "value":"An image is being generated. If you switch to a different canvas, it will be discarded.",
             "attr":{
                 "priority":"translate"
             }
@@ -4306,6 +4306,22 @@
         {
             "name":"image_generation_abandon_generation",
             "value":"Abandon generation"
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"Content entered is invalid. Credits will be refunded within %d hours."
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"An image is being generated. If you exit now, the generation process will be terminated, and the credits consumed will be refunded within %d hours."
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"An image is being generated. If you delete this node, the generation process will be terminated, and the credits consumed will be refunded within %d hours."
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"An image is being generated. If you switch to a different canvas, the generation process will be terminated, and the credits consumed will be refunded within %d hours."
         }
     ]
 }
