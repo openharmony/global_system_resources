@@ -4322,6 +4322,13 @@
         {
             "name":"image_generation_switch_graph_description_rollback",
             "value":"An image is being generated. If you switch to a different canvas, the generation process will be terminated, and the credits consumed will be refunded within %d hours."
+        },
+        {
+            "name":"access_audio_control",
+            "value":"PlayCast",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

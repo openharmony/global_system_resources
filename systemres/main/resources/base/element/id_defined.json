@@ -40311,6 +40311,11 @@
             "type": "string",
             "name":"image_generation_switch_graph_description_rollback",
             "order": 7980
+        },
+        {
+            "type": "string",
+            "name": "access_audio_control",
+            "order": 7981
         }
     ]
 }
