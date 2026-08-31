@@ -9709,6 +9709,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.vehicle.ACCESS_EXTERNAL_DVR_DATA",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.LOCAL_DEBUG_OTHER_APPS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
