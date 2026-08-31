@@ -4166,6 +4166,13 @@
         {
             "name":"image_generation_switch_graph_description_rollback",
             "value":"您的生图任务尚未完成，切换画布将终止本次生图进程，消耗的积分将在 %d 小时内返还"
+        },
+        {
+            "name":"access_audio_control",
+            "value":"音视频投播",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
