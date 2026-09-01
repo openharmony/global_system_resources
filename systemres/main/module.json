@@ -2550,6 +2550,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_USER_PASSIVE_RECOGNITION",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_USER_AUTH_INTERNAL",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
