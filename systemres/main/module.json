@@ -9790,6 +9790,15 @@
                "distributedSceneEnable": false
             },
             {
+               "name": "ohos.permission.SWITCH_MULTI_MODE_BUNDLE",
+               "grantMode": "system_grant",
+               "availableLevel": "system_basic",
+               "since": "26.1.0",
+               "deprecated": "",
+               "provisionEnable": true,
+               "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_LOH",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
