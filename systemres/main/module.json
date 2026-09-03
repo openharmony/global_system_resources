@@ -9530,6 +9530,16 @@
                 "distributedSceneEnable": false
  	        },
             {
+                "name": "ohos.permission.kernel.LOAD_CERTSIGN_LIBRARY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
+            },
+            {
                 "name": "ohos.permission.ACCESS_MEDIALIB_SANDBOX",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
