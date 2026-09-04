@@ -9781,6 +9781,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.kernel.ALLOW_PTRACE_READ",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                "name": "ohos.permission.MANAGE_SHARE_PHOTO",
                "grantMode": "system_grant",
                "availableLevel": "system_basic",
