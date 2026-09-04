@@ -9961,6 +9961,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": true
+            },
+            {
+                "name": "ohos.permission.ASSESSMENT_CONFIGURATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
