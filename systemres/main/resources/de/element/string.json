@@ -2146,7 +2146,7 @@
             "name":"canvas_operation_prompt_words",
             "value":"Finger zusammen-/auseinanderziehen oder drehen, um die Bildposition zu bearbeiten",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2160,7 +2160,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"Bilder oder Skizzen in Kunstwerke verwandeln",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2342,7 +2342,7 @@
             "name":"oil_painting",
             "value":"Ölmalerei",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2377,7 +2377,7 @@
             "name":"prompt_input",
             "value":"Eingabeaufforderung eingeben",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2678,7 +2678,7 @@
             "name":"node_graph_wash_painting",
             "value":"Tusche",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2895,7 +2895,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"„KI-generiert“-Wasserzeichen",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3000,21 +3000,21 @@
             "name":"image_generation_watermark_add_dialog_title",
             "value":"„KI-generiert“-Wasserzeichen hinzufügen?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
             "value":"KI-generierte Bilder, die Sie speichern, enthalten kein „KI-generiert“-Wasserzeichen mehr.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
             "value":"Dadurch wird ein „KI-generiert“-Wasserzeichen zu diesem Bild hinzugefügt. Sie können Ihre Präferenzen jederzeit unter Mehr > „KI-generiert“-Wasserzeichen ändern.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3049,7 +3049,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"Jetzt ausprobieren",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3203,7 +3203,7 @@
             "name":"image_generation_general_guide_first",
             "value":"Fügen Sie Textbeschreibungen, Bilder oder Kritzeleien hinzu und tippen Sie dann auf Generieren, um ein Bild zu erstellen. %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3434,7 +3434,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"Von der KI generierte Bilder werden automatisch in der Galerie gespeichert.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

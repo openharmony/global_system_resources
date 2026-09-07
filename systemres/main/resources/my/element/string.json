@@ -2144,9 +2144,9 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"ပုံ၏ အနေအထားကို ပြင်ဆင်ရန် လက်ချောင်းများဖြင့် ချုံ့ချဲ့ သို့မဟုတ် လှည့်ပါ",
+            "value":"ပုံ၏ အနေအထားကို ပြင်ဆင်ရန် လက်ချောင်းများဖြင့် ချုံ့ချဲ့ သို့မဟုတ် လှည့်ပါ။",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2160,7 +2160,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"ပုံများ သို့မဟုတ် ပုံကြမ်းများကို အနုပညာ ဖန်တီးမှုများအဖြစ်သို့ ပြောင်းလဲလိုက်ပါ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2342,7 +2342,7 @@
             "name":"oil_painting",
             "value":"Oil painting",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2377,7 +2377,7 @@
             "name":"prompt_input",
             "value":"ညွှန်ကြားချက် ထည့်ရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2678,7 +2678,7 @@
             "name":"node_graph_wash_painting",
             "value":"Ink wash",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2895,7 +2895,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"AI ဖြင့် ဖန်တီးထားသော ရေစာ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3000,14 +3000,14 @@
             "name":"image_generation_watermark_add_dialog_title",
             "value":"\"AI ဖြင့် ဖန်တီးထားသော\" ရေစာကို ထည့်မည်လား။",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
             "value":"သင်သိမ်းလိုက်သည့် AI ဖြင့် ဖန်တီးထားသော ပုံများတွင် \"AI ဖြင့် ဖန်တီးထားသည်\" ဟူသော ရေစာ မပါဝင်တော့ပါ။",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3049,7 +3049,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"ယခု စမ်းကြည့်ရန်",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3175,7 +3175,7 @@
             "name":"image_generation_general_guide_first",
             "value":"ပုံဖန်တီးရန်အတွက် စာသား ရှင်းလင်းဖော်ပြချက်များ၊ ပုံများ၊ သို့မဟုတ် Doodle များ ထည့်ပြီးနောက် ဖန်တီးထုတ်လုပ်ရန်ကို နှိပ်ပါ။ %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3438,7 +3438,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"AI ဖြင့် ဖန်တီးထုတ်လုပ်ထားသော ပုံများကို ပုံပြခန်းတွင် အော်တို သိမ်းဆည်းပါမည်။",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

@@ -2153,7 +2153,7 @@
             "name":"canvas_operation_prompt_words",
             "value":"透過雙指縮放、旋轉編輯圖片位置",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2167,7 +2167,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"新增圖片或塗鴉進行創作",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2349,7 +2349,7 @@
             "name":"oil_painting",
             "value":"油畫",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2384,7 +2384,7 @@
             "name":"prompt_input",
             "value":"提示詞輸入",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2685,7 +2685,7 @@
             "name":"node_graph_wash_painting",
             "value":"水墨",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2902,7 +2902,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"AI 合成標記",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3014,7 +3014,7 @@
             "name":"image_generation_watermark_close_confirm_message",
             "value":"關閉後，由 AI 產生的圖片在進行儲存操作時，將去除浮水印標識。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3056,7 +3056,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"立即體驗",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3182,7 +3182,7 @@
             "name":"image_generation_general_guide_first",
             "value":"新增文字描述、圖片或塗鴉後，輕觸「產生」按鈕快速開啟 AI 產生圖片創作。%s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3441,7 +3441,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"啟用後，由 AI 產生的圖片將自動儲存至「圖片庫」中。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

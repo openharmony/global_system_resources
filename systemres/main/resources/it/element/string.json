@@ -2144,9 +2144,9 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Avvicina le dita o ruotale per modificare la posizione dell'immagine",
+            "value":"Avvicina le dita o ruotale per modificare la posizione dell'immagine.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2160,7 +2160,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"Trasforma immagini o schizzi in opere d'arte",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2342,7 +2342,7 @@
             "name":"oil_painting",
             "value":"Pittura a olio",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2377,7 +2377,7 @@
             "name":"prompt_input",
             "value":"Inserisci prompt",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2678,7 +2678,7 @@
             "name":"node_graph_wash_painting",
             "value":"Inchiostro diluito",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2895,7 +2895,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"Filigrana Generato dall'IA",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3000,21 +3000,21 @@
             "name":"image_generation_watermark_add_dialog_title",
             "value":"Vuoi aggiungere la filigrana \"Generato dall'IA\"?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
             "value":"Le immagini generate dall'IA salvate non conterranno più una filigrana \"Generato dall'IA\".",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
             "value":"In questo modo, all'immagine verrà aggiunta la filigrana \"Generato dall'IA\". Puoi modificare le tue preferenze in qualsiasi momento in Altro > Filigrana Generato dall'IA.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3049,7 +3049,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"Prova adesso",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3175,7 +3175,7 @@
             "name":"image_generation_general_guide_first",
             "value":"Aggiungi descrizioni testuali, immagini o disegni, quindi tocca Genera per creare un'immagine. %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3434,7 +3434,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"Le immagini generate dall'IA verranno salvate automaticamente nella Galleria.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
        {

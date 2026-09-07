@@ -2153,7 +2153,7 @@
             "name":"canvas_operation_prompt_words",
             "value":"མཛུབ་མོ་གཉིས་ཀྱིས་ཆེ་ཆུང་སྒྲིག་པ་དང་། འཁྱིལ་འཁོར་བྱས་ཏེ་པར་རིས་ཀྱི་གནས་ཡུལ་རྩོམ་སྒྲིག་བྱེད།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2167,7 +2167,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"པར་རིས་སམ་བརྐོས་རིས་བསྣན་ནས་གསར་རྩོམ་བྱེད།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2349,7 +2349,7 @@
             "name":"oil_painting",
             "value":"སྣུམ་ཚོན་རི་མོ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2384,7 +2384,7 @@
             "name":"prompt_input",
             "value":"དྲན་སྐུལ་ཚིག་ནང་འཇུག",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2685,7 +2685,7 @@
             "name":"node_graph_wash_painting",
             "value":"སྣག་རིས།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2902,7 +2902,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"AI འདྲེས་གྲུབ་མཚོན་རྟགས།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3007,21 +3007,21 @@
             "name":"image_generation_watermark_add_dialog_title",
             "value":"AI འདྲེས་གྲུབ་མཚོན་རྟགས་སྣོན་དགོས་སམ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
             "value":"ཁ་བརྒྱབ་རྗེས། AI ཡིས་སྐྱེད་སྒྲུབ་བྱས་པའི་པར་རིས་ཉར་ཚགས་བྱེད་སྐབས། ཆུ་དཔར་མེད་པར་བཟོ།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
             "value":"པར་རིས་ཐོག་ཏུ་ AI འདྲེས་གྲུབ་མཚོན་རྟགས་བསྣན་རྒྱུ། གལ་ཏེ་མཚོན་རྟགས་མེད་པའི་པར་རིས་དགོས་ན། མ་བསྣན་ཀྱང་ཆོག སྒྲིག་འགོད་བྱས་རྗེས་༼དེ་བས་མང་བ་༽>༼AI འདྲེས་གྲུབ་མཚོན་རྟགས་༽ཁྲོད་ནས་བཅོས་ཆོག",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3056,7 +3056,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"ལམ་སེང་ཉམས་ལེན།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3182,7 +3182,7 @@
             "name":"image_generation_general_guide_first",
             "value":"ཡི་གེའི་ཞིབ་བརྗོད་དང་། པར་རིས། བརྐོས་རིས་བསྣན་རྗེས། ༼སྐྱེད་སྒྲུབ་༽གནོན་མཐེབ་ལ་བརྡབས་ནས། AI པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་གསར་རྩོམ་མྱུར་དུ་ཁ་འབྱེད། %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3445,7 +3445,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"ཁ་ཕྱེ་རྗེས། AI ཡིས་སྐྱེད་སྒྲུབ་བྱུང་བའི་པར་རིས་རང་འགུལ་གྱིས་༼པར་མཛོད་༽ནང་དུ་ཉར་ཚགས་བྱེད།",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

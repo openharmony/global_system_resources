@@ -2188,7 +2188,7 @@
             "name":"canvas_operation_prompt_words",
             "value":"Сведите пальцы или поверните пальцами, чтобы изменить положение изображения",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2202,7 +2202,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"Превратите изображения или наброски в произведения искусства",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2384,7 +2384,7 @@
             "name":"oil_painting",
             "value":"Масляная живопись",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2419,7 +2419,7 @@
             "name":"prompt_input",
             "value":"Введите запрос",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2720,7 +2720,7 @@
             "name":"node_graph_wash_painting",
             "value":"Покрытие тушью",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2937,7 +2937,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"Водяной знак \"Сгенерировано ИИ\"",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3049,7 +3049,7 @@
             "name":"image_generation_watermark_close_confirm_message",
             "value":"Сохраняемые изображения, сгенерированные ИИ, больше не будут включать водяной знак \"Сгенерировано ИИ\".",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3091,7 +3091,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"Попробовать",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3217,7 +3217,7 @@
             "name":"image_generation_general_guide_first",
             "value":"Добавьте текстовые описания, изображения или рисунки, а затем нажмите Сгенерировать, чтобы создать изображение. %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3476,7 +3476,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"Изображения, сгенерированные ИИ, будут автоматически сохраняться в Галерею.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

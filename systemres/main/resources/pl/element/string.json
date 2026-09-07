@@ -2146,7 +2146,7 @@
             "name":"canvas_operation_prompt_words",
             "value":"Wykonaj gest uszczypnięcia lub obróć palce, aby zmienić położenie obrazu.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2160,7 +2160,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"Zamień obrazy lub szkice w dzieła sztuki",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2342,7 +2342,7 @@
             "name":"oil_painting",
             "value":"Obraz olejny",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2377,7 +2377,7 @@
             "name":"prompt_input",
             "value":"Wprowadź polecenie",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2678,7 +2678,7 @@
             "name":"node_graph_wash_painting",
             "value":"Rozwodniony tusz",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2895,7 +2895,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"Znak wodny „Materiał wygenerowany przez AI”",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3007,14 +3007,14 @@
             "name":"image_generation_watermark_close_confirm_message",
             "value":"Zapisane przez Ciebie obrazy wygenerowane przez AI nie będą już zawierać znaku wodnego „Materiał wygenerowany przez AI”.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
             "value":"Spowoduje to dodanie znaku wodnego „Materiał wygenerowany przez AI” do tego obrazu. Preferencje możesz zawsze zmienić w sekcji Więcej > Znak wodny „Materiał wygenerowany przez AI”.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3049,7 +3049,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"Wypróbuj teraz",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3175,7 +3175,7 @@
             "name":"image_generation_general_guide_first",
             "value":"Dodawaj opisy tekstowe, obrazy lub szkice, a następnie dotknij przycisku Generuj, aby stworzyć obraz. %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3434,7 +3434,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"Obrazy wygenerowane przez sztuczną inteligencję będą automatycznie zapisywane w Galerii.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
