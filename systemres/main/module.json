@@ -9815,7 +9815,8 @@
                 "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
-                "distributedSceneEnable": false
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
             },
             {
                "name": "ohos.permission.MANAGE_SHARE_PHOTO",
