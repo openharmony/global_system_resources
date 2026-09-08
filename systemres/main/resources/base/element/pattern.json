@@ -5278,6 +5278,26 @@
                 {
                     "name": "subtab_text_focused_color",
                     "value": "$color:tab_subtab_text_focus_color"
+                },
+                {
+                    "name": "sidebar_unselected_icon_color",
+                    "value": "$color:icon_secondary"
+                },
+                {
+                    "name": "sidebar_unselected_text_color",
+                    "value": "$color:font_secondary"
+                },
+                {
+                    "name": "sidebar_board_actived_color",
+                    "value": "$color:comp_emphasize_tertiary"
+                },
+                {
+                    "name": "sidebar_divider_color",
+                    "value": "$color:comp_divider"
+                },
+                {
+                    "name": "sidebar_background_color",
+                    "value": "$color:background_secondary"
                 }
             ]
         },
