@@ -3548,6 +3548,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"Zatrzymać generowanie obrazu?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"Wykorzystane kredyty AI zostaną zwrócone w ciągu %d godzin.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"Nieodpowiedni opis. Nie można wygenerować obrazu. Wykorzystane kredyty AI zostaną zwrócone w ciągu %d godzin.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"Spowoduje to zakończenie bieżącego zadania generowania obrazu. Wykorzystane kredyty AI zostaną zwrócone w ciągu %d godzin.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"Spowoduje to zakończenie bieżącego zadania generowania obrazu. Wykorzystane kredyty AI zostaną zwrócone w ciągu %d godzin.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"Spowoduje to zakończenie bieżącego zadania generowania obrazu. Wykorzystane kredyty AI zostaną zwrócone w ciągu %d godzin.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

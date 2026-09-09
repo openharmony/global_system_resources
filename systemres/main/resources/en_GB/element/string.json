@@ -3548,6 +3548,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"Stop image generation?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"AI credits used will be refunded within %d hours.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"Inappropriate description. Unable to generate image. AI credits used will be refunded within %d hours.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"This will end the current image generation task. AI credits used will be refunded within %d hours.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"This will end the current image generation task. AI credits used will be refunded within %d hours.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"This will end the current image generation task. AI credits used will be refunded within %d hours.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

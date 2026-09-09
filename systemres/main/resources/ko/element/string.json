@@ -3590,6 +3590,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"이미지 생성을 중단할까요?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"사용한 AI 크레딧은 %d시간 내에 환불됩니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"확인",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"부적절한 설명입니다. 이미지를 생성할 수 없습니다. 사용한 AI 크레딧은 %d시간 내에 환불됩니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"현재 진행 중인 이미지 생성 작업이 종료됩니다. 사용한 AI 크레딧은 %d시간 내에 환불됩니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"현재 진행 중인 이미지 생성 작업이 종료됩니다. 사용한 AI 크레딧은 %d시간 내에 환불됩니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"현재 진행 중인 이미지 생성 작업이 종료됩니다. 사용한 AI 크레딧은 %d시간 내에 환불됩니다.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

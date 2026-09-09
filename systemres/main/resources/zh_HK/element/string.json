@@ -3555,6 +3555,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"捨棄本次建立？",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"捨棄建立後，本次消耗的積分將在 %d 小時內返還。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"捨棄建立",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"輸入內容不符合規則，積分將在 %d 小時內返還",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"您的建圖任務尚未完成，退出將終止本次建圖進程，消耗的積分將在 %d 小時內返還。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"您的建圖任務尚未完成，刪除建立節點將終止本次建圖進程，消耗的積分將在 %d 小時內返還。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"您的建圖任務尚未完成，切換畫布將終止本次建圖進程，消耗的積分將在 %d 小時內返還。",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

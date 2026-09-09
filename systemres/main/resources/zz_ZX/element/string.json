@@ -2747,6 +2747,34 @@
         {
             "name":"image_generation_upgrade_membership",
             "value":"[TS_1241711]_Upgrade membership"
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"[TS_1254168]_Stop image generation?"
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"[TS_1254167]_AI credits used will be refunded within %d hours."
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"[TS_1254169]_OK"
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"[TS_1254399]_Inappropriate description. Unable to generate image. AI credits used will be refunded within %d hours."
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"[TS_1254396]_This will end the current image generation task. AI credits used will be refunded within %d hours."
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"[TS_1254398]_This will end the current image generation task. AI credits used will be refunded within %d hours."
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"[TS_1254397]_This will end the current image generation task. AI credits used will be refunded within %d hours."
         }
     ]
 }

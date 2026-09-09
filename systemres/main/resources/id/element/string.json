@@ -3548,6 +3548,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"Hentikan pembuatan gambar?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"Kredit AI yang digunakan akan dikembalikan dalam waktu %d jam.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"Deskripsi tidak sesuai. Tidak dapat membuat gambar. Kredit AI yang digunakan akan dikembalikan dalam waktu %d jam.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"Tindakan ini akan mengakhiri tugas pembuatan gambar saat ini. Kredit AI yang digunakan akan dikembalikan dalam waktu %d jam.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"Tindakan ini akan mengakhiri tugas pembuatan gambar saat ini. Kredit AI yang digunakan akan dikembalikan dalam waktu %d jam.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"Tindakan ini akan mengakhiri tugas pembuatan gambar saat ini. Kredit AI yang digunakan akan dikembalikan dalam waktu %d jam.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

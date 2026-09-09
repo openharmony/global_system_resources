@@ -3548,6 +3548,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"ຢຸດການສ້າງຮູບພາບບໍ?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"ບັດເຄຣດິດ AI ທີ່ໃຊ້ຈະຖືກສົ່ງເງິນຄືນພາຍໃນ %d ຊົ່ວໂມງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"ຕົກລົງ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"ຄຳອະທິບາຍບໍ່ເໝາະສົມ. ບໍ່ສາມາດສ້າງຮູບພາບໄດ້. ບັດເຄຣດິດ AI ທີ່ໃຊ້ຈະຖືກສົ່ງເງິນຄືນພາຍໃນ %d ຊົ່ວໂມງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"ສິ່ງນີ້ຈະສິ້ນສຸດໜ້າວຽກການສ້າງຮູບພາບປະຈຸບັນ. ບັດເຄຣດິດ AI ທີ່ໃຊ້ຈະຖືກສົ່ງເງິນຄືນພາຍໃນ %d ຊົ່ວໂມງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"ສິ່ງນີ້ຈະສິ້ນສຸດໜ້າວຽກການສ້າງຮູບພາບປະຈຸບັນ. ບັດເຄຣດິດ AI ທີ່ໃຊ້ຈະຖືກສົ່ງເງິນຄືນພາຍໃນ %d ຊົ່ວໂມງ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"ສິ່ງນີ້ຈະສິ້ນສຸດໜ້າວຽກການສ້າງຮູບພາບປະຈຸບັນ. ບັດເຄຣດິດ AI ທີ່ໃຊ້ຈະຖືກສົ່ງເງິນຄືນພາຍໃນ %d ຊົ່ວໂມງ.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

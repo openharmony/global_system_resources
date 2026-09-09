@@ -3591,6 +3591,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"هل تريد إيقاف إنشاء الصورة؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"سيتم رد أرصدة الذكاء الاصطناعي المستخدمة خلال %d ساعة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"موافق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"الوصف غير مناسب، يتعذر إنشاء الصورة، وسيتم رد أرصدة الذكاء الاصطناعي المستخدمة خلال %d ساعة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"سيؤدي هذا إلى إنهاء مهمة إنشاء الصورة الحالية. وسيتم رد أرصدة الذكاء الاصطناعي المستخدمة خلال %d ساعة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"سيؤدي هذا إلى إنهاء مهمة إنشاء الصورة الحالية. وسيتم رد أرصدة الذكاء الاصطناعي المستخدمة خلال %d ساعة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"سيؤدي هذا إلى إنهاء مهمة إنشاء الصورة الحالية. وسيتم رد أرصدة الذكاء الاصطناعي المستخدمة خلال %d ساعة.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

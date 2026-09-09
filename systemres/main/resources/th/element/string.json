@@ -3552,6 +3552,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"หยุดการสร้างภาพหรือไม่",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"จะได้รับเครดิต AI ที่ใช้ไปคืนภายใน %d ชั่วโมง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"ตกลง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"คำอธิบายไม่เหมาะสม ไม่สามารถสร้างรูปภาพได้ จะได้รับเครดิต AI ที่ใช้ไปคืนภายใน %d ชั่วโมง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"การดำเนินการนี้จะสิ้นสุดงานสร้างภาพปัจจุบัน จะได้รับเครดิต AI ที่ใช้ไปคืนภายใน %d ชั่วโมง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"การดำเนินการนี้จะสิ้นสุดงานสร้างภาพปัจจุบัน จะได้รับเครดิต AI ที่ใช้ไปคืนภายใน %d ชั่วโมง",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"การดำเนินการนี้จะสิ้นสุดงานสร้างภาพปัจจุบัน จะได้รับเครดิต AI ที่ใช้ไปคืนภายใน %d ชั่วโมง",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

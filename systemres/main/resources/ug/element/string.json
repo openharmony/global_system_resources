@@ -3555,6 +3555,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"قۇرۇشنى تاشلامسىز؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"قۇرۇشنى تاشلىسىڭىز، ئىشلەتكەن جۇغلانما نومۇر %d سائەت ئىچىدە قايتىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"تاشلاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"كىرگۈزگەن مەزمۇن تەلەپكە ئۇيغۇن ئەمەس، ئىشلەتكەن جۇغلانما نومۇر %d سائەت ئىچىدە قايتىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"رەسىم قۇرۇش ۋەزىپىسى تېخى پۈتمىدى، چېكىنسىڭىز ۋەزىپە ئەمەلدىن قالىدۇ، ئىشلەتكەن جۇغلانما نومۇر %d سائەت ئىچىدە قايتىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"رەسىم قۇرۇش ۋەزىپىسى تېخى پۈتمىدى، تۈگۈن ئۆچۈرسىڭىز رەسىم قۇرۇش ئېقىمى ئەمەلدىن قالىدۇ، ئىشلەتكەن جۇغلانما نومۇر %d سائەت ئىچىدە قايتىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"رەسىم قۇرۇش ۋەزىپىسى تېخى پۈتمىدى، تەگ ئالماشتۇرسىڭىز بۇ قېتىملىق رەسىم قۇرۇش ئېقىمى توختايدۇ، ئىشلەتكەن جۇغلانما نومۇر %d سائەت ئىچىدە قايتىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

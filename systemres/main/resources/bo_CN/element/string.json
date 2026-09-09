@@ -3559,6 +3559,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"སྐྱེད་སྒྲུབ་བྱེད་ཐེངས་འདི་བློས་གཏོང་དགོས་སམ།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"སྐྱེད་སྒྲུབ་བྱ་རྒྱུ་བློས་བཏང་ཚེ། ཐེངས་འདིར་ཟད་པའི་བསགས་སྐར་ཆུ་ཚོད་ %d ནང་ཚུན་ལ་ཕྱིར་བསློག་ངེས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"སྐྱེད་སྒྲུབ་བྱ་རྒྱུ་བློས་གཏོང་།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"བཅུག་པའི་ནང་དོན་སྒྲིག་སྲོལ་དང་མི་མཐུན། བསགས་སྐར་ཆུ་ཚོད་ %d ནང་ཚུན་ལ་ཕྱིར་བསློག་ངེས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"ཁྱེད་ཀྱི་པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་ལས་འགན་ཚར་མེད། ཕྱིར་འཐེན་བྱས་ཚེ། ཐེངས་འདིའི་པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་ལས་འགན་མཇུག་བསྒྲིལ་ངེས། ཟད་པའི་བསགས་སྐར་ཆུ་ཚོད་ %d ནང་ཚུན་ལ་ཕྱིར་བསློག་ངེས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"ཁྱེད་ཀྱི་པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་ལས་འགན་ཚར་མེད། སྐྱེད་སྒྲུབ་ཚིགས་ཚེག་བསུབས་ཚེ། ཐེངས་འདིའི་པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་ལས་འགན་མཇུག་བསྒྲིལ་ངེས། ཟད་པའི་བསགས་སྐར་ཆུ་ཚོད་ %d ནང་ཚུན་ལ་ཕྱིར་བསློག་ངེས།",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"ཁྱེད་ཀྱི་པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་ལས་འགན་ཚར་མེད། འབྲི་རས་བརྗེ་སྒྱུར་བྱས་ཚེ་ཐེངས་འདིའི་པར་རིས་སྐྱེད་སྒྲུབ་ཀྱི་ལས་འགན་མཇུག་བསྒྲིལ་ངེས། ཟད་པའི་བསགས་སྐར་ཆུ་ཚོད་ %d ནང་ཚུན་ལ་ཕྱིར་བསློག་ངེས།",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

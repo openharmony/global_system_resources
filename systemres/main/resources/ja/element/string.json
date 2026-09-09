@@ -3590,6 +3590,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"画像の生成を停止しますか？",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"使用したAIクレジットは%d時間以内に返金されます。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"説明が不適切です。画像を生成できません。使用したAIクレジットは%d時間以内に返金されます。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"これにより、現在の画像生成タスクが終了します。使用したAIクレジットは%d時間以内に返金されます。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"これにより、現在の画像生成タスクが終了します。使用したAIクレジットは%d時間以内に返金されます。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"これにより、現在の画像生成タスクが終了します。使用したAIクレジットは%d時間以内に返金されます。",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

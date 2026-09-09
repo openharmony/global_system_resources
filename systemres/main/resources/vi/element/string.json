@@ -3590,6 +3590,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"Dừng tạo hình ảnh?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"Số lượt sử dụng AI đã dùng sẽ được hoàn lại trong vòng %d giờ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"Mô tả không phù hợp. Không tạo được hình ảnh. Số lượt sử dụng AI đã dùng sẽ được hoàn lại trong vòng %d giờ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"Thao tác này sẽ kết thúc tác vụ tạo hình ảnh hiện tại. Số lượt sử dụng AI đã dùng sẽ được hoàn lại trong vòng %d giờ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"Thao tác này sẽ kết thúc tác vụ tạo hình ảnh hiện tại. Số lượt sử dụng AI đã dùng sẽ được hoàn lại trong vòng %d giờ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"Thao tác này sẽ kết thúc tác vụ tạo hình ảnh hiện tại. Số lượt sử dụng AI đã dùng sẽ được hoàn lại trong vòng %d giờ.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
