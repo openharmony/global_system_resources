@@ -8599,6 +8599,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SKIP_ENTERPRISE_RESIGN_VERIFY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.DCAS_RUN_MODEL",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
