@@ -2144,9 +2144,9 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"ຢິບເຂົ້າ ຫຼື ໝຸນນິ້ວມື້ເພື່ອແກ້ໄຂຕຳແໜ່ງຮູບພາບ",
+            "value":"ຢິບເຂົ້າ ຫຼື ໝຸນນິ້ວມື້ເພື່ອແກ້ໄຂຕຳແໜ່ງຮູບພາບ.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2160,7 +2160,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"ປ່ຽນຮູບພາບ ຫຼື ຮູບສະເກັດເປັນຜົນງານສິລະປະ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2342,7 +2342,7 @@
             "name":"oil_painting",
             "value":"ຮູບແຕ້ມສີນ້ຳມັນ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2377,7 +2377,7 @@
             "name":"prompt_input",
             "value":"ປ້ອນຂໍ້ຄວາມເຕືອນ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2678,7 +2678,7 @@
             "name":"node_graph_wash_painting",
             "value":"ການລ້າງນ້ຳເມິກ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2895,7 +2895,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"ເງົາພື້ນຫຼັງທີ່ສ້າງໂດຍ AI",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3000,21 +3000,21 @@
             "name":"image_generation_watermark_add_dialog_title",
             "value":"ເພີ່ມເງົາພື້ນຫຼັງ \"ທີ່ສ້າງໂດຍ AI\" ບໍ?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
             "value":"ຮູບພາບທີ່ສ້າງໂດຍ AI ທີ່ທ່ານບັນທຶກຈະບໍ່ມີເງົາພື້ນຫຼັງ \"ທີ່ສ້າງໂດຍ AI\" ອີກຕໍ່ໄປ.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
             "value":"ສິ່ງນີ້ຈະເພີ່ມເງົາພື້ນຫຼັງ \"ທີ່ສ້າງໂດຍ AI\" ໃສ່ຮູບພາບນີ້. ທ່ານສາມາດປ່ຽນການຕັ້ງຄ່າຂອງທ່ານໄດ້ທຸກເວລາໃນ ເພີ່ມເຕີມ > ເງົາພື້ນຫຼັງທີ່ສ້າງໂດຍ AI.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3049,7 +3049,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"ລອງໃຊ້ມັນດຽວນີ້",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3175,7 +3175,7 @@
             "name":"image_generation_general_guide_first",
             "value":"ເພີ່ມຄຳອະທິບາຍ, ຮູບພາບ ຫຼື ການຂີດຂຽນ, ຈາກນັ້ນ ແຕະ ສ້າງ ເພື່ອສ້າງຮູບພາບ. %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3434,7 +3434,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"ຮູບພາບທີ່ສ້າງໂດຍ AI ຈະຖືກບັນທຶກໃສ່ແກເລີຣີໂດຍອັດຕະໂນມັດ.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

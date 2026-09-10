@@ -2186,9 +2186,9 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"ピンチまたは指を回転させて画像の位置を編集",
+            "value":"ピンチするか、指を回転させて、画像の位置を編集してください。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2202,7 +2202,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"画像やスケッチを芸術作品に変える",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2384,7 +2384,7 @@
             "name":"oil_painting",
             "value":"油絵",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2419,7 +2419,7 @@
             "name":"prompt_input",
             "value":"プロンプトの入力",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2720,7 +2720,7 @@
             "name":"node_graph_wash_painting",
             "value":"水墨",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2937,7 +2937,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"AI生成ウォーターマーク",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3049,7 +3049,7 @@
             "name":"image_generation_watermark_close_confirm_message",
             "value":"保存するAI生成画像に「AI生成」ウォーターマークが含まれなくなります。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3091,7 +3091,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"今すぐ試す",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3217,7 +3217,7 @@
             "name":"image_generation_general_guide_first",
             "value":"テキストの説明、画像、または落書きを追加してから、[生成]をタップして画像を生成します。%s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3476,7 +3476,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"AIによって生成された画像は、自動的に[ギャラリー]に保存されます。",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

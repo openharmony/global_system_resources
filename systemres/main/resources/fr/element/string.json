@@ -2186,9 +2186,9 @@
         },
         {
             "name":"canvas_operation_prompt_words",
-            "value":"Vous pouvez pincer ou faire pivoter les doigts pour modifier la position de l'image",
+            "value":"Vous pouvez pincer ou faire pivoter les doigts pour modifier la position de l'image.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2202,7 +2202,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"Vous pouvez transformer des images ou des croquis en œuvres d'art",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2384,7 +2384,7 @@
             "name":"oil_painting",
             "value":"Peinture à l'huile",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2419,7 +2419,7 @@
             "name":"prompt_input",
             "value":"Saisie de l'invite",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2720,7 +2720,7 @@
             "name":"node_graph_wash_painting",
             "value":"Lavis à l'encre",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2937,7 +2937,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"Filigrane généré par l'IA",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3049,7 +3049,7 @@
             "name":"image_generation_watermark_close_confirm_message",
             "value":"Les images générées par l'IA que vous enregistrez ne contiendront plus de filigrane \"généré par l'IA\".",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3091,7 +3091,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"Essayer maintenant",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3245,7 +3245,7 @@
             "name":"image_generation_general_guide_first",
             "value":"Veuillez ajouter des descriptions sous forme de texte, des images ou des gribouillages, puis touchez Générer pour créer une image. %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3476,7 +3476,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"Les images générées par l'IA seront automatiquement enregistrées dans Galerie.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

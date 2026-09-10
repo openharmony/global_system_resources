@@ -2188,7 +2188,7 @@
             "name":"canvas_operation_prompt_words",
             "value":"Pellizca o gira con los dedos para ajustar la posición de la imagen",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2202,7 +2202,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"Convierte imágenes o bocetos en obras de arte",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2384,7 +2384,7 @@
             "name":"oil_painting",
             "value":"Pintura al óleo",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2419,7 +2419,7 @@
             "name":"prompt_input",
             "value":"Introducir indicación",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2720,7 +2720,7 @@
             "name":"node_graph_wash_painting",
             "value":"Tinta aguada",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2937,7 +2937,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"Marca de agua generada con IA",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3042,21 +3042,21 @@
             "name":"image_generation_watermark_add_dialog_title",
             "value":"¿Añadir la marca de agua “generada con IA”?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
             "value":"Las imágenes generadas con IA que guardes ya no contendrán la marca de agua “Generada con IA”.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
             "value":"Esto añadirá la marca de agua “generada con IA” a esta imagen. Puedes cambiar tus preferencias en cualquier momento en Más > Marca de agua generada con IA.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3091,7 +3091,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"Probar la función ahora",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3245,7 +3245,7 @@
             "name":"image_generation_general_guide_first",
             "value":"Añade descripciones de texto, imágenes o garabatos y toca Generar para crear una imagen. %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3476,7 +3476,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"Las imágenes generadas por IA se guardarán automáticamente en Galería.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

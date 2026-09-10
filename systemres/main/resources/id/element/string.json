@@ -2146,7 +2146,7 @@
             "name":"canvas_operation_prompt_words",
             "value":"Jepit atau rotasikan dengan jari untuk mengedit posisi gambar.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2160,7 +2160,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"Ubah gambar atau sketsa menjadi karya seni",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2342,7 +2342,7 @@
             "name":"oil_painting",
             "value":"Lukisan cat minyak",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2377,7 +2377,7 @@
             "name":"prompt_input",
             "value":"Masukkan prompt",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2678,7 +2678,7 @@
             "name":"node_graph_wash_painting",
             "value":"Tinta cair",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2895,7 +2895,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"Tanda air Dihasilkan oleh AI",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3000,21 +3000,21 @@
             "name":"image_generation_watermark_add_dialog_title",
             "value":"Tambahkan tanda air \"Dihasilkan oleh AI\"?",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
             "value":"Gambar yang dihasilkan AI yang Anda simpan tidak akan mengandung tanda air \"Dihasilkan oleh AI\" lagi.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
             "value":"Ini akan menambahkan tanda air \"Dihasilkan oleh AI\" ke gambar ini. Anda dapat mengubah preferensi kapan saja di Lainnya > Tanda air Dihasilkan oleh AI.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3049,7 +3049,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"Cobalah sekarang",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3175,7 +3175,7 @@
             "name":"image_generation_general_guide_first",
             "value":"Tambahkan deskripsi teks, gambar, atau coretan, lalu ketuk Buat untuk membuat gambar. %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3434,7 +3434,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"Gambar yang dihasilkan oleh AI akan disimpan secara otomatis ke Galeri.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

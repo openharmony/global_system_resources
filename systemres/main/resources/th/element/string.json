@@ -2146,7 +2146,7 @@
             "name":"canvas_operation_prompt_words",
             "value":"จีบหรือบิดนิ้วเพื่อแก้ไขตำแหน่งรูปภาพ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2158,9 +2158,9 @@
         },
         {
             "name":"canvas_waiting_for_operation_prompt_words",
-            "value":"เปลี่ยนภาพหรือภาพร่างให้กลายเป็นผลงานศิลปะ",
+            "value":"เปลี่ยนรูปภาพหรือภาพร่างให้กลายเป็นผลงานศิลปะ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2340,9 +2340,9 @@
         },
         {
             "name":"oil_painting",
-            "value":"การระบายสีน้ำมัน",
+            "value":"ภาพวาดสีน้ำมัน",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2375,9 +2375,9 @@
         },
         {
             "name":"prompt_input",
-            "value":"กรอกข้อความแจ้ง",
+            "value":"กรอกพร้อมท์",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2676,9 +2676,9 @@
         },
         {
             "name":"node_graph_wash_painting",
-            "value":"สีน้ำหมึก",
+            "value":"พู่กันจีน",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2893,9 +2893,9 @@
         },
         {
             "name":"image_generation_ai_synthesis_label",
-            "value":"ลายน้ำที่สร้างโดย AI",
+            "value":"ลายน้ำระบุว่าสร้างโดย AI",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2998,23 +2998,23 @@
         },
         {
             "name":"image_generation_watermark_add_dialog_title",
-            "value":"เพิ่มลายน้ำที่ \"สร้างโดย AI\" หรือไม่",
+            "value":"เพิ่มลายน้ำ \"สร้างโดย AI\" หรือไม่",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_watermark_close_confirm_message",
-            "value":"ภาพที่สร้างโดย AI ที่บันทึกจะไม่มีลายน้ำ \"สร้างโดย AI\" อีกต่อไป",
+            "value":"รูปภาพที่สร้างโดย AI ที่บันทึกจะไม่มีลายน้ำ \"สร้างโดย AI\" อีกต่อไป",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"การดำเนินการนี้จะเพิ่มลายน้ำที่ \"สร้างโดย AI\" ลงบนรูปภาพนี้ คุณสามารถเปลี่ยนการตั้งค่าได้ทุกเมื่อใน เพิ่มเติม > ลายน้ำที่สร้างโดย AI",
+            "value":"การดำเนินการนี้จะเพิ่มลายน้ำ \"สร้างโดย AI\" ลงบนรูปภาพนี้ คุณสามารถเปลี่ยนการกำหนดลักษณะได้ทุกเมื่อใน เพิ่มเติม > ลายน้ำระบุว่าสร้างโดย AI",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3047,9 +3047,9 @@
         },
         {
             "name":"image_generation_guide_try_it_now",
-            "value":"ลองตอนนี้",
+            "value":"ลองเลย",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3173,9 +3173,9 @@
         },
         {
             "name":"image_generation_general_guide_first",
-            "value":"เพิ่มข้อความอธิบาย รูปภาพ หรือลายเส้น แล้วแตะที่ \"สร้าง\" เพื่อสร้างรูปภาพ %s",
+            "value":"เพิ่มข้อความอธิบาย รูปภาพ หรือภาพวาดลายเส้น แล้วแตะ \"สร้าง\" เพื่อสร้างรูปภาพ %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3236,7 +3236,7 @@
         },
         {
             "name":"image_generation_ai_composite_label",
-            "value":"ลายน้ำที่สร้างโดย AI",
+            "value":"ลายน้ำระบุว่าสร้างโดย AI",
             "attr":{
                 "priority":"LT"
             }
@@ -3436,9 +3436,9 @@
         },
         {
             "name":"image_generation_enable_and_auto_save_photo",
-            "value":"รูปภาพที่สร้างด้วย AI จะถูกบันทึกลงในแกลเลอรีโดยอัตโนมัติ",
+            "value":"รูปภาพที่สร้างโดย AI จะถูกบันทึกไปยังแกลเลอรีโดยอัตโนมัติ",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

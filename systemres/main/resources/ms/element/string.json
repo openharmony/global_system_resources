@@ -2146,7 +2146,7 @@
             "name":"canvas_operation_prompt_words",
             "value":"Picit atau putarkan jari untuk mengedit kedudukan imej.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2160,7 +2160,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"Ubah imej atau lakaran menjadi karya seni",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2342,7 +2342,7 @@
             "name":"oil_painting",
             "value":"Lukisan minyak",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2377,7 +2377,7 @@
             "name":"prompt_input",
             "value":"Masukkan prom",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2678,7 +2678,7 @@
             "name":"node_graph_wash_painting",
             "value":"Basuhan dakwat",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2895,7 +2895,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"Tera air dijanakan AI",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3007,7 +3007,7 @@
             "name":"image_generation_watermark_close_confirm_message",
             "value":"Imej dijanakan AI yang anda simpan tidak akan mengandungi tera air \"Dijanakan AI\" lagi.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3049,7 +3049,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"Cuba sekarang",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3175,7 +3175,7 @@
             "name":"image_generation_general_guide_first",
             "value":"Tambah penerangan teks, imej, atau coretan, kemudian ketik Janakan untuk mencipta imej. %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3434,7 +3434,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"Imej yang dijanakan oleh AI akan disimpan secara automatik ke Galeri.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {

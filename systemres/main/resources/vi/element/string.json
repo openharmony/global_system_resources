@@ -2188,7 +2188,7 @@
             "name":"canvas_operation_prompt_words",
             "value":"Đưa hai ngón tay về gần nhau hoặc xoay ngón tay để sửa vị trí hình ảnh.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2202,7 +2202,7 @@
             "name":"canvas_waiting_for_operation_prompt_words",
             "value":"Biến hình ảnh hoặc bản phác thảo thành tác phẩm nghệ thuật",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2384,7 +2384,7 @@
             "name":"oil_painting",
             "value":"Sơn dầu",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2419,7 +2419,7 @@
             "name":"prompt_input",
             "value":"Nhập nội dung mô tả",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2720,7 +2720,7 @@
             "name":"node_graph_wash_painting",
             "value":"Thủy mặc",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -2937,7 +2937,7 @@
             "name":"image_generation_ai_synthesis_label",
             "value":"Hình chìm mờ do AI tạo",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3049,7 +3049,7 @@
             "name":"image_generation_watermark_close_confirm_message",
             "value":"Hình ảnh do AI tạo mà bạn lưu sẽ không còn chứa hình chìm mờ \"Do AI tạo\" nữa.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3091,7 +3091,7 @@
             "name":"image_generation_guide_try_it_now",
             "value":"Dùng thử ngay",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3217,7 +3217,7 @@
             "name":"image_generation_general_guide_first",
             "value":"Thêm mô tả văn bản, hình ảnh hoặc hình vẽ nguệch ngoạc, sau đó chạm vào Tạo để tạo ảnh. %s",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
@@ -3476,7 +3476,7 @@
             "name":"image_generation_enable_and_auto_save_photo",
             "value":"Hình ảnh do AI tạo ra sẽ tự động được lưu vào Bộ sưu tập.",
             "attr":{
-                "priority":"translate"
+                "priority":"LT"
             }
         },
         {
