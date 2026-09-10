@@ -3555,6 +3555,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"是否放棄本次產生？",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"放棄產生後，本次消耗的積分將在 %d 小時內退還。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"放棄產生",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"輸入內容不符合規則，積分將在 %d 小時內退還",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"您的產生圖片任務尚未完成，若結束，將終止本次產生圖片處理程序，所消耗的積分將在 %d 小時內退還。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"您的產生圖片任務尚未完成，若刪除產生節點，將終止本次產生圖片處理程序，所消耗的積分將在 %d 小時內退還。",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"您的產生圖片任務尚未完成，若切換畫布，將終止本次產生圖片處理程序，所消耗的積分將在 %d 小時內退還。",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

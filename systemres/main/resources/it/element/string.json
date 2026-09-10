@@ -3548,6 +3548,55 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"image_generation_abandon_generation_title",
+            "value":"Vuoi interrompere la generazione dell'immagine?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation_content",
+            "value":"I crediti AI utilizzati verranno rimborsati entro %d ore.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_abandon_generation",
+            "value":"OK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_input_violates_platform_rules_rollback",
+            "value":"Descrizione non appropriata. Impossibile generare l'immagine. I crediti AI utilizzati verranno rimborsati entro %d ore.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
+            "value":"Questa azione terminerà l'attività corrente di generazione dell'immagine. I crediti AI utilizzati verranno rimborsati entro %d ore.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"node_graph_confirm_delete_generate_node_rollback",
+            "value":"Questa azione terminerà l'attività corrente di generazione dell'immagine. I crediti AI utilizzati verranno rimborsati entro %d ore.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_generation_switch_graph_description_rollback",
+            "value":"Questa azione terminerà l'attività corrente di generazione dell'immagine. I crediti AI utilizzati verranno rimborsati entro %d ore.",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }

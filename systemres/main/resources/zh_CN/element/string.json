@@ -4141,31 +4141,52 @@
         },
         {
             "name":"image_generation_abandon_generation_title",
-            "value":"是否放弃本次生成？"
+            "value":"是否放弃本次生成？",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_abandon_generation_content",
-            "value":"放弃生成后，本次消耗的积分将在 %d 小时内返还"
+            "value":"放弃生成后，本次消耗的积分将在 %d 小时内返还。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_abandon_generation",
-            "value":"放弃生成"
+            "value":"放弃生成",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_input_violates_platform_rules_rollback",
-            "value":"输入内容不符合规则，积分将在 %d 小时内返还"
+            "value":"输入内容不符合规则，积分将在 %d 小时内返还",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
-            "value":"您的生图任务尚未完成，退出将终止本次生图进程，消耗的积分将在 %d 小时内返还"
+            "value":"您的生图任务尚未完成，退出将终止本次生图进程，消耗的积分将在 %d 小时内返还。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"node_graph_confirm_delete_generate_node_rollback",
-            "value":"您的生图任务尚未完成，删除生成节点将终止本次生图进程，消耗的积分将在 %d 小时内返还"
+            "value":"您的生图任务尚未完成，删除生成节点将终止本次生图进程，消耗的积分将在 %d 小时内返还。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"image_generation_switch_graph_description_rollback",
-            "value":"您的生图任务尚未完成，切换画布将终止本次生图进程，消耗的积分将在 %d 小时内返还"
+            "value":"您的生图任务尚未完成，切换画布将终止本次生图进程，消耗的积分将在 %d 小时内返还。",
+            "attr":{
+                "priority":"translate"
+            }
         },
         {
             "name":"access_audio_control",
