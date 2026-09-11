@@ -2775,6 +2775,10 @@
         {
             "name":"image_generation_switch_graph_description_rollback",
             "value":"[TS_1254397]_This will end the current image generation task. AI credits used will be refunded within %d hours."
+        },
+        {
+            "name":"access_audio_control",
+            "value":"[TS_1255253]_PlayCast"
         }
     ]
 }
