@@ -3389,6 +3389,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.GET_STORAGE_VOLUME_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.STORAGE_MANAGER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
