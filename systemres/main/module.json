@@ -8993,7 +8993,8 @@
                 "since": "26.0.0",
                 "deprecated": "",
                 "provisionEnable": true,
-                "distributedSceneEnable": false
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
             },
             {
                 "name": "ohos.permission.QUERY_SPACE_OPTIMIZATION",
