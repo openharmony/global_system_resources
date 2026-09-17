@@ -40316,6 +40316,11 @@
             "type": "string",
             "name": "access_audio_control",
             "order": 7981
+        },
+        {
+            "type": "float",
+            "name": "subheader_title_margin_bottom",
+            "order": 7982
         }
     ]
 }
