@@ -10040,6 +10040,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.INSTALL_DEVELOPER_ID_BUNDLE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
