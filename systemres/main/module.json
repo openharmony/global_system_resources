@@ -9964,6 +9964,15 @@
                 "distributedSceneEnable": true
             },
             {
+                "name": "ohos.permission.REGISTER_AGENT_HOOK",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ASSESSMENT_CONFIGURATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
