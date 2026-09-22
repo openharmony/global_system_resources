@@ -10080,6 +10080,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_DSL_MODE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
