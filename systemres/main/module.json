@@ -7522,6 +7522,16 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.kernel.USB_CAPTURE",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
+            },
+            {
                 "name": "ohos.permission.kernel.NET_RAW",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
