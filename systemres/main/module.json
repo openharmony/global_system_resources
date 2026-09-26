@@ -9896,23 +9896,19 @@
 	        	"name": "ohos.permission.MANAGE_VM",
 	            "grantMode": "system_grant",
 	            "availableLevel": "system_basic",
-	            "availableType": "SYSTEM",
 	            "since": "26.0.1",
 	            "deprecated": "",
 	            "provisionEnable": true,
-	            "distributedSceneEnable": false,
-	            "deviceTypes": ["2in1", "tablet"]
+	            "distributedSceneEnable": false
         	},
          	{
 	        	"name": "ohos.permission.MANAGE_VM_EXTENDED",
 	            "grantMode": "system_grant",
 	            "availableLevel": "system_basic",
-	            "availableType": "SYSTEM",
 	            "since": "26.0.1",
 	            "deprecated": "",
 	            "provisionEnable": true,
-	            "distributedSceneEnable": false,
-	            "deviceTypes": ["2in1", "tablet"]
+	            "distributedSceneEnable": false
 	        },
             {
                 "name": "ohos.permission.CLEAR_BACKGROUND_APPS",
