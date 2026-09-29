@@ -2373,6 +2373,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ACCESS_BOARD_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.LAUNCH_DATA_PRIVACY_CENTER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -7522,6 +7531,16 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.kernel.USB_CAPTURE",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false,
+                "isKernelEffect": true
+            },
+            {
                 "name": "ohos.permission.kernel.NET_RAW",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
@@ -9882,6 +9901,24 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
+             {
+	        	"name": "ohos.permission.MANAGE_VM",
+	            "grantMode": "system_grant",
+	            "availableLevel": "system_basic",
+	            "since": "26.0.1",
+	            "deprecated": "",
+	            "provisionEnable": true,
+	            "distributedSceneEnable": false
+        	},
+         	{
+	        	"name": "ohos.permission.MANAGE_VM_EXTENDED",
+	            "grantMode": "system_grant",
+	            "availableLevel": "system_basic",
+	            "since": "26.0.1",
+	            "deprecated": "",
+	            "provisionEnable": true,
+	            "distributedSceneEnable": false
+	        },
             {
                 "name": "ohos.permission.CLEAR_BACKGROUND_APPS",
                 "grantMode": "system_grant",
@@ -9973,6 +10010,15 @@
                 "distributedSceneEnable": true
             },
             {
+                "name": "ohos.permission.REGISTER_AGENT_HOOK",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ASSESSMENT_CONFIGURATION",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -10042,6 +10088,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SYNC_ROOT_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.INSTALL_DEVELOPER_ID_BUNDLE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
@@ -10051,7 +10106,26 @@
                 "distributedSceneEnable": false
             },
             {
-                "name": "ohos.permission.SYNC_ROOT_MANAGER",
+                "name": "ohos.permission.SET_DSL_MODE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ENTERPRISE_EXTERNAL_READ",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "availableType": "MDM",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ALLOW_INSTALL_DEBUG_HAP",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": "26.0.1",
